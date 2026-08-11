@@ -1,0 +1,1069 @@
+===== PAGE 1 =====
+
+sensors
+Article
+Validation and Assessment of a Posture Measurement System
+with Magneto-Inertial Measurement Units †
+Davide Paloschi 1
+ , Marco Bravi 2
+ , Emiliano Schena 3
+ , Sandra Miccinilli 2, Michelangelo Morrone 2,
+Silvia Sterzi 2, Paola Saccomandi 1,*
+ and Carlo Massaroni 3
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Paloschi, D.; Bravi, M.;
+Schena, E.; Miccinilli, S.; Morrone, M.;
+Sterzi, S.; Saccomandi, P .; Massaroni,
+C. Validation and Assessment of a
+Posture Measurement System with
+Magneto-Inertial Measurement Units.
+Sensors 2021, 21, 6610. https://
+doi.org/10.3390/s21196610
+Academic Editor: Angelo
+Maria Sabatini
+Received: 6 September 2021
+Accepted: 30 September 2021
+Published: 3 October 2021
+Publisher’s Note:MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1 Department of Mechanical Engineering, Politecnico di Milano, 20156 Milan, Italy; davide.paloschi@polimi.it
+2 Physical Medicine and Rehabilitative Unit, Università Campus Bio-Medico di Roma, 00128 Rome, Italy;
+m.bravi@unicampus.it (M.B.); s.miccinilli@unicampus.it (S.M.); m.morrone@unicampus.it (M.M.);
+s.sterzi@unicampus.it (S.S.)
+3 Department of Engineering, Università Campus Bio-Medico di Roma, 00128 Roma, Italy;
+e.schena@unicampus.it (E.S.); c.massaroni@unicampus.it (C.M.)
+* Correspondence: paola.saccomandi@polimi.it
+† Presented at the 2021 IEEE International Workshop on Metrology for Industry 4.0 and IoT (MetroInd 2021),
+Rome, Italy (Virtual Conference), 7–9 June 2021.
+Abstract: Inappropriate posture and the presence of spinal disorders require speciﬁc monitoring
+systems. In clinical settings, posture evaluation is commonly performed with visual observation,
+electrogoniometers or motion capture systems (MoCaps). Developing a measurement system that can
+be easily used also in non-structured environments would be highly beneﬁcial for accurate posture
+monitoring. This work proposes a system based on three magneto-inertial measurement units
+(MIMU), placed on the backs of seventeen volunteers on the T3, T12 and S1 vertebrae. The reference
+system used for validation is a stereophotogrammetric motion capture system. The volunteers
+performed forward bending and sit-to-stand tests. The measured variables for identifying the
+posture were the kyphosis and the lordosis angles, as well as the range of movement (ROM) of the
+body segments. The comparison between MIMU and MoCap provided a maximum RMSE of 5.6◦
+for the kyphosis and the lordosis angles. The average lumbo-pelvic contribution during forward
+bending (41.8 ± 8.6%) and the average lumbar ROM during sit-to-stand (31.8 ± 9.8◦ for sitting down,
+29.6 ± 7.6◦ for standing up) obtained with the MIMU system agree with the literature. In conclusion,
+the MIMU system, which is wearable, inexpensive and easy to set up in non-structured environments,
+has been demonstrated to be effective in posture evaluation.
+Keywords: posture monitoring; inertial sensors; motion capture system; wearable systems; kyphosis;
+lordosis; range of movement
+1. Introduction
+The vertebral (spinal) column consists of thirty-three vertebral bony segments called
+vertebrae, divided into ﬁve regions: cervical, thoracic, lumbar, sacral and coccygeal seg-
+ments. The spinal column presents a series of curvatures within the sagittal plane, which is
+deﬁned as the plane running parallel to the sagittal suture of the skull, which divides the
+body into a left and a right section. These curvatures are either naturally convex anteriorly
+and concave posteriorly (thoracic kyphosis, sacrococcygeal kyphosis) or concave anteriorly
+and convex posteriorly (cervical lordosis, lumbar lordosis) and deﬁne the posture while
+standing [1]. An alternative deﬁnition of posture is the carriage and position of limbs or the
+body as a whole, indicating a certain feeling, pose, attitude or quality [2]. Improper pos-
+ture can cause spinal deformations and can cause several complications during everyday
+life, such as lower back pain (LBP) and a reduction in kinematic capabilities [3]. Among
+the possible spinal deformations, scoliosis and hyperkyphosis are the most common in
+Sensors 2021, 21, 6610. https://doi.org/10.3390/s21196610 https://www.mdpi.com/journal/sensors
+
+===== PAGE 2 =====
+
+Sensors 2021, 21, 6610 2 of 18
+the thoracic region, whereas an abnormal increase in lumbar lordosis tends to generate
+excessive compression loads on the posterior elements of the spine [1].
+To estimate the quality of a person’s posture, several approaches have been developed
+to monitor the thoracic kyphosis and the lumbar lordosis angles or the ranges of motion
+of the spinal regions. In clinical practice, visual observation is still largely adopted for
+assessing the condition of the patient [4,5] and is often enhanced by radiography tests that
+accurately present the shape of the spine [6]. The magnitude of spinal deformities can be
+derived from the radiography images with techniques such as the Cobb angle [7,8]. The
+Cobb angle identiﬁes scoliosis in the frontal plane and measures kyphosis and lordosis
+in the sagittal plane. This method is highly reliable, but due to the X-ray dose delivered
+to the patient, other solutions, when available, should be preferred to radiography. From
+an external perspective, the spine’s health can be inferred by measuring the shape of the
+patient’s back. Typical methods include goniometers (both manual and electrical) and
+more hi-tech systems based on vision analysis. Electrical goniometers (electrogoniometers)
+measure angular rotations between the rigid extremities [9–11]. While these measurement
+systems are generally available and cost-effective, the main drawbacks are related to the
+difﬁculty of properly securing them to the body, the encumbrance of the device and the
+measurements limited to a single plane [9].
+For these reasons, alternative measurement tools, such as those based on video (i.e.,
+stereophotogrammetric motion capture systems such as MoCaps), have been largely used
+for posture monitoring in clinical settings. MoCaps can be used to record and analyze
+the motion of the body segments of a person: a set of calibrated infrared cameras tracks
+the spatial position of reﬂective markers that are positioned on speciﬁc body landmarks
+of the patient, and the data can be analyzed to derive relevant information [ 12]. Thus,
+MoCap systems are practical for monitoring dynamic activities. Moreover, they hold the
+beneﬁt that several points of interest, deﬁned through the passive markers, are located in
+sequential images and are then converted into real-space coordinates and used to infer
+the three-dimensional pose of the underlying body segments [13]. The main limitations of
+the MoCap system are related to the need to perform the measurements in a laboratory,
+where the cameras are calibrated, and to the need for dedicated personnel to post-process
+a massive amount of data [ 14]. Moreover, with the increase in the number of markers
+to be used, the time required to position them on the subject and post-process the data
+becomes large.
+To guarantee the comfortable and long-term usability of the measurement system
+in the speciﬁc application, even without constant clinical supervision, a requirement of
+paramount importance is the wearability. For example, the control of posture in young
+athletes with LBP requires periodic assessments and monitoring for the rehabilitation
+process. This treatment can last for long periods of time; thus, the patients tend to resume
+an improper posture after a certain amount of time [ 15]. The examination is typically
+performed through static (e.g., by assessing deviations in the location of the center of
+pressure) and dynamic (e.g., by completing a movement task) evaluations [16]. Among the
+dynamic tests, forward bending [17,18] and sit-to-stand [19] are largely used to determine
+the health of the person’s spinal column. In this scenario, wearable devices for continuous
+posture monitoring and analysis can provide a quantitative measure of posture during
+everyday activities [20]. Inertial measurement units (IMU) are suitable for being embedded
+in smart garments and worn for long periods of time. They can combine the raw data and
+estimate their roll and pitch angle in space. IMU sensors with an embedded magnetometer
+are called MIMUs and can reliably measure also the yaw angle. The adoption of IMU and
+MIMU sensors is steadily growing also in the commercial ﬁeld [21,22].
+Other existing works propose the use of wearable inertial sensors for collecting postu-
+ral information, starting from the analyses of trunk orientation and rotation during static
+and dynamic conditions [23,24]. With a similar rationale, inertial sensors are used in [25,26]
+to measure lumbar lordosis both in healthy subjects and in patients affected by LBP . These
+sensors are also very suitable for designing portable systems for healthcare applications,
+
+===== PAGE 3 =====
+
+Sensors 2021, 21, 6610 3 of 18
+as proven by their long-standing use in biomechanical analyses [21]. A preliminary study
+on the feasibility of using MIMU sensors to measure the velocity proﬁle of the seventh
+cervical vertebra (C7) is presented in [27].
+The aim of this study is to develop an MIMU-based measurement system for both
+static and dynamic conditions for the measurement of the thoracic kyphosis and lumbar
+lordosis and to gain some preliminary insights into its capability to detect improper posture.
+The system is validated against a gold-standard instrument (i.e., a MoCap). Three MIMU
+sensors are placed on the bare backs of the volunteers in correspondence to the third
+thoracic vertebra (T3), the twelfth thoracic vertebra (T12) and the ﬁrst sacral vertebra (S1),
+respectively. Reﬂective markers are placed on ten vertebrae, from the seventh cervical (C7)
+to the second sacral (S2), and their position in space is recorded with the MoCap system.
+The thoracic kyphosis and lumbar lordosis are calculated from the data of the motion
+capture system with the method presented in [ 28], whereas, for the MIMU sensors, the
+difference in slope between T3 and T12 (thoracic kyphosis) and the one between T12 and
+S1 (lumbar lordosis) is calculated. After the validation, the data from the inertial system
+are evaluated and analyzed from a clinical perspective.
+2. Materials and Methods
+Two measurement systems were used synchronously for assessing posture. The
+former is based on MIMUs, as previously mentioned, whereas the latter is a MoCap system.
+The MoCap system, which is largely used for non-invasive assessments [28–30], is validated
+only in static conditions for the calculation of the kyphosis and lordosis angles against CT
+images [31,32]. The MoCap system will therefore be used as a reference system for the
+validation of the MIMU system in static conditions. Subsequently, the MIMU system will
+be used for assessing the quality of the posture of the volunteers. The main characteristics
+of the systems are now presented.
+2.1. Magneto-Inertial Measurement Units (MIMUs)
+MIMUs are electronic boards containing a tri-axial accelerometer, gyroscope and
+magnetometer. These three units can independently measure inclination and rotations
+but are affected by limitations when used alone [ 33]. Regarding angle computations,
+accelerometers are reliable in quasi-static conditions, whereas gyroscopes are reliable in
+dynamic conditions. Lastly, magnetometers are biased by magnetic ﬁelds other than that
+of the Earth and disturbances in the surroundings. For these reasons, the data from these
+sensors are combined with sensor fusion techniques so that the information becomes
+accurate and reliable. The sensor fusion output can be either Euler angles (roll, pitch, yaw)
+or quaternions. Both representations are commonly used for expressing the orientation of
+a body or a frame in the three-dimensional space [33].
+The speciﬁc MIMU used in the experimental trials is the MetaMotionR (MBIENTLAB
+INC, San Francisco, California, USA) [34]. MetaMotionR is an MIMU board with a lithium
+polymer (Li-Po) battery, a micro-controller for onboard elaborations and Bluetooth Low
+Energy (BLE) communication capabilities. The raw data from the accelerometer, gyroscope
+and magnetometer are transformed into quaternions by the onboard sensor fusion at a
+frequency of 100 Hz. The producer of the board reports an expected accuracy of <1◦ Root
+Mean Square (RMS) for the output of sensor fusion. The sensor is shown in Figure 1, where
+it is presented both with and without the protective case.
+
+===== PAGE 4 =====
+
+Sensors 2021, 21, 6610 4 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 4 of 18 
+ 
+ 
+ 
+Figure 1. MetaMotionR. Encapsulated unit on the left with reference frame and dimensions in mm. Board and Li-Po 
+battery on the right. 
+A quaternion is an angle representation given by the four components (w x y z). The 
+orientation of a body is provided by a rotation (w) around an axis with components (x y 
+z). Compared to Euler angles, the quaternions are numerically more stable and avoid the 
+problem of gimbal lock. The gimbal lock is the loss of a degree of freedom (DoF) that 
+occurs when using Euler angles to represent orientations, making them impractical in 
+some applications [35]. 
+The devices used in this study communicate with a computer via BLE and stream 
+data continuously at a frequency of 100 Hz. Al ternatively, the raw data can be stored in 
+the internal memory of the sensors and downloaded later. The software used for the 
+communication is MetaBase (MBIENTLAB IN C, San Francisco, California, USA). The 
+a n a l y s i s  o f  t h e  M I M U  d a t a  i s  p e r f o r m e d  after the data collection in the MATLAB 
+environment and will be presented in Section 2.4. 
+2.2. Stereophotogrammetric Motion Capture System (MoCap) 
+Stereophotogrammetric MoCaps are instrume nts used in the field of biomechanics 
+in a range of configurations and applications [36]. A MoCap typically consists of two or 
+more cameras with infrared emitters that are ab le to track the trajectories of a number of 
+photoreflective (active or pass ive) markers that are placed on a generic moving object 
+[36,37]. When a marker is recorded from the cameras, the tridimensional trajectory can be 
+retrieved from the planar camera frame with a resolution of more than 0.5 mm [12]. In 
+clinical practice, MoCaps are used to investigate several aspects related to gait and posture 
+[38–40], to indirectly estimate physiological parameters (e.g., breathing volumes [41,42]) 
+from the 3D chest wall movements and to assess complex shape changes in various 
+application scenarios [43,44]. 
+Focusing on the posture analysis setup, cameras must be adequately installed in the 
+dedicated room to surround the human body and be able to detect all the markers placed 
+on body landmarks. 
+In our study, we used an eight-camera  MoCap system (BTS D-Smart, by BTS 
+Bioengineering S.r.l., Milan, Italy) and te n spherical photoreflective markers with a 
+diameter of 12 mm (Figure 2). The raw 3D markers’ trajectories were recorded with BTS 
+Tracker software (by BTS Bioengineering S.r.l., Milan, Italy) at a sampling rate of 60 Hz. 
+Figure 1. MetaMotionR. Encapsulated unit on the left with reference frame and dimensions in mm.
+Board and Li-Po battery on the right.
+A quaternion is an angle representation given by the four components (w x y z). The
+orientation of a body is provided by a rotation (w) around an axis with components (x
+y z). Compared to Euler angles, the quaternions are numerically more stable and avoid
+the problem of gimbal lock. The gimbal lock is the loss of a degree of freedom (DoF) that
+occurs when using Euler angles to represent orientations, making them impractical in some
+applications [35].
+The devices used in this study communicate with a computer via BLE and stream
+data continuously at a frequency of 100 Hz. Alternatively, the raw data can be stored in the
+internal memory of the sensors and downloaded later. The software used for the communi-
+cation is MetaBase (MBIENTLAB INC, San Francisco, California, USA). The analysis of the
+MIMU data is performed after the data collection in the MATLAB environment and will be
+presented in Section 2.4.
+2.2. Stereophotogrammetric Motion Capture System (MoCap)
+Stereophotogrammetric MoCaps are instruments used in the ﬁeld of biomechanics in
+a range of conﬁgurations and applications [ 36]. A MoCap typically consists of two or more
+cameras with infrared emitters that are able to track the trajectories of a number of pho-
+toreﬂective (active or passive) markers that are placed on a generic moving object [36,37].
+When a marker is recorded from the cameras, the tridimensional trajectory can be retrieved
+from the planar camera frame with a resolution of more than 0.5 mm [ 12]. In clinical
+practice, MoCaps are used to investigate several aspects related to gait and posture [38–40],
+to indirectly estimate physiological parameters (e.g., breathing volumes [41,42]) from the
+3D chest wall movements and to assess complex shape changes in various application
+scenarios [43,44].
+Focusing on the posture analysis setup, cameras must be adequately installed in the
+dedicated room to surround the human body and be able to detect all the markers placed
+on body landmarks.
+In our study, we used an eight-camera MoCap system (BTS D-Smart, by BTS Bioengi-
+neering S.r.l., Milan, Italy) and ten spherical photoreﬂective markers with a diameter of 12
+mm (Figure 2). The raw 3D markers’ trajectories were recorded with BTS Tracker software
+(by BTS Bioengineering S.r.l., Milan, Italy) at a sampling rate of 60 Hz.
+
+===== PAGE 5 =====
+
+Sensors 2021, 21, 6610 5 of 18
+2.3. Patient Enrolment and Sensor Placement
+Seventeen volunteers (seven women and ten men, age 35± 10 years, height 171± 9 cm,
+body mass 71 ± 13 kg) were enrolled in the study. All the tests were carried out in
+compliance with the ethical approval (09/19 OSS ComEt Università Campus Bio-Medico di
+Roma UCBM), and, prior to the tests, all the participants provided their informed consent.
+One experienced physiotherapist (M.B.) placed the MIMU sensors and the markers on the
+backs of the volunteers.
+Sensors 2021, 21, x FOR PEER REVIEW 5 of 18 
+ 
+ 
+ 
+Figure 2. MoCap hardware setup. Infrared cameras are calibrated to track the markers’ trajectories 
+in the dedicated volume. Reflective markers are applied to the back of the volunteer. 
+2.3. Patient Enrolment and Sensor Placement 
+Seventeen volunteers (seven women and ten me n, age 35 ± 10 years, height 171 ± 9 
+cm, body mass 71 ± 13 kg) were enrolled in the study. All the tests were carried out in 
+compliance with the ethical approval (09/19 OSS ComEt Università Campus Bio-Medico 
+di Roma UCBM), and, prior to the tests, al l the participants provided their informed 
+consent. One experienced physiotherapist (M.B.) placed the MIMU sensors and the 
+markers on the backs of the volunteers. 
+To establish the number and the position of the sensors and markers on the spine for 
+back posture monitoring, we followed the indications of previous related studies 
+[23,28,29,45], where the local geometry of portions of the backs of the subjects are used for 
+inferring the magnitude of kyphosis and/or lordosis. With a similar rationale to the studies 
+mentioned above, and with the knowledge acquired in the previous work of our group 
+on posture monitoring [27], the positions of three MIMU sensors along the spine were 
+chosen to be T3, T12 and S1. The locations of the ten reflective markers for the MoCap 
+system were selected as C7, T2, T4, T5, T6, T8, L1, L3, L5, S2. 
+The locations of the MIMU sensors and Mo Cap markers on the back of one of the 
+volunteers are shown in Figure 3a. Regard ing the measurement performed with the 
+MIMU sensors, the kyphosis and lordosis angl es are evaluated as the difference in the 
+angle between T3 and T12 (kyphosis angle) and between T12 and S1 (lordosis angle), as 
+shown in Figure 3b. The kyphosis and lordosis angles can be identified with the MoCap 
+system in static conditions [28] by interpolating the positions of the markers with a 5
+th 
+order polynomial and then finding the convexity changes in its gradient. Details of the 
+calculation of the angles and data analysis are provided in the next section. 
+Figure 2. MoCap hardware setup. Infrared cameras are calibrated to track the markers’ trajectories
+in the dedicated volume. Reﬂective markers are applied to the back of the volunteer.
+To establish the number and the position of the sensors and markers on the spine for
+back posture monitoring, we followed the indications of previous related
+studies [23,28,29,45], where the local geometry of portions of the backs of the subjects
+are used for inferring the magnitude of kyphosis and/or lordosis. With a similar rationale
+to the studies mentioned above, and with the knowledge acquired in the previous work of
+our group on posture monitoring [27], the positions of three MIMU sensors along the spine
+were chosen to be T3, T12 and S1. The locations of the ten reﬂective markers for the MoCap
+system were selected as C7, T2, T4, T5, T6, T8, L1, L3, L5, S2.
+The locations of the MIMU sensors and MoCap markers on the back of one of the
+volunteers are shown in Figure 3a. Regarding the measurement performed with the
+MIMU sensors, the kyphosis and lordosis angles are evaluated as the difference in the
+angle between T3 and T12 (kyphosis angle) and between T12 and S1 (lordosis angle), as
+shown in Figure 3b. The kyphosis and lordosis angles can be identiﬁed with the MoCap
+system in static conditions [ 28] by interpolating the positions of the markers with a 5 th
+order polynomial and then ﬁnding the convexity changes in its gradient. Details of the
+calculation of the angles and data analysis are provided in the next section.
+
+===== PAGE 6 =====
+
+Sensors 2021, 21, 6610 6 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 6 of 18 
+ 
+ 
+  
+(a) ( b) 
+Figure 3. Experimental setup. (a) MIMU locations are indicated in blue, MoCap markers in red; (b) 
+Scheme of kyphosis and lordosis. The angles calculated in the sagittal plane with the MIMU 
+sensors at T3, T12 and S1 are indicated by dashed lines. 
+2.4. Calculation of Kyphosis and Lordosis Angles 
+The measurement of the kyphosis and lord osis angles was performed with both 
+MIMU and MoCap systems, following two different procedures, as described hereafter. 
+The quaternion (w x y z) acquired from the MIMU sensor can be used in the following 
+equation to retrieve the associated rotation matrix: 
+𝑅=቎
+1−2 𝑦 ଶ −2 𝑧ଶ 2ሺ𝑥𝑦 − 𝑧𝑤ሻ 2ሺ𝑥𝑧 + 𝑦𝑤ሻ
+2ሺ𝑥𝑦 + 𝑧𝑤ሻ 1−2 𝑥 ଶ −2 𝑧ଶ 2ሺ𝑦𝑧 − 𝑥𝑤ሻ
+2ሺ𝑥𝑧 − 𝑦𝑤ሻ 2ሺ𝑦𝑧 + 𝑥𝑤ሻ 1−2 𝑥 ଶ −2 𝑦ଶ
+቏, (1) 
+where w, x, y and z are the components of the quaternion and R is the associated rotation 
+matrix. The rotation matrix has unitary norm, and each column describes the components 
+of the three axes of a frame (x’, y’, z’). Th e angle between the vertical axis z’ and the 
+reference axis [0 0 1]’ is the pitch angle and was used to evaluate the change in posture of 
+the subjects. The kyphosis and lordosis angles assessed with MIMU sensors were 
+calculated as the difference in the pitch angle between the sensor in T3 and the one in T12 
+(kyphosis angle), and between the sensor in T12 and the one in S1 (lordosis angle). 
+The data acquired from the MoCap system were three-dimensional coordinates 
+(expressed in mm). The space dimension was reduced to the plane in which the movement 
+occurred, so lateral bending was ignored. The decision regarding which plane was to be 
+considered for the analysis depended on the nature of the exercise itself. The coordinates 
+of the reflective markers were used to calculate a polynomial that described the shape of 
+the back of the subject. As proposed by Ranavolo and colleagues [28], the minimum order 
+that is greater than four (to obtain two convexity changes) and that achieves an R
+2 greater 
+than 0.99 when compared to full-spine digitized radiographs in the reconstruction of the 
+Figure 3. Experimental setup. (a) MIMU locations are indicated in blue, MoCap markers in red; (b)
+Scheme of kyphosis and lordosis. The angles calculated in the sagittal plane with the MIMU sensors
+at T3, T12 and S1 are indicated by dashed lines.
+2.4. Calculation of Kyphosis and Lordosis Angles
+The measurement of the kyphosis and lordosis angles was performed with both MIMU
+and MoCap systems, following two different procedures, as described hereafter.
+The quaternion (w x y z ) acquired from the MIMU sensor can be used in the following
+equation to retrieve the associated rotation matrix:
+R =
+
+
+1 − 2y2 − 2z2 2(xy − zw) 2(xz + yw)
+2(xy + zw) 1 − 2x2 − 2z2 2(yz − xw)
+2(xz − yw) 2(yz + xw) 1 − 2x2 − 2y2
+
+, (1)
+where w, x, y and z are the components of the quaternion and R is the associated rotation
+matrix. The rotation matrix has unitary norm, and each column describes the components
+of the three axes of a frame ( x’, y’, z’). The angle between the vertical axis z’ and the
+reference axis [0 0 1]’ is the pitch angle and was used to evaluate the change in posture of
+the subjects. The kyphosis and lordosis angles assessed with MIMU sensors were calculated
+as the difference in the pitch angle between the sensor in T3 and the one in T12 (kyphosis
+angle), and between the sensor in T12 and the one in S1 (lordosis angle).
+The data acquired from the MoCap system were three-dimensional coordinates (ex-
+pressed in mm). The space dimension was reduced to the plane in which the movement
+occurred, so lateral bending was ignored. The decision regarding which plane was to be
+considered for the analysis depended on the nature of the exercise itself. The coordinates
+of the reﬂective markers were used to calculate a polynomial that described the shape of
+the back of the subject. As proposed by Ranavolo and colleagues [28], the minimum order
+that is greater than four (to obtain two convexity changes) and that achieves an R2 greater
+
+===== PAGE 7 =====
+
+Sensors 2021, 21, 6610 7 of 18
+than 0.99 when compared to full-spine digitized radiographs in the reconstruction of the
+anatomical spinal curve in the sagittal plane is ﬁve. In this regard, we chose a 5 th order
+polynomial to represent the back shape of the subjects involved in our study. The polyno-
+mial was discretized on 100 points from S2 to C7, to obtain a smooth function describing
+the shape of the back of each volunteer (Figure 4a). The gradient of the curve was then
+derived and inspected for the changes in convexity. Ideally, the changes in convexity were
+three, located in the sacral, thoracic and cervical regions, respectively. The angle calculated
+with this method is shown in Figure 4b.
+Sensors 2021, 21, x FOR PEER REVIEW 7 of 18 
+ 
+ 
+anatomical spinal curve in the sagittal plane is five. In this regard, we chose a 5 th order 
+polynomial to represent the back shape of the subjects involved in our study. The 
+polynomial was discretized on 100 points from S2 to C7, to obtain a smooth function 
+describing the shape of the back of each volunteer (Figure 4a). The gradient of the curve 
+was then derived and inspected for the changes in convexity. Ideally, the changes in 
+convexity were three, located in the sacral, thoracic and cervical regions, respectively. The 
+angle calculated with this method is shown in Figure 4b. 
+  
+(a) ( b) 
+Figure 4. MoCap polynomial method. (a) Discretization of the spine from the first marker (S2) to the last marker (C7) and 
+reference triplet XYZ; (b) Local angle at each discrete point. The horizontal axis represents the discrete locations between 
+the first marker on S2 and the last one on C7. The vertical axis represents the local slope in degrees of the considered 
+location. 
+The difference in slope between the cervical and the thoracic regions is the kyphosis 
+angle, whereas the difference between the thoracic and sacral region is the lordosis angle 
+(Figure 4b). 
+2.5. Experimental Protocol and Data Analysis 
+Each volunteer was asked to perform a forward bending and a sit-to-stand trial, two 
+times each. Within a single exercise, the task was repeated ten times. 
+To validate the MIMU-based measuring system, the thoracic kyphosis and the 
+lumbar lordosis parameters were compared between the MIMUs and the MoCap system. 
+The comparison between the MIMU and the MoCap angles was carried out at every static 
+phase of the exercises during which the subject was standing still and had not yet started 
+the next repetition. The comparison between the two systems in the stationary phase was 
+performed since the MoCap system is validated for this calculation only in static 
+conditions [28], so it is calculated every ti me the subject returns to an upright standing 
+position. The root mean square errors (RMSE), the average values and the standard 
+d e v i a t i o n s  w e r e  t h e n  c a l c u l a t e d  f o r  e a c h  v olunteer and for each exercise (i.e., forward 
+bending and sit-to-stand). The RMSE was calculated as follows: 
+𝑅𝑀𝑆𝐸 =
+ට
+ଵ
+௡ ∑ ൫𝜗ெூெ௎,௜ −𝜗 ெ௢஼௔௣,௜൯ଽ
+௜ୀଵ , (2) 
+where 𝜗௜ is the i-th measurement of either the kyphosis or lordosis angle performed by 
+the MIMU or the MoCap system for nine repetitions during the forward bending and sit-
+to-stand tests, excluding the tenth. The last repetition was excluded because the candidate 
+assumed a different position when the task  was over, and he/she could relax, thus 
+Figure 4. MoCap polynomial method. (a) Discretization of the spine from the ﬁrst marker (S2) to the last marker (C7) and
+reference triplet XYZ; (b) Local angle at each discrete point. The horizontal axis represents the discrete locations between the
+ﬁrst marker on S2 and the last one on C7. The vertical axis represents the local slope in degrees of the considered location.
+The difference in slope between the cervical and the thoracic regions is the kyphosis
+angle, whereas the difference between the thoracic and sacral region is the lordosis angle
+(Figure 4b).
+2.5. Experimental Protocol and Data Analysis
+Each volunteer was asked to perform a forward bending and a sit-to-stand trial, two
+times each. Within a single exercise, the task was repeated ten times.
+To validate the MIMU-based measuring system, the thoracic kyphosis and the lumbar
+lordosis parameters were compared between the MIMUs and the MoCap system. The
+comparison between the MIMU and the MoCap angles was carried out at every static phase
+of the exercises during which the subject was standing still and had not yet started the next
+repetition. The comparison between the two systems in the stationary phase was performed
+since the MoCap system is validated for this calculation only in static conditions [28], so it
+is calculated every time the subject returns to an upright standing position. The root mean
+square errors (RMSE), the average values and the standard deviations were then calculated
+for each volunteer and for each exercise (i.e., forward bending and sit-to-stand). The RMSE
+was calculated as follows:
+RMSE =
+vuu√ 1
+n
+9
+∑
+i=1
+(
+ϑMI MU,i − ϑMoCap ,i
+)
+, (2)
+where ϑi is the i-th measurement of either the kyphosis or lordosis angle performed by
+the MIMU or the MoCap system for nine repetitions during the forward bending and
+sit-to-stand tests, excluding the tenth. The last repetition was excluded because the candi-
+date assumed a different position when the task was over, and he/she could relax, thus
+
+===== PAGE 8 =====
+
+Sensors 2021, 21, 6610 8 of 18
+increasing the dispersion of the kyphosis and lordosis values. After this validation study,
+the MIMU data were analyzed to retrieve the range of movement (ROM) of the forward
+bending and sit-to-stand exercises. The ROM is a lumbo-pelvic kinematic characteristic
+and one of the basic components of the physical examination of people with LBP [3]. The
+ROM was calculated as the angle difference that every sensor measured from the starting
+upright position to the most bent position. To consider only the contribution of each
+location, the angles measured by sensors in the lower position were subtracted from the
+ones in the upper locations. In particular, the ROM of T3 was the absolute measure of
+T3 minus the absolute measure of T12, and the ROM of T12 was the absolute measure of
+T12 minus the absolute measure of S1. The absolute displacement of S1 coincided with its
+ROM. During the forward bending test, the percentual ratio of S1 on T12 (called lumbo-
+pelvic rhythm) was analyzed and compared to a similar study [46]. The ROM during the
+sit-to-stand exercise was evaluated both during the sitting down phase and during the
+standing up phase.
+3. Results
+3.1. Comparison of the Two Measurement Systems
+An exemplary time evolution of the angles in T3, T12 and S1 measured with the MIMU
+system is shown in Figure 5 for the forward bending and the sit-to-stand exercises recorded
+from one volunteer.
+Sensors 2021, 21, x FOR PEER REVIEW 8 of 18 
+ 
+ 
+increasing the dispersion of the kyphosis and lordosis values. After this validation study, 
+the MIMU data were analyzed to retrieve the range of movement (ROM) of the forward 
+bending and sit-to-stand exercises. The ROM is a lumbo-pelvic kinematic characteristic 
+and one of the basic components of the physical examination of people with LBP [3]. The 
+ROM was calculated as the angle difference that every sensor measured from the starting 
+upright position to the most bent position. To consider only the contribution of each 
+location, the angles measured by sensors in the lower position were subtracted from the 
+ones in the upper locations. In particular, the ROM of T3 was the absolute measure of T3 
+minus the absolute measure of T12, and the ROM of T12 was the absolute measure of T12 
+minus the absolute measure of S1. The absolute displacement of S1 coincided with its 
+ROM. During the forward bending test, the percentual ratio of S1 on T12 (called lumbo-
+pelvic rhythm) was analyzed and compared to a similar study [46]. The ROM during the 
+sit-to-stand exercise was evaluated both du ring the sitting down phase and during the 
+standing up phase. 
+3. Results 
+3.1. Comparison of the Two Measurement Systems 
+An exemplary time evolution of the angles  in T3, T12 and S1 measured with the 
+MIMU system is shown in Figure 5 for the forward bending and the sit-to-stand exercises 
+recorded from one volunteer. 
+  
+(a) ( b) 
+Figure 5. Inclination from the vertical measured  b y  M I M U s .  T h e  a n g l e s  o b t a i n e d  f r o m  e a c h  s e n s o r  a r e  p o s i t i v e  f o r  a  
+forward inclination and negative for a backward inclination. (a) Angles during forward bending; (b) Angles during sit-to-
+stand. 
+The output of the MoCap system were the three-dimensional coordinates of every 
+reflective marker, relative to the position of the calibration frame. The data for one subject 
+are shown in Figure 6 for the forward bending and the sit-to-stand exercises, where the 
+lateral movement along the X axis is negligible compared to the sagittal movement in the 
+Y–Z plane. 
+Figure 5. Inclination from the vertical measured by MIMUs. The angles obtained from each sensor are positive for a forward
+inclination and negative for a backward inclination. (a) Angles during forward bending; (b) Angles during sit-to-stand.
+The output of the MoCap system were the three-dimensional coordinates of every
+reﬂective marker, relative to the position of the calibration frame. The data for one subject
+are shown in Figure 6 for the forward bending and the sit-to-stand exercises, where the
+lateral movement along the X axis is negligible compared to the sagittal movement in the
+Y–Z plane.
+
+===== PAGE 9 =====
+
+Sensors 2021, 21, 6610 9 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 9 of 18 
+ 
+ 
+  
+(a) ( b) 
+  
+(c) ( d) 
+Figure 6. MoCap data. The position of every marker is shown in the sagittal plane, defined by the Y and Z axes of the 
+calibration frame. ( a) Coordinates in the Y axis during forward bending; ( b) Coordinates in the Z axis during forward 
+bending; (c) Coordinates in the Y axis during sit-to-stand; (d) Coordinates in the Z axis during sit-to-stand. 
+From the results of Figure 6, the kyphosis and lordosis angles were calculated with 
+the polynomial method (Section 2.4) only when the volunteer was standing still between 
+the repetitions. For the forward bending, this static position corresponds to the plateaus 
+of the markers C7-T8 in Figure 6b. For the si t-to-stand, this condition corresponds to the 
+plateaus of the markers C7-T8 in Figure 6d. 
+Conversely, the MIMU sensors could measure the time evolutions of the thoracic 
+kyphosis and lumbar lordosis as the difference between the values of T3-T12 and S1-T12, 
+respectively. These results are shown in Figure 7. 
+Figure 6. MoCap data. The position of every marker is shown in the sagittal plane, deﬁned by the Y and Z axes of the
+calibration frame. ( a) Coordinates in the Y axis during forward bending; ( b) Coordinates in the Z axis during forward
+bending; (c) Coordinates in the Y axis during sit-to-stand; (d) Coordinates in the Z axis during sit-to-stand.
+From the results of Figure 6, the kyphosis and lordosis angles were calculated with
+the polynomial method (Section 2.4) only when the volunteer was standing still between
+the repetitions. For the forward bending, this static position corresponds to the plateaus
+of the markers C7-T8 in Figure 6b. For the sit-to-stand, this condition corresponds to the
+plateaus of the markers C7-T8 in Figure 6d.
+Conversely, the MIMU sensors could measure the time evolutions of the thoracic
+kyphosis and lumbar lordosis as the difference between the values of T3-T12 and S1-T12,
+respectively. These results are shown in Figure 7.
+The thoracic kyphosis and lumbar lordosis were calculated from the MoCap data
+with the polynomial method presented in Section 2.4. The results for the average kyphosis
+and lordosis values for each volunteer and for each exercise (i.e., forward bending and
+sit-to-stand), obtained with the MIMU and the MoCap systems, are presented in Figure 8.
+
+===== PAGE 10 =====
+
+Sensors 2021, 21, 6610 10 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 10 of 18 
+ 
+ 
+  
+(a) ( b) 
+  
+(c) ( d) 
+Figure 7. Thoracic kyphosis and lumbar lordosis. The difference in  amplitude between the MIMU sensors represents the 
+thoracic kyphosis (T3-T12) and lumbar lordosis (S1-T12). ( a) Kyphosis angle during forward bending; (b) Lordosis angle 
+during forward bending; (c) Kyphosis angle during sit-to-stand; (d) Lordosis angle during sit-to-stand. 
+The thoracic kyphosis and lumbar lordosis were calculated from the MoCap data 
+with the polynomial method presented in Section 2.4. The results for the average kyphosis 
+and lordosis values for each volunteer and for each exercise (i.e., forward bending and sit-
+to-stand), obtained with the MIMU and the MoCap systems, are presented in Figure 8.  
+  
+(a) ( b) 
+Figure 7. Thoracic kyphosis and lumbar lordosis. The difference in amplitude between the MIMU sensors represents the
+thoracic kyphosis (T3-T12) and lumbar lordosis (S1-T12). (a) Kyphosis angle during forward bending; (b) Lordosis angle
+during forward bending; (c) Kyphosis angle during sit-to-stand; (d) Lordosis angle during sit-to-stand.
+Sensors 2021, 21, x FOR PEER REVIEW 10 of 18 
+ 
+ 
+  
+(a) ( b) 
+  
+(c) ( d) 
+Figure 7. Thoracic kyphosis and lumbar lordosis. The difference in  amplitude between the MIMU sensors represents the 
+thoracic kyphosis (T3-T12) and lumbar lordosis (S1-T12). ( a) Kyphosis angle during forward bending; (b) Lordosis angle 
+during forward bending; (c) Kyphosis angle during sit-to-stand; (d) Lordosis angle during sit-to-stand. 
+The thoracic kyphosis and lumbar lordosis were calculated from the MoCap data 
+with the polynomial method presented in Section 2.4. The results for the average kyphosis 
+and lordosis values for each volunteer and for each exercise (i.e., forward bending and sit-
+to-stand), obtained with the MIMU and the MoCap systems, are presented in Figure 8.  
+  
+(a) ( b) 
+Figure 8. Cont.
+
+===== PAGE 11 =====
+
+Sensors 2021, 21, 6610 11 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 11 of 18 
+ 
+ 
+  
+(c) ( d) 
+Figure 8. Comparison of the measurement syst ems. The average MIMU angle is re ported in blue, the average MoCap 
+angle is reported in red. (a) Kyphosis during forward bending; (b) Lordosis during forward bending; (c) Kyphosis during 
+sit-to-stand; (d) Lordosis during sit-to-stand. 
+The RMSE, the mean difference (calculated as  the average of the differences in the 
+mean values of the two measurement systems,  across the 17 volunteers) and standard 
+deviation of the difference between the MIMU and the MoCap systems are reported in 
+Table 1. 
+Table 1. RMSE, mean difference and standard deviation in the calculation of kyphosis and lordosis 
+(MIMU and MoCap). 
+Dataset RMSE (°) Mean  
+Difference (°) 
+Standard  
+Deviation (°) 
+Kyphosis—forward bending 5.0 −3.6 4.9 
+Lordosis—forward bending 5.0 −1.4 5.5 
+Kyphosis—sit-to-stand 3.0 −1.3 2.8 
+Lordosis—sit-to-stand 5.6 1.9 5.4 
+Bland–Altman analysis was performed for the statistical investigation of the 
+agreement between the two measuring systems. The test considers the difference between 
+the values measured by each system an d plots them against the average of the 
+measurements of both systems. The two parameters that were considered in the Bland–
+Altman analysis were the limits of agreemen t (LoA) and the mean of differences (MoD). 
+The LoA represents the agreement interval, within which 95% of the differences in the 
+data measured with the MIMU system, comp ared to the MoCap system, fall. The LoA 
+were calculated as MoD ± 1.96 SD, where SD is the standard deviation of the differences. 
+The results for the Bland–Altman tests obtained for the mean values of the kyphosis and 
+lordosis of the 17 volunteers (shown in Figure 8) are shown in Figure 9. 
+Figure 8. Comparison of the measurement systems. The average MIMU angle is reported in blue, the average MoCap
+angle is reported in red. (a) Kyphosis during forward bending; (b) Lordosis during forward bending; (c) Kyphosis during
+sit-to-stand; (d) Lordosis during sit-to-stand.
+The RMSE, the mean difference (calculated as the average of the differences in the
+mean values of the two measurement systems, across the 17 volunteers) and standard
+deviation of the difference between the MIMU and the MoCap systems are reported in
+Table 1.
+Table 1. RMSE, mean difference and standard deviation in the calculation of kyphosis and lordosis
+(MIMU and MoCap).
+Dataset RMSE ( ◦) Mean
+Difference (◦)
+Standard
+Deviation (◦)
+Kyphosis—forward bending 5.0 −3.6 4.9
+Lordosis—forward bending 5.0 −1.4 5.5
+Kyphosis—sit-to-stand 3.0 −1.3 2.8
+Lordosis—sit-to-stand 5.6 1.9 5.4
+Bland–Altman analysis was performed for the statistical investigation of the agreement
+between the two measuring systems. The test considers the difference between the values
+measured by each system and plots them against the average of the measurements of both
+systems. The two parameters that were considered in the Bland–Altman analysis were
+the limits of agreement (LoA) and the mean of differences (MoD). The LoA represents
+the agreement interval, within which 95% of the differences in the data measured with
+the MIMU system, compared to the MoCap system, fall. The LoA were calculated as
+MoD ± 1.96 SD, where SD is the standard deviation of the differences. The results for the
+Bland–Altman tests obtained for the mean values of the kyphosis and lordosis of the 17
+volunteers (shown in Figure 8) are shown in Figure 9.
+
+===== PAGE 12 =====
+
+Sensors 2021, 21, 6610 12 of 18
+Sensors 2021, 21, x FOR PEER REVIEW 12 of 18 
+ 
+ 
+  
+(a) ( b) 
+  
+(c) ( d) 
+Figure 9. Bland–Altman test. Each of the 17 subjects is repres ented by the average of the kyphosis or lordosis angle 
+accordingly and is plotted as a hollow circle in the graphs. The MoD is the dashed line, the LoA are the continuous lines. 
+(a) Kyphosis angle during forward bending; (b) Lordosis angle during forward bending; (c) Kyphosis angle during sit-to-
+stand; (d) Lordosis angle during sit-to-stand. 
+The MoD and LoA values retrieved from the Bland–Altman analysis are reported in 
+Table 2, for each exercise. 
+Table 2. Bland–Altman test in the calculation of kyphosis and lordosis (MIMU and MoCap). 
+Dataset MoD [°] LoA [°] 
+Kyphosis—forward bending −3.0 5.8/ −11.7 
+Lordosis—forward bending −0.8 9.6/ −11.1 
+Kyphosis—sit-to-stand −1.2 4.3/ −6.7 
+Lordosis—sit-to-stand 1.9 12.5/ −8.7 
+From Figure 9, we can observe that the difference between the two systems was not 
+dependent on the magnitude of the angle (e.g., the difference did not increase with the 
+angle). Moreover, the results in Table 2 show that the MIMU system slightly 
+underestimated the kyphosis angle (MoD is negative), for both the forward bending and 
+sit-to-stand tasks. Instead, the lordosis angle was slightly underestimated in the forward 
+bending exercise (MoD = −0.8°) and overestimated in the si t-to-stand task (MoD = 1.9°). 
+Additionally, LoA values for the lordosis angle were larger than LoA for kyphosis in both 
+exercises (9.6/−11.1° and 12.5/−8.7° for lordosis vs. 5.8/−11.7° and 4.3/−6.7° for kyphosis). 
+Figure 9. Bland–Altman test. Each of the 17 subjects is represented by the average of the kyphosis or lordosis angle
+accordingly and is plotted as a hollow circle in the graphs. The MoD is the dashed line, the LoA are the continuous lines. ( a)
+Kyphosis angle during forward bending; (b) Lordosis angle during forward bending; (c) Kyphosis angle during sit-to-stand;
+(d) Lordosis angle during sit-to-stand.
+The MoD and LoA values retrieved from the Bland–Altman analysis are reported in
+Table 2, for each exercise.
+Table 2. Bland–Altman test in the calculation of kyphosis and lordosis (MIMU and MoCap).
+Dataset MoD [ ◦] LoA [ ◦]
+Kyphosis—forward bending −3.0 5.8/ −11.7
+Lordosis—forward bending −0.8 9.6/ −11.1
+Kyphosis—sit-to-stand −1.2 4.3/ −6.7
+Lordosis—sit-to-stand 1.9 12.5/ −8.7
+From Figure 9, we can observe that the difference between the two systems was not
+dependent on the magnitude of the angle (e.g., the difference did not increase with the
+angle). Moreover, the results in Table 2 show that the MIMU system slightly underestimated
+the kyphosis angle (MoD is negative), for both the forward bending and sit-to-stand tasks.
+Instead, the lordosis angle was slightly underestimated in the forward bending exercise
+(MoD = −0.8◦) and overestimated in the sit-to-stand task (MoD = 1.9 ◦). Additionally,
+LoA values for the lordosis angle were larger than LoA for kyphosis in both exercises
+(9.6/−11.1◦ and 12.5/−8.7◦ for lordosis vs. 5.8/−11.7◦ and 4.3/−6.7◦ for kyphosis).
+
+===== PAGE 13 =====
+
+Sensors 2021, 21, 6610 13 of 18
+3.2. Assessment of the Range of Movement (ROM)
+Once the MIMU-based system was validated against the MoCap system, it was used to
+assess the ROM for the two exercises, as described in Section 2.5. The ROM was calculated
+for all the subjects during the forward bending test, and every time the subject was standing
+up or sitting down during the sit-to-stand test.
+The contributions of the three body areas during movement are given by the MIMU
+sensors as the ROM of T3, T12 and S1. The average value among all volunteers is shown in
+Figure 10 for each exercise.
+Sensors 2021, 21, x FOR PEER REVIEW 13 of 18 
+ 
+ 
+3.2. Assessment of the Range of Movement (ROM) 
+Once the MIMU-based system was validated against the MoCap system, it was used 
+to assess the ROM for the two exercises, as described in Section 2.5. The ROM was 
+calculated for all the subjects during the forward bending test, and every time the subject 
+was standing up or sitting down during the sit-to-stand test. 
+The contributions of the three body areas during movement are given by the MIMU 
+sensors as the ROM of T3, T12 and S1. The average value among all volunteers is shown 
+in Figure 10 for each exercise. 
+  
+(a) ( b) 
+Figure 10. Range of movement (ROM) measured with MIMUs. The ROM of each sensor numerically shows the 
+contributions of the three segments during movement. (a) Forward bending; (b) Sit-to-stand. 
+The ROM increased along the spine during the forward bending, from T3 to S1 (see 
+Figure 10a). During the sit-to-stand exerci se, the ROM of the three zones exhibited a 
+different behavior when considering the sitting down and the standing up phases (Figure 
+10b). During the sitting down phase, the ROM of T3 and T12 was similar (31.7 ± 10.0° and 
+31.8 ± 9.8° for T3 and T12, respectively) and decreased in correspondence with S1 (mean 
+value 22.9 ± 7.1°). During the standing up phase, the ROM of T3 was 20.9 ± 9.5° and 
+increased in correspondence with T12 (29.6 ± 7.6°) and S1 (32.1 ± 10.2°). 
+Figure 11 shows the different contributions of the thoracic (T12) and sacral (S1) 
+sections. The difference between the two values (T12-S1) is the lumbar contribution. 
+ 
+Figure 10. Range of movement (ROM) measured with MIMUs. The ROM of each sensor numerically shows the contributions
+of the three segments during movement. (a) Forward bending; (b) Sit-to-stand.
+The ROM increased along the spine during the forward bending, from T3 to S1
+(see Figure 10a). During the sit-to-stand exercise, the ROM of the three zones exhibited a dif-
+ferent behavior when considering the sitting down and the standing up phases (Figure 10b).
+During the sitting down phase, the ROM of T3 and T12 was similar (31.7 ± 10.0◦ and
+31.8 ± 9.8◦ for T3 and T12, respectively) and decreased in correspondence with S1 (mean
+value 22.9 ± 7.1◦). During the standing up phase, the ROM of T3 was 20.9 ± 9.5◦ and
+increased in correspondence with T12 (29.6 ± 7.6◦) and S1 (32.1 ± 10.2◦).
+Figure 11 shows the different contributions of the thoracic (T12) and sacral (S1) sections.
+The difference between the two values (T12-S1) is the lumbar contribution.
+Sensors 2021, 21, x FOR PEER REVIEW 13 of 18 
+ 
+ 
+3.2. Assessment of the Range of Movement (ROM) 
+Once the MIMU-based system was validated against the MoCap system, it was used 
+to assess the ROM for the two exercises, as described in Section 2.5. The ROM was 
+calculated for all the subjects during the forward bending test, and every time the subject 
+was standing up or sitting down during the sit-to-stand test. 
+The contributions of the three body areas during movement are given by the MIMU 
+sensors as the ROM of T3, T12 and S1. The average value among all volunteers is shown 
+in Figure 10 for each exercise. 
+  
+(a) ( b) 
+Figure 10. Range of movement (ROM) measured with MIMUs. The ROM of each sensor numerically shows the 
+contributions of the three segments during movement. (a) Forward bending; (b) Sit-to-stand. 
+The ROM increased along the spine during the forward bending, from T3 to S1 (see 
+Figure 10a). During the sit-to-stand exerci se, the ROM of the three zones exhibited a 
+different behavior when considering the sitting down and the standing up phases (Figure 
+10b). During the sitting down phase, the ROM of T3 and T12 was similar (31.7 ± 10.0° and 
+31.8 ± 9.8° for T3 and T12, respectively) and decreased in correspondence with S1 (mean 
+value 22.9 ± 7.1°). During the standing up phase, the ROM of T3 was 20.9 ± 9.5° and 
+increased in correspondence with T12 (29.6 ± 7.6°) and S1 (32.1 ± 10.2°). 
+Figure 11 shows the different contributions of the thoracic (T12) and sacral (S1) 
+sections. The difference between the two values (T12-S1) is the lumbar contribution. 
+ 
+Figure 11. Lower contributions to forward bending. The average peak contributions of T12 and S1 are shown for each
+volunteer for the forward bending test. The difference between the two sensors represents the lumbar contribution.
+
+===== PAGE 14 =====
+
+Sensors 2021, 21, 6610 14 of 18
+The peak value of T12 ranged from 90.8◦ to 134.8◦, with a maximum standard devia-
+tion within the same subject of 7.9◦. The peak value of S1, which coincided with its ROM,
+ranged from 41.7◦ to 85.5◦, with a maximum standard deviation of 5.1◦. The ROM of T12,
+given by the difference between the peak value of T12 and S1, is also called the lumbar
+contribution. Its values ranged from 27.7◦ to 78.4◦, with a maximum standard deviation
+of 4.5◦, and it was almost always lower than the pelvic contribution (S1). The average
+percentual contribution between lumbar and peak thoracic angle (i.e., the lumbo-pelvic
+rhythm) was calculated as the percentual ratio between T12-S1 (yellow bar) and T12 (blue
+bar). It was equal to 41.8 ± 8.6%.
+4. Discussion
+In this work, we propose a measurement system based on the use of three MIMU
+sensors for estimating both the thoracic kyphosis and the lumbar lordosis and for the
+evaluation of posture. The main results of the study are the validation of the proposed
+MIMU system against the MoCap system, used as a reference during two well-established
+clinical exercises (i.e., sit-to-stand and forward bending), the estimation of thoracic kyphosis
+and the lumbar lordosis angles and the calculation of the lumbo-pelvic RoM from MIMU
+data. The sensors were worn by seventeen volunteers who performed typical exercises in
+the ﬁeld of spinal posture analysis.
+The study on the validation of the MIMU system shows that the kyphosis and lordosis
+calculation carried out with the MIMUs is compatible with that performed with the MoCap
+system, as revealed by the Bland–Altman analysis shown in Figure 9. This result proves the
+feasibility of the use of the MIMU system, which is lightweight and inexpensive, instead
+of the MoCap system. The evaluation of the kyphosis angle shows better compatibility
+since the LoA of the Bland–Altman analysis are narrower than those for the lordosis
+angle (5.8/−11.7◦ and 4.3/−6.7◦ for kyphosis vs. 9.6/−11.1◦ and 12.5/−8.7◦ for lordosis).
+Although the MIMU and MoCap systems present large differences for some volunteers,
+the average difference between them is less than 4◦ for the kyphosis and less than 2◦ for
+the lordosis (Table 1). In our case, the higher average difference for the kyphosis angle
+is also due to the data collected for volunteer 7, where the mismatch is more important
+(Figure 8). The greatest difference between the two systems in the calculation of the lordosis
+angle is represented by volunteer 15, both in the forward bending and sit-to-stand tasks.
+This outcome is probably due to either the non-idoneous placement of a MIMU sensor
+on the back of this subject, or directly to the anatomy of the volunteer, for which the
+application of the sensors in correspondence with the T12 and S1 vertebrae may not be
+representative of the lumbar lordosis. Although the inclusion of these two volunteers in the
+analysis affected the evaluation of the performance of the measurement system, satisfactory
+results were achieved. On the other hand, the polynomial method used for the MoCap
+data, even though already validated, is not always applicable. This happens because,
+depending on the shape of the subject’s back, the convexity changes in the gradient might
+not be present, as suggested in [ 28]. Although the shape of the spine is monitored also
+in dynamic conditions with the MoCap system, the calculation of the thoracic kyphosis
+and lumbar lordosis cannot be carried out if the convexity changes are not present in
+the polynomial reconstruction. The MIMU sensors can be instead placed in the exact
+location of the spinous processes T3, T12 and S1. For this reason, the MIMU system is more
+adaptable to the anatomy of the subject [27] and has no ambiguity regarding the angles
+that it monitors. Furthermore, the MIMU sensors allow us to dynamically measure the
+kyphosis and lordosis angles, whereas the polynomial method employed for the MoCap
+system is validated only for static conditions.
+The RMSE of the calculation of the kyphosis and lordosis angles across all volunteers
+ranged from 3.0 ◦ to 5.6 ◦, as reported in Table 1. These results are in line with other
+studies that use MoCap as a reference system and MIMUs for evaluating the motion of
+body segments during physical exercises [47,48], where an RMSE < 5◦ was obtained. The
+kyphosis and the lordosis angles computed in this work were derived as the difference
+
+===== PAGE 15 =====
+
+Sensors 2021, 21, 6610 15 of 18
+between two values (T3-T12 and T12-S1), whereas the aforementioned studies calculated
+the RMSE of single inclinations of the back, where a lower error was expected.
+The MIMU data can also be used to analyze the contributions of different segments
+of the spine during movement. During forward bending, the sacral part of the spine
+carries out most of the bending, as shown in Figure 10a. The results obtained—speciﬁcally
+the average lumbo-pelvic rhythm of the volunteers, estimated to be 41.8 ± 8.6%—are
+comparable with [46], where MIMU sensors were placed in T12 and S2. During sit-to-
+stand (Figure 10b), the lower thoracic (T12) contribution remained constant, whereas the
+upper thoracic (T3) and sacral (S1) contributions depended on whether the volunteer was
+sitting down or standing up. The average lumbar contribution that was measured during
+sit-to-stand was 31.8◦ and 29.6◦, for the sitting down and standing up phase, respectively.
+This result agrees with other studies on lumbar mobility during sit-to-stand [49], where
+the average value of lumbar ROM for healthy volunteers was reported to be equal to
+32.07 ± 6.77◦.
+ROM assessment is commonly used by clinicians to assess patients with LBP , to iden-
+tify any dysfunctional patterns and to monitor changes after medical and/or rehabilitation
+treatments [50]. In fact, patients with LBP usually show an average reduction in ﬂexion
+ROM compared to a group of subjects without LBP [3]. The system proposed in this study
+is easy to use in the clinical setting, offering a more precise and detailed evaluation than
+what is commonly obtained using the standard tools of outpatient settings, such as go-
+niometers. The use of three MIMU sensors allows not only the assessment of the kyphosis
+and lordosis of the subject (static and dynamic) but also the evaluation of the mobility of
+the spinal segments that are being monitored and yields results comparable to other studies
+in the same ﬁeld [ 49]. Further development of this system could provide other useful
+information, such as movement speed, ﬂuidity and proprioception, allowing clinicians to
+better understand which aspects of movement are altered. It is, in fact, necessary to have
+easy-to-use tools that support the clinician in carrying out a more accurate classiﬁcation of
+lower back problems [51] and in prescribing a personalized and speciﬁc treatment with
+potential beneﬁts in terms of direct and indirect socio-health-related costs.
+In agreement with the observations of several recent studies, in our work, MIMUs
+also hold the advantage of being portable and easily installed and worn by the subjects.
+On the other hand, the MoCap system presents some disadvantages, such as the ample
+and dedicated space for the tests, the several cameras to set up and calibrate and the
+time-consuming manual post-processing needed due to the occlusions of markers during
+the exercise [47]. Regarding the proposed system, limitations related to hardware and
+communication should also be considered for its efﬁcient use. Speciﬁcally, the device
+handling all the data (i.e., a computer) must ensure reliable and stable communication
+with the sensors via BLE. This requirement becomes critical for applications requiring a
+greater number of sensors, such as the simultaneous monitoring of multiple physiological
+parameters. Furthermore, the communication should enforce adequate security protocols
+for privacy reasons [ 52]. Depending on the number of operations carried out by each
+sensor, a properly dimensioned Li-Po battery should be chosen to ensure that the device
+remains operational for a sufﬁcient number of hours, without being too bulky.
+In conclusion, the main novelty of the proposed MIMU-based system over other
+systems [21,46] regards the possibility to dynamically measure both the thoracic kyphosis
+and the lumbar lordosis angles and the ROM of two segments, thanks to the use of three
+sensors. Differently from other studies, which essentially monitor the acceleration of
+body segments due to posture change [53], the measurement approach here implemented
+allowed the identiﬁcation of relevant angles from a clinical viewpoint (i.e., the kyphosis
+and lordosis angles). Since the values of these angles, along with the ROM, are commonly
+used by physicians to assess the posture of patients, the proposed system can provide
+valid support in the monitoring of signiﬁcant posture-related parameters quantitatively
+and continuously.
+
+===== PAGE 16 =====
+
+Sensors 2021, 21, 6610 16 of 18
+In the future, the results of this study should be extended to a larger population of
+volunteers, which should also include patients with LBP . This step will permit assessment
+of the proposed MIMU system in a clinical setting and its validation to estimate the quality
+of the posture of patients during standard clinical protocols for diagnosis and treatment.
+5. Conclusions
+The study presents a system for spinal evaluation based on MIMU sensors and
+validates it against a MoCap system, which was selected as the gold standard. Three
+inertial sensors were selected for calculating the thoracic kyphosis and lumbar lordosis
+angles, but the number can be increased for a more precise segmentation of the spine.
+Although some differences in terms of accuracy exist between the MIMU and the MoCap
+system, the paramount features of the proposed system are the wearability, the low cost
+and the ease of use. The data analysis is more straightforward than that of the MoCap
+system, as the output of the MIMU sensor fusion is already an angle. On the other hand,
+improper positioning of the MIMU sensors leads to erroneous measurements. This risk
+may be mitigated by using a custom-designed garment for unsupervised use that ensures
+the correct positioning of the sensors at all times. A limitation of the current work is the
+relatively small number of volunteers, so that a statistical clinical approach cannot be yet
+fully pursued.
+Future works will consider a large sample of volunteers, with both healthy subjects
+and patients with relevant LBP , and will aim at numerically estimating the state of health
+of the subject.
+Author Contributions: Conceptualization, D.P ., M.B., E.S., S.M., M.M., S.S., P .S. and C.M.; Data
+curation, D.P .; Formal analysis, D.P .; Funding acquisition, E.S., P .S. and C.M.; Investigation, D.P .,
+M.B. and C.M.; Methodology, D.P ., M.B. and C.M.; Resources, E.S., S.S., P .S. and C.M.; Software,
+D.P . and C.M.; Supervision, E.S., S.S., P .S. and C.M.; Writing—original draft, D.P ., P .S. and C.M.;
+Writing—review and editing, D.P ., M.B., E.S., S.M., M.M., S.S., P .S. and C.M. All authors have read
+and agreed to the published version of the manuscript.
+Funding: This work was funded by Fondazione Cariplo (grant n◦ 2017–2075) and by the Università
+Campus Bio-Medico di Roma within the framework of the University Strategic Projects (HOPE).
+Institutional Review Board Statement: The study has been approved by the Ethics Committee of
+Università Campus Bio-Medico di Roma (09/19 OSS ComEt Universit à Campus Bio-Medico di
+Roma UCBM).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study. Written informed consent has been obtained from the volunteers to publish this paper.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author. The data are not publicly available due to privacy restrictions.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Neumann, D.A. Kinesiology of the Musculoskeletal System Foundations for Rehabilitation ; Elsevier: Amsterdam, The Netherlands,
+2016; p. 595. ISBN 978-0-323-28753-1.
+2. CM, H. What do we mean by a “working posture”? Ergonomics 1994, 37, 781–799.
+3. Laird, R.A.; Gilbert, J.; Kent, P .; Keating, J.L. Comparing lumbo-pelvic movement in people with and without back pain: A
+systematic review. BMC Musculoskelet. Disord. 2014, 15, 1–13. [CrossRef]
+4. De Looze, M.P .; Toussaint, H.M.; Ensink, J.; Mangnus, C.; Van Der Beek, A.J. The validity of visual observation to assess posture
+in a laboratory-simulated, manual material handling task. Ergonomics 1994, 37, 1335–1343. [CrossRef] [PubMed]
+5. Lee, C.H.; Lee, S.; Shin, G. Reliability of forward head posture evaluation while sitting, standing, walking and running. Hum.
+Mov. Sci. 2017, 55, 81–86. [CrossRef]
+6. Pearcy, M.J. Stereo Radiography of Lumbar Spine Motion ; Taylor & Francis: Singapore, Singapore, 1985; Volume 56, ISBN 8716063058.
+7. Morrissy, R.T.; Goldsmith, G.S.; Hall, E.C.; Kehl, D.; Cowie, G.H. Measurement of the cobb angle on radiographs of patients who
+have. J. Bone Jt. Surg. 1990, 72, 320–327. [CrossRef]
+
+===== PAGE 17 =====
+
+Sensors 2021, 21, 6610 17 of 18
+8. Pruijs, J.E.H.; Hageman, M.A.P .E.; Keessen, W.; van der Meer, R.; van Wieringen, J.C. Variation in Cobb angle measurements in
+scoliosis. Skeletal Radiol. 1994, 23, 517–520. [CrossRef] [PubMed]
+9. Perriman, D.M.; Scarvell, J.M.; Hughes, A.R.; Ashman, B.; Lueck, C.J.; Smith, P .N. Validation of the Flexible Electrogoniometer for
+Measuring Thoracic Kyphosis. Spine 2010, 35, E633–E640. [CrossRef] [PubMed]
+10. Boocock, M.G.; Jackson, J.A.; Burton, A.K.; Tillotson, K.M. Continuous measurement of lumbar posture using ﬂexible electrogo-
+niometers. Ergonomics 1994, 37, 175–185. [CrossRef]
+11. Thoumie, P .; Drape, J.-L.; Aymard, C.; Bedoiseau, M. Effects of a lumbar support on spine posture and motion assessed by
+electrogoniometer and recording. Clin. Biomech. 1998, 13, 18–26. [CrossRef]
+12. Topley, M.; Richards, J. A Comparison of Currently Available Optoelectronic Motion Capture Systems. J. Biomech. 2020, 106,
+109820. [CrossRef]
+13. Colyer, S.L.; Evans, M.; Cosker, D.P .; Salo, A.I.T. A Review of the Evolution of Vision-Based Motion Analysis and the Integration
+of Advanced Computer Vision Methods Towards Developing a Markerless System. Sports Med.-Open 2018, 4, 24. [CrossRef]
+14. Ganesh, P .; Volle, K.; Buzaud, P .; Brink, K.; Willis, A. Extrinsic Calibration of Camera and Motion Capture Systems. In Proceedings
+of the SoutheastCon 2021, Atlanta, GA, USA, 10–13 March 2021; pp. 1–8.
+15. Voinea, G.D.; Butnariu, S.; Mogan, G. Measurement and geometric modelling of human spine posture for medical rehabilitation
+purposes using a wearable monitoring system based on inertial sensors. Sensors 2017, 17, 3. [CrossRef]
+16. Borzucka, D.; Kr˛ ecisz, K.; Rektor, Z.; Kuczy ´ nski, M. Postural control in top-level female volleyball players.BMC Sports Sci. Med.
+Rehabil. 2020, 12. [CrossRef] [PubMed]
+17. Esola, M.A.; McClure, P .W.; Fitzgerald, G.K.; Siegler, S. Analysis of Lumbar Spine and Hip Motion During Forward Bending in
+Subjects With and Without a History of Low Back Pain. Spine 1996, 21, 71–78. [CrossRef]
+18. Gauvin, M.G.; Riddle, D.L.; Rothstein, J.M. Reliability of Clinical Measurements of Forward Bending Using the Modiﬁed
+Fingertip-to-Floor Method. Phys. Ther. 1990, 70, 443–447. [CrossRef]
+19. De Carvalho, D.E.; Soave, D.; Ross, K.; Callaghan, J.P . Lumbar spine and pelvic posture between standing and sitting: A radiologic
+investigation including reliability and repeatability of the lumbar lordosis measure. J. Manip. Physiol. Ther. 2010, 33, 48–55.
+[CrossRef] [PubMed]
+20. Sardini, E.; Serpelloni, M.; Ometto, M. Smart vest for posture monitoring in rehabilitation exercises. In Proceedings of the 2012
+IEEE Sensors Applications Symposium Proceedings, Brescia, Italy, 7–9 February 2012; pp. 161–165. [CrossRef]
+21. Simpson, L.; Maharaj, M.M.; Mobbs, R.J. The role of wearables in spinal posture analysis: A systematic review.BMC Musculoskelet.
+Disord. 2019, 20. [CrossRef]
+22. Yoong, N.K.M.; Perring, J.; Mobbs, R.J. Commercial postural devices: A review. Sensors 2019, 19, 5128. [CrossRef]
+23. Wong, W.Y.; Wong, M.S. Trunk posture monitoring with inertial sensors. Eur. Spine J. 2008, 17, 743–753. [CrossRef] [PubMed]
+24. Wong, W.Y.; Wong, M.S.; Lo, K.H. Clinical applications of sensors for human posture and movement analysis: A review.Prosthet.
+Orthot. Int. 2007, 31, 62–75. [CrossRef]
+25. Bauer, C.M.; Heimgartner, M.; Rast, F.M.; Ernst, M.J.; Oetiker, S.; Kool, J. Reliability of lumbar movement dysfunction tests for
+chronic low back pain patients. Man. Ther. 2016, 24, 81–84. [CrossRef]
+26. Beange, K.H.E.; Chan, A.D.C.; Beaudette, S.M.; Graham, R.B. Concurrent validity of a wearable IMU for objective assessments of
+functional movement quality and control of the lumbar spine. J. Biomech. 2019, 97, 109356. [CrossRef]
+27. Paloschi, D.; Bravi, M.; Miccinilli, S.; Schena, E.; Sterzi, S.; Massaroni, C.; Saccomandi, P . Preliminary analysis on the cervicothoracic
+angular velocity during forward bending and backward return task. In Proceedings of the 2021 IEEE International Workshop on
+Metrology for Industry 4.0 & IoT (MetroInd4.0&IoT), Rome, Italy, 7–9 June 2021; pp. 330–334.
+28. Ranavolo, A.; Don, R.; Draicchio, F.; Bartolo, M.; Serrao, M.; Padua, L.; Cipolla, G.; Pierelli, F.; Iavicoli, S.; Sandrini, G. Modelling
+the spine as a deformable body: Feasibility of reconstruction using an optoelectronic system. Appl. Ergon. 2013, 44, 192–199.
+[CrossRef]
+29. Micho ´ nski, J.; Walesiak, K.; Pakuła, A.; Glinkowski, W.; Sitnik, R. Monitoring of spine curvatures and posture during pregnancy
+using surface topography-case study and suggestion of method. Scoliosis Spinal Disord. 2016, 11. [CrossRef] [PubMed]
+30. Garrido-Castro, J.L.; Medina-Carnicer, R.; Schiottis, R.; Galisteo, A.M.; Collantes-Estevez, E.; Gonzalez-Navas, C. Assessment of
+spinal mobility in ankylosing spondylitis using a video-based motion capture system. Man. Ther. 2012, 17, 422–426. [CrossRef]
+31. Muyor, J.M.; Arrabal-Campos, F.M.; Martínez-Aparicio, C.; Sánchez-Crespo, A.; Villa-Pérez, M. Test-retest reliability and validity
+of a motion capture (MOCAP) system for measuring thoracic and lumbar spinal curvatures and sacral inclination in the sagittal
+plane. J. Back Musculoskelet. Rehabil. 2017, 30, 1319–1325. [CrossRef] [PubMed]
+32. Lee, A.; Goldstein, R.; Rhim, M.; Chan, C.; Brooks, D.; Zabjek, K. Reliability and validity of non-radiological measures of thoracic
+kyphosis in chronic obstructive pulmonary disease. Int. J. Ther. Rehabil. 2018, 25, 648–654. [CrossRef]
+33. Kok, M.; Hol, J.D.; Schön, T.B. Using Inertial Sensors for Position and Orientation Estimation. Found. T rends®Signal. Process. 2017,
+11, 1–153. [CrossRef]
+34. MetamotionR Datasheet. Available online: https://mbientlab.com/documentation/ (accessed on 6 September 2021).
+35. Hemingway, E.G.; O’Reilly, O.M. Perspectives on Euler angle singularities, gimbal lock, and the orthogonality of applied forces
+and applied moments. Multibody Syst. Dyn. 2018, 44, 31–56. [CrossRef]
+36. Cappozzo, A.; Dellacroce, U.; Leardini, A.; Chiari, L. Human movement analysis using stereophotogrammetry: Part 1: Theoretical
+background. Gait Posture 2005, 21, 186–196. [CrossRef] [PubMed]
+
+===== PAGE 18 =====
+
+Sensors 2021, 21, 6610 18 of 18
+37. Chiari, L.; Della Croce, U.; Leardini, A.; Cappozzo, A. Human movement analysis using stereophotogrammetry. Part 2:
+Instrumental errors. Gait Posture 2005, 21, 197–211. [CrossRef] [PubMed]
+38. Bolink, S.; Naisas, H.; Senden, R.; Essers, J.M.N.; Heyligers, I.; Meijer, K.; Grimm, B. Validity of an inertial measurement unit to
+assess pelvic orientation angles during gait, sit–stand transfers and step-up transfers: Comparison with an optoelectronic motion
+capture system * Optoelectronic motion capture system Pelvic orientation angles G. Med. Eng. Phys. 2016, 13, 1–7. [CrossRef]
+39. Šenk, M.; Cheze, L. A new method for motion capture of the scapula using an optoelectronic tracking device: A feasibility study.
+Comput. Methods Biomech. Biomed. Engin. 2009, 13, 397–401. [CrossRef] [PubMed]
+40. Wirth, M.; Gabriella, F.; Verdú, J.; Reissner, L.; Balocco, S.; Calcagni, M. Comparison of a New Inertial Sensor Based System with
+an Optoelectronic Motion Capture System for Motion Analysis of Healthy Human Wrist Joints. Sensors 2019, 19, 5297. [CrossRef]
+[PubMed]
+41. Massaroni, C.; Senesi, G.; Schena, E.; Silvestri, S. Analysis of breathing via optoelectronic systems: Comparison of four methods
+for computing breathing volumes and thoraco-abdominal motion pattern. Comput. Methods Biomech. Biomed. Eng. 2017, 20,
+1678–1689. [CrossRef]
+42. Massaroni, C.; Carraro, E.; Vianello, A.; Miccinilli, S.; Morrone, M.; Levai, I.K.; Schena, E.; Saccomandi, P .; Sterzi, S.; Dickinson,
+J.W.; et al. Optoelectronic Plethysmography in Clinical Practice and Research: A Review. Respiration 2017, 93, 339–354. [CrossRef]
+43. De Tommasi, F.; Massaroni, C.; Carnevale, A.; Presti, D.L.; De Vita, E.; Iadicicco, A.; Faiella, E.; Grasso, R.F.; Longo, U.G.; Cam-
+popiano, S.; et al. Fiber Bragg Grating Sensors for Temperature Monitoring During Thermal Ablation Procedure: Experimental
+Assessment of Artefact Caused by Respiratory Movements. IEEE Sens. J. 2021, 21, 13342–13349. [CrossRef]
+44. Nelles, J.; Kohns, S.; Spies, J.; Schmitz-Buhl, F.; Thietje, R.; Brandl, C.; Mertens, A.; Schlick, C.M. Analysis of stress and strain in
+head based control of cooperative robots through tetraplegics. Int. J. Health Med. Eng. 2017, 11, 11–22.
+45. van Blommestein, A.S.; Lewis, J.S.; Morrissey, M.C.; MaCrae, S. Reliability of measuring thoracic kyphosis angle, lumbar lordosis
+angle and straight leg raise with an inclinometer. Open Spine J. 2012, 4, 10–15. [CrossRef]
+46. Laird, R.A.; Kent, P .; Keating, J.L. How consistent are lordosis, range of movement and lumbo-pelvic rhythm in people with and
+without back pain? BMC Musculoskelet. Disord. 2016, 17, 1–14. [CrossRef]
+47. Michaud, F.; Pérez Soto, M.; Lugrís, U.; Cuadrado, J. Lower Back Injury Prevention and Sensitization of Hip Hinge with Neutral
+Spine Using Wearable Sensors during Lifting Exercises. Sensors 2021, 21, 5487. [CrossRef] [PubMed]
+48. Punchihewa, N.G.; Miyazaki, S.; Chosa, E.; Yamako, G. Efﬁcacy of Inertial Measurement Units in the Evaluation of Trunk and
+Hand Kinematics in Baseball Hitting. Sensors 2020, 20, 7331. [CrossRef] [PubMed]
+49. Sedrez, J.A.; de Mesquita, P .V .; Gelain, G.M.; Candotti, C.T. Kinematic characteristics of sit-to-stand movements in patients with
+low back pain: A systematic review. J. Manip. Physiol. Ther. 2019, 42, 532–540. [CrossRef]
+50. Kent, P .M.; Keating, J.L.; Taylor, N.F. Primary care clinicians use variable methods to assess acute nonspeciﬁc low back pain and
+usually focus on impairments. Man. Ther. 2009, 14, 88–100. [CrossRef] [PubMed]
+51. O’Sullivan, P . Diagnosis and classiﬁcation of chronic low back pain disorders: Maladaptive movement and motor control
+impairments as underlying mechanism. Man. Ther. 2005, 10, 242–255. [CrossRef]
+52. Majumder, S.; Mondal, T.; Deen, M.J. Wearable Sensors for Remote Health Monitoring. Sensors 2017, 17, 130. [CrossRef]
+53. Fathi, A.; Curran, K. Detection of spine curvature using wireless sensors. J. King Saud Univ.-Sci. 2017, 29, 553–560. [CrossRef]

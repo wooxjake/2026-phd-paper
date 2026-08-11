@@ -1,1 +1,17 @@
+# 가상환경
 /.venv
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# 재다운로드 가능한 외부 바이너리 (G*Power, VC redist 등)
+etc/g-power/
+
+# 문서 편집 임시파일
+~$*.docx
+~$*.doc
+
+# OS / 편집기
+Thumbs.db
+.DS_Store

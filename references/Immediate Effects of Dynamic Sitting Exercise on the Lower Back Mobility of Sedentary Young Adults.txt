@@ -1,0 +1,1186 @@
+===== PAGE 1 =====
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=terg20
+Ergonomics
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/terg20
+The influence of sedentary behaviour on lumbar-
+pelvic kinematics during squatting and forward
+bending among physically active students
+Magdalena Zawadka, Jakub Smolka, Maria Skublewska-Paszkowska, Edyta
+Lukasik, Mirosław Jablonski & Piotr Gawda
+To cite this article: Magdalena Zawadka, Jakub Smolka, Maria Skublewska-Paszkowska, Edyta
+Lukasik, Mirosław Jablonski & Piotr Gawda (2022): The influence of sedentary behaviour on
+lumbar-pelvic kinematics during squatting and forward bending among physically active students,
+Ergonomics, DOI: 10.1080/00140139.2022.2061051
+To link to this article:  https://doi.org/10.1080/00140139.2022.2061051
+Published online: 15 Apr 2022.
+Submit your article to this journal 
+Article views: 50
+View related articles 
+View Crossmark data
+
+===== PAGE 2 =====
+
+ARTICLE
+The influence of sedentary behaviour on lumbar-pelvic kinematics during 
+squatting and forward bending among physically active students 
+Magdalena Zawadka
+a 
+, Jakub Smolka
+b 
+, Maria Skublewska-Paszkowska
+b 
+, Edyta Lukasik
+b 
+, 
+Mirosław Jablonski
+c 
+and Piotr Gawda
+a 
+a
+Department of Sports Medicine, Faculty of Health Sciences, Medical University of Lublin, Lublin, Poland; 
+b
+Department of Computer 
+Science, Faculty of Electrical Engineering and Computer Science, Lublin University of Technology, Lublin, Poland; 
+c
+Department of 
+Rehabilitation and Orthopedics, Faculty of Medicine, Medical University of Lublin, Lublin, Poland    
+ABSTRACT 
+Prolonged sitting may involve several mechanisms that make it a risk factor for low back pain. 
+The aim of this study was to investigate lumbar-pelvic kinematics and multifidus muscle (MF) 
+activity during squatting and forward bending in relation to the sedentary behaviour of physic -
+ally active students. Sixty-three students were divided into two groups according to the time 
+spent in a sitting position during the day: ‘high’ (>7 h/day); ‘low’ (�7 h/day). Lumbar-pelvic 
+ratios, ranges of motion, angular velocities, and MF flexion-relaxation phenomenon were investi -
+gated. Data were obtained using the optical motion analysis system, and surface electromyog -
+raphy. The results indicated that lumbar-pelvic ratios during both tasks and velocity of lumbar 
+spine during squatting were significantly greater in the ‘high’ than in the ‘low’ sitting group. 
+Muscle activity showed no differences between groups. Prolonged sitting can be considered a 
+factor that slightly, but statistically significantly influences the lumbar-pelvic kinematics in phys -
+ically active people.  
+Practitioner summary: Lumbar-pelvic kinematics can be altered by prolonged sitting in physic -
+ally active students. Lumbar-pelvic ratios during squatting and forward bending and lumbar 
+spine velocity during squatting were significantly greater in the ‘high’ than in the ‘low’ sitting 
+group. Sedentary behaviour should be considered during an assessment of movement patterns.  
+Abbreviations: BMI: body mass index; ERR: extension-relaxation ratio; FRP: flexion-relaxation 
+phenomenon; FRR: flexion-relaxation ratio; IPAQ: International Physical Activity Questionnaire; 
+LBP: low back pain; METs: metabolic equivalent of tasks; MF: multifidus muscle; PA: physical 
+activity; ROM: range of motion; sEMG: surface electromyography   
+ARTICLE HISTORY 
+Received 18 August 2021 
+Accepted 23 March 2022 
+KEYWORDS 
+Physical activity; 
+electromyography; sitting 
+position; spine    
+1. Introduction 
+Sedentary behaviour and physical activity (PA) are con -
+sidered as determinant factors of health and life span 
+(Stamatakis and Gill 2019; Chau et al. 2013). Sitting 
+time can elevate cardiovascular disease risk even in 
+those who are highly physically active, and PA does 
+not eliminate the increased risk of death associated 
+with high sitting time (Ekelund et al. 2016; Stamatakis 
+Emmanuel et al. 2019). Sedentary behaviour is also 
+related to low back pain (LBP) (Hanna et al. 2019). 
+Previous research on sitting posture and muscle activa -
+tion suggests that habitually sustaining flexed sitting 
+postures for long periods of time may result in the 
+deconditioning of spine muscles and lead to a 
+greater risk of back injury or a provocation of existing 
+LBP (Bontrup et al. 2019; Dankaerts et al. 2006; 
+P. O’Sullivan et al. 2006; P. B. O’Sullivan et al. 2006). 
+Sedentary behaviour is defined as any waking 
+behaviour that is characterised by an energy expend -
+iture of 1.5 metabolic equivalent of tasks (METs), while 
+in a sitting, reclining, or lying posture (Gardner et al. 
+2016). Self-report sitting behaviours were previously 
+defined in the literature as sedentary when the total 
+time of sitting (transport, work leisure activity) during a 
+day exceeded 7 h (Heneghan et al. 2018; van Uffelen 
+et al. 2013; Park et al. 2018). Sufficient PA, according to 
+the International Physical Activity Questionnaire (IPAQ), 
+is characterised by 5 or more days of any combination 
+of walking, moderate intensity or vigorous intensity 
+achieving a minimum total PA of at least 600 MET 
+minutes a week (Biernat 2013). 
+CONTACT Magdalena Zawadka 
+ magdalena.zawadka@umlub.pl 
+ Department of Sports Medicine, Faculty of Health Sciences, Medical University of 
+Lublin, Chod �zki 15, 20-093 Lublin, Poland 
+� 2022 Informa UK Limited, trading as Taylor & Francis Group 
+ERGONOMICS 
+https://doi.org/10.1080/00140139.2022.2061051
+
+===== PAGE 3 =====
+
+The increased time spent in sitting is a global prob -
+lem and office work is a major contributor to sedentary 
+behaviour (Kazi et al. 2019). However, long sitting is 
+also particularly characteristic of young people continu -
+ing their education (Matusiak-Wieczorek et al. 2020). 
+Students are one of the most sedative groups in 
+European populations (Loyen et al. 2016; Jelsma et al. 
+2019). With interest in a healthy life style growing 
+among young adults, more and more of them meet 
+the PA recommendation (Matusiak-Wieczorek et al. 
+2020). Therefore, high PA does not exclude sitting 
+behaviours, which are associated not only with educa -
+tion but also with leisure activities like watching televi -
+sion, playing computer games or reading. At the same 
+time one person can be considered physically active 
+and spend a lot of time sitting. It seems unclear how 
+long sitting times can influence persons who meet PA 
+guidelines. Higher amounts of daily total sitting time 
+have been shown to be associated with greater risk of 
+all-cause mortality and moderate or vigorous physical 
+activity appears to attenuate this hazardous association 
+(Chau et al. 2013). 
+During trunk flexion postures the lumbodorsal fascia 
+and spinal ligaments provide necessary support for the 
+extensor muscles, reducing the necessity of contraction 
+to maintain the fully flexed posture. Observation of 
+electrical silence of the back extensors muscles at full 
+trunk flexion is defined as flexion-relaxation phenom -
+enon and calculated as flexion-relaxation ratio and/or 
+extension-relaxation ratio (McGorry and Lin 2012; Laird 
+et al. 2019). During flexed postures the transition of 
+load moves towards other active and/or passive struc -
+tures close to the end range of flexion (P. O’Sullivan 
+et al. 2006). A seated posture can be affected by the 
+parameters of a chair, but in general a sitting posture 
+causes the pelvis to rotate backward, reduce lumbar 
+lordosis and increase intervertebral disc pressure 
+(Harrison et al. 1999). Long-duration sitting can be a 
+contributory factor in hamstring tightness (Waqas et al. 
+2016; Fatima et al. 2017). Reduced hamstrings flexibility 
+has been reported as a factor altering lumbar-pelvic 
+mobility during functional tasks like forward bending or 
+reaching tasks (Gajdosik, Hatcher, and Whitsell 1992; 
+Zawadka et al. 2018). Previously lumbar-pelvic motion 
+was wildly examined to demonstrate the relationship 
+between LBP and lumbar-hip coordination during 
+many activities (Larivi �ere, Gagnon, and Loisel 2000; 
+Esola et al. 1996; Shojaei, Salt, et al. 2017). One of the 
+parameters described in the literature is the lumbar- 
+pelvic ratio defined as the ratio of total lumbar motion 
+to pelvis motion in the sagittal plane (Zawadka et al. 
+2018; Kasahara et al. 2008). Lumbar-pelvic motion has 
+been shown to be connected to LBP by alternations in 
+lumbar-hip coordination, slower task pace, decrease 
+in lumbar contribution in overall movement and a 
+compensatory increase in mobility of other spine seg -
+ments and pelvis (Larivi �ere, Gagnon, and Loisel 2000; 
+Esola et al. 1996; Shojaei, Salt, et al. 2017). Changes in 
+the trunk flexion-extension movement pattern may be 
+the result of a neuromuscular adaptation to minimise 
+deformation in the lower back passive tissues and 
+avoid pain (Shojaei, Salt, et al. 2017). However, a cause- 
+and-effect relationship has not been well established so 
+far. Due to the high functional character of movement, 
+the biomechanics of the spine and pelvis during squat -
+ting and forward bending were often studied (Zawadka 
+et al. 2020; Shojaei, Vazirian, et al. 2017). However, the 
+relationship between sitting behaviour and lumbar 
+kinematics in standing among students is not well 
+documented in the literature. 
+Due to the fact that prolonged sitting involve sev -
+eral mechanisms that make it a risk factor for LBP (Park 
+et al. 2018) and that LBP is clearly related to biomech -
+anical alternations during trunk flexion-extension tasks, 
+we decided to investigate the linkage between sitting 
+time and lumbar-pelvic kinematics. Understanding lum -
+bar-pelvic kinematics in an asymptomatic group of 
+long-sitting young people could provide useful infor -
+mation about the missing link between sitting behav -
+iour and biomechanical changes during dynamic 
+activities observed in LBP patients. 
+Until recently biomechanical alternations of dynamic 
+activities as a consequence of prolonged sitting posture 
+have not been widely investigated. Understanding the 
+influence of prolonged sitting on lumbar-pelvic coordin -
+ation during trunk flexion in dynamic tasks has import -
+ant clinical implications in assessing and preventing LBP 
+among students. Therefore, the hypothesis was that an 
+increased time of sitting would alter lumbar-pelvic kine -
+matics and muscle activity during squatting and forward 
+bending compared to less sitting time. The aim of this 
+study was to investigate lumbar-pelvic kinematics and 
+multifidus muscle (MF) activity during squatting and for -
+ward bending in relation to the sedentary behaviour of 
+physically active university students. 
+2. Materials and methods 
+2.1. Participants 
+Sixty three students participated in this study: 23 
+females and 40 males. Participants were excluded if 
+they had any musculoskeletal pain or an orthopaedic 
+injury in their history or during the examination. The 
+International Physical Activity Questionnaire long 
+2
+ M. ZAWADKA ET AL.
+
+===== PAGE 4 =====
+
+version was used for calculating participants’ PA and sit -
+ting times. Subjects met the criteria of high or moderate 
+physical activity level. The PA was measured in MET 
+units (energy expenditure as reflected by oxygen con -
+sumption) (Lear et al. 2017). The average sitting time 
+included sitting during weekdays, weekend and in mov -
+ing vehicles. 
+Participants were divided into groups according to 
+their sedentary behaviour (time spent in a sitting 
+position during day): high (>7 h/day); low 
+(�7 h/day)(Heneghan et al. 2018; Park et al. 2018). 
+There were 29 participants (9 females and 20 males) 
+in the ‘high’ sitting group and 34 participants (14 
+females and 20 males) in the ‘low’ sitting group. The 
+numbers of females and males in both groups were 
+not statistically different (chi squared ¼ 0.69; p ¼ 0.40). 
+The study was approved by the Ethical Committee at 
+the Medical University of Lublin (KE-0254/322/2018) 
+and conducted according to the Declaration of 
+Helsinki. Tables 1 and 2 show comparisons between 
+groups and between sexes according to age, PA, sit -
+ting time, body mass, height and Body Mass Index 
+(BMI). There were no statistically significant differences 
+in the above mentioned variables between ‘low’ and 
+‘high’ sitters except the sitting time (Me ¼ 5.32 h/day 
+vs Me ¼ 9.14 h/day; F ¼ 145.87, p < 0.001, g
+p
+2
+¼ 0.71). 
+However, there were differences between females and 
+males in body mass (F ¼ 41.50, p < 0.001, g
+p
+2
+¼ 0.41) 
+and height (F ¼ 89.17, p < 0.001, g
+p
+2
+¼ 0.60), resulting 
+from anatomical dimorphism. Females were also more 
+physically active than men (F ¼ 5.03, p ¼ 0.03, 
+g
+p
+2
+¼ 0.08), particularly in domestic activities 
+(F ¼ 10.46, p < 0.01, g
+p
+2
+¼ 0.15), but there were no dif -
+ferences in sitting time between males and females 
+(Me ¼ 6.48 h/day vs Me ¼ 7.11 h/day; F ¼ 0.25, p ¼ 0.61). 
+2.2. Procedures and measurements 
+Two tasks were investigated in this study: forward 
+bending and squatting. Participants performed five tri -
+als of each task without additional load. They were not 
+trained for these tasks prior to the investigation. Before 
+recording the trials participants were instructed in how 
+to do the tasks, and the execution of tasks was demon -
+strated to them. The initial position of both tasks was 
+the same: standing looking straight ahead with arms 
+forward, parallel to the floor and with feet at shoulder’s 
+width apart. Forward bending was executed to the 
+maximal depth with straightened knees, and squatting 
+was executed to the maximal depth maintaining heel 
+contact throughout the task. The pace of movement 
+was self-selected; however, participants were instructed 
+not to do any unpredictable or sudden movements. 
+Three seconds after reaching the final position of for -
+ward bending/squatting, participants were asked to 
+return to their initial positions at a similar pace. An 
+average of three middle trials (without the first and the 
+last) was statistically analysed. 
+Kinematic data were obtained using the VICON 
+motion analysis system (Oxford Metrics Ltd, Oxford, UK) 
+with 8 infra-red cameras operating at a sampling rate of 
+100 Hz. A set of reflective markers was placed on spe -
+cific anatomical landmarks. Markers have been attached 
+to the following locations to build the spine and pelvis 
+model: tenth and twelfth thoracic spinous process (Th 
+10, Th 12), posterior and anterior superior iliac spine 
+and second and third sacral spinous process (S2, S3). 
+The system registered three-dimensional trajectories of 
+passive markers. Markers trajectories were filtered and 
+segments of the lumbar spine and pelvis were modelled 
+using software (Vicon, Nexus; Oxford Metrics). 
+Table 1. Age, body mass, height and BMI of participants. 
+Variables 
+Low sitting time High sitting time Females Males 
+M Me SD M Me SD M Me SD M Me SD  
+Age [years]   20.71   20.00   1.14   20.79   21.00   0.82   20.30
+��
+20.00   0.47   21.00
+��
+21.00   1.13 
+Body mass [kg]   70.12   67.75   12.92   70.84   70.00   14.45   59.31
+���
+57.40   7.14   76.86
+���
+75.30   12.14 
+Height [m]   1.75   1.75   0.08   1.75   1.80   0.11   1.66
+���
+1.66   0.06   1.81
+���
+1.80   0.06 
+BMI [kg/m
+2
+]   22.65   22.48   2.85   22.89   22.31   2.98   21.42
+��
+20.83   1.87   23.53
+��
+23.59   3.10  
+M: Mean; Me: median; SD: standard deviation; 
+��
+p < 0.01, 
+���
+p < 0.001.
+Table 2. Physical activity (PA) and sitting time of participants. 
+PA [METmin/week] 
+Low sitting time High sitting time Females Males 
+M Me SD M Me SD M Me SD M Me SD  
+Studying   1174.38   60.00   1810.61   839.67   148.50   1275.80   1276.48   160.00   2005.98   873.01   0.00   1287.10 
+Walking from place to place   1290.62   774.00   1193.44   1520.90   1386.00   1032.99   1590.59   1386.00   1216.36   1285.09   823.50   1059.72 
+Domestic and garden activities   728.38   450.00   852.12   934.66   630.00   974.74   1222.39
+��
+870.00   1111.33   593.88
+��
+382.50   684.83 
+Leisure activities (sport 
+and recreation)   
+1858.52   1521.75   1502.20   1952.38   1455.00   1861.32   1999.94   1546.00   1584.28   1845.25   1447.50   1724.96 
+Total PA   5037.59   4790.20   2456.34   5256.53   4989.00   3074.84   6059.74
+�
+6354.00   2536.08   4608.59
+�
+4401.00   2737.86 
+Sitting time [hours/day] 5.01
+���
+5.32 1.35 9.34
+���
+9.14 1.41 6.55 6.48 2.90 7.27 7.11 2.36  
+M: Mean; Me: median; SD: standard deviation; 
+�
+p < 0.05, 
+��
+p < 0.01, 
+���
+p < 0.001.
+ERGONOMICS
+ 3
+
+===== PAGE 5 =====
+
+The pelvis angle was defined as the angle of the 
+sacral bone relative to the vertical line, and the lumbar 
+spine angle was defined as the angle of the thoracic 
+spine relative to the sacral bone. The angles were 
+computed in the sagittal plane (Figure 1). The range 
+of motion (ROM) was defined as the difference 
+between the maximal and minimal angle obtained by 
+each segment in the sagittal plane during a task. The 
+lumbar-pelvic ratio describes the coordination during 
+spine flexion-extension tasks (also called the lumbar- 
+pelvic rhythm) (S. Shin and Yoo 2020). In this study 
+ratios were calculated by dividing the total lumbar 
+ROM by the pelvis ROM. Angular velocity of segments 
+was measured as an angular displacement of seg -
+ments (spine, pelvis) in sagittal plane over the change 
+in time. Average and peak velocities were analysed 
+during two phases of movement: descent and ascent. 
+Surface electromyography (sEMG) integrated with 
+the motion capture system (wireless EMG; Myon) was 
+used to record superficial lumbar multifidus muscle 
+activity at the sampling rate of 1000 Hz. Electrodes 
+were placed on the back along the axes of the muscle 
+fibres, according to the SENIAM protocol: on and 
+aligned with a line from caudal tip of posterior super -
+ior iliac spine to the interspace between L1 and L2 
+interspace at the level of L5 spinous process (i.e. about 
+2–3 cm from the midline) (‘Sensor Locations’ 2021). 
+Two pairs of self-adhesive disposable Ag/AgCl disc sur -
+face electrodes (SORIMEX, Toru �n, Poland) with an elec -
+trical contact surface of 1 cm
+2 
+were placed bilaterally, 
+with a 2 cm interelectrode distance. The subjects’ hair 
+was shaved when it was necessary and the skin was 
+cleaned with alcohol before the sEMG electrode 
+was affixed. 
+The EMG signals collected during the movements 
+were band-pass filtered at 10–450 Hz using a fourth- 
+order Butterworth filter with zero lag and then rectified. 
+EMG data were smoothed using a 100 millisecond mov -
+ing average window. Based on the methodology of pre -
+vious studies, the peak amplitude of EMG was 
+determined within the ascent and descent phases, and 
+the mean for a 200 ms window about the peak was 
+taken as the sEMG amplitude value (McGorry and Lin 
+2012; Neblett et al. 2003). A flexion-relaxation ratio (FRR) 
+and extension-relaxation ratio (ERR) of the activity dur -
+ing the forward bending and full squat was calculated 
+to determinate the presence of the flexion-relaxation 
+phenomenon (FRP) and muscle silence (McGorry and 
+Lin 2012). For this purpose, we have divided tasks into 
+the descent phase, the static position phase and the 
+ascent phase. The value for the FRR was calculated by 
+dividing the mean of a 200 ms window about the peak 
+Figure 1. Testing postures and angles of the pelvis and lumbar spine.  
+4
+ M. ZAWADKA ET AL.
+
+===== PAGE 6 =====
+
+amplitude of descent phase (1) and the mean of a 
+200 ms about midpoint of static position phase (2). The 
+ERR was calculated by dividing the mean of a 200 ms 
+window about the peak amplitude of ascent phase (1) 
+and the mean of a 200 ms midpoint of static position 
+phase. Higher ratios indicate relatively more flexion- 
+relaxation phenomenon (less activation) of the lumbar 
+multifidus muscle. 
+2.3. Statistics 
+Statistical analyses were conducted using the Statistica 
+software (ver. 13.1 TIBCO Inc., Palo Alto, CA, USA). 
+Continuous data were described in tables by mean (M), 
+median (Me) and standard deviation (SD). Box and whis -
+ker plots show median, upper and lower quartiles and 
+maximum and minimum vales. The level of statistical 
+significance was set at p ¼ 0.05. Normal distribution of 
+data was verified using the Shapiro-Wilk test, and the 
+nonparametric statistical method was used for kinematic 
+and EMG analyses. The Chi-square test was used for 
+comparing the number of females and males in groups 
+and two-way ANOVA with partial eta squared (g
+p
+2
+) was 
+used for comparing group characteristics (Tables 1 and 
+2). In order to compare lumbar-pelvic kinematics 
+between ‘low’ and ‘high’ sitting groups and males and 
+females we used the Mann–Whitney U-test. The intra- 
+class correlation coefficients (ICC) show good to excel -
+lent reliability of the kinematic data (ICC ¼ 0.90–0.97 for 
+squatting and ICC ¼ 0.78–0.97 for forward bending). The 
+Glass rank-biserial correlation was used to calculate 
+effect sizes (ES) of statistically significant comparisons, 
+and they were interpreted as small (0.2), medium (0.5), 
+and large (0.8) effect sizes (Tomczak and Tomczak 2014; 
+Fritz, Morris, and Richler 2012). 
+3. Results 
+3.1. Lumbar-pelvic ratios and ROMs 
+As shown in Figure 2, the lumbar-pelvic ratio was 
+significantly greater in the ‘high’ than in the ‘low’ sit -
+ting group (Median (Me) ¼ 2.37 vs Me ¼ 1.31; 
+Z ¼   2.53, p ¼ 0.01, ES ¼ 0.37) during squatting. The 
+lumbar-pelvic ratio during forward bending was also 
+significantly greater in the ‘high’ than in ‘low’ sitting 
+group (Me ¼ 2.29 vs Me ¼ 1.73; Z ¼   2.02, p ¼ 0.04, 
+ES ¼ 0.30). However, there were no statistically 
+significant differences between groups in pelvic ROM 
+(Me ¼ 17.39
+�
+vs Me ¼ 20.93
+�
+; Z ¼ 1.81, p ¼ 0.07) 
+and spine ROM (Me ¼ 38.98
+�
+vs Me ¼ 32.88
+�
+; Z ¼ 1.43, 
+p ¼ 0.15) during squatting (Figure 3). Spine ROM was 
+significantly greater in the ‘high’ than in the ‘low’ 
+sitting group during forward bending (Me ¼ 75.69
+�
+vs 
+Me ¼ 68.94
+�
+; Z ¼   2.31, p ¼ 0.02, ES ¼ 0.34). There 
+were no statistically significant differences between 
+groups in pelvic ROM during forward bending 
+(Me ¼ 36.48
+�
+vs Me ¼ 39.96
+�
+; Z ¼ 1.33, p ¼ 0.18) 
+(Figure 4). 
+Males showed greater lumbar-pelvic ratio than 
+females in both, squatting (Me ¼ 2.34 vs Me ¼ 1.16; 
+Z ¼   3.36, p < 0.001, ES ¼ 0.51) and forward bending 
+(Me ¼ 2.24 vs Me ¼ 1.51; Z ¼   3.30, p < 0.001, 
+ES ¼ 0.50). Lumbar ROM was significantly greater in 
+males than in females during squatting (Me ¼ 39.38 vs 
+Me ¼ 26.88; Z ¼ 3.03, p < 0.01, ES ¼ 0.46). During 
+forward bending males showed greater lumbar ROM 
+Figure 2. Ratios of the lumbar and pelvic ranges of motion (ROM) during squatting and forward bending. Boxes show median, 
+upper and lower quartiles. Whiskers show maximum and minimum (1.5 of interquartile range). Dots show outliers (above 1.5 of 
+interquartile range). All comparisons between groups and sexes are statistically significant (p < 0.05).  
+ERGONOMICS
+ 5
+
+===== PAGE 7 =====
+
+(Me ¼ 74.52 vs Me ¼ 66.67; Z ¼   2.46, p ¼ 0.01, 
+ES ¼ 0.38) but smaller pelvic ROM (Me ¼ 32.76 vs 
+Me ¼ 42.73; Z ¼ 2.89, p < 0.01, ES ¼ 0.44) than 
+females did. 
+3.2. Angular velocities and EMG 
+Statistical analysis of angular velocities revealed that 
+average (Me ¼ 20.60 vs Me ¼ 16.99) and peak velocities 
+(Me ¼ 50.07 vs Me ¼ 40.56) of lumbar spine during 
+squatting ascent were significantly greater in the ‘high’ 
+than in the ‘low’ sitting group (p ¼ 0.4, ES ¼ 0.30 in 
+both cases). There were no statistically significant dif -
+ferences between groups in velocities of the pelvis 
+and of the spine during forward bending. Details of 
+statistical analysis are presented in Tables 3 and 4. 
+Males showed significantly greater average veloc -
+ities of lumbar spine during the ascent phases of 
+squatting and forward bending comparing with 
+females (Me ¼ 20.23 vs Me ¼ 16.42, Z ¼   2.29, p ¼ 0.02, 
+ES ¼ 0.35; Me ¼ 35.69 vs Me ¼ 28.72, Z ¼   3.39, 
+p < 0.001, ES ¼ 0.52, respectively). Females demon -
+strated greater average velocities of pelvis than males 
+during forward bending descent (Me ¼ 14.57 vs 
+Me ¼ 10.7, Z ¼ 2.19, p ¼ 0.03, ES ¼ 0.33). Males also 
+showed greater peak velocities of lumbar spine during 
+squatting descent and ascent and during forward 
+bending ascent (Me ¼ 34.06 vs Me ¼ 24.38, Z ¼   2.43, 
+p ¼ 0.01, ES ¼ 0.37; Me ¼ 50.30 vs Me ¼ 35.12, 
+Z ¼   3.03, p < 0.01, ES ¼ 0.46; Me ¼ 75.77 vs 
+Me ¼ 60.19, Z ¼   2.75, p ¼ 0.01, ES ¼ 0.42, 
+respectively). 
+Figure 3. Pelvic and lumbar spine ranges of motion during squatting. Boxes show median, upper and lower quartiles. Whiskers 
+show maximum and minimum (1.5 of interquartile range). Dots show outliers (above 1.5 of interquartile range). None of the 
+comparisons between sitting groups are statistically significant. There is a statistical difference in lumbar ROM between 
+sexes (p < 0.01).  
+Figure 4. Pelvic and lumbar spine ranges of motion during forward bending. Boxes show median, upper and lower quartiles. 
+Whiskers show maximum and minimum (1.5 of interquartile range). Dots show outliers (above 1.5 of interquartile range). There is 
+a statistically significant difference in lumbar spine ROM between groups (p ¼ 0.02). All comparisons between sexes are statistically 
+significant (p < 0.05).  
+6
+ M. ZAWADKA ET AL.
+
+===== PAGE 8 =====
+
+There were no significant differences in FRR and ERR 
+between groups during squatting (FRR right: Me ¼ 2.04 
+vs Me ¼ 1.87, FRR left: Me ¼ 1.76 vs Me ¼ 2.10, ERR 
+right: Me ¼ 1.94 vs Me ¼ 1.85, ERR left: Me ¼ 1.93 vs 
+Me ¼ 2.05) and forward bending (FRR right: Me ¼ 3.28 
+vs Me ¼ 7.20, FRR left: Me ¼ 3.44 vs Me ¼ 5.34, ERR 
+right: Me ¼ 5.66 vs Me ¼ 8.62, ERR left: Me ¼ 5.67 vs 
+Me ¼ 7.64). However, differences in FRR of the left 
+Table 3. Average angular velocities during squatting and forward bending. 
+Average angular velocities [deg/s] 
+‘Low’ sitting time ‘High’ sitting time Statistics 
+M Me SD M Me SD U Z p  
+Squating descent           
+Pelvis   13.06   11.33   5.75   11.00   11.06   5.57   392.00   1.39   0.17  
+Lumbar spine   14.72   11.10   7.85   16.36   15.08   6.56   366.00   1.74   0.08 
+Squating ascent           
+Pelvis   12.45   11.37   4.95   10.79   9.42   4.90   384.00   1.50   0.13  
+Lumbar spine   18.71   16.99   8.93   21.72   20.60   7.28   345.00   2.03   0.04 
+Forward bending descent           
+Pelvis   12.85   13.00   5.68   12.23   11.86   4.97   473.00   0.27   0.79  
+Lumbar spine   21.29   21.18   6.00   24.91   22.86   8.75   375.00   1.62   0.11 
+Forward bending ascent           
+Pelvis   17.98   17.22   6.71   15.76   15.45   5.19   394.00   1.36   0.17  
+Lumbar spine   31.71   30.78   6.44   35.76   34.77   10.02   375.00   1.62   0.11  
+Average angular velocities [deg/s] 
+Females Males Statistics 
+M Me SD M Me SD U Z p  
+Squating descent           
+Pelvis   13.42   11.30   5.80   11.36   11.19   5.61   375.00   1.21   0.23  
+Lumbar spine   13.11   12.56   5.18   16.84   13.93   7.98   353.00     1.52   0.13 
+Squating ascent           
+Pelvis   12.79   11.75   4.77   11.06   9.82   5.01   351.00   1.55   0.12  
+Lumbar spine   16.35   16.42   6.94   22.26   20.23   8.31   299.00     2.29   0.02 
+Forward bending descent           
+Pelvis   14.79   14.57   6.06   11.28   10.71   4.45   306.00   2.19   0.03  
+Lumbar spine   21.27   21.53   5.70   23.93   23.12   8.35   384.00     1.08   0.28 
+Forward bending ascent           
+Pelvis   19.15   17.37   7.11   15.70   16.04   5.14   331.00   1.83   0.07  
+Lumbar spine   29.23   28.72   5.46   36.08   35.69   8.91   222.00     3.39   <0.001  
+M: Mean; Me: median; SD: standard deviation.
+Table 4. Peak angular velocities during squatting and forward bending. 
+Peak angular velocities [deg/s] 
+‘Low’ sitting time ‘High’ sitting time Statistics 
+M Me SD M Me SD U Z p  
+Squating descent           
+Pelvis   30.18   26.48   12.76   27.10   24.56   13.68   422.00   0.97   0.33  
+Lumbar spine   34.45   25.88   18.93   36.18   33.83   17.31   411.00     1.12   0.26 
+Squating ascent           
+Pelvis   28.11   25.21   11.81   25.97   23.24   13.34   407.00   1.18   0.24  
+Lumbar spine   40.47   40.56   17.90   52.29   50.07   27.09   344.00     2.05   0.04 
+Forward bending descent           
+Pelvis   28.66   28.31   13.85   30.33   31.36   12.42   428.00     0.89   0.37  
+Lumbar spine   47.83   47.49   17.87   56.55   52.45   22.39   381.00     1.54   0.12 
+Forward bending ascent           
+Pelvis   38.89   39.82   13.07   35.47   33.58   11.34   400.00   1.28   0.20  
+Lumbar spine   64.23   64.10   15.34   76.41   71.66   27.18   360.00     1.83   0.07  
+Peak angular velocities [deg/s] 
+Females Males Statistics 
+M Me SD M Me SD U Z p  
+Squating descent           
+Pelvis   31.29   26.74   12.52   27.31   24.34   13.47   362.00   1.39   0.17  
+Lumbar spine   29.25   24.38   15.94   38.70   34.06   18.51   289.00     2.43   0.01 
+Squating ascent           
+Pelvis   27.19   24.33   9.66   27.09   23.25   13.96   397.00   0.89   0.38  
+Lumbar spine   35.29   35.12   15.39   52.01   50.30   24.82   247.00     3.03   <0.01 
+Forward bending descent           
+Pelvis   32.74   30.87   14.69   27.53   25.47   11.92   381.00   1.12   0.26  
+Lumbar spine   47.27   46.82   16.07   54.48   54.22   22.25   369.00     1.29   0.20 
+Forward bending ascent           
+Pelvis   40.88   38.77   13.34   35.27   34.25   11.38   349.00   1.58   0.12  
+Lumbar spine   60.27   60.19   13.91   75.33   75.77   24.39   267.00     2.75   0.01  
+M: Mean; Me: median; SD: standard deviation.
+ERGONOMICS
+ 7
+
+===== PAGE 9 =====
+
+multifidus during forward bending were greater in the 
+‘high’ than in the ‘low’ sitting group (Me ¼ 5.34 vs 
+Me ¼ 3.44; Z ¼   1.95, p ¼ 0.051). This result is close to 
+the accepted level of significance. There were no sig -
+nificant differences in FRR and ERR between females 
+and males during squatting (FRR right: Me ¼ 1.86 vs 
+Me ¼ 2.01, FRR left: Me ¼ 1.67 vs Me ¼ 2.20, ERR right: 
+Me ¼ 1.73 vs Me ¼ 2.03, ERR left: Me ¼ 1.75 vs 
+Me ¼ 2.43) and forward bending (FRR right: Me ¼ 4.47 
+vs Me ¼ 4.58, FRR left: Me ¼ 3.21 vs Me ¼ 4.87, ERR 
+right: Me ¼ 5.52 vs Me ¼ 7.36, ERR left: Me ¼ 4.45 vs 
+Me ¼ 7.68) ((Table 5). 
+4. Discussion 
+The aim of this study was to investigate lumbar-pelvic 
+kinematics and MF activity during squatting and for -
+ward bending in relation to the sedentary behaviour 
+of physically active young adults. The results of this 
+study are generally in agreement with the stated 
+hypothesis. Increased time in sitting significantly alters 
+lumbar-pelvic kinematics during squatting and forward 
+bending compared to less siting time. This conclusion 
+can be applied to people who meet PA guidelines. 
+4.1. Lumbar-pelvic ratios and ROMs 
+Greater values of the lumbar-pelvic ratio in the ‘high’ 
+sitting group indicates that the domination of lumbar 
+spine motion over pelvic motion during tasks is 
+increased as a result of prolonged sitting. Previous 
+research links greater lumbar-pelvic or lumbar-hip 
+ratios with sex and age. The lumbar contribution to 
+movement has been identified as smaller in females 
+than in males and smaller in older than in younger 
+participants (Vazirian et al. 2017; Pries et al. 2015). 
+However, in this study groups were balanced with 
+respect to sex and age. Patients suffering from LBP 
+also have been reported to have decreased lumbar 
+motion in forward bending tasks (Larivi �ere, Gagnon, 
+and Loisel 2000). On the other hand, Jandre Reis and 
+Macedo (2015) have shown that lumbar mobility was 
+greater while at the same time pelvic mobility was 
+restricted in LBP patients comparing with controls. 
+Lumbar-pelvic movement patterns in LBP patients still 
+remain unclear. It may be that people with LBP should 
+be classified into subgroups by the pain provoked by 
+movement (flexion/extension), As was suggested by 
+Kim et al. (2013) and Laird et al. (2014) lower move -
+ment speed is commonly seen in people with LBP and 
+has been linked to a fear of movement (Thomas 
+et al. 2008). 
+We consider two possible explanations of our cur -
+rent results. First, thigh hamstrings can restrict pelvis 
+anterior rotation and lead to compensation resulting in 
+increased lumbar flexion. Second, deconditioning of the 
+lumbar muscles and excessive loading of passive tissue 
+in a sitting position can lead to changes in the trunk 
+movement pattern. Previous studies of Hasebe et al. 
+(2014) suggest that subjects with tight hamstrings have 
+decreased pelvic mobility. A compensatory increase in 
+the lumbar ROM during the forward bending move -
+ment can be the result of a slightly, but not statistically 
+significant decreased pelvic mobility in the ‘high’ sitting 
+group. In clinical practice, limitation of hamstring flexi -
+bility and greater lumbar spine ROM should be an indi -
+cative of low back stabilisation exercises and hamstring 
+Table 5. Multifidus muscles flexion-relaxation phenomenon during squatting and forward bending. 
+Task Multifidus muscle 
+‘Low’ sitting time ‘High’ sitting time Statistics 
+M Me SD M Me SD U Z p  
+Squatting FRR right   4.30   2.04   6.29   5.92   1.87   11.83   478.00   0.20   0.84 
+ERR right   3.32   1.94   4.01   3.82   1.85   5.07   487.00     0.08   0.94 
+FRR left   2.42   1.76   1.91   7.97   2.10   14.52   424.00     0.94   0.34 
+ERR left   2.58   1.93   1.76   3.55   2.05   3.99   491.00   0.02   0.98 
+Forward bending FRR right   10.70   3.82   14.71   13.55   7.20   23.01   459.00     0.46   0.64 
+ERR right   9.55   5.66   13.26   15.38   8.62   26.57   421.00     0.99   0.32 
+FRR left   7.78   3.44   9.89   18.01   5.34   30.99   351.00     1.95   0.051 
+ERR left   8.31   5.67   9.67   12.98   7.64   15.48   403.00     1.23   0.22  
+Task Multifidus muscle 
+Females Males Statistics 
+M Me SD M Me SD U Z p  
+Squatting FRR right   6.65   1.86   11.72   4.12   2.01   7.42   398.00   0.88   0.38 
+ERR right   3.71   1.73   4.52   3.45   2.03   4.54   441.00     0.26   0.79 
+FRR left   3.22   1.67   5.31   5.98   2.20   12.17   362.00     1.39   0.17 
+ERR left   2.23   1.75   1.69   3.48   2.43   3.50   346.00     1.62   0.11 
+Forward bending FRR right   16.62   4.47   28.14   9.36   4.58   10.00   445.00     0.21   0.84 
+ERR right   16.35   5.52   31.55   9.87   7.36   9.59   404.00     0.79   0.43 
+FRR left   10.30   3.21   15.51   13.75   4.87   25.97   400.00     0.85   0.40 
+ERR left   9.47   4.45   14.24   11.03   7.68   12.02   375.00     1.21   0.23  
+FRR: Flexion-relaxation ratio; ERR: extension-relaxation ratio; M: mean; Me: median; SD: standard deviation.
+8
+ M. ZAWADKA ET AL.
+
+===== PAGE 10 =====
+
+stretching (Jandre Reis and Macedo 2015). The dynamic 
+stretching of hamstrings significantly improves maximal 
+forward bending and pelvic mobility, which decreased 
+the lumbar-pelvic ratio (Hasebe et al. 2016). Long-dur -
+ation sitting can be a contributory factor in hamstring 
+tightness (Waqas et al. 2016; Fatima et al. 2017). 
+On the other hand, continuous sitting also resulted in 
+higher trunk flexion angles (Jia and Nussbaum 2018). 
+Sustained trunk flexion during sitting can lead to creep 
+of back viscoelastic tissues which can increase the risk 
+of LBP (Little and Khalsa 2005). Creep of lower back 
+extensor muscles may occur due to prolonged passive 
+stretching in a sitting position. That may lead to a 
+reduced contribution of passive tissue in maintaining 
+spinal stability and posture. Thus, as a result of com -
+pensation, lower back extensor muscles are required to 
+generate more active forces during static and dynamic 
+tasks and cause fatigue. 
+4.2. Angular velocities and EMG 
+The reduced ability of muscles to generate strength 
+may be a significant risk factor for low back pain (G. 
+Shin, D’Souza, and Liu 2009). P. O’Sullivan et al. (2006) 
+observed decreased activity in lumbar MF while mov -
+ing from upright sitting to slump sitting, suggesting 
+the occurrence of relaxation of the spinal stabilising 
+muscles. However, the muscle activity pattern was 
+highly variable. In our study there were no statistically 
+significant differences between groups. However, FRR 
+of the left multifidus during forward bending was 
+greater in the ‘high’ than in the ‘low’ sitting group. 
+That finding may be the result of greater lumbar spine 
+ROM during forward bending in the ‘high’ sitting 
+group. However, the sEMG results are rather inconclu -
+sive which is in line with O’Sullivan’s previous study. 
+With regard to the large data scatter our results of 
+sEMG should be interpreted with caution. 
+Greater angular velocity of the spine observed in 
+the ‘high’ sitting group could be considered a risk fac -
+tor in back muscles injuries. Yoon, Shiekhzadeh, and 
+Nordin (2012) suggests that faster movement during 
+loading tasks significantly affects passive spinal ele -
+ments due to the viscoelastic characteristics of tissues. 
+Greater acceleration of movement requires coordi -
+nated muscle recruitment to initiate and continue 
+the movement. 
+The different FRP levels found in participants with 
+different flexibilities can be explained by the change 
+of lumbar curvature. Previously, it has been demon -
+strated that participants with low flexibility exhibited 
+more evident FRP (Chen et al. 2018). Contrary, we 
+have noticed that high sitting group, which showed 
+greater lumbar-pelvic ratio, demonstrated greater FRP, 
+nevertheless this finding was not statistically signifi -
+cant and needs further investigations. 
+4.3. Limitations and future research 
+Our study has a few limitations. First, the effect sizes 
+of statistically significant comparisons between groups 
+are rather small (0.30–0.37). Thus, current results 
+should be interpreted with caution and need further 
+investigation. 
+Second, we did not investigate hamstring extensi -
+bility and we consider this a main limitation of our 
+study. Previously, angular tests measured by goniome -
+ters. such as active knee extensions, have been 
+recommended as criterion measures (Mayorga-Vega, 
+Merino-Marban, and Viciana 2014). An analysis of the 
+relationship between hamstring flexibility, sitting time, 
+and lumbar-pelvic kinematics may justify our reason -
+ing about the causes of the current results. 
+According to the authors’ knowledge, this is the 
+first study investigating the relationship between sit -
+ting behaviour and lumbar-pelvic kinematics during 
+squatting and forward bending. Due to the fact that 
+we have investigated only physically active people, it 
+should be worth investigating whether the association 
+between sitting time and lumbar-pelvic kinematics is 
+stronger in non-physically active persons or 
+office workers. 
+4.4. Practical applications 
+This study has practical implications for students and 
+other young people continuing their education who 
+spend a lot of time sitting but are trying to meet the 
+PA recommendation. Our study shows that lumbar 
+pelvic kinematics can be affected by sitting time even 
+when physical activity level is sufficient or high. 
+Therefore, sedentary behaviour should be taken into 
+account by physical therapists, coaches and other pro -
+fessionals when evaluating squats and forward flexion 
+movements. Higher education is a critical period of 
+life when health behaviours can be formed in young 
+adults. Thus, education for reducing sedentary behav -
+iours among students could be a public health strat -
+egy for LBP prevention (Vainshelboim et al. 2019). 
+According to Heneghan et al. (2018) it is probable 
+that young adults are a ‘risk’ group for developing 
+future musculoskeletal complaints like LBP, and it is 
+very likely that they will work in occupations where 
+substantial periods of time will be sitting. 
+ERGONOMICS
+ 9
+
+===== PAGE 11 =====
+
+Understanding lumbar-pelvic kinematics can provide 
+new information about not clear relationship of seden -
+tary behaviour and risk of LBP. Several biomechanical 
+studies have been conducted to clarify the relation -
+ship between sitting and LBP (Tor �en 2001; Mork and 
+Westgaard 2009). Our investigation can be considered 
+as a starting point for making more specific research 
+about how sitting time is associated with biomechan -
+ics during functional dynamic tasks to those accrued 
+through engaging in moderate-to-vigorous phys -
+ical activity. 
+5. Conclusions 
+Lumbar-pelvic kinematics are significantly altered by 
+longer sitting times in physically active people. 
+Lumbar-pelvic ratios during squatting and forward 
+bending and spine velocity during squatting were 
+greater in participants who have been sitting longer 
+than 7 h/day. That suggests that sitting time can be 
+considered one of the factors influencing lumbar- 
+pelvic biomechanics during dynamic tasks. Thus, it 
+should be taken into account during an assessment of 
+squatting and forward bending movements. Moreover, 
+our study extends our understanding of sitting behav -
+iours and tries to explain the relationship between 
+longer sitting time and potential LBP risk. 
+Disclosure statement 
+No potential conflict of interest was reported by the author(s). 
+Funding 
+The author(s) reported there is no funding associated with 
+the work featured in this article. 
+ORCID 
+Magdalena Zawadka 
+ http://orcid.org/0000-0001- 
+6087-017X 
+Jakub Smolka 
+ http://orcid.org/0000-0002-8350-2537 
+Maria Skublewska-Paszkowska 
+ http://orcid.org/0000-0002- 
+0760-7126 
+Edyta Lukasik 
+ http://orcid.org/0000-0003-3644-9769 
+Mirosław Jablonski 
+ http://orcid.org/0000-0002-7490-4745 
+Piotr Gawda 
+ http://orcid.org/0000-0003-0265-9960 
+Data availability statement 
+The data that support the findings of this study are available 
+from the corresponding author upon reasonable request. 
+References 
+Biernat, E. 2013. “International Physical Activity 
+Questionnaire–Polish Long Version.” Polish Journal of 
+Sports Medicine 29 (1): 1–15. 
+Bontrup, Carolin, William R. Taylor, Michael Fliesser, Rosa 
+Visscher, Tamara Green, Pia-Maria Wippert, and Roland 
+Zemp. 2019. “Low Back Pain and Its Relationship with 
+Sitting Behaviour among Sedentary Office Workers.” 
+Applied Ergonomics 81 (November): 102894. doi:10.1016/j. 
+apergo.2019.102894. 
+Chau, Josephine Y., Anne C. Grunseit, Tien Chey, Emmanuel 
+Stamatakis, Wendy J. Brown, Charles E. Matthews, 
+Adrian E. Bauman, and Hidde P. van der Ploeg. 2013. 
+“Daily Sitting Time and All-Cause Mortality: A Meta- 
+Analysis.” PLoS One 8 (11): e80000. doi:10.1371/journal. 
+pone.0080000. 
+Chen, Yi-Lang, Wei-Cheng Lin, Ying-Hua Liao, and Chia-Jou 
+Lin. 2018. “Effect of Individual Flexibility and Knee Posture 
+on the Lumbar Curvature and Back Muscle Flexion- 
+Relaxation Phenomenon.” International Journal of 
+Industrial Ergonomics 68 (November): 82–88. doi:10.1016/j. 
+ergon.2018.06.009. 
+Dankaerts, Wim, Peter O’Sullivan, Angus Burnett, and Leon 
+Straker. 2006. “Differences in Sitting Postures Are 
+Associated with Nonspecific Chronic Low Back Pain 
+Disorders When Patients Are Subclassified.” Spine 31 (6): 
+698–704. doi:10.1097/01.brs.0000202532.76925.d2. 
+Ekelund, Ulf, Jostein Steene-Johannessen, Wendy J. Brown, 
+Morten Wang Fagerland, Neville Owen, Kenneth E. Powell, 
+Adrian Bauman, and I.-Min Lee. 2016. “Does Physical 
+Activity Attenuate, or Even Eliminate, the Detrimental 
+Association of Sitting Time with Mortality? A Harmonised 
+Meta-Analysis of Data from More than 1 Million Men and 
+Women.” Lancet (London, England) 388 (10051): 
+1302–1310. doi:10.1016/S0140-6736(16)30370-1. 
+Esola, M. A., P. W. McClure, G. K. Fitzgerald, and S. Siegler. 
+1996. “Analysis of Lumbar Spine and Hip Motion during 
+Forward Bending in Subjects with and without a History 
+of Low Back Pain.” Spine 21 (1): 71–78. 
+Fatima, Ghulam, Muhammad Mustafa Qamar, Jawad Ul 
+Hassan, and Ayesha Basharat. 2017. “Extended Sitting Can 
+Cause Hamstring Tightness.” Saudi Journal of Sports 
+Medicine 17 (2): 110. doi:10.4103/sjsm.sjsm_5_17. 
+Fritz, Catherine O., Peter E. Morris, and Jennifer J. Richler. 
+2012. “Effect Size Estimates: Current Use, Calculations, and 
+Interpretation.” Journal of Experimental Psychology. General 
+141 (1): 2–18. doi:10.1037/a0024338. 
+Gajdosik, R. L., C. K. Hatcher, and S. Whitsell. 1992. “Influence 
+of Short Hamstring Muscles on the Pelvis and Lumbar 
+Spine in Standing and during the Toe-Touch Test.” Clinical 
+Biomechanics 7 (1): 38–42. doi:10.1016/0268- 
+0033(92)90006-P. 
+Gardner, Benjamin, Lee Smith, Fabiana Lorencatto, Mark 
+Hamer, and Stuart J. H. Biddle. 2016. “How to Reduce 
+Sitting Time? A Review of Behaviour Change Strategies 
+Used in Sedentary Behaviour Reduction Interventions 
+among Adults.” Health Psychology Review 10 (1): 89–112. 
+doi:10.1080/17437199.2015.1082146. 
+Hanna, Fahad, Rua N. Daas, Tasneem J. El-Shareif, Haneen H. 
+Al-Marridi, Zaina M. Al-Rojoub, and Oyelola A. Adegboye. 
+2019. “The Relationship between Sedentary Behavior, Back 
+10
+ M. ZAWADKA ET AL.
+
+===== PAGE 12 =====
+
+Pain, and Psychosocial Correlates among University 
+Employees.” Frontiers in Public Health 7 (April): 80. doi:10. 
+3389/fpubh.2019.00080. 
+Harrison, D. D., S. O. Harrison, A. C. Croft, D. E. Harrison, and 
+S. J. Troyanovich. 1999. “Sitting Biomechanics Part I: 
+Review of the Literature.” Journal of Manipulative and 
+Physiological Therapeutics 22 (9): 594–609. doi:10.1016/ 
+S0161-4754(99)70020-5. 
+Hasebe, Kiyotaka, Yu Okubo, Koji Kaneoka, Kohei Takada, 
+Daisuke Suzuki, and Koichi Sairyo. 2016. “The Effect of 
+Dynamic Stretching on Hamstrings Flexibility with Respect 
+to the Spino-Pelvic Rhythm.” The Journal of Medical 
+Investigation 63 (1.2): 85–90. doi:10.2152/jmi.63.85. 
+Hasebe, Kiyotaka, Koichi Sairyo, Yasushi Hada, Akira Dezawa, 
+Yu Okubo, Koji Kaneoka, and Yoshio Nakamura. 2014. 
+“Spino-Pelvic-Rhythm with Forward Trunk Bending in 
+Normal Subjects without Low Back Pain.” European Journal 
+of Orthopaedic Surgery & Traumatology 24 (Suppl 1): 
+193–199. doi:10.1007/s00590-013-1303-1. 
+Heneghan, Nicola R., Gemma Baker, Kimberley Thomas, 
+Deborah Falla, and Alison Rushton. 2018. “What is the 
+Effect of Prolonged Sitting and Physical Activity on 
+Thoracic Spine Mobility? An Observational Study of Young 
+Adults in a UK University Setting.” BMJ Open 8 (5): 
+e019371. doi:10.1136/bmjopen-2017-019371. 
+Jandre Reis, Felipe Jose, and Adriana Ribeiro Macedo. 2015. 
+“Influence of Hamstring Tightness in Pelvic, Lumbar and 
+Trunk Range of Motion in Low Back Pain and 
+Asymptomatic Volunteers during Forward Bending.” Asian 
+Spine J 9 (4): 535–540. doi:10.4184/asj.2015.9.4.535. 
+Jelsma, Judith G. M., Joanne Gale, Anne Loyen, Femke van 
+Nassau, Adrian Bauman, and Hidde P. van der Ploeg. 
+2019. “Time Trends between 2002 and 2017 in Correlates 
+of Self-Reported Sitting Time in European Adults.” PLoS 
+One 14 (11): e0225228. doi:10.1371/journal.pone.0225228. 
+Jia, Bochen, and Maury A. Nussbaum. 2018. “Influences of 
+Continuous Sitting and Psychosocial Stress on Low Back 
+Kinematics, Kinetics, Discomfort, and Localized Muscle 
+Fatigue during Unsupported Sitting Activities.” Ergonomics 
+61 (12): 1671–1684. doi:10.1080/00140139.2018.1497815. 
+Kasahara, Satoshi, Kenji Miyamoto, Mitsuhiko Takahashi, 
+Masanori Yamanaka, and Naoki Takeda. 2008. “Lumbar- 
+Pelvic Coordination in the Sitting Position.” Gait & Posture 
+28 (2): 251–257. doi:10.1016/j.gaitpost.2007.12.004. 
+Kazi, Aadil, Cheryl Haslam, Myanna Duncan, Stacy Clemes, 
+and Ricardo Twumasi. 2019. “Sedentary Behaviour and 
+Health at Work: An Investigation of Industrial Sector, Job 
+Role, Gender and Geographical Differences.” Ergonomics 
+62 (1): 21–30. doi:10.1080/00140139.2018.1489981. 
+Kim, Min-hee, Chung-hwi Yi, Oh-yun Kwon, Sang-hyun Cho, 
+Heon-seock Cynn, Young-ho Kim, Seon-hong Hwang, Bo- 
+ram Choi, Ji-a Hong, and Doh-heon Jung. 2013. 
+“Comparison of Lumbopelvic Rhythm and Flexion- 
+Relaxation Response between 2 Different Low Back Pain 
+Subtypes.” Spine 38 (15): 1260–1267. doi:10.1097/BRS. 
+0b013e318291b502. 
+Laird, Robert A., Jayce Gilbert, Peter Kent, and Jennifer L. 
+Keating. 2014. “Comparing Lumbo-Pelvic Kinematics in 
+People with and without Back Pain: A Systematic Review 
+and Meta-Analysis.” BMC Musculoskeletal Disorders 15 
+(July): 229. doi:10.1186/1471-2474-15-229. 
+Laird, Robert A., Jennifer L. Keating, Kasper Ussing, Paoline 
+Li, and Peter Kent. 2019. “Does Movement Matter in 
+People with Back Pain? Investigating ‘Atypical’ Lumbo- 
+Pelvic Kinematics in People with and without Back Pain 
+Using Wireless Movement Sensors.” BMC Musculoskeletal 
+Disorders 20 (1): 28. doi:10.1186/s12891-018-2387-x. 
+Larivi �ere, C., D. Gagnon, and P. Loisel. 2000. “The Effect of Load 
+on the Coordination of the Trunk for Subjects with and 
+without Chronic Low Back Pain during Flexion-Extension 
+and Lateral Bending Tasks.” Clinical Biomechanics 15 (6): 
+407–416. doi:10.1016/S0268-0033(00)00006-1. 
+Lear, Scott A., Weihong Hu, Sumathy Rangarajan, Danijela 
+Gasevic, Darryl Leong, Romaina Iqbal, Amparo Casanova, 
+Sumathi Swaminathan, R. M. Anjana, Rajesh Kumar, 
+Annika Rosengren, Li Wei, Wang Yang, Wang Chuangshi, 
+Liu Huaxing, Sanjeev Nair, Rafael Diaz, Hany Swidon, 
+Rajeev Gupta, Noushin Mohammadifard, Patricio Lopez- 
+Jaramillo, Aytekin Oguz, Katarzyna Zatonska, Pamela 
+Seron, Alvaro Avezum, Paul Poirier, Koon Teo, and Salim 
+Yusuf. 2017. “The Effect of Physical Activity on Mortality 
+and Cardiovascular Disease in 130000 People from 17 
+High-Income, Middle-Income, and Low-Income Countries: 
+The PURE Study.” The Lancet 390 (10113): 2643–2654. doi: 
+10.1016/S0140-6736(17)31634-3. 
+Little, Jesse S., and Partap S. Khalsa. 2005. “Human Lumbar 
+Spine Creep during Cyclic and Static Flexion: Creep Rate, 
+Biomechanics, and Facet Joint Capsule Strain.” Annals of 
+Biomedical Engineering 33 (3): 391–401. doi:10.1007/ 
+s10439-005-1742-x. 
+Loyen, Anne, Hidde P. van der Ploeg, Adrian Bauman, 
+Johannes Brug, and Jeroen Lakerveld. 2016. “European 
+Sitting Championship: Prevalence and Correlates of Self- 
+Reported Sitting Time in the 28 European Union Member 
+States.” Plos One 11 (3): e0149320. doi:10.1371/journal. 
+pone.0149320. 
+Matusiak-Wieczorek, Ewelina, Anna Lipert, Ewa Kochan, and 
+Anna Jegier. 2020. “The Time Spent Sitting Does Not 
+Always Mean a Low Level of Physical Activity.” BMC Public 
+Health 20 (1): 317. doi:10.1186/s12889-020-8396-3. 
+Mayorga-Vega, Daniel, Rafael Merino-Marban, and Jes �us 
+Viciana. 2014. “Criterion-Related Validity of Sit-and-Reach 
+Tests for Estimating Hamstring and Lumbar Extensibility: 
+A Meta-Analysis.” Journal of Sports Science & Medicine 13 
+(1): 1–14. 
+McGorry, Raymond W., and Jia-Hua Lin. 2012. “Flexion 
+Relaxation and Its Relation to Pain and Function over the 
+Duration of a Back Pain Episode.” PLoS One.7 (6): e39207. 
+doi:10.1371/journal.pone.0039207. 
+Mork, Paul Jarle, and Rolf H. Westgaard. 2009. “Back Posture 
+and Low Back Muscle Activity in Female Computer 
+Workers: A Field Study.” Clinical Biomechanics 24 (2): 
+169–175. doi:10.1016/j.clinbiomech.2008.11.001. 
+Neblett, Randy, Tom G. Mayer, Robert J. Gatchel, Janice Keeley, 
+Tim Proctor, and Christopher Anagnostis. 2003. “Quantifying 
+the Lumbar Flexion–Relaxation Phenomenon: Theory, 
+Normative Data, and Clinical Applications.” Spine 28 (13): 
+1435–1446. doi:10.1097/01.BRS.0000067085.46840.5A. 
+O’Sullivan, Peter B., Tim Mitchell, Paul Bulich, Rob Waller, 
+and Johan Holte. 2006. “The Relationship Between 
+Posture and Back Muscle Endurance in Industrial Workers 
+with Flexion-Related Low Back Pain.” Manual Therapy 11 
+(4): 264–271. doi:10.1016/j.math.2005.04.004. 
+ERGONOMICS
+ 11
+
+===== PAGE 13 =====
+
+O’Sullivan, Peter, Wim Dankaerts, Angus Burnett, Dvir Chen, 
+Randy Booth, Charlotte Carlsen, and Adam Schultz. 2006. 
+“Evaluation of the Flexion Relaxation Phenomenon of the 
+Trunk Muscles in Sitting.” Spine 31 (17): 2009–2016. doi: 
+10.1097/01.brs.0000228845.27561.e0. 
+Park, Sang-Min, Ho-Joong Kim, Hyunseok Jeong, Hyoungmin 
+Kim, Bong-Soon Chang, Choon-Ki Lee, and Jin S. Yeom. 
+2018. “Longer Sitting Time and Low Physical Activity Are 
+Closely Associated with Chronic Low Back Pain in 
+Population over 50 Years of Age: A Cross-Sectional Study 
+Using the Sixth Korea National Health and Nutrition 
+Examination Survey.” The Spine Journal 18 (11): 
+2051–2058. doi:10.1016/j.spinee.2018.04.003. 
+Pries, Esther, Marcel Dreischarf, Maxim Bashkuev, Michael 
+Putzier, and Hendrik Schmidt. 2015. “The Effects of Age 
+and Gender on the Lumbopelvic Rhythm in the Sagittal 
+Plane in 309 Subjects.” Journal of Biomechanics 48 (12): 
+3080–3087. doi:10.1016/j.jbiomech.2015.07.030. 
+“Sensor Locations.” 2021. Accessed April 4, 2021. http:// 
+seniam.org/multifidus.html. 
+Shin, Gwanseob, Clive D’Souza, and Yu-Hsun Liu. 2009. 
+“Creep and Fatigue Development in the Low Back in 
+Static Flexion.” Spine 34 (17): 1873–1878. doi:10.1097/BRS. 
+0b013e3181aa6a55. 
+Shin, Sun-shil, and Won-gyu Yoo. 2020. “The Effect of 
+Sagittal Hip Angle on Lumbar and Hip Coordination and 
+Pelvic Posterior Shift during Forward Bending.” European 
+Spine Journal 29 (3): 438–445. doi:10.1007/s00586-019- 
+06129-4. 
+Shojaei, Iman, Elizabeth G. Salt, Quenten Hooker, Linda R. 
+Van Dillen, and Babak Bazrgari. 2017. “Comparison of 
+Lumbo-Pelvic Kinematics during Trunk Forward Bending 
+and Backward Return between Patients with Acute Low 
+Back Pain and Asymptomatic Controls.” Clinical 
+Biomechanics (Bristol, Avon) 41 (January): 66–71. doi:10. 
+1016/j.clinbiomech.2016.12.005. 
+Shojaei, Iman, Milad Vazirian, Elizabeth G. Salt, Linda R. Van 
+Dillen, and Babak Bazrgari. 2017. “Timing and Magnitude 
+of Lumbar Spine Contribution to Trunk Forward Bending 
+and Backward Return in Patients with Acute Low Back 
+Pain.” Journal of Biomechanics 53 (February): 71–77. doi: 
+10.1016/j.jbiomech.2016.12.039. 
+Stamatakis, Emmanuel, Joanne Gale, Adrian Bauman, Ulf 
+Ekelund, Mark Hamer, and Ding Ding. 2019. “Sitting Time, 
+Physical Activity, and Risk of Mortality in Adults.” Journal 
+of the American College of Cardiology 73 (16): 2062–2072. 
+doi:10.1016/j.jacc.2019.02.031. 
+Stamatakis, Emmanuel, and Jason M. R. Gill. 2019. “Sitting 
+Behaviour and Physical Activity: Two Sides of the Same 
+Cardiovascular Health Coin?” British Journal of Sports 
+Medicine 53 (14): 852–853. doi:10.1136/bjsports-2018-099640. 
+Thomas, James S., Christopher R. France, Steven A. Lavender, 
+and Monica R. Johnson. 2008. “Effects of Fear of 
+Movement on Spine Velocity and Acceleration after 
+Recovery from Low Back Pain.” Spine 33 (5): 564–570. 
+doi:10.1097/BRS.0b013e3181657f1a. 
+Tomczak, M., and E. Tomczak. 2014. “The Need to Report 
+Effect Size Estimates Revisited. An Overview of Some 
+Recommended Measures of Effect Size.” Trends in Sport 
+Sciences 1 (21): https://www.infona.pl//resource/bwmeta1. 
+element.agro-c9d1981f-962f-405d-83a7-47080c2a1c8f. 
+Tor �en, Anna. 2001. “Muscle Activity and Range of Motion 
+during Active Trunk Rotation in a Sitting Posture.” Applied 
+Ergonomics 32 (6): 583–591. doi:10.1016/S0003-6870(01) 
+00040-0. 
+Vainshelboim, Baruch, Gabrielle M. Brennan, Stephen 
+LoRusso, Patricia Fitzgerald, and Kristofer S. Wisniewski. 
+2019. “Sedentary Behavior and Physiological Health 
+Determinants in Male and Female College Students.” 
+Physiology & Behavior 204 (May): 277–282. doi:10.1016/j. 
+physbeh.2019.02.041. 
+van Uffelen, Jannique G. Z., Yolanda R. van Gellecum, 
+Nicola W. Burton, Geeske Peeters, Kristiann C. Heesch, and 
+Wendy J. Brown. 2013. “Sitting-Time, Physical Activity, and 
+Depressive Symptoms in Mid-Aged Women.” American 
+Journal of Preventive Medicine 45 (3): 276–281. doi:10. 
+1016/j.amepre.2013.04.009. 
+Vazirian, Milad, Iman. Shojaei, Anuj Agarwal, and Babak 
+Bazrgari. 2017. “Lumbar Contribution to the Trunk 
+Forward Bending and Backward Return; Age-Related 
+Differences.” Ergonomics 60 (7): 967–976. doi:10.1080/ 
+00140139.2016.1237676. 
+Waqas, Muhammad,  Sharif, Mazher Ali, Saba Hussain, and 
+Sajid Mahmood. 2016. “Frequency of Reduced Hamstring 
+Flexibility in Prolong Sitting (6-8 Hours) among Office 
+Workers.” Journal Riphah College of Rehabilitation Sciences 
+4 (2): 77–80. 
+Yoon, Jangwhon, Ali Shiekhzadeh, and Margareta Nordin. 
+2012. “The Effect of Load Weight vs. Pace on Muscle 
+Recruitment during Lifting.” Applied Ergonomics 43 (6): 
+1044–1050. doi:10.1016/j.apergo.2012.03.004. 
+Zawadka, Magdalena, Maria Skublewska-Paszkowska, Piotr 
+Gawda, Edyta Lukasik, Jakub Smolka, and Miroslaw 
+Jablonski. 2018. “What Factors Can Affect Lumbopelvic 
+Flexion-Extension Motion in the Sagittal Plane?: A 
+Literature Review.” Human Movement Science 58 
+(February): 205–218. doi:10.1016/j.humov.2018.02.008. 
+Zawadka, Magdalena, Jakub Smołka, Maria Skublewska- 
+Paszkowska, Edyta Łukasik, Grzegorz Zieli �nski, Aleksandra 
+By �s, and Piotr Gawda. 2020. “Altered Squat Movement 
+Pattern in Patients with Chronic Low Back Pain.” Annals of 
+Agricultural and Environmental Medicine 28 (1): 158–162. 
+doi:10.26444/aaem/117708.  
+12
+ M. ZAWADKA ET AL.

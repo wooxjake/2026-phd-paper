@@ -1,0 +1,1230 @@
+===== PAGE 1 =====
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=terg20
+Ergonomics
+ISSN: 0014-0139 (Print) 1366-5847 (Online) Journal homepage: http://www.tandfonline.com/loi/terg20
+Influences of Continuous Sitting and Psychosocial
+Stress on Low Back Kinematics, Discomfort, and
+Localized Muscle Fatigue During Unsupported
+Sitting Activities
+Bochen Jia & Maury A. Nussbaum
+To cite this article: Bochen Jia & Maury A. Nussbaum (2018): Influences of Continuous Sitting and
+Psychosocial Stress on Low Back Kinematics, Discomfort, and Localized Muscle Fatigue During
+Unsupported Sitting Activities, Ergonomics, DOI: 10.1080/00140139.2018.1497815
+To link to this article:  https://doi.org/10.1080/00140139.2018.1497815
+Accepted author version posted online: 09
+Jul 2018.
+Submit your article to this journal 
+View Crossmark data
+
+===== PAGE 2 =====
+
+Influences of Continuous Sitting and Psychosocial Stress on 
+Low Back Kinematics, Discomfort, and Localized Muscle Fatigue 
+During Unsupported Sitting Activities 
+ 
+Bochen Jiaa, Maury A. Nussbaumb 
+aDepartment of Industrial and Manufacturing Systems Engineering  
+University of Michigan-Dearborn 
+Dearborn, MI 48126, USA 
+bDepartment of Industrial and Systems Engineering  
+Virginia Tech 
+Blacksburg, VA 24061, USA 
+ 
+CORRESPONDING AUTHOR 
+Bochen Jia 
+Department of Industrial and Manufacturing Systems Engineering 
+University of Michigan-Dearborn 
+2340 Engineering Complex 
+Accepted Manuscript
+
+===== PAGE 3 =====
+
+4901 Evergreen Rd., Dearborn, MI 48126, USA 
+Influences of Continuous Sitting and Psychosocial Stress on Low Back 
+Kinematics, Discomfort, and Localized Muscle Fatigue During Unsupported 
+Sitting Activities 
+ 
+Abstract 
+Continuous seated postures may increase the risk of adverse health outcomes such 
+as low-back pain, and this risk may be influenced by several modifying influences.  In 
+the present study, we aimed to quantify the effects of continuous sitting and 
+psychosocial stress under an unsupported sitting condition.  Fourteen participants 
+completed continuous, 40-min. periods of computer-based tasks, involving both low 
+and higher levels of psychosocial stress, while using a laptop computer without a 
+desk.  Continuous sitting significantly increased perceived discomfort (particularly in 
+the upper and lower back), trunk flexion, and metrics of localized muscle fatigue.  A 
+higher level of psychosocial stress increased estimated lumbosacral compression 
+forces (by ~12%).  Only weak correlations were found between subjective and 
+objective measures, while various fatigue metrics showed a good level of 
+correspondence with each other.  These results could support the future evaluation or 
+design of diverse seated work configurations. 
+ 
+Keywords: Continuous sitting; Psychosocial stress; Perceived discomfort; Muscle 
+Fatigue; Lumbosacral kinematics; Spine Biomechanics; Laptop Computer Use; 
+Unsupported Sitting 
+  
+Accepted Manuscript
+
+===== PAGE 4 =====
+
+Practitioner Summary 
+Continuous, 40 min. periods of unsupported sitting had broad impacts on subjective 
+and objective outcomes, including discomfort, postures, spine loads, and localized 
+muscle fatigue, while psychosocial stress only had a substantial influence on 
+lumbosacral compression.  These results extend our understanding of sitting 
+behaviors and provide information for designing future sitting environments. 
+Nomenclature  
+LBP Low Back Pain MPF Median Power Frequency (Hz) 
+EMG Electromyography PCA Principal Component Analysis 
+LS Low Psychosocial Stress EPC1 Dominant principal component 
+of EMG  
+HS  High Psychosocial Stress PPC1 Dominant principal component 
+of perceived discomfort scores 
+FR Flexion-Relaxation ANOVA Analysis of Variance 
+SR Stimulation Response MANOVA Multivariate Analysis of Variance 
+MVC Maximal Voluntary Muscle 
+Contraction 
+ 
+FANT Anterior-Posterior Shear Force 
+(N) 
+Left (L) and Right (R) sides for the following 
+muscle groups: 
+FCOMP Compression Force (N) EL Erector Spinae Lumbar Group  
+FLAT Lateral Shear Force (N) ET Erector Spinae Thoracic Group 
+MLAT Lateral Bending Moment (Nm) MF Multifidus 
+MAXIAL Axial Rotation Moment (Nm) IO Internal Oblique 
+MFLEX Flexion Moment (Nm) EO External Oblique 
+PD Perceived Discomfort RA Rectus Abdominis 
+ 
+1 Introduction 
+Sedentary behavior, especially prolonged continuous sitting, presents emerging 
+health risks in both occupational and non-occupational settings (Owen et al., 2014).  
+Recent estimates indicate that many adults maintain seated postures in over 90% of 
+their leisure time (Chau et al., 2012) and over half of their working hours (Thorp et al., 
+2012; Bronwyn et al., 2015).  Furthermore, individuals who work mainly in a seated 
+posture are more likely to experience or aggravate low back pain (LBP: NIOSH, 1997; 
+Dankaerts et al., 2006; O'Sullivan et al., 2006; Womersley and May, 2006).  Sitting 
+behaviors can also be affected by diverse job-related factors, such as the working 
+Accepted Manuscript
+
+===== PAGE 5 =====
+
+environment (Magnusson and Pope, 1998; Delleman et al., 2004), seated work 
+duration (Keyserling, 1991; Pitman and Ntuen, 1996; Stricker et al., 2003), or 
+psychological task stress (Ellegast et al., 2007; Taib and Yun, 2014).  
+ 
+Due to the flexibility of using mobile devices, such as smartphones, laptops, or tablets, 
+many users choose to use these portable devices in situations without a desk. In 
+addition, many places involve situations in which unsupported seating is all that is 
+available (i.e., non-desk conditions with or without a backrest). For example, flexible 
+library and activity-based, open-plan office concepts turn many workplaces into a 
+more flexible environment, but with no designated workstation assigned to any user. 
+To maximize occupancy, unsupported seating environments are also common 
+solutions provided in public areas, such as airport or coffee shops.  These 
+environments often provide a mix of benches, chairs, booths, and lounge areas 
+(Figure 1) for various collaborative activities, but they can also require individuals to 
+work in unsupported seating conditions (Rianne et al. 2011, Asher 2017). The current 
+study employed particular scenarios involving unsupported sitting, simulating 
+continuous working conditions with limited in-chair movements. Using mobile devices 
+under such sitting conditions could increase exposure to postures that may increase 
+the risk of musculoskeletal disorders (Kim 2015, Yassierli and Juraida 2016).  
+ 
+Accepted Manuscript
+
+===== PAGE 6 =====
+
+Figure 1. Examples of activity-based, open-plan office and library environments. 
+ 
+Prolonged sitting often results in discomfort and/or pain in the lower back (Fenety et 
+al., 2000; Beach et al., 2005; Dunk and Callaghan, 2005; Gregory et al., 2006).  
+However, the effects of a single continuous period of sitting on worker performance 
+are not well studied, and there remains a lack of evidence quantifying the 
+development of discomfort and associated risks. In addition, high mental workloads 
+and stressful working schedules are often characteristics of modern jobs that require 
+continuous sitting.  Psychosocial stress describes non-physical aspects of work, such 
+as time pressure and high information processing demands, each of which has been 
+found to contribute to the risks of developing work-related musculoskeletal disorders 
+(Bongers et al. 1993, Hartvigsen et al. 2004). More specifically, psychosocial stress 
+has been related to the development of work-related musculoskeletal disorders in 
+upper extremities (Hughes et al., 2007; Thiese, et al., 2015), shoulder (Blangsted et 
+al., 2004; Mehta and Agnew, 2012), and back (Hartvigsen et al., 2004; Marras et al., 
+2000; Kato, et al., 2013; Taib and Yun, 2014). However, the combined effects of 
+psychosocial stress and continuous sitting on LBP risks have not been quantified.   
+ 
+Accepted Manuscript
+
+===== PAGE 7 =====
+
+There is also some inconsistency in reported evidence regarding the relationship 
+between these factors and the risk of sitting-related LBP (Leboeuf-Yde, 2004; 
+Womersley and May, 2006; Lis et al., 2007), which may be due, at least in part, to the 
+insensitivity of the evaluation methods employed.  The effects of continuous sitting on 
+lumbosacral loads may be caused by time-dependent changes in muscle fatigability 
+and/or viscoelastic behavior of passive trunk components (Bigland-Ritchie et al., 1995; 
+McLean et al., 1997; Keller and Nathan, 1999; Beach et al., 2005).  Localized muscle 
+fatigue has been measured via muscle EMG to assess the effects of continuous 
+sitting on the lumbosacral region (McLean et al., 1997; Seghers et al., 2003), yet 
+EMG-based assessments of muscle fatigue can be relatively less effective while 
+muscle activities are less than 15% of maximal muscle capacity (Öberg et al., 1992; 
+Öberg et al., 1994). Other more sensitive methods, such as based on external muscle 
+stimulation, provide an alternative approach to reliably detect muscle fatigue during 
+low-level muscle contractions (Johnson, 1998, Jia et al., 2015; Jeremy et al., 2015; 
+Garcia, et al., 2015).  An accurate estimation of lumbosacral loads during prolonged 
+sitting is also reliant on appropriately modeling viscoelastic tissue behaviors.  No 
+existing study, to our knowledge, has quantified potential time-dependent changes in 
+lumbosacral loads resulted from continuous sitting, with consideration of both the 
+active (via muscle fatigue) and passive (via viscoelastic behaviors) contributions of 
+the lumbar tissue. 
+ 
+Therefore, this study was designed to determine the effects of continuous sitting and 
+psychosocial stress under an unsupported sitting condition, using both subjective 
+(discomfort) and objective (lumbosacral kinematics and kinetics, muscle activity, and 
+muscle fatigue) measures.  Participants completed two unsupported, laptop-based 
+Accepted Manuscript
+
+===== PAGE 8 =====
+
+seated tasks, intended to represent a continuous, unsupported working condition with 
+limited in-chair movements.  We hypothesized that continuous sitting and 
+psychosocial stress would have significant adverse effects that are reflected in both 
+subjective and objective measures, and that there would be a correspondence 
+between these different measures.  A longer-term goal of this effort was to expand 
+our understanding of the potential adverse consequences of continuous sitting and 
+psychosocial stress under unsupported sitting conditions, and to provide information 
+to develop practical interventions to reduce sitting-related discomfort and injury risks.    
+ 
+2 Methods 
+2.1 Participants 
+Fourteen participants (gender balanced) completed the experiment and were 
+recruited from the local student population and community.  Mean (SD) age, stature, 
+and body mass were 24.5 (4.1) yrs, 174.5 (9.1) cm, and 72.3 (11.1) kg, respectively.  
+After a demonstration of the experimental protocols, all participants completed an 
+informed consent process approved by the Institutional Review Board.  No 
+participants had any self-reported musculoskeletal injuries or neurological diseases 
+within the past year, and individuals with body mass index >30 kg/m2 were excluded 
+due to the potential difficulties in obtaining surface EMG measures and evoking 
+reliable muscle stimulation responses.   
+ 
+2.2 Experimental Design  
+Participants completed two tasks in separate trials that each involved continuous (40 
+min) use of a laptop in a seated posture without a desk (as shown in Figure 2).  While 
+some individuals may sit longer, a 40-min period was thought to represent a typical 
+Accepted Manuscript
+
+===== PAGE 9 =====
+
+uninterrupted period of laptop usage without a desk.  Each trial involved participants 
+sitting on a stool with no backrest.  Stool height was adjusted prior to the first trial for 
+each participant, so that both thighs were horizontal and with a 90° included knee 
+angle.  The stool height, laptop placement, and participants’ postures were recorded, 
+and the same setup was used in the second trial.  To represent a continuous static 
+sitting condition while using a laptop away from a desk (Moffet et al., 2002; Asundi et 
+al., 2010; Gold et al., 2012), participants were instructed to complete the tasks while 
+maintaining a relaxed kyphotic posture without large ranges of body movement or 
+communicating with the experimenters. Participants were still allowed to alleviate any 
+postural stresses by switching their posture between the relaxed kyphotic posture and 
+a more upright sitting posture. Participants were also allowed to withdraw from the 
+study at any time due to discomfort or other reason (though no participants withdrew 
+from the study). 
+ 
+Figure 2. Illustration of the use of a laptop without a desk. 
+ 
+Accepted Manuscript
+
+===== PAGE 10 =====
+
+These tasks were done in two conditions involving different levels of psychosocial 
+stress (low vs. higher).  In the LS condition, participants engaged in relaxed internet 
+browsing, which involved performing self-directed “surfing” (e.g., reading news, 
+streaming video).  A HS was introduced by asking participants to complete a typing 
+task in a situation involving both additional mental workload and time pressure.  
+During the typing task, participants duplicated several paragraphs from a typing test 
+program (Typing Test TQ, Giletech e.K., Germany).  To induce additional mental 
+workload, pairs of two-digit numbers were displayed between each paragraph of text, 
+and participants were asked to mentally calculate the product or summation of these 
+paired numbers, similar to approaches used by others (Kirschbaum et al., 1992; 
+Hughes et al., 2007; Wang et al., 2011).  To add time pressure, participants were 
+asked to type as fast as they could, and they were offered a $10 bonus, as an 
+incentive, if they completed the typing task at a rate ≥ 115% of their baseline speed. 
+This baseline was measured initially during a 1-min typing task completed at an 
+individual’s normal typing speed.  The order of LS and HS conditions was 
+counterbalanced across participants, and at least four days were provided between 
+each trial to minimize carry-over effects (Edwards et al., 1977; Jones et al., 1989).   
+ 
+The experimental procedures are summarized in Figure 3. The experiment started 
+with a calibration procedure that included measures of resting and maximal voluntary 
+muscle contractions as described earlier (Jia and Nussbaum, 2016). After a brief rest 
+period, in which participants were allowed to move and stretch as desired, the FR 
+angle of the trunk was measured, then SR of the lumbar extensor muscles were 
+collected in a constrained but relaxed upright sitting position as described earlier (Jia 
+Accepted Manuscript
+
+===== PAGE 11 =====
+
+et al., 2015). Participants subsequently completed a 40-min continuous seated task 
+under one of the two stress conditions.  
+ 
+ 
+ 
+ 
+ 
+Figure 3. Illustration of experimental procedures. Calibrations: calibration trials for the 
+EMG-based model. 
+ 
+At the beginning of each task, participants were also asked to rate their perceived 
+discomfort. Upon completing each task, PD scores, SR and FR angles were collected 
+again. Prior to the seated exposures, FR responses were collected first, since SR 
+exposures were in a seated posture and thus could have impacted FR measures.  
+After the seated exposures, SR responses were collected first, to minimize fatigue 
+recovery that may have occurred if FR measures were obtained prior to these. During 
+the 40-min tasks, EMG, trunk kinematics, and lumbosacral moments and forces were 
+measured continuously. Data from the first minute of each 40-min task were 
+discarded, since participants often needed this time to obtain a stable posture. 
+Further details regarding each measure are described below.   
+Accepted Manuscript
+
+===== PAGE 12 =====
+
+2.3 Trunk Flexion-Relaxation Angle  
+Participants were asked to bend forward from an upright standing position to reach 
+their end range-of-motion in trunk flexion (Shirado et al., 1995; Callaghan and Dunk, 
+2002; Solomonow et al., 2003).  FR angle was then determined by the relative silence 
+of lumbar extensor muscle activity, using procedures described earlier (Hendershot et 
+al., 2011).  For each trial, post-task FR angle was normalized to the initial value 
+collected before the task.   
+ 
+2.4 Muscle Stimulation Responses  
+Stimulated responses of the lumbar extensor muscles were measured as an indicator 
+of localized muscle fatigue, following the setup and protocols described in Jia et al. 
+(2015).  In brief, a dual-channel system – consisting of a stimulator (Grass S88) in 
+series with a stimulus isolation unit (SIU5) and a constant current unit (CCU1; all from 
+AstroMed, Inc., West Warwick, RI) – was used to electrically stimulate the lumbar 
+extensors bilaterally at the L3 level.  After a conditioning train, stimulation responses 
+were collected (at 1000 Hz) during three, 16-second stimulation trains at 2 Hz.  Post-
+task SR responses were normalized to initial values.   
+ 
+2.5 Electromyography 
+Surface EMG signals were collected continuously during the 40-min seated tasks.  
+Two eight-channel, telemetered EMG systems (TeleMyo 900, Noraxon, AZ) were 
+used to collect surface EMG bilaterally from 12 lumbar muscles, which included three 
+lumbar extensors [EL group, ET group, and MF], and three lumbar flexors [IO, EO, 
+and RA].  As illustrated in Figure 4, placements of disposable bipolar Ag/AgCl 
+Accepted Manuscript
+
+===== PAGE 13 =====
+
+electrodes (AccuSensor, Lynn Medical, MI) were derived from existing studies (McGill 
+1992, Mirka and Marras 1993, Cholewicki and McGill 1996, Potvin et al., 1996, Hides 
+et al., 2008):  
+ EL:  3 – 4 cm lateral to the spinous process at the L3 level, parallel to the 
+muscle fibers 
+ ET:  4 – 5 cm lateral to the spinous process at the T9/T10 level 
+ MF:  1 – 2 cm lateral to the spinous process at the L3/L4 level 
+ IO:  10 – 12 cm lateral to umbilicus and superior to the inguinal ligament 
+ EO:  mid-point between 12th rib and anterior superior iliac spine 
+ RA:  2 – 3 cm lateral to the umbilicus 
+ 
+                        
+Figure 4. Front and back views showing the placement of IMUs sensors and EMG 
+electrodes on body (labeled unilaterally) 
+ 
+EO 
+IO 
+ RA 
+ET 
+EL 
+MF 
+IMU 
+Accepted Manuscript
+
+===== PAGE 14 =====
+
+Raw EMG signals were sampled at 1000 Hz and then amplified, band-pass filtered 
+(20 - 400 Hz), and root-mean-square converted with a moving window of 50-
+millisecond duration in hardware. Root mean squared EMG signals were 
+downsampled to 100 Hz to match the sampling rate for trunk kinematics (see below). 
+Median power frequency was determined from the raw EMG of each muscle over 1-
+second windows, from the first five (i.e., 2-6 min) and the last five min. of each task; 
+MPF was calculated using Fast Fourier Transforms as described in van Dieën et al. 
+(1993). Mean values of EMG MPF over these 5-min samples were then obtained, and 
+subsequently normalized to initial values. 
+ 
+2.6 Localized Muscle Fatigue 
+Localized muscle fatigue was assessed using two methods.  The first method used 
+raw EMG obtained during the trials, as described above.  Mean EMG MPF obtained 
+from the first five and the last five min of each task were calculated, and changes 
+between these mean values were used as a fatigue index in each muscle.  The 
+second method used mean stimulation responses, with muscle fatigue indicated as a 
+decrease in stimulation responses after vs. before the 40-min tasks (Edwards et al., 
+1977; Binder-Macleod and Snyder-Mackler, 1993; Johnson et al., 1995a, Jia et al., 
+2015).   
+ 
+2.7 Perceived Discomfort 
+Perceived discomfort, for the whole body and eight local body parts (neck, left/right 
+shoulders, upper/lower back, buttocks and left/right thighs), was measured using a 
+Discomfort Rating Scale (Figure 5). 
+Accepted Manuscript
+
+===== PAGE 15 =====
+
+Figure 5. Methods used to obtain subjective ratings of perceived discomfort (adapted 
+from Corlett and Bishop, 1976; Borg, 1990; and Kyung and Nussbaum, 2008) 
+ 
+2.8 Trunk Kinematics 
+Trunk angles were also collected continuously during the 40-min trials.  Trunk angles 
+were defined as the relative angles between the trunk segment and pelvis, and the 
+latter were monitored using two inertial measurement units (IMUs: MVN, Xsens Inc., 
+Los Angeles, CA) that were attached to the dorsal aspect of the trunk at the T10 and 
+S1 levels (Figure 4).  Both IMUs were aligned with their respective Y axes pointing 
+superiorly, and trunk angles were calculated using Xsens software. Since participants 
+were required to maintain a generally symmetric posture and movement in the 
+sagittal plane was the main focus of this study, off-plane movement was assumed to 
+be negligible. IMUs were sampled at 100 Hz and subsequently low-pass filtered at 4 
+Accepted Manuscript
+
+===== PAGE 16 =====
+
+Hz (4th order Butterworth; bidirectional).  Mean (SD) values of trunk angles were 
+determined from the first five and the last five min. of each task.  
+ 
+2.9 Lumbosacral Joint Moments and Forces  
+An EMG-based trunk model (Jia and Nussbaum 2016) was used to estimate 
+lumbosacral kinetics (forces and moments).  Both EMG and trunk angles were used 
+as inputs to the model, which was calibrated to each individual.  Specific model 
+outputs were lumbosacral moments (MLAT, MAXIAL, and MFLEX) and lumbosacral 
+reaction forces (FANT, FCOMP, and FLAT).   
+ 
+2.10 Statistical Analyses 
+MANOVA (using Wilks’ Lambda) was used to determine the effects of continuous 
+sitting (first vs. last five minutes), psychosocial stress, and their interaction on the 
+dependent measures as a whole.  Specific dependent measures were triaxial 
+lumbosacral forces and moments, FR angle, trunk flexion angle, stimulation response, 
+muscle EMG and MPF, and PD.  In the event of a significant MANOVA effect, 
+univariate ANOVAs were performed for each dependent variable where relevant.  
+Effects were considered significant when p<0.05.  To assess whether there was any 
+underlying relationship among perceived discomfort from the eight body segments, 
+PCA was performed on the PD scores.  For the same purpose, PCA analysis was 
+also performed on EMG MPF from all measured muscles.  The level of 
+correspondence between objective measures [trunk flexion angles, compression 
+forces, flexion/extension moments, muscle EMG MPF (principal components), and 
+stimulation responses] and subjective measures [perceived discomfort (principal 
+components)] was evaluated using bivariate coefficients of correlation (ρ).  To assess 
+Accepted Manuscript
+
+===== PAGE 17 =====
+
+the consistency between the two fatigue measurement methods used, ρ values were 
+also obtained between EMG median frequencies (principal components) and 
+stimulation responses.   
+ 
+3 Results 
+MANOVA results indicated that both continuous sitting (p<0.01) and psychosocial 
+stress (p=0.04) had significant effects on the set of dependent measures, but there 
+was not a significant interaction effect (p=0.90).  Results of univariate ANOVAs (Table 
+1) indicated that continuous sitting had significant main effects on a number of 
+dependent measures, which included trunk flexion angles, stimulation responses, 
+MPF from most muscles, and perceived discomfort in all body regions evaluated.  In 
+contrast, psychosocial stress had relatively few significant effects. 
+  
+Accepted Manuscript
+
+===== PAGE 18 =====
+
+Table 1. Summary of ANOVA results for the main effects of continuous sitting and 
+psychosocial stress.  Significant effects are highlighted in bold text. 
+ Continuous Sitting Psychosocial Stress 
+ F(1,1057) p F(1,1057) p 
+Lumbosacral 
+Moments 
+and Forces FANT 0.09 0.76 1.63 0.21 
+FCOMP 0.87 0.36 6.89 <0.01 
+FLAT 20.09 <0.01 14.41 <0.01 
+MLAT 0.67 0.42 8.53 0.01 
+MAXIAL 0.28 0.60 0.74 0.40 
+MFLEX 0.12 0.74 1.78 0.19 
+Trunk Flexion Angle  8.32 <0.01 1.09 0.30 
+FR Angle 0.49 0.49 2.83 0.10 
+SR 4.01 0.05 0.11 0.74 
+EMG Median Frequency LMF 2.16 0.15 0.07 0.79 
+LEL 7.65 <0.01 0.15 0.71 
+LET 5.36 0.02 1.02 0.32 
+LEO 5.46 0.03 0.11 0.75 
+LIO 6.51 0.02 0.25 0.62 
+LRA 2.71 0.12 2.59 0.12 
+RMF 10.58 <0.01 0.17 0.68 
+REL 6.25 0.02 3.11 0.09 
+RET 4.34 0.04 3.02 0.09 
+REO 0.03 0.86 0.13 0.73 
+RIO 6.38 0.02 0.94 0.34 
+RRA 5.10 0.03 1.23 0.74 
+Perceived 
+Discomfort 
+Neck 35.31 <0.01 1.01 0.32 
+L Shoulder 22.59 <0.01 0.01 0.94 
+R Shoulder 32.45 <0.01 0.09 0.77 
+Upper Back 106.53 <0.01 1.94 0.17 
+Lower Back 39.64 <0.01 0.03 0.86 
+Buttock 27.86 <0.01 0.32 0.57 
+L Wrist 5.68 0.02 1.71 0.20 
+R Wrist 11.85 <0.01 0.48 0.49 
+Whole Body 104.07 <0.01 1.02 0.32 
+ 
+FR, SR, and EMG MPF results are summarized in Figure 6.  Although not significant, 
+FR angle generally increased at the end of each task with large between-subject 
+variation.  Signs of muscle fatigue were found from both fatigue measurement 
+methods.  Continuous sitting resulted in a significant decrease in SR and significant 
+declines in MPF from all muscles except the LMF, LRA, and REO.  No main or 
+Accepted Manuscript
+
+===== PAGE 19 =====
+
+interaction effects of psychosocial stress were found for stimulation response, EMG 
+MPF, or FR angle.  Though not significant, both fatigue measurements indicated 
+more fatigue in the HS condition. 
+ 
+Figure 6. Illustration of mean changes (after vs. before task) in normalized flexion-
+relaxation angles (FR), stimulation responses (SR), and EMG median frequencies.  
+All measures were normalized to initial values (i.e., 0% = no change over time). The * 
+symbol indicates a significant effect of continuous sitting, and error bars indicate 
+standard deviations. 
+ 
+PD results are summarized in Figure 7. Discomfort for the whole body and for each of 
+the eight local body parts increased significantly by the end of the 40-min trials.  The 
+highest level of perceived discomfort was found in the upper back, followed by the 
+lower back and whole body.  No main or interaction effects of psychosocial stress 
+were found on PD measures. 
+ 
+60%
+80%
+100%
+120%
+140%
+FR SR LMF LEL LET LEO LIO LRA RMF REL RET REO RIO RRA
+Mean Changes (%) 
+* 
+* 
+* 
+* * 
+* * 
+* * * 
+40 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+-20 
+ 
+ 
+ 
+-40 
+Accepted Manuscript
+
+===== PAGE 20 =====
+
+Figure 7. Mean (SD) values of perceived discomfort for each body part.  All PD 
+scores significantly (p<0.01) increased at the end of the task. Error bars indicate 
+standard deviations. 
+ 
+Across all experimental trials, mean levels of muscle activity were typically lower than 
+10% of MVC) and the highest levels of muscle activity were observed for the bilateral 
+ETs.  No significant (p>0.10) differences in mean muscle activity levels were found 
+between the two psychosocial stress conditions.  However, activation levels of the 
+trunk extensors were typically higher in the HS condition (Figure 8).  Activation levels 
+of the trunk flexors, in contrast, were generally lower in the HS condition excepting 
+the left IO.  
+ 
+0
+1
+2
+3
+4
+5
+LS HS LS HS LS HS LS HS LS HS LS HS LS HS LS HS LS HS
+neck left
+shoulder
+right
+shoulder
+upper
+back
+lower
+back
+buttock left wrist right
+wrist
+whole
+body
+PD Score 
+Beginning End
+Accepted Manuscript
+
+===== PAGE 21 =====
+
+Figure 8. Summary of muscle activation levels between the two stress conditions.  
+Error bars indicate standard deviations. 
+ 
+Across all trials, mean (SD) lumbosacral moments in lateral bending, axial rotation, 
+and flexion were 1.7 (1.4), 2.4 (2.5), and 19.9 (8.2) Nm, respectively.  Respective 
+mean (SD) levels of lumbosacral forces were 68.1 (43.5), 771.5 (205.6), and 24.0 
+(22.1) N for anterior shear, compression, and lateral shear.  Continuous sitting 
+significantly increased lateral shear forces, from 18.0 (18.0) N to 29.9 (24.4) N.  The 
+higher psychosocial stress condition increased compression forces [from 723.6 
+(164.7) N in LS vs. 819.3 (232.7) N in HS], and lateral bending moments [from 1.6 
+(1.1) Nm in LS vs. 1.8 (1.6) Nm in HS], but decreased lateral shear forces [from 25.83 
+(26.3) N in LS vs. 22.1 (17.1) N in HS].  Continuous sitting also resulted in higher 
+trunk flexion angles, from 12.5 (11.0) o initially to 19.2 (6.8) o at the end of the tasks. 
+ 
+For both perceived discomfort scores and EMG MPF, principal component analyses 
+revealed one dominant PC for each, and which accounted for > 38% of the variance 
+in EMG MPF and > 67% of the variance in perceived discomfort scores (Table 2). 
+0%
+4%
+8%
+12%
+16%
+LMF LEL LET LEO LIO LRA RMF REL RET REO RIO RRA
+Activation Level (% MVC) 
+Muscles 
+LS HS
+Accepted Manuscript
+
+===== PAGE 22 =====
+
+The dominant component, EPC1, varies together with all the EMG MPF, which can 
+be viewed as a measure of overall level of fatigue. Likewise, the dominant component 
+PPC1 of perceived discomfort scores can be viewed as representing the overall level 
+of perceived discomfort.   
+ 
+Table 2. Principal component coefficients for EMG MPF and PD scores. 
+PD Neck 
+Left 
+Shoulder 
+Right 
+Shoulder 
+Upper 
+Back 
+Lower 
+Back Buttock 
+Left 
+Wrist 
+Right 
+Wrist 
+Whole 
+Body 
+PPC1 0.3 0.36 0.35 0.32 0.32 0.33 0.34 0.35 0.33 
+EMG LMF LEL LET LEO LIO LRA RMF REL RET REO RIO RRA 
+EPC1 0.15 0.37 0.12 0.37 0.19 0.40 0.27 0.35 0.17 0.20 0.31 0.38 
+ 
+As shown in Figure 9, no strong or significant relationships were found between 
+objective and subjective measures.  Although not significant, PPC1 was positively 
+associated with trunk flexion angle, compression forces, and flexion moments, and 
+was negatively associated with stimulation responses and EPC1.  A positive, though 
+not significant, relationship was found between EPC1 and stimulation responses. 
+ 
+Accepted Manuscript
+
+===== PAGE 23 =====
+
+(A)                                                               (B) 
+  
+ (C)                                                               (D) 
+  
+(E)                                                                  (F) 
+Figure 9. Relationships between subjective (PPC1) and objective measures [lumbar 
+angle (A), compression force (B), flexion moment (C), EPC1 (D) and stimulation 
+responses (E)], as well as between stimulation responses and EPC1 (F). 
+  
+0
+4
+8
+12
+-0.04 0 0.04 0.08
+PPC1 
+Trunk Flexion Angle (rad) 
+ρ=0.13 p=0.33 ρ=0.13 p=0.36 
+0
+4
+8
+12
+0 500 1000 1500
+PPC1 
+Compression force (N) 
+ρ=0.16 p=0.24 
+0
+4
+8
+12
+0 20 40 60
+PPC1 
+Flex/Ext moments (Nm) 
+ρ=-0.16 p=0.23 
+0
+4
+8
+12
+2 4 6
+PPC1 
+EPC1 
+ρ=-0.11 p=0.40 
+0
+4
+8
+12
+10 30 50
+PPC1 
+Stimulation Responses (N) 
+ρ=0.23 p=0.08 
+3
+4
+5
+10 30 50
+EPC1 
+Stimulation Responses (N) Accepted Manuscript
+
+===== PAGE 24 =====
+
+4 Discussion 
+The objective of this study was to determine the effects of continuous sitting and 
+psychosocial stress, in the context of unsupported sitting, on lumbosacral kinematics 
+and kinetics, perceived discomfort, and localized muscle fatigue.  Only the main 
+effects of continuous sitting and psychosocial stress on selected dependent 
+measures were significant, which suggests that the effects of different level of stress 
+were consistent across the 40-min sitting periods examined.  It is unclear, though, if 
+this lack of an interaction effect will generalize to a larger range of exposure 
+conditions or longer sitting durations.   
+ 
+Continuous sitting significantly increased the magnitude of lateral shear forces 
+(p<0.01).  As noted earlier, absolute values were analyzed, though these forces 
+varied over a wide range (from - 55.17 N to 111.01 N).  The tasks here were 
+completed in largely symmetrical postures, for which the major trunk rotations and 
+major lumbosacral kinetics were in the sagittal plane.  Previous evidence indicates 
+that participants have less effective motor control, especially when muscles are 
+fatigued, in the coronal and transverse planes when performing a task mainly in the 
+sagittal plane, and which results in substantially different muscle recruitment patterns 
+for identical tasks (Parnianpour et al., 1988).  As such, the observed changes in 
+predicted lateral shearing forces may have been caused by underlying changes in 
+muscle recruitment during continuous sitting.   
+ 
+While the impacts of psychosocial stress were significant for only a limited number of 
+the current dependent measures, the higher psychosocial stress condition (HS) did 
+increase compression forces by 12%.  Previous work has indicated that increased 
+Accepted Manuscript
+
+===== PAGE 25 =====
+
+psychosocial stress could contribute to increased muscle activation, especially during 
+conditions involving relatively low physical demands (Marras et al., 2000; Hughes, 
+2004; Hughes et al., 2007); such increased muscle activity was found here (Figure 8), 
+though the differences were not significant. These increased muscle activations, 
+however, likely contributed to the increased predicted compression forces (Cholewicki 
+et al., 1995; Granata and Marras, 2000).   
+ 
+There were significant increases in trunk flexion angles at the end of both tasks.  
+Participants were asked to maintain a static, kyphosed sitting posture, with minimal 
+posture adjustments or in-chair movement.  Both creep and fatigue in the low back 
+can develop with static trunk flexion (Kazarian, 1975; Keller et al., 1987; Adams and 
+Dolan, 1996; Kanlayanaphotporn et al., 2002), and creep may occur after only five 
+minutes of static flexion (Adams and Dolan, 1996; Kanlayanaphotporn et al., 2002).  
+FR angle is often used as an indicator of creep deformation in the spinal structure 
+under flexion exposures, with results from such studies indicating that continuous 
+trunk flexion increases FR angle (Olson et al., 2004; Olson et al., 2006; Shin et al., 
+2009).  Here, the increase in trunk flexion angles indicated a potential trunk 
+deformation over the 40 min of continuous sitting, which was further supported by the 
+increase (albeit not statistically significant) in FR angles.   
+ 
+Localized fatigue was measured using both muscle stimulation and EMG MPF.  
+Continuous sitting resulted in significant decreases in stimulated responses and 
+declines in EMG MPF for several flexor and extensor muscles at the end of the 40-
+min periods in both psychosocial stress conditions. These decreases suggest that 
+localized muscle fatigue did occur as a result of completing the continuous, 
+Accepted Manuscript
+
+===== PAGE 26 =====
+
+unsupported seated task in a kyphosed sitting posture.  Some of the inconsistencies 
+between muscles may be attributed to functional differences between the trunk 
+flexors and extensors.  During continuous sitting, trunk extensors are usually 
+considered as postural muscles, and which are required to be continuously activated 
+to stabilize the sitting posture (van Dieën et al., 2001; Mork and Westgaard, 2005; 
+Mork and Westgaard, 2009).  Consistent with this functional muscle role, we 
+observed declines in EMG MPF among three trunk extensors (EL, ET, and MF).  The 
+observed decrease in EMG MPF in the bilateral IO also supports the role of the IO 
+muscle in stabilizing the trunk during sitting, consistent with some existing evidence 
+(Snijders et al., 1995).   
+ 
+The correspondence between two distinct fatigue measurement methods was 
+determined. Only a weak positive correlation was evident between EMG MPF and 
+stimulation responses (Figure 9E), though with indications in both responses of 
+localized fatigue developing by the end of the continuous seated tasks.  Consistency 
+between these different measures supports that fatigue indeed developed during 
+these tasks, though the lack of a strong correspondence between them suggests that 
+they may be reflecting different underlying phenomena and that both approaches 
+have potential value in assessing muscle fatigue during continuous sitting. 
+ 
+Perceived discomfort also significantly increased at the end of 40 min of continuous 
+sitting.  A continuous static sitting posture, such as that imposed by the non-desk 
+setup in this study, has been shown to lead to discomfort in the neck, shoulders, and 
+back (Grandjean et al., 1983; Stokes et al., 1987; Gay et al., 2006), and which 
+increases over time during uninterrupted tasks at work (Marras et al., 1995; Ostensvik 
+Accepted Manuscript
+
+===== PAGE 27 =====
+
+et al., 2009). To minimize potential confounding effects of in-chair movement, 
+participants here maintained a kyphosed sitting posture, as one example of a sitting 
+posture adopted in non-desk conditions, and which can increase intradiscal pressures 
+(Wilcox and Keselman, 2003), stretch the posterior spine ligaments (Owen et al., 
+2010), and restrict nutrient supplies to nerves (Hallal et al., 2012). These factors may 
+have contributed to the observed increases in discomfort.   
+ 
+While subjective measures (e.g., perceived discomfort) provided direct assessment of 
+sitting discomfort, objective measures can potentially provide unbiased estimations 
+that are related to sitting discomfort (Lee et al., 1993; Kyung et al., 2008).  Support for 
+objective measures as useful additions to subjective measurements of sitting 
+discomfort would be provided if a good correlation existed between these two types of 
+measures.  Several studies have been completed to identify the relationship between 
+subjective measures (e.g., perceived discomfort) and a range of objective measures 
+including trunk posture, EMG, and interface pressure (Eklund and Corlett, 1987; Lee 
+et al., 1993; Salewytsch and Callaghan, 1999; Vergara and Page, 2000).  Here, the 
+first principal component of PD scores was used as a representation of overall 
+perceived discomfort across all measured body parts and the whole body, and 
+correlations were obtained between PPC1 and several objective measures (trunk 
+flexion angle, muscle EMG MPF and stimulation responses, Figure 9).  Although no 
+statistically significant (p>0.23) correlations were found between subjective and 
+objective measures, trunk flexion angle was positively associated with perceived 
+discomfort, specifically with higher trunk flexion angles corresponding with higher 
+perceived discomfort, a relationship consistent with previous evidence (Eklund and 
+Corlett, 1987).  Declines in both fatigue measures (EPC1 and stimulation response) 
+Accepted Manuscript
+
+===== PAGE 28 =====
+
+were also found to be associated with an increase in perceived discomfort.  This 
+association suggests that participants may have perceived higher discomfort, at least 
+in part, as a result of localized muscle fatigue, as has been described earlier 
+(Rohmert and Luczak, 1978; Zhang et al., 1996).   
+ 
+Four potential limitations of this work need to be acknowledged.  First, the effects of 
+continuous sitting and psychosocial stress were evaluated under a constrained sitting 
+condition.  Each experimental task was completed with participants sitting in a single, 
+fixed posture, and with minimal in-chair moments.  In realistic sitting situations, 
+participants are free to make postural adjustments or take microbreaks to reduce 
+body discomfort (Salewytsch and Callaghan, 1999; McLean et al., 2001).  Therefore, 
+the results of the current study may have limited ability to generalize to the broader 
+use of a laptop or other mobile device in various unsupported sitting conditions.  
+Future work is needed to test the effects of continuous sitting and psychosocial stress 
+under more complex task conditions that include a wider range of trunk movements 
+and sitting postures.  Second, the duration of the continuous task was determined 
+based on the results from our pilot studies, where muscle fatigue was observed after 
+30 min of quiet sitting.  There is a lack of evidence, to our knowledge, regarding 
+typical exposure durations for laptop use without a desk, so the applicability of the 
+current work, in terms of the duration of actual use, is unknown.  In addition, 40 min of 
+continuous sitting may not be of sufficient duration to detect potential time-dependent 
+changes in passive trunk components (via viscoelastic changes).  Additional study is 
+needed to identify the common exposure durations of sitting under different 
+conditions and a longer duration could be also expected to detect the time-dependent 
+changes associated with passive and active trunk components.  Third, only two 
+Accepted Manuscript
+
+===== PAGE 29 =====
+
+psychosocial stress levels were evaluated in this study, which may not reflect the 
+spectrum of psychosocial stress situations.  Including more stress conditions may 
+help to better identify the effects of psychosocial stress over time. Fourth, while 
+significant increases in whole-body and localized discomfort were found as a result of 
+the 40-min. seated exposures, the final values were relatively low overall (Figure 7) 
+and it is unclear if these values represent practically-meaningful level, and the lack or 
+more substantial discomfort may have precluded identifying stronger correlations 
+between discomfort and objective measures (Figure 9). 
+ 
+In summary, unsupported continuous sitting was found to have important impacts on 
+lumbosacral kinematics, and to lead to the development of muscle fatigue and 
+perceived discomfort.  The current findings suggest that sitting for moderate 
+continuous periods (i.e., 40 min.) can lead to higher body discomfort, internal spinal 
+loads, and localized fatigue, which could further increase risks of developing LBP.  
+Though more limited effects of psychosocial stress were found, the higher-level 
+stress imposed here did lead to an increase in lumbosacral compression.  These 
+outcomes were evident after 40 min of sitting under experimental conditions involving 
+laptop use without a desk, which could be of particular concern for some conditions of 
+mobile device use (e.g., in an airport).  This study highlighted the potential influence 
+of sitting-related moderating factors on individual behaviors and provided evidence to 
+facilitate a better understanding of sitting-related risks.  Further research is still 
+needed, however, to assess the effects of continuous sitting and psychosocial stress 
+in more complex occupational and non-occupational sitting conditions through more 
+detailed analysis, such as estimation of time-sensitive lumbosacral loads using 
+advanced spine model.  
+Accepted Manuscript
+
+===== PAGE 30 =====
+
+5 Acknowledgements 
+All authors declare that they have no conflict of interest. All authors contributed to the 
+initiation of the study, study design, conduct of the study, analysis and interpretation 
+of data, and preparation of the manuscript. 
+ 
+ 
+ 
+6 References  
+Adams, M. A. and P. Dolan (1996). "Time-dependent changes in the lumbar spine's 
+resistance to bending." Clinical Biomechanics 11(4): 194-200. 
+Asher, A. D. (2017). "Space Use in the Commons: Evaluating a Flexible Library 
+Environment." Evidence Based Library & Information Practice 12(2): 68-89. 
+Asundi, K., D. Odell, Luce, A., and Dennerlein, J. T. (2010). "Notebook computer use 
+on a desk, lap and lap support: Effects on posture, performance and comfort." 
+Ergonomics 53(1): 74 - 82. 
+Shahidi, B., Haight, A., Maluf, K. (2013). "Differential effects of mental concentration 
+and acute psychosocial stress on cervical muscle activity and posture." 
+Journal of Electromyography and Kinesiology 23(5): 1082-1089. 
+Bauman, A., Ainsworth, B. E., Sallis, J. F., Hagströmer, M., Craig, C. L., Bull, F. C., 
+Pratt, M., Venugopal, K., Chau, J., and Sjöström, M. (2011). "The Descriptive 
+Epidemiology of Sitting: A 20-Country Comparison Using the International 
+Physical Activity Questionnaire (IPAQ)." American Journal of Preventive 
+Medicine 41(2): 228-235. 
+Beach, T. A., R. J. Parkinson, Stothart J.P., Callaghan, J.P. (2005). "Effects of 
+prolonged sitting on the passive flexion stiffness of the in vivo lumbar spine." 
+Spine J 5(2): 145-154. 
+Bigland-Ritchie, B., C. Rice, Garland, SJ, and Walsh, ML. (1995). "Task-dependent 
+factors in fatigue of human voluntary contractions." Advances in Experimental 
+Medicine and Biology 384: 361-380. 
+Binder-Macleod, S. A. and L. Snyder-Mackler (1993). "Muscle Fatigue: Clinical 
+Implications for Fatigue Assessment and Neuromuscular Electrical 
+Stimulation." Physical Therapy 73(12): 902-910. 
+Blangsted, A., K. Søgaard, Christensen, H., and Sjøgaard, G. (2004). "The effect of 
+physical and psychosocial loads on the trapezius muscle activity during 
+computer keying tasks and rest periods." European Journal of Applied 
+Physiology 91(2): 253-258. 
+Bongers, P. M., C. R. de Winter, M. A. J. Kompier and V. H. Hildebrandt (1993). 
+"Psychosocial factors at work and musculoskeletal disease." Scandinavian 
+Journal of Work, Environment & Health 19(5): 297-312. 
+Accepted Manuscript
+
+===== PAGE 31 =====
+
+Borg, G. (1990). "Psychophysical scaling with applications in physical work and the 
+perception of exertion." Scandinavian Journal of Work, Environment and 
+Health 16 Suppl 1: 55-58. 
+Clark, B. and T. Sugiyama (2015). Prevalence, Trends, and Correlates of Sedentary 
+Behavior. Physical Activity, Exercise, Sedentary Behavior and Health, 
+Springer: 79-90. 
+Callaghan, J. P. and N. M. Dunk (2002). "Examination of the flexion relaxation 
+phenomenon in erector spinae muscles during short duration slumped sitting." 
+Clinical Biomechanics 17(5): 353-360. 
+Chau, J. Y., Merom, D., Grunseit, A., Rissel, C., Bauman, A. E. and van der Ploeg, H. 
+P. (2012). "Temporal trends in non-occupational sedentary behaviours from 
+Australian Time Use Surveys 1992, 1997 and 2006." International Journal of 
+Behavioral Nutrition and Physical Activity 9: 76. 
+Cholewicki, J., McGill, S.M., and Norman R.W. (1995). "Comparison of muscle forces 
+and joint load from an optimization and EMG assisted lumbar spine model: 
+towards development of a hybrid approach." Journal of Biomechanics 28(3): 
+321-331. 
+Cholewicki, J. and S. M. McGill (1996). "Mechanical stability of the in vivo lumbar 
+spine: implications for injury and chronic low back pain." Clinical Biomechanics 
+11(1): 1-15. 
+Corlett, E. N. and R. P. Bishop (1976). "A Technique for Assessing Postural 
+Discomfort." Ergonomics 19(2): 175-182. 
+Dankaerts, Wim, O'Sullivan, Peter, Burnett, Angus, Straker, Leon. (2006). 
+"Differences in Sitting Postures are Associated With Nonspecific Chronic Low 
+Back Pain Disorders When Patients Are Subclassified." Spine 31(6): 698-704. 
+Davis, K. G. and C. A. Heaney (2000). "The relationship between psychosocial work 
+characteristics and low back pain: underlying methodological issues." Clinical 
+Biomechanics 15(6): 389-406. 
+Delleman, N. J., Haslegrave, C. M., and Chaffin, Don B. (2004). Working postures 
+and movements : tools for evaluation and engineering. Boca Raton [Fla.], CRC 
+Press. 
+Dunk, N. M. and J. P. Callaghan (2005). "Gender-based differences in postural 
+responses to seated exposures." Clinical Biomechanics 20(10): 1101-1110. 
+Dunstan, D. W., Kingwell, B. A., Larsen, R., Healy, G. N., Cerin, E., Hamilton, M. T., 
+Shaw, J. E., Bertovic, D. A., Zimmet, P. Z., Salmon, J., and Owen, N. (2012). 
+"Breaking up prolonged sitting reduces postprandial glucose and insulin 
+responses." Diabetes Care 35(5): 976-983. 
+Edwards, R. H., Hill, D. K., Jones, D. A., and Merton, P. A. (1977). "Fatigue of long 
+duration in human skeletal muscle after exercise." J Physiol 272(3): 769-778. 
+Eklund, J. A. E. and E. N. Corlett (1987). "Evaluation of spinal loads and chair design 
+in seated work tasks." Clinical Biomechanics 2(1): 27-33. 
+Ellegast, Rolf, Hamburger, Rene, Keller, Kathrin, Krause, Frank, Groenesteijn, 
+Liesbeth, Vink, Peter, Berger, Helmut (2007). Effects of Using Dynamic Office 
+Chairs on Posture and EMG in Standardized Office Tasks. Ergonomics and 
+Health Aspects of Work with Computers. M. Dainoff, Springer Berlin / 
+Heidelberg. 4566: 34-42. 
+Anne Fenety, P., Putnam, Carol, and Walker, Joan M. (2000). "In-chair movement: 
+validity, reliability and implications for measuring sitting discomfort." Applied 
+Ergonomics 31(4): 383-393. 
+Accepted Manuscript
+
+===== PAGE 32 =====
+
+Feller, N., Müller, U., Huynh, K. H., Potthast, W., Dupré, T., & Funck, J. (2017, July). 
+Prospective Design of Seating Systems for Digitalized Working Worlds. In 
+International Conference on Applied Human Factors and Ergonomics (pp. 98-
+105). Springer, Cham. 
+Garcia, Maria-Gabriela, Läubli, Thomas, and Martin, Bernard J (2015). "Long-Term 
+Muscle Fatigue After Standing Work." Human Factors. 7:1162-73 
+Gay, R. E., Ilharreborde, B., Zhao, K., Zhao, C., and An, K. N. (2006). "Sagittal plane 
+motion in the human lumbar spine: comparison of the in vitro quasistatic 
+neutral zone and dynamic motion parameters." Clinical Biomechanics 21(9): 
+914-919. 
+Gold, J. E., Driban, J. B., Yingling, V. R., and Komaroff, E. (2012). "Characterization 
+of posture and comfort in laptop users in non-desk settings." Applied 
+Ergonomics 43(2): 392-399. 
+Granata, K. P. and W. S. Marras (2000). "Cost–Benefit of Muscle Cocontraction in 
+Protecting Against Spinal Instability." Spine 25(11): 1398-1404. 
+Grandjean, E., nting, W., and Pidermann, M. (1983). "VDT Workstation Design: 
+Preferred Settings and Their Effects." Human Factors. 25: 161-175. 
+Gregory, Diane E., Dunk, Nadine M., and Callaghan, Jack P. (2006). “Stability ball 
+versus office chair: comparison of muscle activation and lumbar spine posture 
+during prolonged sitting”. Human Factors. 48: 142-153. 
+Hallal, P. C., Andersen, L. B., Bull, F. C., Guthold, R., Haskell, W., and Ekelund, U. 
+(2012). "Global physical activity levels: surveillance progress, pitfalls, and 
+prospects." Lancet 380(9838): 247-257. 
+Hartvigsen, J., S. Lings, C. Leboeuf-Yde and L. Bakketeig (2004). "Psychosocial 
+factors at work in relation to low back pain and consequences of low back pain; 
+a systematic, critical review of prospective cohort studies." Occupational and 
+environmental medicine 61(1): e2-e2. 
+Hendershot, B., B. Bazrgari, M. Khoirul, Toosizadeh, N.,Nussbaum, M. A.,  and 
+Madigan, M. L. (2011). "Disturbance and recovery of trunk stiffness and 
+reflexive muscle responses following prolonged trunk flexion: Influences of 
+flexion angle and duration." Clinical Biomechanics 26(3): 250-256. 
+Hides, J., C. Gilmore, W. Stanton and E. Bohlscheid (2008). "Multifidus size and 
+symmetry among chronic LBP and healthy asymptomatic subjects." Manual 
+Therapy 13(1): 43-49. 
+Hughes, L. (2004). Effects of Time Pressure and Mental Workload on Physiological 
+Risk Factors for Upper Extremity Musculoskeletal Disorders While Typing. 
+Department of Industrial and System Engineering. Blacksburg, Virgnia Tech.  
+Hughes, Laura E., Babski-Reeves, Kari, and Smith-Jackson, Tonya (2007). "Effects 
+of psychosocial and individual factors on physiological risk factors for upper 
+extremity musculoskeletal disorders while typing." Ergonomics 50(2): 261-274. 
+Jia, B., Kim, S., & Nussbaum, M. A. (2011). “An EMG-based model to estimate 
+lumbar muscle forces and spinal loads during complex, high-effort tasks: 
+Development and application to residential construction using prefabricated 
+walls.” International Journal of Industrial Ergonomics, 41(5), 437-446.  
+Jia, B., M. A. Nussbaum and M. J. Agnew (2015). "A Stimulation Method to Assess 
+the Contractile Status of the Lumbar Extensors in a Seated Posture." Human 
+Factors and Ergonomics in Manufacturing & Service Industries, 25(6), 674-684 
+Accepted Manuscript
+
+===== PAGE 33 =====
+
+Jia, B. and M. A. Nussbaum (2016). "Development and evaluation of an EMG-based 
+model to estimate lumbosacral loads during seated work." International 
+Journal of Industrial Ergonomics 55: 96-102. 
+Jensen, C., Borg, V., Finsen, L., Hansen, K., Juul-Kristensen, B., and Christensen, H. 
+(1998). "Job demands, muscle activity and musculoskeletal symptoms in 
+relation to work with the computer mouse." Scandinavian Journal of Work, 
+Environment and Health 24(5): 418-424. 
+Brownie, J. and B. J. Martin (2015). Muscle fatigue and discomfort associated with 
+standing and walking: Comparison of work surfaces. Proceedings 19th 
+Triennial Congress of the IEA. 
+Johnson, P. W. (1998). The development, characterization and implementation of a 
+technique to measure muscle fatigue during computer use [PhD Dissertation], 
+University of California, Berkeley. 
+Johnson, P. W., S. L. Lehman, Rempel D.M. (1995a). “Measuring low frequency 
+fatigue with 2 Hertz stimulation. I. Stimulus-related potentiation effects”. 
+Engineering in Medicine and Biology Society, 1995., IEEE 17th Annual 
+Conference. 
+Jones, D. A., D. J. Newham, and Torgan, C (1989). "Mechanical influences on long-
+lasting human muscle fatigue and delayed-onset pain." The Journal of 
+Physiology 412(1): 415-427. 
+Kanlayanaphotporn, R., Williams, M., Fulton, I., and Trott, P. (2002). "Reliability of the 
+vertical spinal creep response measured in sitting (asymptomatic and low-
+back pain subjects)." Ergonomics 45(3): 240-247. 
+Kato, K., Sekiguchi, M., Nikaido, T., Otoshi, K., Matsuo, Y., Kikuchi, S., and Konno, S 
+(2013). "Psychosocial stress is associated with onset of low back pain with 
+disability in college students: a longitudinal study before and after the disaster 
+in fukushima: O64." Spine Journal Meeting Abstracts: 45-46. 
+Kazarian, L. E. (1975). "Creep characteristics of the human spinal column." 
+Orthopedic Clinics of North America 6(1): 3-18. 
+Keller, T. S. and M. Nathan (1999). "Height Change Caused by Creep in 
+Intervertebral Discs: A Sagittal Plane Model." Journal of Spinal Disorders and 
+Techniques 12(4): 313-324. 
+Keller, T. S., Spengler, D. M., and Hansson, T. H. (1987). "Mechanical behavior of the 
+human lumbar spine. I. Creep analysis during static compressive loading." 
+Journal of Orthopaedic Research 5(4): 467-478. 
+Keyserling, W. (1991). "Ergonomic job analysis: A structured approach for identifying 
+risk factors associated with overexertion injuries and disorders." Applied 
+occupational and environmental hygiene. 6:5, 353-363 
+Kim, M.-S. (2015). "Influence of neck pain on cervical movement in the sagittal plane 
+during smartphone use." Journal of physical therapy science 27(1): 15-17. 
+Kirschbaum, C, Wust, S, and Hellhammer, D (1992). "Consistent sex differences in 
+cortisol responses to psychological stress." Psychosomatic Medicine 54(6): 
+648-657. 
+Kogi, K. and T. Hakamada (1962). "[Frequency analysis of the surface 
+electromyogram in muscle fatigue]." Rodo Kagaku 38: 519-528. 
+Kyung, G. and M. A. Nussbaum (2008). " Driver sitting comfort and discomfort (part I): 
+Use of subjective ratings in discriminating car seats and correspondence 
+among ratings." International Journal of Industrial Ergonomics 38: 516-525. 
+Accepted Manuscript
+
+===== PAGE 34 =====
+
+Leboeuf-Yde, C. (2004). "Back pain--individual and genetic factors." Journal of 
+Electromyography and Kinesiology 14(1): 129-133. 
+Lee, K. S., P. Ferraiuolo, Temming J. (1993). "Measuring Seat Comfort." SAE 
+Technical Papers Series 930105. 
+Lee, S. Y. and J. L. Brand (2005). "Effects of control over office workspace on 
+perceptions of the work environment and work outcomes." Journal of 
+Environmental Psychology 25(3): 323-333. 
+Lis, AM, Black, KM, Korn, H, and Nordin, M. (2007). "Association between sitting and 
+occupational LBP." European Spine Journal 16(2): 283-298 
+Magnusson, M. L. and M. H. Pope (1998). "A review of the biomechanics and 
+epidemiology of working postures." Journal of Sound and Vibration 215(4): 
+965-976. 
+Magora, A. (1972). "Investigation of the relation between low back pain and 
+occupation. 3. Physical requirements: sitting, standing and weight lifting." IMS 
+Ind Med Surg 41(12): 5-9. 
+Marras, William S., Davis, Kermit G., Heaney, Catherine A., Maronitis, Anthony B., 
+and Allread, W. Gary (2000). "The Influence of Psychosocial Stress, Gender, 
+and Personality on Mechanical Loading of the Lumbar Spine." Spine 25(23): 
+3045-3054. 
+Marras, W. S., Lavender, S. A., Leurgans, S. E., Fathallah, F. A., Ferguson, S. A., 
+Allread, W. G., and Rajulu, S. L. (1995). "Biomechanical risk factors for 
+occupationally related low back disorders." Ergonomics 38(2): 377-410. 
+Thiese, M. S., Hegmann, K T., Kapellusch, J., Merryweather, A., Bao, S., Silverstein, 
+B.,  and Garg, A (2015). "Associations between Distal Upper Extremity Job 
+Physical Factors and Psychosocial Measures in a Pooled Study." BioMed 
+Research International 2015. 
+McLean, L., R. N. Scott, and Rickards, J (1997). “Measurement of muscle fatigue in 
+the cervical and lumbar regions during prolonged sitting”. Engineering in 
+Medicine and Biology Society, 1997. Proceedings of the 19th Annual 
+International Conference of the IEEE. 
+McLean, L., M. Tingley, Scott, RN, and Rickards, J (2001). "Computer terminal work 
+and the benefit of microbreaks." Applied Ergonomics 32(3): 225-237. 
+McGill, S. M. (1992). "A myoelectrically based dynamic three-dimensional model to 
+predict loads on lumbar spine tissues during lateral bending." Journal of 
+biomechanics 25(4): 395-414. 
+Moffet, H., M. Hagberg, Hansson-Risberg, E., and Karlqvist, L. (2002). "Influence of 
+laptop computer design and working position on physical exposure variables." 
+Clinical Biomechanics 17(5): 368-375. 
+Mirka, G. A. and W. S. Marras (1993). "A Stochastic Model of Trunk Muscle 
+Coactivation During Trunk Bending." Spine 18(11): 1396-1409. 
+Mork, P. J. and R. H. Westgaard (2005). "Long-term electromyographic activity in 
+upper trapezius and low back muscles of women with moderate physical 
+activity." Journal of Applied Physiology 99(2): 570-578. 
+Mork, P. J. and R. H. Westgaard (2009). "Back posture and low back muscle activity 
+in female computer workers: A field study." Clinical Biomechanics 24(2): 169-
+175. 
+NIOSH (1997). Musculoskeletal Disorders and Workplace Factors: A Critical Review 
+of Epidemiologic Evidence for Work-Related Musculoskeletal Disorders of the 
+Accepted Manuscript
+
+===== PAGE 35 =====
+
+Neck, Upper Extremity, and Low Back. T. N. I. f. O. S. a. Health, NIOSH 
+Publication. 
+O'Sullivan, P. B., T. Mitchell, Bulich, Paul, Waller, Rob, and Holte, Johan (2006). "The 
+relationship beween posture and back muscle endurance in industrial workers 
+with flexion-related low back pain." Manual Therapy 11(4): 264-271. 
+Öberg, T., L. Sandsjo, and Kadefors, R. (1994). "Subjective and objective evaluation 
+of shoulder muscle fatigue." Ergonomics 37(8): 1323-1333. 
+Öberg, T., L. Sandsjo, Kadefors, R., and Larsson, S. E. (1992). "Electromyographic 
+changes in work-related myalgia of the trapezius muscle." European Journal of 
+Applied Physiology 65(3): 251-257. 
+Olson, M., M. Solomonow and Li L. (2006). "Flexion-relaxation response to gravity." 
+Journal of Biomechanics 39(14): 2545-2554. 
+Olson, M. W., Li L., and Solomonow, M.,. (2004). "Flexion-relaxation response to 
+cyclic lumbar flexion." Clinical Biomechanics 19(8): 769-776. 
+Ostensvik, T., K. B. Veiersted, Petter N. (2009). "A method to quantify frequency and 
+duration of sustained low-level muscle activity as a risk factor for 
+musculoskeletal discomfort." Journal of Electromyography and Kinesiology 
+19(2): 283-294. 
+Owen, N., G. N. Healy, Matthews, C. E., and Dunstan, D. W. (2010). "Too much 
+sitting: the population health science of sedentary behavior." Exercise and 
+Sport Sciences Reviews 38(3): 105-113. 
+Owen, N., Salmon, Jo,  Koohsari, Mohammad Javad, Turrell, Gavin, and Giles-Corti, 
+Billie (2014). "Sedentary behaviour and health: mapping environmental and 
+social contexts to underpin chronic disease prevention." British Journal of 
+Sports Medicine 48(3): 174-177. 
+Parnianpour, M., M. Nordin, Kahanovitz, N., and Frankel, V. (1988). "1988 Volvo 
+award in biomechanics. The triaxial coupling of torque generation of trunk 
+muscles during isometric exertions and the effect of fatiguing isoinertial 
+movements on the motor output and movement patterns." Spine 13(9): 982-
+992. 
+Peddie, M. C., Bone, J. L., Rehrer, N. J., Skeaff, C. M., Gray, A. R., and Perry, T. L. 
+(2013). "Breaking prolonged sitting reduces postprandial glycemia in healthy, 
+normal-weight adults: a randomized crossover trial." American Journal of 
+Clinical Nutrition 98(2): 358-366. 
+Potvin, J. R., R. W. Norman and S. M. McGill (1996). "Mechanically corrected EMG 
+for the continuous estimation of erector spinae muscle loading during 
+repetitive lifting." European Journal of Applied Physiology 74(1): 119-132. 
+Rianne, A. M., G. Peter and J. Ingrid (2011). "An end‐user's perspective on activity‐
+based office concepts." Journal of Corporate Real Estate 13(2): 122-135. 
+Rohmert, W. and H. Luczak (1978). "Ergonomics in the design and evaluation of a 
+system for postal video letter coding." Applied Ergonomics 9. 
+Thomas J. Rothenberg, Franklin M. Fisher and C. B. Tilanus (1964). "A note on 
+estimation from a Cauchy sample." Journal of the American Statistical 
+Association 59(306). 
+Salewytsch, A. J. and J. P. Callaghan (1999). "Can quantified lumbar spine postures 
+and trunk muscle activation levels predict discomfort during prolonged sitting?" 
+the 31st Annual Conference of the ACE. 
+Accepted Manuscript
+
+===== PAGE 36 =====
+
+Seghers, J., A. Jochem, and Spaepen, A. (2003). "Posture, muscle activity and 
+muscle fatigue in prolonged VDT work at different screen height settings." 
+Ergonomics 46(7): 714. 
+Shin, G., C. D’Souza, and Liu YH. (2009). "Creep and Fatigue Development in the 
+Low Back in Static Flexion." Spine 34(17): 1873-1878 
+1810.1097/BRS.1870b1013e3181aa1876a1855. 
+Shirado, O., T. Ito, Kaneda, K., and Strax, T. E. (1995). "Flexion-relaxation 
+phenomenon in the back muscles. A comparative study between healthy 
+subjects and patients with chronic low back pain." American journal of physical 
+medicine & rehabilitation / Association of Academic Physiatrists 74(2): 139-
+144. 
+Snijders, C. J., M. P. Bakker, Vleeming, A., Stoeckart, R., and Stam, H. J. (1995). 
+"Oblique abdominal muscle activity in standing and in sitting on hard and soft 
+seats." Clinical Biomechanics 10(2): 73-78. 
+Solomonow, M., R. V. Baratta, Banks, Anthony, F, Curt, and Zhou, B H (2003). 
+"Flexion–relaxation response to static lumbar flexion in males and females." 
+Clinical Biomechanics 18(4): 273-279. 
+Stokes, I., S. Rush, Moffroid, M., Johnson, G. B., and Haugh, L. D. (1987). "Trunk 
+extensor EMG-torque relationship." Spine 12(8): 770. 
+Stricker, H., G. Colucci, Godio, M., Mossi, G., and Mombelli, G. (2003). "The 
+influence of a prolonged sitting position on the biochemical markers of 
+coagulation activation in healthy subjects: evidence of reduced thrombin 
+generation." J Thromb Haemost 1(2): 380-381. 
+Taib, M. F. M. and M. H. Yun (2014). The effect of psychosocial stress on trapezius 
+muscle activity during computer work: A review. Industrial Engineering and 
+Engineering Management (IEEM), 2014 IEEE International Conference 
+Thorp, A. A., Healy, G. N., Winkler, E., Clark, B. K., Gardiner, P. A., Owen, N.,and 
+Dunstan, D. W. (2012). "Prolonged sedentary time and physical activity in 
+workplace and non-work contexts: a cross-sectional study of office, customer 
+service and call centre employees." International Journal of Behavioral 
+Nutrition and Physical Activity 9: 128. 
+Tudor-Locke, C., Schuna, J. M., Frensham, L. J., & Proenca, M. (2014). Changing the 
+way we work: elevating energy expenditure with workstation alternatives. 
+International journal of obesity, 38(6), 755-765. 
+van Dieën, J. H, Toussaint HM, Thissen C, and van de Ven A. (1993). "Spectral 
+analysis of erector spinae EMG during intermittent isometric fatiguing 
+exercise." Ergonomics 36(4): 407-414. 
+van Dieën, J. H., de Looze MP, Hermans V. (2001). "Effects of dynamic office chairs 
+on trunk kinematics, trunk extensor EMG and spinal shrinkage." Ergonomics 
+44: 739 - 750. 
+Vergara, M. and Á. Page (2000). "System to measure the use of the backrest in 
+sitting-posture office tasks." Applied Ergonomics 31(3): 247-254. 
+Wang, Y., G. Szeto, ChetwynC H C. (2011). "Effects of physical and mental task 
+demands on cervical and upper limb muscle activity and physiological 
+responses during computer tasks and recovery periods." European Journal of 
+Applied Physiology: 1-13. 
+Wilcox, R. R. and H. J. Keselman (2003). "Modern robust data analysis methods: 
+measures of central tendency." Psychological Methods 8(3): 254-274. 
+Accepted Manuscript
+
+===== PAGE 37 =====
+
+Womersley, L. and S. May (2006). "Sitting Posture of Subjects With Postural 
+Backache." Journal of Manipulative and Physiological Therapeutics 29(3): 
+213-218. 
+Yassierli, Y. and A. Juraida (2016). "Effects of Netbook and Tablet Usage Postures 
+on the Development of Fatigue, Discomfort and Pain." Journal of Engineering 
+and Technological Sciences 48(3): 243-253. 
+Zhang, L., M. G. Helander, Colin G.D. (1996). "Identifying Factors of Comfort and 
+Discomfort in Sitting." Human Factors. 38(3): 377-389. 
+ 
+Accepted Manuscript

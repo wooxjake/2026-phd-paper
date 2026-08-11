@@ -245,7 +245,7 @@ sEMG was recorded for 5 s (at time interval 30 s) on both chairs.
 Participants then rated the perceived level of effort to maintain this
 sitting posture on both chairs, using a verbal numerical rating scale
 (VNRS) where 0 ¼ “no effort to maintain this posture ” and
-10 ¼ “extreme effort to maintain this posture ”.
+10 ¼ “ extreme effort to maintain this posture ”.
 2.5. Data analysis
 Data were analysed using SPSS 18.0. Mean posture, and variation
 (SD) in posture, for each participant on each chair were exported for
@@ -326,7 +326,7 @@ activation among LBP subjects in low load tasks ( Sihvonen et al.,
 1998; Van Dieën et al., 2003; Dankaerts et al., 2006a ). Further-
 more, trunk muscle fatigue occurs if contractions as low as 2 e5%
 MVIC are sustained for as little as 30 min among painfree volun-
-teers ( van Dieën et al., 2009 ). Therefore, while the “ideal” level of
+teers ( van Dieën et al., 2009 ). Therefore, while the “ ideal” level of
 trunk muscle activation is unclear, and caution is required in the
 absence of supporting clinical outcome data such as seated
 discomfort, there may be occasions when facilitation of less muscle
