@@ -15,3 +15,6 @@ etc/g-power/
 # OS / 편집기
 Thumbs.db
 .DS_Store
+
+# 제외 폴더
+/etc
