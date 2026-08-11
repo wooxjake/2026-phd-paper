@@ -1,0 +1,812 @@
+===== PAGE 1 =====
+
+Accepted Manuscript
+Title: Do different sitting postures affect spinal biomechanics
+of asymptomatic individuals?
+Authors: Arnold YL Wong, Tommy PM Chan, Alex WM
+Chau, Hon Tung Cheung, Keith CK Kwan, Alan KH Lam,
+Peter YC Wong, Diana De Carvalho
+PII: S0966-6362(18)30601-5
+DOI: https://doi.org/10.1016/j.gaitpost.2018.10.028
+Reference: GAIPOS 6558
+To appear in: Gait & Posture
+Received date: 22-5-2018
+Revised date: 17-10-2018
+Accepted date: 20-10-2018
+Please cite this article as: Wong A Y , Chan TP , Chau AW, Tung Cheung H, Kwan
+KC, Lam AK, Wong PY , De Carvalho D, Do different sitting postures affect
+spinal biomechanics of asymptomatic individuals?, Gait and amp; Posture (2018),
+https://doi.org/10.1016/j.gaitpost.2018.10.028
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+===== PAGE 2 =====
+
+1 
+Do different sitting postures affect spinal biomechanics of asymptomatic 
+individuals? 
+Authors:  
+1Arnold YL Wong, PT, MPhil, PhD 
+1Tommy PM Chan, BSc 
+1Alex WM Chau, BSc 
+1Hon Tung Cheung, BSc 
+1Keith CK Kwan, BSc 
+1Alan KH Lam, BSc 
+1Peter YC Wong, BSc 
+2Diana De Carvalho, DC, MSc, PhD         
+ 
+Affiliations:  1Department of Rehabilitation Sciences, The Hong Kong Polytechnic University, Hong 
+Kong SAR, China 
+2Faculty of Medicine, Memorial University of Newfoundland, St. John’s, NL, Canada 
+ 
+Corresponding author:  Arnold YL Wong, PT, MPhil, PhD 
+Room ST512, 
+Department of Rehabilitation Sciences 
+Hong Kong Polytechnic University  
+Hung Hom, Hong Kong, SAR, China 
+Email: arnold.wong@polyu.edu.hk 
+ 
+ 
+Highlights 
+- Slouched sitting significantly decreased bilateral deep abdominal muscle activity. 
+- Slouched sitting for 20 minutes did not cause creep in the lumbar spine.  
+- Brief slouched sitting did not alter trunk proprioception/pain in healthy adults. 
+- Recommending breaks after 20 minutes of sitting may be a good ergonomic practice. 
+ 
+  
+ACCEPTED MANUSCRIPT
+
+===== PAGE 3 =====
+
+2 
+ABSTRACT 
+Background 
+Static sitting is thought to be related to low back pain. Of various common seated postures, 
+slouched sitting has been suggested to cause viscoelastic creep. This, in turn, may 
+compromise trunk muscle activity and proprioception, and heightening the risk of low back 
+pain. To date, no research has evaluated immediate and short-term effects of brief exposures 
+to different sitting postures on spinal biomechanics and trunk proprioception. 
+Research question 
+This study aimed to compare the impacts of 20 minutes of static slouched, upright and 
+supported sitting with a backrest on trunk range of motion, muscle activity, and 
+proprioception immediately after and 30 minutes after the sitting tasks.  
+Methods 
+Thirty-seven adults were randomly assigned to the three sitting posture groups. Surface 
+electromyography of six trunk muscles during maximum voluntary contractions were 
+measured at baseline for normalization. Pain intensity, lumbar range of motion, and 
+proprioceptive postural control strategy were assessed at baseline, 20 minutes (immediately 
+post-test) and at 50 minutes (recovery). Trunk muscle activity during sitting was continuously 
+monitored by surface electromyography.  
+Results 
+While the slouched sitting group demonstrated the lowest bilateral obliquus 
+internus/transversus abdominis activity as compared to other sitting postures (F=4.87, p < 
+0.05), no significant temporal changes in pain intensity, lumbar range of motion nor 
+proprioceptive strategy were noted in any of the groups.  
+Significance 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 4 =====
+
+3 
+Sitting for 20 minutes of duration appears to have no adverse effects on symptoms or spinal 
+biomechanics regardless of the posture adopted. Future research should determine if there is a 
+point at which does slouched sitting cause significant changes in pain/spinal biomechanics in 
+people both with and without low back pain.   
+ 
+ 
+Keywords: Sitting, ergonomics, lumbar range of motion, electromyography, proprioception 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 5 =====
+
+4 
+ 
+1. Introduction 
+Low back pain (LBP) is one of the most prevalent musculoskeletal complaints among office 
+workers [1]. Prolonged sitting is known to be associated with musculoskeletal discomfort in 
+lumbar and buttock regions [2], which may predict future LBP [3]. Although some 
+epidemiological studies/systematic reviews have suggested no significant associations 
+between sitting duration or sitting postures and the development of non-specific LBP 
+[4],[5],[6], other studies have revealed that sitting for prolonged periods of time in poor 
+postures might increase the risk of LBP and lumbar discomfort [5],[7],[8],[9],[10].  As such, 
+many people generally believe that prolonged sitting in a poor posture (e.g., slouched sitting) 
+is related to the development of non-specific LBP [11],[12], while upright sitting and 
+supported sitting with a backrest are relatively safer [13]. 
+ 
+There is some support in the literature to justify these assumptions. Specifically, slouched 
+sitting has been shown to cause full flexion of the lower three lumbar segments [14]. This 
+level of flexion has the potential to induce creep and overloading of passive spinal tissues 
+leading to LBP [15]. Research has demonstrated that 10 minutes of sitting in maximum 
+lumbar flexion elicited creep in spinal tissues [16],[17], which manifested as increased ranges 
+of motion (RoM) [18] due to the elongation of viscoelastic tissues under a constant load [19].  
+Creep may desensitize mechanoreceptors in spinal structures and alter spinal joint sense [20]. 
+Hypothetically, deteriorated joint sense may consequently affect trunk proprioception, and 
+prompt the central nervous system to rely more on proprioceptive inputs from ankles for 
+postural control [21]. People relying on ankle-steered proprioceptive postural control strategy 
+are known to have a higher risk of developing non-specific LBP in the future [21]. However, 
+no studies have investigated the effect of slouched sitting on the relative proprioceptive 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 6 =====
+
+5 
+weighting (reliance) of the trunk and ankle. 
+ 
+Additionally, trunk muscles play an important role in maintaining spinal stability, especially 
+in different postures and tasks [22],[23]. Previous research has found that obliquus internus, 
+transversus abdominis, and deep and superficial lumbar multifidus demonstrate significantly 
+lower activity during slouched sitting than upright sitting in healthy individuals [24]. 
+Therefore, decreased trunk muscle activity in slouched sitting may increase viscoelastic creep 
+of passive tissues in static flexion. However, no studies have evaluated how trunk muscle 
+activity during sitting may be related to ensuing changes in lumbar kinematics.  
+ 
+Importantly, since no biomechanical studies have investigated the recovery of spinal 
+biomechanics following sitting in various postures, it remains unclear if any altered trunk 
+RoM or proprioception induced by a short period of different sitting postures would recover 
+after a comparable resting period. Therefore, the current study aimed to compare the effects 
+of three common sitting postures (slouched, upright and supported sitting with a backrest) on 
+pain, lumbar RoM, proprioception and trunk muscle activity immediately following 20 
+minutes of sitting and 30 minutes of recovery.  
+ 
+2. Methods                                                                                
+2.1. Participants   
+Twenty-one males and 16 females (average age: 21.5 ± 2.0 years) with no current LBP or 
+history of LBP that required sick leave in the last 12 months were recruited from The Hong 
+Kong Polytechnic University (Table 1). Exclusion criteria included scoliosis, spinal surgery, 
+vestibular dysfunction, lumbosacral or lower limb musculoskeletal pathology in the last 12 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 7 =====
+
+6 
+months, or neurological disorders. Participants provided written consent according to the 
+experimental procedure approved by the Institutional Review Board. 
+ 
+2.2. Pain measure 
+Self-reported pain intensity was assessed by an 11-point numeric pain rating scale with 
+anchors of 0 /“no pain” and 10/ “worst imaginable pain” [25]. Participants completed pain 
+ratings verbally at baseline, and immediately after and 30 minutes after the sitting task.  
+ 
+2.3. Surface electromyography (sEMG) 
+The activity of bilateral obliquus internus/transversus abdominis (OI/TrA), obliquus externus 
+(OE), and lumbar erector spinae (ES) were measured by sEMG. Biploar Ag/AgCl surface 
+electrodes with a 10-mm active diameter (3M, Minnesota, USA) attached parallel to the 
+muscle fiber direction with an inter-electrode distance of 20 mm (Table 2). A standardized 
+skin preparation was performed to ensure skin impedance of ≤ 5000 Ω. The sEMG data were 
+recorded at 1,500 Hz by a wireless sEMG system (Telemyo, Noraxon Inc., Phoenix, USA; 
+CMRR 100 dB at 60 Hz) and digitized with the Desktop Direct Transmission System 
+(Noraxon Inc., Phoenix, USA). Signals were processed with a Noraxon program, MR 3.10.2, 
+to eliminate electrocardiography signals, notch filter at 50Hz to remove electrical noise, and 
+digitally bandpass between 10Hz and 500Hz [26].  
+  
+sEMG signals from each muscle were expressed as a percentage of maximum voluntary 
+contraction (%MVC). Specifically, the root mean square (RMS) over 2-second windows 
+throughout the sitting trial were calculated and normalized to corresponding RMS sEMG 
+during MVC. To evaluate temporal changes in sEMG, the 20-minute sitting period was 
+divided into three intervals of 400s and the mean normalized sEMG activity in each interval 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 8 =====
+
+7 
+was calculated for analysis. 
+ 
+Two, 5-second, isometric MVC trials were performed for each target muscle against manual 
+resistance with a 2-minute rest between trials. (Table 2). Following signal processing, RMS 
+sEMG signals of each muscle during the middle 2 seconds of MVC was calculated. The 
+highest RMS EMG amplitude of each muscle during MVCs was used for subsequent 
+normalization.  
+    
+2.4. Lumbar flexion/extension RoM  
+Lumbar kinematics were measured by a wireless 3D kinematic analysis system 
+(MyoMOTION, Noraxon Inc., Phoenix, USA; reported static and dynamic accuracy of 1° 
+and 2°, respectively) at a sampling frequency of 100 Hz. Two inertial measurement unit 
+(IMUs) were attached to skin overlying the T12 and S1 spinous processes with double-side 
+tape [27]. The relative lumbar angle was deduced from the orientations of these IMUs. A 
+reference posture was taken with the participant in upright standing with the ear lobe aligned 
+to the acromioclavicular joint and feet shoulder width apart. The participant was then 
+instructed to perform full trunk flexion and extension twice and the average total RoM was 
+used for analysis. The average lumbar flexion angle of an individual during a given sitting 
+posture was expressed as the percentage of the maximum flexion angle. 
+ 
+2.5. Proprioception measurements 
+Center of pressure (CoP) displacement during standing was measured by a piezoelectric force 
+plate (Kistler, Winterthur, Switzerland). A customized LabVIEW program collected data at 
+500 Hz using a data acquisition system for BioWare (Kistler Group, Winterthur, Switzerland) 
+and low-pass filtered with a cut-off frequency of 5 Hz.  
+ACCEPTED MANUSCRIPT
+
+===== PAGE 9 =====
+
+8 
+  
+The relative reliance on trunk and ankle proprioceptive inputs for postural control was 
+evaluated by muscle vibration. Muscle vibration stimulates muscle spindles to generate an 
+illusion of muscle lengthening that may alter proprioceptive sense [28]. Two pairs of muscle 
+vibrators (custom made with DC-max motors, Maxon motor Co., Ltd, Suzhou, China) were 
+strapped to bilateral lumbar multifidus (LM) at the L5-S1 level and triceps surae (TS) [21]. 
+The frequency and amplitude of vibration were set at 60 Hz and 0.5 mm respectively to 
+optimize the illusion of muscle lengthening [28]. Vibration of LM in standing gives an 
+illusion of posterior pelvic rotation, which causes an individual to shift CoP forward to avoid 
+falling [21]. Conversely, TS vibration generates a forward leaning illusion, which causes a 
+person to lean backward [21]. The magnitude of CoP displacement indicated the relative 
+importance of proprioceptive signals of the vibrated muscles in informing the brain to 
+maintain balance.  
+ 
+The detailed procedure for assessing proprioceptive postural control has been reported 
+elsewhere [21]. Briefly, the participant stood in an immobile but relaxed position barefoot on 
+the force plate with feet 10 cm apart and arms hanging loosely at the sides. The feet position 
+was marked on the force plate to standardize placement throughout repeated measurements. 
+The participant was blindfolded by opaque goggles and tested under four conditions lasting 
+for 1 minute each. The participant directly stood on the force plate in conditions 1 and 2, 
+while the participant stood on foam placed upon the force plate in conditions 3 and 4. In 
+conditions 1 and 3, muscle vibrators were used to stimulate bilateral LM [21]. In conditions 2 
+and 4, bilateral musculotendinous junctions of TS were stimulated by two muscle vibrators 
+[21]. A 15-second muscle vibration was introduced after the first 15 seconds.  
+ 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 10 =====
+
+9 
+Postural data were analyzed by a customized MATLAB program (R2015a, MathWorks, 
+Natick, MA, USA). The mean CoP displacement in the anteroposterior direction was 
+estimated by the formula:  
+𝐶𝑜𝑃 = 𝑀𝑥
+𝐹𝑧  
+where Mx was the moments of force around the frontal axis, and Fz was the vertical ground 
+reaction force. Average CoP position was estimated both over 15 seconds preceding and 
+during a given muscle vibration. The difference in average CoP positions between the two 
+conditions were used to estimate the Relative Proprioceptive Weighting (RPW) using the 
+formula [21]: 
+𝑅𝑃𝑊 = 𝑇𝑆
+𝐿𝑀 =  𝑎𝑏𝑠 𝑇𝑆
+𝑎𝑏𝑠 𝑇𝑆 + 𝑎𝑏𝑠 𝐿𝑀 
+where abs TS and abs LM are the absolute values of average CoP displacement during TS 
+and LM vibrations, respectively. A score of 1 indicates 100% reliance on TS proprioceptive 
+signals for postural control while 0 implies complete reliance on LM proprioceptive signals 
+for postural adjustment. Separate RPWs were calculated for stable (conditions 1 and 2) and 
+unstable (conditions 3 and 4) surface conditions. 
+ 
+2.6. Experimental protocol 
+Each consenting participant provided demographic data, perceived LBP intensity, and 
+performed MVCs of the six trunk muscles (Fig. 1). An examiner blinded to group allocation 
+measured baseline lumbar flexion/extension RoM in standing and proprioceptive strategy 
+using IMUs and the proprioception tests [21], respectively. Following these assessments, a 
+research assistant uninvolved in the assessments opened a sequentially numbered opaque 
+envelope containing a random number prepared by a person unrelated to the study, to 
+randomly assign participants to the slouched, upright or supported sitting with a backrest 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 11 =====
+
+10 
+group (thereafter called supported sitting). The slouched position was created by relaxing the 
+trunk into flexion by rotating the pelvis posteriorly, while the upright position involved 
+rotating the pelvis anteriorly to maintain a neutral lumbar lordosis with relaxed thorax [29]. 
+Manual guidance and verbal feedback were given by the research assistant to achieve the 
+upright sitting posture. The supported sitting position was maintained by leaning upper body 
+against a backrest with a lumbar support of 2cm protuberance. All participants sat in the 
+assigned postures on an adjustable office chair with hips and knees in 90° flexion. During this 
+20-minute trial, trunk inclination angles and trunk muscle activity were measured by IMUs 
+and sEMG, respectively. This sitting duration was chosen because 20 minutes of maximum 
+lumbar flexion exposure might induce viscoelastic changes in the lumbar tissues [17]. To 
+maintain the prescribed postures throughout the trial, verbal feedback, was given if the IMU 
+data showed postures deviated > 5º. Immediately following the sitting trial, the blinded 
+examiner reassessed LBP intensity, lumbar RoM and proprioceptive postural control, and 
+again at recovery (30 minutes post-trial). Participants lay supine on a therapy bench between 
+reassessments. 
+ 
+2.7. Statistical analysis 
+Statistical analysis was conducted with alpha setting at 0.05 (SPSS v.20, IBM SPSS 
+Statistics, Chicago, USA). Normality of all data was evaluated by Shapiro–Wilk tests. Mean 
+lumbar RoM during sitting in all groups was analyzed by one-way analysis of variance 
+(ANOVA). If a significant between-group difference was found, Tukey’s post-hoc test was 
+conducted. Pain intensity, sEMG of each muscle, lumbar flexion/extension RoM, CoP 
+displacement, RPW were analyzed by separate 2-way repeated measures ANOVAs (sitting 
+groups x time points). Post-hoc tests included simple effect tests and tetrad analyses with 
+Bonferroni adjustment [30]. 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 12 =====
+
+11 
+ 
+3. Results 
+There were no significant demographic differences among the three groups nor significant 
+temporal changes in pain intensity during trials (Table 1).  
+ 
+3.1. sEMG during sitting 
+No significant interactions nor temporal changes in sEMG activity of the trunk muscles were 
+found among the three sitting postures. However, a significant between-group difference in 
+bilateral OI/TrA activity was found (Fig. 1). Post-hoc tests revealed that left OI/TrA activity 
+in slouched sitting and supported sitting was significantly lower than that of upright sitting 
+(P<0.05) (Fig. 1). Similarly, mean sEMG value of right OI/TrA in slouched sitting was 
+significantly lower than that in upright sitting or supported sitting (P=0.04) (Fig. 1). Overall, 
+the lowest sEMG activity of bilateral OI/TrA was found during slouched sitting. 
+ 
+3.2. RoM during sitting 
+The mean lumbar RoM during slouched, upright and supported sitting were 44.4 % ± 4.74 %, 
+9.5 % ± 2.50 % and 14.8 % ± 6.01 % of the participants’ maximum lumbar flexion RoM, 
+respectively. The one-way ANOVA revealed that the lumbar flexion angle in sitting 
+significantly differed among groups (P<0.05). Post-hoc tests found lumbar flexion angle 
+during slouched sitting was significantly larger than other sitting postures (P<0.05). 
+ 
+3.3.2. Lumbar active RoM 
+There was no significant interaction between time and group in lumbar RoM (P=0.26, η22 = 
+0.08). Similarly, there was no significant temporal change in lumbar active RoM in any of the 
+groups (P=0.28, η2 =0.04) nor between-group difference in mean lumbar active RoM 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 13 =====
+
+12 
+(P=0.66, η22=0.03). 
+ 
+3.4. RPW 
+The solid surface findings revealed no significant interaction effect (P=0.50, η22=0.052) nor 
+time effect (P=0.052, η22 =0.09) but a significant between-group effect (P<0.01, η2=0.30) on 
+RPW. Post-hoc tests showed that RPW of upright sitting group was significantly higher than 
+that of supported sitting group (P<0.01) (Fig 2). Conversely, the RPW results on foam 
+surface showed no significant interaction (P=0.43, η22=0.06), time (P=0.82, η2 =0.006) nor 
+between-group effect (P=0.61, η2=0.03). 
+ 
+4. Discussion 
+This study has evaluated the impact of three common seated postures on spinal biomechanics 
+immediately after 20 minutes of sitting and a 30-minute recovery. Slouched sitting elicited 
+the lowest bilateral OI/TrA muscle activity during sitting. Likewise, right OI/TrA sEMG 
+activity during supported sitting was significantly lower than during upright sitting. 
+Compared to upright and supported sitting groups, participants in slouched sitting maintained 
+the greatest lumbar flexion angle during sitting. The three sitting postures had no significant 
+impact on LBP intensity, lumbar active RoM nor RPW, except that the upright sitting group 
+displayed significantly higher RPW than supported sitting. Overall, there were no temporal 
+changes in lumbar symptoms or lumbar biomechanical factors immediately following 20 
+minutes of sitting intervention, and 30 minutes of recovery. 
+ 
+Sitting posture can influence trunk muscle activity. Significantly lower activity of bilateral 
+OI/TrA in slouched sitting compared to upright sitting concurred with previous observations 
+[31],[32]. It has been suggested that posterior passive lumbar tissues may take up the load of 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 14 =====
+
+13 
+the upper body and maintain the position against gravity at mid to end-range flexed spinal 
+postures [14],[32]. The increased passive support in slouched sitting may reduce the 
+activation of OI/TrA for lumbar stabilization [33]. It is not known if these low levels of 
+muscle activity could be a problem in terms of spine health. This differs from situations of 
+supported sitting where the backrest shares part of the upper bodyweight.  For example, we 
+found the right OI/TrA activity in supported sitting was also significantly lower than the 
+levels in upright sitting. However, the negative biomechanical impacts of low trunk muscle 
+activity during supported sitting should be considered minimal as the potential for 
+viscoelastic creep would be reduced. 
+ 
+While prior studies [16],[17],[18],[34] have shown that creep of lumbar tissues occurs after 
+10 to 60 minutes of sitting in lumbar flexion and persist 50 minutes following 20 minutes of 
+full lumbar flexion [17], our study found no temporal changes in lumbar active RoM after 
+slouched sitting. The discrepancy may be ascribed to the small lumbar flexion angle in our 
+slouched sitting group. Our participants sat slumped in approximately 44.4% of full lumbar 
+flexion for 20 minutes, whereas participants in previous studies maintained maximum flexion 
+for 20 minutes [17] or > 70% of full lumbar flexion for 30 or 60 minutes [16],[35]. However, 
+since a self-selected slouched sitting posture (like ours) has much lower percentage of full 
+lumbar flexion, the generalizability of prior findings should be interpreted with caution. Also, 
+since creep is a time dependent variable, there is the potential that longer durations of typical 
+slouched sitting may induce these changes; therefore, future studies should determine the 
+combined effects of lumbar sitting angles and time on the resulting lumbar RoM.  
+ 
+It is not surprising to find no significant temporal changes in RPW (postural control strategy) 
+in all sitting groups given the lack of post-sitting creep in spinal tissues (including LM). Our 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 15 =====
+
+14 
+RPW findings differed from prior research. Dolan and Green [36] found that a 5-minute 
+slouched sitting increased the trunk reposition errors. However, since their study did not 
+measure lumbar active/passive RoM before and after slouched sitting, the observed increase 
+in post-sitting trunk reposition errors might be unrelated to creep. Importantly, since trunk 
+reposition sense is confounded by an individual’s ability to pay attention and/or to recall a 
+trunk position consciously [37], this assessment is not a direct measurement of trunk 
+proprioceptive control, which involves subconscious processing [37]. Accordingly, our 
+results highlight that a short period of slouched sitting is unlikely to affect trunk 
+proprioception. 
+ 
+Interestingly, participants in the upright sitting group relied more on ankle-steered postural 
+control strategy (RPW>0.5) than those in the supported sitting group. Claeys et al. [21] 
+revealed great variability in proprioceptive postural control strategy among asymptomatic 
+individuals (95% confidence interval of RPW ranging from 0.44 to 0.94). Since the estimated 
+mean RPW of participants in the upright sitting (0.76) and supported sitting groups (0.54) lay 
+within the 95% confidence interval, the observed difference might only reflect coincidental 
+variations in RPW of participants in the two groups.  
+ 
+Our results demonstrate that a short duration of static sitting in different postures does not 
+appear to alter spinal biomechanics of asymptomatic individuals. While many 
+epidemiological studies/reviews have suggested no association between sitting 
+duration/posture and LBP [4],[5],[6], various occupational health advice have advocated 
+office workers to regularly change posture to avoid static loading to the body/intervertebral 
+discs [7],[38],[39]. Active break with postural change from sit to stand as well as back 
+exercise have been recommended to reduce LBP, lumbar discomfort, back muscle fatigue 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 16 =====
+
+15 
+and mental fatigue [7]. Importantly, breaks and sufficient postural variation can improve 
+contraction, motivation, and good musculoskeletal health [40] without affecting work 
+productivity among office workers [7]. In fact, a 2-minute break for every 20 minutes of 
+sitting is known to reduce the postprandial glucose and insulin responses in adults [41]. 
+Given that the 20-minute sitting duration has no significant adverse effects on lumbar 
+discomfort or lumbar biomechanics among asymptomatic individuals regardless of sitting 
+postures, this sitting duration appears to be safe. Since people sit for much longer durations 
+than 20 minutes, future research needs to investigate the maximum sitting duration, in various 
+spine postures, that can be tolerated without adversely affecting spinal biomechanics in 
+people with and without LBP. Future studies should also investigate the optimal combination 
+of sitting and break durations to help develop ergonomic recommendations/standards for 
+office workers. 
+ 
+The current exploratory study has several limitations. Firstly, while our sample size was 
+comparable to similar studies [36],[42], it was relatively small. However, from our observed 
+effect size, 22 participants per group would detect statistically significant differences in 
+lumbar ES activity between slouched and upright sitting groups, thus minimizing this 
+limitation. Future studies may consider using a repeated measures design with participants 
+serving as their own controls in order to increase the sensitivity with which differences may 
+be detected between postural conditions. Secondly, since there is redundancy in trunk muscle 
+recruitment [43], spatial variability in muscles activity may have been missed. Future 
+research should use high-density sEMG electrode arrays [44] to monitor temporal and spatial 
+changes in trunk muscle activity during sitting. Finally, because the current study only 
+recruited asymptomatic participants, future studies should compare our findings with patients 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 17 =====
+
+16 
+with LBP so that appropriate sitting recommendations can be given to office workers with 
+and without LBP. 
+ 
+To conclude, this is the first study to evaluate the effect of three common sitting postures on 
+back symptoms, trunk muscle activities, RoM and proprioception. Our findings show that 20 
+minutes of slouched sitting, upright sitting, and supported sitting have no adverse effects on 
+LBP nor spinal biomechanics. However, it is not known whether longer durations of sitting 
+may impact these outcome measures. Future research should investigate the effects of 
+different sitting and break durations on people with and without LBP so as to formulate 
+proper ergonomic recommendations/standards for office workers. 
+ 
+Contributors 
+AW: Conception and design of the study, analysis and interpretation of data, revising and 
+final approving the article. TC, AC, HC, KK, AL, PW: acquisition of data, analysis and 
+interpretation, drafting, revising and final approving the article. DD: conception and design of 
+the study, interpretation of the data, revising and final approving the article.  
+ 
+Funding 
+This research did not receive any specific grant from funding agencies in the public, 
+commercial, or not-for-profit sectors.  
+ 
+Conflict of interest statement 
+The authors declare that there are no financial or personal relation with people or 
+organizations that have inappropriately influenced this work. 
+ 
+ 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 18 =====
+
+17 
+Acknowledgements 
+The authors would like to thank Mr. Jay Chan for the provision of technical supports during 
+the data collection.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 19 =====
+
+18 
+References 
+ 
+1. Spyropoulos, P., et al., Prevalence of low back pain in greek public office workers. 
+Pain physician, 2007. 10(5): p. 651-659. 
+2. Søndergaard, K.H.E., et al., The variability and complexity of sitting postural control 
+are associated with discomfort. Journal of Biomechanics, 2010. 43(10): p. 1997-2001. 
+3. Hamberg-Van Reenen, H.H., et al., Does musculoskeletal discomfort at work predict 
+future musculoskeletal pain? Ergonomics, 2008. 51(5): p. 637-648. 
+4. Roffey, D.M., et al., Causal assessment of occupational standing or walking and low 
+back pain: results of a systematic review. The Spine Journal, 2010. 10(3): p. 262-272. 
+5. Lis, A., et al., Association between sitting and occupational LBP. Eur Spine J, 2007. 
+16(2): p. 283-298. 
+6. Hartvigsen, J., et al., Is sitting-while-at-work associated with low back pain? A 
+systematic, critical literature review, in Scand. J. Public Health. 2000. p. 230-239. 
+7. Waongenngarm, P., K. Areerak, and P. Janwantanakul, The effects of breaks on low 
+back pain, discomfort, and work productivity in office workers: A systematic review of 
+randomized and non-randomized controlled trials. Applied Ergonomics, 2018. 68: p. 
+230-239. 
+8. Pooriput, W., S.R. Bala, and J. Prawit, Perceived body discomfort and trunk muscle 
+activity in three prolonged sitting postures. Journal of Physical Therapy Science, 
+2015. 27(7): p. 2183-2187. 
+9. Dankaerts, W., et al., Differences in Sitting Postures are Associated With Nonspecific 
+Chronic Low Back Pain Disorders When Patients Are Subclassified. Spine, 2006. 
+31(6): p. 698-704. 
+10. Gupta, N., et al., Is Objectively Measured Sitting Time Associated with Low Back 
+Pain? A Cross-Sectional Investigation in the NOMAD study. PLoS One, 2015. 10(3): 
+p. e0121159. 
+11. O'Sullivan, K., et al., What do physiotherapists consider to be the best sitting spinal 
+posture? Manual Therapy, 2012. 17(5): p. 432-437. 
+12. O'Sullivan, K., et al., Perceptions of sitting posture among members of the 
+community, both with and without non-specific chronic low back pain. Manual 
+Therapy, 2013. 18(6). 
+13. McKenzie, R.M., Stephen., The lumbar spine : mechanical diagnosis and therapy. 
+2003, Waikanae, New Zealand: Waikanae, New Zealand : Spinal Publications. 
+14. Dunk, N.M., et al., Evidence of a pelvis-driven flexion pattern: Are the joints of the 
+lower lumbar spine fully flexed in seated postures? Clinical Biomechanics, 2009. 
+24(2): p. 164-168. 
+15. Rohlmann, A., et al., Measured loads on a vertebral body replacement during sitting. 
+The Spine Journal, 2011. 11(9): p. 870-875. 
+16. Abboud, J., F. Nougarou, and M. Descarreaux, Muscle Activity Adaptations to Spinal 
+Tissue Creep in the Presence of Muscle Fatigue.(Research Article). PLoS ONE, 2016. 
+11(2): p. e0149076. 
+17. McGill, S.M. and S. Brown, Creep response of the lumbar spine to prolonged full 
+flexion. Clin Biomech (Bristol, Avon), 1992. 7(1): p. 43-6. 
+18. Solomonow, M., et al., Flexion–relaxation response to static lumbar flexion in males 
+and females. Clinical Biomechanics, 2003. 18(4): p. 273-279. 
+19. Nordin, M., Basic biomechanics of the musculoskeletal system. 4th ed.. ed, ed. V.H. 
+Frankel. 2012, Philadelphia: Philadelphia : Wolters Kluwer/Lippincott Williams & 
+Wilkins Health. 
+20. Gedalia, V.U., et al., Biomechanics of Increased Exposure to Lumbar Injury Caused 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 20 =====
+
+19 
+by Cyclic Loading: Part 2. Recovery of Reflexive Muscular Stability With Rest. Spine, 
+1999. 24(23): p. 2461-2461. 
+21. Claeys, K., et al., Young individuals with a more ankle-steered proprioceptive control 
+strategy may develop mild non-specific low back pain. Journal of Electromyography 
+and Kinesiology, 2015. 25(2): p. 329-338. 
+22. Cholewicki, J. and S.M. McGill, Mechanical stability of the in vivo lumbar spine: 
+implications for injury and chronic low back pain. Clin Biomech (Bristol, Avon), 
+1996. 11(1): p. 1-15. 
+23. Cholewicki, J. and J.J.t. VanVliet, Relative contribution of trunk muscles to the 
+stability of the lumbar spine during isometric exertions. Clin Biomech (Bristol, 
+Avon), 2002. 17(2): p. 99-105. 
+24. Reeve, A. and A. Dilley, Effects of posture on the thickness of transversus abdominis 
+in pain-free subjects. Manual Therapy, 2009. 14(6): p. 679-684. 
+25. Williamson, A. and B. Hoggart, Pain: a review of three commonly used pain rating 
+scales. Journal of Clinical Nursing, 2005. 14(7): p. 798-804. 
+26. Wong, A.Y.L., et al., Does experimental low back pain change posteroanterior 
+lumbar spinal stiffness and trunk muscle activity? A randomized crossover study. 
+Clinical Biomechanics, 2016. 34: p. 45-52. 
+27. Umer, W., et al., Identification of Biomechanical Risk Factors for the Development of 
+Lower-Back Disorders during Manual Rebar Tying. Journal of Construction 
+Engineering and Management, 2017. 143(1). 
+28. Cordo, P., et al., Effect of slow, small movement on the vibration-evoked kinesthetic 
+illusion. Exp Brain Res, 2005. 167(3): p. 324-334. 
+29. O’sullivan, B.P., et al., Effect of Different Upright Sitting Postures on Spinal-Pelvic 
+Curvature and Trunk Muscle Activation in a Pain-Free Population. Spine, 2006. 
+31(19): p. E707-E712. 
+30. Marascuilo, L.A. and J.R. Levin, Appropriate Post Hoc Comparisons for Interaction 
+and Nested Hypotheses in Analysis of Variance Designs: The Elimination of Type IV 
+Errors. American Educational Research Journal, 1970. 7(3): p. 397-421. 
+31. Waongenngarm, P., B.S. Rajaratnam, and P. Janwantanakul, Perceived body 
+discomfort and trunk muscle activity in three prolonged sitting postures. J Phys Ther 
+Sci, 2015. 27(7): p. 2183-7. 
+32. Oʼsullivan, P., et al., Evaluation of the Flexion Relaxation Phenomenon of the Trunk 
+Muscles in Sitting. Spine, 2006. 31(17): p. 2009-2016. 
+33. O'Sullivan, P., et al., Altered patterns of abdominal muscle activation in patients with 
+chronic low back pain. Australian Journal of Physiotherapy, 1997. 43(2): p. 91-98. 
+34. Panjabi, M.M., The stabilizing system of the spine. part 1. function, dysfunction, 
+adaptation and enhancement. J. Spinal Disord., 1992. 5(4): p. 383-389. 
+35. Sánchez-Zuriaga, A.D., A.M. Adams, and A.P. Dolan, Is Activation of the Back 
+Muscles Impaired by Creep or Muscle Fatigue? Spine, 2010. 35(5): p. 517-525. 
+36. Dolan, K.J. and A. Green, Lumbar spine reposition sense: The effect of a ‘slouched’ 
+posture. Manual Therapy, 2006. 11(3): p. 202-207. 
+37. Claeys, K., et al., Decreased variability in postural control strategies in young people 
+with non-specific low back pain is associated with altered proprioceptive reweighting. 
+Eur J Appl Physiol, 2011. 111(1): p. 115-123. 
+38. Pape, J.L., et al., Increased spinal height using propped slouched sitting postures: 
+Innovative ways to rehydrate intervertebral discs. Applied Ergonomics, 2018. 66: p. 
+9-17. 
+39. Healy, G., et al., Reducing prolonged sitting in the workplace (An evidence review: 
+full report),. 2012, Victorian Health Promotion Foundation: Melbourne, Australia. 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 21 =====
+
+20 
+40. Toomingas, A., et al., Variation between seated and standing/walking postures among 
+male and female call centre operators. BMC Public Health, 2012. 12(1): p. 154. 
+41. Bailey, D.P. and C.D. Locke, Breaking up prolonged sitting with light-intensity 
+walking improves postprandial glycemia, but breaking up sitting with standing does 
+not. J Sci Med Sport, 2015. 18(3): p. 294-8. 
+42. De Carvalho, D.E. and J.P. Callaghan, Spine posture and discomfort during 
+prolonged simulated driving with self-selected lumbar support prominence. Human 
+Factors, 2015. 57(6): p. 976-987. 
+43. Hodges, P.W. and K. Tucker, Moving differently in pain: A new theory to explain the 
+adaptation to pain. Pain, 2011. 152(3): p. S90-S98. 
+44. Hu, Y., et al., Creation of an asymmetrical gradient of back muscle activity and spinal 
+stiffness during asymmetrical hip extension. Clin Biomech (Bristol, Avon), 2009. 
+24(10): p. 799-806. 
+ 
+  
+ACCEPTED MANUSCRIPT
+
+===== PAGE 22 =====
+
+21 
+Figure captions 
+ 
+ 
+ 
+Fig. 1. Mean and standard error of percentage maximum voluntary contraction (%MVC) of 
+bilateral obliquus internus/transversus abdominis (OI/TrA), obliquus externus (OE), and 
+lumbar erector spinae (ES) at three time periods during 20 minutes of sitting in each group. 
+The bars represent the standard error.  
+* Significantly lower muscle activity as compared to that in upright sitting (P < 0.05) 
+# Significantly lower muscle activity as compared to that in supported sitting with a backrest 
+(P < 0.05) 
+Note: The P1, P2 and P3 represents three equal time periods over the 20 minutes. 
+Abbreviation: R = right, L=left. P1=Period 1 (0-400s), P2= Period 2 (401-800s), P3=Period 3 
+(801-1200s) 
+ 
+ 
+ACCEPTED MANUSCRIPT
+
+===== PAGE 23 =====
+
+22 
+ 
+Fig. 2a and b. The mean values and standard errors of relative proprioceptive weighting (RPW) on 
+solid and foam surface in three sitting groups. 
+*represents significant difference in RPW with p < 0.01
+ACCEPTED MANUSCRIPT
+
+===== PAGE 24 =====
+
+1 
+Table 
+ 
+Table 1. Demographic data of participants in separate sitting groups.  
+ Total 
+(n=37) 
+Slouched 
+sitting 
+(n=12) 
+Upright 
+sitting 
+(n=13) 
+Supported 
+sitting 
+(n=12) 
+P-value of 
+between-
+group 
+difference 
+Gender (% of males) 21 (56.8%) 6 (50.0%) 7 (53.8%) 8 (66.7%) 0.69 
+Age (years)  21.46 ± 1.97 20.67 ± 0.65 21.77 ± 2.62 21.92 ± 1.93 0.34 
+Height (m) 1.67 ± 0.09 1.63 ± 0.11 1.70 ± 0.09 1.68 ± 0.08 0.21 
+Weight (kg) 60.0 ± 9.46 55.7 ± 2.54 60.6 ± 3.30 58.4 ± 3.40 0.50 
+Baseline NPRS 
+(out of 10) 
+0.04 ± 0.14 0.04 ± 0.14 0.04 ± 0.14 0.04 ± 0.14 1.00 
+NPRS immediately after 
+sitting (out of 10) 
+0.08 ± 0.05 0.08 ± 0.08 0.08 ± 0.08 0.08 ± 0.08 1.00 
+NPRS after 30-minute 
+recovery (out of 10) 
+0.04 ± 0.14 0.04 ± 0.14 0.04 ± 0.14 0.04 ± 0.14 1.00 
+Mean + standard deviation; NPRS = 11-point numeric pain rating scale 
+ 
+Table 2. The placement locations of bipolar surface electromyography electrodes on target 
+muscles (i.e., bilateral lumbar erector spinae, external oblique and internal 
+oblique/transversus abdominis); and the corresponding procedures for testing maximum 
+voluntary contractions (MVCs) of these target muscles 
+ 
+Testing 
+order Target muscle 
+Placement locations of 
+bipolar surface 
+electrodes on target 
+muscles 
+Procedures for testing isometric 
+MVCs of target muscles 
+ 
+ 
+1 Lumbar erector 
+spinae 
+3 cm lateral to the L3 
+spinous process [26] 
+The participant laid in prone with arms 
+placed beside the body, and legs 
+stabilized by a strap on a plinth. The 
+participant performed isometric back 
+extension against a manual resistance 
+applied downward on scapulae [26] 
+ 
+ 
+2 Obliquus 
+externus  
+Midway between the 
+12th rib and the highest 
+point of iliac crest [26] 
+The participant was positioned in crook 
+lying with pelvis stabilized. With arms 
+crossed the chest, the participant 
+performed diagonal curl-up against 
+manual resistance applied on the rising 
+shoulder and the bent knees [26] 
+ 
+3 
+Obliquus 
+internus/ 
+transversus 
+abdominis 
+2 cm inferior to and 2 
+cm medial to anterior 
+superior iliac spines 
+[26] 
+A maximal expiratory maneuver with 
+abdominal hollowing (i.e. huffing) was 
+performed in a crook lying position [26] 
+ 
+ACCEPTED MANUSCRIPT

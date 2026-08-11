@@ -1,0 +1,675 @@
+===== PAGE 1 =====
+
+Original article
+Can we reduce the effort of maintaining a neutral sitting posture? A pilot study
+Kieran O ’Sullivan a, *, Raymond McCarthy a, Alison White a, Leonard O ’Sullivan a, Wim Dankaerts b
+a University of Limerick, Limerick, Ireland
+b Catholic University, Leuven, Belgium
+article info
+Article history:
+Received 20 September 201 1
+Received in revised form
+27 May 2012
+Accepted 30 May 2012
+Keywords:
+Posture
+Lordosis
+Sitting
+Multiﬁdus
+abstract
+Neutral sitting postures encouraging lumbar lordosis have been recommended in the management of
+sitting-related low back pain (LBP). However, prolonged lordotic sitting postures can be associated with
+increased fatigue and discomfort. This pilot study investigated whether changing the type of chair used
+in sitting can reduce the effort of maintaining a neutral sitting posture. The muscle activation of six trunk
+muscles was recorded using surface electromyography in 12 painfree participants. Participants were
+facilitated into a neutral sitting posture for 1 min on both a standard backless of ﬁce chair and a dynamic,
+forward-inclined chair (Back App). Lumbar multi ﬁdus activity was signi ﬁcantly lower on the Back App
+chair (p ¼ 0.013). None of the other ﬁve trunk muscles measured demonstrated a signi ﬁcant difference in
+activity between the chairs. There was no signi ﬁcant difference ( p ¼ 0.108) in the perceived effort of
+maintaining the neutral sitting posture on the two chairs. This study suggests that the lumbar multi ﬁdus
+activation required to maintain a neutral sitting posture can be reduced by considering the type of chair
+used. The mechanism through which the Back App chair reduces lumbar multi ﬁdus activation is unclear,
+but the greatest difference between chairs is the degree of hip ﬂexion. The ability to maintain a neutral
+lumbar posture with less lumbar multi ﬁdus activation is potentially advantageous during prolonged
+sitting. Further investigations of the effects of chair design on longer duration sitting, and among LBP
+subjects, are warranted.
+/C2112012 Elsevier Ltd. All rights reserved.
+1. Introduction
+Low back pain (LBP) is a common musculoskeletal disorder
+(Woolf and Pﬂeger, 2003), with many different contributing factors
+including provocative spinal postures ( Pynt et al., 2001; Pope et al.,
+2002; Scannell and McGill, 2003; Lis et al., 2007 ). While daily
+sitting duration may not be a major factor in developing LBP
+(Hartvigsen et al., 2000; Lis et al., 2007; Roffey et al., 2010), sitting is
+a commonly reported aggravating factor ( Williams et al., 1991;
+O’Sullivan, 2005 ). Therefore, addressing provocative spinal
+postures is commonly advocated in LBP management ( Poitras et al.,
+2005).
+The habitual sitting posture of some LBP subjects differs to that
+of matched controls, with both increased ( Christie et al., 1995;
+Vergara and Page, 2002; Dankaerts et al., 2006b; Van Dillen et al.,
+2009) and decreased ( Dankaerts et al., 2006b; Womersley and
+May, 2006 ) lordosis reported. Different sitting postures have
+varying effects on trunk muscle activation and spinal loading
+(Adams and Hutton, 1985; O ’Sullivan et al., 2006a; Claus et al.,
+2009b), and it remains unclear what constitutes an optimal
+seated lumbar posture. Lordotic seated postures interspersed with
+movement are commonly advocated ( Williams et al., 1991;
+Lengsfeld et al., 2000; Womersley and May, 2006; Bettany-
+Saltikov et al., 2008; Pynt et al., 2008 ), however lordotic sitting
+has also been associated with increased discomfort ( Lander et al.,
+1987; Bennett et al., 1989; Vergara and Page, 2002 ).
+It has been proposed that assuming a neutral lumbar spine
+position of approximately 30% from end-range extension which
+involves some anterior pelvic tilt and lumbar lordosis with thoracic
+relaxation, may be preferable to end-range postures for subjects
+with LBP ( O’Sullivan et al., 2010 ). This would avoid end-range
+postures associated with increased spinal stiffness ( Beach et al.,
+2005), as well as facilitating low-level trunk muscle activation
+(O’Sullivan et al., 2006a; Claus et al., 2009b; Reeve and Dilley,
+2009). Such a neutral sitting posture is commonly considered an
+optimal sitting posture by physiotherapists ( O’Sullivan et al., 2012).
+While physiotherapists can consistently facilitate this neutral
+sitting posture ( O’Sullivan et al., 2010 ), it may be dif ﬁcult to adopt
+* Corresponding author. Physiotherapy Department, University of Limerick, HS2-
+025, Health Sciences Building, Limerick, Ireland. Tel.: þ353 61 2341 19; fax:þ353 61
+234251.
+E-mail address: kieran.osullivan@ul.ie (K. O ’Sullivan).
+Contents lists available at SciVerse ScienceDirect
+Manual Therapy
+journal homepage: www.elsevier.com/math
+1356-689X/$ e see front matter /C2112012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.math.2012.05.016
+Manual Therapy 17 (2012) 566 e571
+
+===== PAGE 2 =====
+
+without manual or verbal facilitation ( Claus et al., 2009a ), ques-
+tioning its clinical applicability. Consequently, methods which
+reduce the effort of neutral sitting are worthy of investigation.
+Many different chair designs have been advocated in the
+management of seated LBP. Forward-inclined chairs increase
+lumbar lordosis closer to that observed in standing ( Bennett et al.,
+1989; Gale et al., 1989). Interestingly, both decreased (Koskelo et al.,
+2007) and increased ( Lander et al., 1987; Bennett et al., 1989 )
+lumbar muscle activation have been reported using these chairs.
+Dynamic chair designs have also been advocated, with a view to
+increasing spinal motion (Van Dieen et al., 2001 ) and altering trunk
+muscle activation ( Gregory et al., 2006; Kingma and van Dieen,
+2009). However, most studies suggest dynamic sitting has little
+effect on trunk muscle activation ( McGill et al., 2006; O ’Sullivan
+et al., 2006b ) or seated discomfort ( Beach et al., 2003; Aota et al.,
+2007; Lengsfeld et al., 2007 ). The Back App combines these two
+approaches, as it involves both a forward-inclined seat and
+a dynamic base of support. Both the chair height and the degree of
+motion available can be adjusted. It has the potential to reduce the
+effort of lordotic sitting, however this has not yet been investigated.
+Thus this pilot study aimed to investigate whether this dynamic,
+forward-inclined chair can reduce the effort of maintaining
+a neutral sitting posture among painfree participants.
+2. Methods
+2.1. Study design
+A single session, repeated measures study. All participants
+completed the same protocol apart from the order of testing, which
+they randomly selected from a sealed opaque envelope. Ethical
+approval was obtained from the local university Research Ethics
+Committee.
+2.2. Participants
+Twelve (7F, 5M) pain-free participants were recruited from the
+local community. All participants provided written informed
+consent. Participants were aged >18 years, were not pregnant,
+had no LBP in the last two years, no previous spinal surgery, no
+current pain medications, had not received previous postural
+control training, and could speak/understand English. Participants
+mean( /C6 SD) age was 23.3( /C6 3.6) years, height was 169.5( /C6 5.7)
+cm, mass was 65.9( /C6 10.2) kg and body mass index was
+22.9(/C6 3.2) kg/m
+2.
+2.3. Instrumentation
+2.3.1. Kinematics
+Lumbo-pelvic posture was monitored using a wireless posture
+monitor (BodyGuard, Sels Instruments, Belgium) which incorpo-
+rates a strain gauge that analyses the relative distance between
+anatomical landmarks. Posture is expressed as a percentage of
+strain gauge elongation, so that spinal ﬂexion/extension is
+expressed relative to lower lumbar range of motion (ROM)
+(O’Sullivan et al., 2010 ). Postural data were recorded continuously
+in real-time at 1 Hz. This posture monitor has very good reliability
+(O’Sullivan et al., 201 1) and validity ( O’Sullivan et al., 2012 ) for the
+measurement of spinal posture. A strain gauge was positioned over
+the spinal levels of L3 and S2, since the lower lumbar spine is the
+most common reported area for LBP ( Dankaerts et al., 2006b ) and
+the upper and lower lumbar spine regions demonstrate functional
+independence ( Dankaerts et al., 2006b; Mitchell et al., 2008 ). The
+spinal levels of L3 and S2 were identi ﬁed by manual palpation in
+a slightly ﬂexed sitting posture. Participants then performed
+maximal lumbar ROM to ensure the device was securely attached.
+To calibrate the posture monitor, manual and verbal facilitation
+were used to guide subjects through full ROM. Subjects were placed
+into maximum anterior pelvic tilt and lumbar lordosis in sitting
+which was set as 0% of their lumbar ROM, and then into a fully
+ﬂexed sitting posture with maximum posterior pelvic tilt, which
+was set as 100% of their lumbar ROM ( O’Sullivan et al., 2010 ). This
+was repeated ﬁve times, to obtain a representative ROM value.
+2.3.2. Trunk muscle activation
+The activation of six trunk muscles was analysed using surface
+electromyography (sEMG). A Motion Lab Systems MA-300 multi-
+channel EMG system (Motion Lab Systems Inc., Baton Rouge, Lou-
+isiana, USA) collected sEMG data using bipolar, pre-ampli ﬁed,
+circular electrodes 12 mm in diameter, with a ﬁxed inter-
+electrode distance of 18 mm. The sample rate was 1000 Hz per
+channel, with a bandwidth of 0 e500 Hz, and a gain setting of 2000.
+The common mode rejection ratio was >100 dB at 60 Hz. Three
+abdominal and three back muscles of the right hand side of the
+trunk were analysed, after preliminary testing had demonstrated
+no signi ﬁcant difference between right and left sides in pain-free
+participants during such a relatively static task. The skin was
+prepared for electrode placement by abrading the skin with ﬁne
+sandpaper, shaving any hair and cleansing the skin with isopropyl
+alcohol solution to reduce skin impedance, in line with recom-
+mendations (Hermens et al., 2000 ). Pairs of surface electrodes were
+positioned parallel to the ﬁbre direction of each muscle ( O’Sullivan
+et al., 2006a ), and secured with clear adhesive tape. The muscles
+studied were super ﬁcial lumbar multi ﬁdus (LM) (L5 level, parallel
+to a line connecting the PSIS and L1 e
+L2 level); iliocostalis lumbo-
+rum pars thoracis (ICLT) (L1 level, midway towards the lateral
+border of the trunk); thoracic erector spinae (TES) (5 cm lateral to
+T9 level); external oblique (EO) (below the rib cage, along a line
+connecting the inferior costal margin and the contralateral pubic
+tubercle); internal oblique (IO) (1 cm medial to the ASIS); and
+rectus abdominis (RA) (1 cm above umbilicus and 2 cm lateral to
+midline). A common earth electrode was placed over the ulnar
+styloid. Good electrode contact was con ﬁrmed by visually exam-
+ining the sEMG output while applying manual resistance. EMG data
+were normalised to maximum voluntary isometric contraction
+(MVIC). To generate MVIC for the abdominal muscles, three exer-
+cises were used ( O’Sullivan et al., 2006a ). First, the participant lay
+supine with their legs straight and strapped with a belt. A resisted
+curl-up with maximal manual isometric resistance applied
+symmetrically through their shoulders was used for RA. A resisted
+crossed curl-up, with the right shoulder moving towards the left
+and maximal manual isometric resistance applied through the right
+shoulder was used for EO. For IO, the same procedure was repeated
+on the opposite side. One exercise was used for all back muscles
+(O’Sullivan et al., 2006a). The participant was positioned prone, legs
+straight, and strapped with a belt. The participant, with their hands
+behind their neck, lifted their head, shoulders and elbows off the
+examination table and symmetrical maximal manual resistance
+was provided to their scapular region. To avoid fatigue, contraction
+time for all MVIC trials was 5 s ( Soderberg and Knutson, 2000 ) with
+a 3 min rest between trials ( McLean et al., 2003 ). The middle 3 s of
+EMG data, from the 5-s testing period, were analysed. The highest
+contraction from any of the abdominal tests was taken as the MVIC
+for each abdominal muscle, and the highest generated MVIC from
+three repetitions of the back muscle test was taken for each back
+muscle (O’Sullivan et al., 2006b ).
+2.3.3. Chairs
+The Back App facilitates dynamic sitting in multiple planes
+through an unstable ball positioned at its base ( Fig. 1 ), whose
+K. O ’Sullivan et al. / Manual Therapy 17 (2012) 566 e571 567
+
+===== PAGE 3 =====
+
+prominence can be altered to vary the degree of motion allowed.
+The degree of motion is dampened through a circular base, allow-
+ing for smooth variation in loading. For testing, participants placed
+their feet on the footplate at the base of the chair, to prevent them
+stabilising their feet on the ﬂoor. The degree of motion allowed was
+standardised at the ‘green’ zone, which involves a mild degree of
+motion and is recommended by the manufacturers for use during
+prolonged sitting. The standard chair was adjustable, backless and
+had wheels ( Fig. 2 ). The standard chair was adjusted to allow an
+angle of 90/C14 for both the hips and knees with the feet placed ﬁrmly
+on the ﬂoor ( Fig. 1 ), while the Back App was adjusted to allow
+a1 2 5/C14 hip angle with their feet placed on the circular footplate at
+the base ( Fig. 1 ). Limb angles were con ﬁrmed by goniometry.
+Participants were blinded as to when posture and sEMG recordings
+were occurring.
+2.4. Neutral sitting task
+Each participant was facilitated into a neutral sitting posture
+using manual and verbal facilitation. The neutral sitting posture
+involved positioning participants into a spinal posture 30% away
+from end-range spinal extension, similar to that previously de ﬁned
+as neutral sitting ( O’Sullivan et al., 2010 ). In other words, the
+neutral posture was de ﬁned relative to each individual ’s available
+ROM. This posture was obtained through some anterior pelvic tilt
+and lumbar lordosis with thoracic relaxation. This was cross-
+referenced with the real-time posture monitor output until the
+30% value was obtained. Once positioned, participants were
+instructed to stay in this position while on the standard chair, and
+to stay in this position while maintaining their balance when sitting
+on the Back App. Participants maintained this posture for one
+minute during which posture was recorded continuously, and
+sEMG was recorded for 5 s (at time interval 30 s) on both chairs.
+Participants then rated the perceived level of effort to maintain this
+sitting posture on both chairs, using a verbal numerical rating scale
+(VNRS) where 0 ¼ “no effort to maintain this posture ” and
+10 ¼ “extreme effort to maintain this posture ”.
+2.5. Data analysis
+Data were analysed using SPSS 18.0. Mean posture, and variation
+(SD) in posture, for each participant on each chair were exported for
+analysis. Both mean RMS activation, and variation (SD) in RMS
+activation, were also analysed for each muscle on each chair. Data
+were tested for normality using the Shapiro-Wilks test. Any data
+which were not normally distributed were transformed using
+a natural log transformation in SPSS. Paired t-tests were used to
+compare mean posture and variation in posture, mean muscle
+activity and variation in muscle activity, as well as perceived effort
+of neutral sitting between the chairs. Statistical signi ﬁcance was set
+at p < 0.05.
+3. Results
+Mean posture across all participants in neutral sitting did not
+differ signiﬁcantly (p ¼ 0.709) between the standard (Mean þ SD ¼
+31.3þ 2.5% ﬂexion) and Back App (Mean þ SD ¼ 31.9þ 4.1% ﬂexion)
+chairs. Similarly, postural variation across all participants was <2%
+Fig. 2. Neutral sitting on the standard chair.
+Fig. 1. Neutral sitting on the Back App.
+K. O ’Sullivan et al. / Manual Therapy 17 (2012) 566 e571568
+
+===== PAGE 4 =====
+
+on each chair, and did not differ signi ﬁcantly ( p ¼ 0.345) between
+the chairs. Mean LM activity was signi ﬁcantly lower on the Back
+App compared with the standard chair ( p ¼ 0.013) ( Table 1 ). No
+other muscles were signi ﬁcantly less active on the Back App
+(Table 1 ). There was no difference in the degree of trunk muscle
+variation between the chairs (all p > 0.05). There was no signi ﬁcant
+difference in the perceived level of effort to maintain this sitting
+posture on both chairs ( Fig. 3 )( p ¼ 0.108).
+4. Discussion
+The results of the current study demonstrate that a dynamic,
+forward-inclined chair reduces lumbar paraspinal muscle activity,
+speciﬁcally LM activity, while painfree participants maintain
+a neutral sitting posture. The differences observed could be due to
+some key differences between the chairs. Firstly, the reduction in
+hip ﬂexion and use of a forward-inclined seat pan appears to be the
+most likely mechanism. A similar design has previously been
+shown to reduce paraspinal muscle tension over a 24-month period
+(Koskelo et al., 2007 ). Nevertheless, a similar kneeler-chair design
+increases, rather than decreases, paraspinal muscle activation
+(Lander et al., 1987; Bennett et al., 1989 ). An important factor in
+clarifying this potential confusion may be the lack of forward trunk
+lean in this study, which could increase paraspinal muscle activa-
+tion ( Vergara and Page, 2002 ) on such chairs if not monitored
+closely. Secondly, the increased motion in sitting facilitated by the
+Back App could explain the differences. However, while some
+dynamic sitting studies have reported changes in trunk muscle
+activation, in these studies trunk muscle activation actually
+increased rather than decreased ( Gregory et al., 2006; Kingma and
+van Dieen, 2009 ). Furthermore, a greater number of studies report
+no difference in trunk muscle activation ( Van Dieen et al., 2001;
+Beach et al., 2003; McGill et al., 2006; O ’Sullivan et al., 2006b )
+and no reduction in seated discomfort ( Beach et al., 2003; Aota
+et al., 2007; Lengsfeld et al., 2007 ) with dynamic sitting. Thirdly,
+the foot position differs on the Back App, which could in ﬂuence the
+pattern of weight transfer through the spine and lower limbs.
+Therefore, it is dif ﬁcult to identify which component of the Back
+App is responsible for the differences in muscle activation
+observed, although the reduction in hip ﬂexion and use of
+a forward-inclined seat pan would seem the most likely
+mechanism.
+While sitting involves more lumbar ﬂexion than standing (Dunk
+et al., 2009; De Carvalho et al., 2010), it is unclear how much ﬂexion
+this should involve. Previous studies demonstrate that a neutral
+sitting posture activates certain trunk muscles considered impor-
+tant in LBP management ( O
+’Sullivan et al., 2006a; Falla et al., 2007;
+Claus et al., 2009b; Reeve and Dilley, 2009; Caneiro et al., 2010 ).
+Spinal posture requires suf ﬁcient muscle activation to aid postural
+stability, without excess muscle activation causing fatigue and
+exerting large compressive spinal loads (Granata and Marras, 2000;
+McGill et al., 2003 ). Determining an “appropriate” level of muscle
+activation during low load tasks such as sitting is dif ﬁcult however.
+There is considerable evidence of increased super ﬁcial muscle
+activation among LBP subjects in low load tasks ( Sihvonen et al.,
+1998; Van Dieën et al., 2003; Dankaerts et al., 2006a ). Further-
+more, trunk muscle fatigue occurs if contractions as low as 2 e5%
+MVIC are sustained for as little as 30 min among painfree volun-
+teers ( van Dieën et al., 2009 ). Therefore, while the “ideal” level of
+trunk muscle activation is unclear, and caution is required in the
+absence of supporting clinical outcome data such as seated
+discomfort, there may be occasions when facilitation of less muscle
+activity while maintaining appropriate spinal alignment is advan-
+tageous. For example, it has been proposed that trunk muscle
+activation varies according to the context and complexity of the
+task being performed (Reeves et al., 2007). Dealing speciﬁcally with
+seated trunk muscle activation, LBP has been linked to both
+increased and decreased trunk muscle activation ( Dankaerts et al.,
+2009). As such, there may be situations where a reduction in par-
+aspinal muscle activation is desirable, and other situations where
+facilitation of greater paraspinal muscle activation is desirable.
+A recent study suggested that even pain-free subjects may ﬁnd
+assuming neutral postures dif ﬁcult without manual or verbal
+feedback ( Claus et al., 2009a ). Since subjects with LBP may have
+deﬁcits in proprioception ( Brumagne et al., 2000; O ’Sullivan et al.,
+2003), and alterations in their body schema ( Moseley, 2008; Bray
+and Moseley, 201 1; Luomajoki and Moseley, 201 1 ), it might be
+even more dif ﬁcult for LBP patients to assume and maintain
+prescribed neutral spinal postures. Therefore, methods of facili-
+tating neutral postures more easily during LBP rehabilitation are
+worthy of investigation. Rehabilitation which involves retraining of
+neutral spinal postures has been shown to improve LBP outcomes
+(Suni et al., 2006; Dankaerts et al., 2007 ). However, while they
+appear to be considered advantageous by physiotherapists
+(O’Sullivan et al., 2012 ), neutral sitting postures have not demon-
+strated clear superiority to other sitting postures. In fact, advice on
+an optimal sitting posture may differ between subgroups with LBP,
+depending on their individual vulnerability to abnormal spinal
+loading ( O’Sullivan, 2005; Dankaerts et al., 2009 ).
+Neutral sitting may not be the same for all participants, poten-
+tially varying according to their gender ( Dunk and Callaghan,
+2005), genetics ( Seah et al., 201 1), body composition ( Smith et al.,
+201 1) and physical characteristics ( Smith et al., 2010 ). In addition,
+assuming any static spinal posture for a prolonged duration could
+result in fatigue, discomfort and pain ( Nelson-Wong and Callaghan,
+2010). The ability to maintain a stable base of support during low
+load tasks, and still vary posture so that neither rigid upright nor
+passive slumped postures are sustained, may help minimise seated
+discomfort. Finally, while postural factors may be signi ﬁcant for
+subgroups of NSCLBP subjects ( Dankaerts et al., 2006b ), it is
+abundantly clear that LBP is a complex, multidimensional disorder
+Fig. 3. Mean ( þSD) effort required to maintain neutral sitting on both the standard
+backless chair and the Back App. Participants rated the effort on a verbal numeric
+rating scale (VNRS) from 0 to 10. The difference was not statistically signi ﬁcant
+(p ¼ 0.108).
+Table 1
+Mean (SD) trunk muscle activation (expressed as %MVIC) while sitting in a neutral
+sitting posture on a standard of ﬁce chair and the back app chair.
+Muscle Standard Back App p
+EO 6.0 (5.1) 4.8 (2.8) 0.220
+IO 6.7 (5.6) 7.4 (5.9) 0.455
+RA 4.8 (3.3) 5.4 (4.5) 0.323
+TES 6.4 (5.2) 6.0 (3.1) 0.693
+ICLT 9.9 (5.2) 8.5 (4.7) 0.146
+LM 9.7 (5.9) 7.1 (4.2) 0.013 *
+%MVIC ¼ percentage of Maximum Voluntary Isometric Contraction; EO e external
+oblique; IO e transverse ﬁbres of internal oblique; RA e rectus abdominis; TES e
+thoracic erector spinae; ICLT e iliocostalis lumborum pars thoracis; LM e superﬁcial
+ﬁbres of lumbar multi ﬁdus (LM); * e p < 0.05.
+K. O ’Sullivan et al. / Manual Therapy 17 (2012) 566 e571 569
+
+===== PAGE 5 =====
+
+where numerous factors other than posture and movement
+patterns must be considered ( Rees et al., 201 1; O ’Sullivan, 2012).
+However even in LBP subjects with high levels of fear, stress or
+anxiety, facilitation of less painful postures may help as part of
+a comprehensive functional rehabilitation programme (Lewis et al.,
+2012; O’Sullivan, 2012).
+In this study the Back App chair was compared to a chair
+without a backrest to avoid the possible confounding in ﬂuence of
+a backrest affecting the results ( Gregory et al., 2006; Kingma and
+van Dieen, 2009 ). Most standard of ﬁce chairs have backrests
+which may also decrease the muscular effort and discomfort of
+sitting (Andersson et al., 1974; Vergara and Page, 2002 ). Therefore,
+future comparison of the Back App to a standard chair with
+a backrest is required as a backrest could be equally effective at
+reducing the effort of sitting. Future research should also examine
+whether similar reductions in paraspinal muscle activation occur in
+a range of lordotic sitting postures, and among participants with
+LBP. Ongoing research by the current research group is examining
+whether this chair can help reduce seated discomfort among
+a subgroup of subjects with LBP. The speci ﬁc subgroup studied
+consists of those who report increased LBP when sitting on a ﬂat
+chair, reduced LBP in standing, and have dif ﬁculty maintaining
+a neutral sitting posture, as described elsewhere ( Dankaerts and
+O’Sullivan, 201 1). The effect of such chairs on other spinal regions
+is also worthy of investigation, as is examination of the in ﬂuence of
+varying degrees of seated motion. The current results suggest that
+LM activation is more speci ﬁcally in ﬂuenced by changes in hip
+ﬂexion angle than the other trunk muscles studied, which is
+consistent with previous research suggesting that LM is more
+speciﬁcally in ﬂuenced than the other paraspinal muscles by local
+variations in lumbar lordosis ( Claus et al., 2009b ). Future research
+may provide further insight into how this relates to the role of these
+muscle groups in functional tasks with different hip ﬂexion angles.
+4.1. Limitations
+Similar to many previous postural studies, this study involved
+only a small sample of young, painfree participants which reduces
+the statistical power of the ﬁndings. Clearly examination of subjects
+with greater levels of pain and disability is required. Neutral sitting
+was maintained for only a relatively short duration, which may
+explain the lack of a signi ﬁcant difference in subjective perceived
+effort despite signi ﬁcant changes in LM activation. Studies are
+necessary to evaluate if the slight reduction in perceived effort on
+the Back App is more signi ﬁcant when maintained for longer
+periods. Participants may not all have interpreted the effort scale
+consistently, depending on what they perceived to be representa-
+tive of extreme effort. The BodyGuard does not directly calculate
+spinal posture, similar to all skin mounted spinal motion-analysis
+systems. Postural data were not expressed in degrees, and muscle
+activation was limited to analysis of the super ﬁcial trunk muscles.
+Neutral posture was not expressed relative to habitual or relaxed,
+slump posture, limiting interpretation of the data.
+5. Conclusion
+Neutral sitting postures are commonly advocated in the
+management of LBP, yet maintaining these postures may require
+high levels of paraspinal muscle activation. In this study, pain-free
+participants could maintain a neutral lumbar spine sitting posture
+with less activation of LM, but not the other paraspinal muscles,
+when sitting on a dynamic, forward-inclined chair compared to
+sitting on a standard chair with a ﬂat seat pan. The mechanism
+through which the chair reduced LM muscle activation is unclear,
+but the greatest difference between the two sitting conditions was
+the degree of hip ﬂexion. The ability to maintain a neutral lumbar
+posture with less muscle activation is potentially advantageous
+during prolonged sitting. Further studies of longer duration in
+people with LBP are required.
+Acknowledgements
+The study was supported by Back App, who provided the chair,
+and part-funded completion of the study and it ’s presentation at an
+international conference.
+The lead author (KOS) is funded by a research fellowship from
+the Health Research Board of Ireland.
+References
+Adams MA, Hutton WC. The effect of posture on the lumbar spine. Journal of Bone &
+Joint Surgery (B) 1985;67(4):625 e9.
+Andersson EA, Jonsson B, Ortengren R. Myoelectronic activity in individual lumbar
+erector spinae muscles in sitting. Scandinavian Journal of Rehabilitation
+Medicine 1974;S3:91e108.
+Aota Y, Iizuka H, Ishige Y, et al. Effectiveness of a lumbar support continuous passive
+motion device in the prevention of low back pain during prolonged sitting.
+Spine 2007;32(23):E674e7.
+Beach TAC, Mooney SK, Callaghan JP. The effects of a continuous passive motion
+device on myoelectric activity of the erector spinae during prolonged sitting at
+a computer workstation. Work 2003;20(3):237 e44.
+Beach TAC, Parkinson RJ, Stothart JP, Callaghan JP. Effects of prolonged sitting on the
+passive ﬂexion stiffness of the in vivo lumbar spine. The Spine Journal 2005;
+5(2):145e54.
+Bennett DL, Gillis DK, Portney LG, Romanow M, Sanchez AS. Comparison of inte-
+grated electromyographic activity and lumbar curvature during standing and
+during sitting in three chairs. Physical Therapy 1989;69(1 1):902.
+Bettany-Saltikov J, Warren J, Jobson M. Ergonomically designed kneeling chairs are
+they worth it?: comparison of sagittal lumbar curvature in two different seating
+postures. Studies in Health Technology and Informatics 2008;140:103 e6.
+Bray H, Moseley GL. Disrupted working body schema of the trunk in people with
+back pain. British Journal of Sports Medicine 201 1;45(3):168 e73.
+Brumagne SPT, Cordo PP, Lysens RMDP, Verschueren SP, Swinnen SP. The role of
+paraspinal muscle spindles in lumbosacral position sense in individuals with
+and without low back pain. Spine 2000;25(8):989 e94.
+Caneiro J, O ’Sullivan P, Burnett A, et al. The in ﬂuence of different sitting postures on
+head/neck posture and muscle activity. Manual Therapy 2010;15(1):54 e60.
+Christie H, Kumar S, Warren S. Postural aberrations in low back pain. Archives of
+Physical Medicine and Rehabilitation 1995;76:218 e24.
+Claus A, Hides J, Moseley GL, Hodges P. Is "ideal" sitting real?: Measurement of
+spinal curves in four sitting postures. Manual Therapy 2009a;14:404 e8.
+Claus AP, Hides JA, Moseley GL, Hodges PW. Different ways to balance the spine:
+subtle changes in sagittal spinal curves affect regional muscle activity. Spine
+2009b;34(6):E208e14.
+Dankaerts W, O’Sullivan P, Burnett A, Straker L. Altered patterns of super ﬁcial trunk
+muscle activation during sitting in nonspeci ﬁc chronic low back pain patients:
+importance of subclassi ﬁcation. Spine 2006a;31(1 7):2017e23.
+Dankaerts W, O ’Sullivan PB, Burnett A, Straker LM. Differences in sitting postures
+are associated with non-speci ﬁc chronic low back pain disorders when sub-
+classiﬁed. Spine 2006b;31(6):698 e704.
+Dankaerts W, O ’Sullivan P, Burnett A, Straker L. The use of a mechanism-based
+classiﬁcation system to evaluate and direct management of a patient with
+non-speciﬁc chronic low back pain and motor control impairment e a case
+report. Manual Therapy 2007;12(2):181 e91.
+Dankaerts W, O’Sullivan P, Burnett A, et al. Discriminating healthy controls and two
+clinical subgroups of nonspeci ﬁc chronic low back pain patients using trunk
+muscle activation and lumbosacral kinematics of postures and movements:
+a statistical classi ﬁcation model. Spine 2009;34(15):1610.
+Dankaerts W, O ’Sullivan P. The validity of O ’Sullivan’s classi ﬁcation system (CS) for
+a sub-group of NS-CLBP with motor control impairment (MCI): overview of
+a series of studies and review of the literature. Manual Therapy 201 1;16(1):
+9e14.
+De Carvalho D, Soave D, Ross K, Callaghan J. Lumbar spine and pelvic posture
+between standing and sitting: a radiologic investigation including reliability
+and repeatability of the lumbar lordosis measure. Journal of Manipulative and
+Physiological Therapeutics 2010;33(1):48 e55.
+Dunk N, Kedgley A, Jenkyn T, Callaghan J. Evidence of a pelvis-driven ﬂexion
+pattern: are the joints of the lower lumbar spine fully ﬂexed in seated postures?
+Clinical Biomechanics 2009;24(2):164 e8.
+Dunk NM, Callaghan JP. Gender-based differences in postural responses to seated
+exposures. Clinical Biomechanics 2005;20(10):1 101e10.
+Falla D, O ’Leary S, Fagan A, Jull G. Recruitment of the deep cervical ﬂexor muscles
+during a postural-correction exercise performed in sitting. Manual Therapy
+2007;12:139e43.
+K. O ’Sullivan et al. / Manual Therapy 17 (2012) 566 e571570
+
+===== PAGE 6 =====
+
+Gale M, Feather S, Jensen S, Coster G. Study of a workseat designed to preserve
+lumbar lordosis. Australian Occupational Therapy Journal 1989;36(2):92 e9.
+Granata KP, Marras WS. Cost-bene ﬁt of muscle cocontraction in protecting against
+spinal instability. Spine 2000;25(1 1):1398e404.
+Gregory DE, Dunk NM, Callaghan JP. Stability ball versus of ﬁce chair: comparison of
+muscle activation and lumbar spine posture during prolonged sitting. Human
+Factors 2006;48(1):142e53.
+Hartvigsen J, Leboeuf-Yde C, Lings S, Corder EH. Is sitting while at work associated
+with low back pain? A systematic, critical literature review. Scandinavian
+Journal of Public Health 2000;28(3):230 e9.
+Hermens H, Freriks B, Disselhorst-Klug C, Rau G. Development of recommendations
+for SEMG sensors and sensor placement procedures. Journal of Electromyog-
+raphy and Kinesiology 2000;10(5):361 e74.
+Kingma I, van Dieen JH. Static and dynamic postural loadings during computer
+work in females: sitting on an of ﬁce chair versus sitting on an exercise ball.
+Applied Ergonomics 2009;40(2):199 e205.
+Koskelo R, Vuorikari K, Hänninen O. Sitting and standing postures are corrected by
+adjustable furniture with lowered muscle tension in high-school students.
+Ergonomics 2007;50(10):1643e56.
+Lander C, Korbon G, DeGood D, Rowlingson J. The Balans chair and its semi-kneeling
+position: an ergonomic comparison with the conventional sitting position.
+Spine 1987;12(3):269.
+Lengsfeld M, Franka A, van Deursen D, Griss P. Lumbar spine curvature during of ﬁce
+chair sitting. Medical Engineering and Physics 2000;22(9):665 e9.
+Lengsfeld M, König IR, Schmelter J, Ziegler A. Passive rotary dynamic sitting at the
+workplace by of ﬁce-workers with lumbar pain: a randomized multicenter
+study. The Spine Journal 2007;7(5):531 e40.
+Lewis S, Holmes P, Woby S, Hindle J, Fowler N. The relationships between measures
+of stature recovery, muscle activity and psychological factors in patients with
+chronic low back pain. Manual Therapy 2012;17(1):27 e33.
+Lis A, Black K, Korn H, Nordin M. Association between sitting and occupational LBP.
+European Spine Journal 2007;16:283 e98.
+Luomajoki H, Moseley G. Tactile acuity and lumbopelvic motor control in patients
+with back pain and healthy controls. British Journal of Sport Medicine 201 1;45:
+437e40.
+McGill SM, Grenier S, Kavcic N, Cholewicki J. Coordination of muscle activity to
+assure stability of the lumbar spine. Journal of Electromyography and Kinesi-
+ology 2003;13:353e9.
+McGill SM, Kavcic NS, Harvey E. Sitting on a chair or an exercise ball: various
+perspectives to guide decision making. Clinical Biomechanics 2006;21(4):353e60.
+McLean L, Chislett M, Keith M, Murphy M, Walton P. The effect of head position,
+electrode site, movement and smoothing window in the determination of
+a reliable maximum voluntary activation of the upper trapezius muscle. Journal
+of Electromyography and Kinesiology 2003;13(2):169 e80.
+Mitchell T, O ’Sullivan P, Burnett AF, Straker L, Smith A. Regional differences in
+lumbar spinal posture and the in ﬂuence of low back pain. BMC Musculoskeletal
+Disorders 2008;9:152.
+Moseley G. I can ’t ﬁnd it! Distorted body image and tactile dysfunction in patients
+with chronic back pain. Pain 2008;140(1):239 e43.
+Nelson-Wong E, Callaghan JP. Is muscle co-activation a predisposing factor for low
+back pain development during standing? A multifactorial approach for early
+identiﬁcation of at-risk individuals. Journal of Electromyography and Kinesi-
+ology 2010;20(2):256e63.
+O’Sullivan K, O ’Dea P, Dankaerts W, et al. Neutral lumbar spine sitting posture in
+pain-free subjects. Manual Therapy 2010;15(6):557 e61.
+O’Sullivan K, Galleotti L, Dankaerts W, O ’Sullivan P, O ’Sullivan L. The between-day
+and inter-rater reliability of a novel wireless system to analyse lumbar spine
+posture. Ergonomics 201 1;54(1):82e90.
+O’Sullivan K, O ’Sullivan L, Campbell A, O ’Sullivan P, Dankaerts W. Towards moni-
+toring lumbo-pelvic posture in real-life situations: concurrent validity of
+a novel posture monitor and a traditional laboratory-based motion analysis
+system. Manual Therapy 2012;17(1):77 e83.
+O’Sullivan P, Burnett A, Floyd A, et al. Lumbar repositioning de ﬁcit in a speci ﬁc low
+back pain population. Spine 2003;28:1074 e9.
+O’Sullivan P. Diagnosis and classi ﬁcation of chronic low back pain disorders: mal-
+adaptive movement and motor control impairments as underlying mechanism.
+Manual Therapy 2005;10(4):242 e55.
+O’Sullivan P, Dankaerts W, Burnett A, et al. Effect of different upright sitting
+postures on spinal-pelvic curvature and trunk muscle activation in a pain-free
+population. Spine 2006a;31(19):E707 e12.
+O’Sullivan P, Dankaerts W, Burnett A, et al. Lumbopelvic kinematics and trunk
+muscle activity during sitting on stable and unstable surfaces. Journal of
+Orthopaedic & Sports Physical Therapy 2006b;36(1):19 e25.
+O’Sullivan P. It’s time for change with the management of non-speci ﬁc chronic low
+back pain. British Journal of Sports Medicine 2012;46(4):224 e7.
+O’Sullivan K, O ’Sullivan P, O ’Sullivan L, Dankaerts W. What do physiotherapists
+consider to be the best sitting spinal posture? Manual Therapy 2012;17(5):432e7.
+Poitras S, Blais R, Swaine B, Rossignol M. Management of work-related low back
+pain: a population-based survey of physical therapists. Physical Therapy 2005;
+85(1 1):1 168e81.
+Pope MH, Goh KL, Magnusson ML. Spine ergonomics. Annual Review of Biomedical
+Engineering 2002;4:49 e68.
+Pynt J, Higgs J, Mackey M. Seeking the optimal posture of the seated lumbar spine.
+Physiotherapy Theory & Practice 2001;17(1):5 e21.
+Pynt J, Mackey MG, Higgs J. Kyphosed seated postures: extending concepts of
+postural health beyond the of
+ﬁce. Journal of Occupational Rehabilitation 2008;
+18(1):35e45.
+Rees C, Smith A, O ’Sullivan P, Kendall G. Back and neck pain are related to mental
+health problems in adolescence. BMC Public Health 201 1;1 1:382.
+Reeve A, Dilley A. Effects of posture on the thickness of transversus abdominis in
+pain-free subjects. Manual Therapy 2009;14(6):679 e84.
+Reeves NP, Narendra KS, Cholewicki J. Spine stability: the six blind men and the
+elephant. Clinical Biomechanics 2007;22(3):266 e74.
+Roffey D, Wai EK, Bishop P, Kwon BK, Dagenais S. Causal assessment of occupational
+sitting and low back pain: results of a systematic review. The Spine Journal
+2010;10(3):252e61.
+Scannell JP, McGill SM. Lumbar posture-should it, and can it, be modi ﬁed? A study
+of passive tissue stiffness and lumbar position during activities of daily living.
+Physical Therapy 2003;83(10):907 e17.
+Seah SHH, Briggs AM, O ’Sullivan PB, et al. An exploration of familial associations in
+spinal posture de ﬁned using a clinical grouping method. Manual Therapy 201 1;
+16(5):501e9.
+Sihvonen T, Huttunen M, Makkonen M, Airaksinen O. Functional changes in back
+muscle activity correlate with pain intensity and prediction of low back pain
+during pregnancy. Archives of Physical Medicine and Rehabilitation 1998;
+79(10):1210e2.
+Smith A, O ’Sullivan P, Beales D, De Klerk N, Straker L. Trajectories of childhood body
+mass index are associated with adolescent sagittal standing posture. Interna-
+tional Journal of Paediatric Obesity 201 1;6(2):e97 e106.
+Smith AJ, O ’Sullivan PB, Campbell AC, Straker LM. The relationship between back
+muscle endurance and physical, lifestyle, and psychological factors in
+adolescents. Journal of Orthopaedic & Sports Physical Therapy 2010;40(8):
+517e23.
+Soderberg G, Knutson LM. A guide for the use and interpretation of kinesiologic
+electromyographic data. Physical Therapy 2000;80:485 e98.
+Suni J, Rinne M, Natri A, et al. Control of the lumbar neutral zone decreases low back
+pain and improves self-evaluated work ability a 12-month randomized
+controlled study. Spine 2006;31(18):E61 1e20.
+Van Dieen J, De Looze M, Hermans V. Effects of dynamic of ﬁce chairs on trunk
+kinematics, trunk extensor EMG and spinal shrinkage. Ergonomics 2001;44(7):
+739e50.
+Van Dieën JH, Selen LPJ, Cholewicki J. Trunk muscle activation in low-back pain
+patients, an analysis of the literature. Journal of Electromyography and Kine-
+siology 2003;13(4):333e51.
+van Dieën JH, Westebring-van der Putten EP, Kingma I, de Looze MP. Low-level
+activity of the trunk extensor muscles causes electromyographic manifestations
+of fatigue in absence of decreased oxygenation. Journal of Electromyography
+and Kinesiology 2009;19(3):398 e406.
+Van Dillen L, Maluf K, Sahrmann S. Further examination of modifying patient-
+preferred movement and alignment strategies in patients with low back pain
+during symptomatic tests. Manual Therapy 2009;14(1):52 e60.
+Vergara M, Page A. Relationship between comfort and back posture and mobility in
+sitting-posture. Applied Ergonomics 2002;33:1 e8.
+Williams MM, Hawley JA, McKenzie RA, Van Wijmen PM. A comparison of the
+effects of two sitting postures on back and referred pain. Spine 1991;16:
+118 5e91.
+Womersley L, May S. Sitting posture of subjects with postural backache. Journal of
+Manipulative and Physiological Therapeutics 2006;29(3):213 e8.
+Woolf A, P ﬂeger B. Burden of major musculoskeletal conditions. Bulletin of the
+World Health Organization 2003;81(9):646 e56.
+K. O ’Sullivan et al. / Manual Therapy 17 (2012) 566 e571 571

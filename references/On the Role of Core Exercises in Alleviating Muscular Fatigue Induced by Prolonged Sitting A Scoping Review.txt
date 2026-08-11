@@ -1,0 +1,1420 @@
+===== PAGE 1 =====
+
+Amiri et al. Sports Medicine - Open           (2025) 11:18  
+https://doi.org/10.1186/s40798-025-00816-x
+SCOPING REVIEW Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+Sports Medicine - Open
+On the Role of Core Exercises in Alleviating 
+Muscular Fatigue Induced by Prolonged Sitting: 
+A Scoping Review
+Banafsheh Amiri1*  , David G. Behm2 and Erika Zemková1 
+Abstract 
+Background Prolonged sitting induces fatigue in deep trunk muscles, thereby decreasing spinal support 
+and increasing stress on the spine. Core exercises effectively facilitate recovery from trunk muscle fatigue based 
+on evidence from subjective outcomes; however, there is a lack of systematic investigation into localized muscle 
+activity specifically related to prolonged sitting. Therefore, this scoping review summarizes the evidence on the effects 
+of core exercises in alleviating trunk muscular fatigue induced by prolonged sitting, focusing on objective outcomes 
+such as electromyography (EMG) and tensiomyography.
+Methods Articles published between January 2010 and February 2024 were sought in PubMed, Scopus, Web 
+of Science, MEDLINE, and Cochrane Library, as well as Elsevier, SpringerLink, and Google Scholar. The findings were 
+reported following the guidelines provided by the PRISMA-ScR checklist.
+Results Out of 106 papers initially identified, eight met the inclusion criteria. During core exercises, fatigued trunk 
+muscles exhibit an increase in EMG root mean square (RMS) values. In the post-intervention (from 9 days to 8 weeks), 
+tensiomyography outcomes of the erector spinae muscles significantly improved, whilst EMG results were insignifi-
+cant. The contraction times of both the left and right erector spinae balanced out, indicating a harmonizing effect 
+of the exercise. Regarding the recovery of other trunk muscles, only the transversus abdominis and internal oblique 
+muscles exhibited a significant increase in the EMG median frequency that decreased over prolonged sitting.
+Conclusions Core exercises are effective in alleviating muscular fatigue caused by prolonged sitting. This can be 
+observed from significant changes in EMG and tensiomyography parameters during exercise and after the training 
+protocol. Intervention studies have primarily targeted the recovery of the erector spinae muscles, with less attention 
+on other trunk muscles. Although significant improvements in tensiomyography results for the erector spinae can be 
+observed after core exercise intervention, the impact on EMG remains uncertain.
+Key Points 
+1. Core exercises have an acute effect on reducing muscle fatigue caused by prolonged sitting.
+2. Core exercise intervention studies, primarily targeting the erector spinae muscles, significantly improve tensiomy-
+ography outcomes, but evidence for electromyography outcomes is lacking. In addition, few studies have ana-
+*Correspondence:
+Banafsheh Amiri
+amirib1392@gmail.com
+Full list of author information is available at the end of the article
+
+===== PAGE 2 =====
+
+Page 2 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+lyzed the electromyography mean frequency and root mean square values, which are crucial in assessing muscle 
+fatigue and recovery.
+3. Only a few studies have investigated the effectiveness of core exercises in restoring other trunk muscles, such 
+as the transversus abdominis and multifidus, following prolonged sitting fatigue.
+Keywords Electromyography, Muscle activity, Sedentary, Tensiomyography, Workplace
+Background
+Sedentary behavior refers to activities that are performed 
+at or just above the resting metabolic rate (1–1.5 METS) 
+[1]. In 28 European countries, an estimated one-third of 
+adults under the age of 65 are characterized as inactive 
+[2]. A major factor in adults’ sedentary behavior is their 
+daily employment [3]. Technological advancement has 
+had a global impact on occupational sedentariness, which 
+has increased over time [4, 5]. The growing reliance on 
+computers in the workplace has led to extended periods 
+of sitting for employees, with fewer breaks [6]. On aver -
+age, office workers sit for 6.6–10.0 h per day [3]. Because 
+of the lower center of gravity and a wider base, sitting is 
+a comfortable posture that consumes little energy [7]. 
+The prevalence of this condition increased during the 
+COVID-19 pandemic, with remote work from home 
+leading to prolonged sitting [8, 9].
+During prolonged sitting, continuous contraction of 
+the core muscles can lead to deep trunk muscle fatigue 
+[10]. Under fatigue, increased activity in superficial trunk 
+muscle reduces support to the spine and increases stress 
+on ligaments and intervertebral discs [10]. The reduction 
+of disc height increases the amount of compression on 
+sensitive spinal structures. This may stimulate nocicep -
+tor activity, which could contribute to the development 
+of pain [10]. Research indicates that 34 to 51% of office 
+workers experienced low back pain in the past year, with 
+approximately 20 to 23% reporting new episodes during 
+a one-year monitoring period [12]. The COVID-19 pan -
+demic has significantly increased the occurrence of lower 
+back pain as the most prevalent population problem [13]. 
+Low back pain has been identified as the leading cause of 
+disability worldwide, measured in years lived with dis -
+ability, and ranks sixth in terms of overall burden, based 
+on disability-adjusted life years [11].
+Due to the strong correlation between low back pain 
+and weak or imbalanced trunk muscle corsets [14], 
+researchers investigated various interventions aimed at 
+reducing trunk muscle fatigue [15]. In particular, exercise 
+programs conducted in workplace settings are benefi -
+cial in this regard [16–18]. Among them, core exercises 
+have achieved substantial popularity in recent years 
+[10, 16, 17, 19–24]. The purpose of these exercises is to 
+restore normal muscle function to increase spinal stabil -
+ity, improve neuromuscular control within the lumbopel-
+vic region, increase intersegmental stiffness, and prevent 
+injury to the lumbar spine [11]. These exercises play a 
+crucial role in reducing muscle fatigue induced by pro -
+longed sitting [10, 16, 19–24].
+Muscle fatigue from prolonged sitting is commonly 
+assessed using surface electromyography (EMG) [25–28]. 
+Various indexes have been proposed to analyze EMG 
+signals and quantify the degree of muscle fatigue, such 
+as median frequency (MDF), root mean square (RMS), 
+fractal dimension, and average rectified value [29–32]. 
+These indexes aim to capture different aspects of mus -
+cle fatigue related to physiological changes within the 
+muscle [15]. Fractal dimension, for instance, has been 
+found to be highly sensitive to detecting the synchroni -
+zation of recruited motor units, reflecting central fatigue 
+[33]. On the other hand, frequency domain indexes like 
+MDF or mean frequency (MNF) are associated with the 
+nerve conduction velocity of motor unit action poten -
+tials, mainly reflecting peripheral fatigue [30, 34]. Evalu-
+ating the effects of various physical exercises on reducing 
+muscle fatigue using different EMG indexes can provide 
+insights into the potential benefits of each intervention 
+and shed light on the underlying physiological mecha -
+nisms [15].
+Tensiomyography is another widely-used noninva -
+sive method for assessing muscle fatigue in a static pos -
+ture [22]. It assesses muscle state changes by examining 
+the displacement and contraction time of muscle fibers 
+induced by a 1 ms electrical stimulation (ranging from 
+0 to 100 mA) of a single muscle fiber bundle [22]. The 
+advantage of tensiomyography is its lower sensitivity to 
+external noise and also the fact that it is not affected by 
+skin resistance or sweating [22]. It is considered a valid 
+technique for evaluating muscle fiber composition [22].
+In recent systematic reviews, researchers investigated 
+the effect of exercise interventions on reducing neu -
+romuscular fatigue [15, 35, 36]. However, two review 
+studies primarily relied on subjective measures, such 
+as perceived fatigue and soreness [35, 36], which may 
+not accurately reflect localized muscle fatigue. Only 
+one review study employed objective measures, such as
+
+===== PAGE 3 =====
+
+Page 3 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+EMG [15]. Additionally, all three systematic reviews pri -
+marily focused on post-exercise fatigue and did not con -
+sider fatigue resulting from prolonged sitting [15, 35, 36]. 
+Furthermore, while several studies discussed interven -
+tions such as active recovery, compression, massage, and 
+stretching, a significant gap remains in research regard -
+ing the effectiveness of core exercises for alleviating 
+fatigue [37–41].
+Objectives
+This scoping review aims (i) to summarize the evidence 
+on the effects of core exercises in alleviating trunk mus -
+cular fatigue induced by prolonged sitting, focusing on 
+objective outcomes such as EMG and tensiomyography 
+and (ii) to identify gaps in the existing literature and sug -
+gest recommendations for future studies on this topic.
+Methods
+Protocol and Registration
+This study was drafted using the PRISMA-ScR (Preferred 
+Reporting Items for Systematic Reviews and Meta-Anal -
+yses Extension for Scoping Reviews) checklist [42]. The 
+process was based on the ‘Population–Concept–Con -
+text (PCC)’ framework recommended by the Joanna 
+Briggs Institute for Scoping Reviews [43]. Moreover, the 
+protocol was preregistered on 3 April 2024 using the 
+Open Science Framework (OSF) Registries (https:// doi. 
+org/https:// doi. org/ 10. 17605/ OSF. IO/ 7VFZ6).
+Eligibility Criteria
+The inclusion criteria comprised peer-reviewed English-
+language articles published from January 2010 to Febru -
+ary 2024. Grey literature was excluded, including books, 
+theses, case reports, abstracts, and conference papers.
+According to the PCC framework, as delineated in 
+Table  1, the population encompassed individuals who 
+were sedentary or experienced prolonged periods of 
+sitting, without restrictions based on age, sex, or spe -
+cific health conditions (e.g., low back pain sedentary, 
+or healthy sedentary). Prolonged sitting was typically 
+defined as sitting for at least two hours on any working 
+day [ 25]. The concept involves the studies assessing the 
+impact of core exercises on trunk muscle fatigue induced 
+by prolonged sitting through objective methods. Studies 
+from diverse workstation settings, such as community, 
+workplace, residential, and hospital settings, were eli -
+gible for inclusion. The context is international, with no 
+restrictions on location, time frame, or environment.
+Information Sources
+The search was conducted with PubMed, Scopus, Web 
+of Science, MEDLINE, and Cochrane Library, as well as 
+Elsevier, SpringerLink, and Google Scholar. Moreover, 
+manual searches were conducted on the references cited 
+within the reviews to identify any additional pertinent 
+studies.
+Search Strategy
+The search strategy included combinations of the fol -
+lowing terms related to sedentary behavior, core exer -
+cises, evaluation of muscle fatigue and activity, and core 
+muscles:
+1. Sedentary behavior:
+"Sedentary behavior" AND "prolonged sitting" AND 
+"workplace" AND "office worker" AND "employees" AND 
+"workstation";
+2. Core exercises:
+"Core stabilization exercise" AND "abdominal draw -
+ing-in maneuver technique" AND "lumbar stabilization 
+exercises" AND "Pilates" AND "yoga" AND "stability ball 
+exercises" AND "medicine ball exercises" AND "TRX sus-
+pension training" AND "diaphragmatic breathing";
+3. Evaluation of muscle activity:
+"Electromyography OR ’EMG’" AND "muscle activa -
+tion pattern" AND "tensiomyography OR ’TMG " AND 
+"muscle activity" AND "muscle fatigue" AND "neuromus-
+cular activity";
+4. Core muscles:
+“Core muscle” AND "rectus abdominis" AND "erec -
+tor spinae" AND "transverse abdominis" AND "inter -
+nal oblique" AND "external oblique" AND "latissimus 
+dorsi" AND "iliocostalis lumborum pars thoracis" AND 
+"multifidus".
+Table 1 ‘Population–Concept–Context (PCC)’ framework
+PCC element Description
+Population Individuals who were sedentary or experienced prolonged periods of sitting, without restrictions based on age, sex, or specific health 
+conditions (e.g., low back pain sedentary, or healthy sedentary). Prolonged sitting was typically defined as sitting for at least two hours 
+on any working day [25]
+Concept The studies assessed the impact of core exercises on trunk muscle fatigue induced by prolonged sitting through objective methods
+Context Studies from diverse workstation settings, such as community, workplace, residential, and hospital settings, were eligible for inclusion. 
+International, with no restrictions on location, time frame, or environment
+
+===== PAGE 4 =====
+
+Page 4 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+Results
+Selection of Sources of Evidence
+A total of 106 articles were identified during the ini -
+tial database search. Twenty-eight (28) duplicates were 
+removed resulting in 78 sources to be screened. After a 
+preliminary review and evaluation for eligibility, 52 stud -
+ies that did not meet the inclusion criteria were excluded. 
+Among the 26 remaining articles, 8 were included in this 
+scoping review (Fig. 1: PRISMA diagram).
+Data Items and Charting Process
+Data extraction for the chosen articles was carried out 
+using a standard Excel spreadsheet. One reviewer, BA, 
+was in charge of data extraction, while another reviewer, 
+EZ, conducted a thorough review to ensure the accu -
+racy of the extracted data. The data extracted encom -
+passed publication information (such as study location, 
+study design, and publication year), the primary health 
+outcome under investigation, participant demographics 
+(including sample size, age, sex, sport, and spine-related 
+issues), the research methodology employed, and the key 
+findings related to health outcomes.
+Temporal Precursor Variables
+Tables 2, 3, 4 present summaries and frequency of the 
+basic characteristics of the selected articles. The partici -
+pants in all studies were young adults aged 20–40 years.
+Acute Effects of Core Exercise on Muscle Activity
+The acute effects of core exercises on muscle activity 
+were investigated in three studies [16, 19, 20]. All of them 
+utilized an EMG system for evaluating muscle activ -
+ity. Within this subset of studies, two studies measured 
+root mean square [16, 19], and another reported both 
+maximum and average muscle activity [20]. Two studies 
+incorporated the abdominal drawing-in technique (also 
+known in other studies as the hollowing technique) [16, 
+IdentificationScreeningEligibilityIncluded
+Articles 
+excluded (n= 28)
+Articles included in the scoping review
+(n= 8)
+Articles 
+excluded (n= 18)
+Articles 
+excluded (n= 52)
+Articles identified through database searching 
+(n=106)
+Articles after duplicates were removed 
+(n=78)
+Full text screened 
+(n= 78)
+Full text articles assessed for eligibility 
+(n= 26)
+Fig. 1  PRISMA diagram
+
+===== PAGE 5 =====
+
+Page 5 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+Table 2 Frequency of studies regarding sex, health status, and muscles investigated
+# The number of studies conducted in each category
+Studies investigating acute effects of core exercise on muscle activity
+Sex Males Females Both sexes
+# of studies – – 3
+References – – [16, 19, 20]
+Health Status Sedentary Sedentary postures Healthy adults Low back pain
+# of studies 2 1 1 2
+References [16, 19] [20] [20] [16, 19]
+Muscles exam-
+ined
+Erector Spinae Internal Obliques Rectus Abdominus Multifidus External Obliques Transversus Abdominus Iliocostalis Lum-
+borum
+# of studies 1 3 3 3 1 2 2
+References [20] [16, 19, 20] [16, 19, 20] [16, 19, 20] [20] [16, 19] [16, 19]
+Studies investigating effects of core exercise interventions on muscle activity
+Sex Males Females Both sexes
+# of studies 1 2 2
+References [22] [21, 23] [10, 24]
+Health Status Sedentary Sedentary postures Healthy adults Low back pain
+# of studies 4 1 3 2
+References [10, 21–23] [24] [22–24] [10, 21]
+Muscles exam-
+ined
+Erector spinae Internal obliques Rectus abdominus Multifidus External obliques Transversus abdominus Iliocostalis lumbo-
+rum
+# of studies 4 2 2 1 1 1 1
+References [21–24] [10, 24] [10, 21] [10] [24] [24] [10]
+
+===== PAGE 6 =====
+
+Page 6 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+Table 3 Summary of studies investigating acute effects of core exercises on muscle activity
+Participants Intervention Data collection Equipment & variables Measured muscles Muscle activity response to 
+core exercises
+Study: Saiklang et al. [19]
+Sample Size:
+24 participants (12 males 
+and 12 females);
+Age Range:
+20 to 35 years old;
+Inclusion Criteria:
+CLBP patients;
+Low levels of activity limitation;
+Reported sitting for at least 2 h 
+on any working day
+-Experimental Group:
+Core Exercise Types: abdomi-
+nal drawing-in maneuver 
+technique;
+Duration: performed the tech-
+nique for 1 min and repeated 
+it three times (at 12–13, 
+25–26, and 38–39 min) dur -
+ing a 41-min prolonged sitting 
+time
+Control Condition:
+Sitting without intervention
+Timepoint:
+during protocol
+Method:
+the values for average 
+muscle activity were taken 
+from the middle 30-s sample 
+of the 1 min for each condition
+Equipment:
+surface electromyography 
+device;
+Variables:
+RMS, that were expressed 
+as a %sub-MVIC
+Muscle#1:
+rectus abdominis;
+Muscle#2:
+transverse abdominis;
+Muscle#3:
+internal oblique;
+Muscle#4:
+iliocostalis lumborum pars 
+thoracic;
+Muscle#5:
+lumbar multifidus
+Electrode Location:
+electrodes placed parallel 
+to the muscle with a 2.5 cm 
+center-to-center spacing
+Transverse abdominis and inter-
+nal oblique:
+significantly higher muscle activ-
+ity compared to control at all 
+time points, bilateral;
+Iliocostalis lumborum pars 
+thoracic:
+the significant reduction com-
+pared to control during 12th-
+13th minute measurement;
+Internal oblique / rectus 
+abdominis Ratio:
+significant improvement 
+compared to control at all time 
+points, bilateral;
+Lumbar multifidus/iliocostalis 
+lumborum pars thoracic Ratio:
+higher ratios compared to con-
+trol conditions bilaterally
+Study: Holmes et al. [20]
+
+===== PAGE 7 =====
+
+Page 7 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+Table 3 (continued)
+Participants Intervention Data collection Equipment & variables Measured muscles Muscle activity response to 
+core exercises
+Sample Size:
+16 participants (8 males and 8 
+females)
+Age Range:
+university-age
+Inclusion Criteria:
+No history of musculoskel-
+etal injury or lower back pain 
+in the past 12 months, as self-
+identified)
+-Experimental Group:
+Core Exercise Types: forward–
+backward pelvic rotation; 
+side-to-side pelvic rotation; 
+circular hip rotation; alternating 
+leg lifts; isometric side plank (as 
+the reference exercise)
+Experimental condition:
+Core exercises on a stability ball
+Core exercises on a dynamic 
+office chair
+Control Group:
+NA
+Timepoint:
+during protocol
+Method:
+MVE were determined for each 
+muscle using muscle-specific 
+MVC. Each MVC involved a 3-s 
+contraction, performed twice 
+with a minimum 30-s rest 
+between exertions
+Maximal contractions 
+for the trunk extensors (TES, 
+LES, MF) included a maximal 
+back extension (modified Bier-
+ing Sorensen test)
+For trunk flexors (RA, EO, IO) 
+included Maximum forward-
+flexion contractions, right 
+and left lateral bend, and right 
+and left trunk twisting 
+with flexion
+Equipment:
+surface electromyograph 
+device;
+Variables:
+Maximum and average muscle 
+activities
+-Three abdominal muscles 
+bilaterally:
+Muscle#1:
+rectus abdominis;
+Muscle#2:
+external oblique;
+Muscle#3:
+internal oblique
+-three back muscles bilaterally:
+Muscle#1:
+thoracic erector spinae;
+Electrode Location:
+at the level of the T9 spinous 
+process;
+Muscle#2:
+lumbar erector spinae;
+Electrode Location:
+at the level of the L1 spinous 
+process;
+Muscle#3:
+multifidus;
+Electrode Location:
+at the level of the L4/ L5 
+spinous process)
+Pairs of electrodes were 
+placed over each muscle belly, 
+with a center-to-center intere-
+lectrode distance of 2 cm
+Trunk muscle activity 
+on the chair was similar to a sta-
+bility ball for all exercises
+Higher peak activity in the right 
+external oblique with the ball;
+Greater average activity 
+in the left thoracic erector 
+spinae on the chair compared 
+to the ball
+Study: Saiklang et al. [16]
+
+===== PAGE 8 =====
+
+Page 8 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+Table 3 (continued)
+Participants Intervention Data collection Equipment & variables Measured muscles Muscle activity response to 
+core exercises
+Sample Size:
+30 participants (15 males 
+and 15 females)
+Age Range:
+20 to 39 years old
+Inclusion Criteria:
+▪ CLBP lasting more than 3 
+months;
+▪ Mild to moderate levels 
+of pain;
+▪ low levels of activity 
+limitation;
+▪ reporting sitting for at least 2 
+h on any working day
+-Experimental Group:
+Core Exercise Types: 
+dynamic lumbar extension 
+with the abdominal drawing-in 
+maneuver technique
+Participants engaged 
+in the study for three consecu-
+tive days:
+Day 1: familiarization session;
+Day 2: group A completed 
+the control condition, 
+while Group B underwent 
+the intervention condition;
+Washout period: 24 h;
+Day 3: participants switched 
+roles
+-Control Condition:
+sitting without exercise;
+Timepoint:
+during protocol
+Method:
+trunk muscle activity was meas-
+ured simultaneously for 1 min 
+at specific intervals (12–13, 
+25–26, and 38–39 min)
+Trunk muscle fatigue data 
+were collected at intervals 
+(0–10, 15–25, and 28–38 min) 
+from the 41-min sitting period
+Equipment:
+surface electromyography 
+device;
+Variables:
+For muscle fatigue: MDF;
+For muscle activity: RMS
+Muscles:
+1. rectus abdominis;
+2. internal oblique;
+3. transversus abdominis;
+4. iliocostalis lumborum pars 
+thoracic;
+5. lumbar multifidus;
+Electrode Location:
+eight pairs of electrodes, 
+spaced 2.5 cm apart, 
+were bilaterally attached 
+to the above muscles
+For muscle fatigue, the control 
+condition demonstrated:
+significantly reduced MDF 
+in transverse abdominis 
+and internal oblique bilaterally 
+at the second and third time 
+of measurements (15th-25th 
+and 28th-38th min) compared 
+to the first measurement;
+Significantly reduced MDF 
+in transverse abdominis 
+and internal oblique bilaterally 
+at the second and third time 
+of measurements (15th-
+25th and 28th-38th min), 
+and decreased MDF in lumbar 
+multifidus bilaterally at the third 
+time of measurement (28th-38th 
+min) compared to the interven-
+tion condition
+For muscle activity, the interven-
+tion demonstrated signifi-
+cantly higher muscle activity 
+than the control in transverse 
+abdominis and internal oblique 
+muscles bilaterally at each time
+%sub-MVIC, Percentage of Sub-Maximal Voluntary Isometric Contraction; BMI, Body Mass Index; CLBP , Chronic Low Back Pain; MDF, Median Frequency; MVC, Maximal Voluntary Contraction; MVE, Maximal Voluntary 
+Excitations; MVIC, Maximal Voluntary Isometric Contraction; NA, Not Applicable; RMS, Root Mean Square
+Muscle# The numbered sequence of muscles examined in the study
+
+===== PAGE 9 =====
+
+Page 9 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+Table 4 Summary of studies investigating effects of core exercise interventions on muscle activity
+Participants Intervention Data collection Equipment & variables Measured muscles Effect of core intervention on 
+muscle activity
+Study: Kim et al. [21]
+Sample Size:
+29 females;
+Age Range:
+20 to 23 years old;
+Inclusion Criteria:
+Chronic low back pain;
+Been physically inactive 
+for more than six months
+-Experimental Group:
+Core Exercise Types: 3D Mov-
+ing Platform: Stretching 
+and Strengthening Core & 
+Paraspinal Muscles;
+Duration: 3 days/week for 8 
+weeks
+Control Group:
+without any intervention
+Timepoint:
+pre-and post-intervention
+Method:
+Static Muscle Contraction:
+electric stimulation (10–65 mA, 
+1 ms) for isometric contrac-
+tions;
+Dynamic Muscle Contraction:
+Range of Motion (-15° to 95°), 
+4 warm-up reps + 5 test reps 
+at 30°/s for Pt, 4 warm-up 
+reps + 15 test reps at 90°/s 
+for Wr, 60s rest between tests
+-Static Muscle Contraction:
+Equipment:
+tensiomyography device;
+Variables:
+Tc;
+Maximal Dm
+-Dynamic Muscle Contraction:
+Equipment:
+isokinetic device;
+Variables:
+Pt;
+Wr
+-Static Muscle Contraction:
+Muscle#1:
+rectus abdominis;
+Sensor & Electrode Location:
+sensor tip at the navel, 
+electrodes 3 cm apart 
+on both sides;
+Muscle#2:
+erector spinae;
+Sensor & Electrode Location:
+sensor tip 5 cm above the lum-
+bosacral joint, electrodes 3 cm 
+apart on both sides
+-Dynamic Muscle Contraction: 
+property in the abdomen 
+and back
+Static Muscle Contraction:
+increased right Tc of erector 
+spinae in control compared 
+to 3DEG, showing a significant 
+time difference
+Dynamic Muscle Contraction:
+the 3D exercise group signifi-
+cantly increased trunk extensor 
+work per repetition in trunk 
+extensor
+Study: Saiklan et al. [10]
+Sample Size:
+30 participants (15 males 
+and 15 females);
+Age Range:
+20 to 39 years old
+Inclusion Criteria:
+▪ CLBP lasting more than three 
+months;
+▪ mild to moderate levels 
+of pain;
+▪ low levels of activity 
+limitation;
+▪ reporting sitting for at least 2 
+h on any working day
+-Experimental Group:
+Core Exercise Types: core 
+stabilization exercise 
+with the abdominal drawing-in 
+maneuver technique
+Duration:
+5 weeks, abdominal drawing-
+in maneuver, 41 min pre- 
+and post-sitting
+-Control Group:
+NA
+Timepoint:
+Pre- and post-intervention
+Method:
+muscle fatigue was assessed 
+at intervals: 0–10, 15–25, 
+and 28–38 min during 41 min 
+of prolonged sitting
+Equipment:
+surface electromyography 
+device;
+Variables:
+MDF
+Muscles:
+1. rectus abdominis;
+2. transverse abdominis;
+3. internal oblique;
+4. iliocostalis lumborum pars 
+thoracis;
+5. lumbar multifidus
+Electrode Location:
+electrodes were placed parallel 
+to the muscle with a 2.5 cm 
+center-to-center spacing
+For both sides of the transverse 
+abdominis and internal oblique 
+muscles, the MDF value was sig-
+nificantly increased compared 
+with the baseline values
+Study: Yeom et al. [22]
+
+===== PAGE 10 =====
+
+Page 10 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+Table 4 (continued)
+Participants Intervention Data collection Equipment & variables Measured muscles Effect of core intervention on 
+muscle activity
+Sample Size:
+50 sedentary adult male 
+workers
+Age Range:
+20 to 40 years old
+Inclusion Criteria:
+▪ workers with a sedentary 
+lifestyle,
+▪ physical activity levels 
+below the recommendations 
+set by the WHO
+-Experimental Group:
+Core Exercise Types: lumbar 
+stabilization exercises
+Duration:
+7 weeks, 3x/week, intensity 
+increases
+-Control Group:
+NA
+Timepoint:
+pre- and post-intervention
+Method:
+muscle measurements were 
+conducted by applying electri-
+cal stimulation starting at 20 
+mA and increasing it by 20 mA 
+until reaching the maximum 
+contraction displacement 
+of 100 mA. A 10-s rest period 
+was allowed between each 
+stimulus. Measurements were 
+taken from right to left
+Equipment:
+tensiomyography device
+Variables:
+Maximal Dm;
+the time taken to reach 
+10–90% of Dm (contraction 
+time [Tc]);
+the time between the initiation 
+of stimulus and 10% of Dm 
+(delay time [Td]);
+the time of retention 
+between 50% of Dm and 50% 
+of the falling contour (sustain 
+time [Ts]);
+the time taken to reach 
+90–50% of Dm from the falling 
+contour (relaxation time [Tr])
+Muscle:
+erector spinae muscle;
+Sensor & Electrode Location:
+sensor tip at the same level 
+as the iliac crest, electrodes 2.5 
+cm apart on both sides
+Tc and Td showed no significant 
+difference, whereas Dm and Vc90 
+showed a significant increase 
+after the completion of a 7-week 
+core exercise program
+Study: Lee et al. [23]
+Sample Size:
+105 female office workers
+Age Range:
+aged ≥ 20 years., and average 
+of 30.99 ± 10.85 years old
+Inclusion Criteria:
+▪ No regular exercise 
+performed in the past 6 
+months;
+▪ Did not meet the WHO-
+recommended physical activity 
+levels;
+▪ Engaged in at least 7 h 
+of sedentary work per day
+-Experimental Group:
+Core Exercise Types: core stabili-
+zation exercises including Brac-
+ing and Hollowing
+Plank (side and prone), Hip 
+Bridge, Back Extension, Bird 
+dog, Trunk Twist
+Duration:
+60 min/day, 3x/week for 7 
+weeks
+-Control Group:
+NA
+Timepoint:
+pre- and post-intervention
+Method:
+Stimulus started at 20 mA 
+and increased in 20 mA 
+increments until maximum dis-
+placement. A 15 s rest period 
+was observed between meas-
+urements, conducted 
+from right to left
+Equipment:
+tensiomyography device
+Variables:
+Tc;
+Maximum radial Dm;
+Mean velocity until 90% (Vc90)
+Muscle:
+Erector spinae muscle;
+Sensor & Electrode Location:
+Sensor tip 5 cm above the PSIS, 
+electrode pads 5 cm apart
+There was a significant 
+post-exercise increase in Dm 
+and Vc90, but not Tc
+Study: Jackson et al. [24]
+
+===== PAGE 11 =====
+
+Page 11 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+Table 4 (continued)
+Participants Intervention Data collection Equipment & variables Measured muscles Effect of core intervention on 
+muscle activity
+Sample Size:
+12 participants (6 males and 6 
+females)
+Age Range:
+Males: 24.5 ± 3.7 years old; 
+females: 23.2 ± 3.9 years old
+Inclusion Criteria:
+▪ Participants who were regular 
+computer users;
+▪ Participants who were right-
+handed mousers;
+▪ Participants who had 
+not previously used a stability 
+ball
+-Experimental Group:
+Core Exercise Types: sitting 
+on an Evolution Chair, which 
+is a stability ball placed 
+on a four-point base with cast-
+ers
+Duration:
+2 h/day, 9 days
+-Control Group:
+Did not use a stability ball dur-
+ing the time
+Timepoint:
+Pre- and post-intervention
+Method:
+Muscle activation levels were 
+measured in 14-min intervals 
+throughout the 2-h sitting 
+protocol, totaling eight blocks 
+of data collection
+Equipment:
+Surface electromyography 
+device
+Variables:
+Mean muscle activation levels
+Muscle#1:
+External oblique;
+Electrode Location:
+15 cm lateral to the umbilicus;
+Muscle#2:
+Internal oblique;
+Electrode Location:
+below external oblique 
+and superior to the inguinal 
+ligament;
+Muscle#3:
+Thoracic erector spinae;
+Electrode Location:
+5 cm lateral to T9 vertebrae;
+Muscle#4:
+Lumbar erector spinae;
+Electrode Location:
+3 cm lateral to L3 vertebrae
+A reference electrode 
+was placed over the right iliac 
+crest. The electrodes were 
+spaced apart by approximately 
+3 cm
+No significant changes in muscle 
+activation levels were observed 
+between visits for both the 
+accommodation and control 
+groups across eight muscle sites
+There were no sex differences 
+in average EMG amplitudes 
+at any recording site
+Trunk muscle activity did not dif-
+fer between groups
+BMI, Body Mass Index; CLBP , Chronic Low Back Pain; Dm, Maximal Displacement; EMG, Electromyography; MDF, Median Frequency; MVC, Maximal Voluntary Contraction; MVE, Maximal Voluntary Excitations; NA, Not 
+Applicable; Pt, Peak Torque; PSIS, Posterior Superior Iliac Spine; Tc, Contraction Time; WHO, World Health Organization; Wr, Work per Repetition
+Muscle# The numbered sequence of muscles examined in the study
+
+===== PAGE 12 =====
+
+Page 12 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+19], with one of them combining it with dynamic lum -
+bar extension [16]. Additionally, one study evaluated the 
+effectiveness of a dynamic office chair in activating trunk 
+muscles during core exercises compared to a stability ball 
+[20]. Table  3 summarizes the acute effects of core exer -
+cises on muscle activity.
+Effects of Core Exercise Interventions on Muscle Activity
+Five out of nine studies examined the impact of core exer-
+cise interventions on muscle activity [10, 21–24]. Among 
+these, three studies utilized tensiomyography [21–23] 
+and reported parameters such as contraction time (Tc) 
+[21–23] and maximal displacement (Dm) [21–23]. Two 
+studies employed EMG [10, 24], one measuring median 
+frequency [10], and the other reported the mean muscle 
+activation level [24]. All five studies focused on core sta -
+bility exercises [10, 21–24], with only one also assessing 
+the impact of the abdominal drawing-in technique on 
+muscle activity [10]. Table 4 offers an overview of studies 
+investigating the effects of core exercise interventions on 
+muscle activity.
+Discussion
+Back pain is a common problem among sedentary 
+employees who spend long periods sitting at work [44]. 
+This prolonged sitting causes fatigue in the trunk mus -
+cles [10]. Under fatigue, muscular support to the spine 
+decreases and increases stress on its passive structures 
+[10]. This circumstance has become more prevalent due 
+to the COVID-19 pandemic [8, 9]. To overcome this con-
+cern, one can employ recovery modalities in the work -
+place. Given the potential of core exercises to facilitate 
+recovery from trunk muscle fatigue, this study sum -
+marized the evidence on the effects of core exercises in 
+alleviating trunk muscular fatigue induced by prolonged 
+sitting, focusing on objective outcomes such as electro -
+myography and tensiomyography.
+This scoping review examined eight studies: three 
+focused on the muscle activity response to the core exer -
+cises [16, 19, 20], and five on the effects of core exercise 
+interventions [10, 21–24].
+During core exercises, fatigued trunk muscles exhibited 
+an increase in EMG root mean square amplitude values. 
+More specifically, two studies revealed that the abdomi -
+nal drawing-in maneuver [16, 19] and a combination 
+of the abdominal drawing-in maneuver and supported 
+dynamic lumbar extension [16] enhanced the activation 
+of the transversus abdominis and internal oblique mus -
+cles. The abdominal drawing-in technique also resulted 
+in higher activation ratios of the transversus abdominis 
+and internal oblique muscles compared to the rectus 
+abdominis, indicating effective engagement of these 
+crucial muscles for spinal support [19]. This maneuver 
+reduced the activation of the lumbar multifidus muscle, 
+particularly during its initial application [16]. This reduc-
+tion may lead to decreased spinal compression forces, 
+which is beneficial for individuals with chronic low back 
+pain. Furthermore, in the intervention condition of the 
+Saiklang et  al. [16] study, no fatigue of the transversus 
+abdominis and internal oblique muscles was observed 
+throughout the 41-min testing period, while in the con -
+trol condition, muscle fatigue occurred earlier, between 
+the 15th and 25th minute of the sitting. This combination 
+can improve muscle activity, and reduce muscle fatigue 
+during prolonged sitting in people with chronic low back 
+pain. However, these studies did not investigate the sex-
+specific tailoring of exercises to optimize outcomes. In 
+a study conducted by Salim et al. [17], McKenzie’s exer -
+cises, including the Seated Lumbar Exercise and Standing 
+Lumbar Extension Exercise, were found to reveal sex-
+specific differences in muscle activity. This was evident 
+from EMG analysis of the erector spinae, latissimus dorsi, 
+and internal and external oblique muscles. Following the 
+Seated Lumbar Exercise, males showed reduced RMS 
+values, whereas females exhibited increased values. After 
+the Standing Lumbar Extension Exercise, males experi -
+enced a decline in RMS values across all muscles except 
+the internal oblique, while females exhibited an increase 
+in all muscles except the external oblique. This suggests 
+that exercise interventions may need sex-specific tailor -
+ing to effectively prevent low back discomfort.
+Furthermore, the choice of equipment, such as a sta -
+bility ball or dynamic office chair, can influence muscle 
+activation during core exercises. Across various core 
+exercises, such as forward–backward pelvic rotation, 
+side-to-side pelvic rotation, circular hip rotation, alter -
+nating leg lifts, and isometric side plank, muscle activity 
+was comparable whether performed seated on a dynamic 
+office chair or a stability ball [20]. The forward–backward 
+pelvic rotation and circular hip rotation exercises gener -
+ally showed the highest muscle activity levels. Notably, 
+the stability ball induced greater peak activity in the right 
+external oblique muscle, while the dynamic chair led to 
+higher average activity in the left thoracic erector spinae. 
+However, for most other muscles, activation levels were 
+similar between the two conditions. This suggests that 
+using a dynamic office chair in the workplace can help 
+reduce the adverse effects of prolonged sitting, such as 
+lower back pain.
+In summary, diverse core exercises reveal specific pat -
+terns of muscle activation. The abdominal drawing-in 
+maneuver enhances the activation of key trunk muscles 
+such as the transversus abdominis, internal oblique, and 
+erector spinae. These exercises may offer effective strate -
+gies for reducing muscle fatigue and preventing low back 
+discomfort.
+
+===== PAGE 13 =====
+
+Page 13 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+While the studies provide valuable insights into the 
+acute effects of core exercises on muscle activity, future 
+research should address several key areas. Firstly, there 
+is a need to involve older office workers, as the current 
+studies focused on young participants. Additionally, 
+the current studies are mostly limited to those with low 
+back pain, and it is crucial to include a group of healthy 
+individuals to understand how exercises impact muscle 
+response in those without a history of back pain. More -
+over, the studies were conducted in laboratory settings, 
+which may not fully reflect real workplace environments. 
+Therefore, future research should explore the efficacy 
+of interventions in actual settings. Furthermore, assess -
+ing the long-term sustainability of intervention benefits 
+beyond their acute effects is essential for understanding 
+their overall effectiveness (Table 5).
+In the intervention studies, four reported signifi -
+cant improvements in outcome measures with targeted 
+exercises [10, 21–23]. Specifically, an 8-week 3D mov -
+ing platform program, incorporating stretching and 
+strengthening exercises for core and paraspinal muscles, 
+revealed increased activation of the paraspinal muscles, 
+as evidenced by tensiomyography analysis [21]. Addi -
+tionally, the intervention significantly improved static 
+muscle contractions of the erector spinae and balanced 
+the contraction times between the left and right sides 
+of this muscle. A 5-week core stabilization exercise pro -
+gram targeted deep trunk muscles with the abdominal 
+drawing-in maneuver technique during prolonged sitting 
+[10]. Significant increases in MDF values were observed 
+bilaterally for the transversus abdominis and internal 
+oblique muscles after the 5-week intervention compared 
+to baseline levels. This may be linked to the earlier onset 
+of fatigue in these muscles during prolonged sitting. Both 
+a 7-week lumbar stabilization exercise program [22] and 
+a 7-week core stabilization exercise program [23] dem -
+onstrated significant increases in muscle stiffness (Dm) 
+and contraction velocity of the erector spinae muscle. 
+The increase in velocity of contraction at 90% (Vc90) 
+suggested improved neuromuscular control, which is 
+crucial for spine stability. The increase in Dm indicated 
+enhanced muscle stiffness, potentially contributing to 
+better spinal support. These findings were particularly 
+relevant for sedentary workers who spend long hours sit -
+ting. However, a 9-day accommodation protocol resulted 
+in no significant changes in targeted muscle activation 
+levels, including the erector spinae, and internal, and 
+external oblique muscles EMG [24]. In this protocol, par-
+ticipants engaged in two-hour sessions sitting on a stabil-
+ity ball with a four-point plastic base on casters.
+Despite the valuable insights provided by these studies, 
+there remains a notable gap in the literature. Research on 
+long-term core exercise effects primarily targets the erec-
+tor spinae muscle. However, it neglects the transversus 
+abdominis and multifidus muscles, which are crucial for 
+spinal stability during prolonged sitting [45]. While core 
+exercises showed significant improvements in tensio -
+myography outcomes for the erector spinae, their effect 
+on EMG remains uncertain, emphasizing the need for 
+future evaluations. Similarly, studies examining the rec -
+tus abdominis using EMG and tensiomyography did not 
+yield significant changes, indicating a need for further 
+investigation. Conflicting outcomes have been observed 
+regarding the effects of core exercise interventions on 
+muscle parameters such as Dm, Vc90, and Tc for the 
+erector spinae, highlighting the necessity for additional 
+research. Two studies, one on core stabilization exercises 
+and the other on lumbar stabilization exercises, dem -
+onstrated a significant increase in Dm and Vc90 for the 
+erector spinae after core exercise interventions, but not 
+in Tc. Conversely, a study involving a 3D Moving Plat -
+form with stretching and strengthening core and par -
+aspinal muscles showed improvement in Tc but not in 
+Dm and Vc90. This conflicting outcome emphasizes the 
+necessity for further investigation. Additionally, there 
+is insufficient attention given to assessing EMG mean 
+Table 5 Identified knowledge gaps in the muscle activity response to core exercises literature and recommendations for future 
+studies
+Identified knowledge gaps Implications for future research
+Inclusion of young sedentary individuals; Future studies should involve older office workers to understand the effects of core exercises 
+on muscle activity in this demographic
+Predominant focus on individuals with low back pain; It is crucial to include a group of healthy individuals in future research to examine how exercises 
+impact muscle response in those without a history of back pain
+Conducting studies in laboratory settings; Future research should explore the efficacy of core exercise interventions in real workplace 
+environments to ensure their practical applicability and relevance
+Lack of assessment of long-term sustainability; Evaluating the long-term sustainability of intervention benefits beyond acute effects is neces-
+sary to determine the overall effectiveness and durability of core exercises
+Sex-specific tailoring of exercise interventions; Future research should investigate the need for sex-specific tailoring of exercise interventions 
+to effectively prevent low back discomfort and optimize outcomes
+
+===== PAGE 14 =====
+
+Page 14 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+frequency and root mean square values, which are essen -
+tial for evaluating muscle fatigue and recovery. More 
+emphasis should be placed on evaluating these values of 
+electromyography signals to enhance the assessment of 
+muscle fatigue and recovery (Table 6).
+Conclusion
+Core exercises are effective in alleviating muscular 
+fatigue caused by prolonged sitting. This can be observed 
+from significant changes in EMG and tensiomyography 
+parameters during exercise and after the training proto -
+col. Future research should include older office workers, 
+and real workplace settings to understand the efficacy of 
+exercises in practical environments. While current stud -
+ies predominantly focus on the recovery of the erector 
+spinae muscles, overlooking other trunk muscles like the 
+transversus abdominis and multifidus indicates a criti -
+cal gap in research. Despite observed improvements in 
+tensiomyography outcomes of erector spinae muscles, 
+uncertainties persist regarding EMG post-core exercise 
+interventions. The neglect of the transversus abdominis 
+and multifidus muscles in long-term core exercise 
+research further underscores the need for more inclusive 
+investigation. Furthermore, conflicting findings regarding 
+muscle parameters highlight the necessity for additional 
+studies. Addressing these gaps would provide a clearer 
+understanding of effective core exercise intervention 
+for mitigating muscular fatigue in sedentary individuals 
+engaged in prolonged sitting.
+Abbreviations
+%sub-MVIC  Percentage of Sub-Maximal Voluntary Isometric Contraction
+BMI  Body Mass Index
+CLBP  Chronic Low Back Pain
+Dm  Maximal Displacement
+EMG  Electromyography
+MDF  Median Frequency
+MVC  Maximal Voluntary Contraction
+MVE  Maximal Voluntary Excitations
+MVIC  Maximal Voluntary Isometric Contraction
+NA  Not Applicable
+Pt  Peak Torque
+PSIS  Posterior Superior Iliac Spine
+RA  Rectus Abdominis
+RMS  Root Mean Square
+Tc  Contraction Time
+WHO  World Health Organization
+Wr  Work per Repetition
+Acknowledgements
+Not applicable.
+Author Contributions
+BA handled data extraction and contributed to drafting and editing. EZ and 
+DB reviewed data and supervised. All authors contributed to and approved 
+the final version.
+Funding
+This work was funded by the UK Grant of Comenius University in Bratislava 
+(Project No. UK/3155/2024, awarded to Banafsheh Amiri) and supported by 
+the Scientific Grant Agency of the Ministry of Education, Science, Research 
+and Sport of the Slovak Republic and the Slovak Academy of Sciences (No. 
+1/0725/23) and the Cross-border Co-operation Programme INTERREG V-A 
+SK-CZ/2020/12 (No. NFP304010AYX7) co-financed by the European Regional 
+Development Fund.
+Availability of Data and Material
+Not applicable.
+Declarations
+Ethics Approval and Consent to Participate
+No ethical approval was required for this review.
+Consent for Publication
+Not applicable.
+Competing Interests
+The authors report no competing interests.
+Table 6 Identified knowledge gaps in the literature related to the effect of core exercise interventions on muscle activity and 
+recommendations for future studies
+Dm, Maximal Displacement; Vc90, Velocity of Contraction at 90%; Tc, Contraction Time
+Identified knowledge gaps Implications for future research
+More focused on the erector spinae, neglecting transversus abdominis 
+and multifidus;
+Future studies should investigate the effects of core exercise interventions 
+on the transversus abdominis and multifidus muscles, which are crucial 
+for spinal stability during prolonged sitting;
+Core exercise interventions show significant improvements in tensiomyo-
+graphy outcomes for the erector spinae, uncertain for electromyography;
+Further research is needed to clarify the impact of core exercise interven-
+tions on electromyography values, providing a comprehensive under-
+standing of their effects on muscle activity
+No significant changes in rectus abdominis with electromyography 
+and tensiomyography
+There is a need for additional investigation into the effects of core exercise 
+interventions on the rectus abdominis muscle, utilizing both electromyo-
+graphy and tensiomyography methods to obtain a more comprehensive 
+understanding of muscle activity changes
+Conflicting outcomes are observed regarding the effects of core exercise 
+interventions on muscle parameters such as Dm, Vc90, and Tc for the erec-
+tor spinae
+Future studies should aim to reconcile conflicting outcomes and provide 
+clarity on the effects of core exercise interventions on muscle parameters, 
+such as Dm, Vc90, and Tc, for the erector spinae muscle
+Insufficient attention is given to assessing the mean frequency and root 
+mean square values of electromyography signals
+There is a need for future research to incorporate assessments of mean fre-
+quency and root mean square values of electromyography signals, which 
+are essential for evaluating muscle fatigue and recovery
+
+===== PAGE 15 =====
+
+Page 15 of 16
+Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 
+Author details
+1 Department of Biological and Medical Sciences, Faculty of Physical Education 
+and Sport, Comenius University in Bratislava, Bratislava, Slovakia. 2 School 
+of Human Kinetics and Recreation, Memorial University of Newfoundland, St. 
+John’s, NL, Canada. 
+Received: 30 April 2024   Accepted: 12 January 2025
+References
+ 1. Teychenne M, Ball K, Salmon J. Sedentary behavior and depression 
+among adults: a review. Int J Behav Med. 2010. https:// doi. org/ 10. 1007/ 
+s12529- 010- 9075-z.
+ 2. Nikitara K, Odani S, Demenagas N, Rachiotis G, Symvoulakis E, Vardavas C. 
+Prevalence and correlates of physical inactivity in adults across 28 Euro-
+pean countries. Eur J Pub Health. 2021. https:// doi. org/ 10. 1093/ eurpub/ 
+ckab0 67.
+ 3. Kett AR, Sichting F. Sedentary behaviour at work increases muscle stiff-
+ness of the back: Why roller massage has potential as an active break 
+intervention. Appl Ergon. 2020. https:// doi. org/ 10. 1016/j. apergo. 2019. 
+102947.
+ 4. Park JH, Moon JH, Kim HJ, Kong MH, Oh YH. Sedentary lifestyle: overview 
+of updated evidence of potential health risks. Korean J Family Med. 2020. 
+https:// doi. org/ 10. 4082/ kjfm. 20. 0165.
+ 5. Ng SW, Popkin BM. Time use and physical activity: a shift away from 
+movement across the globe. Obes Rev. 2012. https:// doi. org/ 10. 1111/j. 
+1467- 789X. 2011. 00982.x.
+ 6. Mengistab D. Sedentariness, productivity, perception and long term 
+health effects of sit-stand workstation at work: a literature review. 2019. 
+https:// digit alcom mons. njit. edu/ theses/ 1657
+ 7. Suresh A, Kashyap D, Behera TP , Wilson E. Comparison of isometric endur-
+ance of abdominal and back extensor muscles in manual and sedentary 
+males in the age group of 20–40 years. J Aging Sci. 2021;9(254):1–7.
+ 8. Šagát P , Bartik P , Prieto González P , Tohănean DI, Knjaz D. Impact of 
+COVID-19quarantine on low back pain intensity, prevalence, and associ-
+ated risk factors among adult citizens residing in riyadh (Saudi Arabia): a 
+cross-sectional study. Int J Environ Res Public Health. 2020. https:// doi. 
+org/ 10. 3390/ ijerp h1719 7302.
+ 9. Chandrasekaran B, Ganesan TB. Sedentarism and chronic disease risk in 
+COVID 19 lockdown–a scoping review. Scott Med J. 2021. https:// doi. org/ 
+10. 1177/ 00369 33020 946336.
+ 10. Saiklang P , Puntumetakul R, Chatprem T. The effect of core stabilization 
+exercise with the abdominal drawing-in maneuver technique on stature 
+change during prolonged sitting in sedentary workers with chronic low 
+back pain. Int J Environ Res Public Health. 2022. https:// doi. org/ 10. 3390/ 
+ijerp h1903 1904.
+ 11. Frizziero A, Pellizzon G, Vittadini F, Bigliardi D, Costantino C. Efficacy of 
+core stability in non-specific chronic low back pain. J Funct Morphol 
+Kinesiol. 2021. https:// doi. org/ 10. 3390/ jfmk6 020037.
+ 12. Janwantanakul P , Sihawong R, Sitthipornvorakul E, Paksaichol A. A screen-
+ing tool for non-specific low back pain with disability in office workers: 
+a 1-year prospective cohort study. BMC Musculoskelet Disord. 2015. 
+https:// doi. org/ 10. 1186/ s12891- 015- 0768-y.
+ 13. Papalia GF, Petrucci G, Russo F, Ambrosio L, Vadalà G, Iavicoli S, Papalia R, 
+Denaro V. COVID-19 pandemic increases the impact of low back pain: a 
+systematic review and metanalysis. Int J Environ Res Public Health. 2022. 
+https:// doi. org/ 10. 3390/ ijerp h1908 4599.
+ 14. Jabłońska M, Mączyński J, Fryzowicz A, Ogurkowska MB. Electro-
+myographic assessment of muscle fatigue after the Biering-Sorensen 
+test in subjects with low back pain who underwent the McKenzie 
+treatment. Acta Bioeng Biomech. 2021. https:// doi. org/ 10. 37190/ 
+ABB- 01823- 2021- 03.
+ 15. Hou X, Liu J, Weng K, Griffin L, Rice LA, Jan YK. Effects of various physical 
+interventions on reducing neuromuscular fatigue assessed by electromy-
+ography: a systematic review and meta-analysis. Front Bioeng Biotechnol. 
+2021. https:// doi. org/ 10. 3389/ fbioe. 2021. 659138.
+ 16. Saiklang P , Puntumetakul R, Selfe J, Yeowell G. An evaluation of an innova-
+tive exercise to relieve chronic low back pain in sedentary workers. Hum 
+Factors. 2022. https:// doi. org/ 10. 1177/ 00187 20820 966082.
+ 17. Salim MS, Nawi NF, Salleh AF, Omar N, Awang SA. Evaluation of muscle 
+activities on different type of exercises during prolonged sitting. Emerg 
+Adv Integr Technol. 2021. https:// doi. org/ 10. 30880/ emait. 2021. 02. 02. 002.
+ 18. Hamberg-van Reenen HH, Visser B, van der Beek AJ, Blatter BM, van Dieën 
+JH, van Mechelen W. The effect of a resistance-training program on 
+muscle strength, physical workload, muscle fatigue and musculoskeletal 
+discomfort: an experiment. Appl Ergon. 2009. https:// doi. org/ 10. 1016/j. 
+apergo. 2008. 11. 010.
+ 19. Saiklang P , Puntumetakul R, Swangnetr Neubert M, Boucaut R. The 
+immediate effect of the abdominal drawing-in maneuver technique on 
+stature change in seated sedentary workers with chronic low back pain. 
+Ergonomics. 2021. https:// doi. org/ 10. 1080/ 00140 139. 2020. 18103 26.
+ 20. Holmes MW, de Carvalho DE, Karakolis T, Callaghan JP . Evaluating abdom-
+inal and lower-back muscle activity while performing core exercises on 
+a stability ball and a dynamic office chair. Hum Factors. 2015. https:// doi. 
+org/ 10. 1177/ 00187 20815 593184.
+ 21. Kim S, Jee Y. Effects of 3D moving platform exercise on physiological 
+parameters and pain in patients with chronic low back pain. Medicina. 
+2020. https:// doi. org/ 10. 3390/ medic ina56 070351.
+ 22. Yeom S, Jeong H, Lee H, Jeon K. Effects of lumbar stabilization exercises 
+on isokinetic strength and muscle tension in sedentary men. Bioengi-
+neering. 2023. https:// doi. org/ 10. 3390/ bioen ginee ring1 00303 42.
+ 23. Lee H, Kim C, An S, Jeon K. Effects of core stabilization exercise programs 
+on changes in erector spinae contractile properties and isokinetic muscle 
+function of adult females with a sedentary lifestyle. Appl Sci. 2022. 
+https:// doi. org/ 10. 3390/ app12 052501.
+ 24. Jackson JA, Banerjee-Guénette P , Gregory DE, Callaghan JP . Should we 
+be more on the ball? The efficacy of accommodation training on lumbar 
+spine posture, muscle activity, and perceived discomfort during stability 
+ball sitting. Hum Factors. 2013. https:// doi. org/ 10. 1177/ 00187 20813 
+482326.
+ 25. Waongenngarm P , Rajaratnam BS, Janwantanakul P . Internal oblique 
+and transversus abdominis muscle fatigue induced by slumped sitting 
+posture after 1 hour of sitting in office workers. Saf Health Work. 2016. 
+https:// doi. org/ 10. 1016/j. shaw. 2015. 08. 001.
+ 26. Ding Y, Cao Y, Duffy VG, Zhang X. It is time to have rest: how do break 
+types affect muscular activity and perceived discomfort during pro-
+longed sitting work. Saf Health Work. 2020. https:// doi. org/ 10. 1016/j. 
+shaw. 2020. 03. 008.
+ 27. Jia B. The application of EMG-based methods in evaluating the impact of 
+prolonged sitting on people’s health. Sedentary Behav A Contemp View 
+IntechOpen. 2020. https:// doi. org/ 10. 5772/ intec hopen. 95254.
+ 28. Jung KS, Jung JH, In TS, Cho HY. Effects of prolonged sitting with slumped 
+posture on trunk muscular fatigue in adolescents with and without 
+chronic lower back pain. Medicina. 2020. https:// doi. org/ 10. 3390/ medic 
+ina57 010003.
+ 29. Stulen FB, De Luca CJ. The relation between the myoelectric signal 
+and physiological properties of constant-force isometric contractions. 
+Electroencephalogr Clin Neurophysiol. 1978. https:// doi. org/ 10. 1016/ 
+0013- 4694(78) 90137-2.
+ 30. De Luca CJ. Myoelectrical manifestations of localized muscular fatigue in 
+humans. Crit Rev Biomed Eng. 1984;11(4):251–79.
+ 31. Kahl L, Hofmann UG. Comparison of algorithms to quantify muscle 
+fatigue in upper limb muscles based on sEMG signals. Med Eng Phys. 
+2016. https:// doi. org/ 10. 1016/j. meden gphy. 2016. 09. 009.
+ 32. Hou X, Wang X, Griffin L, Liao F, Peters J, Jan YK. Immediate and delayed 
+effects of cupping therapy on reducing neuromuscular fatigue. Front 
+Bioeng Biotechnol. 2021;1(9): 678153. https:// doi. org/ 10. 3389/ fbioe. 2021. 
+678153.
+ 33. Mesin L, Cescon C, Gazzoni M, Merletti R, Rainoldi A. A bi-dimensional 
+index for the selective assessment of myoelectric manifestations of 
+peripheral and central muscle fatigue. J Electromyogr Kinesiol. 2009. 
+https:// doi. org/ 10. 1016/j. jelek in. 2008. 08. 003.
+ 34. Chaffin DB. Localized muscle fatigue—definition and measurement. J 
+Occup Environ Med. 1973;15(4):346–54.
+ 35. Dupuy O, Douzi W, Theurot D, Bosquet L, Dugué B. An evidence-based 
+approach for choosing post-exercise recovery techniques to reduce 
+markers of muscle damage, soreness, fatigue, and inflammation: a sys-
+tematic review with meta-analysis. Front Physiol. 2018. https:// doi. org/ 10. 
+3389/ fphys. 2018. 00403.
+
+===== PAGE 16 =====
+
+Page 16 of 16Amiri et al. Sports Medicine - Open           (2025) 11:18 
+ 36. Guo J, Li L, Gong Y, Zhu R, Xu J, Zou J, Chen X. Massage alleviates delayed 
+onset muscle soreness after strenuous exercise: a systematic review and 
+meta-analysis. Front Physiol. 2017. https:// doi. org/ 10. 3389/ fphys. 2017. 
+00747.
+ 37. Andersson HM, Raastad T, Nilsson J, Paulsen G, Garthe IN, Kadi F. Neu-
+romuscular fatigue and recovery in elite female soccer: effects of active 
+recovery. Med Sci Sports Exerc. 2008. https:// doi. org/ 10. 1249/ mss. 0b013 
+e3181 5b8497.
+ 38. Kargarfard M, Lam ET, Shariat A, Shaw I, Shaw BS, Tamrin SB. Efficacy of 
+massage on muscle soreness, perceived recovery, physiological restora-
+tion and physical performance in male bodybuilders. J Sports Sci. 2016. 
+https:// doi. org/ 10. 1080/ 02640 414. 2015. 10812 64.
+ 39. Poppendieck W, Faude O, Wegmann M, Meyer T. Cooling and perfor-
+mance recovery of trained athletes: a meta-analytical review. Int J Sports 
+Physiol Perform. 2013;8(3):227–42.
+ 40. Bieuzen F, Borne R, Toussaint JF, Hausswirth C. Positive effect of specific 
+low-frequency electrical stimulation during short-term recovery on sub-
+sequent high-intensity exercise. Appl Physiol Nutrit Metab. 2014. https:// 
+doi. org/ 10. 1139/ apnm- 2013- 0185.
+ 41. Herbert RD, Gabriel M. Effects of stretching before and after exercising on 
+muscle soreness and risk of injury: systematic review. BMJ. 2002. https:// 
+doi. org/ 10. 1136/ bmj. 325. 7362. 468.
+ 42. Tricco AC, Lillie E, Zarin W, O’Brien KK, Colquhoun H, Levac D, Moher D, 
+Peters MD, Horsley T, Weeks L, Hempel S. PRISMA extension for scoping 
+reviews (PRISMA-ScR): checklist and explanation. Ann Intern Med. 2018. 
+https:// doi. org/ 10. 7326/ M18- 0850.
+ 43. Peters MD, Godfrey CM, Khalil H, McInerney P , Parker D, Soares CB. Guid-
+ance for conducting systematic scoping reviews. JBI Evid Implement. 
+2015. https:// doi. org/ 10. 1097/ XEB. 00000 00000 000050.
+ 44. Chia M, Chen B, Suppiah H. Office sitting made less sedentary–a future-
+forward approach to reducing physical inactivity at work. Monten J 
+Sports Sci Med. 2015;4(1):5–10.
+ 45. Arokoski JP , Valta T, Airaksinen O, Kankaanpää M. Back and abdominal 
+muscle function during stabilization exercises. Arch Phys Med Rehabil. 
+2001. https:// doi. org/ 10. 1053/ apmr. 2001. 23819.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

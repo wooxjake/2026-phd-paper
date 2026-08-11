@@ -1,0 +1,888 @@
+===== PAGE 1 =====
+
+ORIGINAL RESEARCH
+published: 03 November 2021
+doi: 10.3389/fspor.2021.760533
+Frontiers in Sports and Active Living | www.frontiersin.or g 1 November 2021 | Volume 3 | Article 760533
+Edited by:
+Julia H. Goedecke,
+South African Medical Research
+Council, South Africa
+Reviewed by:
+Warren Dixon,
+University of Florida, United States
+Angus Murray Hunter,
+University of Stirling, United Kingdom
+*Correspondence:
+Freddy Sichting
+freddy.sichting@hsw.tu-chemnitz.de
+Specialty section:
+This article was submitted to
+Physical Activity in the Prevention and
+Management of Disease,
+a section of the journal
+Frontiers in Sports and Active Living
+Received: 18 August 2021
+Accepted: 11 October 2021
+Published: 03 November 2021
+Citation:
+Kett AR, Milani TL and Sichting F
+(2021) Sitting for Too Long, Moving
+Too Little: Regular Muscle
+Contractions Can Reduce Muscle
+Stiffness During Prolonged Periods of
+Chair-Sitting.
+Front. Sports Act. Living 3:760533.
+doi: 10.3389/fspor.2021.760533
+Sitting for T oo Long, Moving T oo
+Little: Regular Muscle Contractions
+Can Reduce Muscle Stiffness During
+Prolonged Periods of Chair-Sitting
+Alexander R. Kett 1,2, Thomas L. Milani 1 and Freddy Sichting 1*
+1 Department of Human Locomotion, Institute of Human Movement Science and Health, Chemnitz University of Technology,
+Chemnitz, Germany, 2 Research & Development, Mercedes-Benz AG, Böblingen, Germ any
+In modern Western societies, sedentary behavior has become a growing health concern.
+There is increasing evidence that prolonged sitting period s can be associated with
+musculoskeletal disorders. While it is generally recognized that back muscle activity is low
+during chair-sitting, little is known about the consequenc es of minor to no muscle activity
+on muscle stiffness. Muscle stiffness may play an important role in musculoskeletal
+health. This study investigated the effects of regular musc le contractions on muscle
+stiffness in a controlled experiment in which participants sat for 4.5 h. Neuromuscular
+electrical stimulation in the lumbar region of the back was applied to trigger regular muscle
+contractions. Using stiffness measurements and continuou s motion capturing, we found
+that prolonged sitting periods without regular muscle cont ractions signiﬁcantly increased
+back muscle stiffness. Moreover, we were able to show that re gular muscle contractions
+can prevent those effects. Our results highlight the import ance of consistent muscle
+activity throughout the day and may help explain why prolong ed periods of chair-sitting
+increase the susceptibility to common pathological condit ions such as low back pain.
+Keywords: prolonged sitting, muscle stiffness, muscle contra ction, sedentary behavior, back muscles, electrical
+stimulation, biomechanics
+INTRODUCTION
+Common sedentary behaviors include oﬃce work, driving auto mobiles, using public
+transportation, and screen time. In modern Western societie s, those behaviors can sum up
+to a sitting time of 8.4–9.3 h per day (
+Healy et al., 2011; Clemes et al., 2014; van der Velde et al.,
+2017). Recent research related to the coronavirus disease 2019 (C OVID-19) indicate that sedentary
+behavior time has further increased since the beginning of t he pandemic, particularly in people
+who are now working from home ( Fukushima et al., 2021; Wilke et al., 2021 ). Those prolonged
+periods of sitting are considered as an independent risk facto r for health, including an increased
+risk of developing metabolic and chronic cardiovascular dise ases ( Hamilton et al., 2007; Healy
+et al., 2011 ) and increased mortality ( Chau et al., 2013; Stamatakis et al., 2019 ). Further research
+associates long sitting periods with musculoskeletal disord ers, such as increased muscle stiﬀness
+(Kett and Sichting, 2020 ), fatigue (Callaghan and McGill, 2001; van Dieën et al., 2001 ), discomfort
+(Sammonds et al., 2017; Cardoso et al., 2018; Waongenngarm et al., 2020), and, at worst, low back
+pain ( Porter and Gyi, 2002; Gupta et al., 2015; Lunde et al., 2017 ). Notably, low back pain is a
+
+===== PAGE 2 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+growing public health concern in modern Western societies and a
+tremendous socioeconomic burden (Lis et al., 2007; Manchikanti
+et al., 2009; Hartvigsen et al., 2018 ).
+A recent study by Raichlen et al. (2020) on sitting behavior
+among the Hadza, a hunter-gatherer population, sheds new
+light on the association between sedentary behavior and
+musculoskeletal disorders (
+Raichlen et al., 2020 ). Interestingly,
+the hunter-gatherers show similar periods of inactivity (9. 9 h
+per day) compared to industrialized populations ( Raichlen et al.,
+2020). However, associated musculoskeletal disorders are scar ce
+among non-industrialized populations ( Volinn, 1997; Lopez
+et al., 2006). The lower level of musculoskeletal disorders among
+non-industrialized populations might be related to a greater
+level of physical activity. Another possible explanation for th e
+discrepancy in musculoskeletal disorders might be the style of
+rest during periods of inactivity. While industrialized populations
+often sit on chairs, sedentary postures among hunter-gather ers
+include kneeling, squatting, and ground-sitting (
+Pontzer et al.,
+2010; Raichlen et al., 2020 ). Raichlen et al. (2020) showed that
+those postures, particularly squatting, require higher musc le
+activity levels than chair-sitting ( Raichlen et al., 2020 ). Based
+on these ﬁndings, it seems reasonable to question the genera l
+association between sedentary behavior and musculoskeleta l
+disorders. One can hypothesize that our bodies are not well-b uilt
+for spending much of our day sitting in chairs with minor to no
+muscle activity (
+O’Keefe et al., 2010; Hamilton, 2018; Raichlen
+et al., 2020).
+Previous research has shown that prolonged periods of chair-
+sitting result in increased passive back muscle stiﬀness ( Kett
+and Sichting, 2020 ). It has been suggested that the low level of
+muscle activity during chair-sitting, and the static natur e of the
+sitting postures causes a restriction of the muscle metaboli sm,
+with adverse eﬀects on blood ﬂow, muscle tissue oxygenation,
+and regulation of inﬂammation (
+McGill et al., 2000; V alachi and
+V alachi, 2003; Visser and van Dieën, 2006; Kell and Bhambhan i,
+2008). Further, the reduced muscle metabolism appears to trigger
+a reactive imbalance in the muscle cell ( McGill et al., 2000;
+Kell and Bhambhani, 2008 ), promoting spontaneous formations
+of weak but long-lasting cross-bridges between myosin head s
+and actin ﬁlaments ( Hill, 1968; Campbell and Lakie, 1998 ).
+Subsequently, passive muscle stiﬀness increases ( Simons and
+Mense, 1998; Proske and Morgan, 1999 ). If this theoretical
+framework proves to be true, intervention strategies that el icit
+dynamic muscle contractions during chair-sitting should counter
+an increase in passive muscle stiﬀness ( Hsueh et al., 1997;
+Campbell and Lakie, 1998 ) by improving muscle metabolism
+(Saltin et al., 1998; Crenshaw et al., 2006 ).
+This study aims to provide experimental evidence for the
+above-mentioned theoretical framework. Using surface ele ctrical
+stimulation of lower back muscles during prolonged periods
+of chair-sitting allows us to stimulate back muscles at a
+sensory and motor threshold level (
+Hultman et al., 1983;
+Maﬃuletti et al., 2011 ). When using low-amplitude currents,
+electrical stimulation is perceived through somatic sensor y
+receptors mainly located in cutaneous and subcutaneous tiss ues
+(termed sensory threshold). Thus, electrical stimulation at the
+sensory threshold does not trigger muscle contractions dir ectly
+(Purves et al., 2004; Maﬃuletti et al., 2008 ). In contrast, when
+applying current amplitudes above the sensory threshold (termed
+motor threshold), an increasing number of eﬀerent terminal axon
+branches are excited and result in contractile protein inter action
+(
+Hultman et al., 1983; Maﬃuletti et al., 2008 ). Previous studies
+have shown that surface electrical stimulation above the se nsory
+threshold is an eﬀective tool for stimulating lumbar muscles
+(
+Kim et al., 2016; Sions et al., 2019 ). Comparing the eﬀects of
+surface electrical stimulation at the sensory and motor thre shold
+on the lower back’s passive muscle stiﬀness during a 4.5-h
+sitting period will help us to test the general hypothesis that
+intervention strategies that elicit muscle activity during chair-
+sitting counter an increase in passive muscle stiﬀness. We predict
+that stimulation at the motor threshold will diminish incre ases
+in passive muscle stiﬀness. In contrast, we predict that electr ical
+stimulation of the back muscles at the sensory threshold will n ot
+aﬀect passive muscle stiﬀness. Spinal kinematics will be record ed
+during all measurements to monitor the possible eﬀects of sitt ing
+posture and postural variation on passive muscle stiﬀness during
+the multiple sitting periods.
+MATERIALS AND METHODS
+Participants
+Fifteen volunteers (seven women and eight men) participated
+in this study. The volunteers were employees or students at
+the university. All participants (age: 28.9 ± 5.0 years, weight:
+74.5 ± 10.3 kg, height: 176.9 ± 10.0 cm) were required to
+be healthy, with no current injuries or conditions that would
+cause sitting abnormalities or prohibit the application of surf ace
+electrical stimulation. Further, all participants had to pause
+moderate and high physical activities 24 h before the experime nt
+to avoid possible muscle fatigue and altered muscle stiﬀness.
+Each participant gave written informed consent to participate
+in the study. The study was approved by the institutional ethic s
+committee of the Faculty of Behavioral and Social Sciences a t
+Chemnitz University of Technology (approval number: V-370-
+17-FS-E.-Stimulation-07022020) and conducted in accordan ce
+with the Declaration of Helsinki.
+Intervention Strategies and Settings
+We used neuromuscular electrical stimulation (NMES) applied
+by a portable stimulator (PHYSIOMED-Expert; PHYSIOMED
+Elektromedizin AG, Schnaittach, Germany) at the lumbar
+region of the back to test the eﬀect of regularly induced
+muscle contractions on passive muscle stiﬀness. In total, we
+tested three conditions for each participant: CONTROL (sittin g
+without NMES), NMES SENSOR (stimulation with low-amplitude
+currents, where electrical stimulation is perceived throug h
+somatic sensory receptors mainly located in cutaneous and
+subcutaneous tissues), and NMES MOTOR (electrical stimulation
+with greater current amplitudes, where an increasing number
+of eﬀerent terminal axon branches are excited). We used
+NMESMOTOR to test the eﬀect of regular muscle contractions
+on muscle stiﬀness, and NMES SENSOR to test for placebo
+eﬀects of the electrode application. The skin was disinfected
+before electrode placement. Following the motor point map
+Frontiers in Sports and Active Living | www.frontiersin.or g 2 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 3 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+FIGURE 1 | The graphical depiction illustrates the experimental setu p. All participants sat for 4.5 h at a desk on a height-adjusta ble chair to complete their regular
+ofﬁce activities. The chair’ s back cushion was removed, leav ing only the metal frame cushioned with foam to guarantee mar ker visibility. Further, all participants had to
+wear a long-sleeve T -shirt with a cut-out at the back exposin g the spinal area. Motion data of the back were captured using three retro-reﬂective skin markers, which
+were placed on the spinous processes of vertebrae T5, T10, an d L2. The three vertebrae are colored in yellow (T5), orange ( T10), and red (L2) in close-up (A). Further,
+close-up (A) shows the locations of the stiffness measurement (marked wi th an x) and details about the NMES condition. Here, two elect rodes were placed on the left
+and right sides of the lumbar spine. Close-up (B) shows details about the passive muscle stiffness measureme nt. Muscle stiffness was deﬁned by the slope of the
+relationship between indentation depth and resistance for ce.
+by Behringer et al. (2014) , we placed two electrodes (electrode
+diameter: 3.2 cm, inter electrode distance: 5 cm) on the left
+and right side of the lumbar spine ( Figure 1) (
+Behringer
+et al., 2014 ). We chose a frequency-modulated current for
+the NMES SENSOR and NMES MOTOR conditions (pulse shape:
+triangular biphase, stimulation frequency: 7–14 Hz, contra ction
+time = 1 ms, rest time: 70–142 ms, duration: 5 min) (Tucker et al.,
+2010). To determine the individual current amplitude for the
+NMESSENSOR condition, we followed the protocol proposed by
+Maﬃuletti et al. (2011) . The participants had to lay relaxed in a
+prone position. Following electrode positioning and instructions,
+current amplitude was progressively increased by the investigator
+from zero to the point of current perception, when the participant
+indicated initial (lowest) perception of stimulus sensation
+(tingling, itching, heat). The respective current amplitude w as
+deﬁned as the sensory threshold. After reaching the sensory
+threshold, the current was reduced to zero again. Threshold
+determination was repeated twice at each side of the lumbar
+spine, and the average current was used as the individual sens ory
+threshold. Among all participants, the average sensory thres hold
+current was 3.6 ± 1.3 mA. For the NMES MOTOR condition, the
+motor threshold was deﬁned as three times the individual sensory
+threshold, following
+Kantor et al. (1994) . When the calculated
+current amplitude exceeded 16.1 mA (current density, which
+the manufacturer declares not to exceed), we used 16.1 mA as
+the motor threshold. Among all participants, the average moto r
+threshold current was 9.7 ± 2.5 mA.
+Experimental Protocol
+Each participant completed three sitting periods of 4.5 h each
+within 10 days to test the three conditions (CONTROL,
+NMESSENSOR and NMES MOTOR). The order of the conditions
+was randomized for each subject. Each sitting period started
+between 7:00 and 8:00 a.m. Participants sat at a desk on a
+height-adjustable chair to conduct their regular oﬃce acti vities
+(e.g., reading and writing documents, laptop computer work)
+(Figure 1). Kinematic data were collected for periods of 15 min
+throughout the 4.5 h sitting period. Between the intervals, sh ort
+breaks (<5 min) were allowed, e.g., to use the restroom. Stiﬀness
+data of the back muscles were collected before and after the
+sitting period. One examiner collected all kinematic and sti ﬀness
+data and supervised the NMES. For the NMES SENSOR and
+NMESMOTOR conditions, NMES was applied at the sensory or
+motor threshold for 5 min, followed by a 10-min recovery phase .
+The ﬁrst electrical stimulation started after 15 min and was
+applied 17 times during the 4.5-h sitting period.
+Stiffness Measurement
+We measured the muscle’s resistance against deformation as a
+surrogate measure for muscle stiﬀness (
+Simons and Mense, 1998;
+Wilke et al., 2018 ) using a custom-built indentometer device.
+The handheld device was used in a previous study to non-
+invasively investigate back muscle stiﬀness (
+Kett and Sichting,
+2020). A prior study by Wilke et al. (2018) on the gastrocnemius
+muscle indicates an excellent test-retest reliability (int raclass
+correlation coeﬃcient: 0.84) for the indentometer device ( Wilke
+et al., 2018 ). As described by Kett and Sichting (2020) , the
+device contains a load cell (Compression Load Cell FX1901,
+TE Connectivity, Schaﬀhausen, Switzerland) and a membrane
+potentiometer (ThinPot 10 kOhm, Spectra Symbol, Salt Lake
+City, USA) to measure the resistance force and displacement of
+a circular indentation probe (Ø 11.3 mm) (
+Kett and Sichting,
+2020). As depicted in Figure 1B, the probe was placed two
+centimeters to the right lateral side of the lumbar and thora cic
+Frontiers in Sports and Active Living | www.frontiersin.or g 3 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 4 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+spine to measure the muscles alongside the spine. For the
+stiﬀness measurements, the participants lay down in a relaxed
+prone position. Each measurement consisted of three consecutive
+indentations, where the investigator compressed the tissue up to
+a deﬁned indentation depth. The indentation depth was 12 mm
+for the muscles alongside the lumbar spine. The indentation
+depth at the muscles alongside the thoracic spine was 8 mm. The
+corresponding force of resistance was recorded to calculate the
+passive muscle stiﬀness.
+Acquisition and Analysis of Kinematic Data
+Motion data were captured at 30 Hz using an eight-camera
+motion analysis system (Vicon Motion Systems Ltd., Oxford,
+United Kingdom). Three retro-reﬂective skin markers (diameter:
+16.0 mm) were placed on the spinous processes of the vertebrae
+T5 (thoracic spine), T10 (thoracic spine), and L3 (lumbar spine )
+(Figure 1) (
+Claus et al., 2009; Korakakis et al., 2014 ) to quantify
+three-dimensional motions of the back. We modiﬁed the chair ’s
+backrest and participant’s garment to guarantee the markers’
+continuous visibility ( Figure 1). Data processing was performed
+using Vicon Nexus 2.8.1 (Vicon Motion Systems Ltd, UK)
+and R Studio (R Foundation for Statistical Computing, Vienna ,
+Austria). Motion capture data were downsampled to 1 Hz, and
+a recursive fourth-order Butterworth low-pass ﬁlter (5 Hz cut oﬀ
+frequency) was used to process the kinematic data.
+The thoracolumbar angle ( θTH), calculated as the angle
+between T5, T10, and L3, was used to evaluate sitting posture.
+Further, sample entropy (SampEn), a time series regularity
+measure, was used to evaluate postural variation. According to
+(
+Delgado-Bonal and Marshak, 2019 ), SampEn measures with a
+tolerance r the regularity of patterns similar to a given templ ate
+of a given length (further deﬁned as m) ( Delgado-Bonal and
+Marshak, 2019). The continuously recorded θTH was used for the
+time series analysis. A lower value of SampEn during a given
+sitting period indicates more self-similarity in the time se ries
+and, thereby, a lower postural variation. Based on protocols f rom
+previous postural control studies, m = 2 was utilized and a
+tolerance of r = 0.1∗SD was chosen (
+Søndergaard et al., 2010;
+Lubetzky et al., 2018). The Package “TSEntropies” in R Studio was
+used to compute SampEn.
+Data Analysis and Statistics
+All statistical analyses were carried out using IBM SPSS Statistics,
+version 25 (IBM, Armonk, New York, USA). Means and
+standard deviations (mean ± SDs) were calculated for the
+stiﬀness/kinematic data, and a Shapiro–Wilk test of normality
+was performed. Day-to-day variability (interday coeﬃcient
+of variation, CV%) has been analyzed for the stiﬀness
+measurements before the sitting period on the three days of
+data recording. A two-way repeated ANOV A was used for
+normally distributed data to analyze the impact of sitting ti me
+and conditions on back muscle stiﬀness of the lumbar and
+thoracic spine. When a signiﬁcant main eﬀect between conditions
+(CONTROL, NMES SENSOR and NMES MOTOR) and/or time
+(measurement before and after the sitting period) was observ ed,
+a Bonferroni-adjusted post-hoc analysis was performed.
+Further, we performed one-way repeated ANOV As for
+normally distributed data to test whether sitting posture (mea n
+spinal curvature) and postural variation (SampEn) were diﬀerent
+between the three conditions (CONTROL, NMES SENSOR and
+NMESMOTOR). If a signiﬁcant main eﬀect was observed
+between conditions, a Bonferroni-adjusted post-hoc analysis was
+performed. The level of signiﬁcance was set at α = 0.05 for all
+statistical tests.
+RESUL TS
+The day-to-day variability was 9.8 and 16.6% for the lumbar a nd
+thoracic muscle stiﬀness measurements. Further, the two-wa y
+repeated ANOV A indicated no signiﬁcant diﬀerences between
+the initial stiﬀness measurements (before sitting) on the 3 d ays
+of data recording. Changes in lumbar and thoracic muscle
+stiﬀness after the 4.5-h sitting period are presented inFigure 2 for
+each condition (CONTROL, NMES SENSOR, and NMES MOTOR).
+Lumbar and thoracic muscle stiﬀness increased signiﬁcantly f or
+CONTROL (lumbar: + 16.5%, pre: 2.5 ± 0 .5 vs. post: 2.9 ± 0.5
+N/mm, p < 0.01; thoracic: + 9.4%, pre: 2.9 ± 0.6 vs. post: 3.2 ± 0.6
+N/mm, p = 0.02), and NMESSENSOR (lumbar: + 17.6%, pre: 2.3 ±
+0.5 vs. post: 2.7 ± 0.5 N/mm, p = 0.02; thoracic: + 12.8%, pre: 3.2
+± 0.8 vs. post: 3.6 ± 0.9 N/mm p = 0.045). For NMES MOTOR,
+lumbar muscle stiﬀness decreased signiﬁcantly by − 10.8% (pre:
+2.5 ± 0.6 vs. post: 2.2 ± 0.5 N/mm, p = 0.06), but thoracic muscle
+stiﬀness did not change signiﬁcantly ( + 4.1%, pre: 3.1 ± 0.6 vs.
+post: 3.2 ± 0.8 N/mm, p = 0.36).
+Among the conditions, changes in lumbar muscle stiﬀness
+diﬀered signiﬁcantly ( Figure 2). NMES MOTOR was signiﬁcantly
+diﬀerent from CONTROL and NMES SENSOR (p < 0.01,
+respectively). In contrast, no signiﬁcant diﬀerence was
+found between CONTROL and NMES SENSOR (p = 0.73).
+No signiﬁcant diﬀerences were found between the NMES
+conditions for the changes in thoracic muscle stiﬀness
+(Figure 2).
+Besides muscle stiﬀness, we analyzed sitting posture and
+postural variation to test for diﬀerences between the conditi ons.
+During the 4.5-h sitting period, the average θTH was 164.1
+± 3.7◦ for CONTROL, 165.0 ± 4.6◦ for NMES SENSOR, and
+165.6 ± 4.2◦ for NMES MOTOR. A one-way repeated ANOV A
+revealed no signiﬁcant diﬀerences between the conditions.
+Similarly, no statistically signiﬁcant diﬀerences were fou nd
+for postural variation. On average, SampEn was 0.3 ± 0.1
+for CONTROL, 0.3 ± 0.1 for NMES SENSOR, and 0.3 ± 0.1
+for NMESMOTOR.
+DISCUSSION
+This study aimed to assess the importance of regular muscle
+activity during prolonged chair-sitting. We hypothesized that
+regular muscle contractions could counter an increase in
+passive back muscle stiﬀness. To test the hypothesis, we
+applied bouts of electrical stimulation to the lumbar back
+area—both at a sensory and a motor threshold level. The
+most important ﬁnding was that the stimulation at the
+Frontiers in Sports and Active Living | www.frontiersin.or g 4 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 5 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+FIGURE 2 | Change in muscle tissue stiffness after a 4.5-h sitting peri od in the lumbar spine (A) and thoracic spine (B) for the three conditions (CONTROL: without
+neuromuscular electrical stimulation, NMES SENSOR: neuromuscular electrical stimulation at the sensory thre shold, and NMES MOTOR: neuromuscular electrical
+stimulation at the motor threshold.) Signiﬁcant difference s related to the sitting period are indicated by a hash sign (# ), while an asterisk (*) indicates signiﬁcant
+differences between the tested conditions.
+motor threshold level during a 4.5-h sitting period led to a
+signiﬁcant decrease in back muscle stiﬀness. Another importa nt
+result was that the stimulation at the sensory threshold
+level showed no eﬀect on back muscle stiﬀness. Similar to
+the control condition (no electrical stimulation involved ), we
+found a signiﬁcant increase in back muscle stiﬀness. These
+results add to the growing body of literature recognizing th e
+importance of regular muscle activity during daily sedentar y
+behaviors (
+Hamilton, 2018; Kuster et al., 2020; Raichlen et al.,
+2020).
+Consistent with previous ﬁndings ( Kett and Sichting, 2020 ),
+the control condition showed a signiﬁcant increase in back
+muscle stiﬀness of + 16.5% in the lumbar spine and of + 9.4%
+in the thoracic spine after a prolonged sitting period of 4.5 h.
+While the mechanisms for this sitting-related eﬀect remain
+unclear, most hypotheses revolve around reduced metabolism
+in muscle tissue due to the low activity of postural muscles
+during predominantly static chair-sitting postures (
+V alachi and
+V alachi, 2003; Visser and van Dieën, 2006; Akkarakittichok e
+and Janwantanakul, 2017; Raichlen et al., 2020 ). However,
+this study did not measure any indicator of muscle tissue
+metabolisms, such as blood ﬂow or inﬂammation markers
+directly, several lines of evidence indicate that the vicio us circle
+of restricted microcirculation and increased muscle stiﬀne ss is
+most pronounced in the often-preferred slump sitting posture.
+Slumped sitting is characterized by an excessive posterior ti lt
+of the pelvis and decreased lumbar spine lordosis (
+Claus
+et al., 2009; Nairn et al., 2013 ). It is proposed that this
+posture relies mainly on the passive lumbopelvic structures
+(e.g., spinal ligaments) to maintain a resting sitting positi on.
+Following this argument, previous research has shown that
+the activity level seems to be lowest during slump sitting
+(
+Claus et al., 2009; Mörl and Bradl, 2013; Nairn et al., 2013 ).
+Our motion analysis revealed that the average thoracolumbar
+angle ( θTH) was about 165 ◦. Under the assumption that a θTH
+of 180 ◦ represents a ﬂat sitting posture, the participants in
+our study likely spent most of their sitting time in a slump
+sitting posture ( θTH < 180◦). However, caution is required
+here, since a detailed analysis of sitting postures requires th e
+calculation of angles at the thoracic, thoracolumbar, and l umbar
+regions. Such an approach was used, for example, by
+Claus
+et al. (2009) . Despite the uncertainty about the degree of slump
+sitting, our motion analysis showed that the sitting postures
+and postural variabilities were generally similar between t he
+three tested conditions. These results strengthen conﬁden ce in
+our ﬁndings on the eﬀects of electrical stimulation on back
+muscle stiﬀness.
+The most prominent ﬁnding to emerge from the electrical
+stimulation interventions is that stimulation at the motor
+threshold level led to a signiﬁcant decrease in stiﬀness of th e
+lumbar back muscles of − 10.8% after the 4.5-h sitting period.
+This ﬁnding is likely related to regular muscle contractions.
+When applying current amplitudes at a motor threshold level,
+an increasing number of eﬀerent terminal axon branches are
+excited and result in contractile protein interaction (
+Hultman
+et al., 1983; Maﬃuletti et al., 2008; Sions et al., 2019 ). It
+may be that the rhythmic muscle contractions evoked by
+the electrical stimulation mimicked the naturally acting b lood
+and lymph pump and thereby enhanced the microcirculation
+in the muscle tissue (
+Levine et al., 1990; Pittman, 2000;
+Tucker et al., 2010 ). Here we speculate that these processes
+led to maintenance or restoration of the physiological muscle
+tissue metabolism, preventing an imbalance in the muscle
+cell and consequent formations of long-lasting cross-brid ges
+Frontiers in Sports and Active Living | www.frontiersin.or g 5 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 6 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+between myosin heads and actin ﬁlaments. A similar argument
+was provided by
+Hsueh et al. (1997) , who showed that
+electrical stimulation at a motor threshold level reduced t he
+muscle stiﬀness in muscles with myofascial trigger points
+(
+Hsueh et al., 1997 ). One somewhat unexpected ﬁnding of
+our study was that stiﬀness of the lumbar back muscles
+dropped below the baseline measurement after the prolonged
+sitting period of 4.5 h. The result suggests that the electric al
+stimulation at the motor threshold level not only compensate s
+for increased muscle stiﬀness but further promotes muscle
+relaxation, similar to massage interventions (
+Kett and Sichting,
+2020). Another interesting result was that we found signiﬁcant
+eﬀects of the electrical stimulation for the lumbar region bu t
+not for the thoracic region. This result may be explained
+by the fact that NMES recruits muscle zones close to the
+electrode. The recruitment diminishes proportionally with
+increasing distance from the electrode (
+V anderthommen et al.,
+2000). Although the results of the thoracic measurements
+indicate a trend toward a reduced increase in muscle stiﬀness ,
+considerably more research is required to develop a complete
+picture of muscle tissue response caudal and cranial to the
+stimulated area.
+In contrast to stimulation at the motor threshold level,
+our stimulation at the sensory threshold level did not aﬀect
+lumbar back muscle stiﬀness. Despite regular stimulation,
+muscle stiﬀness increased by 17.6% in the lumbar spine
+and 12.8% in the thoracic spine over the 4.5-h sitting
+period. This ﬁnding is consistent with a previous study by
+Hsueh et al. (1997) , who also found no eﬀect of electrical
+stimulation at the sensory level on muscle stiﬀness. A
+possible explanation for this result may be that electrical
+stimulation at the sensory threshold level is perceived thro ugh
+somatic sensory receptors mainly located in cutaneous and
+subcutaneous tissues (
+Purves et al., 2004 ). Thus, the low-
+amplitude currents likely do not trigger muscle contraction s
+(Maﬃuletti et al., 2008).
+To gain more conﬁdence in our ﬁndings, further research
+could investigate the eﬀects of electrical stimulations in m ore
+detail and address some limitations. It would be of interest to
+identify the muscles of the lower back that were recruited by the
+electrical stimulation. Here, this study leaves some uncer tainties.
+Further, the precise mechanism which explains the decrease in
+muscle stiﬀness in response to impulses at the motor threshold
+level remains to be analyzed. In this regard, accompanying bl ood
+ﬂow measurements are strongly recommended. The eﬀects of
+electrical stimulation on blood ﬂow are currently limited t o
+lower body muscles (
+Levine et al., 1990; McNeil et al., 2006;
+Tucker et al., 2010 ). Another question that remains to be
+answered is how to translate the muscle response elicited by
+the electrical stimulation into regular movements and volu ntary
+contractions. For this study, we applied low-frequency elect rical
+stimulation, which seems comparable to muscle activities du ring
+moderate aerobic exercises at 60–70% of the peak heart rate
+(
+Deley et al., 2005 ). However, considerably more work needs
+to be done to determine the contraction forces elicited by
+stimulation at the motor threshold level relative to maximu m
+voluntary contractions. To quantify muscle contractions, a study
+similar to this one should be carried out using assessment
+techniques that are independent of electrical signals betwe en
+the nerve and muscle, including laser doppler myography
+(
+Scalise et al., 2013; Casaccia et al., 2015 ), acoustic myography
+(Harrison et al., 2013; Harrison, 2018 ), or piezoresistive sensors
+(Esposito et al., 2018).
+Notwithstanding these limitations, our study seems to support
+the Inactivity Missmatch Hypothesis proposed by Raichlen et al.
+(2020). They suggest that human physiology is adapted to
+more consistent muscle activity throughout the day associa ted
+with a combination of both moderate-to-vigorous physical
+activity and sedentary time spent in active rest postures.
+In this regard,
+Raichlen et al. (2020) showed that resting
+postures in hunter-gatherers involve increased muscle activ ity
+that is greater than chair-sitting sedentary postures used in
+industrialized populations (
+Raichlen et al., 2020 ). Although
+these ﬁndings are limited to electromyographic measurement s
+of leg muscles, they align with a growing body of literature,
+which agrees on generally low muscular activity during chair -
+sitting (
+Claus et al., 2009; van Dieën et al., 2009 ). We add
+to these ﬁndings by providing the ﬁrst experimental evidence
+that regular contractions of lumbar back muscles during
+prolonged chair-sitting can counter an increase in passive
+muscle stiﬀness.
+Albeit this study used electrical stimulation to mimic
+regular bouts of increased muscular activity, the results
+support the evidence-based guidelines for frequent active
+breaks during prolonged periods of chair-sitting (
+Thorp
+et al., 2014; Waongenngarm et al., 2018 ). Another important
+practical implication of this study is that NMES revealed
+its potential as an intervention strategy for people forced
+to engage in prolonged periods of chair-sitting, such as
+professional drivers or people with disabilities. A future stu dy
+could assess the long-term eﬀects of electrical stimulation
+at the motor threshold level during prolonged sitting
+periods on low back pain development. Another question
+raised by this study is whether populations that spend
+most of their sedentary time in active rest postures, like
+the Hadza (
+Raichlen et al., 2020 ), would show a minor
+increase in back muscle stiﬀness. Following these avenues
+would be a fruitful area for further work. It might help
+gain a broader understanding of musculoskeletal disorders
+associated with chair-sitting sedentary postures used in
+industrialized populations.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by Institutional Ethics Committee of the Faculty
+of Behavioral and Social Sciences at Chemnitz University of
+Frontiers in Sports and Active Living | www.frontiersin.or g 6 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 7 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+Technology. The patients/participants provided their written
+informed consent to participate in this study.
+AUTHOR CONTRIBUTIONS
+AK, FS, and TM designed the study, analyzed, interpreted
+the data, and wrote the manuscript. AK and FS collected
+and processed the data and prepared all ﬁgures. All authors
+contributed to the article and approved the submitted version .
+FUNDING
+The publication of this article was funded by Chemnitz
+University of Technology.
+ACKNOWLEDGMENTS
+The authors would like to thank Lisa Peterson for proof readin g,
+Philipp Drescher for his help with the illustration, and Fran ziska
+Karl for her assistance in the processing the data.
+REFERENCES
+Akkarakittichoke, N., and Janwantanakul, P. (2017). Seat press ure distribution
+characteristics during 1 hour sitting in oﬃce workers with and wi thout chronic
+low back pain. Safety Health Work 8, 212–219. doi: 10.1016/j.shaw.2016.10.005
+Behringer, M., Franz, A., McCourt, M., and Mester, J. (2014). Mo tor point
+map of upper body muscles. Eur. J. Appl. Physiol. 114, 1605–1617.
+doi: 10.1007/s00421-014-2892-z
+Callaghan, J. P., and McGill, S. M. (2001). Low back joint loading a nd
+kinematics during standing and unsupported sitting. Ergonomics 44, 280–294.
+doi: 10.1080/00140130118276
+Campbell, K. S., and Lakie, M. (1998). A cross-bridge mechanism can e xplain the
+thixotropic short-range elastic component of relaxed frog skeletal musc le. J.
+Physiol. 510 (Pt 3), 941–962. doi: 10.1111/j.1469-7793.1998.941bj .x
+Cardoso, M., McKinnon, C., Viggiani, D., Johnson, M. J., Callag han, J. P., and
+Albert, W. J. (2018). Biomechanical investigation of prolonged dri ving in
+an ergonomically designed truck seat prototype. Ergonomics 61, 367–380.
+doi: 10.1080/00140139.2017.1355070
+Casaccia, S., Scalise, L., Casacanditella, L., Tomasini, E. P., and Rohrbaugh,
+J. W. (2015). “Non-contact assessment of muscle contraction: La ser
+Doppler Myography, ” in 2015 IEEE International Symposium on Medical
+Measurements and Applications (MeMeA) Proceedings (Torino: IEEE),
+610–615. doi: 10.1109/MeMeA.2015.7145276
+Chau, J. Y., Grunseit, A. C., Chey, T., Stamatakis, E., Brown, W. J., Matthews, C.
+E., et al. (2013). Daily sitting time and all-cause mortality: a meta-analysis. PLoS
+ONE 8:80000. doi: 10.1371/journal.pone.0080000
+Claus, A. P., Hides, J. A., Moseley, G. L., and Hodges, P. W. (2009) . Diﬀerent
+ways to balance the spine: subtle changes in sagittal spinal curves aﬀect regional
+muscle activity. Spine 34, E208–E214. doi: 10.1097/BRS.0b013e3181908ead
+Clemes, S. A., Patel, R., Mahon, C., and Griﬃths, P. L. (2014). Sit ting time and step
+counts in oﬃce workers. Occup. Med. 64, 188–192. doi: 10.1093/occmed/kqt164
+Crenshaw, A. G., Djupsjöbacka, M., and Svedmark, A. (2006). Oxyg enation, EMG
+and position sense during computer mouse work. Impact of active versu s
+passive pauses. Eur. J. Appl. Physiol. 97, 59–67. doi: 10.1007/s00421-006-0138-4
+Deley, G., Kervio, G., Verges, B., Hannequin, A., Petitdant, M.-F., Salmi-
+Belmihoub, S., et al. (2005). Comparison of low-frequency electrical
+myostimulation and conventional aerobic exercise training in pat ients
+with chronic heart failure. Eur. J. Cardiovasc. Prev. Rehabil . 12, 226–233.
+doi: 10.1097/01.hjr.0000166455.23346.a5
+Delgado-Bonal, A., and Marshak, A. (2019). Approximate entropy and s ample
+entropy: a comprehensive tutorial. Entropy 21:541. doi: 10.3390/e21060541
+Esposito, D., Andreozzi, E., Fratini, A., Gargiulo, G. D., Savin o, S., Niola, V.,
+et al. (2018). A piezoresistive sensor to measure muscle contraction and
+mechanomyography. Sensors 18:2553. doi: 10.3390/s18082553
+Fukushima, N., Machida, M., Kikuchi, H., Amagasa, S., Hayashi, T.,
+Odagiri, Y., et al. (2021). Associations of working from home with
+occupational physical activity and sedentary behavior under t he COVID-
+19 pandemic. J. Occup. Health 63:e12212. doi: 10.1002/1348-9585.1
+2212
+Gupta, N., Christiansen, C. S., Hallman, D. M., Korshøj, M., Carnei ro, I. G., and
+Holtermann, A. (2015). Is objectively measured sitting time associated with low
+back pain? A cross-sectional investigation in the NOMAD study . PLoS ONE
+10:e0121159. doi: 10.1371/journal.pone.0121159
+Hamilton, M. T. (2018). The role of skeletal muscle contractile duratio n
+throughout the whole day: reducing sedentary time and promoting univ ersal
+physical activity in all people. J. Physiol . 596, 1331–1340. doi: 10.1113/JP2
+73284
+Hamilton, M. T., Hamilton, D. G., and Zderic, T. W. (2007). Role of low
+energy expenditure and sitting in obesity, metabolic syndrome, ty pe 2 diabetes,
+and cardiovascular disease. Diabetes 56, 2655–2667. doi: 10.2337/db07-
+0882
+Harrison, A. P. (2018). A more precise, repeatable and diagnostic altern ative
+to surface electromyography - an appraisal of the clinical utility of ac oustic
+myography. Clin. Physiol. Funct. Imaging 38, 312–325. doi: 10.1111/cpf.1
+2417
+Harrison, A. P., Danneskiold-Samsøe, B., and Bartels, E. M. (2013) .
+Portable acoustic myography - a realistic noninvasive method for
+assessment of muscle activity and coordination in human subjects in
+most home and sports settings. Physiol. Rep . 1:e00029. doi: 10.1002/ph
+y2.29
+Hartvigsen, J., Hancock, M. J., Kongsted, A., Louw, Q., Ferreira , M. L.,
+Genevay, S., et al. (2018). What low back pain is and why we need
+to pay attention. Lancet 391, 2356–2367. doi: 10.1016/S0140-6736(18)30
+480-X
+Healy, G. N., Matthews, C. E., Dunstan, D. W., Winkler, E. A. H., an d Owen,
+N. (2011). Sedentary time and cardio-metabolic biomarkers in US adult s:
+NHANES 2003-06. Eur. Heart J. 32, 590–597. doi: 10.1093/eurheartj/ehq451
+Hill, D. K. (1968). Tension due to interaction between the sliding ﬁlaments in
+resting striated muscle. The eﬀect of stimulation. J. Physiol . 199, 637–684.
+doi: 10.1113/jphysiol.1968.sp008672
+Hsueh, T. C., Cheng, P. T., Kuan, T. S., and Hong, C. Z. (1997).
+The immediate eﬀectiveness of electrical nerve stimulation and
+electrical muscle stimulation on myofascial trigger points. Am. J.
+Phys. Med. Rehabil . 76, 471–476. doi: 10.1097/00002060-199711000-0
+0007
+Hultman, E., Sjöholm, H., Jäderholm-Ek, I., and Krynicki, J. (1983). E valuation of
+methods for electrical stimulation of human skeletal muscle in situ . Pﬂugers
+Arch. 398, 139–141. doi: 10.1007/BF00581062
+Kantor, G., Alon, G., and Ho, H. S. (1994). The eﬀects of selected s timulus
+waveforms on pulse and phase characteristics at sensory and motor thres holds.
+Phys. Ther. 74, 951–962. doi: 10.1093/ptj/74.10.951
+Kell, R. T., and Bhambhani, Y. (2008). Relationship between erect or spinae muscle
+oxygenation via in vivo near infrared spectroscopy and static endurance time
+in healthy males. Eur. J. Appl. Physiol. 102, 243–250. doi: 10.1007/s00421-007-0
+577-6
+Kett, A. R., and Sichting, F. (2020). Sedentary behaviour at w ork increases
+muscle stiﬀness of the back: why roller massage has potential as an ac tive
+break intervention. Appl. Ergon . 82:102947. doi: 10.1016/j.apergo.2019.10
+2947
+Kim, S. Y., Kim, J. H., Jung, G. S., Baek, S. O., Jones, R., and Ahn, S. H.
+(2016). The eﬀects of transcutaneous neuromuscular electrical st imulation on
+the activation of deep lumbar stabilizing muscles of patients with lumbar
+degenerative kyphosis. J. Phys .Ther. Sci. 28, 399–406. doi: 10.1589/jpts.2
+8.399
+Korakakis, V., Sideris, V., and Giakas, G. (2014). Sitting bod ily conﬁguration:
+a study investigating the intra-tester reliability of positioni ng subjects
+Frontiers in Sports and Active Living | www.frontiersin.or g 7 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 8 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+into a predetermined sitting posture. Manual Ther. 19, 197–202.
+doi: 10.1016/j.math.2014.01.001
+Kuster, R. P., Bauer, C. M., and Baumgartner, D. (2020). Is acti ve sitting on a
+dynamic oﬃce chair controlled by the trunk muscles? PLoS ONE 15:e0242854.
+doi: 10.1371/journal.pone.0242854
+Levine, S. P., Kett, R. L., Gross, M. D., Wilson, B. A., Cederna, P . S., and Juni,
+J. E. (1990). Blood ﬂow in the gluteus maximus of seated individua ls during
+electrical muscle stimulation. Arch. Phys. Med. Rehabil. 71, 682–686.
+Lis, A. M., Black, K. M., Korn, H., and Nordin, M.
+(2007). Association between sitting and occupational LBP.
+Eur. Spine J . 16, 283–298. doi: 10.1007/s00586-006-0
+143-7
+Lopez, A. D., Mathers, C. D., Ezzati, M., Jamison, D. T., and
+Murray, C. J. L. (2006). Global and regional burden of disease
+and risk factors 2001: systematic analysis of population health
+data. Lancet 367, 1747–1757. doi: 10.1016/S0140-6736(06)68
+770-9
+Lubetzky, A. V., Harel, D., and Lubetzky, E. (2018). On the eﬀec ts of signal
+processing on sample entropy for postural control. PLoS ONE 13:e0193460.
+doi: 10.1371/journal.pone.0193460
+Lunde, L.-K., Koch, M., Knardahl, S., and Veiersted, K. B. (201 7).
+Associations of objectively measured sitting and standing wit h low-
+back pain intensity: a 6-month follow-up of construction and healt hcare
+workers. Scand. J. Work Environ. Health 43, 269–278. doi: 10.5271/sjweh.
+3628
+Maﬃuletti, N. A., Herrero, A. J., Jubeau, M., Impellizzeri, F. M., and Bi zzini,
+M. (2008). Diﬀerences in electrical stimulation thresholds betwee n men and
+women. Ann. Neurol. 63, 507–512. doi: 10.1002/ana.21346
+Maﬃuletti, N. A., Morelli, A., Martin, A., Duclay, J., Billot, M., Jub eau, M., et al.
+(2011). Eﬀect of gender and obesity on electrical current thresho lds. Muscle
+Nerve 44, 202–207. doi: 10.1002/mus.22050
+Manchikanti, L., Singh, V., Datta, S., Cohen, S. P., and Hirsc h, J. A. (2009).
+Comprehensive review of epidemiology, scope, and impact of spinal pain. Pain
+Phys. 12, E35–E70. doi: 10.36076/ppj.2009/12/E35
+McGill, S. M., Hughson, R. L., and Parks, K. (2000). Lumbar erector s pinae
+oxygenation during prolonged contractions: implications for prolonge d work.
+Ergonomics 43, 486–493. doi: 10.1080/001401300184369
+McNeil, C. J., Murray, B. J., and Rice, C. L. (2006). Diﬀerential
+changes in muscle oxygenation between voluntary and stimulated
+isometric fatigue of human dorsiﬂexors. J. Appl. Physiol. 100, 890–895.
+doi: 10.1152/japplphysiol.00921.2005
+Mörl, F., and Bradl, I. (2013). Lumbar posture and muscular activity
+while sitting during oﬃce work. J. Electromyogr. Kinesiol . 23, 362–368.
+doi: 10.1016/j.jelekin.2012.10.002
+Nairn, B. C., Chisholm, S. R., and Drake, J. D. M. (2013). What is slu mped sitting?
+A kinematic and electromyographical evaluation. Manual Ther. 18, 498–505.
+doi: 10.1016/j.math.2013.03.003
+O’Keefe, J. H., Vogel, R., Lavie, C. J., and Cordain, L. (2010). A chieving hunter-
+gatherer ﬁtness in the 21(st) century: back to the future. Am. J. Med . 123,
+1082–1086. doi: 10.1016/j.amjmed.2010.04.026
+Pittman, R. N. (2000). Oxygen supply to contracting skeletal muscle a t the
+microcirculatory level: diﬀusion vs. convection. Acta Physiol. Scand . 168,
+593–602. doi: 10.1046/j.1365-201x.2000.00710.x
+Pontzer, H., Rolian, C., Rightmire, G. P., Jashashvili, T., Ponce de León, M. S.,
+Lordkipanidze, D., et al. (2010). Locomotor anatomy and biomechan ics of the
+Dmanisi hominins. J. Hum. Evol. 58, 492–504. doi: 10.1016/j.jhevol.2010.03.006
+Porter, J. M., and Gyi, D. E. (2002). The prevalence of musculoskelet al troubles
+among car drivers. Occup. Med. 52, 4–12. doi: 10.1093/occmed/52.1.4
+Proske, U., and Morgan, D. L. (1999). Do cross-bridges contribute to the tension
+during stretch of passive muscle? J. Muscle Res. Cell Motil . 20, 433–442.
+doi: 10.1023/A:1005573625675
+Purves, D., and Williams, S. M., Eds. (2004). Neuroscience, 3rd. Edn.
+Sunderland: Sinauer.
+Raichlen, D. A., Pontzer, H., Zderic, T. W., Harris, J. A., Mabulla, A . Z.
+P., Hamilton, M. T., et al. (2020). Sitting, squatting, and the e volutionary
+biology of human inactivity. Proc. Natl. Acad. Sci. U. S. A . 117, 7115–7121.
+doi: 10.1073/pnas.1911868117
+Saltin, B., Rådegran, G., Koskolou, M. D., and Roach, R. C. (1998 ). Skeletal muscle
+blood ﬂow in humans and its regulation during exercise. Acta Physiol. Scand .
+162, 421–436. doi: 10.1046/j.1365-201X.1998.0293e.x
+Sammonds, G. M., Fray, M., and Mansﬁeld, N. J. (2017). Eﬀect of longterm driving
+on driver discomfort and its relationship with seat ﬁdgets and move ments
+(SFMs). Appl. Ergon. 58, 119–127. doi: 10.1016/j.apergo.2016.05.009
+Scalise, L., Casaccia, S., Marchionni, P., Ercoli, I., and Toma sini, E. (2013). Laser
+doppler myography (LDMi): a novel non-contact measurement method for the
+muscle activity. Laser Ther. 22, 261–268. doi: 10.5978/islsm.13-OR-21
+Simons, G. D., and Mense, S. (1998). Understanding and measuremen t
+of muscle tone as related to clinical muscle pain. Pain 75, 1–17.
+doi: 10.1016/S0304-3959(97)00102-4
+Sions, J. M., Crippen, D., J’a., C., Hicks, G. E., Alroumi, A. M., Mana l, T. J.,
+et al. (2019). Exploring neuromuscular electrical stimulation intensity eﬀects on
+multiﬁdus muscle activity in adults with chronic low back pain: an ultra sound
+imaging-informed investigation. Clin. Med. Insights Arthritis Musculoskelet.
+Disord. 12:1179544119849570. doi: 10.1177/1179544119849570
+Søndergaard, K. H. E., Olesen, C. G., Søndergaard, E. K., de Zee, M .,
+and Madeleine, P. (2010). The variability and complexity of sittin g
+postural control are associated with discomfort. J. Biomech . 43, 1997–2001.
+doi: 10.1016/j.jbiomech.2010.03.009
+Stamatakis, E., Gale, J., Bauman, A., Ekelund, U., Hamer, M., and Di ng, D. (2019).
+Sitting time, physical activity, and risk of mortality in adults. J. Am. Coll.
+Cardiol. 73, 2062–2072. doi: 10.1016/j.jacc.2019.02.031
+Thorp, A. A., Kingwell, B. A., Owen, N., and Dunstan, D. W. (2014). Breaking
+up workplace sitting time with intermittent standing bouts improves f atigue
+and musculoskeletal discomfort in overweight/obese oﬃce workers. Occup.
+Environ. Med. 71, 765–771. doi: 10.1136/oemed-2014-102348
+Tucker, A., Maass, A., Bain, D., Chen, L.-H., Azzam, M., Dawson , H., et al. (2010).
+Augmentation of venous, arterial and microvascular blood supply in the leg by
+isometric neuromuscular stimulation via the peroneal nerve. Int. J. Angiol . 19,
+e31–e37. doi: 10.1055/s-0031-1278361
+V alachi, B., and V alachi, K. (2003). Mechanisms leading to musculo skeletal
+disorders in dentistry. J. Am. Dent. Assoc . 134, 1344–1350.
+doi: 10.14219/jada.archive.2003.0048
+van der Velde, J. H. P. M., Koster, A., van der Berg, J. D., Sep, S. J . S., van der
+Kallen, C. J. H., Dagnelie, P. C., et al. (2017). Sedentary behavior , physical
+activity, and ﬁtness-the Maastricht Study.Med. Sci. Sports Exerc. 49, 1583–1591.
+doi: 10.1249/MSS.0000000000001262
+van Dieën, J. H., de Looze, M. P., and Hermans, V. (2001). Eﬀects of dynamic
+oﬃce chairs on trunk kinematics, trunk extensor EMG and spinal sh rinkage.
+Ergonomics 44, 739–750. doi: 10.1080/00140130120297
+van Dieën, J. H., Westebring-van der Putten, E. P., Kingma, I., a nd
+de Looze, M. P. (2009). Low-level activity of the trunk extenso r
+muscles causes electromyographic manifestations of fatigue in abse nce
+of decreased oxygenation. J. Electromyogr. Kinesiol . 19, 398–406.
+doi: 10.1016/j.jelekin.2007.11.010
+V anderthommen, M., Depresseux, J. -C., Dauchat, L., Degueldre, C., Croisier,
+J. -L., and Crielaard, J. -M. (2000). Spatial distribution of blood ﬂow in
+electrically stimulated human muscle: a positron emission tomography study .
+Muscle Nerve 23, 482–489. doi: 10.1002/(sici)1097-4598(200004)23:4<482::aid-
+mus5>3.0.co;2-i
+Visser, B., and van Dieën, J. H. (2006). Pathophysiology of upper extremity muscle
+disorders. J. Electromyogr. Kinesiol. 16, 1–16. doi: 10.1016/j.jelekin.2005.06.005
+Volinn, E. (1997). The epidemiology of low back pain in the rest of the world. A
+review of surveys in low- and middle-income countries. Spine 22, 1747–1754.
+doi: 10.1097/00007632-199708010-00013
+Waongenngarm, P., Areerak, K., and Janwantanakul, P. (2018). The eﬀects of
+breaks on low back pain, discomfort, and work productivity in oﬃce workers: a
+systematic review of randomized and non-randomized controlled trials. Appl.
+Ergon. 68, 230–239. doi: 10.1016/j.apergo.2017.12.003
+Waongenngarm, P., van der Beek, A. J., Akkarakittichoke, N., an d Janwantanakul,
+P. (2020). Perceived musculoskeletal discomfort and its associa tion with
+postural shifts during 4-h prolonged sitting in oﬃce workers. Appl. Ergon .
+89:103225. doi: 10.1016/j.apergo.2020.103225
+Wilke, J., Mohr, L., Tenforde, A. S., Edouard, P., Fossati, C., G onzález-Gross,
+M., et al. (2021). A pandemic within the pandemic? Physical activi ty levels
+Frontiers in Sports and Active Living | www.frontiersin.or g 8 November 2021 | Volume 3 | Article 760533
+
+===== PAGE 9 =====
+
+Kett et al. Muscle Contraction Effects During Chair-Sitting
+substantially decreased in countries aﬀected by COVID-19. Int. J. Environ. Res.
+Public Health 18:2235. doi: 10.2139/ssrn.3605343
+Wilke, J., Vogt, L., Pfarr, T., and Banzer, W. (2018). Reliabilit y and validity of
+a semi-electronic tissue compliance meter to assess muscle stiﬀness. J. Back
+Musculoskelet. Rehabil. 31, 991–997. doi: 10.3233/BMR-170871
+Conﬂict of Interest: AK received his salary from the Mercedes-Benz AG.
+However, Mercedes-Benz AG was not involved in the design and ex ecution of
+the study, in the collection, analysis, and interpretation of the d ata, or in the
+preparation, review, and approval of the manuscript.
+The remaining authors declare that the research was conducted in t he absence of
+any commercial or ﬁnancial relationships that could be construed as a potential
+conﬂict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizat ions, or those of
+the publisher, the editors and the reviewers. Any product that may b e evaluated in
+this article, or claim that may be made by its manufacturer, is not gua ranteed or
+endorsed by the publisher.
+Copyright © 2021 Kett, Milani and Sichting. This is an open-acces s article
+distributed under the terms of the Creative Commons Attribu tion License (CC BY).
+The use, distribution or reproduction in other forums is perm itted, provided the
+original author(s) and the copyright owner(s) are credited a nd that the original
+publication in this journal is cited, in accordance with acc epted academic practice.
+No use, distribution or reproduction is permitted which doe s not comply with these
+terms.
+Frontiers in Sports and Active Living | www.frontiersin.or g 9 November 2021 | Volume 3 | Article 760533

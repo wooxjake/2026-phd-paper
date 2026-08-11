@@ -1,0 +1,440 @@
+===== PAGE 1 =====
+
+medicina
+Article
+Effects of Prolonged Sitting with Slumped Posture on Trunk
+Muscular Fatigue in Adolescents with and without Chronic
+Lower Back Pain
+Kyoung-Sim Jung 1,† , Jin-Hwa Jung 2,†
+ , Tae-Sung In 1,* and Hwi-Young Cho 3,*
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Jung, K.-S.; Jung, J.-H.; In,
+T.-S.; Cho, H.-Y. Effects of Prolonged
+Sitting with Slumped Posture on Trunk
+Muscular Fatigue in Adolescents with
+and without Chronic Lower Back Pain.
+Medicina 2021, 57, 3. https://dx.doi.org/
+3390/medicina57010003
+Received: 10 November 2020
+Accepted: 21 December 2020
+Published: 23 December 2020
+Publisher’s Note: MDPI stays neu-
+tral with regard to jurisdictional claims
+in published maps and institutional
+afﬁliations.
+Copyright: © 2020 by the authors. Li-
+censee MDPI, Basel, Switzerland. This
+article is an open access article distributed
+under the terms and conditions of the
+Creative Commons Attribution (CC BY)
+license (https://creativecommons.org/
+licenses/by/4.0/).
+1 Department of Physical Therapy, Gimcheon University, Gimcheon 39528, Korea; 20190022@gimcheon.ac.kr
+2 Department of Occupational Therapy, Semyung University, Jecheon 27136, Korea; otsalt@semyung.ac.kr
+3 Department of Physical Therapy, Gachon University, Incheon 21936, Korea
+* Correspondence: 20160072@gimcheon.ac.kr (T.-S.I.); hwiyoung@gachon.ac.kr (H.-Y.C.)
+† These authors contributed equally to this study as co-ﬁrst authors.
+Abstract: Background and Objectives: This study investigated the effects of prolonged sitting on
+trunk muscular fatigue and discomfort in participants with and without chronic lower back pain
+(LBP). Material and Methods: This study included 15 patients with LBP and 15 healthy controls.
+All participants were instructed to sit on a height-adjustable chair with their knee and hip joints bent
+at 90◦ for 30 min, in slumped sitting postures. Surface electromyography was used to assess the
+median frequency of the internal obliques (IO)/transversus abdominis (TrA) and multiﬁdus (MF)
+muscles. Perceived discomfort was measured using a Borg category ratio-scale. Median frequency
+of the trunk muscles and perceived discomfort after 30 min of sitting were compared with baseline.
+Result: There were no signiﬁcant differences within the group and between both groups in the median
+frequency of bilateral IO and MF muscles. The LBP group showed signiﬁcantly greater perceived
+discomfort after prolonged sitting, as compared to the control group. Conclusions: Prolonged sitting
+with slumped posture could increase the risk of experiencing lower back discomfort.
+Keywords: lower back pain (LBP); sitting; fatigue; discomfort
+1. Introduction
+Sitting for a long time can cause discomfort in the lower back [1], and maintaining the
+sitting posture for extended periods is reportedly associated with the endurance of lower
+back muscles [2]. By analyzing the sitting posture for 1 h in healthy individuals and those
+with lower back pain (LBP), it was determined that participants in both groups adopted
+a slumped sitting posture after 20 min, and that LBP patients showed an asymmetrical
+pattern of gluteal pressure.
+A reduction in back muscle endurance could be an independent predictor of back
+pain [3,4]. Individuals with chronic LBP have a higher pain intensity and lower tolerance
+to low-intensity static loads, as compared to healthy individuals, when sitting for long
+periods [5]. Additionally, patients with LBP show a decrease in trunk motor variability [6,7]
+and their back muscles are more easily fatigued [8].
+In recent years, due to the ﬂexibility of mobile devices, people are increasingly us-
+ing portable equipment without a desk [9]. In unsupported sitting conditions without a
+backrest or desk, people often adopt poor sitting postures that increase the risk of mus-
+culoskeletal disorders [ 10,11]. Although some epidemiological studies and systematic
+reviews determined that sitting time and posture are not signiﬁcantly associated with the
+development of LBP [2,12,13], other studies showed that sitting in a bad posture for a long
+period increases LBP and lumbar discomfort [2,14–16].
+Sitting posture can affect the trunk muscle activity [ 17], and different muscles are
+predominantly stimulated, depending on the sitting posture [ 18]. Studies comparing
+Medicina 2021, 57, 3. https://dx.doi.org/10.3390/medicina57010003 https://www.mdpi.com/journal/medicina
+
+===== PAGE 2 =====
+
+Medicina 2021, 57, 3 2 of 8
+the activity of trunk muscles based on posture reported that slumped sitting signiﬁcantly
+decreased the activity of the internal obliques (IO)/transversus abdominis (TrA), when com-
+pared to upright sitting [17,19]. In recent years, studies indicated that muscular fatigue
+is present in the trunk muscles of healthy individuals who maintain a slumped sitting
+posture for a long period [9,20]. Ringheim et al. [5] also found that there was no signiﬁcant
+difference between LBP patients and healthy individuals, when comparing muscular fa-
+tigue after prolonged sitting with a forward trunk inclination. There are many studies on
+muscular fatigue in patients with LBP , but most of them measured muscular fatigue on
+isometric trunk extension in the prone or sitting postures. Only a few studies analyzed the
+muscular fatigue associated with long periods of sitting posture [9,20]. In fact, no study
+investigated the changes in muscles during prolonged slumped sitting posture, especially
+in LBP patients.
+Therefore, this study aimed to identify fatigue and discomfort of the trunk muscles in
+individuals with and without non-speciﬁc chronic LBP , when using a mobile device in a
+slumped sitting posture for 30 min.
+2. Materials and Methods
+2.1. Participants
+This study included 15 patients with LBP and 15 healthy individuals. The inclusion
+criteria were LBP experienced for≥3 months, aged between 10–19 years, pain intensity≥3
+on the visual analogue scale. Participants in the control group had no previous LBP history.
+The exclusion criteria were (1) using other treatments or drugs to manage LBP , (2) presence
+of musculoskeletal problems other than LBP , (3) history of surgery related to LBP , (4) history
+of neurological system disorders, and (5) body mass index (BMI) > 30 (kg/m 2), due to
+potential difﬁculty in obtaining surface electromyography (EMG) measures [9].
+2.2. Protocol
+In this study, participants were seated on a chair without desks or backrests to perform
+a 30-min mobile-device usage task. Before conducting the measurement, the height of
+the chair was adjusted for each participant to bend the knees at 90 ◦. To represent the
+continuous static sitting posture while using the mobile device without support [21–23],
+they were asked to maintain a relaxed kyphotic posture, without any signiﬁcant body
+movements, and place their hands holding the mobile device on their knees. To minimize
+any postural stress, the participants were allowed to switch to a more upright sitting
+posture. All participants were asked to perform the typing tasks at their normal speed. The
+perceived discomfort level was rated for each participant at the start and completion of the
+task. Furthermore, EMG data were constantly recorded during the 30-min task period to
+measure muscular fatigue.
+2.3. Outcome Measurements
+A four-channel radio EMG device (TeleMyo T1500, Noraxon Inc., Arizona, USA)
+was used to measure the muscular fatigue. Electrodes were attached to the bilateral
+IO/TrA and multiﬁdus (MF) muscles. The electrodes were attached 1 cm medial to the
+anterior superior iliac spine for IO/TrA and 2 cm lateral to the L5 spinous process for MF.
+The sampling frequency was set to 1000 Hz and a bandwidth of EMG recordings was set
+between 20–450 Hz. After a full-wave rectiﬁcation, the EMG signals were processed with a
+root-mean-square smoothing algorithm. To minimize skin resistance, any hair on the target
+muscle was removed, and the skin was wiped using alcohol swabs, before attaching the
+electrodes.
+The median frequency was obtained from the EMG data analysis of the ﬁrst and last
+5 min. The mean value of the EMG median frequency for the 5-min periods was calculated
+and normalized to the initial value. The median frequency change was used as the muscle
+fatigue index [9].
+
+===== PAGE 3 =====
+
+Medicina 2021, 57, 3 3 of 8
+The Borg category-ratio (CR-10) scale was used to measure the perceived discomfort.
+The Borg CR-10 measured the degree of discomfort in the lower back on a 10-point scale.
+This scale indicated that higher scores indicate greater discomfort [24].
+2.4. Data Analysis
+Statistical Package for the Social Sciences version 21.0 (IBM-SPSS Inc., Chicago, IL,
+USA) was used for statistical data analysis. The Shapiro-Wilk test was used to assess the
+normality of variables. The chi-square test for categorical variables and the independent t-
+test for continuous variables were used to analyze and compare the general characteristics
+of the participants of the LBP and the control groups. The paired t-test was used for
+within-group comparisons and the independent t-test for the between-group comparisons.
+The level of statistical signiﬁcance was set at 0.05.
+3. Results
+3.1. General Characteristics of Participants
+We calculated the sample size based on previous studies. The effect size was set to 0.95
+and the alpha level was set to 0.05, respectively. Additionally, the power was set to 80%.
+It was calculated that 14 people were needed for each group, and we recruited 15 subjects
+per group considering drop-out. Table 1 shows the characteristics of participants in both
+groups. There was no signiﬁcant difference in any characteristics.
+Table 1. General characteristics of participants (N = 30).
+Variables LBP Group ( n = 15) Control Group ( n = 15) p
+Sex (Male/Female) 11/4 10/5 0.690 a
+Age (years) 17.40 ± 2.85 17.53 ± 2.47 0.381 b
+Height (cm) 171.87 ± 5.96 168.53 ± 8.94 0.239 b
+Weight (kg) 68.87 ± 10.58 66.20 ± 13.02 0.543 b
+Postures that make symptoms worse
+(lumbar ﬂexion/extension) (13/2)
+Values are expressed as mean± standard deviation. a chi-square test, b independent t-test; LBP: lower back pain.
+3.2. Comparison of Median Frequency
+There was no signiﬁcant difference in the median frequency of IO, before and after
+sitting in both groups. In the case of MF, the median frequency tended to decrease in the
+LBP group, but it was not statistically signiﬁcant (Table 2, Figure 1).
+Table 2. Median frequency of the subject before and after 30 min of sitting.
+Control Group
+Difference
+LBP Group
+Difference p
+Pre Post Pre Post
+RT IO 100 ± 0.00 99.54 ± 7.60 −0.46± 7.60 100 ± 0.00 99.33 ± 4.13 −0.67± 4.13 0.927
+LT IO 100 ± 0.00 99.44 ± 4.07 −0.56± 4.07 100 ± 0.00 99.23 ± 5.01 −0.77± 5.01 0.898
+RT MT 100 ± 0.00 99.53 ± 1.88 −0.47± 1.88 100 ± 0.00 97.40 ± 5.42 −2.60± 5.42 0.161
+LT MT 100 ± 0.00 99.34 ± 4.91 −0.66± 4.91 100 ± 0.00 97.48 ± 4.61 −2.52± 4.61 0.293
+RTIO, Right internal oblique, LTIO, Left internal oblique, RTMT, Right multiﬁdus, and LTMT, Left multiﬁdus.
+
+===== PAGE 4 =====
+
+Medicina 2021, 57, 3 4 of 8
+Medicina 2021, 57, x FOR PEER REVIEW 4 of 8 
+ 
+ 
+ 
+Figure 1. Mean change of median frequency in trunk muscles after prolonged sitting with 
+slumped posture. EMG median frequency was normalized to the initial value. 
+3.3. Comparison of Body Perceived Discomfort 
+After sitting for 30 min, body discomfort was significantly increased in the both 
+groups (p < 0.001) and there were significant differences between groups (p < 0.001) (Table 
+3, Figure 2). 
+Table 3. Subject scores of disability before and after 30 min of sitting. 
+ Control Group  LBP Group Difference p  Pre Post Difference Pre Post 
+Disability 0.07 ± 0.26 1.07 ± 0. 70 1.00 ± 0.65 * 1.33 ± 0.82 5. 40 ± 1.12 4.07 ± 1.33 * 0.000 
+* Significant differences between pre and posttest (p < 0.05). 
+ 
+Figure 2. Mean of perceived discomfort after prolonged sitting with slumped posture. * Significant 
+differences between pre and posttest (p < 0.05). † Significant differences between the group (p < 
+0.05). 
+4. Discussion 
+Sitting for prolonged period results in posture changes such as the flatness of the 
+lumbar-lordotic curve [25] and chronic muscle deconditioning that decreases muscle ac-
+tivity [26]. This can cause muscular fatigue even at low loads, when adopting static pos-
+ture for a long period [27]. 
+Figure 1. Mean change of median frequency in trunk muscles after prolonged sitting with slumped
+posture. EMG median frequency was normalized to the initial value.
+3.3. Comparison of Body Perceived Discomfort
+After sitting for 30 min, body discomfort was signiﬁcantly increased in the both
+groups (p < 0.001) and there were signiﬁcant differences between groups (p < 0.001) (Table 3,
+Figure 2).
+Table 3. Subject scores of disability before and after 30 min of sitting.
+Control Group
+Difference
+LBP Group
+Difference p
+Pre Post Pre Post
+Disability 0.07 ± 0.26 1.07 ± 0.70 1.00 ± 0.65 * 1.33 ± 0.82 5.40 ± 1.12 4.07 ± 1.33 * 0.000
+* Signiﬁcant differences between pre and posttest (p < 0.05).
+Medicina 2021, 57, x FOR PEER REVIEW 4 of 8 
+ 
+ 
+ 
+Figure 1. Mean change of median frequency in trunk muscles after prolonged sitting with 
+slumped posture. EMG median frequency was normalized to the initial value. 
+3.3. Comparison of Body Perceived Discomfort 
+After sitting for 30 min, body discomfort was significantly increased in the both 
+groups (p < 0.001) and there were significant differences between groups (p < 0.001) (Table 
+3, Figure 2). 
+Table 3. Subject scores of disability before and after 30 min of sitting. 
+ Control Group  LBP Group Difference p  Pre Post Difference Pre Post 
+Disability 0.07 ± 0.26 1.07 ± 0. 70 1.00 ± 0.65 * 1.33 ± 0.82 5. 40 ± 1.12 4.07 ± 1.33 * 0.000 
+* Significant differences between pre and posttest (p < 0.05). 
+ 
+Figure 2. Mean of perceived discomfort after prolonged sitting with slumped posture. * Significant 
+differences between pre and posttest (p < 0.05). † Significant differences between the group (p < 
+0.05). 
+4. Discussion 
+Sitting for prolonged period results in posture changes such as the flatness of the 
+lumbar-lordotic curve [25] and chronic muscle deconditioning that decreases muscle ac-
+tivity [26]. This can cause muscular fatigue even at low loads, when adopting static pos-
+ture for a long period [27]. 
+Figure 2. Mean of perceived discomfort after prolonged sitting with slumped posture. * Signiﬁcant
+differences between pre and posttest (p < 0.05). † Signiﬁcant differences between the group (p < 0.05).
+4. Discussion
+Sitting for prolonged period results in posture changes such as the ﬂatness of the
+lumbar-lordotic curve [25] and chronic muscle deconditioning that decreases muscle activ-
+ity [26]. This can cause muscular fatigue even at low loads, when adopting static posture
+for a long period [27].
+
+===== PAGE 5 =====
+
+Medicina 2021, 57, 3 5 of 8
+In this study, we measured the muscular fatigue in the IO/TrA and MF muscles, when
+individuals with and without LBP used mobile devices in a slumped posture for 30 min.
+The IO/TrA and MF are representative local systems for increasing lumbar stability and
+balancing compressive forces on the upper lumbar segment of the spine [ 28]. A study
+comparing the fatigue of trunk muscles in an upright, slumped, and forward leaning
+posture for 1 h in ofﬁce workers reported IO/TrA fatigue only in the slumped sitting
+posture [5]. Another study measuring the fatigue of trunk muscles in healthy subjects when
+using a laptop with unsupported sitting and slumped posture for 40 min, showed fatigue
+of trunk muscles such as the MF, IO, erector spinae, and external obliques. This suggested
+that these muscles were continuously activated to stabilize the trunk as postural control
+muscles, while performing tasks [9]. According to a study that investigated telecommuting
+and musculoskeletal problems in the mobile worker population, poor posture aggravated
+musculoskeletal pain, due to the use of non-ergonomic equipment that cannot be controlled
+when working from home [29]. Adolescents spend a lot of time at school. In the case of
+school, there are regular breaks, but since it is an environment where adjustable desks and
+chairs cannot be used like those of home workers, low back pain and muscle fatigue might
+increase due to uncomfortable posture for a long time. In this study, after prolonged sitting
+with slumped posture, there was no signiﬁcant change in the median frequency of the IO
+in either group. In this study, the mean frequency of MF was not statistically signiﬁcant,
+but it only tended to decrease in the low back pain group. A study comparing the trunk
+muscle activity in different postures reported that the activity of trunk muscles, including
+IO [17,30] and MF [ 31], was lower in a slumped sitting posture than in an erect sitting
+posture, due to passive structure support. This resulted in the lowest risk of muscular
+fatigue [31,32]. However, the study also reported an increase in MF activity in patients with
+LBP , compared to healthy participants, which could be the muscle’s protective response to
+pain in the slumped sitting posture [33]. Most patients with LBP who participated in this
+study reported pain during trunk ﬂexion. Therefore, it is thought that a slumped sitting
+posture increased MF activity in LBP patients and affected muscle fatigue over time.
+LBP patients have decreased muscle activity variation, which means that despite pos-
+tural changes, it is difﬁcult to deactivate the lumbar muscles, thus causing local muscular
+fatigue even at low levels of isometric muscle contraction [5]. Indeed, it is difﬁcult for pa-
+tients with pain to relax their muscles after muscle activation, and rest periods are reduced
+during repetitive routine tasks [ 34]. Ringheim et al. [ 5] also found that muscle activity
+variability was decreased and pain intensity was increased in LBP patients, as compared
+to healthy participants, after sitting for 30 min with a forward leaning posture. However,
+there was no signiﬁcant difference in median frequency between both the groups.
+The local muscular fatigue of the lumbosacral region due to continuous sitting,
+which appears mainly due to a decrease in mean power or median frequency, can be
+measured by EMG [35]. The feasibility of detecting muscular fatigue when measuring for
+>30 min was demonstrated even during low-level contraction [ 36,37]. However, EMG-
+based assessments of muscular fatigue had a lower impact when the activity was <15% of
+maximal muscle capacity [38,39]. In standing or sitting postures, the trunk muscles main-
+tained levels <10% of maximum activation [40,41]. In this study, the fatigue of the trunk
+muscles might not have been elicited due to the small activity of the measured posture
+and the relatively short measurement time for generating changes in median frequency.
+The large variation between the participants might be attributed to a reduced sensitivity
+of the surface EMG in measuring deep muscular fatigue, due to the complex, layered
+structure of the trunk muscles [18,41,42].
+Additionally , this study measured the change in discomfort after slumped sitting, and
+found a significant difference between the groups. In the study conducted by Baker et al. [28],
+muscular fatigue did not change signiﬁcantly after 2 h of sitting, but the discomfort in the
+lumbar region signiﬁcantly increased due to the increase in the stress of passive tissues
+with decreasing lumbar lordosis. The slumped sitting posture was maintained against
+gravity with the spine ﬂexed in the mid to end range, and the passive tissue took the load
+
+===== PAGE 6 =====
+
+Medicina 2021, 57, 3 6 of 8
+of the upper body [43,44]. Although not measured in this study, it was expected that the
+stress of the posterior spinal passive structure was greater in the LBP group than in the
+control group, as the LBP group maintained a kyphotic posture, while performing tasks.
+This study compared the fatigue in the trunk muscles and discomfort of the lumbar
+region when individuals with and without LBP worked in a slumped sitting posture.
+The results showed no signiﬁcant difference in muscular fatigue between the groups,
+but the discomfort was signiﬁcantly higher in the LBP group. However, due to the small
+number of participants in this study, it would be difﬁcult to generalize these ﬁndings.
+Furthermore, because of the short measurement time, the effect of LBP and sitting posture
+on muscular fatigue was not signiﬁcant. It is necessary to measure muscular fatigue
+using various methods, such as motor variability and stimulation response, other than
+median frequency. Moreover, there is a need to study the changes in the spinal curvature
+of individuals, with and without LBP , when sitting for long periods.
+5. Conclusions
+Our results suggest that when sitting in a slumped position for a long time, the dis-
+comfort in the lower back increases regardless of muscle fatigue, and adolescent patients
+with LBP are more affected by these postures.
+Author Contributions: Conceptualization, K.-S.J. and T.-S.I.; writing-original draft preparation, K.-
+S.J.; writing-review and editing, T.-S.I. and H.-Y.C.; methodology, H.-Y.C.; formal analysis, T.-S.I.;
+investigation, J.-H.J.; measurement visualization, J.-H.J. All authors have read and agreed to the
+published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was conducted according to the guidelines of
+the Declaration of Helsinki, and approved by the Institutional Review Board of Gachon University
+(1044396-202007-HR-145-01, approval date: 14 August 2020). The trial was registered under trial
+registration no. KCT0005402.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study.
+Data Availability Statement: The data of this study are available from the corresponding author
+upon reasonable request.
+Acknowledgments: This work was supported by the 2020 Gimcheon University.
+Conﬂicts of Interest: The authors declare that no competing interests exist.
+References
+1. Waongenngarm, P .; Rajaratnam, B.S.; Janwantanakul, P . Perceived body discomfort and trunk muscle activity in three prolonged
+sitting postures. J. Phys. Ther. Sci. 2015, 27, 2183–2187. [CrossRef]
+2. Lis, A.; Black, K.; Korn, H.; Nordin, M. Association between sitting and occupational LBP . Eur. Spine. J. 2007, 16, 283–298.
+[CrossRef]
+3. Hamberg-van Reenen, H.H.; Ariëns, G.A.; Blatter, B.M.; Twisk, J.W.; van Mechelen, W.; Bongers, P .M. Physical capacity in relation
+to low back, neck, or shoulder pain in a working population. Occup. Environ. Med. 2006, 63, 371–377. [CrossRef]
+4. Heneweer, H.; Picavet, H.S.; Staes, F.; Kiers, H.; Vanhees, L. Physical ﬁtness, rather than self-reported physical activities, is more
+strongly associated with low back pain: Evidence from a working population. Eur. Spine. J. 2012, 21, 1265–1272. [CrossRef]
+5. Ringheim, I.; Indahl, A.; Roeleveld, K. Reduced muscle activity variability in lumbar extensor muscles during sustained sitting in
+individuals with chronic low back pain. PLoS ONE 2019, 14, e0213778. [CrossRef]
+6. Abboud, J.; Nougarou, F.; Page, I.; Cantin, V .; Massicotte, D.; Descarreaux, M. Trunk motor variability in patients with non-speciﬁc
+chronic low back pain. Eur. J. Appl. Physiol. 2014, 114, 2645–2654. [CrossRef]
+7. Falla, D.; Gizzi, L.; Tschapek, M.; Erlenwein, J.; Petzke, F. Reduced task-induced variations in the distribution of activity across
+back muscle regions in individuals with low back pain. Pain 2014, 155, 944–953. [CrossRef]
+8. Biering-Sørensen, F. Physical measurements as risk indicators for low back trouble over a one year period. Spine 1984, 9, 106–119.
+[CrossRef]
+9. Jia, B.; Nussbaum, M.A. Inﬂuences of continuous sitting and psychosocial stress on low back kinematics, kinetics, discomfort,
+and localized muscle fatigue during unsupported sitting activities. Ergonomics 2018, 61, 1671–1684. [CrossRef]
+10. Kim, M.-S. Inﬂuence of neck pain on cervical movement in the sagittal plane during smartphone use. J. Phys. Ther. Sci. 2015,
+27, 15–17. [CrossRef]
+
+===== PAGE 7 =====
+
+Medicina 2021, 57, 3 7 of 8
+11. Yassierli, Y.; Juraida, A. Effects of Netbook and Tablet Usage Postures on the Development of Fatigue, Discomfort and Pain.J. Eng.
+T echnol. Sci.2016, 48, 243–253. [CrossRef]
+12. Roffey, D.M.; Wai, E.K.; Bishop, P .; Kwon, B.K.; Dagenais, S. Causal assessment of occupational standing or walking and low back
+pain: Results of a systematic review. Spine J. 2010, 10, 262–272. [CrossRef]
+13. Hartvigsen, J.; Leboeuf, C.; Corder, E.H. Is sitting-while-at-work associated with low back pain? A systematic, critical literature
+review. Scand. J. Public Health 2000, 28, 230–239. [CrossRef]
+14. Waongenngarm, P .; Areerak, K.; Janwantanakul, P . The effects of breaks on low back pain, discomfort, and work productivity
+in ofﬁce workers: A systematic review of randomized and non-randomized controlled trials. Appl. Ergon. 2018, 68, 230–239.
+[CrossRef]
+15. Dankaerts, W.; O′sullivan, P .; Burnett, A.; Straker, L. Differences in Sitting Postures are Associated with Nonspeciﬁc Chronic Low
+Back Pain Disorders When Patients Are Subclassiﬁed. Spine 2006, 31, 698–704. [CrossRef]
+16. Gupta, N.; Christiansen, C.S.; Hallman, D.M.; Korshøj, M.; Carneiro, I.G.; Holtermann, A. Is Objectively Measured Sitting Time
+Associated with Low Back Pain? A Cross-Sectional Investigation in the NOMAD study. PLoS ONE 2015, 10, e0121159. [CrossRef]
+17. Wong, A.Y.L.; Chan, T.P .M.; Chau, A.W.M.; Tung Cheung, H.; Kwan, K.C.K.; Lam, A.K.H.; Wong, P .Y.C.; De Carvalho, D.
+Do different sitting postures affect spinal biomechanics of asymptomatic individuals? Gait. Posture 2019, 67, 230–235. [CrossRef]
+18. O’Sullivan, P .B.; Dankaerts, W.; Burnett, A.F.; Farrell, G.T.; Jefford, E.; Naylor, C.S.; O’Sullivan, K.J. Effect of different upright
+sitting postures on spinalepelvic curvature and trunk muscle activation in a pain-free population. Spine 2006, 31, 707–712.
+[CrossRef]
+19. Reeve, A.; Dilley, A. Effects of posture on the thickness of transversus abdominis in pain-free subjects.Man. Ther. 2009, 14, 679–684.
+[CrossRef]
+20. Waongenngarm, P .; Rajaratnam, B.S.; Janwantanakul, P . Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by
+Slumped Sitting Posture after 1 Hour of Sitting in Ofﬁce Workers.Saf. Health Work 2016, 7, 49–54. [CrossRef]
+21. Asundi, K.; Odell, D.; Luce, A.; Dennerlein, J.T. Notebook computer use on a desk, lap and lap support: Effects on posture,
+performance and comfort. Ergonomics 2010, 53, 74–82. [CrossRef] [PubMed]
+22. Gold, J.E.; Driban, J.B.; Yingling, V .R.; Komaroff, E. Characterization of posture and comfort in laptop users in non-desk settings.
+Appl. Ergon. 2012, 43, 392–399. [CrossRef] [PubMed]
+23. Moffet, H.; Hagberg, M.; Hansson-Risberg, E.; Karlqvist, L. Inﬂuence of laptop computer design and working position on physical
+exposure variables. Clin. Biomech. 2002, 17, 368–375. [CrossRef]
+24. Borg, G. Psychophysical scaling with applications in physical work and the perception of exertion. Scand. J. Work Environ. Health
+1990, 16, 55–58. [CrossRef]
+25. Le, P .; Marras, W.S. Evaluating the low back biomechanics of three different ofﬁce workstations: Seated, standing, and perching.
+Appl. Ergon. 2016, 56, 170–178. [CrossRef]
+26. Morl, F.; Bradl, I. Lumbar posture and muscular activity while sitting during ofﬁce work.J. Electromyogr. Kinesiol. 2013, 23, 362–368.
+[CrossRef]
+27. Baker, R.; Coenen, P .; Howie, E.; Williamson, A.; Straker, L. The Short Term Musculoskeletal and Cognitive Effects of Prolonged
+Sitting During Ofﬁce Computer Work.Int. J. Environ. Res. Public. Health 2018, 15, 1678. [CrossRef]
+28. Kavcic, N.; Grenier, S.; McGill, S.M. Determining the stabilizing role of individual torso muscles during rehabilitation exercises.
+Spine 2004, 29, 1254–1265. [CrossRef]
+29. Moretti, A.; Menna, F.; Aulicino, M.; Paoletta, M.; Liguori, S.; Iolascon, G. Characterization of Home Working Population during
+COVID-19 Emergency: A Cross-Sectional Analysis. Int. J. Environ. Res. Public Health 2020, 17, 6284. [CrossRef]
+30. O’Sullivan, P .P .; Twomey, L.; Allison, G.T.; Sinclair, J.; Miller, K.; Knox, J. Altered patterns of abdominal muscle activation in
+patients with chronic low back pain. Aust. J. Physiother. 1997, 43, 91–98. [CrossRef]
+31. Claus, A.P .; Hides, J.A.; Moseley, G.L.; Hodges, P .W. Different ways to balance the spine in sitting: Muscle activity in speciﬁc
+postures differs between individuals with and without a history of back pain in sitting. Clin. Biomech. 2018, 52, 25–32. [CrossRef]
+[PubMed]
+32. Floyd, W.F.; Silver, P .H.S. The function of the erector spinae muscle in certain movements and postures in man.J. Physiol. 1995,
+129, 184–203. [CrossRef] [PubMed]
+33. Dankaerts, W.; O’Sullivan, P .; Burnett, A.; Straker, L. Altered Patterns of Superﬁcial Trunk Muscle Activation During Sitting in
+Nonspeciﬁc Chronic Low Back Pain Patients. Spine 2006, 31, 2017–2023. [CrossRef] [PubMed]
+34. Falla, D.; Farina, D. Neuromuscular adaptation in experimental and clinical neck pain. J. Electromyogr. Kinesiol. 2008, 18, 255–261.
+[CrossRef]
+35. Coorevits, P .; Danneels, L.; Cambier, D.; Ramon, H.; Vanderstraeten, G. Assessment of the validity of the Biering-Sørensen test for
+measuring back muscle fatigue based on EMG median frequency characteristics of back and hip muscles. J. Electromyogr. Kinesiol.
+2008, 18, 997–1005. [CrossRef]
+36. Søgaard, K.; Blangsted, A.K.; Jørgensen, L.V .; Madeleine, P .; Sjøgaard, G. Evidence of long term muscle fatigue following
+prolonged intermittent contractions based on mechano- and electromyograms. J. Electromyogr. Kinesiol. 2003, 13, 441–450.
+[CrossRef]
+37. van Dieën, J.H.; Westebring-van der Putten, E.P .; Kingma, I.; de Looze, M.P . Low-level activity of the trunk extensor muscles
+causes electromyographic manifestations of fatigue in absence of decreased oxygenation. J. Electromyogr. Kinesiol. 2009, 19, 98–406.
+
+===== PAGE 8 =====
+
+Medicina 2021, 57, 3 8 of 8
+38. Öberg, T.; Sandsjo, L.; Kadefors, R.; Larsson, S.E. Electromyographic changes in work-related myalgia of the trapezius muscle.
+Eur. J. Appl. Physiol. Occup. Physiol. 1992, 65, 251–257. [CrossRef]
+39. Öberg, T.; Sandsjo, L.; Kadefors, R. Subjective and objective evaluation of shoulder muscle fatigue.Ergonomics 1994, 37, 1323–1333.
+[CrossRef]
+40. Mork, P .J.; Westgaard, R.H. Long-term electromyographic activity in upper trapezius and low back muscles of women with
+moderate physical activity. J. Appl. Physiol. 2005, 99, 570–578. [CrossRef]
+41. van Dieen, J.H.; De Looze, M.P .; Hermans, V . Effects of dynamic ofﬁce chairs on trunk kinematics, trunk extensor EMG and spinal
+shrinkage. Ergonomics 2001, 44, 739–750. [CrossRef] [PubMed]
+42. Astfalck, R.G.; O’Sullivan, P .B.; Straker, L.M.; Smith, A.J.; Burnett, A.; Caneiro, J.P .; Dankaerts, W. Sitting postures and trunk
+muscle activity in adolescents with and without nonspeciﬁc chronic low back pain: An analysis based on subclassiﬁcation. Spine
+2010, 35, 1387–1395. [CrossRef] [PubMed]
+43. Dunk, N.M.; Kedgley, A.E.; Jenkyn, T.R.; Callaghan, J.P . Evidence of a pelvis-driven ﬂexion pattern: Are the joints of the lower
+lumbar spine fully ﬂexed in seated postures? Clin. Biomech. 2009, 24, 164–168. [CrossRef] [PubMed]
+44. O’Sullivan, P .B.; Dankaerts, W.; Burnett, A.; Chen, D.; Booth, R.; Carlsen, C.; Schultz, A. Evaluation of the Flexion Relaxation
+Phenomenon of the Trunk Muscles in Sitting. Spine 2006, 31, 2009–2016. [CrossRef] [PubMed]

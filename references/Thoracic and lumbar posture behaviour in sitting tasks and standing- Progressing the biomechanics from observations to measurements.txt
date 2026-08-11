@@ -1,0 +1,809 @@
+===== PAGE 1 =====
+
+Thoracic and lumbar posture behaviour in sitting tasks and standing:
+Progressing the biomechanics from observations to measurements
+Andrew P. Claus a, *, Julie A. Hides b, G. Lorimer Moseley c, d, Paul W. Hodges a
+a The University of Queensland, Centre of Clinical Research Excellence in Spinal Pain, Injury and Health, School of Health and Rehabilitation Science s,
+Brisbane, 4072, Australia
+b Centre for Musculoskeletal Research, Mary MacKillop Institute for Health Research, Australian Catholic University, Brisbane, QLD, 4102, Austral ia
+c Sansom Institute for Health Research, University of South Australia, North Terrace, Adelaide, 5000, Australia
+d Neuroscience Research Australia, Sydney, NSW, Australia
+article info
+Article history:
+Received 4 March 201 1
+Received in revised form
+10 September 2015
+Accepted 17 September 2015
+Available online xxx
+Keywords:
+Spine
+Sitting
+Posture
+abstract
+Few studies quantify spinal posture behaviour at both the thoracolumbar and lumbar spinal regions. This
+study compared spontaneous spinal posture in 50 asymptomatic participants (21 males) during three
+conditions: 10-min computer task in sitting (participants naïve to the measure), during their perceived
+‘correct’ sitting posture, and standing. Three-dimensional optical tracking quanti ﬁed surface spinal an-
+gles at the thoracolumbar and lumbar regions, and spinal orientation with respect to the vertical. Despite
+popular belief that lordotic lumbar angles are ‘correct’ for sitting, this was rarely adopted for 10-min
+sitting. In 10-min sitting, spinal angles ﬂexed 24(7 e9)deg at lumbar and 12(6 e8)deg at thoracolumbar
+regions relative to standing ( P < 0.001). When participants ‘corrected’ their sitting posture, their thor-
+acolumbar angle /C0 2(7)deg was similar to the angle in standing /C0 1(6)deg (P ¼ 1.00). Males were ﬂexed at
+the lumbar angle relative to females for 10-min sitting, ‘correct’ sitting and standing, but showed no
+difference at the thoracolumbar region.
+© 2015 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+1. Introduction
+It is important to quantify spinal posture behaviour because
+spinal posture inﬂuences and is inﬂuenced by many biomechanical,
+motor control and performance variables. Studies that have
+compared sitting and standing, or slumped and upright sitting
+demonstrate that lumbar spinal posture in ﬂuences intervertebral
+shear ( Hedman and Fernie, 1997 ), lumbar muscle activity ( Claus
+et al., 2009; Floyd and Silver, 1955 ), coordination required to con-
+trol the spine ( Urquhart et al., 2005 ), respiratory ef ﬁciency ( Lee
+et al., 2010; Lin et al., 2006 ), pelvic-ﬂoor muscle activity ( Sapsford
+et al., 2006 ), cervical muscle activity ( Falla et al., 2007 ) and cogni-
+tive attention ( Lajoie et al., 1993 ).
+Public health advice has conveyed the message that sitting is
+worse for spine health than standing ( McGill, 2014; Pynt et al.,
+2008), and that good sitting posture should aim to achieve a
+lordotic lumbar spinal curve similar to standing ( Andersson et al.,
+1975; Castanharo et al., 2014; Pope et al., 2002 ), but for some
+people, prolonged standing provokes more pain than sitting
+(Gallagher et al., 2014). It has also been proposed that sitting should
+involve frequent postural adjustment ( McGill, 2014; Pope et al.,
+2002). The messages seem clear, and are consistent with commu-
+nity perceptions about good sitting posture ( O'Sullivan et al.,
+2013a), but are they correct? Evaluation of the literature on
+sitting posture reveals important gaps in the scienti ﬁc methodol-
+ogy that has underpinned these messages.
+Flexed lumbar postures were thought to damage the spine more
+than upright postures. Since the 1950s it was proposed that lumbar
+ﬂexion in sitting raised compressive load relative to standing, and
+thus damaged the intervertebral discs ( Castanharo et al., 2014;
+Keegan, 1953 ) However, detailed review of intradiscal pressure
+studies ( Claus et al., 2008a; Dreischarf et al., 2010 ) and measures
+with spinal internal ﬁxators ( Rohlmann et al., 2001 ) show that
+intradiscal pressure in slumped sitting is often comparable to that
+in standing. Epidemiology studies provided con ﬂicting evidence
+regarding whether sitting with a ﬂexed spine was worse for spinal
+health and back pain than standing ( Battie et al., 1995; Kelsey and
+Hardy, 1975; Sparrey et al., 2014 ). However, not all individuals sit
+* Corresponding author. School of Health and Rehabilitation Sciences, The Uni-
+versity of Queensland, St Lucia, QLD, 4072, Australia.
+E-mail addresses: a.claus1@uq.edu.au (A.P. Claus), julie.hides@acu.edu.au
+(J.A. Hides), lorimer.moseley@gmail.com (G.L. Moseley), p.hodges@uq.edu.au
+(P.W. Hodges).
+Contents lists available at ScienceDirect
+Applied Ergonomics
+journal homepage: www.elsevier.com/locate/apergo
+http://dx.doi.org/10.1016/j.apergo.2015.09.006
+0003-6870/© 2015 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+Applied Ergonomics xxx (2015) 1 e8
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 2 =====
+
+in a similar manner, and this is likely to contribute variability in the
+data. Unfortunately epidemiology studies have not quanti ﬁed spi-
+nal posture behaviour of research participants. A clinical trial with a
+cross-over design showed that intervention to improve workplace
+sitting posture could reduce the incidence of low back pain
+(Pillastrini et al., 2010 ), although spinal behaviour was not quan-
+tiﬁed. More recently, postural interventions that were informed by
+the individual patient's pain provocative positions, were observed
+to reduce discomfort relative to a control condition ( O'Sullivan
+et al., 2013b ), or disability and pain relative to a control group
+(Sheeran et al., 2013 ). These studies have not quanti ﬁed postural
+behaviour over sustained periods, although spinal position ( Nairn
+et al., 2013 ), and movement behaviour ( Dunk and Callaghan,
+2010) vary over time. If detailed and standardised measures of
+spinal posture could be applied in studies of posture behaviour, the
+potential to compare and combine data from multiple studies (i.e.
+metanalysis) would be greatly improved. Such standardisation and
+metanalysis would provide foundation for conclusive determina-
+tion of relationships between posture and spinal pain.
+Although it is easy to qualitatively observe the postures that
+people adopt during functional tasks such as using a computer,
+there are limited data available to quantify spinal posture behav-
+iour. Existing studies have methodological limitations in three main
+areas: i) instantaneous measures such as radiography, photography
+or an electromechanical device ( Celenay et al., 2015; Makhsous
+et al., 2003; Straker et al., 2007 ) provide a basis to describe
+posture, but cannot be considered a functional measurement; ii)
+participant's awareness that spinal posture is the being measured
+risks biasing their postural behaviour; iii) normalisation of posture
+data to range of motion of individual participants ( Dunk and
+Callaghan, 2005, 2010 ) is vulnerable to error associated with
+measuring the range of motion and inter-subject variability, thus
+confounding comparison of results between subjects or between
+studies.
+These three methodological limitations could be managed bet-
+ter. Functional measurement of human behaviour requires
+repeated measures over a period of time, while performing a task
+(Dempster, 1955 ). Single-blinding of participants is dif ﬁcult to
+achieve, owing to ethical requirements of informed consent, but
+keeping participants naïve to the dependent variable of posture
+would minimise the risk of biasing their behaviour. For data to be
+compared between participants and between studies, measures of
+spinal posture could be referenced to geometrical standards, rather
+than individual participant's range of motion.
+Quantitative data for posture during functional tasks would also
+provide reference values to inform spinal modelling. For example,
+studies that have modelled neuromuscular control of spinal sta-
+bility with unstable sitting surfaces represent the upper body as a
+single segment ( Reeves et al., 2009; Tanaka et al., 2010 ), but the
+spine can adopt more than one posture in upright sitting. Subtle
+changes in upright spinal posture affect regional muscle activity
+(Claus et al., 2009; O'Sullivan et al., 2006 ) and mechanical variables
+such as response to whole body vibration ( Kitazaki and Grif ﬁn,
+1998). With the addition of data regarding regional spinal curve,
+models of unstable sitting could provide new understanding of
+spinal control systems.
+The objective of this study was to identify the features of typical
+spinal posture during performance of a computer task with a
+simple ergonomic setup. Although typical spinal posture for com-
+puter tasks is commonly observed in daily life, spinal postural
+behaviour while performing a computer task has not been accu-
+rately quanti ﬁed in a manner that permits comparison between
+participants. Data from this study are intended to provide norma-
+tive data for comparison of participant behaviour with manipula-
+tion of task variables, psychological variables, or speci ﬁc cohorts.
+To progress from observations to quantitative, comparable
+measurements of thoracolumbar and lumbar posture in sitting, this
+study measured regional spinal curves and global spine orientation
+relative to vertical in three conditions: i) spontaneous sitting
+posture behaviour, while participants who were naïve to posture
+measurement completed a 10 min computer task; ii) self ‘correc-
+tion’ of their posture, as may occur while aware that posture was
+recorded with an instantaneous measure; and iii) standing.
+2. Materials and methods
+2.1. Participants
+Fifty participants (21 males) completed this repeated measures
+experiment. The mean (SD) age, height and weight were; males e
+22 (4) years, females e 21 (3) years; males e 172 (7) cm, females e
+164 (6) cm; and males 66 (12) kg, females e 55 (8) kg, respectively.
+All participants were university students or staff, who are ex-
+pected to be exposed to sitting for a large proportion of the current
+occupation, although this was not formally assessed. Participants
+were excluded if they had ever experienced thoracic or lumbar
+spinal pain that required treatment or rest from normal activities
+for more than two days, or if they reported a history of any respi-
+ratory or neurological condition. An experienced musculoskeletal
+physiotherapist undertook a physical examination to exclude
+anyone with abnormal restriction of straight leg raise, spinal
+mobility or scoliosis that would limit symmetrical performance of
+sitting postures. Written informed consent was obtained, and all
+procedures were approved by the Institutional Medical Research
+Ethics Committee.
+2.2. Measurement
+Spinal curves were quanti ﬁed with an optical tracking system
+(Vicon, USA, re ﬂector position absolute error 0.1 mm) and Nexus
+software (Vicon, USA). Data were recorded continuously at 30 Hz
+for the three posture conditions. The boundary between thoracic
+and lumbar curves was de ﬁned at T10, based on literature that
+described the anatomical transition in facet joint orientation
+(Singer et al., 1994 ) and radiographs of normal standing posture
+(Roussouly et al., 2005 ). A sagittal angle representing the surface
+spinal curve at the thoracolumbar region was measured between
+segments connecting T5-T10 and T10-L3, and the lumbar curve was
+measured between T10-L3 and L3-S2 ( Claus et al., 2008b )( Fig. 1).
+Positive angles (deg) describe kyphotic surface spinal curves, zero
+degrees describes a ﬂat surface position, and negative angles
+describe lordotic surface spinal curves. Global orientation of the
+spine was measured by the sagittal distance (mm) between the
+marker at T1 relative to the marker at S2. Anterior sagittal position
+of T1 relative to S2 was described as a positive T1-S2 alignment.
+Fig. 1 illustrates postures associated with different combinations
+of spinal curves. These can be described as short lordosis (negative
+lumbar angle and ﬂat at the thoracolumbar angle), ﬂat (close to zero
+deg at both regions), slump (kyphotic at both regions) or long
+lordosis (negative thoracolumbar and lumbar angles).
+2.3. Procedure
+Participants wore loose shorts. Their skin was exposed to the
+level of S3. Males had their upper body exposed. Females wore a bra
+and a radiography gown to expose re ﬂective markers at the spine.
+To determine skin positions for re ﬂective markers, participants lay
+prone with pillows under their abdomen, so that the skin surface
+was ﬂat from the mid-thorax to sacrum. Manual palpation was used
+to identify spinous processes, and washable ink was used to mark
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e82
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 3 =====
+
+the skin overlying spinous processes. A ﬂat seat with 8 mm closed
+cell foam covering for comfort, was adjusted to the participant's
+popliteal height. Desk height was adjusted to just below elbow
+height. Screen height was adjusted so that the top of the 20 00 screen
+was just below the participant's eye level (Fig. 1). This study focuses
+on sitting posture behaviour without backrest support, as the
+objective was to quantify spinal curvature without that additional
+variable (consistent with previous research concerned with com-
+puter tasks by Curran et al., 2014; Dunk and Callaghan, 2005 ).
+Reﬂective markers were adhered to the skin while the partici-
+pant sat on the chair. To increase likelihood that participants were
+naïve to the dependent variable of spinal posture, additional
+markers were adhered at the head, neck, forearms, hands, and
+thighs, and participants were advised that the objective of the
+study was ‘to measure body movement while using the computer
+for 10 min ’ (playing Solitaire); that ‘their goal was to complete as
+many hands of solitaire as they could in 10 min; to inform the
+researcher when they completed a hand; and that they could po-
+sition the chair and sit however they pleased ’. The researcher was
+at another computer in front of the participant, and appeared to go
+about unrelated tasks. In the few instances where a participant
+appeared to lean heavily on their arm or to one side, they were
+asked to ‘avoid bearing weight on their arms’ and ‘generally face the
+screen’.
+After the 10-min spontaneous sitting condition, the true pur-
+pose of the study was revealed and participants were asked to
+demonstrate what they considered to be ‘correct’ spinal posture in
+sitting (synonyms of ‘good’ or ‘ideal posture for their back ’ were
+used to clarify the task). ‘Correct’ spinal posture was recorded for
+3 s, then participants were asked to stand in their typical posture
+(symmetrical relaxed standing with feet shoulder width apart and
+no other instructions about spinal posture), and data were recorded
+for 3 s. At the end of data collection for the 10-min sitting task,
+participants were asked if they had been aware that the objective
+was measurement of spinal posture. Six participants said that they
+were aware, and the remaining 44 participants reported that they
+were naïve to the focus of the study and sat spontaneously.
+2.4. Theory/calculation
+The posture of each participant during the 10 min sitting task
+was represented as a mean value from continuous recording, based
+on previous ﬁndings that asymptomatic participants completed a
+computer task in sitting and commonly maintained the same
+sagittal spinal curves within <5 deg variation over a mean (SD) of
+12.4 (4.6) min ( Dunk and Callaghan, 2010 ). Mean posture over 3 s
+recording was chosen for the ‘correct’ and standing posture con-
+ditions to accommodate the small amount of motion associated
+with one respiratory cycle.
+Data were analysed with Matlab 6 (The Mathworks, USA), using
+anatomical and global reference points to quantify spinal posture.
+The anatomical reference point was a cluster of re ﬂective markers
+at the sacrum, to deﬁne lines within the sagittal and coronal planes.
+The global reference point was spirit-level calibration of the optical
+tracking device to de
+ﬁne vertical (z), and thus deﬁne the sagittal (x-
+z) and coronal (y-z) planes. Thoracolumbar and lumbar spinal an-
+gles in sagittal and coronal planes were calculated to indicate
+regional spinal curves (anatomical measure of posture). Addition-
+ally, sagittal plane alignment of T1 with respect to S2 was calculated
+as an indicator of how far the participant leant forwards or rear-
+wards with respect to the line of gravity (sagittal alignment: global
+measure of posture). A small degree of error for sagittal and coronal
+angles could occur if participants axially rotated the spine relative
+to the sacrum, however, this cannot be accurately quanti ﬁed with
+markers that indicated a single point in the volume. To minimise
+this error, participants were asked to ‘generally face the screen ’.
+Where participant's clothing (shorts or radiography gown)
+obscured one or more re ﬂective markers, incomplete data for some
+trials were accommodated with linear mixed model analyses (SPSS
+version 15, Illinois, USA) of data from the 10-min sit (n ¼ 50),
+‘correct’ sit (n ¼ 46) and standing (n ¼ 39) posture conditions.
+Participant's mean spinal angles and sagittal alignment (T1-S2)
+were used in the statistical analysis. Spinal measures were
+compared between posture conditions and between genders.
+When differences were signiﬁcant (alpha ¼ 0.05), further pair-wise
+comparisons were undertaken with Bonferroni correction for
+multiple comparisons.
+3. Results and discussion
+3.1. Sagittal spinal angles and movement
+Comparison between posture conditions for thoracolumbar and
+lumbar angles are shown in Table 1 , and individual participant
+30
+BA snoitpircsed erutsoPpu-tes tnapicitraP
+L3
+S2
+T10
+T5
+T1
+ Short 
+lordosis
+Flat
+-10
+0
+10
+20columbar angle (deg)
+Slump
+-40 -30 -20 -10 0 10 20 30
+Lumbar angle (deg)
+Long
+lordosis
+-30
+-20Thorac
+Fig. 1. Participant set-up and representation of spinal curves in the three posture conditions. A: Positions of re ﬂective markers used to calculate a thoracolumbar angle (T5-T10 and
+T10-L3), lumbar angle (T10-L3 and L3-S2) and sagittal alignment of T1 with respect to S2. Participant set-up for chair, keyboard and screen are also sh own. B: Spinal postures
+associated with combinations of thoracolumbar and lumbar angles are represented in three quadrants of the plot.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e8 3
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 4 =====
+
+mean values are shown in Fig. 2A. Although 6/50 participants were
+non-naïve to spinal posture measurement in the 10-min sitting
+condition, thoracolumbar angles of 4/6, and lumbar angles for 5 of
+the 6 non-naïve participants were within one standard deviation of
+the cohort mean, so it was decided to include their data in the
+overall analysis.
+The lumbar angle differed between the three posture conditions
+(P < 0.001). Contrary to popular beliefs about good sitting posture
+(Andersson et al., 1975; Lord et al., 1997; Makhsous et al., 2003;
+Pope et al., 2002 ), in practice, asymptomatic participants
+completing a 10-min computer task sat with their lumbar spine in
+ﬂexion relative to their posture in standing [24 (7 e9) deg differ-
+ence]. The mean lumbar angle was ﬂat to kyphotic in 10-min
+sitting, ﬂat to lordotic in ‘correct’ sitting, and lordotic in standing.
+The mean thoracolumbar angle was also kyphotic in the 10 min
+sitting condition, and close to ﬂat (0 deg) in both the ‘correct’ sitting
+and standing conditions ( P ¼ 1.000).
+To describe the three posture conditions by combinations of
+thoracolumbar and lumbar angles, 10-min sitting was commonly a
+slump posture, but a small number of participants sat in the ﬂat,
+short lordosis or long lordosis postures as de ﬁned in Fig. 1. Mea-
+surement of lumbar curve in the workplace (n ¼ 13, 2 h ofﬁce work)
+has also shown that ﬂat to slump lumbar curves were most common
+(M€orl and Bradl, 2013 ). The fact that pain-free participant's
+commonly used a slump sitting posture does not prove that this is a
+healthy behaviour, but it does give reason to question simple in-
+terpretations of posture as good or bad [e.g. popular hypotheses
+that lumbar ﬂexion in sitting causes back pain or may be unhealthy
+for the spine ( Pope et al., 2002 )] without consideration for other
+issues such as exposure (e.g. ﬂexion may be problematic if sus-
+tained) or in combination with other features (e.g. restricted
+motion).
+In ‘correct’ sitting, posture results ranged from ﬂat to short
+lordosis to long lordosis . Standing posture ranged from the short
+lordosis to the long lordosis postures. The participant's self ‘correc-
+tion’ of their sitting posture from the 10 min condition to ‘correct’
+sitting, reduced kyphosis/increased lordosis at both the thor-
+acolumbar and the lumbar spinal regions by ~10 deg. This ‘correct’
+posture replicated the thoracolumbar angle in standing, but ach-
+ieved less than ½ of the difference in lumbar angle between 10 min
+sitting and standing. It is dif ﬁcult to determine whether one posi-
+tion would have advantages over another. Further study would be
+needed to determine whether variables such as pain-free endur-
+ance in sitting would be greater in their spontaneous posture or
+their self ‘corrected’ posture. A major contribution of this study is to
+provide a foundation for future studies with surface measures to
+include the thoracolumbar angle and T1-S2 displacement in their
+thorough description of spinal postural.
+Although the current study cannot not inform clinical decisions
+about posture, previously reported clinical interventions that
+sought to ‘correct’ standing or sitting posture have lead to changes
+in position and pain. Clinical posture training can in ﬂuence lumbar
+angle in standing ( Scannell and McGill, 2003 ), exercises for the hip
+and spine may reduce incidence of back pain with prolonged
+standing ( Nelson-Wong and Callaghan, 2010 ), and ergonomic in-
+terventions for workplace sitting posture can reduce incidence of
+occupational low back pain (Pillastrini et al., 2010). More research is
+needed to understand the mechanisms of effect for clinical in-
+terventions for posture and pain. Understanding the biological,
+psychological and social components of posture interventions
+could make it possible to identify whether an individual's behav-
+iour was associated with increased risk of pain, as well as selection
+and dose of interventions to help reduce any such risk.
+Another popular theory is that good sitting habits involve
+frequent postural adjustments ( McGill, 2002; Pope et al., 2002 ).
+Individual participant's movement during the 10-min sitting task is
+reﬂected in the variability in posture (SD error bars in Fig. 2, panel
+C). Mean SD of lumbar movement during the 10-min sitting was:
+2.1 (1.9) deg, and individual participant's lumbar movement ranged
+from SD: 0.2e9.2 deg. That is, some participants showed little or no
+postural adjustments over 10 min for the task of playing Solitaire on
+a computer. This appears consistent with a study of spinal motion
+(rather than position) with accelerometer recording from asymp-
+tomatic participants as they performed computer tasks for 90 min,
+and reported relatively ‘static’ sitting posture behaviour ( Dunk and
+Callaghan, 2010 ). These quantitative data demonstrating limited
+movement in healthy, asymptomatic cohorts show that more
+research is needed to inform public health advice about movement
+and spinal pain.
+The results also reveal substantial variability between posture
+conditions and between individual participants. There was no clear
+relationship between mean spinal angles and the amount of
+movement during 10-min sitting. The difference between individ-
+ual participant's posture data over a short period of time (initial 3 s)
+and over the 10-min sitting, ranged from 0.1 to 9.0 deg (Fig. 2
+, panel
+D). As a reference position, studies of spinal postural control
+commonly describe spontaneous participant posture as ‘neutral’
+(Gatton and Pearcy, 1999; Kumar et al., 1995 ). Variation in partici-
+pant postures shown in this study, and associated variation in
+regional muscle activity ( Claus et al., 2009 ) could be confounding
+variables for studies of spinal control. Future studies of spinal
+postural control may bene ﬁt from quantiﬁcation or even control of
+participant's global alignment and regional spinal curves. For future
+studies, the utility of these current data is to provide reference
+Table 1
+Mean sagittal spinal angles (SD) for spinal regions, T1-S2 alignment, genders a, and angle variation during 10-min sitting.
+Sagittal angle (deg) & T1-S2 alignment (mm) 10 min sit ‘Correct’ sit Stand
+Thoracolumbar angle b 10.73 (8.20)* /C0 2.06 (7.40) * /C0 1.25 (6.08) *
+Lumbar angle b 3.86 (8.74)* /C0 7.67 (8.76) * /C0 20.91 (6.57) *
+T1-S2 alignment b 113 (31) mm * 54 (24) mm * 29 (18) mm *
+Sagittal angles by gender
+Male thoracolumbar angle 12.01 (5.92) /C0 0.22 (6.88) /C0 1.25 (5.83)
+Female thoracolumbar angle 9.76 (9.51) /C0 3.47 (7.59) /C0 1.26 (6.45)
+Male lumbar angle 8.80 (6.60) /C0 2.74 (8.20) /C0 17.28 (4.92)
+Female lumbar angle 0.28 (8.42) /C0 11.47 (7.25) /C0 24.37 (6.13)
+Mean 10 min variation (SD) in sagittal angle
+Thoracolumbar angle variation
+^ 1.87 (1.44)
+Lumbar angle variation ^ 2.06 (1.88)
+a Gender by spinal region statistical comparisons are described in the text.
+b Comparisons between posture conditions for thoracolumbar angle, lumbar angle, and T1-S2 alignment are shown. Within each row * e P < 0.001 for that value compared
+to other values in the same row.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e84
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 5 =====
+
+measures for applications such as spinal modelling of sitting and
+standing posture conditions, and comparator data for studies of
+participant behaviour that manipulate variables such as task, psy-
+chological condition or cohort characteristics.
+There is evidence that clinical intervention for workplace sitting
+posture can reduce the incidence of low back pain ( Pillastrini et al.,
+2010), but postural behaviour of the participants was not quantiﬁed
+in that study. An advantage of the measurement methods used in
+the current study was referencing surface spinal curves to a ﬂat
+surface position (0 deg), rather than a percentage of range of mo-
+tion, or ‘neutral zone ’ (Dunk and Callaghan, 2005, 2010; Scannell
+and McGill, 2003 ), and measurement of global orientation rela-
+tive to gravity. These measures make it possible to compare mid-
+range spinal posture data between subjects and between studies.
+New research tools that are able to record orientation and/or curve
+geometry with clothes on, in workplace environments, will extend
+the capacity for clinical trials to explore the relationships between
+sitting postures and back pain ( Cloud et al., 2014; Kent et al., 2015;
+Pries et al., 2015; Ribeiro et al., 2014 ). Results from the 10 min
+sitting, ‘correct’ sitting and standing conditions provide comparator
+data for studies with similar measures, to examine the in ﬂuence of
+workstation variables (e.g. chair design, backrest support,
+computer task and duration), participant cohorts (e.g. spinal pa-
+thology, muscular pathology, age and history of low back pain), and
+clinical interventions (advice or training of speci ﬁc posture be-
+haviours) to inﬂuence postural behaviour, effort, discomfort or pain
+at the spine.
+3.2. Gender differences
+There was no difference between genders in the thoracolumbar
+angle ( P ¼ 0.229), but at the lumbar angle, males were ﬂexed
+relative to females ( P < 0.001) during all tasks ( Table 1). Individual
+participant results are grouped according to gender in Fig. 2 B. For
+the three posture conditions the male participants were ﬂexed at
+the lumbar angle by 7.5 e9( 6 e10) deg relative to females. That is,
+mean lumbar angle for male participants was slightly more
+kyphotic in sitting and less lordotic in standing than for female
+participants. The gender difference in standing appears comparable
+with data from the largest radiographic study of standing (n ¼ 300,
+190 males) that reported male lumbar angles 4.8 (1 1) deg less
+lordotic than females, and similar thoracic angles between genders
+(Vialle et al., 2005). Although the gender difference was observed in
+the current study, it was equivalent to ~1/3 of the difference
+Fig. 2. Results. A: Individual participant mean sagittal spinal angles for three posture conditions (includes males and females). Large symbols: mean for e ach task. Shaded area: 1 SD.
+B: Individual subject mean sagittal spinal angles for males and females (includes three posture conditions). Large symbols: gender means. Shaded ar ea: 1 SD. C: Individual
+participant variation in spinal angles during 10-min sitting with error bars ± 1 SD about mean sagittal thoracolumbar and lumbar angles. D: Comparison of mean spinal angles
+collected in the initial 3 s and over 10 min in sitting.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e8 5
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 6 =====
+
+between the lumbar postures adopted in the 10-min sitting and
+standing conditions.
+3.3. Sagittal alignment and coronal angles
+Results of T1-S2 sagittal alignment are shown in Table 1. The
+greatest forward lean was in the 10-min computer task, less lean
+occurred in ‘correct’ sitting, and the least in standing ( P < 0.001 for
+each comparison).
+Sitting and standing tasks in this study were close to sym-
+metrical in the coronal plane. To demonstrate this, results for
+coronal plane spinal angles are shown in Table 2 . Left-right data
+show the bias associated with using the computer mouse on the
+right ( <0.5 deg deviation to the right for the thoracolumbar
+angle, <1.5 deg for the lumbar angle). Absolute coronal deviation
+data show lateral ﬂexion in the posture tasks, irrespective of
+direction ( <3 deg). Minimal bias to the right side, and minimal
+lateral ﬂexion during the computer task indicate that it is
+appropriate for the results and discussion to focus on variation in
+the sagittal plane.
+3.4. Limitations and further research
+Although most participants reported naïvety to the postural
+measures for the 10 min sitting task, the laboratory environment,
+motion tracking and attentional demand of playing “Solitaire” may
+have had some in ﬂuence on postural behaviour. As with previous
+studies of sitting posture ( Dankaerts et al., 2006; Dunk and
+Callaghan, 2005 ), the simple ergonomic setup did not include a
+backrest or armrests. The task only required right hand use of a
+computer mouse (trunk lateral ﬂexion averaged < 3 deg). Postures
+may differ when sitting with backrest, using an arm rest, or other
+tasks with the hands. Despite these limitations, differences be-
+tween the 10 min and ‘correct’ sitting conditions indicate that
+participants were not ‘correcting’ their postural behaviour during
+the 10 min task.
+Optical tracking had limited ability to record markers at the
+front of the pelvis while participants completed a computer task.
+Hence all measures were made from markers on the posterior of
+the spine (PSIS and S2). Although reporting surface angles at two
+spinal regions and T1-S2 deviation detailed postural behaviour, it is
+recognised that pelvic tilt ( Harrison et al., 2002; Straker et al.,
+2009), sacral angle ( Astfalck et al., 2010; Kuntz et al., 2007;
+Roussouly et al., 2005 ) and hip angle have also been common
+measures of posture that are known to co-vary with the lumbar
+spinal angle ( Berthonnaud et al., 2005 ).
+Surface measures of posture have some limitations. Despite
+strong correlations with radiographic measures of sagittal lumbar
+motion ( Gracovetsky et al., 1990 ), and global orientation of the
+spine ( Engsberg et al., 2008 ), actual measurement error is un-
+known. Variation in marker application, subcutaneous tissue, skin
+movement, and spinous process geometry might all contribute
+unknown amounts to measurement error. The number of markers
+used to represent position and movement of spinal segment has
+varied greatly in previous research. Photographic measures used
+three markers to indicate a lumbar angle spanning approximately
+six motion segments from T12 to the greater trochanter ( Straker
+et al., 2009 ). Electromagnetic tracking has been used to indicate
+surface angle at a single sensor ( Astfalck et al., 2010; Dankaerts
+et al., 2006 ). For the current study a conservative approach was
+used, with pairs of markers to represent the lines between 4 to 6
+motion segments, to derive angles representing spinal regions.
+Further research is required to de ﬁne the relationships between
+surface and radiographic measures of spinal posture, to inform
+surface measurement methods.
+The 10 min sitting posture condition advances understanding
+of behaviour relative to instantaneous measures, but further
+study is needed to de ﬁne behaviour over longer periods of time,
+during different task conditions and in different age groups.
+Although the 3 s recordings in ‘correct’ sitting and in standing
+account for movement with respiration, recording of several
+repetitions may have provided slightly different outcomes. Many
+biological, psychological and social variables may combine to
+inﬂuence postural behaviour in dynamic and static tasks ( Marras
+et al., 2000; O'Sullivan et al., 2011; Zie ﬂe, 2003 ). Brief measures
+of posture in sitting indicate that people with low back pain may
+bias to more lordotic or more kyphotic postures relative to pain-
+free control subjects ( Dankaerts et al., 2006 ). Prolonged mea-
+sures in sitting show larger amplitude and frequency of ‘shifts’ in
+posture for people with low back pain relative to pain-free
+people ( Dunk and Callaghan, 2010 ). To understand the cause
+and effect relationships between postural behaviour, psycholog-
+ical and spinal pain variables, prospective longitudinal studies, to
+measure behaviour, psychological status and symptoms through
+adolescence and adulthood would be ideal.
+4. Conclusions
+This is the ﬁrst study to measure sagittal deviation, thor-
+acolumbar and lumbar spinal angles, to compare postural condi-
+tions in sitting and standing. Although sitting with a lordotic
+lumbar spinal curve similar to standing has commonly been
+advocated, the spontaneous sitting posture of 50 healthy partici-
+pants during a 10 min computer task was ﬂat to slumped at the
+lumbar spine. When participants sought to ‘correct’ their posture,
+the thoracolumbar angle replicated that in standing, but the
+lumbar angle was mid-way between the 10 min sitting and
+standing angles. Males and females had similar thoracolumbar
+spinal curves, but at the lumbar region females were less kyphotic
+or more lordotic than males for all three posture conditions.
+Gender differences were ~1/3 the magnitude of posture differ-
+ences between 10 min sitting and standing conditions. These data
+provide reference measures for spinal modelling, and comparator
+data for future studies that manipulate task and participant
+variables.
+Acknowledgements
+Hodges and Moseley were supported by Fellowships from the
+National Health and Medical Research Council of Australia
+(1002190, 1061279).
+References
+Andersson, B.J., Ortengren, R., Nachemson, A.L., Elfstrom, G., Broman, H., 1975. The
+sitting posture: an electromyographic and discometric study. Orthop. Clin. N.
+Am. 6, 105 e120.
+Astfalck, R.G., O'Sullivan, P.B., Straker, L.M., Smith, A.J., Burnett, A., Caneiro, J.P.,
+Dankaerts, W., 2010. Sitting postures and trunk muscle activity in adolescents
+Table 2
+Coronal angle data in the three posture conditions.
+Coronal angle (deg) 10 min sit ‘Correct’ sit Stand
+Thoracolumbar left to right a 0.03 (2.92) /C0 0.01 (2.33) /C0 0.29 (2.86)
+Lumbar left to right a /C0 0.82 (2.69) /C0 1.39 (2.65) /C0 1.13 (3.06)
+Thoracolumbar absolute b 2.31 (1.75) 1.86 (1.38) 2.14 (1.90)
+Lumbar absolute b 2.15 (1.79) 2.43 (1.71) 2.58 (1.96)
+a <0: Left lateral ﬂexion, >0: Right lateral ﬂexion.
+b >0: total Left or Right lateral ﬂexion.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e86
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 7 =====
+
+with and without nonspeci ﬁc chronic low back pain: an analysis based on
+subclassiﬁcation. Spine 35, 1387 e1395.
+Battie, M.C., Videman, T., Gibbons, L.E., Fisher, L.D., Manninen, H., Gill, K., 1995.
+Determinants of lumbar disc degeneration. A study relating lifetime exposures
+and magnetic resonance imaging ﬁndings in identical twins. Spine 20,
+2601e2612.
+Berthonnaud, E., Dimnet, J., Roussouly, P., Labelle, H., 2005. Analysis of the sagittal
+balance of the spine and pelvis using shape and orientation parameters.
+J. Spinal Disord. Tech. 18, 40 e47.
+Castanharo, R., Duarte, M., McGill, S., 2014. Corrective sitting strategies: an exam-
+ination of muscle activity and spine loading. J. Electromyogr. Kinesiol. 24,
+114e119.
+Celenay, S.T., Kaya, D.O., Ozudogru, A., 2015. Spinal postural training: comparison of
+the postural and mobility effects of electrotherapy, exercise, biofeedback trainer
+in addition to postural education in university students. J. Back Musculoskelet.
+Rehabil. 28, 135 e144.
+Claus, A., Hides, J., Moseley, G.L., Hodges, P., 2008a. Sitting versus standing: does the
+intradiscal pressure cause disc degeneration or low back pain? J. Electromyogr.
+Kinesiol. 18, 550 e558.
+Claus, A.P., Hides, J.A., Moseley, G.L., Hodges, P.W., 2008b. Is ‘ideal’ sitting posture
+real?: measurement of spinal curves in four sitting postures. Man. Ther. 14,
+404e408.
+Claus, A.P., Hides, J.A., Moseley, G.L., Hodges, P.W., 2009. Different ways to balance
+the spine: subtle changes in sagittal spinal curves affect regional muscle ac-
+tivity. Spine 34, E208 eE214.
+Cloud, B.A., Zhao, K.D., Breighner, R., Giambini, H., An, K.N., 2014. Agreement be-
+tween ﬁber optic and optoelectronic systems for quantifying sagittal plane
+spinal curvature in sitting. Gait Posture 40, 369 e374.
+Curran, M., Dankaerts, W., O'Sullivan, P., O'Sullivan, L., O'Sullivan, K., 2014. The effect
+of a backrest and seatpan inclination on sitting discomfort and trunk muscle
+activation in subjects with extension-related low back pain. Ergonomics 57,
+733e743.
+Dankaerts, W., O'Sullivan, P., Burnett, A., Straker, L., 2006. Differences in sitting
+postures are associated with nonspeci ﬁc chronic low back pain disorders when
+patients are subclassi ﬁed. Spine 31, 698 e704.
+Dempster, W.T., 1955. The anthropometry of body action. Ann. N. Y. Acad. Sci. 63,
+559e585.
+Dreischarf, M., Bergmann, G., Wilke, H.-J., Rohlmann, A., 2010. Different arm posi-
+tions and the shape of the thoracic spine can explain contradictory results in
+the literature about spinal loads for sitting and standing. Spine 35, 2015 e2021.
+Dunk, N.M., Callaghan, J.P., 2005. Gender-based differences in postural responses to
+seated exposures. Clin. Biomech. 20, 1 101 e1110.
+Dunk, N.M., Callaghan, J.P., 2010. Lumbar spine movement patterns during pro-
+longed sitting differentiate low back pain developers from matched asymp-
+tomatic controls. Work 35, 3
+e14.
+Engsberg, J.R., Lenke, L.G., Bridwell, K.H., Uhrich, M.L., Trout, C.M., 2008. Relation-
+ships between spinal landmarks and skin surface markers. J. Appl. Biomech. 24,
+94e97.
+Falla, D., O'Leary, S., Fagan, A., Jull, G., 2007. Recruitment of the deep cervical ﬂexor
+muscles during a postural-correction exercise performed in sitting. Man. Ther.
+12, 139e143.
+Floyd, W.F., Silver, P.H.S., 1955. The function of the erector spinae muscle in certain
+movements and postures in man. J. Physiol. 129, 184 e203.
+Gallagher, K.M., Campbell, T., Callaghan, J.P., 2014. The inﬂuence of a seated break on
+prolonged standing induced low back pain development. Ergonomics 57,
+555e562.
+Gatton, M.L., Pearcy, M.J., 1999. Kinematics and movement sequencing during
+ﬂexion of the lumbar spine. Clin. Biomech. 14, 376 e383.
+Gracovetsky, S., Kary, M., Levy, S., Ben Said, R., Pitchen, I., Helie, J., 1990. Analysis of
+spinal and muscular activity during ﬂexion/extension and free lifts. Spine 15,
+1333e1339.
+Harrison, D.E., Cailliet, R., Harrison, D.D., Janik, T.J., 2002. How do anterior/posterior
+translations of the thoracic cage affect the sagittal lumbar spine, pelvic tilt, and
+thoracic kyphosis? Eur. Spine J. 1 1, 287 e293.
+Hedman, T.P., Fernie, G.R., 1997. Mechanical response of the lumbar spine to seated
+postural loads. Spine 22, 734 e743.
+Keegan, J.J., 1953. Alterations of the lumbar curve related to posture and seating.
+J. Bone Jt. Surg. Am. 35-A, 589 e603.
+Kelsey, J.L., Hardy, R.J., 1975. Driving of motor vehicles as a risk factor for acute
+herniated lumbar intervertebral disc. Am. J. Epidemiol. 102, 63 e73.
+Kent, P., Laird, R., Haines, T., 2015. The effect of changing movement and posture
+using motion-sensor biofeedback, versus guidelines-based care, on the clinical
+outcomes of people with sub-acute or chronic low back pain-a multicentre,
+cluster-randomised, placebo-controlled, pilot trial. BMC Musculoskelet. Disord.
+16, 131.
+Kitazaki, S., Grif ﬁn, M.J., 1998. Resonance behaviour of the seated human body and
+effects of posture. J. Biomech. 31, 143 e149.
+Kumar, S., Dufresne, R.M., Van Schoor, T., 1995. Human trunk strength pro ﬁle in
+lateral ﬂexion and axial rotation. Spine 20, 169 e177.
+Kuntz, C.t., Levin, L.S., Ondra, S.L., Shaffrey, C.I., Morgan, C.J., 2007. Neutral upright
+sagittal spinal alignment from the occiput to the pelvis in asymptomatic adults:
+a review and resynthesis of the literature. J. Neurosurg. Spine 6, 104 e112.
+Lajoie, Y., Teasdale, N., Bard, C., Fleury, M., 1993. Attentional demands for static and
+dynamic equilibrium. Exp. Brain Res. 97, 139 e144.
+Lee, L.J., Chang, A.T., Coppieters, M.W., Hodges, P.W., 2010. Changes in sitting
+posture induce multiplanar changes in chest wall shape and motion with
+breathing. Respir. Physiol. Neurobiol. 170, 236 e
+245.
+Lin, F., Parthasarathy, S., Taylor, S.J., Pucci, D., Hendrix, R.W., Makhsous, M., 2006.
+Effect of different sitting postures on lung capacity, expiratory ﬂow, and lumbar
+lordosis. Arch. Phys. Med. Rehabil. 87, 504 e509.
+Lord, M.J., Small, J.M., Dinsay, J.M., Watkins, R.G., 1997. Lumbar lordosis. Effects of
+sitting and standing. Spine 22, 2571 e2574.
+Makhsous, M., Lin, F., Hendrix, R.W., Hepler, M., Zhang, L.Q., 2003. Sitting with
+adjustable ischial and back supports: biomechanical changes. Spine 28,
+1113e1 121 discussion 1 121e1112.
+Marras, W.S., Davis, K.G., Heaney, C.A., Maronitis, A.B., Allread, W.G., 2000. The
+inﬂuence of psychosocial stress, gender, and personality on mechanical loading
+of the lumbar spine. Spine 25, 3045 e3054.
+McGill, S.M., 2002. Low Back Disorders: Evidence Based Prevention and Rehabili-
+tation. Human Kinetics Publishers, Champaign, IL, U.S.A .
+McGill, S.M., 2014. Ultimate Back Fitness and Performance, ﬁfth ed. Back ﬁtpro Inc,
+Waterloo, Canada.
+M€orl, F., Bradl, I., 2013. Lumbar posture and muscular activity while sitting during
+ofﬁce work. J. Electromyogr. Kinesiol. 23, 362 e368.
+Nairn, B.C., Azar, N.R., Drake, J.D., 2013. Transient pain developers show increased
+abdominal muscle activity during prolonged sitting. J. Electromyogr. Kinesiol.
+23, 1421e1427.
+Nelson-Wong, E., Callaghan, J.P., 2010. Changes in muscle activation patterns and
+subjective low back pain ratings during prolonged standing in response to an
+exercise intervention. J. Electromyogr. Kinesiol. 20, 1 125 e113 3.
+O'Sullivan, K., O'Keeffe, M., O'Sullivan, L., O'Sullivan, P., Dankaerts, W., 2013a. Per-
+ceptions of sitting posture among members of the community, both with and
+without non-speci ﬁc chronic low back pain. Man. Ther. 18 (6), 551 e556.
+O'Sullivan, K., O'Sullivan, L., O'Sullivan, P., Dankaerts, W., 2013b. Investigating the
+effect of real-time spinal postural biofeedback on seated discomfort in people
+with non-speci ﬁc chronic low back pain. Ergonomics 56 (8), 1315 e1325.
+O'Sullivan, P.B., Dankaerts, W., Burnett, A.F., Farrell, G.T., Jefford, E., Naylor, C.S.,
+O'Sullivan, K.J., 2006. Effect of different upright sitting postures on spinal-pelvic
+curvature and trunk muscle activation in a pain-free population. Spine 31,
+E707eE712.
+O'Sullivan, P.B., Smith, A.J., Beales, D.J., Straker, L.M., 201 1. Association of bio-
+psychosocial factors with degree of slump in sitting posture and self-report of
+back pain in adolescents: a cross-sectional study. Phys. Ther. 91, 470 e483.
+Pillastrini, P., Mugnai, R., Bertozzi, L., Costi, S., Curti, S., Guccione, A., Mattioli, S.,
+Violante, F.S., 2010. Effectiveness of an ergonomic intervention on work-related
+posture and low back pain in video display terminal operators: a 3 year cross-
+over trial. Appl. Ergon. 41, 436 e443.
+Pope, M.H., Goh, K.L., Magnusson, M.L., 2002. Spine ergonomics. Annu. Rev. Biomed.
+Eng. 4, 49 e68
+.
+Pries, E., Dreischarf, M., Bashkuev, M., Schmidt, H., 2015. Application of a novel
+spinal posture and motion measurement system in active and static sitting.
+Ergonomics 58, 1605 e1610.
+Pynt, J., Mackey, M.G., Higgs, J., 2008. Kyphosed seated postures: extending con-
+cepts of postural health beyond the of ﬁce. J. Occup. Rehabil. 18, 35 e45.
+Reeves, N.P., Cholewicki, J., Narendra, K.S., 2009. Effects of re ﬂex delays on postural
+control during unstable seated balance. J. Biomech. 42, 164 e170.
+Ribeiro, D.C., Sole, G., Abbott, J.H., Milosavljevic, S., 2014. The effectiveness of a
+lumbopelvic monitor and feedback device to change postural behavior: a
+feasibility randomized controlled trial. J. Orthop. Sports Phys. Ther. 44, 702 e711.
+Rohlmann, A., Arntz, U., Graichen, F., Bergmann, G., 2001. Loads on an internal
+spinal ﬁxation device during sitting. J. Biomech. 34, 989 e993.
+Roussouly, P., Gollogly, S., Berthonnaud, E., Dimnet, J., 2005. Classi ﬁcation of the
+normal variation in the sagittal alignment of the human lumbar spine and
+pelvis in the standing position. Spine 30, 346 e353.
+Sapsford, R.R., Richardson, C.A., Stanton, W.R., 2006. Sitting posture affects pelvic
+ﬂoor muscle activity in parous women: an observational study. Aust. J. Physi-
+other. 52, 219 e222.
+Scannell, J.P., McGill, S.M., 2003. Lumbar posture: should it and can it be modi ﬁed?
+A study of passive tissue stiffness and lumbar position during activities of daily
+living. Phys. Ther. 83, 907 e917.
+Sheeran, L., van Deursen, R., Caterson, B., Sparkes, V., 2013. Classi ﬁcation-guided
+versus generalized postural intervention in subgroups of nonspeci ﬁc chronic
+low back pain: a pragmatic randomized controlled study. Spine 38, 1613 e1625.
+Singer, K.P., Edmondston, S.J., Day, R.E., Breidahl, W.H., 1994. Computer-assisted
+curvature assessment and Cobb angle determination of the thoracic kyphosis.
+An in vivo and in vitro comparison. Spine 19, 1381 e1384.
+Sparrey, C.J., Bailey, J.F., Safaee, M., Clark, A.J., Lafage, V., Schwab, F., Smith, J.S.,
+Ames, C.P., 2014. Etiology of lumbar lordosis and its pathophysiology: a review
+of the evolution of lumbar lordosis, and the mechanics and biology of lumbar
+degeneration. Neurosurg. Focus 36, E1 .
+Straker, L.M., O'Sullivan, P.B., Smith, A., Perry, M., 2007. Computer use and habitual
+spinal posture in Australian adolescents. Public Health Rep. 122, 634 e643.
+Straker, L.M., O'Sullivan, P.B., Smith, A.J., Perry, M.C., 2009. Relationships between
+prolonged neck/shoulder pain and sitting spinal posture in male and female
+adolescents. Man. Ther. 14, 321 e329.
+Tanaka, M.L., Ross, S.D., Nussbaum, M.A., 2010. Mathematical modeling and simu-
+lation of seated stability. J. Biomech. 43, 906 e912.
+Urquhart, D.M., Hodges, P.W., Story, I.H., 2005. Postural activity of the abdominal
+muscles varies between regions of these muscles and between body positions.
+Gait Posture 22, 295 e301.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e8 7
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006
+
+===== PAGE 8 =====
+
+Vialle, R., Levassor, N., Rillardon, L., Templier, A., Skalli, W., Guigui, P., 2005.
+Radiographic analysis of the sagittal alignment and balance of the spine in
+asymptomatic subjects. J. Bone Jt. Surg. Am. 87, 260 e267.
+Zieﬂe, M., 2003. Sitting posture, postural discomfort, and visual performance: a
+critical view on the interdependence of cognitive and anthropometric factors in
+the VDU workplace. Int. J. Occup. Saf. Ergon. 9, 503 e514.
+A.P. Claus et al. / Applied Ergonomics xxx (2015) 1 e88
+Please cite this article in press as: Claus, A.P., et al., Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the
+biomechanics from observations to measurements, Applied Ergonomics (2015), http://dx.doi.org/10.1016/j.apergo.2015.09.006

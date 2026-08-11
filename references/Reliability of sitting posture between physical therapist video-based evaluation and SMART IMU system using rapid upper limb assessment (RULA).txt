@@ -1,0 +1,536 @@
+===== PAGE 1 =====
+
+Reliability of sitting posture 
+between physical therapist video-
+based evaluation and SMART IMU 
+system using rapid upper limb 
+assessment (RULA)
+Ratikanlaya Tanthuwapathom1,5, Udomporn Manupibul2,5, Wimonrat Jarumethitanont1,3, 
+Weerawat Limroongreungrat4, Songpol Ongwattanakul1 & Warakorn Charoensuk1
+This study investigates the ergonomic assessment of sitting postures and the potential for work-
+related musculoskeletal disorders (WMSDs) in office environments by comparing traditional physical 
+therapist evaluations with Inertial Measurement Unit (IMU) technology by determining the reliability 
+and accuracy of sitting posture assessment using the rapid upper limb assessment (RULA) method. 
+In this experiment, neck and body angle data is collected from twenty participants while sitting 
+and working. The study aims to capture and compare the neck and trunk posture score based RULA 
+protocol system to evaluate ergonomic risks. The findings revealed a strong correlation between the 
+video-based evaluations by the physical therapist and the data obtained from the SMART IMU system, 
+demonstrating the feasibility of using these combined approaches for ergonomic assessments. The 
+results highlight the effectiveness of integrating traditional ergonomic assessment tools with modern 
+IMU technology in comprehensively analyzing the ergonomic risks associated with prolonged sitting.
+Keywords Work-related musculoskeletal disorders, Inertial measurement unit, Sitting posture, Rapid upper 
+limb assessment
+Currently, the increasing trend of using computers and smartphones affects health issues related to prolonged 
+sitting in an office, particularly work-related musculoskeletal disorders (WMSDs). According to the world health 
+organization (WHO), WMSDs refer to abnormal function of the musculoskeletal system associated with the 
+work environment1. This includes issues arising from the body’s organs involving movement, such as muscles, 
+tendons, spinal bones, vertebral discs, blood vessels, bone tissue, and nerves. Musculoskeletal discomfort starts 
+with a few atypical symptoms and might become persistent, causing impairment 2. Due to repetitive muscular 
+use, long periods of sitting (especially in an office or when using a computer) can cause pain. Sitting when 
+working on a computer without changing posture may cause discomfort and fatigue in the arms, hands, and 
+fingertips due to the peripheral nerves in each position being enforced3–5.
+Prolonged sitting, especially in contexts such as office work or computer use, can lead to discomfort and pain 
+due to sustained muscle contractions and poor posture. Two upper-body muscles significantly impacted during 
+sitting are the upper trapezius and sternocleidomastoid. The upper trapezius, which extends from the neck to the 
+shoulders and upper back, stabilizes the shoulder blades and supports the neck’s weight. When the head is held 
+forward during prolonged sitting, this muscle remains contracted to maintain head position, causing fatigue and 
+discomfort. Similarly, the sternocleidomastoids, which run along both sides of the neck from the sternum and 
+collar bone to the mastoid bone behind the ear, assist in neck rotation and bending. Poor posture while sitting, 
+particularly with the head and shoulders hunched forward, can over activate these muscles, leading to tightness 
+and neck pain. Piotr Kocur et al. found that forward head posture alone has little impact on muscle stiffness, 
+1Department of Biomedical Engineering, Faculty of Engineering, Mahidol University, Phuttamonthon, Nakhon 
+Pathom 73170, Thailand. 2Sirindhorn School of Prosthetics and Orthotics, Faculty of Medicine Siriraj Hospital, 
+Mahidol University, Bangkok 10700, Thailand. 3Faculty of Physical Therapy, Mahidol University, Phuttamonthon, 
+Nakhon Pathom 73170, Thailand. 4College of Sports Science and Technology, Mahidol University, Phuttamonthon, 
+Nakhon Pathom 73170, Thailand. 5Ratikanlaya Tanthuwapathom and Udomporn Manupibul contributed equally to 
+this work. email: warakorn.cha@mahidol.ac.th
+OPEN
+Scientific Reports |         (2025) 15:1441 1| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports
+
+===== PAGE 2 =====
+
+tone, elasticity, or pressure sensitivity in healthy individuals. However, factors like cervical pain, musculoskeletal 
+disorders, or prolonged sitting may play a role. Tightness in the upper trapezius and sternocleidomastoid muscles 
+indicates sustained contraction and discomfort6.
+Numerous studies have assessed the link between prolonged sitting and musculoskeletal pain. For example, 
+a study published in the Journal of Occupational Medicine and Toxicology, Dang, T.H.A et al. explored the 
+relationship between sedentary behaviors and musculoskeletal pain among German workers7. Using the Nordic 
+Musculoskeletal Questionnaire, researchers identified a correlation between sitting duration and complaints 
+of neck, shoulder, and back pain, highlighting the significant impact of prolonged sitting on workplace health. 
+Another study published in the Journal of Physical Therapy Science, Putsa, B. et al. emphasized that sitting 
+for more than 60  min without breaks is particularly detrimental, increasing discomfort and stiffness in the 
+musculoskeletal system 8. In general, sitting continuously for periods exceeding 30 to 60  min is considered 
+detrimental to musculoskeletal health. Regular breaks, stretching, and adopting ergonomic postures are essential 
+strategies to mitigate the risks associated with prolonged sitting.
+Via the HSE’s Historical Picture statistics in Great Britain in 2023, a survey of 1.8 million working people found 
+that 26% had WMSDs 9. Depending on working position, there are many methods for evaluating ergonomics. 
+These evaluation methods are specifically designed to identify and understand musculoskeletal problems arising 
+in the workplace. These methods include the rapid upper limp assessment (RULA), rapid entire body assessment 
+(REBA), or other assessments based on work posture10–12.
+There are many researchers focus on evaluating the poor sitting posture by using many assessment tools 
+including RULA and wearable sensors. Lynn McAtamney and Nigel Corlett created RULA in 1993 to assess 
+ergonomic posture by observing upper body movements. The assessment is divided into two main groups: 
+First, group A evaluates the upper extremities: lower arm and wrist. Second, group B is neck, trunk, and leg 
+assessments13–16 with scores based on specified angles. This assessment can be used to evaluate ergonomics at 
+work stations, such as workers’ posture in factories or other workplaces. It is particularly helpful in determining 
+the level of risk or danger associated with the activity that these workers do. Namwongsa S et al. examines 
+the ergonomic risk assessment of a sample of people in their typical posture while using a smartphone using 
+the RULA tool to assess the relationship between musculoskeletal disorders. It was found that the relationship 
+between musculoskeletal disorders and ergonomic risks is statistically significant. The limitation is that 
+experience-based evaluations were conducted only by licensed physical therapists 17. Jang et al. study aimed to 
+classify poor posture of the head and shoulders using wearable magnetic sensors and a deep learning algorithm. 
+The craniovertebral angle (CV A) was used to analyze forward head posture and shoulder angle (FSA) was used 
+to analyze rounded shoulder posture. From the experimental results, the accuracy for deep neural networks 
+(DNN) and convolutional neural networks (CNN) was found to be 88.1 and 88.7% 18. Jose Antonio Diego-Mas 
+et al., using the Kinect sensor in observational methods for assessing postures at work, explore the potential of 
+the Kinect range sensor in the ergonomic assessment of workplace postures. The development of a computerized 
+Ovako Working Posture Analysis System (OW AS) was used to gather and process Kinect data. The results were 
+compared to results obtained via human observer assessments. The study found that the result of classification 
+is high accuracy. The limitations of the Kinect are its natural operating environment and that not being directly 
+facing the sensor will reduce accuracy19. Y assary et al. conducted a study on the evaluation of head posture using 
+an IMU. The study validated IMU with an inclinometer. A strong correlation was found ( r = 0.99; p < 0.001) 
+with cervical range of motion (CROM), which can be a reliable way to analyze head posture. The study also 
+assessed head posture variation in healthy subjects and found that the IMU system accurately analyzed head 
+posture. The device was cheap, easy to use, and could be used in various environments 20. Xuzhong Y an et al. 
+presented a wearable inertial measurement unit (WIMU) system for real-time motion warnings to prevent 
+musculoskeletal disorders (WMSDs) in construction workers. It emphasizes the risk of lower back and neck pain 
+due to unsafe postures in construction tasks. The system uses two IMUs to assess ergonomic risk in real-time 
+and alerts the wearer via a connected smartphone app when the sensors detect dangerous postures. The study 
+validates the system’s effectiveness through lab and field experiments, demonstrating its potential to enhance 
+self-awareness and self-management of WMSDs among workers21. Ahmed Humadi et al. examined the accuracy 
+and repeatability of wearable IMUs to assess ergonomic risk through RULA in manual material handling tasks. 
+This research compared 3D and 2D angle measurements against a motion-capture camera system. The results 
+showed that the 2D method had lower error margins and was more consistent in estimating trunk and neck 
+angles, thus being more reliable for RULA scoring. The limitations of this research are that it used a small sample 
+size and only males. The experiment was conducted for a short period in each posture22.
+Many researchers focus on the isolated operation method such as traditional ergonomic assessment tools 
+like physical therapist evaluation-based RULA or innovative technologies such as IMU. A gap exists for research 
+that integrates these tools to provide a more comprehensive assessment of ergonomic risks. Confirming the 
+effectiveness of integrating traditional ergonomic assessment tools like video-based physical therapy with IMU 
+for a more comprehensive ergonomic risk assessment involves conducting studies that apply both physical 
+therapist evaluation and IMU technologies concurrently in settings and activities.
+The contribution of this research is to investigate the reliability of the video-based physical therapist evaluation 
+and SMART IMU system23 using the RULA assessment protocol. The aim involves capturing both the detailed 
+posture analysis and comparing subjective assessments of ergonomic risk factors associated with upper extremity 
+MSD obtained by physical therapist with objective measurements of neck, shoulder, and trunk joint angles and 
+upper body movements captured by SMART IMU during task performance by using intraclass correlation 
+coefficient. The hypothesis is that the results of both methods would correlate in identifying ergonomic risks.
+Scientific Reports |         (2025) 15:1441 2| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 3 =====
+
+Materials and methods
+The material part of this study is composed of participants, the SMART IMU device, RULA assessment, and 
+webcam cameras. The method is composed of the experimental design and data analysis.
+Participants
+The study involves 20 healthy participants, consisting of 10 men and 10 women. Equation  ( 1) was used to 
+calculate the sample size, which indicated that a minimum of 10 participants would be necessary. However, the 
+actual response rate exceeded expectations. As a result, 20 participants were included in the study, as a larger 
+sample size is expected to enhance the statistical power of the analysis. These individuals are office professionals 
+and Mahidol University students who use a desktop or laptop for at least six hours a day, four days a week. The 
+participants must possess at least six months of computer experience. However, people with a history of neck, 
+shoulder, or back injuries in the preceding six months, and those with medical conditions that affect the spine, 
+muscles, bones, and joints in the upper back, such as spinal degeneration, scoliosis, and herniated discs, are 
+excluded from the study. Table 1 displays the demographic data of twenty participants.
+ N = [( Zα + Zβ )/C]2 +3  (1)
+ α =0 .05,β =0 .2, C =0 .5× ln
+( 1+ r
+1 − r
+)
+Expected correlation coefficient (r) = 0.8.
+All participants are requested to sign a consent form according to the human ethics approval of Mahidol 
+University (COA No. MU-CIRB 2021/148.2206). The informed consent was obtained to publish the informations 
+and images in the online access publication.
+Equipment
+The equipment in this research consists of a device for measuring angles, a sitting posture assessment, and 
+webcam cameras for recording the experiment.
+SMART IMU
+The SMART IMU system was developed by the SMART Laboratory (Biomedical Engineering, Mahidol 
+University, Thailand)23. The IMU sensor comprises an accelerometer, gyroscope, and magnetometer integrated 
+with a processing circuit to calculate angular data along the X, Y , and Z axes. Raw data from the SMART IMU 
+sensors are filtered using a low-pass filter and a Kalman filter. The low-pass filter eliminates high-frequency 
+noise, while the Kalman filter smooths the data to ensure accurate orientation measurements. The angles for the 
+X and Y axes are derived from the filtered acceleration data, while the Z-axis angle is calculated using magnetic 
+field data. Equations (2), (3), and (4) illustrate the calculations for the X, Y , and Z angles, respectively.
+ 
+Angle X = arctan−G x
+G z
+ (2)
+ 
+Angle Y = arctan G y√
+G 2x + G 2z
+ (3)
+ 
+Angle Z = arctan−Y h
+X h
++ declinatiom (4)
+Where Gx, Gy, and Gz are g units of acceleration data in X, Y , and Z axis. Xh and Yh are the earth magnetics field 
+in X and Y axis. The declination angle in any location can be found at http://www.magnetic-declination.com/.
+In this study, three SMART IMU sensors were used to measure neck and trunk angles. The sensors were 
+positioned on the upper body at the following locations: the right temporal area of the head, the seventh cervical 
+vertebra (C7), and the fifth lumbar vertebra (L5), as shown in (Fig. 1). Each sensor recorded the absolute angular 
+data for its respective segment. The neck angle was calculated as the relative angle between the head and C7, 
+while the trunk angle was calculated as the relative angle between C7 and L5. Equations (5) and (6) outline these 
+calculations. The system records the processed neck and trunk angle data at the sampling rate of 30 Hz.
+ θ N eck = θ C 7 − θ Head (5)
+Demographic dimension Range Mean Standard deviation
+Age (years) 20–42 29.76 6.29
+Height (cm) 151–180 166.95 8.40
+Weight (kg) 42-99.6 68.56 16.04
+BMI (kg/m2) 16.6–31.7 24.40 4.44
+Table 1. The demographic data of twenty participants.
+ 
+Scientific Reports |         (2025) 15:1441 3| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 4 =====
+
+θ T runk = θ L5 − θ C 7 (6)
+RULA assessment
+RULA is a survey method for evaluating the risk of musculoskeletal disorders (MSDs) and is used to observe 
+the risk factors for upper limb abnormalities in workers. RULA uses a numerical scoring system to rate the body 
+posture related to angle deviation. Neck and trunk parts of RULA are used to evaluate neck and trunk risk scores 
+of sitting posture. The risk assessment from the score is used to interpret the risk level of WMSDs (Table 2). This 
+Fig. 1. Three sensor locations on upper body (head, C7, and L5).
+ 
+Scientific Reports |         (2025) 15:1441 4| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 5 =====
+
+experiment focuses on neck and trunk posture (Figs. 2 and 3). The scoring for neck and trunk posture is based 
+on the criteria outlined in (Tables 3 and 4)13,24.
+Webcams
+Two webcams (Logitech C270 with 720p resolution and 30 frames per second) are set to record the movement 
+of subjects on the frontal and sagittal sides.
+Experimental design
+The experiment are performed in the SMART laboratory (Mahidol University, Thailand). The neck and trunk 
+joint angles are collected by the SMART IMU system with a sampling rate of 30 Hz. The video of the participants 
+captured via the two webcams was evaluated by a physical therapist at a later stage.
+Each participant is asked to score their neck, shoulder, and back pain from 0 to 10 before and after the 
+experiment. During the experiment, a participant sits in the neutral position in front of the computer. Three 
+IMU sensors are placed on the subject at the right temporal area of the head, the seventh cervical spine, and 
+the fifth lumbar spine positions (Fig.  4). The SMART IMU system is calibrated and reset to eliminate any zero 
+drift. In the neutral sitting position, each joint angle is set to zero degrees. Two webcams are set to record the 
+Fig. 3. The score for trunk angle in the RULA assessment.
+ 
+Fig. 2. The score for neck angle in the RULA assessment.
+ 
+Score Level of WMSDs risk
+1–2 Negligible risk, no action required
+3–4 Low risk, change may be needed
+5–6 Medium risk, further investigation, change soon
+6+ Very high risk
+Table 2. Interpretation of the level of MSD risk scores.
+ 
+Scientific Reports |         (2025) 15:1441 5| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 6 =====
+
+sitting posture on the frontal and sagittal sides of subject. The SMART IMU system and webcam cameras record 
+simultaneously. The environment is designed to be similar to work in an office.
+The experiment is separated into two sessions:
+ 1.  Sitting in a neutral posture and typing a document on a desktop computer for 30 min and then taking a break 
+for 10 min.
+ 2.  Sitting in a neutral posture and typing answers to a list of questions on the computer for 30 min.
+The video recordings are used to evaluate the RULA score of neck and trunk parts by physical therapists. The 
+neck and trunk angles from the SMART IMU system are converted to a RULA score following the RULA 
+assessment. The scores based on RULA assessments from both the physical therapist and SMART IMU system 
+are compared. To ensure that the ergonomic risk assessment accurately reflects real-world posture dynamics, 
+the frequency and duration of different postures adopted during typing are considered. This comprehensive 
+assessment allowed us to identify potential risks associated with the dynamic nature of typing, providing a more 
+realistic evaluation of ergonomic risks.
+Data analysis
+RULA assessment is the tool used for interpreting the data from video recordings and the SMART IMU system. 
+This study utilized a 60  min data collection period to evaluate ergonomic postures. Before beginning the 
+experiment, participants were instructed to sit still for one minute to establish a baseline measurement. Data 
+analysis was conducted at 10-minute intervals, with samples taken at 0, 10, 20, 30, 40, 50, and 60 min. The focus 
+was on key postures, including neck twisting, neck flexion, neck extension, neck side bending, trunk forward 
+bending, trunk twisting, and trunk side bending, in accordance with the RULA assessment criteria. Movement 
+data captured from video recordings, assessed by expert physical therapist, were compared with scores derived 
+from IMU data to evaluate reliability and consistency between the two methods.
+Video recording analysis
+In the video recording interpretation, the physical therapist was asked to review the video recording and ascertain 
+the score of the joint angle deviation from sitting posture following the RULA assessment. RULA scores of the 
+neck angle and trunk angle are based on the flexion, extension, twisting, and side bending angles. Neck flexion 
+is the motion of the chin toward the chest from a neutral position. Neck extension is the movement of the chin 
+backward and away from the chest. Neck twisting is the small rotation of the neck that occurs between adjacent 
+vertebrae. Neck side bending or lateral flexion is the movement of the neck to the lateral side. Trunk flexion is the 
+movement of forward forward-bending of the spine which opposit direction to trunk extension. Trunk twisting 
+movement is the rotation of the spine from the center of the body. Trunk side bending is the movement to the 
+left and right of the trunk.
+SMART IMU system analysis
+The neck angle is obtained from SMART IMU devices at the temporal area of the head and the seventh cervical 
+spine. The trunk angle is calculated from the seventh cervical spine and the fifth lumbar spine positions.
+Trunk posture Score
+Trunk upright in
+Also if trunk is well supported while seated 1
+Trunk forward leaning in 0 2
+Trunk forward leaning in 21 3
+Trunk forward more than 4
+If trunk is twisted +1
+If trunk is side bending +1
+Table 4. Trunk posture scoring.
+ 
+Neck posture Score
+If neck flex in 0–10 degrees 1
+If neck flex in 11–20 degrees 2
+If neck flex more than 20 degree 3
+If neck is an extension 4
+If neck is twisted +1
+If neck is side bending +1
+Table 3. Neck posture scoring.
+ 
+Scientific Reports |         (2025) 15:1441 6| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 7 =====
+
+Evaluation of the neck score
+If the head is straight or slightly bent forward (the head’s angle is not more than 10 degrees from the vertical or 
+the neck’s axis), the score will be 1 point. If the head is flexed forward to the vertical between 10 and 20 degrees, 
+the score will be 2 points. If the head is flexed forward greater than 20 degrees to the vertical, the score will be 3 
+points. If the head is extended, the score will be 4 points. If the neck is twisting or bending, the score is increased 
+1 point.
+Evaluation of the trunk score
+If the trunk extends 0–10 degrees, the score will be 1 point. If the trunk flexes 0–20 degrees, the score will be 
+2 points. If the trunk moves forward between 20 and 60 degrees, the score will be 3 points. If the trunk moves 
+forward greater than 60 degrees, the score will be 4 points. If the trunk is twisting or bending, the score is added 
+one point.
+Fig. 4. SMART IMU sensors attachment positions.
+ 
+Scientific Reports |         (2025) 15:1441 7| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 8 =====
+
+Results
+The reliability of the equipment was analyzed by comparing the score results from the physical therapist and the 
+SMART IMU system. SPSS software is used to calculate the correlation coefficient. Table 5 shows the intra-class 
+correlation coefficients of neck and trunk angle scores. The results from the SMART IMU system and physical 
+therapist show strong correlations.
+Discussion
+The primary objective of this study is to compare the reliability of ergonomic assessments conducted using 
+the SMART IMU system against those performed by video-based physical therapist using the RULA method. 
+The results from Table  5 indicate that IMU technology demonstrates a high degree of reliability, close to the 
+consistency achieved through traditional physical therapist assessments. The high reliability of SMART IMU-
+based assessments, as evidenced by the Intraclass Correlation Coefficient (ICC). The neck score compared 
+between the two systems had an ICC 0.89–0.92 which is interpreted as a very strong correlation25–31. The trunk 
+score evaluation had an ICC 0.84–0.89, also indicating a strong correlation. Our findings highlight not only the 
+potential for enhanced ergonomic assessment but also the challenges and considerations that accompany the 
+integration of these tools.
+The WMSD risk assessment study indicated that RULA is the most popular sitting posture examination11,15,32–37. 
+The assessment model contains specific angles for scoring to analyze the risk of work postures generating 
+WMSDs. It can evaluate the appropriateness of posture while working which makes it applicable to many types 
+of work. Video-based RULA ’s weakness is that it still requires ergonomic experts. The evaluation score depends 
+on their expertise, which may still be unreliable. The study of Namwongsa S et al.17 also mentions the need for a 
+physical therapist’s experience to use RULA for ergonomic evaluation.
+The novelty of this study lies in its integration of traditional ergonomic assessment tools (video-based 
+physical therapist evaluation) with modern IMU technology. While both approaches have individual benefits, 
+their combination provides a more comprehensive and objective assessment of ergonomic risks, addressing the 
+limitations of each method when used in isolation, particularly the reliance on physical therapists’ expertise in 
+using RULA. This integration allows for a more detailed analysis of sitting posture and upper body movements, 
+potentially leading to more effective interventions for preventing WMSDs.
+The SMART IMU system was developed for motion analysis, and it was applied to evaluate sitting positions 
+when working on a computer in this research. A factor that affects the accuracy of SMART IMU devices in 
+measuring angles is the error that may occur during the calibration process. While doing the calibration, the 
+subject is requested to stay still in the neutral sitting position. The error may occur if the subject is moving. 
+Some researchers such as Wonil Lee et al. also found limitations to using IMU sensors which were related to 
+the size and placement of the sensors. They investigate the effectiveness of wearable sensors for analyzing trunk 
+posture in construction workers. It compares single-parameter monitoring wearable sensors (SPMWS) and 
+multi-parameter monitoring wearable sensors (MPMWS) placed at different body locations during simulated 
+construction tasks. The study found that sensor placement significantly affects the accuracy of trunk posture 
+analysis, with chest and back placements providing the most reliable data. The research suggests that wearable 
+sensors can offer valuable insights into ergonomic risk in construction, but the choice of sensor type and 
+placement is crucial for accurate posture analysis. The limitation of this study is the controlled laboratory setting, 
+which may only partially replicate natural environment construction activities38.
+This study highlights the potential of the SMART IMU system for ergonomic assessment, demonstrating 
+its high reliability compared to traditional video-based RULA evaluations. However, several limitations should 
+be considered. First, the study was conducted in a controlled laboratory environment, using only a single desk 
+type. While this setup ensured consistent measurements, it does not reflect the variability of real-world office 
+settings, where factors such as inconsistent desk height, inappropriate chair dimensions, and individual physical 
+characteristics can significantly influence sitting posture and muscle group usage. Additionally, the experiment’s 
+observation period was limited to just one hour, which may be insufficient to capture long-term changes in 
+posture or the onset of fatigue, especially in healthy individuals who may adopt different postures over extended 
+periods.
+Another limitation is the controlled nature of the study, which excluded many dynamic and uncontrollable 
+factors present in real-world office settings, such as environmental distractions or spontaneous movements. 
+Reliability ICC 95% CI
+Locate neck position 0.89 0.87–0.91
+Neck twisted position 0.91 0.89–0.93
+Neck side bending position 0.92 0.90–0.94
+Neck Score 0.91 0.89–0.93
+Locate trunk position 0.84 0.85–0.90
+Trunk twisted position 0.89 0.87–0.91
+Trunk side bending position 0.84 0.85–0.90
+Trunk score 0.84 0.85–0.90
+Table 5. The intra-class correlation coefficients of neck and trunk angle score. ICC is intra-class correlation 
+coefficient.
+ 
+Scientific Reports |         (2025) 15:1441 8| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 9 =====
+
+Moreover, the analysis focused solely on angular measurements and posture evaluation without incorporating 
+complementary tools such as electromyography (EMG) or 3D motion capture. This restricts the ability to assess 
+muscle fatigue, tension, and pain caused by poor sitting postures, such as rounded shoulders or forward head 
+positions, which could enhance the understanding of ergonomic risks.
+Pose estimation algorithms like OpenPose and MediaPipe present significant potential for estimating 
+body angles from video recordings, offering several advantages. These methods are non-invasive, as they do 
+not require attaching sensors to the body, which enhances comfort and allows for natural movement during 
+assessment39. Additionally, they are often more cost-effective and provide visual representations of body posture, 
+aiding in the understanding of movement patterns and the identification of ergonomic risks. Incorporating 
+a comparison between pose estimation and IMU-based methods within future studies could enhance the 
+relevance of the research, providing valuable insights into the strengths and limitations of each approach. Factors 
+such as accuracy, cost, invasiveness, and data visualization capabilities should be considered, contributing to 
+a comprehensive understanding of ergonomic assessment tools and their optimal application across different 
+settings.
+Building on this, future research should address current limitations and explore the integration of IMU 
+technology with other advanced analysis tools. Studies conducted in real-world office environments with diverse 
+furniture setups and extended observation periods would provide more practical insights. Combining IMU-
+based assessments with electromyography (EMG) could further enhance the evaluation of muscle fatigue and 
+identify postures that lead to discomfort or pain. Additionally, integrating 3D motion capture technology could 
+offer detailed analyses of body movements and their ergonomic implications. These advancements, alongside 
+comparisons with pose estimation methods, could guide the redesign of work environments and industrial 
+facilities, ultimately improving quality of life and reducing the prevalence of musculoskeletal disorders (MSDs) 
+through more effective risk identification and intervention strategies.
+Conclusion
+This research contributes to the validation of the subjective method (video-based physical therapist) with the 
+objective method (SMART IMU system) based on the RULA assessment protocol. The results show there are no 
+significant differences between evaluations from physical therapist and the SMART IMU system. The integration 
+of both the subjective method and objective method can enhance the effectiveness of the evaluation which may 
+contribute to the prevention of work-related musculoskeletal disorders. In future studies, IMU system-based 
+RULA assessment can be applied with other analysis tools such as electromyograpgy (EMG) and 3D motion 
+capture to advance the practice of ergonomic risk assessment. The research can be applied to redesign working 
+environments and industries including office settings and working facilities for better quality of life. The research 
+lays the groundwork for future innovations in ergonomic assessment, with the ultimate goal of reducing the 
+prevalence of MSDs in the workplace through more effective risk identification and intervention strategies.
+Data availability
+The data that support this study are available from the corresponding author upon reasonable request.
+Received: 20 May 2024; Accepted: 1 January 2025
+References
+ 1. Luttmann, A. et al.   Protecting workers’ health series ; no. 5  (World Health Organization, Geneva, 2003).
+ 2. Da Costa, B. R. & Vieira, E. R. Risk factors for work-related musculoskeletal disorders: a systematic review of recent longitudinal 
+studies. Am. J. Ind. Med. 53, 285–323 (2010).
+ 3. Ortiz-Hernández, L., Tamez-González, S. & Martı ́nez-Alcántara, S. Méndez-Ramı ́rez, I. Computer use increases the risk of 
+musculoskeletal disorders among newspaper office workers. Arch. Med. Res. 34, 331–342 (2003).
+ 4. Chowdhury, N., Aghazadeh, F . & Amini, M. Ergonomic assessment of working postures for the design of university computer 
+workstations. Occup. Ergon. 13, 37–46 (2017).
+ 5. Basakci Calik, B., Y agci, N., Oztop, M. & Caglar, D. Effects of risk factors related to computer use on musculoskeletal pain in office 
+workers. Int. J. Occup. Saf. Ergonom.  28, 269–274 (2022).
+ 6. Kocur, P ., Wilski, M., Goliwąs, M., Lewandowski, J. & Łochyński, D. Influence of forward head posture on myotonometric 
+measurements of superficial neck muscle tone, elasticity, and stiffness in asymptomatic individuals with sedentary jobs. J. Manipul. 
+Physiol. Ther. 42, 195–202. https://doi.org/10.1016/j.jmpt.2019.02.005 (2019).
+ 7. Dang, T. H. A. et al. Impact of sitting at work on musculoskeletal complaints of German workers - results from the study on mental 
+health at work (S-MGA). J. Occup. Med. Toxicol. 19, 9. https://doi.org/10.1186/s12995-024-00408-7 (2024).
+ 8. Putsa, B., Jalayondeja, W ., Mekhora, K., Bhuanantanondh, P . & Jalayondeja, C. Factors associated with reduced risk of 
+musculoskeletal disorders among office workers: a cross-sectional study 2017 to 2020. BMC Public. Health  22, 1503.  h t t p s : / / d o i . o 
+r g / 1 0 . 1 1 8 6 / s 1 2 8 8 9 - 0 2 2 - 1 3 9 4 0 - 0     (2022).
+ 9. Executive, H. S. Work-related ill health and occupational disease in Great Britain.  https://www.hse.gov.uk/statistics/causdis/  (2023).
+ 10. Kim, I. J. An ergonomic focus evaluation of work-related musculoskeletal disorders amongst operators in the UAE network control 
+centres. Heliyon 9, e21140. https://doi.org/10.1016/j.heliyon.2023.e21140 (2023).
+ 11. Suarjana, I. W . G., Pomalingo, M. F . & Fathimah, F . Evaluation of work posture using rapid upper limb assessment (RULA) 
+methods: a case study. Int. J. Occup. Environ. Saf. 7, 55–61 (2023).
+ 12. Kwon, Y . J. et al. A work-related musculoskeletal disorders (WMSDs) risk-assessment system using a single-view pose estimation 
+model. Int. J. Environ. Res. Public Health  19, 9803. https://doi.org/10.3390/ijerph19169803 (2022).
+ 13. McAtamney, L. & Nigel Corlett, E. RULA: a survey method for the investigation of work-related upper limb disorders. Appl. Ergon. 
+24, 91–99. https://doi.org/10.1016/0003-6870(93)90080-S (1993).
+ 14. McAtamney, L. & Corlett, N. In Handbook of Human Factors and Ergonomics Methods 86–96 (CRC, 2004).
+ 15. Dockrell, S. et al. An investigation of the reliability of rapid upper limb assessment (RULA) as a method of assessment of children’s 
+computing posture. Appl. Ergon. 43 (3), 632–636 (2012).
+Scientific Reports |         (2025) 15:1441 9| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 10 =====
+
+16. Rahman, C. Study and analysis of work postures of workers working in a ceramic industry through rapid upper limb assessment 
+(RULA). Int. J. Eng. Appl. Sci.  2305–8269 (5), 14–20 (2014).
+ 17. Namwongsa, S., Puntumetakul, R., Neubert, M., Chaiklieng, S. & Boucaut, R. Ergonomic risk assessment of smartphone users 
+using the rapid upper limb assessment (RULA) tool. PLoS One   13, e0203394. https://doi.org/10.1371/journal.pone.0203394 
+(2018).
+ 18. Jang, H. K., Han, H. & Y oon, S. W . Comprehensive monitoring of bad head and shoulder postures by wearable magnetic sensors 
+and deep learning. IEEE Sens. J. 20, 13768–13775. https://doi.org/10.1109/JSEN.2020.3004562 (2020).
+ 19. Diego-Mas, J. A. & Alcaide-Marzal, J. Using Kinect™ sensor in observational methods for assessing postures at work. Appl. Ergon. 
+45, 976–985. https://doi.org/10.1016/j.apergo.2013.12.001 (2014).
+ 20. Al-Y assary, M., Billiaert, K., Antonarakis, G. & Kiliaridis, S. Evaluation of head posture using an inertial measurement unit. Sci. 
+Rep. 11 https://doi.org/10.1038/s41598-021-99459-7 (2021).
+ 21. Y an, X., Li, H., Li, A. R. & Zhang, H. Wearable IMU-based real-time motion warning system for construction workers’ 
+musculoskeletal disorders prevention. Autom. Constr. 74, 2–11. https://doi.org/10.1016/j.autcon.2016.11.007 (2017).
+ 22. Humadi, A., Nazarahari, M., Ahmad, R. & Rouhani, H. Instrumented ergonomic risk assessment using wearable inertial 
+measurement units: impact of joint angle convention. IEEE Access 9, 7293–7305. https://doi.org/10.1109/ACCESS.2020.3048645 
+(2021).
+ 23. Manupibul, U. et al. Integration of force and IMU sensors for developing low-cost portable gait measurement system in lower 
+extremities. Sci. Rep. 13, 10653. https://doi.org/10.1038/s41598-023-37761-2 (2023).
+ 24. Lueder, R. & Corlett, N. A proposed RULA for computer users. InProceedings of the ergonomics summer workshop 1996 Aug 8 
+(pp. 8–9). UC Berkley Center for Occupational and Environmental Health Continuing Education Program San Francisco.
+ 25. Tavakol, M. & Dennick, R. Making sense of cronbach’s alpha. Int. J. Med. Educ. 2, 53–55. https://doi.org/10.5116/ijme.4dfb.8dfd 
+(2011).
+ 26. Bland, M., Altman, D. G. & Altaian, D. G. Statistics notes: Cronbach’s alpha. BMJ 314, 572 (1997).
+ 27. DeVellis, R. F . & Thorpe, C. T. Scale Development: Theory and Applications (Sage, 2021).
+ 28. Fieseler, G. et al. Intrarater reliability of goniometry and hand-held dynamometry for shoulder and elbow examinations in female 
+team handball athletes and asymptomatic volunteers. Arch. Orthop. Trauma Surg. 135. https://doi.org/10.1007/s00402-015-2331-6 
+(2015).
+ 29. Kolber, M. & J. Hanney, W . The reliability and concurrent validity of shoulder mobility measurements using a digital inclinometer 
+and goniometer: a technical report. Int. J. Sports Phys. Ther.  73, 306–313 (2012).
+ 30. Weir, J. Quantifying test-retest reliability using the intraclass correlation coefficient and the SEM. J. Strength Condit. Res./Natl 
+Strength Condit. Assoc.  19, 231–240. https://doi.org/10.1519/15184.1 (2005).
+ 31. Bland, J. M. & Altman, D. G. Statistical methods for assessing agreement between two methods of clinical measurement. Int. J. 
+Nurs. Stud. 47, 931–936. https://doi.org/10.1016/j.ijnurstu.2009.10.001 (2010).
+ 32. Gholami, A., Soltanzadeh, A., Abedini, R. & Sahranavard, M. Ergonomic assessment of musculoskeletal disorders risk by rapid 
+upper limb assessment (RULA) technique in a porcelain manufacturing factory. JRH 4, 608–612 (2014).
+ 33. Tahernejad, S. et al. Investigation of office workers’ sitting behaviors in an ergonomically adjusted workstation. Int. J. Occup. Saf. 
+Ergon. 28, 2346–2354. https://doi.org/10.1080/10803548.2021.1990581 (2022).
+ 34. Gandavadi, A., Ramsay, J. & Burke, F . Assessment of dental student posture in two seating conditions using RULA methodology—A 
+pilot study. Br. Dent. J. 203, 601–605 (2007).
+ 35. Swinton, P . A., Cooper, K. & Hancock, E. Workplace interventions to improve sitting posture: a systematic review. Prev. Med. 101, 
+204–212 (2017).
+ 36. Ismail, S. A., Tamrin, S. B. M. & Hashim, Z. The association between ergonomic risk factors, rula score, and musculoskeletal pain 
+among school children: a preliminary result. Glob. J. Health Sci. 1, 73 (2009).
+ 37. Blume, K. S. et al. Ergonomic risk assessment of dental students—RULA applied to objective kinematic data. Int. J. Environ. Res. 
+Public Health  18, 10550 (2021).
+ 38. Lee, W ., Seto, E., Lin, K. Y . & Migliaccio, G. C. An evaluation of wearable sensors and their placements for analyzing construction 
+worker’s trunk posture in laboratory conditions. Appl. Ergon. 65, 424–436. https://doi.org/10.1016/j.apergo.2017.03.016 (2017).
+ 39. Kim, W ., Sung, J., Saakes, D., Huang, C. & Xiong, S. Ergonomic postural assessment using a new open-source human pose 
+estimation technology (OpenPose). Int. J. Ind. Ergon. 84, 103164. https://doi.org/10.1016/j.ergon.2021.103164 (2021).
+Author contributions
+RT and UM are equal contributors to this work and are designated as co-first authors. RT, UM, WJ, WL, SO and 
+WC contributed to the concept of working and research design. RT and UM designed the experiments. RT, UM, 
+and WJ performed the experiments and analyzed the data. RT, UM, WC and WJ wrote the main manuscript 
+texts including introduction, material and method, results, discussion, and conclusion. RT and UM prepared 
+tables and figures. All authors reviewed the manuscript.
+Declarations
+Competing interests
+The authors declare no competing interests.
+Ethics approval and consent to participate
+The study protocol was approved by the Mahidol University Central Institutional Review Board (reference 
+number: COA No. MU-CIRB 2021/148.2206), and the study was conducted in accordance with the 
+Declaration of Helsinki.
+Consent for publication
+The informed consent was obtained from all subjects and/or their legal guardian(s).
+Additional information
+Correspondence and requests for materials should be addressed to W .C.
+Reprints and permissions information is available at www.nature.com/reprints.
+Scientific Reports |         (2025) 15:1441 10| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/
+
+===== PAGE 11 =====
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in 
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide 
+a link to the Creative Commons licence, and indicate if you modified the licensed material. Y ou do not have 
+permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence 
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to 
+obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p : / / c r e a t i v e c o m m o 
+n s . o r g / l i c e n s e s / b y - n c - n d / 4 . 0 /     .  
+© The Author(s) 2025 
+Scientific Reports |         (2025) 15:1441 11| https://doi.org/10.1038/s41598-025-85159-z
+www.nature.com/scientificreports/

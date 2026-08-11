@@ -1,0 +1,781 @@
+===== PAGE 1 =====
+
+Citation: Kim, J.C.; Kim, J.-G.; Kim,
+B.S.; Kim, C.K.; Choi, M.; Lee, J.;
+Chung, S.G. Assessing the
+Preservation of Lumbar Lordotic
+Curvature in Everyday Sitting
+Conditions Assessed with an Inertial
+Measurement System. J. Clin. Med.
+2024, 13, 2728. https://doi.org/
+10.3390/jcm13092728
+Academic Editor: Yuji Uchio
+Received: 27 March 2024
+Revised: 25 April 2024
+Accepted: 2 May 2024
+Published: 6 May 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Clinical Medicine
+Article
+Assessing the Preservation of Lumbar Lordotic Curvature in
+Everyday Sitting Conditions Assessed with an Inertial
+Measurement System
+Ju Chan Kim 1,†
+ , Jeong-Gil Kim 2,† , Beom Suk Kim 3, Cheol Ki Kim 4, Minseok Choi 5, Joonnyong Lee 6
+and Sun Gun Chung 7,8, *
+1 Department of Rehabilitation Medicine, National Trafﬁc Injury Rehabilitation Hospital, Yangpyeong 12564,
+Republic of Korea; davidjckim91@gmail.com
+2 Department of Rehabilitation Medicine, Armed Forces Yangju Hospital, Yangju 11429, Republic of Korea;
+gilcadet@gmail.com
+3 Department of Physical and Rehabilitation Medicine, Chung-Ang University Gwangmyeong Hospital,
+Gwangmyeong 14353, Republic of Korea; grit@cauhs.or.kr
+4 Department of Rehabilitation Medicine, Seoul National University Hospital, Seoul 03080, Republic of Korea;
+2mdfeki@gmail.com
+5 Department of Orthopaedic Surgery, Seoul National University Hospital, Seoul 03080, Republic of Korea;
+chs19@snu.ac.kr
+6 Mellowing Factory Co., Ltd., Seoul 06053, Republic of Korea; joonnyonglee@melab.snu.ac.kr
+7 Department of Rehabilitation Medicine, Seoul National University College of Medicine,
+Seoul 03080, Republic of Korea
+8 Institute of Aging, Medical Research Center, Seoul National University, Seoul 03080, Republic of Korea
+* Correspondence: suncg@snu.ac.kr; Tel.: +82-10-3211-1821
+† These authors contributed equally to this work.
+Abstract: Background/Objectives: Lumbar lordotic curvature (LLC), closely associated with low
+back pain (LBP) when decreased, is infrequently assessed in clinical settings due to the spatiotemporal
+limitations of radiographic methods. To overcome these constraints, this study used an inertial
+measurement system to compare the magnitude and maintenance of LLC across various sitting
+conditions, categorized into three aspects: verbal instructions, chair type, and desk task types.
+Methods: Twenty-nine healthy participants were instructed to sit for 3 min with two wireless sensors
+placed on the 12th thoracic vertebra and the 2nd sacral vertebra. The lumbar lordotic angle (LLA)
+was measured using relative angles for the mediolateral axis and comparisons were made within
+each sitting category. Results: The maintenance of LLA ( LLAdev) was signiﬁcantly smaller when
+participants were instructed to sit upright ( −3.7 ± 3.9◦) compared to that of their habitual sitting
+posture (−1.2 ± 2.4◦) (p = 0.001), while the magnitude of LLA (LLAavg) was signiﬁcantly larger with
+an upright sitting posture ( p = 0.001). LLAdev was signiﬁcantly larger when using an ofﬁce chair
+(−0.4 ± 1.1◦) than when using a stool ( −3.2 ± 7.1◦) (p = 0.033), and LLAavg was also signiﬁcantly
+larger with the ofﬁce chair (p < 0.001). Among the desk tasks, LLAavg was largest during keyboard
+tasks (p < 0.001), followed by mouse and writing tasks; LLAdev showed a similar trend without
+statistical signiﬁcance (keyboard,−1.2 ± 3.0◦; mouse, −1.8 ± 2.2◦; writing, −2.9 ± 3.1◦) (p = 0.067).
+Conclusions: Our ﬁndings suggest that strategies including the use of an ofﬁce chair and preference
+for computer work may help preserve LLC, whereas in the case of cueing, repetition may be necessary.
+Keywords: lumbar lordosis; low back pain; sitting position; chair type; desk tasks; inertial sensors
+1. Introduction
+The lumbar lordotic curvature (LLC), or the inward curving of the lumbar spine, is
+one of the most prominent morphological characteristics in the human spinal column and
+is considered a key structural adaptation to bipedalism [1]. There has been ongoing debate
+J. Clin. Med. 2024, 13, 2728. https://doi.org/10.3390/jcm13092728 https://www.mdpi.com/journal/jcm
+
+===== PAGE 2 =====
+
+J. Clin. Med. 2024, 13, 2728 2 of 14
+over the relationship between LLC and low back pain (LBP), as LLC has both biomechanical
+advantages and disadvantages [ 2–5]. Preservation of LLC contributes to neutralizing
+shear loads in the soft tissues surrounding the spine [ 2], enhancing the capacity to bear
+gravitational force [3], and preventing the posterior migration of the nucleus pulposus [4].
+Conversely, an overly increased LLC may lead to excessive pressure on the posterior
+ligaments and facet joints [ 5]. Despite this controversy, recent studies strongly support
+that a decreased LLC is closely related to LBP [6,7]. The harmful effects of ﬂexed lumbar
+posture, including increased muscle activity and passive strain on the posterior elements of
+the spine [8–12], are well documented. However, it is the damage to the posterior annulus
+of the lumbar disc [13], caused by increased disc pressure and posterior migration of the
+nucleus pulposus [14–17], that plays a critical role in pain induction.
+While the causes of LBP are multifactorial [ 18], prolonged sitting is closely associ-
+ated with LBP [19,20], with studies showing that awkward postures signiﬁcantly increase
+the risk of developing LBP [21]. As a ﬂexed lumbar posture, characterized by decreased
+LLC, is a common problematic posture while sitting, numerous studies have investigated
+how LLC is affected by various sitting conditions. Furthermore, studies have assessed
+how LLC is inﬂuenced by speciﬁc instructions to maintain good posture [22–28], such as
+erect/comfortable/slouch, ideal/habitual, and upright/relaxed. These studies have consis-
+tently shown that speciﬁc instructions to maintain good posture result in a signiﬁcantly
+larger LLC compared to that of habitual sitting postures [23,27,28]. Similarly, numerous
+studies have compared LLC differences across different types of chairs [26–34], including
+ofﬁce chairs, standard chairs, stools, or kneeling chairs. Most ﬁndings suggest that ofﬁce
+chairs, especially those with lumbar support, shows the largest LLC [26–28,31], whereas
+stools tend to show the smallest LLC [31,33]. Only a few studies have examined LLC across
+various task types [34,35], ﬁnding less lumbar ﬂexion during typing compared to using a
+mouse. Despite the extensive research on the impact of sitting conditions on LLC, these
+existing studies have not focused on the preservation of LLC over time. While sitting is
+relatively stable, LLC can change over time if the posture is maintained for an extended
+period. Considering this, investigating not only the magnitude of LLC but also the degree
+of change over time may be a critical aspect for developing strategies for spinal health
+maintenance in everyday sitting.
+In clinical settings, evaluating LLC has primarily been conducted using radiographic
+methods [36–39], which provide the most accurate, skeleton-based assessment. However,
+radiographic assessment has inherent limitations, such as spatiotemporal constraints and
+radiation hazards, which prevent its application to various activities over an extended
+period. Recent advancements in inertial sensors have offered a more accessible solution for
+evaluating LLC [25,28,40–46]. Due to their compact size and wireless capability, inertial
+measurement systems have gained popularity for assessing spinal curvatures in various
+clinical scenarios [ 27,43–45] and have been validated against traditional gold-standard
+measures like radiological and optoelectronic motion capture systems [25,40–43]. The Atti-
+tude and Heading Reference System (AHRS), an advanced inertial sensor system, utilizes
+complex algorithms to provide more accurate and comprehensive data than conventional
+inertial sensors [47]. By employing AHRS, this study enables effective real-time monitoring
+of LLC, presenting a promising method for assessing the preservation of LLC in daily
+sitting conditions.
+In this in vivo study on a healthy population, an AHRS was used to investigate the
+dynamics of LLC over a duration of 3 min during various sitting conditions, categorized
+into three groups: verbal instructions, chair type, and desk task types. Our hypothesis was
+that the preservation of LLC, along with its magnitude, might differ signiﬁcantly across
+these conditions. The primary aim of this study was to assess the feasibility of using AHRS
+for evaluating LLC preservation. Additionally, we sought to determine which postures or
+tasks within each category are more beneﬁcial for preserving LLC.
+
+===== PAGE 3 =====
+
+J. Clin. Med. 2024, 13, 2728 3 of 14
+2. Methods
+2.1. Design
+This study is an analytical cross-sectional study conducted in the Biomechanics labo-
+ratory of the Seoul National University Hospital. All participants followed the same test
+protocols conducted over a single day, which included 10 different sitting conditions. This
+study is reported following the STROBE (Strengthening the Reporting of Observational
+Studies in Epidemiology) guidelines [48].
+2.2. Participants
+A total of 29 healthy volunteers, comprising 15 men and 14 women, participated in this
+study. The mean ages for men and women were 32.2 ± 12.6 years and 39.1 ± 14.1 years,
+respectively. Anthropomorphic characteristics including the age, weight, height, and body
+mass index (BMI) of each participant were collected and are summarized in Table 1. Partic-
+ipants recruited for this study had neither experienced LBP nor radicular pain radiating
+beyond the gluteal fold for 12 weeks leading up to the study, and had no history of back dis-
+orders, implying that they were expected to have normal ranges of LLA. Exclusion criteria
+included skin complications at the sensor attachment site, individuals with psychological
+disorders such as depression requiring regular medication, pregnant individuals, and those
+unable to participate in the experiment due to external factors. This study was performed in
+accordance with the Declaration of Helsinki and was approved by the Institutional Review
+Board of Seoul National University Hospital (IRB No. 1703-174-842). All participants
+provided informed consent to participate in the study.
+Table 1. Demographics and characteristics of participants.
+All (n = 29) Male ( n = 15) Female ( n = 14)
+Age, years 35.5 ± 13.6 32.2 ± 12.6 39.1 ± 14.1
+Body mass, kg 64.0 ± 12.3 72.0 ± 11.9 55.4 ± 4.9
+Height, cm 167.1 ± 8.9 173.8 ± 6.0 159.8 ± 4.6
+BMI, kg/m2 22.8 ± 3.1 23.8 ± 3.3 21.8 ± 2.5
+Values are presented as mean ± standard deviation.
+2.3. Experimental Set-Up
+To evaluate LLC, we used an AHRS based on the wireless inertial measurement unit
+(IMU, MTw Awinda; Xsens Technologies B.V ., Enschede, Netherlands), which uses Strap-
+Down Integration and the Xsens Kalman Filter to provide more accurate data [47]. Using
+medical tape, two IMU sensors were afﬁxed on the skin over the spinous process of the
+12th thoracic vertebra, palpated along the 12th rib, and over the 2nd sacral vertebra at
+the midpoint between the posterior superior iliac spines (Figure 1) [49,50]. Prior to data
+collection, each sensor was calibrated in parallel in the corner of the experiment room to
+ensure accurate angle measurements. The three output angles were initialized to zero, such
+that when the two sensors were subtracted after calibration, the angular differences were
+near zero. Data from the sensors were sampled at a rate of 40 Hz and wirelessly transmitted
+to a data-processing computer.
+2.4. Data Processing
+The lumbar lordotic angle (LLA) served as a measure for evaluating LLC. Convention-
+ally, the LLA is derived from radiographic images using the Cobb angle, formed between
+the lines at the inferior endplate of T12 and the superior endplate of S1 (Figure 1d) [ 50].
+When measuring with inertial sensors, the placement can vary slightly among studies; we
+adhered to the protocols of previously related studies [42,51].
+
+===== PAGE 4 =====
+
+J. Clin. Med. 2024, 13, 2728 4 of 14
+J. Clin. Med. 2024, 13, x FOR PEER REVIEW 4 of 15 
+ 
+ 
+  
+Figure 1. Experimental set-up during the test. (a,b) IMU sensors were attached to the skin over the 
+12th thoracic (T12) and 2nd sacral (S2) vertebral points. ( c) The relative angle between T12 and S2 
+was calculated using a simple subtraction method, and the Y-axis (mediolateral axis) data were used 
+to evaluate the kyphosis–lordosis of lumbar mo vement between the T12 and S2 IMU sensors. ( d) 
+LLA is traditionally deﬁned by the Cobb angle measured from the lateral lumbar radiographic im-
+ages, extending between the inferior endplate of T12 and the superior endplate of S1. The ﬁgure 
+illustrates that the measurement derived from this deﬁnition is similar to those obtained from IMU 
+sensors. 
+2.4. Data Processing 
+The lumbar lordotic angle (LLA) served as  a measure for evaluating LLC. Conven-
+tionally, the LLA is derived from radiograph ic images using the Cobb angle, formed be-
+tween the lines at the inferior endplate of T12 and the superior endplate of S1 (Figure 1d) 
+[50]. When measuring with inertial sensors, the placement can vary slightly among stud-
+ies; we adhered to the protocols of previously related studies [42,51]. 
+Data processing was conducted in accordance with the methods of our group’s pre-
+vious biomechanical study [43,46]. The sens or output data provided the 3-dimensional 
+orientations relative to the rotation angles around the X (upward longitudinal axis), Y 
+(mediolateral axis), and Z (anteroposterior axis) axes (Figure 1c). Lumbar posture was de-
+termined by subtracting the angles between the thoracic sensor (T12) and the sacral sensor 
+(S2) along each of these axes, and the calculated relative angles along the X, Y, and Z axes 
+correspond to the degrees of axial twist, kyp hosis–lordosis, and lateral bending, respec-
+tively. Speciﬁcally, the Y-axis angle, which measures the degree of kyphosis–lordosis, was 
+Figure 1. Experimental set-up during the test. (a,b) IMU sensors were attached to the skin over the
+12th thoracic (T12) and 2nd sacral (S2) vertebral points. (c) The relative angle between T12 and S2 was
+calculated using a simple subtraction method, and the Y-axis (mediolateral axis) data were used to
+evaluate the kyphosis–lordosis of lumbar movement between the T12 and S2 IMU sensors. (d) LLA
+is traditionally deﬁned by the Cobb angle measured from the lateral lumbar radiographic images,
+extending between the inferior endplate of T12 and the superior endplate of S1. The ﬁgure illustrates
+that the measurement derived from this deﬁnition is similar to those obtained from IMU sensors.
+Data processing was conducted in accordance with the methods of our group’s pre-
+vious biomechanical study [43,46]. The sensor output data provided the 3-dimensional
+orientations relative to the rotation angles around the X (upward longitudinal axis), Y
+(mediolateral axis), and Z (anteroposterior axis) axes (Figure 1c). Lumbar posture was
+determined by subtracting the angles between the thoracic sensor (T12) and the sacral
+sensor (S2) along each of these axes, and the calculated relative angles along the X, Y, and
+Z axes correspond to the degrees of axial twist, kyphosis–lordosis, and lateral bending,
+respectively. Speciﬁcally, theY-axis angle, which measures the degree of kyphosis–lordosis,
+was used as the LLA (Figure 1d). Positive and negative values indicated lordotic and
+kyphotic alignment of the lumbar spine, respectively. Instead of calculating 3-dimensional
+Euler angles between the two sensors, a simple subtraction method was utilized to calculate
+relative angles because the sensors were expected to be moving mainly within the sagittal
+plane during the test conditions in this study.
+2.5. Test Protocol
+With the sensors attached to the bony landmarks, participants were asked to undergo
+seven test conditions, categorized into three aspects: verbal instructions, chair type, and
+
+===== PAGE 5 =====
+
+J. Clin. Med. 2024, 13, 2728 5 of 14
+type of desk tasks (Figure 2). We primarily aimed to include postures frequently used in
+daily life within each category, speciﬁcally selecting those where the magnitude of LLA is
+clearly distinct, to investigate whether maintenance of LLA shows similar trends across
+these postures.
+J. Clin. Med. 2024, 13, x FOR PEER REVIEW 5 of 15 
+ 
+ 
+used as the LLA (Figure 1d). Positive and negative values indicated lordotic and kyphotic 
+alignment of the lumbar spine, respectively. Instead of calculating 3-dimensional Euler 
+angles between the two sensors, a simple su btraction method was utilized to calculate 
+relative angles because the sensors were expected to be moving mainly within the sagittal 
+plane during the test conditions in this study. 
+2.5. Test Protocol 
+With the sensors attached to the bony landmarks, participants were asked to undergo 
+seven test conditions, categorized into three aspects: verbal instructions, chair type, and 
+type of desk tasks (Figure 2). We primarily aimed to include postures frequently used in 
+daily life within each category, speciﬁcally selecting those where the magnitude of LLA is 
+clearly distinct, to investigat e whether maintenance of LLA shows similar trends across 
+these postures. 
+ 
+Figure 2. Sitting conditions with the three categories evaluated in the present study. (a) Two sitting 
+postures with diﬀerent instructions, (b) two sitting postures on di ﬀerent chairs, and (c) three desk 
+tasks. W: width, D: depth, H: seat height. 
+Figure 2. Sitting conditions with the three categories evaluated in the present study. (a) Two sitting
+postures with different instructions, (b) two sitting postures on different chairs, and (c) three desk
+tasks. W: width, D: depth, H: seat height.
+For the verbal instructions, we chose to compare postures following good posture
+instructions to those in their usual, habitual state, selecting common directives likely to
+be encountered in daily life. Speciﬁcally, the static sitting postures were performed with
+the common directive of not leaning back, following two different instructions: to ‘sit with
+your back straight’ (Iupright) or to ‘sit in your usual habitual manner’ (Iusual). The chair type
+category included two static sitting postures using different chairs: an ofﬁce chair (Cofﬁce)
+or a stool (Cstool), both frequently used in daily settings and selected for their potential to
+show the greatest differences in the magnitude of LLA [31]. Due to limited research on task
+type, we incorporated a writing task in addition to the tasks utilized from past studies [35].
+Desk tasks were performed, including keyboard typing, during which participants typed
+assigned texts (Tkeyboard); computer mouse manipulation, in which participants played a
+mouse-clicking game ( Tmouse); and writing on paper, in which participants transcribed
+a given text ( Twriting). All sitting conditions, except for the chair type category, were
+performed on a standard chair.
+
+===== PAGE 6 =====
+
+J. Clin. Med. 2024, 13, 2728 6 of 14
+All sitting conditions, except for the chair type category, were performed on a standard
+chair. The standard chair used was 45 cm in height without armrests. The ofﬁce chair
+included lumbar support and was height-adjustable, set to match the height of a standard
+chair. The stool was 45 cm high with a circular seat and lacked a backrest.
+2.6. Outcome Variables
+To assess the magnitude and preservation of LLA, data were tracked for 3 min and
+displayed as graphs (Figure 3). The primary outcomes included two key variables derived
+from LLA: LLAavg, representing the overall magnitude of LLA, andLLAdev, representing the
+preservation of LLA. LLAavg was computed by dividing SumLLA by the test duration, where
+SumLLA represents a time-weighted integration of LLA obtained using the trapezoidal
+rule (Figure 3a). LLAdev was deﬁned as the deviation fromLLAstart, the initial LLA value
+at the start of the test. It was calculated by integrating the difference between each time
+point’s LLA value and LLAstart over the total time and then dividing this sum of deviations
+(Sumdev) by the test duration. LLAdev reﬂects the extent of change in LLA throughout the
+test duration (Figure 3b). Since most tests showed a decreasing tendency over time, a larger
+LLAdev indicates good maintenance of LLC, while a smaller value suggests a greater shift
+towards a kyphotic position.
+J. Clin. Med. 2024, 13, x FOR PEER REVIEW 7 of 15 
+ 
+ 
+ 
+Figure 3. Typical graphs of LLA variation over time. ( a,b) Graphs depicting the LLA changes in a 
+54-year-old female participant (R007) in a sitting posture on a stool. These graphs illustrate the def-
+inition of LLAavg (a) and LLAdev (b). (c) Examples of typical LLA variation graphs in di ﬀerent sitting 
+conditions from two participants: a 27-year-old female (R004, red dotted line) and a 49-year-old male 
+(R012, blue solid line). 
+3. Results 
+3.1. Comparison within Verbal Instruction Category 
+Figure 4a illustrates the comparison between upright sitting (Iupright) and habitual sit-
+ting (Iusual). The LLAavg of Iupright (9.9 ± 12.0°) was signiﬁcantly larger compared to that of Iusual 
+(−6.6 ± 15.4°) (p < 0.001, Cohen’s d = 1.6, power = 1.00). The LLAdev of Iupright (−3.7 ± 3.9°) was 
+signiﬁcantly smaller compared to that of Iusual (−1.2 ± 2.4°) (p = 0.001, r = 0.59, power = 0.85), 
+indicating poorer preservation of LLA in the Iupright compared to Iusual. 
+Figure 3. Typical graphs of LLA variation over time. ( a,b) Graphs depicting the LLA changes in
+a 54-year-old female participant (R007) in a sitting posture on a stool. These graphs illustrate the
+deﬁnition of LLAavg (a) and LLAdev (b). ( c) Examples of typical LLA variation graphs in different
+sitting conditions from two participants: a 27-year-old female (R004, red dotted line) and a 49-year-old
+male (R012, blue solid line).
+
+===== PAGE 7 =====
+
+J. Clin. Med. 2024, 13, 2728 7 of 14
+2.7. Statistical Analysis
+The primary analysis involved comparing the primary outcomes (LLAavg and LLAdev)
+within three sitting categories. Based on the results of the Shapiro–Wilk normality tests,
+parametric methods were applied for LLAavg, and non-parametric methods were used for
+LLAdev. Each of the two static sitting postures, with different instructions and those on
+different chairs, were compared using either paired t-tests or Wilcoxon signed-rank tests.
+Repeated Measures ANOVA (RM-ANOVA) or Generalized Estimating Equations (GEEs)
+were used to compare each of the three desk tasks, with post hoc analysis performed using
+Bonferroni correction.
+As a secondary analysis, we aimed to determine if these changes varied by sex,
+necessitating the use of statistical methods appropriate for repeated measures within two
+groups. Accordingly, RM-ANOVA or GEEs were used for between-group comparisons and
+interaction effect analysis for all sitting categories. Within each sex group, comparisons
+across sitting conditions were made using paired t-tests, Wilcoxon signed rank tests, RM-
+ANOVA, or Friedman tests, as appropriate. Data are presented as mean ± standard
+deviation. Statistical analyses were performed using statistical software (SPSS Version 19.0,
+SPSS Inc., Chicago, IL, USA).
+3. Results
+3.1. Comparison within Verbal Instruction Category
+Figure 4a illustrates the comparison between upright sitting ( Iupright) and habitual
+sitting (Iusual). The LLAavg of Iupright (9.9 ± 12.0◦) was signiﬁcantly larger compared to that
+of Iusual (−6.6 ± 15.4◦) (p < 0.001, Cohen’s d = 1.6, power = 1.00). The LLAdev of Iupright
+(−3.7 ± 3.9◦) was signiﬁcantly smaller compared to that ofIusual (−1.2 ± 2.4◦) (p = 0.001,
+r = 0.59, power = 0.85), indicating poorer preservation of LLA in the Iupright compared
+to Iusual.
+J. Clin. Med. 2024, 13, x FOR PEER REVIEW 8 of 15 
+ 
+ 
+ 
+Figure 4. Comparative results within three si tting categories: (a) verbal instruction, ( b) chair type, 
+and ( c) task type. The ﬁrst graph in each set depicts the overview of magnitude and temporal 
+changes in LLA, with the st art of the arrows denoting LLAstart, and the arrowheads indicating the 
+minimal LLA observed during the test. The second  and third bar graphs within each set compare 
+LLAavg and LLAdev between sitting conditions within categories and by sex. Single asterisks indicate 
+statistical signiﬁcance within sex groups across sitting conditions. Double asterisks indicate statisti-
+cal signiﬁcance between sex groups within each si tting category. The whiskers represent the 95% 
+conﬁdence intervals and are depicted in a unidirectional manner for clear graphical representation 
+in the ﬁrst graphs. 
+3.2. Comparison within Chair Type Category 
+Figure 4b displays the comparison between si tting in an o ﬃce chair (Coﬃce) and on a 
+stool (Cstool). The LLAavg of Coﬃce (11.8 ± 14.8°) was signiﬁcantly larger than that of Cstool (−4.0 
+± 16.0°) (p < 0.001, Cohen’s d = 1.1, power = 0.99). The LLAdev of Coﬃce (−0.4 ± 1.1°) was sig-
+niﬁcantly larger than that of Cstool (−3.2 ± 7.1°) (p < 0.001, r = 0.44, power = 0.73). 
+3.3. Comparison within Task Type Category 
+Figure 4c shows the comparison between the three desk tasks. There were signiﬁcant 
+diﬀerences among the three tasks on the desk in LLAavg (p < 0.001, 𝜂௣
+ଶ = 0.388, power = 
+1.00). Post hoc analysis revealed signiﬁcant diﬀerences for all three comparisons, with Tkey-
+board (2.0 ± 13.4°) being larger than Tmouse (−1.7 ± 12.6°) ( p = 0.009), Tkeyboard being larger than 
+Twriting (−6.9 ± 15.3°) ( p < 0.001), and Tmouse being larger than Twriting (p = 0.014). The LLAdev 
+trends for the three desk tasks were similar to those observed for LLAavg, but the di ﬀer-
+ences were not statistically signi ﬁcant (p = 0.067). Speciﬁcally, LLAdev was −1.2 ± 3.0° for 
+Tkeyboard, −1.8 ± 2.2° for Tmouse, and −2.9 ± 3.1° for Twriting. 
+Figure 4. Comparative results within three sitting categories: (a) verbal instruction, (b) chair type,
+and (c) task type. The ﬁrst graph in each set depicts the overview of magnitude and temporal changes
+
+===== PAGE 8 =====
+
+J. Clin. Med. 2024, 13, 2728 8 of 14
+in LLA, with the start of the arrows denoting LLAstart, and the arrowheads indicating the minimal
+LLA observed during the test. The second and third bar graphs within each set compare LLAavg and
+LLAdev between sitting conditions within categories and by sex. Single asterisks indicate statistical sig-
+niﬁcance within sex groups across sitting conditions. Double asterisks indicate statistical signiﬁcance
+between sex groups within each sitting category. The whiskers represent the 95% conﬁdence intervals
+and are depicted in a unidirectional manner for clear graphical representation in the ﬁrst graphs.
+3.2. Comparison within Chair Type Category
+Figure 4b displays the comparison between sitting in an ofﬁce chair (Cofﬁce) and on a
+stool (Cstool). The LLAavg of Cofﬁce (11.8 ± 14.8◦) was signiﬁcantly larger than that ofCstool
+(−4.0 ± 16.0◦) (p < 0.001, Cohen’s d = 1.1, power = 0.99). The LLAdev of Cofﬁce (−0.4 ± 1.1◦)
+was signiﬁcantly larger than that ofCstool (−3.2 ± 7.1◦) (p < 0.001, r = 0.44, power = 0.73).
+3.3. Comparison within Task Type Category
+Figure 4c shows the comparison between the three desk tasks. There were signiﬁcant
+differences among the three tasks on the desk inLLAavg (p < 0.001, η2
+p = 0.388, power = 1.00).
+Post hoc analysis revealed signiﬁcant differences for all three comparisons, withTkeyboard
+(2.0 ± 13.4◦) being larger than Tmouse (−1.7 ± 12.6◦) (p = 0.009), Tkeyboard being larger than
+Twriting (−6.9 ± 15.3◦) (p < 0.001), and Tmouse being larger than Twriting (p = 0.014). The
+LLAdev trends for the three desk tasks were similar to those observed for LLAavg, but the
+differences were not statistically signiﬁcant (p = 0.067). Speciﬁcally,LLAdev was −1.2 ± 3.0◦
+for Tkeyboard, −1.8 ± 2.2◦ for Tmouse, and −2.9 ± 3.1◦ for Twriting.
+3.4. Sex-Related Differences in LLA across Sitting Conditions
+Table 2 presents detailed data on LLA variables, while Table 3 summarizes the results
+from the comparative analysis conducted using RM-ANOVA or GEE. In the verbal instruc-
+tion category, no sex-related differences or interaction effects were found for eitherLLAavg
+or LLAdev. Within each sex group, Iupright showed a signiﬁcantly largerLLAavg compared to
+Iusual in both groups (p < 0.001, Cohen’s d = 1.4, power = 1.00 for male, and p < 0.001, Co-
+hen’s d = 2.0, power = 1.00 for female). The trend of smaller LLAdev in Iupright was consistent
+across sexes but was signiﬁcant only in the male group (p = 0.009, r = 0.78, power = 0.87).
+Table 2. Outcomes of LLA variables by sitting condition and sex.
+Sitting
+Category
+Sitting
+Posture
+LLAavg (◦) LLAdev (◦)
+All Male Female All Male Female
+Verbal
+instruction
+Iupright 9.9 ± 12.0 6.7 ± 12.5 13.2 ± 11.0 −3.7 ± 3.9 −4.4 ± 4.3 −3.0 ± 3.4
+Iusual −6.6 ± 15.4 −10.1 ± 16.0 −2.8 ± 14.4 −1.2 ± 2.4 −1.5 ± 2.3 −0.9 ± 2.5
+Chair type Cofﬁce 11.8 ± 14.8 3.1 ± 13.1 21.1 ± 10.3 −0.4 ± 1.1 −0.8 ± 1.2 0.1 ± 0.7
+Cstool −4.0 ± 16.0 −8.3 ± 17.8 0.6 ± 13.1 −3.2 ± 7.1 −4.1 ± 9.9 −2.2 ± 1.6
+Deks tasks
+Tkeyboard 2.0 ± 13.4 −4.0 ± 10.7 8.6 ± 13.3 −1.2 ± 3.0 −2.0 ± 1.3 −0.3 ± 4.0
+Tmouse −1.7 ± 12.6 −6.4 ± 12.8 3.3 ± 10.7 −1.8 ± 2.2 −2.4 ± 1.8 −1.1 ± 2.5
+Twriting −6.9 ± 15.3 −13.5 ± 14.2 0.2 ± 13.4 −2.9 ± 3.1 −3.6 ± 2.8 −2.2 ± 3.3
+Values are presented as mean ± standard deviation angles (◦).
+In the chair type category, females exhibited a signiﬁcantly largerLLAavg than males
+(p = 0.006, η2
+p = 0.251, power = 0.83), with no interaction effects observed. Meanwhile, no
+sex-related differences or interaction effects were found in LLAdev. The LLAavg of Cofﬁce was
+signiﬁcantly larger than that ofCstool in both sexes (p = 0.013, Cohen’s d = 0.73,power = 0.85
+for male and p < 0.001 Cohen’s d= 1.72, power = 1.00 for female), and the LLAdev of Cofﬁce
+was also signiﬁcantly larger than that ofCstool (p = 0.05, r = 0.35, power = 0.35 for male and
+p = 0.001, r = 1.66, power = 1.00 for female).
+
+===== PAGE 9 =====
+
+J. Clin. Med. 2024, 13, 2728 9 of 14
+Table 3. Comparisons within sitting categories considering sex-related differences.
+Sitting
+Category
+LLAavg (◦) LLAdev (◦)
+Item F p-Value Item Wald χ2 p-Value
+Verbal
+instruction
+Instruction 72.159 <0.001 * Instruction 11.123 0.001 *
+Sex 2.177 0.152 Sex 1.328 0.249
+Instruction × Sex 0.045 0.834 Instruction × Sex 0.221 0.638
+Chair type
+Chair 38.166 <0.001 * Chair 4.543 0.033 *
+Sex 9.025 0.006 * Sex 1.363 0.243
+Chair × Sex 3.080 0.091 Chair × Sex 0.155 0.694
+Deks tasks
+Task 17.574 <0.001 * Task 5.402 0.067
+Sex 7.646 0.010 * Sex 4.611 0.032 *
+Task × Sex 0.959 0.390 Task × Sex 0.133 0.936
+* Asterisks indicate statistical signiﬁcance. (p-value < 0.05).
+In the task type category, female participants had a signiﬁcantly larger LLAavg and
+LLAdev than male participants (p = 0.010, η2
+p = 0.221, power = 0.76 for LLAavg and p = 0.032,
+Wald χ2 = 4.6, power = 0.52 for LLAdev), with no interaction effects observed for either
+variable. The difference in LLAavg across the three desk tasks was consistent within each
+sex group, though statistical signiﬁcance was only conﬁrmed in some comparisons.
+4. Discussion
+Utilizing the inertial measurement system, this study aimed to investigate the differ-
+ences in the magnitude and preservation of LLC within three sitting categories: verbal
+instructions, chair type, and task type. The analysis revealed that the instructed upright
+sitting posture resulted in a greater magnitude of LLC compared to that of the usual sitting
+posture, yet the preservation of LLC was better with the usual sitting posture than that of
+the upright sitting posture. Regarding the chair type, using an ofﬁce chair, compared to a
+stool, contributed to a larger and better maintained LLC. In the task type category, the mag-
+nitude of LLC was signiﬁcantly larger in the order of keyboard use, mouse manipulation,
+and writing tasks, with a similar pattern noted for the preservation.
+The study’s results show that LLA changes with different instructions, as participants
+displayed a signiﬁcantly larger LLA when instructed to sit upright compared to their
+usual sitting posture. This result is similar to those of previous studies, which showed
+less ﬂexed positions with the instruction to sit upright [ 22,26,28]. Particularly, O‘Sullivan
+et al.’s study, which used a strain gauge-based device, compared habitual and upright
+sitting [23]. They found that the habitual sitting posture had about a 20% more ﬂexed
+range of motion compared to upright sitting. It was reasonably expected that a larger LLA
+would be observed when sitting upright as opposed to habitual sitting. But interestingly,
+our results suggest that a single instruction to sit upright may not be sufﬁcient to maintain
+LLA for an extended period, as the decreasing tendency of LLA was signiﬁcantly larger.
+While the LLAavg was signiﬁcantly different over the 3 min duration used in this study, the
+difference between the two postures might not have been as distinct if the research had
+been conducted over a much longer duration. These ﬁndings imply that maintaining LLA
+in daily life may require repetitive feedback rather than a one-time instruction, and they
+support the potential need for biofeedback devices to aid in preserving LLC [52,53].
+Our results, upon comparing the sitting postures involving different chairs, demon-
+strated that the ofﬁce chair led to a larger LLA than the stool, a ﬁnding consistent with
+previous research [26,28,32,33]. Particularly, similar outcomes were observed in a radio-
+graphic study of 30 healthy males across ﬁve sitting positions, which showed the largest
+LLA when sitting on a chair with back support (36.2 ± 8.4◦) and the smallest when sit-
+ting on a stool (0.6 ± 3.6◦) [31]. A study by Alamin et al., involving 20 asymptomatic
+subjects, also found signiﬁcantly smaller LLA when sitting on a stool (16.6± 15.6◦) com-
+pared to when seated on a hard-back chair (28.6 ± 14.3◦), similar to our study’s standard
+
+===== PAGE 10 =====
+
+J. Clin. Med. 2024, 13, 2728 10 of 14
+chair [33]. One notable aspect of the LLA pattern in the ofﬁce chair was that it resulted in
+the largest LLAdev among all the tests, suggesting that it may be the most advantageous
+during prolonged sitting.
+While several studies have linked prolonged sitting among ofﬁce workers to
+LBP [19,21,54], there have been very few that have compared LLA with different types of
+desk work. Our study revealed that keyboard typing resulted in a larger LLA compared
+to mouse tasks, a ﬁnding consistent with previous research [35]. Additionally, our results
+showed that both computer tasks, typing and using a mouse, exhibited larger LLA than
+the writing task. This difference in LLA between tasks can be attributed to the nature of
+the tasks themselves. In computer tasks, the gaze direction typically involves looking at a
+monitor, which may encourage a more upright posture, while in writing tasks, the gaze
+direction is generally directed downwards towards the desk, potentially encouraging more
+ﬂexion. Another key ﬁnding of our study is that there was similar tendency in LLAdev
+among the three tasks, with computer work better maintaining LLA compared to writing.
+This ﬁnding is consistent with previous research that suggested postural changes were
+more prevalent during reading compared to computer work [34].
+Numerous previous studies, along with a recent systematic review, have established
+an association between LLA and sex [55–58], demonstrating that LLA tends to be larger in
+females. In our study, a similar tendency was observed across all sitting conditions, with sig-
+niﬁcant differences particularly noted in the chair and task type categories. Notably, some
+research has indicated that the tendency for a larger LLA in females is posture-dependent,
+being signiﬁcant while sitting but not standing [ 59]. Furthermore, a study focusing on
+sex-related differences in spine curvature during prolonged sitting on various chairs ob-
+served that males exhibited a more ﬂexed lumbar angle than females [ 35]. However, our
+research did not ﬁnd any interaction effects, indicating that being female did not result in
+disproportionately larger differences across instructions, chair types, or tasks. In terms of
+preserving LLA, females showed a tendency to better maintain LLA, signiﬁcantly when
+performing different type of tasks. This may suggest that the sex-related differences in LLA
+during sitting are not solely due to skeletal structure differences.
+In our study, the preservation of LLA varied across different sitting conditions, with
+signiﬁcant differences observed in some categories. This variation in LLA maintenance
+could primarily be attributed to the inherent characteristics of each sitting condition. How-
+ever, it may also be inﬂuenced by biomechanical factors such as paraspinal muscle activity,
+which includes considerations of muscle fatigue or the unconscious effort to maintain
+posture with minimal energy expenditure. Paraspinal muscles, including the erector spinae
+and multiﬁdus, primarily function as lumbar extensors and play a crucial role in spinal
+stabilization and motion [60]. Notably, a reduction in the multiﬁdus muscle mass is known
+to be associated with LBP [61]. O‘Sullivan et al. have demonstrated increased muscle activ-
+ity during upright sitting compared to slump sitting, which may relate to our ﬁndings of
+insufﬁcient maintenance in upright postures [62,63]. The improved maintenance observed
+in an ofﬁce chair in our study could be related to ﬁndings from Makhsous et al. indicating
+that paraspinal activity decreases with the application of lumbar support [27,64]. However,
+regarding different task types, previous studies have shown lower paraspinal activity
+during reading compared to computer work, contradicting our hypothesis [34,65,66]. This
+suggests that the nature of the task itself has a greater inﬂuence, indicating that the preser-
+vation of LLA results from the complex interplay of various factors. Future research should
+involve between-subject comparisons to identify biomechanical parameters correlated with
+LLA maintenance, including paraspinal muscle activity.
+Maintaining LLC may be a crucial biomechanical correction to LBP . Several studies
+have conﬁrmed that modifying sitting posture can directly reduce LBP [67–69]. Research,
+such as the work by Williams et al., highlights that a lordotic posture, when compared to a
+kyphotic one, can signiﬁcantly mitigate pain intensity in individuals experiencing LBP [67].
+Similarly, studies by Aota et al. and Pillastrini et al. have demonstrated that lumbar
+supports and ergonomic interventions that help preserve lumbar lordosis signiﬁcantly
+
+===== PAGE 11 =====
+
+J. Clin. Med. 2024, 13, 2728 11 of 14
+reduce the incidence and severity of LBP [68,69]. These studies suggest that strategies to
+maintain LLC during sitting postures may help prevent LBP . However, they did not directly
+assess LLA. Therefore, understanding how changes in pain directly relate to variations
+in LLA, i.e., the relationship between LLC and LBP , has been difﬁcult. Further research
+utilizing our study methods to directly investigate how speciﬁc changes in LLA can prevent
+LBP is necessary.
+Our study has some limitations. First, the short test duration of 3 min is considerably
+brief compared to that of typical daily sitting activities. Although we incorporated everyday
+activities into our research for comparison, this short duration makes it challenging to fully
+generalize our results to actual daily activities. The experimental design, which includes se-
+rial conduction of multiple conditions without randomization and the brief resting periods
+used in our experiment, also make it difﬁcult to conﬁdently apply these ﬁndings outside
+the laboratory setting. These design choices were made to incorporate a variety of test con-
+ditions. Future research should consider including fewer test conditions for longer testing
+durations or multiple trials, sufﬁcient resting periods, and randomization of test condition
+order. Second, given the cross-sectional nature of our study, it is challenging to establish a
+direct causal relationship between sitting conditions and LLA changes. Additionally, since
+the study involved only healthy individuals and did not measure LBP as an outcome, it
+cannot conclusively prove the preventive effects on LBP . Future research should undertake
+longitudinal studies or clinical trials to determine whether these strategies can effectively
+preserve LLC and prevent LBP in real-world applications.
+5. Conclusions
+Consistent patterns and signiﬁcant differences in magnitude and preservation of
+lumbar lordotic curvature (LLC) were observed across various everyday sitting conditions
+among healthy participants using an AHRS. Speciﬁcally, within different instructions,
+the magnitude of LLC was larger in upright sitting, whereas preservation was better in
+habitual sitting. Comparing chair types, the use of an ofﬁce chair showed a larger and
+better maintained LLC compared to using a stool. Within the different task types, the
+magnitude of LLC was signiﬁcantly larger in computer tasks than in writing tasks, with
+a similar trend observed for preservation. These ﬁndings suggest that utilizing an ofﬁce
+chair and favoring computer work may contribute to the preservation of LLC; however,
+cueing for upright sitting may require repetition to effectively maintain LLC. Given the
+association between LLC and low back pain (LBP), these practices could potentially serve
+as preventive measures against LBP . To further reﬁne our understanding and practical
+applications of these ﬁndings, future research should focus on longitudinal studies or
+clinical trials, including participants with LBP , that examine the effects of sitting conditions
+over extended periods to validate the efﬁcacy of interventions aimed at preserving LLC and
+preventing LBP . Additionally, there is a need for research into the biomechanical factors
+that inﬂuence the preservation of LLC.
+Author Contributions: Conceptualization, J.C.K., J.-G.K., B.S.K., C.K.K., M.C., J.L. and S.G.C.; In-
+vestigation, J.C.K., J.-G.K., B.S.K., C.K.K. and M.C.; Methodology, J.-G.K., M.C. and J.L.; Software,
+J.L.; Writing—original draft, J.C.K. and J.-G.K.; Writing—review and editing, J.C.K.; Writing—critical
+review and editing, supervision, S.G.C. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research was funded by the Bio and Medical Technology Development Programs of
+the National Research Foundation (NRF), funded by the Ministry of Science and ICT, Republic of
+Korea, grant number 2016M3A9F1941984, and by a grant from the Patient-Centered Clinical Research
+Coordinating Center (PACEN), funded by the Ministry of Health & Welfare, Republic of Korea, grant
+number HC21C0064.
+Institutional Review Board Statement: This study was performed in accordance with the Declara-
+tion of Helsinki and was approved by the Institutional Review Board of Seoul National University
+Hospital (IRB No. 1703-174-842).
+
+===== PAGE 12 =====
+
+J. Clin. Med. 2024, 13, 2728 12 of 14
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study. Written informed consent was also obtained from the student researcher featured in Figure 2
+for the publication of images in an online open access publication.
+Data Availability Statement: The data sets for this study are available on request. The raw data
+supporting the conclusions of this manuscript will be made available by the authors to any qualiﬁed
+researcher. Contact: Ju Chan Kim (ORCID 0000-0003-4015-6096).
+Conﬂicts of Interest: Author Joonnyong Lee was employed by the company Mellowing Factory Co.,
+Ltd. The remaining authors declare that the research was conducted in the absence of any commercial
+or ﬁnancial relationships that could be construed as a potential conﬂict of interest.
+References
+1. Williams, S.A.; Russo, G.A. Evolution of the hominoid vertebral column: The long and the short of it. Evol. Anthropol. 2015, 24,
+15–32. [CrossRef] [PubMed]
+2. Farfan, H.F. The biomechanical advantage of lordosis and hip extension for upright activity. Man as compared with other
+anthropoids. Spine 1978, 3, 336–342. [CrossRef] [PubMed]
+3. Aspden, R. The Spine as an Arch A New Mathematical Model. Spine 1989, 14, 266–274. [CrossRef]
+4. Edmondston, S.J.; Song, S.; Bricknell, R.V .; Davies, P .A.; Fersum, K.; Humphries, P .; Wickenden, D.; Singer, K.P . MRI evaluation of
+lumbar spine ﬂexion and extension in asymptomatic individuals. Man. Ther. 2000, 5, 158–164. [CrossRef]
+5. Adams, M.A.; Hutton, W.C. The effect of posture on the role of the apophysial joints in resisting intervertebral compressive forces.
+J. Bone Jt. Surg. Br. Vol. 1980, 62, 358–362. [CrossRef] [PubMed]
+6. Adams, M.A.; Mannion, A.F.; Dolan, P . Personal risk factors for ﬁrst-time low back pain. Spine 1999, 24, 2497–2505. [CrossRef]
+7. Chun, S.W.; Lim, C.Y.; Kim, K.; Hwang, J.; Chung, S.G. The relationships between low back pain and lumbar lordosis: A
+systematic review and meta-analysis. Spine J. Off. J. N. Am. Spine Soc. 2017, 17, 1180–1191. [CrossRef]
+8. Adams, M.A.; Dolan, P . Time-dependent changes in the lumbar spine’s resistance to bending.Clin. Biomech. 1996, 11, 194–200.
+[CrossRef]
+9. McGill, S.M.; Brown, S. Creep response of the lumbar spine to prolonged full ﬂexion. Clin. Biomech. 1992, 7, 43–46. [CrossRef]
+10. Solomonow, M.; Zhou, B.H.; Baratta, R.V .; Burger, E. Biomechanics and electromyography of a cumulative lumbar disorder:
+Response to static ﬂexion. Clin. Biomech. 2003, 18, 890–898. [CrossRef]
+11. Twomey, L.; Taylor, J. Flexion creep deformation and hysteresis in the lumbar vertebral column.Spine 1982, 7, 116–122. [CrossRef]
+[PubMed]
+12. Andersson, B.J.; Ortengren, R.; Nachemson, A.; Elfstrom, G. Lumbar disc pressure and myoelectric back muscle activity during
+sitting. IV . Studies on a car driver’s seat.Scand. J. Rehabil. Med. 1974, 6, 128–133. [CrossRef] [PubMed]
+13. Wade, K.R.; Robertson, P .A.; Thambyah, A.; Broom, N.D. How healthy discs herniate: A biomechanical and microstructural study
+investigating the combined effects of compression rate and ﬂexion. Spine 2014, 39, 1018–1028. [CrossRef] [PubMed]
+14. Shah, J.S.; Hampson, W.G.; Jayson, M.I. The distribution of surface strain in the cadaveric lumbar spine. J. Bone Jt. Surg. Br. Vol.
+1978, 60, 246–251. [CrossRef] [PubMed]
+15. Andersson, G.B.; Schultz, A.B. Effects of ﬂuid injection on mechanical properties of intervertebral discs. J. Biomech. 1979, 12,
+453–458. [CrossRef]
+16. Sato, K.; Kikuchi, S.; Yonezawa, T.In vivo intradiscal pressure measurement in healthy individuals and in patients with ongoing
+back problems. Spine 1999, 24, 2468–2474. [CrossRef] [PubMed]
+17. Wilke, H.J.; Neef, P .; Caimi, M.; Hoogland, T.; Claes, L.E. Newin vivo measurements of pressures in the intervertebral disc in
+daily life. Spine 1999, 24, 755–762. [CrossRef]
+18. Cholewicki, J.; Pathak, P .; Reeves, N.P .; Popovich, J.M. Simulation of multifactorial causes of low back pain.Spine J. 2016, 16, S277.
+[CrossRef]
+19. Omokhodion, F.O.; Sanya, A.O. Risk factors for low back pain among ofﬁce workers in Ibadan, Southwest Nigeria.Occup. Med.
+2003, 53, 287–289. [CrossRef]
+20. Toh, S.H.; Coenen, P .; Howie, E.K.; Straker, L.M. The associations of mobile touch screen device use with musculoskeletal
+symptoms and exposures: A systematic review. PLoS ONE 2017, 12, e0181220. [CrossRef]
+21. Lis, A.M.; Black, K.M.; Korn, H.; Nordin, M. Association between sitting and occupational LBP .Eur. Spine J. Off. Publ. Eur. Spine
+Soc. Eur. Spinal Deform. Soc. Eur. Sect. Cerv. Spine Res. Soc. 2007, 16, 283–298. [CrossRef]
+22. Black, K.M.; McClure, P .; Polansky, M. The inﬂuence of different sitting positions on cervical and lumbar posture.Spine 1996, 21,
+65–70. [CrossRef]
+23. O’Sullivan, K.; O’Dea, P .; Dankaerts, W.; O’Sullivan, P .; Clifford, A.; O’Sullivan, L. Neutral lumbar spine sitting posture in
+pain-free subjects. Man. Ther. 2010, 15, 557–561. [CrossRef] [PubMed]
+24. Czaprowski, D.; Pawlowska, P .; Kolwicz-Ganko, A.; Sitarski, D.; Kedra, A. The Inﬂuence of the “Straighten Your Back” Command
+on the Sagittal Spinal Curvatures in Children with Generalized Joint Hypermobility. BioMed Res. Int. 2017, 2017, 9724021.
+[CrossRef]
+
+===== PAGE 13 =====
+
+J. Clin. Med. 2024, 13, 2728 13 of 14
+25. Paloschi, D.; Bravi, M.; Schena, E.; Miccinilli, S.; Morrone, M.; Sterzi, S.; Saccomandi, P .; Massaroni, C. Validation and Assessment
+of a Posture Measurement System with Magneto-Inertial Measurement Units. Sensors 2021, 21, 6610. [CrossRef] [PubMed]
+26. Lin, F.; Parthasarathy, S.; Taylor, S.J.; Pucci, D.; Hendrix, R.W.; Makhsous, M. Effect of Different Sitting Postures on Lung Capacity,
+Expiratory Flow, and Lumbar Lordosis. Arch. Phys. Med. Rehabil. 2006, 87, 504–509. [CrossRef]
+27. Makhsous, M.; Lin, F.; Hendrix, R.W.; Hepler, M.; Zhang, L.Q. Sitting with adjustable ischial and back supports: Biomechanical
+changes. Spine 2003, 28, 1113–1121; discussion 1121–1122. [CrossRef]
+28. Wong, A.Y.L.; Chan, T.P .M.; Chau, A.W.M.; Tung Cheung, H.; Kwan, K.C.K.; Lam, A.K.H.; Wong, P .Y.C.; De Carvalho, D. Do
+different sitting postures affect spinal biomechanics of asymptomatic individuals? Gait Posture 2019, 67, 230–235. [CrossRef]
+29. Baumgartner, D.; Zemp, R.; List, R.; Stoop, M.; Naxera, J.; Elsig, J.P .; Lorenzetti, S. The spinal curvature of three different sitting
+positions analysed in an open MRI scanner. Sci. World J. 2012, 2012, 184016. [CrossRef] [PubMed]
+30. Bae, J.S.; Jang, J.S.; Lee, S.H.; Kim, J.U. A comparison study on the change in lumbar lordosis when standing, sitting on a chair,
+and sitting on the ﬂoor in normal individuals. J. Korean Neurosurg. Soc. 2012, 51, 20–23. [CrossRef]
+31. Cho, I.Y.; Park, S.Y.; Park, J.H.; Kim, T.K.; Jung, T.W.; Lee, H.M. The Effect of Standing and Different Sitting Positions on Lumbar
+Lordosis: Radiographic Study of 30 Healthy Volunteers. Asian Spine J. 2015, 9, 762–769. [CrossRef] [PubMed]
+32. De Carvalho, D.; Grondin, D.; Callaghan, J. The impact of ofﬁce chair features on lumbar lordosis, intervertebral joint and sacral
+tilt angles: A radiographic assessment. Ergonomics 2017, 60, 1393–1404. [CrossRef]
+33. Alamin, T.F.; Agarwal, V .; Zagel, A.; Qeli, A. The effect of standing vs. variants of the seated position on lumbar intersegmental
+angulation and spacing: A radiographic study of 20 asymptomatic subjects. J. Spine Surg. 2018, 4, 509–515. [CrossRef] [PubMed]
+34. Van Dieën, J.; De Looze, M.; Hermans, V . Effects of dynamic ofﬁce chairs on trunk kinematics, trunk extensor EMG and spinal
+shrinkage. Ergonomics 2001, 44, 739–750. [CrossRef]
+35. Dunk, N.M.; Callaghan, J.P . Gender-based differences in postural responses to seated exposures. Clin. Biomech. 2005, 20,
+1101–1110. [CrossRef] [PubMed]
+36. Harrison, D.E.; Harrison, D.D.; Cailliet, R.; Janik, T.J.; Holland, B. Radiographic analysis of lumbar lordosis: Centroid, Cobb,
+TRALL, and Harrison posterior tangent methods. Spine 2001, 26, E235–E242. [CrossRef]
+37. Troyanovich, S.J.; Cailliet, R.; Janik, T.J.; Harrison, D.D.; Harrison, D.E. Radiographic mensuration characteristics of the sagittal
+lumbar spine from a normal population with a method to synthesize prior studies of lordosis. J. Spinal Disord. 1997, 10, 380–386.
+[CrossRef] [PubMed]
+38. Lord, M.J.; Small, J.M.; Dinsay, J.M.; Watkins, R.G. Lumbar lordosis. Effects of sitting and standing.Spine 1997, 22, 2571–2574.
+[CrossRef]
+39. De Carvalho, D.E.; Soave, D.; Ross, K.; Callaghan, J.P . Lumbar spine and pelvic posture between standing and sitting: A radiologic
+investigation including reliability and repeatability of the lumbar lordosis measure. J. Manip. Physiol. Ther. 2010, 33, 48–55.
+[CrossRef]
+40. Wong, W.Y.; Wong, M.S. Detecting spinal posture change in sitting positions with tri-axial accelerometers.Gait Posture 2008, 27,
+168–171. [CrossRef]
+41. Chhikara, A.; McGregor, A.H.; Hadjilucas, L.; Bello, F.; Rice, A.S. Quantitative Assessment of the Motion of the Lumbar Spine and
+Pelvis with Wearable Inertial Sensors. In Proceedings of the 2010 International Conference on Body Sensor Networks, Singapore,
+7–9 June 2010; pp. 9–15.
+42. Stenlund, T.C.; Öhberg, F.; Lundström, R.; Lindroos, O.; Häger, C.; Rehn, B. Inter- and intra-tester reliability when measuring
+seated spinal postures with inertial sensors. Int. J. Ind. Ergon. 2014, 44, 732–738. [CrossRef]
+43. Yoon, C.; Lee, J.; Kim, K.; Kim, H.C.; Chung, S.G. Quantiﬁcation of Lumbar Stability During Wall Plank-and-Roll Activity Using
+Inertial Sensors. PM R J. Inj. Funct. Rehabil. 2015, 7, 803–813. [CrossRef] [PubMed]
+44. Dunk, N.M.; Callaghan, J.P . Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+from matched asymptomatic controls. Work 2010, 35, 3–14. [CrossRef] [PubMed]
+45. Lee, J.K.; Desmoulin, G.T.; Khan, A.H.; Park, E.J. Comparison of 3D spinal motions during stair-climbing between individuals
+with and without low back pain. Gait Posture 2011, 34, 222–226. [CrossRef] [PubMed]
+46. Lee, J.; Yoon, C.; Kim, K.; Cho, M.; Kim, H.C.; Chung, S.G. Lumbar Stability in Healthy Individuals and Low Back Pain Patients
+Quantiﬁed by Wall Plank-and-Roll Test.PM R J. Inj. Funct. Rehabil. 2018, 11, 483–494. [CrossRef] [PubMed]
+47. Paulich, M.; Schepers, M.; Rudigkeit, N.; Bellusci, G. Xsens MTw Awinda: Miniature wireless inertial-magnetic motion tracker for
+highly accurate 3D kinematic applications. Xsens Enschede Neth. 2018, 1, 1–9.
+48. von Elm, E.; Altman, D.G.; Egger, M.; Pocock, S.J.; Gotzsche, P .C.; Vandenbroucke, J.P .; Initiative, S. The Strengthening the
+Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for reporting observational studies. Int. J.
+Surg. 2014, 12, 1495–1499. [CrossRef] [PubMed]
+49. Chakraverty, R.; Pynsent, P .; Isaacs, K. Which spinal levels are identiﬁed by palpation of the iliac crests and the posterior superior
+iliac spines? J. Anat. 2007, 210, 232–236. [CrossRef] [PubMed]
+50. Milani, G.B.; Natal Filho, A.; Amado Joao, S.M. Correlation between lumbar lordosis angle and degree of gynoid lipodystrophy
+(cellulite) in asymptomatic women. Clinics 2008, 63, 503–508. [CrossRef]
+51. Dankaerts, W.; O’Sullivan, P .; Burnett, A.; Straker, L. Differences in sitting postures are associated with nonspeciﬁc chronic low
+back pain disorders when patients are subclassiﬁed. Spine 2006, 31, 698–704. [CrossRef]
+
+===== PAGE 14 =====
+
+J. Clin. Med. 2024, 13, 2728 14 of 14
+52. O’Sullivan, K.; O’Sullivan, L.; O’Sullivan, P .; Dankaerts, W. Investigating the effect of real-time spinal postural biofeedback on
+seated discomfort in people with non-speciﬁc chronic low back pain. Ergonomics 2013, 56, 1315–1325. [CrossRef] [PubMed]
+53. Van Almkerk, M.; Bierling, B.L.; Leermakers, N.; Vinken, J.; Timmermans, A.A. Improving posture and sitting behavior through
+tactile and visual feedback in a sedentary environment. In Proceedings of the 2015 37th Annual International Conference of the
+IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy, 25–29 August 2015; pp. 4570–4573.
+54. Rezaee, M.; Ghasemi, M.; Jafari, N.J.; Izadi, M. Low back pain and related factors among Iranian ofﬁce workers.Int. J. Occup. Hyg.
+2011, 3, 23–28.
+55. Arshad, R.; Pan, F.; Reitmaier, S.; Schmidt, H. Effect of age and sex on lumbar lordosis and the range of motion. A systematic
+review and meta-analysis. J. Biomech. 2019, 82, 1–19. [CrossRef] [PubMed]
+56. Vialle, R.; Levassor, N.; Rillardon, L.; Templier, A.; Skalli, W.; Guigui, P . Radiographic analysis of the sagittal alignment and
+balance of the spine in asymptomatic subjects. J. Bone Jt. Surg. Am. 2005, 87, 260–267. [CrossRef] [PubMed]
+57. Zhu, Z.; Xu, L.; Zhu, F.; Jiang, L.; Wang, Z.; Liu, Z.; Qian, B.P .; Qiu, Y. Sagittal alignment of spine and pelvis in asymptomatic
+adults: Norms in Chinese populations. Spine 2014, 39, E1–E6. [CrossRef] [PubMed]
+58. Damasceno, L.H.F.; Catarin, S.R.G.; Campos, A.D.; Deﬁno, H.L.A. Lumbar lordosis: A study of angle values and of vertebral
+bodies and intervertebral discs role. Acta Ortopédica Bras. 2006, 14, 193–198. [CrossRef]
+59. Endo, K.; Suzuki, H.; Nishimura, H.; Tanaka, H.; Shishido, T.; Yamamoto, K. Sagittal lumbar and pelvic alignment in the standing
+and sitting positions. J. Orthop. Sci. 2012, 17, 682–686. [CrossRef]
+60. MacDonald, D.A.; Moseley, G.L.; Hodges, P .W. The lumbar multiﬁdus: Does the evidence support clinical beliefs?Man. Ther.
+2006, 11, 254–263. [CrossRef]
+61. Ranger, T.A.; Cicuttini, F.M.; Jensen, T.S.; Peiris, W.L.; Hussain, S.M.; Fairley, J.; Urquhart, D.M. Are the size and composition of
+the paraspinal muscles associated with low back pain? A systematic review. Spine J. 2017, 17, 1729–1748. [CrossRef]
+62. O’Sullivan, P .B.; Dankaerts, W.; Burnett, A.F.; Farrell, G.T.; Jefford, E.; Naylor, C.S.; O’Sullivan, K.J. Effect of different upright
+sitting postures on spinal-pelvic curvature and trunk muscle activation in a pain-free population. Spine 2006, 31, E707–E712.
+[CrossRef]
+63. O’Sullivan, P .B.; Grahamslaw, K.M.; Kendell, M.; Lapenskie, S.C.; Möller, N.E.; Richards, K.V . The effect of different standing and
+sitting postures on trunk muscle activity in a pain-free population. Spine 2002, 27, 1238–1244. [CrossRef] [PubMed]
+64. Makhsous, M.; Lin, F.; Bankard, J.; Hendrix, R.W.; Hepler, M.; Press, J. Biomechanical effects of sitting with adjustable ischial and
+lumbar support on occupational low back pain: Evaluation of sitting load and back muscle activity. BMC Musculoskelet. Disord.
+2009, 10, 17. [CrossRef] [PubMed]
+65. Andersson, B.G.; Örtengren, R.; Nachemson, A.L.; Elfström, G.; Broman, H. The sitting posture: An electromyographic and
+discometric study. Orthop. Clin. N. Am. 1975, 6, 105–120. [CrossRef]
+66. Gregory, D.E.; Dunk, N.M.; Callaghan, J.P . Stability ball versus ofﬁce chair: Comparison of muscle activation and lumbar spine
+posture during prolonged sitting. Hum. Factors 2006, 48, 142–153. [CrossRef] [PubMed]
+67. Williams, M.M.; Hawley, J.A.; McKenzie, R.A.; van Wijmen, P .M. A comparison of the effects of two sitting postures on back and
+referred pain. Spine 1991, 16, 1185–1191. [CrossRef] [PubMed]
+68. Aota, Y.; Iizuka, H.; Ishige, Y.; Mochida, T.; Yoshihisa, T.; Uesugi, M.; Saito, T. Effectiveness of a lumbar support continuous
+passive motion device in the prevention of low back pain during prolonged sitting. Spine 2007, 32, E674–E677. [CrossRef]
+69. Pillastrini, P .; Mugnai, R.; Bertozzi, L.; Costi, S.; Curti, S.; Guccione, A.; Mattioli, S.; Violante, F.S. Effectiveness of an ergonomic
+intervention on work-related posture and low back pain in video display terminal operators: A 3 year cross-over trial. Appl. Erg.
+2010, 41, 436–443. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

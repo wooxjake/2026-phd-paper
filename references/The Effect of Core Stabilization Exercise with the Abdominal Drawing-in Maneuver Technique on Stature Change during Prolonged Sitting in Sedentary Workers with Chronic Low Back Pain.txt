@@ -1,0 +1,1139 @@
+===== PAGE 1 =====
+
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Saiklang, P .; Puntumetakul,
+R.; Chatprem, T. The Effect of Core
+Stabilization Exercise with the
+Abdominal Drawing-in Maneuver
+Technique on Stature Change during
+Prolonged Sitting in Sedentary
+Workers with Chronic Low Back Pain.
+Int. J. Environ. Res. Public Health 2022,
+19, 1904. https://doi.org/10.3390/
+ijerph19031904
+Academic Editors: Sergio Iavicoli,
+Vincenzo Denaro, Gianluca Vadalà
+and Fabrizio Russo
+Received: 23 December 2021
+Accepted: 5 February 2022
+Published: 8 February 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+International  Journal  of 
+Environmental Research
+and Public Health
+Article
+The Effect of Core Stabilization Exercise with the Abdominal
+Drawing-in Maneuver Technique on Stature Change during
+Prolonged Sitting in Sedentary Workers with Chronic Low
+Back Pain
+Pongsatorn Saiklang 1, Rungthip Puntumetakul 2,3, *
+ and Thiwaphon Chatprem 2
+1 Division of Physical Therapy, Faculty of Physical Therapy, Srinakharinwiroj University,
+Nakhonnayok 26120, Thailand; Pongsatornsa@g.swu.ac.th
+2 Research Center of Back, Neck, Other Joint Pain and Human Performance (BNOJPH), Khon Kaen University,
+Khon Kaen 40002, Thailand; Thiwaphon.ao@gmail.com
+3 Department of Physical Therapy, Faculty of Associated Medical Sciences, Khon Kaen University,
+Khon Kaen 40002, Thailand
+* Correspondence: Rungthiprt@gmail.com
+Abstract: To enhance stature recovery, lumbar spine stabilization by stimulating the deep trunk
+muscle activation for compensation forces originating from the upper body was introduced. The
+abdominal drawing-in maneuver (ADIM) technique has been found mainly to activate deep trunk
+muscles. The purpose of the current study was to determine whether 5 weeks of training of deep
+trunk muscles using the ADIM technique could improve stature recovery, delay trunk muscle fatigue,
+and decrease pain intensity during prolonged sitting. Thirty participants with chronic low back
+pain (CLBP) conducted a core stabilization exercise (CSE) with the ADIM technique for 5 weeks.
+Participants were required to sit for 41 min before and after the exercise intervention. Stature change
+was measured using a seated stadiometer with a resolution of ±0.006 mm. During sitting, the
+stature change, pain intensity, and trunk muscle fatigue were recorded. A comparison between
+measurements at baseline and after 5 weeks of training demonstrated: (i) stature recovery and pain
+intensity signiﬁcantly improved throughout the 41 min sitting condition; (ii) the bilaterally trunk
+muscle showed signiﬁcantly decreased fatigue. The CSE with the ADIM technique was shown to
+provide a protective effect on detrimental reductions in stature change and trunk muscle fatigue
+during prolonged sitting in young participants under controlled conditions in a laboratory. This
+information may help to prevent the risk of LBP from prolonged sitting activities in real life situations.
+Keywords: spinal load; core stability; ergonomics
+1. Introduction
+Sedentary behavior is characterized by an energy expenditure less than or equal to
+1.5 metabolic equivalents (METs) while in a sitting or reclining position when awake [1].
+Today, increasing numbers of individuals spend extended periods in a seated position at
+work as well as during leisure time [2,3]. Recently, sedentary workers in Thailand reported
+recurring low back pain, with 63% showing that their low back pain was aggravated by
+sitting during working hours [4]. Chronic low back pain (CLBP) has a global prevalence
+of 11–23% among people with low back pain [5,6]. The socioeconomic burden of CLBP
+stems from a prolonged loss of function, which consequently results in decreased work
+productivity and increased medical costs [5,7].
+Deep trunk muscle fatigue may arise from continuous contraction of the trunk muscles
+during prolonged sitting [ 8–10]. This fatigue reduces muscular support to the spine
+and increases stress on ligaments and intervertebral discs [9,10]; consequently, it reduces
+intervertebral disc height [11,12]. Reductions in disc height could increase compressive
+Int. J. Environ. Res. Public Health 2022, 19, 1904. https://doi.org/10.3390/ijerph19031904 https://www.mdpi.com/journal/ijerph
+
+===== PAGE 2 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 2 of 15
+stress on sensitive spinal structures [13,14] and may stimulate nociceptor activity, leading
+to pain [14]. Stature change measurement is a method used to reﬂect alterations in spinal
+length, and the reduction of spinal length is known as spinal shrinkage or stature loss [15].
+Prolonged sitting postures could lead to stature reduction and ultimately to low back
+pain [9,16,17].
+Trunk muscles play an essential role in contributing to spinal stability [18]. There are
+two types of trunk muscle systems: superﬁcial and deep [19,20]. The internal oblique (IO),
+transversus abdominis (TrA), and lumbar multiﬁdus (LM) muscles represent a deep muscle
+system that compensates for forces on the upper body of the spine and increases lumbar
+stability [18,21]. Previous studies reported changes in the muscle recruitment pattern and
+timing of muscle onset in people with low back pain [22,23]. Increased superﬁcial trunk
+muscle activation occurs to compensate for deep trunk muscle dysfunction [ 24,25], in
+which the neural control subsystem attempts to maintain spinal stability [18,26]. Increased
+activation of the superﬁcial trunk muscle can compress the spinal structure and lead to
+delayed stature recovery [25,27].
+Previous research reported that superﬁcial trunk muscle activity can be reduced by
+activating the deep trunk muscles using the abdominal drawing-in maneuver (ADIM)
+technique [15,28,29]. The ADIM technique is known to elicit preferential recruitment of the
+transversus abdominis muscle with minimal activation of the superﬁcial trunk muscles. For
+this technique, participants are instructed to ‘gently draw in their lower abdomen toward
+the spine’ [13]. Saiklang et al. (2020) investigated the change in stature recovery in patients
+with CLBP following the immediate effect of the ADIM technique for 1 min repeated three
+times throughout a 41 min prolonged sitting period. The results demonstrated that the
+ADIM technique signiﬁcantly improved stature recovery and increased TrA and IO muscle
+activities and TrA and IO/RA ratios compared with upright sitting without exercise [15].
+To date, no investigation has reported the effect of the long-term impact of the core
+stabilization exercise (CSE) with the ADIM technique program focusing on deep trunk
+muscle on stature recovery during prolonged sitting. The CSE with ADIM technique aims
+to improve neuromuscular control skills, relearn normal function, and enhance endurance
+of the deep muscles around the lumbar spine, such as the TrA and LM muscles [28,30].
+The aim of the current study was to investigate differences in stature change, pain,
+and trunk muscle fatigue during prolonged sitting in seated sedentary workers with CLBP
+between baseline and the ﬁrst day after a 5-week CSE with the ADIM technique. We
+hypothesized that the 5-week CSE with the ADIM technique can improve deep trunk
+muscle endurance, reduce pain, and delay stature reduction during prolonged sitting.
+2. Materials and Methods
+2.1. Design and Setting
+The study used a within-subject repeated-measures design. It was conducted at
+the research center of the Back, Neck, Other Joint Pain and Human Performance (BNO-
+JPH) laboratory, Khon Kaen University, Thailand. Ethics approval for this research was
+granted before the study by the Human Research Ethics Committee (HE612220) of Khon
+Kaen University. The study was registered at clinicaltrials.in.th (registration number:
+TCTR20180823004).
+2.2. Participants
+Thirty participants, aged 20–39 years, were recruited via posters on bulletin boards
+at Khon Kaen University. Fifteen males and ﬁfteen females were recruited to reduce the
+inﬂuence of gender. Inclusion criteria for the participants were established as follows:
+CLBP lasting more than three months, mild to moderate levels of pain on the numerical
+rating scale (NRS; ≤7 score) [31,32], low levels of activity limitation on the Roland Morris
+disability questionnaire (RMDQ; ≤12 score) [33], and reported sitting for at least two hours
+on any working day [9]. Participants were excluded if they had previous vertebral surgery,
+
+===== PAGE 3 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 3 of 15
+had been identiﬁed with a medical condition that affected spinal soft tissues, or were
+pregnant [32,34].
+2.3. Sample Size Determination
+The sample size was calculated after preliminary data collection from 12 participants
+(six male and six female) who performed the CSE with ADIM for 5 weeks. The mean
+difference of the stature changes before and after the exercise intervention was set at 3 mm.
+A signiﬁcance level of 0.05 (Zα (0.05) = 1.96) and a power of 90% (Z β (0.1) = 1.28) were
+used in the calculation. After an additional 15% correction for dropouts, the number of
+subjects was 21. Thus, the current study required at least 30 participants (15 males and
+15 females for balanced gender) to achieve sufﬁcient statistical power for the analyses.
+2.4. Outcome Measurements
+2.4.1. Stature Change Response
+Stature change response was measured using a seated stadiometer device (certiﬁed
+Thai petty-patent No. 5607; Figure 1) [15,34]. The Digimatic Indicator identiﬁes variations
+in stature change with a resolution of ±0.006 mm and was used to measure stature change.
+The device displays real-time data and repeatedly records data up to 5 Hz (ID-C 150,
+1050 Digimatic Indicator, Manual No. 3061, Series No. 543, Mitutoyo, Kawasaki, Japan).
+Int. J. Environ. Res. Public Health 2022, 19, x FOR PEER REVIEW 3 of 16  
+ 
+influence of gender. Inclusion criteria for the partic ipants were established as follows: 
+CLBP lasting more than three months, mild to moderate levels of pain on the numerical 
+rating scale (NRS; ≤7 score) [31,32], low levels of activity limitation on the Roland Morris 
+disability questionnaire (RMDQ; ≤12 score) [33], and reported sitting for at least two hours 
+on any working day [9]. Participants were excluded if they had previous vertebral sur-
+gery, had been identified with a medical condition that affected spinal soft tissues, or were 
+pregnant [32,34]. 
+2.3. Sample Size Determination  
+The sample size was calculated after preliminary data collection from 12 participants 
+(six male and six female) who performed the CSE with ADIM for 5 weeks. The mean dif-
+ference of the stature changes before and after the exercise intervention  was set at 3 mm. 
+A significance level of 0.05 (Zα (0.05) = 1.96) and a power of 90% (Zβ (0.1) = 1.28) were used 
+in the calculation. After an additional 15% correction for dropouts, the number of subjects 
+was 21. Thus, the current study required at least 30 participants (15 males and 15 females 
+for balanced gender) to achieve sufficient statistical power for the analyses. 
+2.4. Outcome Measurements 
+2.4.1. Stature Change Response 
+Stature change response was measured using a seated stadiometer device (certifie d 
+Thai petty-patent No. 5607; Figure 1) [15,34]. The Digimatic Indicator identifies variations 
+in stature change with a resolution of ±0.006 mm and was used to measure stature change. 
+The device displays real-time data and repeatedly records data up to 5 Hz (ID-C 150, 1050 
+Digimatic Indicator, Manual No. 3061, Series No. 543, Mitutoyo, Kawasaki, Japan).   
+ 
+Figure 1. A seated stadiometer device: (A) participant position, (B) feedback chart. Source: [15]. 
+The position of the participants was controlled during the measurements as follows:  
+(i) The Digimatic Indicator settings allowed the distal end to rest directly on the high-
+est apex of the skull to ensure its consistent positioning throughout participant reposition-
+ing (Figure 1) [15,34]. 
+(ii) Head positioning with the eyes kept level was maintained by coaching the partic-
+ipants to concentrate on a visual cue, a letter on an alphabet chart, placed at eye level on 
+the opposite end (Figure 1B) [15,34].  
+(iii) The wooden seat platform and footrest were adjustable so that the participants’ 
+ankle, knee, and hip joints were positioned at 90 ° throughout the measurements.  Heels 
+touched the back of the footrest [35]. The head and sacral supports were adjustable to 
+accommodate the participants ’ spinal posture [35]. A pill ow was placed on the partici-
+pants’ lap to support their forearms positioned at 90° to their upper arms (Figure 1A).  
+(iv) The spinal alignment was controlled by sensors placed on the spinous processes 
+of the following vertebrae: cervical spine 4, thoracic spine 4, thoracic spine 12, and lumbar 
+spine 3. These sensors were connected to a light diode feedback located opposite the 
+Digimetric indicator
+Alphabet chart
+Head support
+Spinal sensors
+Sacral support
+Wooden seat
+Adjustable footrest
+Light diode
+feedback
+Light diode feedback
+Alphabet chart
+C4
+T4
+T12
+L3
+2.0 m
+1.4m
+T4
+T12
+L3
+C4
+A BConnected to 
+computer software
+Pillow
+Figure 1. A seated stadiometer device: (A) participant position, (B) feedback chart. Source: [15].
+The position of the participants was controlled during the measurements as follows:
+(i) The Digimatic Indicator settings allowed the distal end to rest directly on the highest
+apex of the skull to ensure its consistent positioning throughout participant repositioning
+(Figure 1) [15,34].
+(ii) Head positioning with the eyes kept level was maintained by coaching the partici-
+pants to concentrate on a visual cue, a letter on an alphabet chart, placed at eye level on the
+opposite end (Figure 1B) [15,34].
+(iii) The wooden seat platform and footrest were adjustable so that the participants’
+ankle, knee, and hip joints were positioned at 90 ◦ throughout the measurements. Heels
+touched the back of the footrest [ 35]. The head and sacral supports were adjustable to
+accommodate the participants’ spinal posture [35]. A pillow was placed on the participants’
+lap to support their forearms positioned at 90◦ to their upper arms (Figure 1A).
+(iv) The spinal alignment was controlled by sensors placed on the spinous processes
+of the following vertebrae: cervical spine 4, thoracic spine 4, thoracic spine 12, and lumbar
+spine 3. These sensors were connected to a light diode feedback located opposite the seated
+participant (Figure 1B) [12,15]. These sensors were used as a measure for control to ensure
+that the participants maintained the same posture throughout the experiment period. The
+process of stature change measurement was performed by Researcher P .S.
+2.4.2. Trunk Muscle Fatigue
+Eight pairs of Ag-AgCl disposable surface electromyography (sEMG) electrodes (EL
+503) with electrical contact surface areas of 1 cm2 and a center-to-center spacing of 2.5 cm
+
+===== PAGE 4 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 4 of 15
+were attached parallel to each muscle on both sides: to the rectus abdominis muscle
+(RA) [36], the internal oblique and transversus abdominis (IO and TrA) [37], the iliocostalis
+lumborum pars thoracis (ICLT) [38], and the lumbar multiﬁdus (LM) [30] after skin abrasion
+and cleaning with alcohol. Electromyography (EMG) data were recorded at 2000 Hz using
+the Wireless Bipolar Cometa Mini Wave Plus 16-channel EMG system (Cometa, Bareggio,
+Italy), an online band-pass ﬁlter (10–500 Hz), and a 60 Hz notch ﬁlter (power line in
+Thailand). The raw EMG signal was ﬁrst visually checked for electrocardiac artifacts. The
+raw EMG signal was processed with fast Fourier transformation to determine the median
+frequency (MDF) value (Hz). The decrease in the MDF of the EMG signal was taken as an
+indirect measure of muscle fatigue [6]. Trunk muscle fatigue was collected by Researcher
+P .S.
+2.4.3. Pain Rating Scale
+Pain intensity was assessed using an 11-point numerical rating scale (0–10 NRS).
+Subjective measures of pain were obtained from the NRS, employed to assess pain on a scale
+ranging from 0 (no pain) to 10 (worst possible pain) [31,39]. This outcome measurement
+was evaluated by Researcher T.C.
+2.4.4. Functional Disability
+The Roland Morris disability questionnaire (RMDQ) Thai version was used to assess
+functional disability due to low back pain [40]. This questionnaire includes 24 items [41],
+which were rated by Researcher T.C.
+2.5. Procedure
+The ﬂowchart of the current study is presented in Figure 2. Thirty-three participants
+were recruited from the advertisements. After the screening process, 30 participants were
+included in the study. Three participants were excluded due to experiencing low back pain
+>7 based on the NRS. Thirty participants meeting the inclusion criteria were asked to visit
+the research laboratory.
+Int. J. Environ. Res. Public Health 2022, 19, x FOR PEER REVIEW 5 of 16  
+ 
+their exercises completely.  The outcomes were re-measured on the first day after the 5 -
+week CSE with the ADIM technique.  
+  
+Figure 2. Flowchart of the study. 
+2.6. Prolonged Sitting Condition  
+An overview of the prolonged sitting condition, with time points and their outcome 
+measurements, is shown in Figure 3. Participants sat in the seated stadiometer, according 
+to conditions described in 2.4.1, with the Digimatic Indicator in contact with the skull 
+apex, marked by a waterproof pen.  During the measurements, the participants remained 
+in the same posture without speaking.  To reduce errors in the spinal change measure-
+ments due to involuntary movements and slight differences in the breathing phase, all 
+measurements were taken at the end of the expiration phase of the breathing cycle [35,46]. 
+Each measurement set, consisting of 75 data points sampled over 15 s, was considered at 
+time 0 and at the end of a 2  min interval, which reduced the effect of variations in the 
+stature change assessment due to both breathing patterns and uncontrolled m ovements 
+[12,34,35]. 
+Figure 2. Flowchart of the study.
+
+===== PAGE 5 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 5 of 15
+On the ﬁrst day, the participants were familiarized with the stature change measure-
+ment. These involved participants practiced stepping in and out of the stadiometer until
+a standard deviation (SD) of <0.5 mm was achieved over ten repeated stature measure-
+ments [12,42]. Then, they were asked about their disability score (RMDQ) and pain intensity
+at rest (NRS).
+On the second day, all participants arrived within an hour of waking, between 8 and
+10 a.m. [42,43] to avoid stature loss before the test trial. They were requested to sleep for at
+least 8 h each night before the days of the experiment [44]. They were asked to undertake
+normal activities of daily living, refrain from vigorous physical activities, and refrain from
+alcohol consumption for 24 h before the experimental sessions [45]. After the application of
+surface electrodes, the participants were asked to maintain the Fowler’s position (lying)
+for 20 min to eliminate any abnormal spinal loading that may have been present before
+arrival [34,45]. Then, they were asked to sit for 41 min, and the outcome measurements
+were collected, as shown in Figure 3.
+Int. J. Environ. Res. Public Health 2022, 19, x FOR PEER REVIEW 6 of 16  
+ 
+ 
+Figure 3. Overview of the prolonged sitting condition. The upright sitting periods (back zone) are 
+presented below the axis. Arrows illustrate times of outcome measurement: stature change, pain 
+intensity, and muscle fatigue. Partici pants sit in the seated stadiometer and perform the upright 
+sitting three times (at 12–13, 25–26, and 38–39 min) throughout the prolonged sitting time of 41 min. 
+Stature change measurements are collected at Tsit (1 0–12 min), T1 (13–15 min), T2 (26–28 min), T3 
+(39–41 min). Pain intensity measurements are collected at T1 (13 –15 min), T2 (26 –28 min), and T3 
+(39–41 min). Muscle fatigue measurements are collected at 0–10, 15–25, and 28–38 min. 
+A baseline stature measurement set was recorded (T0). During the test trials, the par-
+ticipants remained in a freestyle sitting position, which did not require a straight back, 
+without a backrest for 10 min. Then, the stature change (Tsit) in the participants was meas-
+ured to be used as a normalized value. Next, the participant was asked to sit upright for 1 
+min. The stature change and pain intensity were measured at the end of each session (T1 
+[at 13–15 min], T2 [at 26–28 min], and T3 [at 39–41 min]). The raw sEMG signal was pro-
+cessed using the triangle-Bartlett method of fast Fourier transformation to determine the 
+median frequency (MDF)  value. The sEMG data were retrieved every 10  min block of 
+sEMG data from the 41  min sitting period  (at 0–10, 15–25, and 28–38 min)  for analysis, 
+Figure 3. The total time for each test trial w as 41 min.  Participants were not allowed to 
+stand during the test trials. 
+2.7. Core Stabilization Exercise (CSE) with ADIM Technique 
+The exercise program was supervised by a physical therapist with 30 years of expe-
+rience (RP). This exercise program was modified from Puntumetakul et al. [28]. The details 
+of the CSE each week are appended (Table A1). Researcher R.P. trained this exercise to all 
+participants face-to-face in a 20  min session. The participants were re -assessed with re-
+searcher R.P. twice a week for 5 weeks at the laboratory to determine whether they could 
+successfully perform the previous exercise. As the CSE with the ADIM technique was a 
+milestone exercise, if the participants failed to perform the previous exercise accurately, 
+they were retrained in the previous exercise until they succeeded.  The participants were 
+required to perform a daily set of home exercises of the same level, position, and fre-
+quency as those demonstrated during the exercise session with the physical therapist. The 
+participants were asked to record in their logbook a daily home exercise program, includ-
+ing position, duration, and frequency of the exercise, as well as a record of their drug and 
+alternative treatment throughout the study period and any adverse effects of the exercise. 
+During the exercise, one of the researchers contacted the participants by telephone every 
+week to motivate them to continue their daily home exercises.  After 5 weeks of training, 
+all participants were asked to stop their exercises completely. 
+  
+Prefered sitting 
+10 minutes
+Total sitting 
+41 minutes
+Prefered sitting 
+10 minutes
+Prefered sitting 
+10 minutes
+10 12 13 15 26 28 39 41
+Upright sitting 
+1 minute
+Time (code)
+Time (minute)
+Upright sitting 
+1 minute
+Upright sitting 
+1 minute
+T0 T1Tsit T2 T3
+Stature change
+Pain intensity
+Muscle fatigue
+0
+Figure 3. Overview of the prolonged sitting condition. The upright sitting periods (back zone) are
+presented below the axis. Arrows illustrate times of outcome measurement: stature change, pain
+intensity, and muscle fatigue. Participants sit in the seated stadiometer and perform the upright
+sitting three times (at 12–13, 25–26, and 38–39 min) throughout the prolonged sitting time of 41 min.
+Stature change measurements are collected at Tsit (10–12 min), T1 (13–15 min), T2 (26–28 min),
+T3 (39–41 min). Pain intensity measurements are collected at T1 (13–15 min), T2 (26–28 min), and
+T3 (39–41 min). Muscle fatigue measurements are collected at 0–10, 15–25, and 28–38 min.
+Next, the participants were asked to practice CSE using the ADIM technique with the
+researcher R.P . When they could perform this correctly, they were required to exercise CSE
+with ADIM for 5 weeks. After 5 weeks of training, all participants were asked to stop their
+exercises completely. The outcomes were re-measured on the ﬁrst day after the 5-week CSE
+with the ADIM technique.
+2.6. Prolonged Sitting Condition
+An overview of the prolonged sitting condition, with time points and their outcome
+measurements, is shown in Figure 3. Participants sat in the seated stadiometer, according
+to conditions described in 2.4.1, with the Digimatic Indicator in contact with the skull apex,
+marked by a waterproof pen. During the measurements, the participants remained in the
+same posture without speaking. To reduce errors in the spinal change measurements due
+to involuntary movements and slight differences in the breathing phase, all measurements
+were taken at the end of the expiration phase of the breathing cycle [35,46]. Each measure-
+ment set, consisting of 75 data points sampled over 15 s, was considered at time 0 and at
+the end of a 2 min interval, which reduced the effect of variations in the stature change
+assessment due to both breathing patterns and uncontrolled movements [12,34,35].
+
+===== PAGE 6 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 6 of 15
+A baseline stature measurement set was recorded (T 0). During the test trials, the
+participants remained in a freestyle sitting position, which did not require a straight back,
+without a backrest for 10 min. Then, the stature change (Tsit) in the participants was
+measured to be used as a normalized value. Next, the participant was asked to sit upright
+for 1 min. The stature change and pain intensity were measured at the end of each session
+(T1 [at 13–15 min], T2 [at 26–28 min], and T3 [at 39–41 min]). The raw sEMG signal was
+processed using the triangle-Bartlett method of fast Fourier transformation to determine
+the median frequency (MDF) value. The sEMG data were retrieved every 10 min block
+of sEMG data from the 41 min sitting period (at 0–10, 15–25, and 28–38 min) for analysis,
+Figure 3. The total time for each test trial was 41 min. Participants were not allowed to
+stand during the test trials.
+2.7. Core Stabilization Exercise (CSE) with ADIM T echnique
+The exercise program was supervised by a physical therapist with 30 years of experi-
+ence (RP). This exercise program was modiﬁed from Puntumetakul et al. [28]. The details
+of the CSE each week are appended (Table A1). Researcher R.P . trained this exercise to
+all participants face-to-face in a 20 min session. The participants were re-assessed with
+researcher R.P . twice a week for 5 weeks at the laboratory to determine whether they could
+successfully perform the previous exercise. As the CSE with the ADIM technique was a
+milestone exercise, if the participants failed to perform the previous exercise accurately,
+they were retrained in the previous exercise until they succeeded. The participants were
+required to perform a daily set of home exercises of the same level, position, and frequency
+as those demonstrated during the exercise session with the physical therapist. The par-
+ticipants were asked to record in their logbook a daily home exercise program, including
+position, duration, and frequency of the exercise, as well as a record of their drug and
+alternative treatment throughout the study period and any adverse effects of the exercise.
+During the exercise, one of the researchers contacted the participants by telephone every
+week to motivate them to continue their daily home exercises. After 5 weeks of training, all
+participants were asked to stop their exercises completely.
+2.8. Data Analysis
+The mean and standard deviation (SD) were used to assess participants’ demographics
+and data of stature change at each time of measurement and were calculated from the
+reference point of T sit. Differences in stature within a condition were assessed using a
+one-way repeated measure ANOVA for time effect (T1, T2, and T3) with the Bonferroni
+post-hoc analysis (signiﬁcant at p < 0.017; 0.05/3).
+The differences in trunk muscle fatigue and pain intensity within the condition for
+non-normally distributed data were analyzed using the Friedman test, and post hoc tests
+were conducted using Wilcoxon signed-rank tests. A signiﬁcance level was set atp < 0.05
+for trunk muscle fatigue and pain intensity.
+Data comparisons before and after the ﬁrst day of the 5-week CSE regarding pain at
+rest and functional disability were analyzed using the paired t-test (p < 0.05). During the
+prolonged sitting condition, the data comparison before and after the ﬁrst day of 5 weeks
+of the exercise on stature change was analyzed using the paired t-test (p < 0.05). Further,
+the pain intensity and trunk muscle fatigue were analyzed using Wilcoxon signed-rank
+tests (p < 0.05).
+All analyses were performed using SPSS version 19.0 software (SPSS Inc., Chicago, IL,
+USA). The Shapiro–Wilk test was performed to check the data distribution.
+3. Results
+3.1. Participant Characteristics
+All participants achieved the preferred level of repeatability for the stature change
+measurements (SD ≤ 0.5 mm). The participants reported that they did not use any drug for
+reducing their low back pain and had no adverse repercussions of the exercise throughout
+
+===== PAGE 7 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 7 of 15
+the 5 weeks of the training. The demographic data and clinical characteristics are presented
+in Table 1.
+Table 1. Demographic characteristics of participants.
+Characteristics Male (n = 15) Female (n = 15) Total (n = 30)
+Age (years), mean ± SD 25.67 ± 3.35 26.07 ± 3.37 25.87 ± 3.31
+Weight (kg), mean ± SD 63.93 ± 7.94 52.80 ± 4.84 58.37 ± 8.59
+BMI (kg m−2), mean ± SD 22.11 ± 1.90 20.95 ± 1.28 21.53 ± 1.70
+Sitting height (cm), mean ± SD 87.93 ± 5.38 84.50 ± 3.39 86.22 ± 4.75
+Standing height (cm), mean ± SD 169.80 ± 5.16 158.67 ± 4.70 164.23 ± 7.45
+Smoking status no no no
+Occupation, n (%)
+-Student 12 (80) 13 (86.67) 25 (83.33)
+-Ofﬁce worker 3 (20) 2 (13.33) 5 (16.67)
+Working time (hours/day), mean ± SD 8.60 ± 2.95 7.60 ± 2.13 8.10 ± 2.58
+Period of LBP (month), mean ± SD 10.73 ± 6.18 10.53 ± 4.60 10.63 ± 5.35
+Disability index score, mean ± SD 4.20 ± 1.82 4.80 ± 1.82 4.50 ± 1.81
+Pain scale 24 h (score), mean ± SD 4.27 ± 1.33 4.47 ± 1.36 4.37 ± 1.33
+Note: SD = Standard deviation; BMI = Body mass index.
+3.2. Pain Intensity at Rest and Functional Disability
+The results showed a signiﬁcant reduction in pain intensity (mean difference:
+2.14 ± 1.50 (95% CI: 1.57 to 2.69) at p < 0.001) and functional disability (mean difference:
+2.33 ± 1.81 (95% CI: 1.66 to 3.01) at p < 0.001) between baseline and the 5-week CSE with
+the ADIM, as shown in Figures 4 and 5, respectively.
+Int. J. Environ. Res. Public Health 2022, 19, x FOR PEER REVIEW 8 of 16  
+ 
+ 
+Figure 4. Mean and standard deviation (SD) of pain intensity from baseline to 5 weeks of CSE (**  p 
+< 0.001). 
+ 
+Figure 5. Mean and standard deviation (SD) of functional disability from baseline to 5 weeks of CSE 
+(** p < 0.001). 
+3.3. Stature Changes during Sitting 
+The stature changes during sitting before and after CSE are shown in Table 2.  The 
+result of stature change after sitting for 10 min (Tsit) showed no significant differences be-
+tween baseline and after the 5-week CSE with the ADIM technique (p = 0.458). This result 
+indicates that T sit between baseline and after the 5 -week CSE with the ADIM technique  
+was comparable and could be used as a reference point for the stature changes calculation 
+at T1, T2, and T3. 
+Table 2. The stature change during sitting before and after CSE with ADIM. 
+ 
+Tsit (mm)  
+Mean ±  SD 
+(95%CI) 
+Mean Change from Tsit (mm) 
+Mean ±  SD (95%CI) 
+T1 T2 T3 
+Baseline 
+−4.266 ± 2.221 
+(−5.095 to −3.437) 
+ 
+−3.999 ± 1.482 
+(−4.553 to −3.446) 
+g*h** 
+−5.782 ± 1.605 
+(−6.382 to −5.183) 
+f*h* 
+−7.365 ± 2.180 
+(−8.179 to −6.552) 
+f**g* 
+After 5 weeks 
+of CSE with 
+−3.864 ± 1.986 
+(−4.605 to −3.122) 
+−2.538 ± 1.004 
+(−2.913 to −2.163) 
+g*h** 
+−4.027 ± 1.306 
+(−4.515 to −3.539) 
+f**h* 
+−5.367 ± 1.258 
+(−5.837 to −4.897) 
+f**g* 
+Figure 4. Mean and standard deviation (SD) of pain intensity from baseline to 5 weeks of CSE
+(** p < 0.001).
+
+===== PAGE 8 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 8 of 15
+Int. J. Environ. Res. Public Health 2022, 19, x FOR PEER REVIEW 8 of 16  
+ 
+ 
+Figure 4. Mean and standard deviation (SD) of pain intensity from baseline to 5 weeks of CSE (**  p 
+< 0.001). 
+ 
+Figure 5. Mean and standard deviation (SD) of functional disability from baseline to 5 weeks of CSE 
+(** p < 0.001). 
+3.3. Stature Changes during Sitting 
+The stature changes during sitting before and after CSE are shown in Table 2.  The 
+result of stature change after sitting for 10 min (Tsit) showed no significant differences be-
+tween baseline and after the 5-week CSE with the ADIM technique (p = 0.458). This result 
+indicates that T sit between baseline and after the 5 -week CSE with the ADIM technique  
+was comparable and could be used as a reference point for the stature changes calculation 
+at T1, T2, and T3. 
+Table 2. The stature change during sitting before and after CSE with ADIM. 
+ 
+Tsit (mm)  
+Mean ±  SD 
+(95%CI) 
+Mean Change from Tsit (mm) 
+Mean ±  SD (95%CI) 
+T1 T2 T3 
+Baseline 
+−4.266 ± 2.221 
+(−5.095 to −3.437) 
+ 
+−3.999 ± 1.482 
+(−4.553 to −3.446) 
+g*h** 
+−5.782 ± 1.605 
+(−6.382 to −5.183) 
+f*h* 
+−7.365 ± 2.180 
+(−8.179 to −6.552) 
+f**g* 
+After 5 weeks 
+of CSE with 
+−3.864 ± 1.986 
+(−4.605 to −3.122) 
+−2.538 ± 1.004 
+(−2.913 to −2.163) 
+g*h** 
+−4.027 ± 1.306 
+(−4.515 to −3.539) 
+f**h* 
+−5.367 ± 1.258 
+(−5.837 to −4.897) 
+f**g* 
+Figure 5. Mean and standard deviation (SD) of functional disability from baseline to 5 weeks of CSE
+(** p < 0.001).
+3.3. Stature Changes during Sitting
+The stature changes during sitting before and after CSE are shown in Table 2. The
+result of stature change after sitting for 10 min (T sit) showed no signiﬁcant differences
+between baseline and after the 5-week CSE with the ADIM technique (p = 0.458). This result
+indicates that Tsit between baseline and after the 5-week CSE with the ADIM technique
+was comparable and could be used as a reference point for the stature changes calculation
+at T1, T2, and T3.
+Table 2. The stature change during sitting before and after CSE with ADIM.
+Tsit (mm)
+Mean ± SD
+(95%CI)
+Mean Change from Tsit (mm)
+Mean ± SD (95%CI)
+T1 T2 T3
+Baseline
+−4.266 ± 2.221
+(−5.095 to
+−3.437)
+−3.999 ± 1.482
+(−4.553 to
+−3.446) g*h**
+−5.782 ± 1.605
+(−6.382 to
+−5.183) f*h*
+−7.365 ± 2.180
+(−8.179 to
+−6.552) f**g*
+After 5 weeks of
+CSE with ADIM
+technique
+−3.864 ± 1.986
+(−4.605 to
+−3.122)
+−2.538 ± 1.004
+(−2.913 to
+−2.163) g*h**
+−4.027 ± 1.306
+(−4.515 to
+−3.539) f**h*
+−5.367 ± 1.258
+(−5.837 to
+−4.897) f**g*
+p-value
+Between 0.458 0.001 0.001 0.001
+Note: Data presented as Mean ± standard deviation (SD), T sit = after sitting for 10 min, T 1 = 13th–15th min,
+T2 = 26th–28th min, T3 = 39th–41st min, f = signiﬁcant difference from T 1, g = signiﬁcant difference from
+T2, h = signiﬁcant difference from T 3 (* signiﬁcant difference at p-value < 0.008, ** signiﬁcant difference at
+p-value < 0.001).
+At baseline, the results of the current study illustrated that the baseline showed a
+signiﬁcant reduction in stature due to time (T1, T2, and T3) (p < 0.017). In the same pattern,
+the results illustrated that after the 5-week CSE with the ADIM technique, there was a
+signiﬁcant reduction in stature due to time.
+Comparing baseline and the 5-week CSE with the ADIM technique, the stature changes
+at T1, T2, and T3 were signiﬁcantly improved in the 5-week CSE with the ADIM technique
+(Table 2).
+3.4. Pain Intensity during Sitting
+At baseline, the pain intensity of T2 and T3 were signiﬁcantly increased compared to
+other time of measurements (Tsit and T1). After the 5-week CSE with the ADIM technique,
+
+===== PAGE 9 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 9 of 15
+the pain intensity of T2 (p < 0.05) and T3 (p < 0.001) was signiﬁcantly increased from Tsit.
+At T3, pain intensity was signiﬁcantly increased from T1 and T2 (p < 0.05).
+Comparing baseline and the 5-week CSE with the ADIM technique, the pain intensity
+at T1, T2, and T3 was signiﬁcantly decreased in the 5-week CSE with the ADIM technique,
+as shown in Table 3.
+Table 3. Comparisons pain intensity during sitting before and after received CSE with ADIM.
+Conditions Times p-Value
+within
+ConditionsTsit (T1) (T 2) (T 3)
+Baseline
+3.00
+(2.00–5.00)
+f*g**h**
+3.00
+(3.00–5.00)
+e*g*h*
+3.50
+(3.00–6.00)
+e**f*
+3.50
+(3.00–6.00)
+e**f*
+0.001
+After 5 weeks
+of CSE with
+ADIM
+technique
+1.00
+(0.00–2.00)
+g*h**
+1.00
+(0.00–2.25)
+g*h*
+1.50
+(0.00–3.00)
+e*h*
+2.00
+(0.00–3.00)
+e**f*g*
+0.001
+p-value
+Between 0.632 0.001 0.001 0.001
+Note: Data presented as Median (interquartile range), p-value from the Friedman test, ** signiﬁcant difference
+at p-value < 0.001, * signiﬁcant difference atp-value < 0.05 by the Wilcoxon signed-rank test), Tsit = after sitting
+for 10 min, T 1 = 13th–15th min, T 2 = 26th–28th min, T 3 = 39th–41st min, e = signiﬁcant difference from T sit,
+f = signiﬁcant difference from T1, g = signiﬁcant difference from T2, h = signiﬁcant difference from T3.
+3.5. T runk Muscle Fatigue during the Experiment
+At baseline, the MDF in the sitting condition is shown in Table 4. The Friedman test
+revealed a signiﬁcant difference in the MDF values in the muscles and both sides at each
+time of measurement during prolonged sitting. The Wilcoxon signed-rank tests showed a
+signiﬁcant difference between the measurement times. For both sides of the TrA and IO
+muscles, the MDF value at the 15th–25th min was signiﬁcantly decreased compared to that
+of the 0–10th min. A further reduction in the MDF value was observed at the 28th–38th min.
+Table 4. Comparison muscle fatigue between before and after performed CSM with ADIM exercise
+during prolong sitting.
+Muscle Fatigue
+(Hz.)
+Right
+p-Value
+Left
+p-ValueBaseline
+Median
+(Interquartile Range)
+After 5 Weeks of CSE
+Median
+(Interquartile Range)
+Baseline
+Median
+(Interquartile Range)
+After 5 Weeks of CSE
+Median
+(Interquartile Range)
+RA
+(0–10th min)
+(15th–25th min)
+(28th–38th min)
+25.71 (24.99–27.25)
+25.70 (917.29–27.64)
+25.72 (25.70–28.69)
+25.70 (25.69–25.71)
+25.70 (23.91–25.71)
+25.71 (25.69–25.72)
+0.713
+0.992
+0.144
+25.71 (15.72–28.95)
+25.71 (16.95–27.34)
+25.71 (25.69–28.70)
+25.70 (25.12–25.71)
+25.71 (25.69–25.72)
+25.70 (24.72–25.71)
+0.128
+0.926
+0.130
+p-value 0.177 0.441 0.852 0.084
+TrA & IO
+(0–10th min)
+(15th–25th min)
+(28th–38th min)
+42.59 (34.58–42.72)
+b*c*
+35.99 (35.69–37.99) a*
+35.71 (33.21–36.45) a*
+46.71 (46.63–48.32)
+45.30 (40.80–47.96)
+45.70 (41.99–48.71)
+0.001 **
+0.001 **
+0.001 **
+42.70 (35.37–42.73)
+b*c*
+36.15 (34.19–37.32) a*
+35.95 (33.53–37.21) a*
+46.71 (44.88–48.69)
+45.45 (41.49–47.23)
+45.99 (43.45–48.65)
+0.001 **
+0.001 **
+0.001 **
+p-value 0.001 0.058 0.001 * 0.503
+ICLT
+(0–10th min)
+(15th–25th min)
+(28th–38th min)
+35.70 (33.21–36.03)
+35.69 (33.28–35.72)
+35.70 (33.85–35.71)
+36.14 (35.69–37.94)
+35.72 (35.30–37.33)
+36.70 (33.85–35.71)
+0.060
+0.206
+0.153
+35.70 (34.81–35.72)
+35.69 (33.66–36.21)
+35.69 (33.58–35.71)
+35.71 (34.39–37.76)
+35.71 (35.66–36.47)
+35.71 (35.69–37.05)
+0.524
+0.289
+0.360
+p-value 0.873 0.644 0.721 0.594
+
+===== PAGE 10 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 10 of 15
+Table 4. Cont.
+Muscle Fatigue
+(Hz.)
+Right
+p-Value
+Left
+p-ValueBaseline
+Median
+(Interquartile Range)
+After 5 Weeks of CSE
+Median
+(Interquartile Range)
+Baseline
+Median
+(Interquartile Range)
+After 5 Weeks of CSE
+Median
+(Interquartile Range)
+LM
+(0–10th min)
+(15th–25th min)
+(28th–38th min)
+49.04 (46.42–52.79)
+49.41 (46.96–53.57)
+49.21 (47.71–55.69)
+52.65 (47.71–53.57)
+52.74 (48.71–53.57)
+52.34 (48.72–55.72)
+0.185
+0.098
+0.082
+49.36 (45.71–52.38)
+49.21 (47.71–55.70)
+49.84 (48.00–55.69)
+51.90 (48.22–53.57)
+52.33 (48.15–55.40)
+52.42 (48.68–55.71)
+0.175
+0.544
+0.237
+p-value 0.695 0.341 0.273 0.125
+Note: Data presented as Median (interquartile range). Signiﬁcant difference at * p-value < 0.05, ** p-value < 0.001
+by Wilcoxon signed-rank test. a = signiﬁcant difference from 0–10th, b = signiﬁcant difference from 15th–25th,
+c = signiﬁcant difference from 28th–38th.
+After the 5-week CSE with the ADIM technique, the Friedman test did not reveal a
+signiﬁcant difference in the MDF value in trunk muscles and both sides at all times of
+measurement. Compared with baseline values, the 5-week CSE with the ADIM technique
+showed a signiﬁcant improvement in the MDF values (both sides of TrA and IO, the MDF
+value of 15th–25th and 28th–38th min).
+4. Discussion
+The aim of this study was to investigate differences in stature change, pain, and
+trunk muscle fatigue during prolonged sitting conditions in sedentary workers with CLBP
+between baseline and the 1st day after the 5-week CSE with the ADIM technique.
+The results of the current study showed that the 5-week CSE with the ADIM technique
+provided a signiﬁcant decrease in resting pain (mean difference: 2.14 ± 1.50; p < 0.001)
+and improvement in functional disability (mean difference: 2.33 ± 1.81; p < 0.001). The
+result of the current study agreed with those of previous studies that reported the potential
+of CSE to improve functional disability in patients with CLBP [47–49]. The results of the
+current study demonstrated that the CSE program might be clinically advantageous for
+CLBP patients with functional disability improvement by reducing pain.
+During prolonged sitting, forces from bodyweight cause deformation of the elastic
+components of the disc and increased intra-discal pressure [ 50,51]. Fluid loss is known
+to occur when the pressure inside the disc increases and can be indicated as the major
+mechanism to account for the reduction in disc height and consequent stature loss [52,53].
+Prolonged sitting in CLBP participants induced stature loss (mean difference −7.365 mm)
+at 41 min (T3) (Table 2).
+The current study revealed that bilateral TrA and IO muscle fatigue occurred earlier
+during sitting (approximately 15–25 min after sitting) (Table 3). Sitting for prolonged
+periods has been partly attributed to trunk muscle fatigue resulting from the continuous
+contraction of deep trunk muscles in seated postures [9,10]. During prolonged sitting, the
+lumbar multiﬁdus is passively stretched, resulting in increased co-contraction of the TrA
+and IO muscles to balance the back muscle forces. Consequently, the TrA and IO muscles
+become fatigued over time [9,10].
+A signiﬁcant increase in low back pain in the sitting condition was found in this
+study, suggesting that static loading of the lumbar spine during prolonged sitting may be
+associated with disc compression [ 54,55]. Healey et al. (2005) and Rodacki et al. (2003)
+proposed that persistent contraction of the superﬁcial paraspinal muscles in patients with
+CLBP may produce greater compressive loading, increasing disc compression and reducing
+stature [25,27]. Moreover, the results of the current study demonstrate that the sitting
+condition reduced deep trunk muscle activation. These results may explain increased low
+back pain [14,56]. The results of the present study align with previous studies showing that
+perceived body discomfort increased signiﬁcantly during prolonged sitting [56].
+After the 5-week CSE with the ADIM technique, participants showed signiﬁcantly
+improved stature changes during prolonged sitting. The stature change at the T1 (mean
+difference: 1.462 ± 1.752 mm; p < 0.001), T2 (mean difference: 1.756 ± 1.752 mm; p < 0.001),
+
+===== PAGE 11 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 11 of 15
+and T3 occasion (mean difference: 1.998 ± 2.653 mm; p < 0.001) was signiﬁcantly improved
+before and after the 5-week CSE with the ADIM technique. Although our mean difference
+in stature change was only 1.99 mm, which did not reach the minimal clinically important
+stature change of 3 mm [12], there is evidence that changes in stature of a magnitude above
+0.985 mm can be attributed to intervention effects in CLBP participants [57].
+Thus, we show that the 5-week CSE with the ADIM technique can enhance recovery
+of disc height and reduce the loading on other spinal structures, which may facilitate a
+reduction in symptoms in patients with low back pain during prolonged sitting. This is
+consistent with the ﬁndings of Healey et al. (2005) and Lewis et al. (2014). They reported
+signiﬁcant positive correlations between delayed stature recovery and higher levels of pain
+and disability [27,32].
+Our results demonstrated that the 5-week CSE could improve trunk muscle endurance
+during prolonged sitting when compared with baseline. The results showed that both
+sides of TrA and IO signiﬁcantly improved the MDF (at 0–10, 15–25th, and 28–38th min)
+when compared with baseline values. These revealed that muscle endurance increased
+after the 5-week CSE with the ADIM technique, which could be related to the speciﬁc
+effects of CSE with the ADIM technique on deep muscle activities. Macdonald et al. (2006)
+indicated that deep trunk muscles have a high percentage of type I muscle ﬁbers, blood
+vessels, and mitochondria [ 58]. Therefore, CSE with the ADIM technique can improve
+the endurance of deep trunk muscles during prolonged sitting. Increased activity of the
+deep trunk muscle is thought to raise intra-abdominal pressure [59], resulting in decreased
+spinal loading [60,61]. This suggests that the CSE with the ADIM technique can increase
+deep trunk muscle activity in CLBP participants by reducing compression forces on the
+spine during prolonged sitting [8], leading to improved stature recovery.
+The results of the ﬁve weeks of CSE with the ADIM technique signiﬁcantly improved
+low back pain at all measurement time points (T 1, T 2, and T 3) when compared with
+the baseline. However, the participants reported signiﬁcantly increased pain intensity
+throughout the increased sitting time. Static loading of the lumbar spine increases stress
+in spinal structures [ 54,55]. These results may increase low back pain [ 14,56]. Thus, in
+addition to performing CSE with the ADIM technique, participants should perform the
+movement during the working day to prevent lower back pain during prolonged sitting.
+The current study has some limitations. First, the investigation was conducted in a
+laboratory; the ﬁndings of this study may have limited ecological validity, and a real-life
+situation may be required in future investigations. Second, the participants were young,
+with a small age range (aged 21–29 years). Thus, the results might not be applicable to other
+age groups due to the variation in degenerative stage. Third, the current study was limited
+to the immediate effects of the 5-week CSE with the ADIM technique. Future studies
+should investigate the long-term follow-up effects of this program. Fourth, although the
+participants in this study reported a signiﬁcant increase in low back pain during prolonged
+sitting, a history of previous injury did not meet our exclusion criteria. Therefore, low
+back pain may be due to other reasons besides prolonged sitting. Adding a history of
+previous injury in the exclusion criteria may better clarify the cause of low back pain in
+future studies. Lastly, the current study included only one group that performed the pre-
+and post-exercise interventions. Future investigations should include a control group or a
+comparison of CSE with other exercises to strengthen the ﬁndings.
+5. Conclusions
+This study demonstrated that a 5-week CSE with the ADIM technique affects the pain
+at rest and functional disability in sedentary workers with CLBP . Our result showed that
+CSE with the ADIM technique provides a protective effect on detrimental reductions in
+stature change and trunk muscle fatigue during prolonged sitting in young participants
+under controlled conditions in a laboratory. Based on these ﬁndings, we recommend that
+CLBP patients (aged 21–29 years) should perform CSE with the ADIM technique at home
+to reduce low back pain problems due to prolonged sitting activities.
+
+===== PAGE 12 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 12 of 15
+Author Contributions: P .S.: conceptualization, data curation, formal analysis, methodology, writing,
+and editing; R.P .: conceptualization, data curation, funding acquisition, project administration,
+resources, writing, and editing; T.C.: data analysis, reviewing, and editing. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was conducted according to the guidelines of
+the Declaration of Helsinki and approved by the Ethics Committee of Center for Ethics in Human
+Research, Khon Kaen University (no. HE612220).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study.
+Data Availability Statement: The data will be available for anyone who wishes to access them for
+any purpose and contract should be made via the corresponding author (rungthiprt@gmail.com).
+Acknowledgments: The authors thank the participants for their willingness to participate in this
+study. This work was supported by the Royal Golden Jubilee (RGJ) Ph.D. Programme, the Thailand
+Research Fund (TRF), Thailand (PHD/0090/2558) and the Research Center in Back, Neck, Other
+Joint Pain and Human Performance (BNOJPH), Khon Kaen University, Thailand. Many thanks to
+Rose Boucaut, School of Health Sciences (Physiotherapy), University of South Australia, for English
+editing.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Appendix A
+Table A1. Program of the CSE with ADIM technique.
+Week Exercise Protocol
+1
+The participants were given the instructions on how to isolate activation of the TrA muscles correctly. After that, they
+were asked to draw their lower abdomen gently in towards the spine (ADIM) with normal breathing control, and no
+movement of the spine and pelvis while in a prone lying position on a couch with a small pillow placed beneath their
+ankles. In addition, a pressure biofeedback device set at 70 mmHg was placed under the lower abdomen of the
+participants. If they were able to lower pressure 4 to 10 mmHg, it represented successful activation of the transversus
+abdominis muscle. The exercises progressed until the participants could perform muscle contractions for 10 s holds
+with 10 repetitions/set 10 sets/day.
+2
+The participants performed co-contraction of the TrA and LM muscles while in a crooked lying position with both hips
+at 45 degrees and both knees at 90 degrees. They were asked to perform the ADIM technique with ﬂoor muscles,
+normal breathing control, and no movement of the spine and pelvis. Furthermore, they used their index and middle
+ﬁngers to palpate contraction of the TrA muscle and opposite 2 ﬁngers palpated contraction of LM muscle. If the
+participants performed correctly, they could feel the tight contraction of each muscle under their ﬁngers. The exercises
+progressed until the participants could perform muscle contractions for 10 s holds with 10 repetitions/set 10 sets/day.
+3
+The participants performed co-contraction of the TrA and LM muscles in a crooked lying position with both hips at
+45 degrees and both knees at 90 degrees. Then, they abducted one leg to 45 degrees of hip abduction and held it for 10 s.
+After that, they adducted their leg to the starting position. After repeating this movement 5 times, they did it with the
+other leg/set 10 sets/day. The next exercise in this week was to train co-contraction of these muscles in a crooked lying
+position with both hips at 45 degrees and both knees at 90 degrees. Then, they slid a single leg down until the knee was
+straight, maintained it for a 10 s hold, and then slid it back up to the starting position. After repeating this movement
+10 times, they did it with the other leg/set 10 sets/day.
+
+===== PAGE 13 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 13 of 15
+Table A1. Cont.
+Week Exercise Protocol
+4
+The participants performed co-contraction of the TrA and LM muscles while sitting on a chair. They were asked to
+perform the ADIM technique with normal breathing control, and no movement of the spine and pelvis. Furthermore,
+they used their index and middle ﬁngers to palpate contraction of the TrA muscle and opposite 2 ﬁngers palpated
+contraction of the LM muscle. If the participants performed correctly, they could feel the tight contraction of each
+muscle under their ﬁngers. The exercises progressed until the participants could perform muscle contractions for 10 s
+holds with 10 repetitions/set 10 sets/day. The next exercise in this week was to train co-contraction of these muscles
+with the trunk forward and backward while sitting on a chair and keeping their lumbar spine and pelvis in a neutral
+position. The second exercise in this week required 10 s holds with 10 repetitions/set 10 sets/day.
+5
+The participants performed co-contraction of the TrA and LM muscles during sitting on a balance board. They were
+asked to perform co-contraction of the muscles with the trunk forward and backward while sitting on a balance board
+and keeping their lumbar spine and pelvis in a neutral position. They performed each pose for 10 s holds with
+10 repetitions/set 10 sets/day.
+References
+1. Sedentary Behaviour Research Network. Letter to the editor: Standardized use of the terms “sedentary” and “sedentary behav-
+iours”. Appl. Physiol. Nutr. Metab. 2012, 37, 540–542. [CrossRef] [PubMed]
+2. Hadgraft, N.T.; Lynch, B.M.; Clark, B.K.; Healy, G.N.; Owen, N.; Dunstan, D.W. Excessive sitting at work and at home: Correlates
+of occupational sitting and TV viewing time in working adults. BMC Public Health 2015, 15, 899. [CrossRef]
+3. Saidj, M.; Menai, M.; Charreire, H.; Weber, C.; Enaux, C.; Aadahl, M.; Kesse-Guyot, E.; Hercberg, S.; Simon, C.; Oppert, J.M.
+Descriptive study of sedentary behaviours in 35,444 French working adults: Cross-sectional ﬁndings from the ACTI-Cités study.
+BMC Public Health 2015, 15, 379. [CrossRef] [PubMed]
+4. Montakarn, C.; Nuttika, N. Physical activity levels and prevalence of low back pain in Thai call-center operators. Indian J. Occup.
+Environ. Med. 2016, 20, 125–128. [CrossRef] [PubMed]
+5. Balagu é, F.; Mannion, A.F.; Pellisé, F.; Cedraschi, C. Non-speciﬁc low back pain.Lancet 2012, 379, 482–491. [CrossRef]
+6. Jiménez, R.; Bennett, P .; García, O.; Vargas, C. Fatigue detection during sit-to-stand test based on surface electromyography and
+acceleration: A case study. Sensors 2019, 19, 4202. [CrossRef]
+7. Olafsson, G.; Jonsson, E.; Fritzell, P .; Hägg, O.; Borgström, F. A health economic lifetime treatment pathway model for low back
+pain in Sweden. J. Med. Econ. 2017, 20, 1281–1289. [CrossRef] [PubMed]
+8. Saiklang, P .; Puntumetakul, R.; Selfe, J.; Yeowell, G. An Evaluation of an Innovative Exercise to Relieve Chronic Low Back Pain in
+Sedentary Workers. Available online: https://pubmed.ncbi.nlm.nih.gov/33111563/ (accessed on 22 December 2021).
+9. Waongenngarm, P .; Rajaratnam, B.S.; Janwantanakul, P . Internal oblique and transversus abdominis muscle fatigue induced by
+slumped sitting posture after 1 h of sitting in ofﬁce workers. Saf. Health Work 2016, 7, 49–54. [CrossRef] [PubMed]
+10. Areeudomwong, P .; Puntumetakul, R.; Kaber, D.B.; Wanpen, S.; Leelayuwat, N.; Chatchawan, U. Effects of handicraft sitting
+postures on lower trunk muscle fatigue. Ergonomics 2012, 55, 693–703. [CrossRef]
+11. Lewis, S.E.; Fowler, N.E. Changes in intervertebral disk dimensions after a loading task and the relationship with stature change
+measurements. Arch. Phys. Med. Rehabil. 2009, 90, 1795–1799. [CrossRef]
+12. Kanlayanaphotporn, R.; Trott, P .; Williams, M.; Fulton, I. Effects of chronic low back pain, age and gender on vertical spinal creep.
+Ergonomics 2003, 46, 561–573. [CrossRef]
+13. Watanabe, S.; Kobara, K.; Yoshimura, Y.; Osaka, H.; Ishida, H. Inﬂuence of trunk muscle co-contraction on spinal curvature
+during sitting. J. Back Musculoskelet Rehabil. 2014, 27, 55–61. [CrossRef] [PubMed]
+14. Fryer, J.C.J.; Quon, J.A.; Smith, F.W. Magnetic resonance imaging and stadiometric assessment of the lumbar discs after sitting
+and chair-care decompression exercise: A pilot study. Spine J. 2010, 10, 297–305. [CrossRef]
+15. Saiklang, P .; Puntumetakul, R.; Swangnetr, M.; Boucaut, R. The immediate effect of the abdominal drawing-in maneuver technique
+on stature change in seated sedentary workers with chronic low back pain. Ergonomics 2020, 64, 55–68. [CrossRef]
+16. Holmes, M.W.R.; De Carvalho, D.E.; Karakolis, T.; Callaghan, J.P . Evaluating abdominal and lower back muscle activity while
+performing core exercises on a stability ball and a dynamic ofﬁce chair.Hum. Factors 2015, 57, 1149–1161. [CrossRef] [PubMed]
+17. Gregory, D.E.; Dunk, M.N.; Callaghan, J.P . Stability ball versus ofﬁce chair: Comparisonof muscle activation and lumbar spine
+posture during prolonged sitting. Hum. Factors 2006, 48, 142–153. [CrossRef]
+18. Panjabi, M.M. Clinical spinal instability and low back pain. J. Electromyogr. Kinesiol. J. Electromyogr. Kines 2003, 13, 371–379.
+[CrossRef]
+19. Bergmark, A. Stability of the lumbar spine: A study in mechanical engineering. Acta Orthop. Scand Suppl. 1989, 230, 1–54.
+[CrossRef]
+20. Faries, M.D.; Greenwood, M. Core Training: Stabilizing the confusion. Strength Cond J. 2007, 29, 10–25. [CrossRef]
+21. Kavcic, N.; Grenier, S.; McGill, S.M. Determining the stabilizing role of individual torso muscles during rehabilitation exercises.
+Spine 2004, 29, 1254–1265. [CrossRef] [PubMed]
+
+===== PAGE 14 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 14 of 15
+22. Marshell, P .W.; Murphy, B.A. Delayed abdominal muscle onsets and self-report measures of pain and disability in chronic low
+back pain. J. Electromyogr. Kinesiol. 2010, 20, 833–839. [CrossRef]
+23. Silﬁes, S.P .; Mehta, R.; Smith, S.S.; Karduna, A.R. Differences in feedforward trunk muscle activity in subgroups of patients with
+mechanical low back pain. Arch. Phys. Med. Rehabil. 2009, 90, 1159–1169. [CrossRef]
+24. Tsao, H.; Druitt, T.R.; Schollum, T.M.; Hodges, P .W. Motor training of the lumbar paraspinal muscles induces immediate changes
+in motor coordination in patients with recurrent low back pain. J. Pain 2010, 11, 1120–1128. [CrossRef]
+25. Rodacki, C.L.; Fowler, N.E.; Rodacki, A.L.; Birch, K. Stature loss and recovery in pregnant women with and without low back
+pain. Arch. Phys. Med. Rehabil. 2003, 84, 507–512. [CrossRef]
+26. Singh, R.E.; Iqbal, K.; White, G.; Hutchinson, T.E. A Systematic Review on Muscle Synergies: From Building Blocks of Motor
+Behavior to a Neurorehabilitation Tool. Appl. Bionics. Biomech. 2018, 22, 3165368. [CrossRef]
+27. Healey, E.L.; Fowler, N.E.; Burden, A.M.; McEwan, I.M. The inﬂuence of different unloading positions upon stature recovery and
+paraspinal muscle activity. Clin. Biomech. Bristol. Avon. 2005, 20, 365–371. [CrossRef] [PubMed]
+28. Puntumetakul, R.; Areeudomwong, P .; Emasithi, A.; Yamauchi, J. Effect of 10-week core stabilization exercise training and
+detraining on pain-related outcomes in patients with clinical lumbar instability. Patient Prefer. Adherence 2013, 7, 1189–1199.
+[CrossRef] [PubMed]
+29. Puntumetakul, R.; Saiklang, P .; Tapanya, W.; Chatprem, T.; Kanpittaya, J.; Arayawichanon, P .; Boucaut, R. The effects of core
+stabilization exercise with the abdominal drawing-in maneuver technique versus general strengthening exercise on lumbar
+segmental motion in patients with clinical lumbar instability: A randomized controlled trial with 12-month follow-up. Int. J.
+Environ. Res. Public Health 2021, 18, 7811. [CrossRef] [PubMed]
+30. Areeudomwong, P .; Puntumetakul, R.; Jirarattanaphochai, K.; Wanpen, S.; Kanpittaya, J.; Chatchawan, U.; Yamauchi, J. Core
+stabilization exercise improves pain intensity, functional disability and trunk muscle activity of patients with clinical lumbar
+instability: A pilot randomized controlled study. J. Phys. Ther. Sci. 2012, 24, 1007–1012. [CrossRef]
+31. Boonstra, M.A.; Stewart, R.E.; Köke, A.J.A.; Oosterwijk, R.F.A.; Swaan, J.L.; Schreurs, K.M.G.; Schiphorst, H.R. Cut-off points for
+mild, moderate, and severe pain on the numeric rating scale for pain in patients with chronic musculoskeletal pain: Variability
+and inﬂuence of sex and catastrophizing. Front. Psychol. 2016, 7, 1466. [CrossRef] [PubMed]
+32. Lewis, S.; Holmes, P .; Woby, S.; Hindle, J.; Fowler, N. Changes in muscle activity and stature recovery after active rehabilitation
+for chronic low back pain. Man. Ther. 2014, 19, 178–183. [CrossRef] [PubMed]
+33. Hall, M.A.; Maher, C.G.; Latimer, J.; Ferreira, M.L.; Costa, L.O.P . The patient-speciﬁc functional scale is more responsive than the
+roland morris disability questionnaire when activity limitation is low. Eur. Spine J. 2011, 20, 79–86. [CrossRef] [PubMed]
+34. Phimphasak, C.; Swangnetr, M.; Puntumetakul, R.; Chatchawan, U.; Boucaut, R. Effects of seated lumbar extension postures on
+spinal height and lumbar range of motion during prolonged sitting. Ergonomics 2016, 59, 112–120. [CrossRef]
+35. Rodacki, C.L.; Fowler, N.E.; Rodacki, A.L.; Birch, K. Technical note: Repeatability of measurement in determining stature in
+sitting and standing postures. Ergonomics 2001, 44, 1076–1085. [CrossRef]
+36. Imai, A.; Kaneoka, K.; Okubo, Y.; Shiina, I.; Tatsumura, M.; Izumi, S. Trunk muscle activity during lumbar stabilization exercises
+on both a stable and unstable surface. J. Orthop. Sports Phys. Ther. 2010, 40, 369–375. [CrossRef]
+37. Marshall, P .; Murphy, B. The validity and reliability of surface EMG to assess the neuromuscular response of the abdominal
+muscles to rapid limb movement. J. Electromyogr. Kinesiol. 2003, 13, 477–489. [CrossRef]
+38. Danneels, L.A.; Cagnie, B.J.; Cools, A.M.; Vanderstraeten, G.G.; Cambier, D.C.; Witvrouw, E.E. Intra-operator and inter-operator
+reliability of surface electromyography in the clinical evaluation of back muscles. Man. Ther. 2001, 6, 145–153. [CrossRef]
+39. Ostelo, R.W.J.G.; de Vet, J.C.W. Clinically important outcomes in low back pain. Best Res. Clin. Rheumatol. 2005, 19, 593–607.
+[CrossRef]
+40. Roland, M.; Fairbank, J. The roland-morris disability questionnaire and the oswestry disability questionnaire. Spine 2000, 25,
+3115–3124. [CrossRef]
+41. Jirarattanaphochai, K.; Jung, S.; Sumananont, C.; Saengnipanthkul, S. Reliability of the Roland-Morris Disability Questionnaire
+(Thai version) for the evaluation of low back pain patients. J. Med. Assoc. Thai. 2005, 88, 407–411. [PubMed]
+42. Healey, E.L.; Burden, A.M.; McEwan, I.M.; Fowler, N.E. Stature loss and recovery following a period of loading: Effect of time of
+day and presence or absence of low back pain. Clin. Biomech. Bristol. Avon. 2008, 23, 721–726. [CrossRef] [PubMed]
+43. Puntumetakul, R.; Trott, P .; Williams, M.; Fulton, I. Effect of time of day on the vertical spinal creep response.Appl. Ergon. 2009,
+40, 33–38. [CrossRef] [PubMed]
+44. Healey, E.L.; Burden, A.M.; McEwan, I.M.; Fowler, N.E. Diurnal variation in stature: Do those with chronic low back pain differ
+from asymptomatic controls? Clin. Biomech. 2011, 26, 331–336. [CrossRef]
+45. Fowler, N.E.; de Lourdes Rodacki, C.; Rodacki, A.L. Spinal shrinkage and recovery in women with and without low back pain.
+Arch. Phys. Med. Rehabil. 2005, 86, 505–511. [CrossRef] [PubMed]
+46. Corlett, E.N.; Eklund, J.A.E.; Reilly, T.; Troup, J.D.G. Assessment of workload from measurements of stature.Appl. Ergon. 1987,
+18, 65–71. [CrossRef]
+47. Koumantakis, G.A.; Watson, P .J.; Oldham, J.A. Trunk muscle stabilization training plus general exercise versus general exercise
+only: Randomized controlled trial of patients with recurrent low back pain. Phys. Ther. 2005, 85, 209–225. [CrossRef]
+48. Moseley, G.L.; Hodges, P .; Gandevia, S.C. Deep and superﬁcial ﬁbers of the lumbar multiﬁdus muscle are differentially active
+during voluntary arm movements. Spine 2002, 27, 29–36. [CrossRef]
+
+===== PAGE 15 =====
+
+Int. J. Environ. Res. Public Health 2022, 19, 1904 15 of 15
+49. Goldby, L.; Moore, A.; Trew, M. A randomized controlled trial investigating the efﬁciency of musculoskeletal physiotherapy on
+chronic low back disorder. Spine 2006, 31, 1083–1093. [CrossRef]
+50. Schmidt, H.; Reitmaier, S.; Graichen, F.; Shirazi-Adl, A. Review of the ﬂuid ﬂow within intervertebral discs-How could in vitro
+measurements replicate in vivo? J. Biomech. 2016, 49, 3133–3146. [CrossRef]
+51. Vergroesen, P .P .A.; Van Der Veen, A.J.; Emanuel, K.S.; Van Dieën, J.H.; Smitm, T.H. The poro-elastic behaviour of the intervertebral
+disc: A new perspective on diurnal ﬂuid ﬂow. J. Biomech. 2016, 49, 857–863. [CrossRef]
+52. Munster, M.M.; Brismée, J.M.; Sizer, P .S.; Browne, K.; Dewan, B.; Litke, A.; Pape, J.L.; Sobczak, S. Can 5 min of repetitive prone
+press-ups and sustained prone press-ups following a period of spinal loading reverse spinal shrinkage? Physiother Theory Pract.
+2018, 35, 1–9. [CrossRef]
+53. Pape, J.L.; Brismée, J.M.; Sizer, P .S.; Matthijs, O.C.; Browne, K.L.; Dewan, B.M.; Sobczak, S. Increased spinal height using propped
+slouched sitting postures: Innovative ways to rehydrate intervertebral discs. Appl. Ergon. 2018, 66, 9–17. [CrossRef] [PubMed]
+54. Billy, G.G.; Lemieux, S.K.; Chow, M.X. Changes in lumbar disk morphology associated with prolonged sitting assessed by
+magnetic resonance imaging. PM&R 2014, 6, 790–795. [CrossRef]
+55. Fryer, J.; Zhang, W. Preliminary investigation into a seated unloading movement strategy for the lumbar spine: A pilot study.J.
+Bodyw. Mov. Ther. 2010, 14, 119–126. [CrossRef] [PubMed]
+56. Søndergaard, K.H.; Olesen, C.G.; Sondergaard, E.K.; de Zee, M.; Madeleine, P . The variability and complexity of sitting postural
+control are associated with discomfort. J. Biomech. 2010, 43, 1997–2001. [CrossRef] [PubMed]
+57. Saiklang, P .; Puntumetakul, R.; Siritaratiwat, W.; Boucaut, R. Effect of Time of Day on the Magnitude of Stature Change Response
+Variability in Participants With Chronic Low Back Pain on Consecutive 2 Days. T rends Sci.2021, 18, 678. [CrossRef]
+58. MacDonald, D.A.; Moseley, G.L.; Hodges, P .W. The lumbar multiﬁdus: Does the evidence support clinical beliefs?Man. Ther.
+2006, 11, 254–263. [CrossRef]
+59. Tayashiki, K.; Takai, Y.; Maeo, S.; Kanehisa, H. Intra-abdominal pressure and trunk muscular activities during abdominal bracing
+and hollowing. Int. J. Sports Med. 2015, 37, 134–143. [CrossRef]
+60. Stokes, I.A.F.; Gardner-Morse, M.G.; Henry, S.M. Intra-abdominal pressure and abdominal wall muscular function: Spinal
+unloading mechanism. Clin. Biomech. 2010, 25, 859–866. [CrossRef]
+61. Rodacki, C.L.; Rodacki, A.; Ugrinowitsch, C.; Zielinski, D.; Costa, R.B. Spinal unloading after abdominal exercises. Clin. Biomech.
+2008, 23, 8–14. [CrossRef] [PubMed]

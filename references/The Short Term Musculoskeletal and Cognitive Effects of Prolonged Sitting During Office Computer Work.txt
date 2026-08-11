@@ -1,0 +1,874 @@
+===== PAGE 1 =====
+
+International  Journal  of 
+Environmental Research
+and Public Health
+Article
+The Short Term Musculoskeletal and Cognitive
+Effects of Prolonged Sitting During Ofﬁce
+Computer Work
+Richelle Baker 1, Pieter Coenen 1,2 , Erin Howie 1,3 , Ann Williamson 4 and Leon Straker 1,* ID
+1 School of Physiotherapy and Exercise Science, Faculty of Health Science, Curtin University,
+Perth 6102, Australia; richelle@rabc.com.au (R.B.); p.coenen@vumc.nl (P .C.); ekhowie@uark.edu (E.H.)
+2 Department of Public and Occupational Health, Amsterdam Public Health Research Institute, VU University
+Medical Center, 1081 Amsterdam, The Netherlands
+3 Department of Health, Human Performance and Recreation, University of Arkansas,
+Fayetteville, AR 72701, USA
+4 School of Aviation, Faculty of Science, University of New South Wales, Sydney 2052, Australia;
+a.williamson@unsw.edu.au
+* Correspondence: L.Straker@curtin.edu.au; Tel.: +61-8-9266-3634
+Received: 14 July 2018; Accepted: 2 August 2018; Published: 7 August 2018
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract: Ofﬁce workers are exposed to high levels of sedentary time. In addition to cardio-vascular
+and metabolic health risks, this sedentary time may have musculoskeletal and/or cognitive impacts
+on ofﬁce workers. Participants (n = 20) undertook two hours of laboratory-based sitting computer
+work to investigate changes in discomfort and cognitive function (sustained attention and problem
+solving), along with muscle fatigue, movement and mental state. Over time, discomfort increased
+in all body areas (total body IRR [95% conﬁdence interval]: 1.43 [1.33–1.53]) reaching clinically
+meaningful levels in the low back and hip/thigh/buttock areas. Creative problem solving errors
+increased (β = 0.25 [0.03–1.47]) while sustained attention did not change. There was no change in
+erector spinae, trapezius, rectus femoris, biceps femoris and external oblique median frequency or
+amplitude; low back angle changed towards less lordosis, pelvis movement increased, and mental
+state deteriorated. There were no substantial correlations between discomfort and cognitive function.
+The observed changes suggest prolonged sitting may have consequences for musculoskeletal
+discomfort and cognitive function and breaks to interrupt prolonged sitting are recommended.
+Keywords: human-computer interaction; musculoskeletal disorders; biomechanics; mental work
+capacity; ofﬁce ergonomics
+1. Introduction
+A rapidly increasing body of evidence supports an association between sedentary behaviour and
+the risk of adverse health outcomes [1]. These include negative cardiometabolic outcomes such as type
+two diabetes [2], and some cancers [3]. In addition there is epidemiological evidence of increased risk
+of premature mortality [4,5] and obesity [6] however this is inconclusive. As sedentary (e.g., ofﬁce)
+jobs become more prevalent [5] the health risks for ofﬁce workers are an increasing concern for society
+and industry. However the impacts of prolonged sitting on musculoskeletal discomfort across the
+body and on cognitive function are not yet clear.
+Prolonged sitting is a potential hazard for workers’ musculoskeletal health [7,8]. For the low back
+there is mixed evidence regarding the association between sitting at work and low back pain [9,10].
+Laboratory studies have found increased discomfort (if not pain) in the low back with prolonged
+sitting [11,12]. In understanding why discomfort may arise, one hypothesis suggests sustained low
+Int. J. Environ. Res. Public Health 2018, 15, 1678; doi:10.3390/ijerph15081678 www.mdpi.com/journal/ijerph
+
+===== PAGE 2 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 2 of 16
+level activation and loading of passive tissues [ 13] to be responsible. Other hypotheses include
+postural changes such as ﬂattening of the lumbar lordotic curve with increased sitting time [ 14] and
+chronic muscle deconditioning due to habitually lower levels of activation [ 13] leading to muscle
+fatigue with prolonged low loading in static postures. In order to understand why discomfort occurs,
+further research on muscle fatigue and postural factors possibly contributing to the development of
+discomfort is required.
+Whilst a causal relationship between prolonged sitting and work-related musculoskeletal
+disorders of the lower limbs is not clear [ 15], a number of individual studies have found
+associations. Studies suggest there may be an association between sitting and buttock pressure
+and discomfort [ 16,17]. Laboratory studies of prolonged sitting have also reported lower limb
+discomfort [11] and suggested a link with lower limb swelling [ 18,19]. During prolonged sitting
+there is typically minimal leg muscle activity, compared to during more active work positions such
+as walking or cycling, which may impact vascular return [17] causing leg swelling. Further, there is
+a passive load on tissues particularly at the buttock but also the thigh [20]. A better understanding of
+these multifaceted mechanisms including muscle activity and leg swelling which could contribute to
+discomfort may assist with developing clear protocols to prevent or minimise lower limb discomfort
+where prolonged sitting is required.
+Neck and upper limb symptoms among ofﬁce workers have been studied more widely, however
+evidence of an association is mixed. Wærsted et al. [ 21] concluded from a systematic review that there
+was limited epidemiological evidence for an association between computer work and neck disorders.
+For example, Gerr et al. [22] tracked 632 new computer users and found over 50% reported neck and
+upper limb musculoskeletal issues within 12 months. In considering just the upper limb, da Costa and
+Vieira [15] found reasonable evidence supporting computer work to be a risk for wrist/hand discomfort
+in a systematic review, however they reported a lack of conclusive evidence for shoulder and elbow
+discomfort. In a ﬁeld study by Roelofs and Straker [23] bank tellers had increased discomfort in the
+upper limb with just-sitting for one day compared to other work positions while a two week study by
+Davis and Kotowski [24] found greater discomfort in the upper limb for call centre workers in sitting
+postures compared to sit-stand work postures. Laboratory studies have also found an increase in
+neck and shoulder discomfort associated with prolonged sitting [11,16]. Despite the lack of consensus
+of the risk ofﬁce work presents for the upper limb, it is clear discomfort is evident for some ofﬁce
+workers. This has been postulated to be due to increased demands on postural musculature due to the
+arm being unsupported over prolonged periods [23], as well as repetitive movement and increased
+muscle activity associated with computer work [21]. Further clarity of how factors inﬂuence upper
+limb discomfort during sitting will support guidance to industry.
+In addition to musculoskeletal risks, concern has also been raised about the impact of sedentary
+behaviour on cognition, which has potential to affect ofﬁce workers’ performance. Emerging evidence
+suggests there may be a negative association [ 25,26] between habitual sedentary behaviour and
+cognition. Considering acute effects, Hasegawa et al. [27] found longer task time during prolonged
+sitting (90 min) resulted in lower work performance. Mental state has also been considered in
+laboratory studies with self-reported fatigue levels being higher during prolonged sitting compared
+to other work positions [28,29]. Field studies which considered sitting compared to a sit-stand work
+position found sitting resulted in more fatigue and self-rated lower energy level [ 30] as well as
+reduced focus and productivity [31]. Evidence suggests that higher levels of physical activity, such as
+during exercise, can inﬂuence brain function in the short term through acute physiological response
+including increases in heart rate, oxygen uptake, respiration and blood ﬂow including cerebral blood
+ﬂow [ 32]. From a longer term perspective higher levels of habitual physical activity have been
+associated with better levels of cognitive function [ 26]. Thus, sitting (with a relatively low energy
+expenditure [33]) has potential to result in a decline of cognitive function over time. For knowledge
+based occupations (such as ofﬁce workers) where prolonged sitting is required, an understanding of
+
+===== PAGE 3 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 3 of 16
+how cognitive function may change over time would assist in guiding recommendations to optimise
+work performance.
+An increasing evidence base suggests there may be health risks from prolonged sitting.
+Further there may be an increased risk of musculoskeletal discomfort and cognitive decrement.
+The current study aimed to examine discomfort and two areas of cognitive function over two hours of
+prolonged sitting. It was anticipated that discomfort would increase and cognitive function would
+decrease during this period. Sustained attention and more the complex cognitive function of problem
+solving were selected as cognitive functions likely to be important for knowledge based ofﬁce work and
+there may have been differential effects on lower versus higher order cognitive function. Additional
+factors of muscle fatigue, low back angle, pelvis movement and mental state were also measured
+to explore potential mechanisms underlying these anticipated changes. As it was expected that
+discomfort may affect cognitive function the correlation between these variables was also explored.
+2. Method
+A convenience sample of twenty adults was recruited via personal and professional networks
+including through a university physiotherapy department. Male participants (n = 7) were aged 32
+(SD 9.3, range: 20–45 years) years, with weight 79.6 (4.4) kg and height 180.6 (6.2) cm while female
+participants (n = 13, noting one participant chose not to provide age/weight/height data) were
+aged 36.2 (7.6, 20–45 years) years, with weight 64.2 (15.4) kg and height 166.5 (7.3) cm. All male
+participants self-identiﬁed as undertaking a sedentary occupation while for females 10 identiﬁed
+as sedentary, one as standing and one as undertaking physical work. The inclusion criteria were
+between 18–65 years of age, English and computer literacy and physical ability to undertake sitting
+for two hours. Exclusion criteria were those for whom workstation set-up was anthropometrically
+unsuited due to height or girth and those who had known pre-existing pain. One potential participant
+was excluded.
+2.1. Design and Procedure
+This laboratory-based study had a repeated measures design. Participants sat for two hours and
+were encouraged to remain sitting but were able to ﬁdget or stand brieﬂy if they needed to due to
+discomfort. Measurements were taken during participant’s usual sitting posture (without postural
+prompting).The independent variable was time sitting and dependent variables were discomfort,
+cognitive function (creative problem solving and sustained attention), muscle fatigue, low back angle,
+pelvis movement and mental state. Measures of all dependent variables were taken at commencement
+and repeated at 30 min intervals (ﬁve measures in total). Participants visited the laboratory prior to
+study commencement to be familiarised with the procedure and tests.
+Participants undertook self-directed computer or paper based activity each two hour period.
+A desk (A7TR78928H, Steelcase, Sydney, Australia) was adjusted to allow 90 ◦ elbow ﬂexion with
+ﬁngers resting on the home row of the keyboard. The forearms were able to rest on the desk surface
+with a close to neutral wrist position. A standard adjustable ofﬁce chair with backrest was used.
+The top of the computer screen (15 inch, Acer, Taiwan) was altered to participant eye level and a height
+adjustable footrest (Z rest, Ergolink, Perth, Australia) was used by all participants to allow 90◦ knee
+ﬂexion (see Figure 1).
+2.2. Dependent Variables
+2.2.1. Discomfort
+Participants rated intensity of musculoskeletal discomfort using an electronic (modiﬁed) version
+of the Nordic Musculoskeletal Questionnaire (NMQ). Nine body areas were rated against anchors
+0 = ‘no discomfort’ and 100 = ‘ discomfort as bad as it can be ’. The NMQ has been used extensively
+to identify location and intensity of musculoskeletal discomfort with acceptable reliability [ 34].
+
+===== PAGE 4 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 4 of 16
+Combined scores were calculated (averaging body areas) for upper limb (shoulder, elbow, wrist/hand),
+lower limb (hip/thigh/buttock, knee, ankle/feet) and total body (all scores).
+Int. J. Environ. Res. Public Health 2018, 15, x FOR PEER REVIEW   4 of 15 
+ 
+Figure 1. Work position of participants. 
+2.2. Dependent Variables 
+2.2.1. Discomfort 
+Participants rated intensity of musculoskeletal discomfort using an electronic (modified) version 
+of the Nordic Musculoskeletal Questionnaire (NMQ). Nine body areas were rated against anchors 0 
+= ‘no discomfort’ and 100 = ‘discomfort as bad as it can be’. The NMQ has been used extensively to identify 
+location and intensity of musculoskeletal discomfort with acceptable reliability [34]. Combined scores 
+were  calculated  (averaging  body  areas)  for  upper  limb  (shoulder,  elbow,  wrist/hand),  lower  limb 
+(hip/thigh/buttock, knee, ankle/feet) and total body (all scores). 
+2.2.2. Cognitive Function 
+The Ruff Figural Fluency Test (RFFT) was used to examine problem solving [35]. The RFFT was 
+chosen as a test which was not overtly novel, thereby avoiding unduly altering attentional level as a 
+result of the testing process [36]. Participants were required to join five dots, within a defined box, to 
+create as many unique designs as possible for one minute per part. Each part had a maximum of 35 
+possible designs. Two consecutive parts of the five part RFFT were completed each testing session. 
+Figure 1. Work position of participants.
+2.2.2. Cognitive Function
+The Ruff Figural Fluency Test (RFFT) was used to examine problem solving [35]. The RFFT was
+chosen as a test which was not overtly novel, thereby avoiding unduly altering attentional level as
+a result of the testing process [36]. Participants were required to join ﬁve dots, within a deﬁned box,
+to create as many unique designs as possible for one minute per part. Each part had a maximum
+of 35 possible designs. Two consecutive parts of the ﬁve part RFFT were completed each testing
+
+===== PAGE 5 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 5 of 16
+session. Participants used their computer mouse to draw the designs, with total number of designs and
+errors (repeat of design or not within the rules) manually tallied by the researcher. The rules required
+a design to be contained to that box and not enter a neighbouring box or interlink with a neighbouring
+ﬁgure. Designs with alternate orientation (rotation) were considered unique. The RFFT has shown
+inter-rater reliability of scoring for unique designs of 0.98 (intra-class correlation coefﬁcients) and for
+perseveration errors of 0.94 and has evidence of convergent validity with other executive function
+tests [35].
+Sustained attention was measured using a Go/No-go test, the Sustained Attention to Response
+Test (SART) (http://www.millisecond.com/download/library/SART/). The SART has been widely
+used [37] and requires participants to press the spacebar for all the digits which ﬂash brieﬂy (250 ms)
+on the screen (Go response), except the number three (No-go response), over a period of 4 min 20 s.
+Participants were instructed to respond as quickly as possible whilst concurrently aiming to minimise
+errors. No-go success (%) and response time (millisecond) were used for analysis.
+2.2.3. Mental State
+A scale based on the Visual Analogue Scale for Fatigue, which has evidence for reliability and
+validity [38], was used. The scale consisted of ﬁve visual analogue items with anchors of: ‘not at all
+alert/tired/drowsy/fatigued’ to ‘extremely alert/tired/drowsy/fatigued’ and ‘concentrating was no effort at all ’ to
+‘concentrating was a tremendous chore ’. The scales were computer administered with participants using
+a mouse to mark their perception. Scores from all items were averaged and normalised to a 0–100 scale
+for further analysis as a measure of mental state.
+2.2.4. Muscle Fatigue
+Muscle activity data was collected for 10 s using surface electromyography (EMG), via Octopus
+AMT-8 EMG Cable Telemetry System (Bortec Electronics Inc., Calgary, AB, Canada), with a sample
+rate of 2000 Hz. Skin preparation was undertaken (area shaved, cleaned with ethyl alcohol and lightly
+abraded with ﬁne sand paper) before self-adhesive disposable Ag/AgCl (6 mm gel diameter) electrodes
+(Neuroplus, Vermed, New York, NY, USA) were secured with tape over the following muscles: right
+side upper trapezius (with 20 mm centre to centre distance 20 mm lateral to the midpoint between the
+acromion process and C7 spinous process [39]), external oblique (just below the rib cage and along
+a line connecting the most inferior point of the costal margin and the contralateral pubic tubercle [40]),
+lumbar erector spinae (iliocostalis lumborum pars thoracis at L1 spinous process level midway between
+the midline and the lateral aspect [ 41]), rectus femoris (midway along a line between the anterior
+superior iliac spine and superior border of the patella [42]) and biceps femoris (midway laterally on
+the posterior part of the thigh [42]). The common earth electrode was placed on the acromium.
+Muscle activity was normalised against submaximal reference voluntary contractions (held for
+three seconds, repeated three times for each muscle) as follows: upper trapezius (elevating the upper
+arm in 90◦ abduction in the scapular plane while seated [39]), external oblique (in supine with hips
+ﬂexed to 45 ◦ and knees ﬂexed to 90 ◦ performing a double leg raise 1 cm off the supporting surface [40]),
+erector spinae and biceps femoris (lying prone position with knees bent to 90◦ and both knees lifted
+5 cm off the supporting surface [40]), rectus femoris (sitting with hips ﬂexed to 90 ◦ and the tested knee
+extended to 45◦ [43] with 2 kg weight secured at ankle).
+EMG data was band pass ﬁltered (high 10 Hz and low 1000 Hz) by the ampliﬁer. A customised
+program (LabView, National Instruments Inc., Austin, TX, USA) was then used to process the EMG
+data including demeaning, rectifying and ﬁnally visual inspection. Muscle fatigue was operationalised
+using median frequency and normalised amplitude. Amplitude and/or frequency measures have been
+widely used to indicate muscle fatigue while undertaking prolonged postures [44,45]. Mean median
+frequency and normalised mean amplitude (as a percentage of middle submaximum voluntary
+reference contraction) were calculated for each sample and used for further statistical analysis.
+
+===== PAGE 6 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 6 of 16
+Reliability and validity of these measures has previously been demonstrated in our laboratory [40].
+Outliers (>1.5 times the interquartile range) were removed.
+2.2.5. Low Back Angle and Pelvis Movement
+Low back angle and pelvis movement were measured using 3 Space Fastrak (Polhemus Navigation
+Sciences Division, Vermont, VT, USA) with 10 s samples (at 25 Hz) (in line with Gallagher and
+Callaghan [46]. Fastrak is an electromagnetic device which generates a low frequency magnetic ﬁeld
+and determines the position and orientation of sensors relative to the ﬁeld source [47]. Sensors at T12,
+L1 and S2 (based on the protocol by Levine and Whittle [48]) were secured over spinous processes.
+The earlier mentioned Labview program calculated a total low back angle (as the angle between T12
+and S2 in the sagittal plane) and pelvis movement (as the distance, in centimetres, of transverse plane
+displacement of the S2 sensor [41]) for analysis.
+2.3. Statistical Analysis
+Mixed-models with random intercepts for participants were used to assess changes over time
+(with ﬁve repeated measures over two hours as independent variable) for each of the dependent
+variables. Data were examined for normality via histogram, and kurtosis and skew statistics.
+For normally distributed data (cognitive function including problem solving and sustained attention,
+low back angle and perceived mental state) linear models were used. Skewed data (muscle fatigue,
+pelvis movement) were logarithmically transformed and then used in linear models (tables present
+back transformed data). Negative binomial models were used for data with a count distribution
+(discomfort). Betas (for linear models) and incident rate ratios (IRR, for negative binomial models)
+together with 95th percent conﬁdence intervals and p-values are reported depicting the change in the
+respective dependent variables over time. Changes in discomfort greater than 10/100 were considered
+clinically meaningful based on Hägg et al. [ 49] and tested with pairwise comparisons to baseline
+discomfort using negative binomial models.
+To explore potential mechanisms, correlations were examined between changes (measures at
+baseline compared to 120 min) over the two hours period for low back discomfort (with erector
+spinae and external oblique amplitude and median frequency, low back angle in sagittal plane and
+pelvis movement in transverse plane), lower limb discomfort (with biceps femoris and rectus femoris
+amplitude and median frequency and pelvis movement) and upper limb discomfort (with trapezius
+amplitude and median frequency and pelvis movement). In addition, correlation of total body
+discomfort with the two areas of cognitive function and mental state were examined. Pearson (normally
+distributed data) and Spearman (non-normal data) tests were used to assess correlations.
+In all analyses, statistical signiﬁcance was accepted at alpha probability ofp < 0.05. The software
+used for analysis was STATA (StataCorp 2015, Stata Statistical Software: Release 14. StataCorp
+LP , College Station, TX, USA). Correlations were categorised according to weak r < 0.29, moderate
+r = 0.30–0.49, and substantial r > 0.5 [50].
+3. Results
+One participant elected to stand brieﬂy once (after completing discomfort rating at the 60 min
+time point). At no time during the two hours did the discomfort ratings of this participant reach
+clinically meaningful levels in any body region (highest rating was 4/100).
+Discomfort increased signiﬁcantly over time across all body areas (see Table 1 and Figure 2).
+Pairwise comparisons showed the clinically meaningful discomfort increases from baseline that were
+apparent by 90 or 120 min were also statistically signiﬁcant for the low back (120 min IRR = 4.20,
+p ≤ 0.001) and hip/thigh/buttock (90 min: IRR = 14.67; 120 min IRR = 19.75, p ≤ 0.001).
+
+===== PAGE 7 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 7 of 16
+Table 1. Discomfort [mean (standard deviation)] over 2 h of prolonged sitting with incident rate ratio
+(IRR) for effect of time.
+Variable Minutes—Group Means (SD) Time Effect
+0 30 60 90 120 IRR Conf Interval p Value
+Discomfort (/100)
+Neck 3.1 (4.2) 3.6 (3.6) 8.7 (10.1) 11.8 (14.9) 11.6 (17.3) 1.38 1.19–1.61 <0.001
+Shoulder 2.2 (4.4) 3.1 (3.4) 7.9 (10.9) 10.0 (15.5) 11.1 (17.6) 1.47 1.29–1.67 <0.001
+Elbow 0.9 (2.4) 1.9 (2.8) 2.4 (3.9) 3.3 (5.0) 2.4 (3.1) 1.28 1.11–1.47 0.001
+Wrist/hand 0.7 (1.6) 1.4 (2.4) 2.4 (4.8) 2.3 (4.3) 2.6 (5.1) 1.30 1.12–1.52 0.001
+Upper back 3.5 (7.8) 4.5 (7.6) 8.0 (10.1) 10.8 (15.6) 11.7 (15.4) 1.44 1.25–1.67 <0.001
+Low back 4.8 (7.2) 5.5 (6.8) 7.9 (8.4) 12.2 (12.8) 16.3 (14.3) * 1.47 1.32–1.65 <0.001
+Hip/thigh/buttock 1.1 (2.7) 2.2 (4.8) 5.8 (8.8) 11.5 (13.8) * 14.8 (17.5) * 2.19 1.81–2.65 <0.001
+Knee 1.5 (3.1) 1.7 (3.2) 3.7 (5.9) 4.7 (8.5) 3.8 (6.8) 1.33 1.16–1.53 <0.001
+Ankle/foot 1.0 (2.9) 1.5 (2.1) 2.6 (4.4) 2.9 (3.9) 3.7 (5.5) 1.42 1.20–1.70 <0.001
+Upper limb 1.3 (2.0) 2.1 (2.0) 4.2 (5.1) 5.2 (7.1) 5.4 (7.0) 1.38 1.27–1.50 <0.001
+Lower Limb 1.2 (2.7) 1.8 (2.6) 4.1 (5.2) 6.3 (7.5) 7.4 (7.5) 1.66 1.48–1.86 <0.001
+Total body 2.1 (2.8) 2.8 (2.5) 5.5 (5.0) 7.7 (7.0) 8.6 (7.7) 1.43 1.33–1.53 <0.001
+Conﬁdence Interval is 95th, * statistically signiﬁcant pairwise comparisons of clinically meaningful increases
+from baseline.
+Int. J. Environ. Res. Public Health 2018, 15, x FOR PEER REVIEW  7 of 15 
+Table 1. Discomfort [mean (standard deviation)] over 2 h of prolonged sitting with incident rate ratio 
+(IRR) for effect of time. 
+Variable Minutes—Group Means (SD) Time Effect 
+ 0 30 60 90 120 IRR Conf 
+Interval p Value 
+Discomfort (/100)         
+Neck 3.1 (4.2) 3.6 (3.6) 8.7 (10.1) 11.8 (14.9) 11.6 (17.3) 1.38 1.19–1.61 <0.001 
+Shoulder 2.2 (4.4) 3.1 (3.4) 7.9 (10.9) 10.0 (15.5) 11.1 (17.6) 1.47 1.29–1.67 <0.001 
+Elbow 0.9 (2.4) 1.9 (2.8) 2.4 (3.9) 3.3 (5.0) 2.4 (3.1) 1.28 1.11–1.47 0.001 
+Wrist/hand 0.7 (1.6) 1.4 (2.4) 2.4 (4.8) 2.3 (4.3) 2.6 (5.1) 1.30 1.12–1.52 0.001 
+Upper back 3.5 (7.8) 4.5 (7.6) 8.0 (10.1) 10.8 (15.6) 11.7 (15.4) 1.44 1.25–1.67 <0.001 
+Low back 4.8 (7.2) 5.5 (6.8) 7.9 (8.4) 12.2 (12.8) 16.3 (14.3) * 1.47 1.32–1.65 <0.001 
+Hip/thigh/buttock 1.1 (2.7) 2.2 (4.8) 5.8 (8.8) 11.5 (13.8) * 14.8 (17.5) * 2.19 1.81–2.65 <0.001 
+Knee 1.5 (3.1) 1.7 (3.2) 3.7 (5.9) 4.7 (8.5) 3.8 (6.8) 1.33 1.16–1.53 <0.001 
+Ankle/foot 1.0 (2.9) 1.5 (2.1) 2.6 (4.4) 2.9 (3.9) 3.7 (5.5) 1.42 1.20–1.70 <0.001 
+Upper limb 1.3 (2.0) 2.1 (2.0) 4.2 (5.1) 5.2 (7.1) 5.4 (7.0) 1.38 1.27–1.50 <0.001 
+Lower Limb 1.2 (2.7) 1.8 (2.6) 4.1 (5.2) 6.3 (7.5) 7.4 (7.5) 1.66 1.48–1.86 <0.001 
+Total body 2.1 (2.8) 2.8 (2.5) 5.5 (5.0) 7.7 (7.0) 8.6 (7.7) 1.43 1.33–1.53 <0.001 
+Confidence Interval is 95th, * statistically signific ant pairwise comparisons of  clinically meaningful 
+increases from baseline. 
+ 
+Figure 2. Discomfort (mean + standard error) for neck, low back and hip/thigh/buttock over two hours 
+prolonged sitting (non transformed data). 
+Table 2. Cognitive function [mean (standard deviation)] over 2 h of prolonged sitting with coefficient 
+(Beta) for effect of time. 
+Variable Minutes—Group Means (SD) Time Effect 
+ 0 30 60 90 120 Beta Conf Interval p Value 
+Sustained attention        
+no-go success (%) 59.4 (29.7) 57.6 (30.1) 54.8 (30.1) 56.2 (27.5) 54.4 (30.7) −1.14 −2.68–0.40 0.148 
+reaction time (msec)  375.9 (73.3) 365.4 (68.1) 361.2 (74.1) 373.1 (66.8) 365.5 (62.6) −1.30 −5.2–2.81 0.534 
+Problem Solving        
+unique designs (n)  42.1 (9.1) 40.2 (8.8) 41.3 (8.5) 43.2 (8.7) 39.6 (8.7) −0.22 −0.69–0.26 0.372 
+errors (n) 1.8 (3.2) 1.8 (2.8) 2.3 (3.6) 2.2 (2.3) 2.8 * (3.1) 0.25 0.03–0.47 0.026 
+Confidence Interval is 95th, * statistically significant pairwise comparisons from baseline. 
+Figure 2. Discomfort (mean + standard error) for neck, low back and hip/thigh/buttock over two
+hours prolonged sitting (non transformed data).
+There was no signiﬁcant change over time in sustained attention (No-go success or reaction time).
+While the mean number of creative problem solving unique designs did not change signiﬁcantly over
+time, errors increased signiﬁcantly over time (group mean at baseline 1.8 [SD 3.2] to 2.8 [3.1] at 120 min)
+with pairwise testing (compared to baseline) also statistically signiﬁcant at 120 min (IRR 1.05,p = 0.036)
+(Table 2 and Figure 3). Perceived mental state deteriorated over time. Pairwise testing (compared
+to baseline) showed statistically signiﬁcant differences at 90 min ( β = 7.47, p < 0.001) and 120 min
+(β = 9.28, p < 0.001).
+
+===== PAGE 8 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 8 of 16
+Table 2. Cognitive function [mean (standard deviation)] over 2 h of prolonged sitting with coefﬁcient
+(Beta) for effect of time.
+Variable Minutes—Group Means (SD) Time Effect
+0 30 60 90 120 Beta Conf Interval pValue
+Sustained attention
+no-go success (%) 59.4 (29.7) 57.6 (30.1) 54.8 (30.1) 56.2 (27.5) 54.4 (30.7) −1.14 −2.68–0.40 0.148
+reaction time
+(msec) 375.9 (73.3) 365.4 (68.1) 361.2 (74.1) 373.1 (66.8) 365.5 (62.6) −1.30 −5.2–2.81 0.534
+Problem Solving
+unique designs (n)42.1 (9.1) 40.2 (8.8) 41.3 (8.5) 43.2 (8.7) 39.6 (8.7) −0.22 −0.69–0.26 0.372
+errors (n) 1.8 (3.2) 1.8 (2.8) 2.3 (3.6) 2.2 (2.3) 2.8 * (3.1) 0.25 0.03–0.47 0.026
+Conﬁdence Interval is 95th, * statistically signiﬁcant pairwise comparisons from baseline.
+Int. J. Environ. Res. Public Health 2018, 15, x FOR PEER REVIEW  8 of 15 
+ 
+Figure 3. Mean (+standard error) creative problem solving (unique designs and errors) over two hours 
+of prolonged sitting (non transformed). 
+Samples were taken approximately every 3 min to ensure consistency of the data. Samples either 
+side of those chosen were visually similar. Based on visual inspection for artefacts and checking 
+outliers, EMG data were excluded for specific time points of one participant’s erector spinae, five 
+participants’ biceps femoris and two participants’ external oblique. Amplitude and median frequency 
+of erector spinae, trapezius, rectus femoris, bi ceps femoris and external oblique muscles did not 
+change significantly over the two hours (Table 3). Low back angle (sagittal mean) appeared to change 
+from −5.9° (group mean at baseline) [SD 15.6] to −0.5° [13.4] at 120 min into less lordosis and closer to 
+usual sitting posture (group mean sitting posture −5.1°). Pelvis movement appeared to increase from 
+1.6 cm/s [1.0] at baseline to 2.2 cm/s [1.4] at 120 min over the two hour s. However there was no 
+significant time effect for low back angle or pelvis movement. 
+Table 3.  Muscle fatigue, low back angle and moveme nt, calf swelling and mental state [mean 
+(standard deviation)] over 2 h of prolonged standing with coefficient (Beta) for effect of time. 
+Variable Minutes—Group Means (SD) Beta Confidence Interval p Value 0 30 60 90 120 
+Muscle fatigue (A—Amplitude (% reference contraction), MF—Median Frequency [hertz]) 
+erector spinae—A 25.6 24.3 20.8 18.2 18.1 1.05 0.81–1.10 0.532 
+ (48.3) (30.3) (19.0) (16.0) (18.3)    
+erector spinae—MF 84.4 82.7 87.7 100.0 99.3 1.10 1.00–1.17 0.065 
+ (40.1) (38.0) (44.4) (49.0) (55.2)    
+trapezius—A 47.6 36.1 46.8 41.2 31.1 0.98 0.81–1.15 0.710 
+ (124.6) (86.7) (113.1) (112.6) (49.8)    
+trapezius—MF 73.3 71.3 70.2 68.4 72.0 1.00 0.95–1.02 0.459 
+ (16.2) (15.5) (14.1) (13.2) (15.5)    
+rectus femoris—A 20.2 19.2 23.2 21.2 25.3 0.98 0.89–1.10 0.620 
+ (36.7) (36.8) (38.2) (52.2) (48.0)    
+rectus femoris—MF 107.4 105.6 99.4 120.3 92.6 0.98 0.85–1.12 0.786 
+ (68.7) (72.5) (67.9) (81.0) (51.6)    
+biceps femoris—A 10.1 11.3 12.7 9.9 12.5 0.93 0.95–1.29 0.206 
+ (8.2) (8.1) (14.3) (7.7) (16.4)    
+biceps femoris—MF 164.7 158.9 151.1 186.7 152.0 1.00 0.89–1.15 0.884 
+ (63.1) (68.0) (82.0) (63.4) (64.1)    
+external oblique—A 17.2 24.9 21.9 22.6 21.5 1.04 0.92–1.20 0.489 
+ (15.7) (28.3) (20.9) (20.6) (20.1)    
+external oblique—MF 77.4 76.8 63.4 70.6 68.5 0.94 0.87–1.26 0.151 
+Figure 3. Mean (+standard error) creative problem solving (unique designs and errors) over two hours
+of prolonged sitting (non transformed).
+Samples were taken approximately every 3 min to ensure consistency of the data. Samples
+either side of those chosen were visually similar. Based on visual inspection for artefacts and
+checking outliers, EMG data were excluded for speciﬁc time points of one participant’s erector spinae,
+ﬁve participants’ biceps femoris and two participants’ external oblique. Amplitude and median
+frequency of erector spinae, trapezius, rectus femoris, biceps femoris and external oblique muscles
+did not change signiﬁcantly over the two hours (Table 3). Low back angle (sagittal mean) appeared
+to change from −5.9◦ (group mean at baseline) [SD 15.6] to −0.5◦ [13.4] at 120 min into less lordosis
+and closer to usual sitting posture (group mean sitting posture −5.1◦). Pelvis movement appeared to
+increase from 1.6 cm/s [1.0] at baseline to 2.2 cm/s [1.4] at 120 min over the two hours. However there
+was no signiﬁcant time effect for low back angle or pelvis movement.
+
+===== PAGE 9 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 9 of 16
+Table 3. Muscle fatigue, low back angle and movement, calf swelling and mental state [mean (standard
+deviation)] over 2 h of prolonged standing with coefﬁcient (Beta) for effect of time.
+Variable Minutes—Group Means (SD) Beta Conﬁdence
+Interval p Value
+0 30 60 90 120
+Muscle Fatigue (A—Amplitude (% Reference Contraction), MF—Median Frequency [hertz])
+erector spinae—A 25.6 24.3 20.8 18.2 18.1 1.05 0.81–1.10 0.532
+(48.3) (30.3) (19.0) (16.0) (18.3)
+erector spinae—MF 84.4 82.7 87.7 100.0 99.3 1.10 1.00–1.17 0.065
+(40.1) (38.0) (44.4) (49.0) (55.2)
+trapezius—A 47.6 36.1 46.8 41.2 31.1 0.98 0.81–1.15 0.710
+(124.6) (86.7) (113.1) (112.6) (49.8)
+trapezius—MF 73.3 71.3 70.2 68.4 72.0 1.00 0.95–1.02 0.459
+(16.2) (15.5) (14.1) (13.2) (15.5)
+rectus femoris—A 20.2 19.2 23.2 21.2 25.3 0.98 0.89–1.10 0.620
+(36.7) (36.8) (38.2) (52.2) (48.0)
+rectus femoris—MF 107.4 105.6 99.4 120.3 92.6 0.98 0.85–1.12 0.786
+(68.7) (72.5) (67.9) (81.0) (51.6)
+biceps femoris—A 10.1 11.3 12.7 9.9 12.5 0.93 0.95–1.29 0.206
+(8.2) (8.1) (14.3) (7.7) (16.4)
+biceps femoris—MF 164.7 158.9 151.1 186.7 152.0 1.00 0.89–1.15 0.884
+(63.1) (68.0) (82.0) (63.4) (64.1)
+external oblique—A 17.2 24.9 21.9 22.6 21.5 1.04 0.92–1.20 0.489
+(15.7) (28.3) (20.9) (20.6) (20.1)
+external oblique—MF 77.4 76.8 63.4 70.6 68.5 0.94 0.87–1.26 0.151
+(37.8) (50.3) (31.7) (38.1) (39.4)
+Low back angle (degrees)
+sagittal mean −5.9 −2.8 −3.3 −3.7 −0.5 0.98 −0.25–2.21 0.117
+(15.6) (17.0) (17.4) (14.1) (13.4)
+sagittal std 0.3 0.7 1.0 0.4 0.8 0.09 −0.04–0.23 0.172
+deviation (0.3) (0.7) (1.5) (0.4) (1.4)
+Pelvis movement (cm/s)
+distance 1.6 1.9 2.3 1.9 2.2 1.11 0.95–1.3 0.178
+(1.0) (0.8) (1.9) (1.0) (1.4)
+Mental state (/100)
+perceived mental state 28.0
+(18.8)
+32.4
+(19.3)
+31.1
+(16.4)
+35.4 *
+(19.6)
+37.2 *
+(19.1) 2.16 1.10–3.22 <0.001
+Conﬁdence Interval is 95% conﬁdence interval, ˆ back transformed, * statistically signiﬁcant pairwise comparisons
+from baseline.
+Correlations
+Low back discomfort was substantially negatively correlated with external oblique median
+frequency (r = −0.533) but not with external oblique amplitude, or erector spinae (amplitude or
+median frequency), low back angle (mean or standard deviation) or pelvis movement (see Table 4).
+Lower limb discomfort was not signiﬁcantly correlated with biceps femoris and rectus femoris muscle
+amplitude or median frequency, or pelvis movement (see Table 5). Upper limb discomfort was not
+correlated with trapezius amplitude or median frequency or pelvis movement (see Table 6). Total body
+discomfort had a moderate correlation with creative problem solving errors (rho = 0.480,p = 0.032),
+approached signiﬁcance with mental state (rho = 0.423, p = 0.063), however was not signiﬁcantly
+correlated with unique designs, No-go success, or reaction time (see Table 7).
+
+===== PAGE 10 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 10 of 16
+Table 4. Change score correlations (r) for low back discomfort and low back angle, pelvis movement
+and muscle fatigue amplitude (A) and median frequency (MF) measures over 2 h prolonged sitting.
+Low Back
+Discomfort
+Usual Sit
+(Mean Sagittal)
+Usual Sit
+(SD Sagittal)
+Erector
+Spinae (A)
+Erector
+Spinae (MF)
+External
+Oblique (A)
+External
+Oblique (MF)
+Pelvis
+Movement
+Low Back Discomfort, r1.000
+Usual Sit (Mean Sagittal), r−0.269 1.000
+(pValue) 0.252
+Usual Sit (SD Sagittal), r0.297 −0.422 1.000
+(pValue) 0.204 0.064
+Erector Spinae (A), r −0.140 −0.290 0.477 1.000
+(pValue) 0.569 0.229 0.039
+Erector Spinae (MF), r0.374 −0.175 −0.263 −0.489 1.000
+(pValue) 0.115 0.474 0.277 0.034
+External Oblique (A), r0.170 0.153 0.058 0.036 −0.117 1.000
+(pValue) 0.530 0.571 0.831 0.894 0.665
+External Oblique (MF), r−0.533 0.427 −0.123 0.058 −0.461 −0.175 1.000
+(pValue) 0.028 0.087 0.638 0.824 0.062 0.516
+Pelvis Movement, r 0.380 −0.310 0.760 0.582 −0.348 0.079 −0.014 1.000
+(pValue) 0.098 0.184 < 0.001 0.009 0.144 0.772 0.959
+Table 5. Change score correlations (r) between lower limb discomfort, muscle fatigue [amplitude (A)
+and median frequency (MF)] and pelvis movement over 2 h prolonged sitting.
+Lower Limb
+Discomfort
+Biceps
+Femoris (A)
+Biceps Femoris
+(MF)
+Rectus
+Femoris (A)
+Rectus Femoris
+(MF)
+Pelvis
+Movement
+Lower Limb Discomfort, r 1.000
+Biceps Femoris (A), r −0.114 1.000
+(p Value) 0.652
+Biceps Femoris (MF), r 0.072 −0.510 1.000
+(p Value) 0.799 0.052
+Rectus Femoris (A), r 0.288 0.118 0.221 1.000
+(p Value) 0.233 0.653 0.447
+Rectus Femoris (MF), r −0.084 −0.291 0.312 −0.595 1.000
+(p Value) 0.734 0.258 0.277 0.007
+Pelvis Movement, r 0.243 0.729 −0.361 0.310 −0.196 1.000
+(p Value) 0.301 0.001 0.186 0.196 0.421
+Table 6. Change score correlations (r) between upper limb discomfort, muscle fatigue [amplitude (A)
+and median frequency (MF)] and pelvis movement over 2 h prolonged sitting.
+Upper Limb Discomfort Trapezius (A) Trapezius (MF) Pelvis Movement
+Upper Limb Discomfort, r 1.000
+Trapezius (A), r 0.101 1.000
+(p Value) 0.673
+Trapezius (MF), r 0.102 0.501 1.000
+(p Value) 0.668 0.022
+Pelvis Movement, r −0.168 0.234 0.558 1.000
+(p Value) 0.479 0.281 0.011
+Table 7. Change score correlations (rho) between total body discomfort, creative problem solving,
+sustained attention and mental state over 2 h prolonged sitting.
+Total Body Discomfort Creative Problem Solving Sustained Attention Mental State
+Unique Designs Errors No-Go Success Reaction Time
+Total body Discomfort, rho 1.000
+Unique Designs, rho 0.157 1.000
+(pValue) 0.508
+Errors, rho 0.480 −0.294 1.000
+(pValue) 0.032 0.208
+No-go Success, rho −0.121 0.292 0.200 1.000
+(pValue) 0.611 0.212 0.397
+Reaction Time, rho −0.053 0.383 0.101 0.795 1.000
+(pValue) 0.823 0.096 0.672 <0.001
+Mental State, rho 0.423 −0.226 0.398 0.013 −0.028 1.000
+(pValue) 0.063 0.338 0.082 0.957 0.906
+
+===== PAGE 11 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 11 of 16
+4. Discussion
+The current study examined discomfort, cognitive function, muscle fatigue, low back angle,
+pelvis movement and mental state over two hours of prolonged sitting. Discomfort increased
+signiﬁcantly across all body areas with low back rated highest. There was a deterioration in creative
+problem solving errors over time and a negative impact on mental state during prolonged sitting.
+There were no effects on muscle fatigue, low back angle or pelvis movement over time.
+In congruence with a number of laboratory studies, discomfort increased with time for the low
+back [12], lower limb [18] and also the upper limb [51]. Clinically meaningful increases were evident for
+low back (10 participants) and hip/thigh/buttock (nine participants) discomfort. Discomfort related
+to sitting is thus a potentially important issue for ofﬁce workers, requiring greater understanding and
+consideration of interventions.
+Low back discomfort had a clinically meaningful increase in discomfort at the end of the 120 min
+of prolonged sitting, suggesting a posture break should be taken before 120 min of prolonged sitting.
+Despite low back discomfort being correlated with an external oblique fatigue indicator (median
+frequency), there was no evidence of erector spinae or external oblique fatigue (i.e., increased amplitude
+or decreased median frequency) over the two hours of sitting. While evidence suggests sitting can
+result in increased erector spinae muscle activation, muscle activity level varies depending on the
+posture assumed [20,52]. There was a change in low back angle to less lordosis over time, which is in
+line with prior evidence [7,53]. Castanharo et al. [54] has previously suggested passive tissue stress to
+be less with greater anterior tilt and the lumbar spine closer to neutral, resulting in less discomfort.
+Although not evident in the results from this study, it is postulated that over a longer duration the
+increase in posterior tilt may contribute to more passive tissue stress and thus discomfort. In contrast,
+the lack of increase in pelvis movement was not expected. O’Sullivan et al. [ 55] found those with
+discomfort adopted a more static end-range sitting position with less frequent micro-movements,
+but large infrequent shifts in posture during sitting. This is in line with Fenety et al. [56] who found
+ﬁdgets increased with sitting time. The data capture sampling period of 10 s in the current study may
+have missed irregular movement and thus not reﬂected the full amount of movement undertaken.
+Therefore whilst not evident in our study, the lack of movement may have been a contributor to
+discomfort. Further research of movement patterns during prolonged sitting preceding discomfort,
+may help to understand the adoption of preventative movement strategies versus movement to
+alleviate discomfort.
+Hip/thigh/buttock had a clinically meaningful increase in discomfort at 90 min which was also
+statistically signiﬁcant (which was earlier than for the low back). Discomfort in the hip/thigh/buttock
+area is postulated to have some relationship with gluteal pressure [ 17]. Sondergaard, Olesen,
+Sondergaard, de Zee and Madeleine [11] separated buttock and thigh regions and found discomfort in
+the buttock was rated considerably higher than the thigh. This may in part be attributed to the pressure
+distribution in sitting. Makhsous et al. [20] found a concentration of higher pressure around the ischial
+region of the buttocks compared to the thigh. In the remainder of the lower limb, although knee and
+ankle/foot discomfort increased over time neither reached clinically meaningful levels. Winkel and
+Jorgensen [18] studied eight hours of seated work and found increased foot swelling and decreased
+foot temperature, when there was minimal leg movement in sitting. Lower limb discomfort was
+not correlated with pelvis movement in the current study. It was postulated that increased pelvis
+movement may assist to relieve discomfort in the gluteal region [11] but potentially has less beneﬁt
+for the lower leg. There may be other factors which were not measured, such as swelling and blood
+ﬂow, which may help to understand mechanisms underlying lower limb discomfort. Further research
+which separates thigh and buttock discomfort measures and considers lower limb swelling may help
+to understand the mechanisms for buttock and lower leg discomfort better.
+Despite statistically signiﬁcant increases in discomfort in all upper limb areas, changes from
+baseline did not reach clinically meaningful levels. The increase in the neck and shoulder discomfort
+appeared greater than elbow and wrist/hand increases. Neck discomfort for ofﬁce workers has
+
+===== PAGE 12 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 12 of 16
+been found in a number of studies [21,57] and has been associated with neck ﬂexion. For the upper
+limb, ﬁeld and laboratory studies have found discomfort to be greater in just-sitting than other work
+postures such as sit-stand [23,24]. This ﬁnding has been postulated to be a result of increased loading
+on neck and shoulder muscles when sitting [ 23]. In the current study participants had autonomy
+over the tasks undertaken and as a result there may have been individual differences in duration of
+a speciﬁc posture (such as neck ﬂexion) or repetitive movements (e.g., using mouse or keyboard).
+In the workplace there may be more or less autonomy in task performance and duration which may
+inﬂuence discomfort. As this study was for two hours duration, discomfort may increase more over
+a longer duration and thus reach clinically meaningful levels. To gain a clear understanding of neck
+and upper limb discomfort in ofﬁce workers an accurate description of the pattern of tasks performed
+may be important.
+The current study found a decline in cognitive function over prolonged sitting in the form of
+increased creative problem solving errors, although performance in generating unique designs did
+not change over time and there was no change in sustained attention. Mental state was perceived
+to decline from 90 min. The increase in errors is consistent with other evidence showing working in
+prolonged positions led to poorer cognitive function than working with interruption and adoption
+of an alternate work position [58]. On the other hand, some studies have failed to ﬁnd a signiﬁcant
+difference in cognitive function (including executive tasks, memory and attention) over periods of
+uninterrupted sitting [29] and in studies with shorter periods [59]. It is noted, however, that not all
+studies of cognitive function have considered the same attributes or over the same length of time
+which reduces the ability to make direct comparisons [60]. The results of the current and other studies
+show that prolonged uninterrupted sitting can negatively impact cognitive function.
+For sustained attention this study found no signiﬁcant change in reaction time and No-go
+success. It is known that sustained attention has a tendency to deteriorate with time-on-task [ 61].
+In the current study, the lack of decrement may have been due to the self directed tasks performed
+by participants being able to keep participants relatively alert. Alternatively the testing itself
+(approximately 4 min every 30 min) may have been perceived as a novelty and resulted in an increase
+in attention. Interestingly although sustained attention was maintained, there was a concurrent ﬁnding
+of deterioration in mental state. However the change in mental state was relatively small given the
+possible response range. In considering wider measures of attention and perceived mental state,
+other studies have considered mental fatigue. Wennberg et al. [ 29] found there was an increase in
+mental fatigue over four hours of prolonged sitting, along with a decrease in heart rate and altered
+neuroendocrine biomarkers, potentially reﬂecting an inﬂuence on the autonomic nervous system.
+It has been suggested that the relatively low energy expenditure and metabolic rate of prolonged
+sitting [33] has potential to negatively impact brain health [25] and thus potentially effect cognitive
+function. In contrast, higher energy expenditure has been linked with changes in metabolism including
+cerebral blood ﬂow [ 32] and oxygenation [62]. It is clear that the factors inﬂuencing cognitive function
+and mental state are likely to be multifaceted. Research comparing just-sitting to alternate work
+positions with higher energy expenditure may provide greater understanding.
+Results of the current study showed a signiﬁcant moderate correlation between total body
+discomfort and cognitive function errors and moderate but not statistically signiﬁcant association with
+mental state. Pronk et al. [31] found in a ﬁeld study that by reducing periods of prolonged sitting there
+was reduced pain and improved productivity and focus. However, studies which have considered
+the correlation between discomfort and cognitive function are limited and have focused on integrated
+work productivity tasks such as typing rather than more discrete cognitive function tests [ 63,64].
+A change in physical state, such as discomfort, has been hypothesised to be related to changes in the
+allocation of attention resources [65] although this was not conclusively evident through the measures
+in this study. Whilst the current study found some evidence of acute deterioration in cognitive function
+during sitting, there are also concerns that chronic sedentary behaviour has potential to negatively
+inﬂuence cognitive function more substantially [ 25,26]. Research of mechanisms not considered in this
+
+===== PAGE 13 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 13 of 16
+study, such as autonomic nervous system activity, may assist in understanding the long term effect of
+chronic uninterrupted seated work on cognition.
+5. Strengths and Limitations
+This study used a strong design (within participant, repeated measures) and included an elaborate
+range of variables to characterise the effect of prolonged sitting on discomfort and cognitive function
+as well as potential mechanisms such as muscle fatigue and lumbar posture and movement. It is
+acknowledged however that the convenience sample, laboratory setting and test protocol may have
+inﬂuenced the results and thus generalising results should be undertaken with caution. For example
+the sensors on their low back may have impacted discomfort ratings. In addition data capture may not
+have been of sufﬁcient duration to show changes for some sporadic or irregular movement. The lightly
+controlled tasks performed by participants may have increased random variance. One person did
+stand once (brieﬂy) during the two hours, however their level of discomfort did not inﬂuence overall
+ﬁndings. It is also acknowledged that individual factors such as motivation may have inﬂuenced
+cognitive function results. Further it is acknowledged that correlation results outlined which are
+suggestive of a relationship between variables require further exploration. The number of statistical
+tests performed raises the issue of type 1 errors, the over interpretation of which was minimised by
+examining the pattern of response over repeated measures and across multiple dependent variables.
+6. Conclusions
+This study found acute negative effects during two hours of prolonged sitting with clinically
+meaningful increases in discomfort in the low back and hip/thigh/buttock areas. Regarding cognitive
+function, some deterioration in creative problem solving was observed, but there was no impact on
+sustained attention during prolonged sitting. No signiﬁcant changes in muscle activation, low back
+angle and pelvis movement were found. Increasing body discomfort had a moderate correlation with
+cognitive function suggesting potentially important relationship between them. The observed ﬁndings
+suggest sitting for prolonged periods may have consequences for musculoskeletal discomfort and
+cognitive function in the short term and breaks to change position are recommended.
+Author Contributions: Conceptualization, R.B., E.H., A.W. and L.S.; Methodology, R.B., E.H., A.W. and L.S.;
+Software, P .C. and P .D.; Validation, R.B., P .C., E.H., A.W. and L.S.; Formal Analysis, R.B., P .C., E.H., A.W. and L.S.;
+Investigation, R.B. and L.S.; Resources, Curtin University.; Data Curation, R.B. and P .D; Writing-Original Draft
+Preparation, R.B. and L.S.; Writing-Review & Editing, R.B., P .C., E.H., A.W. and L.S.; Visualization, R.B., P .C., E.H.
+and L.S.; Supervision, P .C, E.H. and L.S.; Project Administration, R.B.; Funding Acquisition, L.S.
+Acknowledgments: The authors would like to acknowledge Paul Davey for his assistance with development
+of the Labview program used for data processing and the participants for donating their time to the project.
+The authors would like to acknowledge the support of an Australian Government Research Training Program
+Scholarship for Richelle Baker and an Australian National Health and Medical Research Council Senior Research
+Fellowship for Leon Straker.
+Conﬂicts of Interest: The authors have no conﬂicts of interest to declare.
+References
+1. Straker, L.; Coenen, P .; Dunstan, D.; Gilson, N.; Healy, G.Sedentary Work—Evidence on an Emergent Work
+Health and Safety Issue ; Safe Work Australia: Canberra, Australia, 2016.
+2. Dunstan, D.W.; Howard, B.; Healy, G.N.; Owen, N. Too much sitting—A health hazard. Diabetes Res. Clin.
+Pract. 2012, 97, 368–376. [CrossRef] [PubMed]
+3. Schmid, D.; Leitzmann, M.F. Television viewing and time spent sedentary in relation to cancer risk:
+A meta-analysis. J. Natl. Cancer Inst. 2014, 106. [CrossRef] [PubMed]
+4. Katzmarzyk, P .T.; Church, T.S.; Craig, C.L.; Bouchard, C. Sitting time and mortality from all causes,
+cardiovascular disease, and cancer. Med. Sci. Sports Exerc. 2009, 41, 998–1005. [CrossRef] [PubMed]
+
+===== PAGE 14 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 14 of 16
+5. Van Der Ploeg, H.P .; Møller, S.V .; Hannerz, H.; Van Der Beek, A.J.; Holtermann, A. Temporal changes in
+occupational sitting time in the danish workforce and associations with all-cause mortality: Results from the
+danish work environment cohort study. Int. J. Behav. Nutr. Phys. Act. 2015, 12, 71. [CrossRef] [PubMed]
+6. Van Uffelen, J.G.Z.; Wong, J.; Chau, J.Y.; Van Der Ploeg, H.P .; Riphagen, I.; Gilson, N.D.; Burton, N.W.;
+Healy, G.N.; Thorp, A.A.; Clark, B.K.; et al. Occupational sitting and health risks: A systematic review. Am. J.
+Prev. Med. 2010, 39, 379–388. [CrossRef] [PubMed]
+7. Pope, M.H.; Goh, K.L.; Magnusson, M.L. Spine ergonomics. Annu. Rev. Biomed. Eng. 2002, 4, 49–68.
+[CrossRef] [PubMed]
+8. Marshall, S.; Gyi, D. Evidence of health risks from occupational sitting. Am. J. Prev. Med. 2010, 39, 389–391.
+[CrossRef] [PubMed]
+9. Van Nieuwenhuyse, A.; Fatkhutdinova, L.; Verbeke, G.; Pirenne, D.; Johannik, K.; Somville, P .R.; Mairiaux, P .;
+Moens, G.F.; Masschelein, R. Risk factors for ﬁrst-ever low back pain among workers in their ﬁrst
+employment. Occup. Med. 2004, 54, 513–519. [CrossRef] [PubMed]
+10. Hartvigsen, J.; Leboeuf-Yde, C.; Lings, S.; Corder, E.H. Review article: Is sitting-while-at-work associated
+with low back pain? A systematic, critical literature review.Scand J. Public Health 2000, 28, 230–239. [CrossRef]
+[PubMed]
+11. Sondergaard, K.H.; Olesen, C.G.; Sondergaard, E.K.; De Zee, M.; Madeleine, P . The variability and complexity
+of sitting postural control are associated with discomfort. J. Biomech. 2010, 43, 1997–2001. [CrossRef]
+[PubMed]
+12. Karakolis, T.; Barrett, J.; Callaghan, J.P . A comparison of trunk biomechanics, musculoskeletal discomfort and
+productivity during simulated sit-stand ofﬁce work. Ergonomics 2016, 59, 1275–1287. [CrossRef] [PubMed]
+13. Morl, F.; Bradl, I. Lumbar posture and muscular activity while sitting during ofﬁce work.
+J. Electromyogr. Kinesiol. 2013, 23, 362–368. [CrossRef] [PubMed]
+14. Le, P .; Marras, W.S. Evaluating the low back biomechanics of three different ofﬁce workstations: Seated,
+standing, and perching. Appl. Ergon. 2016, 56, 170–178. [CrossRef] [PubMed]
+15. Da Costa, B.R.; Vieira, E.R. Risk factors for work-related musculoskeletal disorders: A systematic review of
+recent longitudinal studies. Am. J. Ind Med. 2010, 53, 285–323. [CrossRef] [PubMed]
+16. De Looze, M.P .; Kuijt-Evers, L.F.M.; Van Dieën, J. Sitting comfort and discomfort and the relationships with
+objective measures. Ergonomics 2003, 46, 985–997. [CrossRef] [PubMed]
+17. Reid, C.R.; Mccauley Bush, P .; Karwowski, W.; Durrani, S.K. Occupational postural activity and lower
+extremity discomfort: A review. Int. J. Ind. Ergon. 2010, 40, 247–256. [CrossRef]
+18. Winkel, J.; Jorgensen, K. Evaluation of foot swelling and lower-limb temperatures in relation to leg activity
+during long-term seated ofﬁce work. Ergonomics 1986, 29, 313–328. [CrossRef] [PubMed]
+19. Chester, M.R.; Rys, M.J.; Konz, S.A. Leg swelling, comfort and fatigue when sitting, standing,
+and sit/standing. Int. J. Ind. Ergon. 2002, 29, 289–296. [CrossRef]
+20. Makhsous, M.; Lin, F.; Bankard, J.; Hendrix, R.W.; Hepler, M.; Press, J. Biomechanical effects of sitting with
+adjustable ischial and lumbar support on occupational low back pain: Evaluation of sitting load and back
+muscle activity. BMC Musculoskelet. Disord. 2009, 10, 17. [CrossRef] [PubMed]
+21. Wærsted, M.; Hanvold, T.N.; Veiersted, K.B. Computer work and musculoskeletal disorders of the neck and
+upper extremity: A systematic review. BMC Musculoskelet. Disord. 2010, 11, 79. [CrossRef] [PubMed]
+22. Gerr, F.; Marcus, M.; Ensor, C.; Kleinbaum, D.; Cohen, S.; Edwards, A.; Gentry, E.; Ortiz, D.J.; Monteilh, C.
+A prospective study of computer users: I. Study design and incidence of musculoskeletal symptoms and
+disorders. Am. J. Ind. Med. 2002, 41, 221–235. [CrossRef] [PubMed]
+23. Roelofs, A.; Straker, L. The experience of musculoskeletal discomfort amongst bank tellers who just sit, just
+stand or sit and stand at work. Ergon. SA 2002, 14, 11–29.
+24. Davis, K.G.; Kotowski, S.E. Postural variability: An effective way to reduce musculoskeletal discomfort in
+ofﬁce work. Hum. Factors 2014, 56, 1249–1261. [CrossRef] [PubMed]
+25. Voss, M.W.; Carr, L.J.; Clark, R.; Weng, T. Revenge of the “sit” II: Does lifestyle impact neuronal and cognitive
+health through distinct mechanisms associated with sedentary behavior and physical activity? Ment. Health
+Phys. Act. 2014, 7, 9–24. [CrossRef]
+26. Falck, R.S.; Davis, J.C.; Liu-Ambrose, T. What is the association between sedentary behaviour and cognitive
+function? A systematic review. Br. J. Sports Med. 2017, 51, 800–811. [CrossRef] [PubMed]
+
+===== PAGE 15 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 15 of 16
+27. Hasegawa, T.; Inoue, K.; Tsutsue, O.; Kumashiro, M. Effects of a sit-stand schedule on a light repetitive task.
+Int. J. Ind. Ergon. 2001, 28, 219–224. [CrossRef]
+28. Thorp, A.A.; Kingwell, B.A.; Owen, N.; Dunstan, D.W. Breaking up workplace sitting time with intermittent
+standing bouts improves fatigue and musculoskeletal discomfort in overweight/obese ofﬁce workers. Int. J.
+Occup. Environ. Med. 2014, 71, 765–771. [CrossRef] [PubMed]
+29. Wennberg, P .; Boraxbekk, C.-J.; Wheeler, M.; Howard, B.; Dempsey, P .C.; Lambert, G.; Eikelis, N.; Larsen, R.;
+Sethi, P .; Occleston, J.; et al. Acute effects of breaking up prolonged sitting on fatigue and cognition: A pilot
+study. BMJ Open 2016, 6, e009630. [CrossRef] [PubMed]
+30. Dutta, N.; Koepp, G.; Stovitz, S.; Levine, J.; Pereira, M. Using sit-stand workstations to decrease sedentary
+time in ofﬁce workers: A randomized crossover trial. Int. J. Environ. Res. Public Health 2014, 11, 6653–6665.
+[CrossRef] [PubMed]
+31. Pronk, N.P .; Katz, A.S.; Lowry, M.; Payfer, J.R. Reducing occupational sitting time and improving worker
+health: The take-a-stand project, 2011. Prev. Chronic Dis. 2012, 9, E154. [CrossRef] [PubMed]
+32. Perrey, S. Promoting motor function by exercising the brain.Brain Sci. 2013, 3, 101–122. [CrossRef] [PubMed]
+33. Barone Gibbs, B.; Kowalsky, R.J.; Perdomo, S.J.; Grier, M.; Jakicic, J.M. Energy expenditure of deskwork
+when sitting, standing or alternating positions. Occup. Med. 2016, 67, 121–127. [CrossRef] [PubMed]
+34. Kuorinka, I.; Jonsson, B.; Kilbom, A.; Vinterberg, H.; Biering-Sørensen, F.; Andersson, G.; Jørgensen, K.
+Standardised nordic questionnaires for the analysis of musculoskeletal symptoms. Appl. Ergon.
+1987, 18, 233–237. [CrossRef]
+35. Ross, T.P .; Foard, E.L.; Hiott, F.B.; Vincent, A. The reliability of production strategy scores for the ruff ﬁgural
+ﬂuency test. Arch. Clin. Neuropsychol. 2003, 18, 879–891. [CrossRef] [PubMed]
+36. Oken, B.S.; Salinsky, M.C.; Elsas, S.M. Vigilance, alertness, or sustained attention: Physiological basis and
+measurement. Clin. Neurophysiol. 2006, 117, 1885–1901. [CrossRef] [PubMed]
+37. Head, J.; Helton, W.S. Practice does not make perfect in a modiﬁed sustained attention to response task.
+Exp. Brain Res. 2014, 232, 565–573. [CrossRef] [PubMed]
+38. Lee, K.A.; Hicks, G.; Nino-Murcia, G. Validity and reliability of a scale to assess fatigue. Psychiatry Res.
+1991, 36, 291–298. [CrossRef]
+39. Veiersted, K.B.; Forsman, M.; Hansson, G.-Å.; Mathiassen, S.E. Assessment of time patterns of activity
+and rest in full-shift recordings of trapezius muscle activity—Effects of the data processing procedure.
+J. Electromyogr. Kinesiol. 2013, 23, 540–547. [CrossRef] [PubMed]
+40. Dankaerts, W.; O’Sullivan, P .B.; Burnett, A.F.; Straker, L.M.; Danneels, L.A. Reliability of EMG measurements
+for trunk muscles during maximal and sub-maximal voluntary isometric contractions in healthy controls
+and CLBP patients. J. Electromyogr. Kinesiol. 2004, 14, 333–342. [CrossRef] [PubMed]
+41. O’Sullivan, P .; Dankaerts, W.; Burnett, A.; Straker, L.; Bargon, G.; Moloney, N.; Perry, M.; Tsang, S.
+Lumbopelvic kinematics and trunk muscle activity during sitting on stable and unstable surfaces. J. Orthop.
+Sports Phys. Ther. 2006, 36, 19–25. [CrossRef] [PubMed]
+42. Rouffet, D.M.; Hautier, C.A. EMG normalization to study muscle activation in cycling.
+J. Electromyogr. Kinesiol. 2008, 18, 866–878. [CrossRef] [PubMed]
+43. Kollmitzer, J.; Ebenbichler, G.R.; Kopf, A. Reliability of surface electromyographic measurements. Clin.
+Neurophysiol. 1999, 110, 725–734. [CrossRef]
+44. Halim, I.; Omar, A.R.; Saman, A.M.; Othman, I. Assessment of muscle fatigue associated with prolonged
+standing in the workplace. Saf. Health Work 2012, 3, 31–42. [CrossRef] [PubMed]
+45. Antle, D.M.; Côté, J. Relationships between lower limb and trunk discomfort and vascular, muscular and
+kinetic outcomes during stationary standing work. Gait Posture 2013, 37, 615–619. [CrossRef] [PubMed]
+46. Gallagher, K.M.; Callaghan, J.P . Early static standing is associated with prolonged standing induced low
+back pain. Hum. Mov. Sci. 2015, 44, 111–121. [CrossRef] [PubMed]
+47. Pearcy, M.J.; Hindle, R.J. New method for the non-invasive three-dimensional measurement of human back
+movement. Clin. Biomech. 1989, 4, 73–79. [CrossRef]
+48. Levine, D.; Whittle, M.W. The effects of pelvic movement on lumbar lordosis in the standing position.
+J. Orthop. Sports Phys. Ther. 1996, 24, 130–135. [CrossRef] [PubMed]
+49. Hägg, O.; Fritzell, P .; Nordwall, A. The clinical importance of changes in outcome scores after treatment for
+chronic low back pain. Eur. Spine J. 2003, 12, 12–20. [PubMed]
+
+===== PAGE 16 =====
+
+Int. J. Environ. Res. Public Health 2018, 15, 1678 16 of 16
+50. Plichta, S.B.; Kelvin, A. Munro’s Statistical Methods for Health Care Research , 6th ed.; Wolters Kluwer
+Health/Lippincott Williams & Wilkins: Philadelphia, PA, USA, 2013.
+51. Kar, G.; Hedge, A. Effects of sitting and standing work postures on short-term typing performance and
+discomfort. Proc. Hum. Factors Ergon. Soc. Annu. Meet. 2016, 60, 460–464. [CrossRef]
+52. Harrison, D.D.; Harrison, S.O.; Croft, A.C.; Harrison, D.E.; Troyanovich, S.J. Sitting biomechanics part I:
+Review of the literature. J. Manipulative Physiol. Ther. 1999, 22, 594–609. [CrossRef]
+53. O’Sullivan, K.; O’Sullivan, P .; O’Sullivan, L.; Dankaerts, W. What do physiotherapists consider to be the best
+sitting spinal posture? Man. Ther. 2012, 17, 432–437. [CrossRef] [PubMed]
+54. Castanharo, R.; Duarte, M.; Mcgill, S. Corrective sitting strategies: An examination of muscle activity and
+spine loading. J. Electromyogr. Kinesiol. 2014, 24, 114–119. [CrossRef] [PubMed]
+55. O’Sullivan, K.; O’Keeffe, M.; O’Sullivan, L.; O’Sullivan, P .; Dankaerts, W. The effect of dynamic sitting on the
+prevention and management of low back pain and low back discomfort: A systematic review. Ergonomics
+2012, 55, 898–908. [CrossRef] [PubMed]
+56. Fenety, P .A.; Putnam, C.; Walker, J.M. In-chair movement: Validity, reliability and implications for measuring
+sitting discomfort. Appl. Ergon. 2000, 31, 383–393. [CrossRef]
+57. Janwantanakul, P .; Pensri, P .; Jiamjarasrangsri, V .; Sinsongsook, T. Prevalence of self-reported musculoskeletal
+symptoms among ofﬁce workers. Occup. Med. 2008, 58, 436–438. [CrossRef] [PubMed]
+58. Mullane, S.L.; Buman, M.P .; Zeigler, Z.S.; Crespo, N.C.; Gaesser, G.A. Acute effects on cognitive performance
+following bouts of standing and light-intensity physical activity in a simulated workplace environment.
+J. Sci. Med. Sport 2017, 20, 489–493. [CrossRef] [PubMed]
+59. Russell, B.A.; Summers, M.J.; Tranent, P .J.; Palmer, M.A.; Cooley, P .D.; Pedersen, S.J. A randomised control
+trial of the cognitive effects of working in a seated as opposed to a standing position in ofﬁce workers.
+Ergonomics 2016, 59, 737–744. [CrossRef] [PubMed]
+60. Schraefel, M.; Jay, K.; Andersen, L.L. Assessing the effect of self-positioning on cognitive executive function.
+Ergonomics 2012, 2. [CrossRef]
+61. Thomson, D.R.; Besner, D.; Smilek, D. A resource-control account of sustained attention: Evidence from
+mind-wandering and vigilance paradigms. Perspect. Psychol. Sci. 2015, 10, 82–96. [CrossRef] [PubMed]
+62. Rooks, C.R.; Thom, N.J.; McCully, K.K.; Dishman, R.K. Effects of incremental exercise on cerebral oxygenation
+measured by near-infrared spectroscopy: A systematic review. Prog. Neurobiol. 2010, 92, 134–150. [CrossRef]
+[PubMed]
+63. Liao, M.H.; Drury, C.G. Posture, discomfort and performance in a VDT task. Ergonomics 2000, 43, 345–359.
+[CrossRef] [PubMed]
+64. Haynes, S.; Williams, K. Impact of seating posture on user comfort and typing performance for people with
+chronic low back pain. Int. J. Ind. Ergon. 2008, 38, 35–46. [CrossRef]
+65. Tomporowski, P .D. Effects of acute bouts of exercise on cognition.Acta Psychol. 2003, 112, 297–324. [CrossRef]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,575 @@
+===== PAGE 1 =====
+
+Perceived body discomfort and trunk muscle  
+activity in three prolonged sitting postures
+Poori Put  Waongenngarm , MSC1), Bala  S. r ajaratnam , PhD2), Pra Wit jan Wantanakul , PhD1)*
+1) Department of Physical Therapy, Faculty of Allied Health Sciences, Chulalongkorn University: 
+Bangkok, Thailand
+2) School of Health Sciences (Allied Health), Nanyang Polytechnic, Singapore
+Abstract. [Purpose] This study aimed to investigate the perceived discomfort and trunk muscle activity in three 
+different 1-hour sitting postures. [Subjects] A repeated-measures design study was conducted on 10 healthy sub -
+jects. [Methods] Each subject sat for an hour in three sitting postures (i.e., upright, slumped, and forward leaning 
+sitting postures). Subjects rated perceived body discomfort using Borg’s CR-10 scale at the beginning and after 1 
+hour sitting. The electromyographic activity of the trunk muscle activity was recorded during the 1-hour period 
+of sitting. [Results] The forward leaning sitting posture led to higher Borg scores in the low back than those in the 
+upright (p = 0.002) and slumped sitting postures (p < 0.001). The forward leaning posture was significantly as -
+sociated with increased iliocostalis lumborum pars thoracis (ICL) and superficial lumbar multifidus (MF) muscle 
+activity compared with the upright and slumped sitting postures. The upright sitting posture was significantly as -
+sociated with increased internal oblique (IO)/transversus abdominis (TrA) and ICL muscle activity compared with 
+the slumped sitting posture. [Conclusion] The sitting posture with the highest low back discomfort after prolonged 
+sitting was the forward leaning posture. Sitting in an upright posture is recommended because it increases IO/TrA 
+muscle activation and induces only relatively moderate ICL and MF muscle activation.
+Key words:  Pain, Sitting posture, Electromyography
+(This article was submitted Feb. 26, 2015, and was accepted Apr. 3, 2015)
+INTRODUCTION
+Low back pain (LBP) is a significant health problem with 
+a 1 year prevalence rate of between 41–64% 1, 2) , and ap-
+proximately 60–80% of individuals report experiencing LBP 
+once in their lifetime1, 3). A significant portion of individuals 
+will develop chronic LBP 4, 5) . As a result, LBP creates a 
+socioeconomic burden on society. Its total socioeconomic 
+burden in the US in 2006 exceeded $100 billion
+6), and in the 
+Netherlands, it exceeded 3.5 billion euro in 20077).
+Evidence suggests that signs of perceived body dis-
+comfort, such as tension, fatigue, soreness, or tremors, are 
+predictors of LBP 8). Many individuals experience these 
+musculoskeletal discomforts particularly at the buttock 
+and low back regions during prolonged sitting 9). Increased 
+discomfort from prolonged sitting has been attributed to 
+increased muscle fatigue 10), decreased intervertebral disc 
+nutrition11), and reduced blood flow in muscles 12). Occupa-
+tional groups exposed to poor postures while sitting have a 
+considerably increased risk of experiencing LBP (OR=9.0, 
+95% CI 4.9–16.4) 13). To date, no studies have investigated 
+the effect of different sitting postures on perceived body 
+discomfort.
+Pain is generally viewed as a long-term effect of an im-
+balance between work-related physical factors and physical 
+capacity, whereas perceived discomfort indicates a short-
+term effect
+8). Hodges and Moseley (2003) proposed that LBP 
+can affect motor control by changing the excitability in the 
+motor pathway, influencing the sensory system, and reduc-
+ing muscle activity. The altered motor control patterns have 
+been shown to recruit trunk muscles that compromise the 
+stability of the lumbar spine
+14). Thus, perceived discomfort 
+of muscles may reflect early signs of altered muscle activity, 
+but it has received limited attention.
+The aim of this study was to quantify perceived body 
+discomfort and trunk muscle activities (i.e., rectus abdomi -
+nis [RA], internal oblique/transversus abdominis [IO/TrA], 
+iliocostalis lumborum pars thoracis [ICL], and superficial 
+lumbar multifidus muscle [MF]) experienced during three 
+sitting postures held for an hour (i.e., upright, slumped, and 
+forward leaning sitting postures).
+SUBJECTS AND METHODS
+A pilot study was conducted, and the electromyography 
+(EMG) values of the MF and IO/TrA, which are the core sta-
+bilizers of the lumbar spine, were used to calculate sample 
+size. As a result, 10 healthy office workers were recruited 
+for the study, which employed a repeated-measures design. 
+Based on the sample size (n = 10), a power analysis revealed 
+J. Phys. Ther. Sci. 
+27: 2183–2187, 2015
+*Corresponding author. Prawit Janwantanakul (E-mail: 
+prawit.j@chula.ac.th)
+©2015 The Society of Physical Therapy Science. Published by IPEC Inc.
+This is an open-access article distributed under the terms of the Cre -
+ative Commons Attribution Non-Commercial No Derivatives (by-nc-
+nd) License <http://creativecommons.org/licenses/by-nc-nd/3.0/>.
+Original Article
+
+===== PAGE 2 =====
+
+J. Phys. Ther. Sci. Vol. 27, No. 7, 20152184
+that the study had sufficient power (80%) to detect a “moder-
+ate to large” effect (f = 0.454–1.973). The inclusion criteria 
+for the study were at least one year of experience in their 
+current work positions and sitting at least two hours per 
+working day. The exclusion criteria were neck and back pain 
+in the preceding 12 months, current or past history of known 
+spinal disorders, signs of neurological deficit (i.e., muscle 
+weakness or loss/disturbance of sensation), osteoarthritis, 
+rheumatoid arthritis, gout, kidney diseases, open wound or 
+contusion at the buttocks or posterior thigh region, hemor -
+rhoids, and pregnancy. Those with a body mass index <18.5 
+or >23 kg/m
+2 or skin fold thickness in the abdominal and 
+suprailiac area >20 mm (to reduce EMG artifacts due to 
+interposed adipose tissue between the surface electrode and 
+the target muscles) were also excluded
+15). All subjects were 
+provided information about the study and signed a consent 
+form. The study was approved by the Chulalongkorn Uni-
+versity Human Ethics Committee.
+The Borg CR-10 scale, a measuring tool for postural 
+discomfort, was used to determine each subject’s level of 
+discomfort during prolonged sitting. The Borg CR-10 scale 
+and a body chart from a standardized Nordic questionnaire 
+were presented in such a way that the subjects could indicate 
+which parts of their body experienced discomfort (i.e., the 
+neck, shoulder, upper back, low back, hip/thigh, and knee) 
+and how much discomfort was felt (on a scale of 0–10; 0 
+being no discomfort and 10 being extreme discomfort)
+16).
+The EMG signals of trunk muscles, including the RA, 
+IO/TrA, ICL, and MF, were recorded using two Ag/AgCl 
+disposable surface electrodes with a distance between them 
+of 20 mm (3 M Health Care, London, ON, Canada) and an 
+electrical contact surface area of 1 cm
+2. Prior to electrode 
+placement, the skin was prepared to reduce skin impedance 
+below 5 kΩ by cleaning with an alcohol swab. Electrodes 
+were placed parallel to the following muscles on both sides 
+as recommended by the European Recommendations for 
+Surface Electromyography (SENIAM): RA, 1 cm above the 
+umbilicus and 2 cm lateral to midline; IO/TrA, 1 cm medial 
+to the anterior superior iliac spine; ICL, midway between 
+the midline and lateral aspect of the participant’s body at the 
+level of L1 spinous process; and MF, 2 cm from the spinous 
+process at the L5 level
+17–19). The reference electrode was 
+placed over the right iliac crest. All electrodes were anchored 
+securely by double-sided tape to avoid excessive movement 
+of the leads, which remained in place throughout the session.
+The EMG signal was recorded by a TeleMyo 2400T G2 
+(Noraxon U.S.A., Inc., Scottsdale, AZ, USA). The EMG 
+signal was sampled at 1,500 Hz, band-pass filtered between 
+20–450 Hz, amplified (analogue differential amplifier, com-
+mon mode rejection ratio 100 dB, total gain 500), and stored 
+in a personal computer for later analysis.
+The EMG signals were collected, stored, displayed, pro-
+cessed, and analyzed by MyoResearch XP software version 
+1.08. The raw EMG signal was first visually checked for 
+electrocardiac artifacts. It was processed for ECG reduction, 
+band-pass filtered at 20 to 450 Hz using a fourth-order zero-
+lag Butterworth filter, full-wave rectified, and then smoothed 
+within 50 ms to determine the RMS.
+Two minutes of every 10 minutes of normalized EMG 
+data from the 60-minute sitting period (i.e., the first 2 min-
+utes, 9th–11th minutes, 19th–21st minutes, 29th–31st min-
+utes, 39th–41st minutes, 49th-51st minutes, and 59th–61st 
+minutes) were retrieved for analysis.
+EMG data were normalized to the maximal voluntary iso-
+metric contraction (MVIC) values obtained for each muscle, 
+resulting in EMG data expressed as a percent of maximum 
+voluntary isometric contraction (%MVIC). For the right and 
+left RA, the subjects were positioned supine on a couch with 
+the legs straight and strapped to the couch with a belt. The 
+investigator (standing at the head end of the couch) applied 
+resistance to the shoulders of the subjects while they per -
+formed a resisted curl up with maximal manual isometric 
+resistance applied in a symmetrical manner
+20). For the 
+right IO/TrA, a resisted crossed curl up was performed by 
+the subjects with the left shoulder moving toward the right 
+and maximal manual isometric resistance applied to the left 
+shoulder by the investigator (standing on the right side). For 
+the left IO/TrA, the same procedure was repeated on the op-
+posite side. For the ICL and MF, the subject were positioned 
+prone, with the legs straight and strapped to the couch with 
+a belt. They were instructed to lift their head, shoulders, and 
+elbows just off the examination table with their hands on 
+their neck. Symmetrical maximal manual resistance was 
+provided to the scapular region by the investigator (standing 
+at the head of the subject)
+19).
+Three MVIC trials of 5 seconds duration each21) with a 3 
+minute rest period between trials to avoid the cumulative ef-
+fect of fatigue were performed22). The MVIC of each muscle 
+was averaged over the three trials.
+An experiment was conducted in which outcomes were 
+repeatedly measured in subjects who sat in different sitting 
+positions for a period of 1 hour. Three common sitting pos-
+tures were investigated in the present study, including up-
+right, slumped, and forward leaning sitting postures 23). The 
+measurement outcomes were perceived body discomfort and 
+trunk muscle activity.
+At the beginning, the subjects were instructed to complete 
+the Borg CR-10 scale. Following the application of surface 
+electrodes, they sat unsupported on a stool with their hips 
+and knees at 90 degrees flexion, their feet positioned shoul-
+der width apart, and their arms relaxed at the sides of their 
+body. The stool was built to accommodate a person with a 
+height of 180 cm so that he/she would sit with their hips and 
+knees at 90 degrees flexion. Those of height below 180 cm 
+sat on the stool with foam pads placed underneath their feet 
+so that their hips and knees were at 90 degrees flexion. The 
+subjects were asked to sit for an hour watching a movie, 
+during which time the EMG signals of the RA, IO/TrA, 
+ICL, and MF were collected. During the 1 hour of sitting, 
+the subjects were instructed to avoid talking and to maintain 
+the assigned sitting posture as much as possible with subtle 
+movements allowed if they felt too much discomfort. After 
+completion of the 1-hour sitting period, the subjects were 
+asked to complete the Borg CR-10 scale again.
+Each subject sat in the three sitting postures (i.e., upright, 
+slumped, and forward leaning sitting postures) on 3 separate 
+days with a 1-day interval between measurements. The 
+sequence of sitting postures was randomized. The upright 
+sitting posture consisted of sitting with anterior rotation of 
+the pelvis, the thoracolumbar spine extended, and the shoul-
+
+===== PAGE 3 =====
+
+2185
+der blades slightly retracted 24). The slumped sitting posture 
+consisted of sitting with posterior rotation of the pelvis and 
+the thoracolumbar spine relaxed while the subjects looked 
+straight ahead 24). The forward leaning sitting posture con-
+sisted of sitting with anterior rotation of the pelvis and the 
+thoracolumbar spine extended while bending forward more 
+than 10 degrees 25). In the forward leaning sitting posture, 
+the subjects were asked to cross their arms to prevent use of 
+them to support body weight.
+To control the alignment of sitting postures during the 
+experiment, an adjustable vertical alignment stick was 
+developed and attached to the right side of a regular stool 
+(size 30 × 45 × 45 cm). In the upright sitting posture (Fig. 
+1B), the adjustable vertical stick was set at 90 degrees. In the 
+forward leaning sitting posture, the adjustable vertical stick 
+was set at 10 degrees forward from the vertical line (Fig. 
+1C). In the slumped sitting posture (Fig. 1A), the adjustable 
+vertical stick was not used. Two infrared sensors (Distance 
+Measuring Sensor Unit, GP2Y0A21YK0F, Sharp Corpora-
+tion, Osaka, Japan) were inserted into the adjustable vertical 
+alignment stick at the T1 and T10-level
+26). An auditory feed-
+back signal from the sensors sounded if the subjects deviated 
+from the selected sitting posture, reminding them to return to 
+the proper sitting posture.
+Kolmogorov-Smirnov’s test was performed to check the 
+distribution of the data. The paired-sample t-test was used to 
+compare the Borg scores before and after an hour of sitting 
+in each sitting posture. Also, the Borg scores after an hour of 
+sitting were compared among the three sitting postures using 
+one-way analysis of covariance (ANCOV A), with the Borg 
+scores at the beginning as the covariate. The Bonferroni 
+procedure was performed to determine whether two selected 
+means were significantly different from each other.
+Two-way analysis of variance (ANOV A) for repeated 
+measures was employed to determine the effects of sitting 
+posture, time, and sitting posture x time interaction on the 
+EMG activity of trunk muscles. When a significant interac -
+tion between sitting posture and time was detected, the ef-
+fects of sitting posture and time were examined separately 
+using one-way ANOV A. The Tukey post hoc comparison 
+was used to determine whether two selected means of the 
+EMG activity of trunk muscles were significantly different 
+from each other for the EMG activity of trunk muscles. All 
+statistical analyses were performed using the SPSS statistics 
+software, version V17.0 (SPSS Inc, Chicago, IL, USA).
+RESULTS
+The demographic characteristics of the participants are 
+presented in Table 1. The Borg scores at the neck, upper back, 
+low back and both hip/thighs after 1 hour of sitting were 
+significantly greater than those at the beginning (Table 2). 
+There was no significant difference in the Borg scores after 
+1 hour of sitting among the three sitting postures in all body 
+regions (p > 0.05), except for the low back (F
+2,26 = 23.208, 
+p < 0.001). The Borg score in the forward leaning sitting 
+Fig. 1. (A) Slump sitting, (B) Upright sitting, (C) Forward 
+leaning sitting
+Table 1.  Characteristics of study population (n = 10)
+Characteristics Mean (SD)
+Age (years) 26.3 (1.6)
+Gender (female) 7
+Height (cm) 164.2 (7.3)
+Weight (kg) 56.1 (7.5)
+Body mass index (kg/m 2) 20.7 (1.4)
+Skin fold thickness (mm) 
+Abdominal area 
+Suprailiac area
+15.7 (3.0) 
+7.4 (3.3)
+Table 2.  The Borg scores at the beginning and after 1 hour of sitting in nine body regions
+Body region Mean Borg scores
+Upright sitting Slumped sitting Forward leaning sitting
+Before After Before After Before After
+Neck 0.050 1.250* 0.400 2.500* 0.150 0.900*
+Rt. shoulder 0.200 0.900 0.300 0.750 0.000 0.550
+Lt. shoulder 0.000 0.500 0.000 0.500 0.000 0.500
+Upper back 0.500 0.950* 0.200 0.950* 0.000 2.500*
+Low back 0.200 2.300* 0.300 0.750 0.300 4.400*
+Rt. hip/thigh 0.000 0.800* 0.000 0.150 0.000 0.900*
+Lt. hip/thigh 0.000 0.700* 0.000 0.150 0.000 0.800*
+Rt. knee 0.000 0.300 0.000 0.000 0.000 0.000
+Lt. knee 0.000 0.300 0.000 0.000 0.000 0.000
+*p value < 0.05
+
+===== PAGE 4 =====
+
+J. Phys. Ther. Sci. Vol. 27, No. 7, 20152186
+posture was significantly greater than those in the upright 
+(p = 0.002) and slumped sitting postures (p < 0.001). There 
+was a significant difference in Borg scores between upright 
+sitting posture and slumped sitting posture (p = 0.021).
+Paired t-tests revealed no significant difference between 
+sides for the EMG data, and therefore, the left and right side 
+data were averaged. Two-way mixed ANOV A indicated no 
+significant effect of sitting posture (F
+2,27=0.482, p=0.623), 
+time (F 6,162=0.159, p=0.987), and sitting posture × time 
+interaction (F 12,162=0.886, p=0.563) on RA EMG activ -
+ity. There was a significant effect of sitting posture on IO/
+TrA (F
+2,27=4.013, p=0.030), ICL (F 2,27=23.879, p<0.001), 
+and MF (F 2,27=31.647, p<0.001) EMG activity. No sig-
+nificant effects of time and sitting posture × time interac -
+tion were found on IO/TrA (F 12,162=1.210, p=0.280), ICL 
+(F12,162=0.510, p=0.906), and MF (F 12,162=0.542, p=0.884) 
+EMG activities.
+The Tukey post hoc comparison revealed that IO/TrA 
+EMG activity in the upright sitting posture was signifi-
+cantly greater than that in the slumped sitting posture (p = 
+0.048). The EMG activities of the ICL for the three sitting 
+postures were significantly different from each other (p = 
+0.001–0.008). The EMG activity of the MF in the forward 
+leaning sitting posture was significantly greater than those in 
+the upright and slumped sitting postures (p ≤ 0.001).
+DISCUSSION
+The results of this study revealed that 1 hour of sitting 
+in upright, slumped, or forward leaning sitting postures led 
+to increased discomfort at the neck, upper back, low back, 
+and hip/thighs. Different sitting postures influenced discom-
+fort after 1 hour of sitting only in the low back. The sitting 
+posture with the highest low back discomfort after 1 hour 
+of sitting was the forward leaning posture, followed by the 
+upright and slumped sitting postures, respectively. The for -
+ward leaning sitting posture was associated with increased 
+ICL and MF muscle activity compared with the upright and 
+slumped sitting postures. The upright sitting posture was 
+associated with increased IO/TrA and ICL muscle activity 
+compared with the slumped sitting posture. We found no 
+effect of 1 hour of sitting, regardless of sitting posture, on 
+trunk muscle activity.
+The results of the present study are in line with the findings 
+of previous studies showing that perceived body discomfort 
+increased significantly during prolonged sitting
+9). Vergara 
+and Page27) reported that discomfort occurred mainly in the 
+neck and low back. Perceived musculoskeletal discomfort is 
+a predictor of LBP among healthy subjects8). Thus, our find-
+ings lend further support to the notion that prolonged sitting 
+may lead to the development of LBP.
+Prolonged sitting in the forward leaning posture signifi-
+cantly increased discomfort in the low back compared with 
+sitting in the upright and slumped postures. In the forward 
+leaning sitting posture, the pelvis tilts forward, and the cen-
+ter of gravity is in front of the ischial tuberosities. Forward 
+rotation of the pelvis or forward bending of the trunk during 
+sitting significantly increases back muscle activity
+28, 29) . 
+In the current study, ICL and MF muscle activities were 
+significantly greater in the forward leaning sitting posture 
+than the upright and slumped sitting postures. Prolonged 
+activation of muscle may lead to localized muscle tension, 
+muscle strains, muscle fatigue, and other soft-tissue damage. 
+Paraspinal muscle fatigue reduces the muscular support to 
+the spine, causing impairment of motor co-ordination and 
+control as well as increased mechanical stress on ligaments 
+and intervertebral discs
+12, 30). In addition, the load on the ver-
+tebral body increases approximately 48% at 15-degree trunk 
+flexion31). Vergara and Page27) reported that forward rotation 
+of the pelvis and increased lumbar lordosis were associated 
+with LBP. Thus, it is hypothesized that sitting in the forward 
+leaning posture for a long period of time may lead to the 
+development of LBP.
+Our finding that the upright sitting posture is associated 
+with increased IO/TrA and ICL muscle activity compared 
+with the slumped sitting posture concurs with a study by 
+O’Sullivan et al
+24). Internal oblique muscle activation is 
+generally accepted to represent the activation of the TrA in 
+all tasks32). Evidence suggests that the main dynamic stabi-
+lizer of the lower back and pelvis is the TrA 33). Contraction 
+of the TrA was found to be significantly delayed in patients 
+with low back pain
+34). Core stability exercises have a strong 
+theoretical basis in the treatment and prevention of LBP, 
+as evidenced by their widespread clinical use
+35). Thus, the 
+upright sitting posture with increased activation of the TrA 
+would be an appropriate posture for a long period of time 
+spent sitting.
+A reduction in the EMG activity of trunk muscles in 
+slumped sitting has been reported consistently in the lit -
+erature
+36, 37). When postural muscle activity decreases, the 
+lumbopelvic region becomes dependent on its passive struc-
+tures to maintain the position against gravity at end-range 
+spine flexion38). This phenomenon plausibly makes the spine 
+susceptible to injury.
+Although there is still a lack of international consensus 
+over the ideal sitting posture, the findings of the current 
+study suggest that a person should avoid sitting in a forward 
+leaning posture for a prolonged time because it induces 
+high perceived discomfort and back muscle activity, which 
+may lead to the development of LBP. The slumped sitting 
+posture is the most comfortable sitting posture for the low 
+back after 1 hour of sitting. However, the slumped sitting 
+posture reduces muscle activation of the trunk, which may 
+adversely cause overloading of ligaments and intervertebral 
+discs, leading to the development of LBP. The upright sitting 
+posture seems to be a healthy sitting posture for the low back 
+because it leads to activation of the local spinal stabilizing 
+muscles, i.e., the TrA, and causes only moderate discomfort 
+after prolonged sitting.
+There are a number of methodological limitations that 
+are noteworthy. First, the sample size was relatively small 
+(n=10), increasing the likelihood of a type II error, although 
+calculation of the statistical power based on 10 subjects 
+indicated that the study had an 80% probability of detecting 
+moderate to large effects. Second, the sitting postures tested 
+in this study were controlled. Variations in how a person 
+sits may exist and affect perceived body discomfort and 
+trunk muscle activity. For example, in this study, subjects 
+were asked to cross their arms to prevent use of them to 
+support body weight while sitting in the forward leaning
+
+===== PAGE 5 =====
+
+2187
+sitting posture. Further research on the effect of arm support 
+on perceived body discomfort and trunk muscle activity is 
+recommended. Lastly, the present study only investigated 
+perceived body discomfort and trunk muscle activity in 
+young healthy subjects. The change in perceived body 
+discomfort and trunk muscle activity during various sitting 
+postures for a prolonged time in individuals with LBP may 
+not correspond to that of an asymptomatic population. Thus, 
+extrapolation of these results to people with LBP should be 
+made with caution. Further research is required to examine 
+the effect of prolonged sitting posture on perceived body 
+discomfort and trunk muscle activity in patients with LBP.
+In conclusion, the current study examined perceived body 
+discomfort and trunk muscle activity in different prolonged 
+(1 hour) sitting postures, i.e., upright, slumped, and forward 
+leaning sitting postures. The results showed that the highest 
+low back discomfort after 1 hour of sitting occurred with 
+the forward leaning posture, followed by the upright and 
+slumped sitting postures. The forward leaning sitting posture 
+was associated with increased ICL and MF muscle activity, 
+and the upright sitting posture was associated with increased 
+IO/TrA and ICL muscle activity. The findings from this study 
+suggest that the upright sitting posture may be an appropri-
+ate sitting posture to prevent the development of LBP in 
+individuals who usually spend a long period of time sitting.
+REFERENCES
+1) Manchikanti L: Epidemiology of low back pain. Pain Physician, 2000, 3: 
+167–192. [Medline]
+2) Barrero LH, Hsu YH, Terwedow H, et al.: Prevalence and physical deter -
+minants of low back pain in a rural Chinese population. Spine, 2006, 31: 
+2728–2734. [Medline]   [CrossRef]
+3) Ihlebaek C, Hansson TH, Laerum E, et al.: Prevalence of low back pain 
+and sickness absence: a “borderline” study in Norway and Sweden. Scand 
+J Public Health, 2006, 34: 555–558. [Medline]   [CrossRef]
+4) Henschke N, Maher CG, Refshauge KM, et al.: Prognosis in patients with 
+recent onset low back pain in Australian primary care: inception cohort 
+study. BMJ, 2008, 337: a171. [Medline]  [CrossRef]
+5) Costa LC, Maher CG, McAuley JH, et al.: Prognosis for patients with 
+chronic low back pain: inception cohort study. BMJ, 2009, 339: b3829. 
+[Medline]  [CrossRef]
+6) Katz JN: Lumbar disc disorders and low-back pain: socioeconomic fac -
+tors and consequences. J Bone Joint Surg Am, 2006, 88: 21–24. [Medline]   
+[CrossRef]
+7) Lambeek LC, van Tulder MW, Swinkels IC, et al.: The trend in total cost of 
+back pain in The Netherlands in the period 2002 to 2007. Spine, 2011, 36: 
+1050–1058. [Medline]  [CrossRef]
+8) Hamberg-van Reenen HH, van der Beek AJ, Blatter BM, et al.: Does mus -
+culoskeletal discomfort at work predict future musculoskeletal pain? Ergo -
+nomics, 2008, 51: 637–648. [Medline]   [CrossRef]
+9) Søndergaard KH, Olesen CG, Søndergaard EK, et al.: The variability and 
+complexity of sitting postural control are associated with discomfort. J 
+Biomech, 2010, 43: 1997–2001. [Medline]  [CrossRef]
+10) Hosea TM, Simon SR, Delatizky J, et al.: Myoelectric analysis of the 
+paraspinal musculature in relation to automobile driving. Spine, 1986, 11: 
+928–936. [Medline]   [CrossRef]
+11) Maroudas A, Stockwell RA, Nachemson A, et al.: Factors involved in the 
+nutrition of the human lumbar intervertebral disc: cellularity and diffusion 
+of glucose in vitro. J Anat, 1975, 120: 113–130. [Medline]
+12) McGill SM, Hughson RL, Parks K: Lumbar erector spinae oxygenation 
+during prolonged contractions: implications for prolonged work. Ergo -
+nomics, 2000, 43: 486–493. [Medline]   [CrossRef]
+13) Lis AM, Black KM, Korn H, et al.: Association between sitting and oc -
+cupational LBP. Eur Spine J, 2007, 16: 283–298. [Medline]   [CrossRef]
+14) Hodges PW, Moseley GL: Pain and motor control of the lumbopelvic re -
+gion: effect and possible mechanisms. J Electromyogr Kinesiol, 2003, 13: 
+361–370. [Medline]  [CrossRef]
+15) Anuurad E, Shiwaku K, Nogi A, et al.: The new BMI criteria for Asians by 
+the regional office for the western pacific region of WHO are suitable for 
+screening of overweight to prevent metabolic syndrome in elder Japanese 
+workers. J Occup Health, 2003, 45: 335–343. [Medline]   [CrossRef]
+16) Borg G: Psychophysical scaling with applications in physical work and the 
+perception of exertion. Scand J Work Environ Health, 1990, 16: 55–58. 
+[Medline]  [CrossRef]
+17) De Foa JL, Forrest W, Biedermann HJ: Muscle fibre direction of longissi -
+mus, iliocostalis and multifidus: landmark-derived reference lines. J Anat, 
+1989, 163: 243–247. [Medline]
+18) Hermens HJ, Freriks B, Merletti R, et al.: European recommendations for 
+surface electromyography. Roessingh Research and Development, En -
+schede 1999.
+19) Danneels LA, Cagnie BJ, Cools AM, et al.: Intra-operator and inter-oper -
+ator reliability of surface electromyography in the clinical evaluation of 
+back muscles. Man Ther, 2001, 6: 145–153. [Medline]   [CrossRef]
+20) Dankaerts W, O’Sullivan P, Burnett A, et al.: Differences in sitting pos -
+tures are associated with nonspecific chronic low back pain disorders when 
+patients are subclassified. Spine, 2006, 31: 698–704. [Medline]  [CrossRef]
+21) Jang EM, Kim MH, Oh JS: Effects of a bridging exercise with hip adduc -
+tion on the EMG activities of the abdominal and hip extensor muscles in 
+females. J Phys Ther Sci, 2013, 25: 1147–1149. [Medline]  [CrossRef]
+22) McLean L, Chislett M, Keith M, et al.: The effect of head position, elec -
+trode site, movement and smoothing window in the determination of a 
+reliable maximum voluntary activation of the upper trapezius muscle. J 
+Electromyogr Kinesiol, 2003, 13: 169–180. [Medline]   [CrossRef]
+23) Harrison DD, Harrison SO, Croft AC, et al.: Sitting biomechanics part I: 
+review of the literature. J Manipulative Physiol Ther, 1999, 22: 594–609. 
+[Medline]  [CrossRef]
+24) O’Sullivan PB, Dankaerts W, Burnett AF, et al.: Effect of different upright 
+sitting postures on spinal-pelvic curvature and trunk muscle activation in 
+a pain-free population. Spine, 2006, 31: E707–E712. [Medline]   [CrossRef]
+25) Nachemson A: The effect of forward leaning on lumbar intradiscal pres -
+sure. Acta Orthop Scand, 1965, 35: 314–328. [Medline]   [CrossRef]
+26) Claus AP, Hides JA, Moseley GL, et al.: Is ‘ideal’ sitting posture real? 
+Measurement of spinal curves in four sitting postures. Man Ther, 2009, 14: 
+404–408. [Medline]   [CrossRef]
+27) Vergara M, Page A: Relationship between comfort and back posture and 
+mobility in sitting-posture. Appl Ergon, 2002, 33: 1–8. [Medline]   [Cross-
+Ref]
+28) Mastalerz A, Palczewska I: The influence of trunk inclination on muscle 
+activity during sitting on forward inclined seats. Acta of bioengineering 
+and biomechanics / Wroclaw University of Technology, 2010, 12: 19–24.
+29) Mork PJ, Westgaard RH: Back posture and low back muscle activity in fe -
+male computer workers: a field study. Clin Biomech (Bristol, Avon), 2009, 
+24: 169–175. [Medline]  [CrossRef]
+30) Wilke H, Neef P, Hinz B, et al.: Intradiscal pressure together with an -
+thropometric data—a data set for the validation of models. Clin Biomech 
+(Bristol, Avon), 2001, 16: S111–S126. [Medline]  [CrossRef]
+31) Rohlmann A, Zander T, Graichen F, et al.: Measured loads on a vertebral 
+body replacement during sitting. Spine J, 2011, 11: 870–875. [Medline]   
+[CrossRef]
+32) McGill S, Juker D, Kropf P: Appropriately placed surface EMG electrodes 
+reflect deep muscle activity (psoas, quadratus lumborum, abdominal wall) 
+in the lumbar spine. J Biomech, 1996, 29: 1503–1507. [Medline]  [Cross-
+Ref]
+33) Lee JS, Kim TH, Kim DY, et al.: Effects of selective exercise for the deep 
+abdominal muscles and lumbar stabilization exercise on the thickness of 
+the transversus abdominis and postural maintenance. J Phys Ther Sci, 
+2015, 27: 367–370. [Medline]  [CrossRef]
+34) Hodges PW: Is there a role for transversus abdominis in lumbo-pelvic sta -
+bility? Man Ther, 1999, 4: 74–86. [Medline]   [CrossRef]
+35) Cho HY, Kim EH, Kim J: Effects of the CORE exercise program on pain 
+and active range of motion in patients with chronic low back pain. J Phys 
+Ther Sci, 2014, 26: 1237–1240. [Medline]   [CrossRef]
+36) Callaghan JP, Dunk NM: Examination of the flexion relaxation phenom -
+enon in erector spinae muscles during short duration slumped sitting. Clin 
+Biomech (Bristol, Avon), 2002, 17: 353–360. [Medline]   [CrossRef]
+37) Miura T, Sakuraba K: Influence of different spinal alignments in sitting on 
+trunk muscle activity. J Phys Ther Sci, 2013, 25: 483–487.  [CrossRef]
+38) O’Sullivan PB, Grahamslaw KM, Kendell M, et al.: The effect of different 
+standing and sitting postures on trunk muscle activity in a pain-free popu -
+lation. Spine, 2002, 27: 1238–1244. [Medline]   [CrossRef]

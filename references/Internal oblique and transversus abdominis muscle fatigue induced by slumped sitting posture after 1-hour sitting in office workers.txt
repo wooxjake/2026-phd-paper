@@ -1,0 +1,506 @@
+===== PAGE 1 =====
+
+Original Article
+Internal Oblique and Transversus Abdominis Muscle Fatigue Induced
+by Slumped Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers
+Pooriput Waongenngarm 1, Bala S. Rajaratnam 2, Prawit Janwantanakul 1, *
+1 Department of Physical Therapy, Faculty of Allied Health Sciences, Chulalongkorn University, Bangkok, Thailand
+2 School of Health Sciences (Allied Health), Nanyang Polytechnic, Singapore
+article info
+Article history:
+Received 9 April 2015
+Received in revised form
+10 August 2015
+Accepted 1 1 August 2015
+Available online xxx
+Keywords:
+electromyography
+musculoskeletal disorder
+pain
+abstract
+Background: Prolonged sitting leads to low back discomfort and lumbopelvic muscle fatigue. This study
+examined the characteristics of body perceived discomfort and trunk muscle fatigue during 1 hour of
+sitting in three postures in of ﬁce workers.
+Methods: Thirty workers sat for 1 hour in one of three sitting postures (i.e., upright, slumped, and for-
+ward leaning postures). Body discomfort was assessed using the Body Perceived Discomfort scale at the
+beginning and after 1 hour of sitting. Electromyographic (EMG) signals were recorded from super ﬁcial
+lumbar multi ﬁdus, iliocostalis lumborum pars thoracis, internal oblique (IO)/transversus abdominis
+(TrA), and rectus abdominis muscles during 1 hour of sitting. The median frequency (MDF) of the EMG
+power spectrum was calculated.
+Results: Regardless of the sitting posture, the Body Perceived Discomfort scores in the neck, shoulder,
+upper back, low back, and buttock signi ﬁcantly increased after 1 hour of sitting compared with baseline
+values (t
+(9) ¼/C0 1 1.97 to/C0 2.69, p < 0.05). The MDF value of the EMG signal of rectus abdominis, iliocostalis
+lumborum pars thoracis, and multi ﬁdus muscles was unchanged over time in all three sitting postures.
+Only the right and left IO/TrA in the slumped sitting posture was signi ﬁcantly associated with decreased
+MDF over time ( p ¼ 0.019 to 0.041).
+Conclusion: Prolonged sitting led to increased body discomfort in the neck, shoulder, upper back, low
+back, and buttock. No sign of trunk muscle fatigue was detected over 1 hour of sitting in the upright and
+forward leaning postures. Prolonged slumped sitting may relate to IO/TrA muscle fatigue, which may
+compromise the stability of the spine, making it susceptible to injury.
+/C2112015, Occupational Safety and Health Research Institute. Published by Elsevier. All rights reserved.
+1. Introduction
+Low back pain (LBP) is a major problem for of ﬁce workers,
+affecting 34% to 51% of them annually [1,2]. Between 14% and 23% of
+ofﬁce workers reported a new onset of LBP during the 1-year follow
+up [3,4]. The annual prevalence of chronic LBP has been reported to
+range from 15% to 45%, with a point prevalence of 30% [5]. LBP is
+often the cause of signi ﬁcant physical and psychological health
+impairments. It also affects work performance and social re-
+sponsibilities. As a result, LBP can be a great burden on patients and
+the society at large [6]. Its total socioeconomic burden in the United
+States in 2006 exceeded US$100 billion [7], whereas in the
+Netherlands the total cost of LBP in 2007 was estimated at V3.5
+billion [8].
+Ofﬁce work is sedentary work, which mainly involves computer
+use, participation in meetings, giving presentations, reading, and
+phoning. Thus, of ﬁce workers are usually required to sit for long
+hours in front of a computer. Many individuals experience
+musculoskeletal discomforts particularly at the buttock and low
+back regions during prolonged sitting [9]. Evidence suggests that
+signs of body perceived discomfort, such as tension, soreness, or
+tremors, are predictors of LBP [10]. Increased discomfort from
+prolonged sitting has been partly attributed to muscle fatigue from
+sustained contraction of back muscles in seated postures [1 1]. Poor
+back muscle endurance was an independent predictor of LBP in a
+working population [12,13]. Occupational groups exposed to poor
+postures (lordosed or kyphosed, or slumped) while sitting have a
+considerably increased risk of experiencing LBP [14].
+* Corresponding author. Department of Physical Therapy, Faculty of Allied Health Sciences, Chulalongkorn University, Bangkok 10330, Thailand.
+E-mail address: prawit.j@chula.ac.th (P. Janwantanakul).
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License ( http://creativecommons.org/licenses/by-nc/3.0)
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Contents lists available at ScienceDirect
+Safety and Health at Work
+journal homepage: www.e-shaw.org
+2093-791 1/$e see front matter /C2112015, Occupational Safety and Health Research Institute. Published by Elsevier. All rights reserved.
+http://dx.doi.org/10.1016/j.shaw.2015.08.001
+Safety and Health at Work xxx (2015) 1 e6
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001
+
+===== PAGE 2 =====
+
+Three sitting postures commonly used by of ﬁce workers are
+upright, slumped, and forward leaning sitting postures. The local
+and global muscles of the lumbopelvic region can be preferentially
+facilitated in different sitting postures [15]. To date, no studies have
+investigated characteristics of trunk muscle fatigue, including
+rectus abdominis (RA), internal oblique/transversus abdominis (IO/
+TrA), iliocostalis par thoracis (ICL), and super ﬁcial lumbar multi-
+ﬁdus muscle (MF), and the relationship between muscle fatigue
+and body perceived discomfort during 1 hour of sitting in these
+sitting postures. TrA and MF muscles represent a local system for
+counterbalancing compressive forces on the upper lumbar segment
+of the spine and to increase lumbar stability [16], and contraction of
+transversus abdominis was found to be signi ﬁcantly delayed in
+patients with LBP [17]. Paraspinal muscle fatigue also reduces the
+muscular support to the spine, causing impairment of motor co-
+ordination and control as well as increased mechanical stress to
+ligament and intervertebral disks [18,19]. Thus, the purpose of this
+study was to examine the characteristics of body perceived
+discomfort and trunk muscle fatigue during three common sitting
+postures for an hour in of ﬁce workers. Such information would
+provide a clue on how prolonged sitting is associated with LBP,
+which can be useful to develop an effective intervention to prevent
+and reduce the occurrence of LBP in of ﬁce workers.
+2. Materials and methods
+2.1. Participants
+Thirty healthy of ﬁce workers were recruited for the study. In-
+dividuals were included if their job involved ofﬁce work, if they had
+at least 1 year experience in their current position, and if their work
+required them to sit for at least 2 hours on a working day. Exclusion
+criteria were neck and back pain in the preceding 12 months, cur-
+rent or past history of known spinal disorders, sign of neurological
+deﬁcit (i.e., muscle weakness or loss/disturbance of sensation),
+osteoarthritis, rheumatoid arthritis, gout, kidney diseases, open
+wound or contusion at the buttocks and posterior thigh region,
+hemorrhoids, and pregnancy. Those with body mass index
+<18.5 kg/m
+2 or >23 kg/m2 or skin fold thickness in the abdominal
+and suprailiac area >20 mm [to reduce electromyography (EMG)
+artifact due to interposed adipose tissue between the surface
+electrode and the target muscles] were also excluded [20]. All
+participants were given information about the study and were
+asked to sign a consent form prior to their participation. Their
+anthropometric values are listed in Table 1 . This study was
+approved by the Projects Committee of the School of Health Sci-
+ences (Allied Health) at Nanyang Polytechnic, Singapore (SHS/2013/
+PG/AH-Bala).
+2.2. Equipment
+The Body Perceived Discomfort (BPD) scale, a measuring tool of
+postural discomfort, determined the participant ’s level of discom-
+fort during prolonged sitting. The participant indicated the level of
+discomfort at the neck, shoulder, upper back, low back, hip/thigh,
+and knee based on a scale of 0 e10 (where 0 denotes no discomfort
+and 10 denotes extreme discomfort) [21].
+Surface EMG, which is a noninvasive muscle activity measure-
+ment method, was used to objectively assess muscle fatigue [22].
+The EMG signal of trunk muscles, including, RA, IO/TrA, ICL, and MF,
+was recorded using the preampli ﬁed, bipolar integral dry reusable
+surface electrodes with an interelectrode distance of 20 mm (Type
+NOS SX230 EMG sensor; Biometrics Ltd., Newport, UK) and an
+electrical contact surface area of 1 cm 2. Prior to electrode place-
+ment, the skin was prepared to reduce skin impedance below 5 k U
+by cleaning the area with an alcohol swab. Electrodes were placed
+parallel to the stated muscles on both sides of the body as recom-
+mended by the European Recommendations for Surface Electro-
+myography (SENIAM): RA (1 cm above the umbilicus and 2 cm
+lateral to midline); IO/TrA (1 cm medial to the anterior superior iliac
+spine); ICL (level of L1 spinous process, midway between the
+midline and lateral aspect of the participant ’s body); and MF (L5
+level, 2 cm from the spinous process) [23e25]. The reference earth
+electrode was placed over the right iliac crest. All electrodes were
+anchored securely by double-sided tape to avoid excessive move-
+ment of the leads and to ensure that they remained in place
+throughout the session.
+The EMG signal was recorded using the PS900 portable system
+(Biometrics Ltd.). The EMG signal was sampled at 1,000 Hz band
+pass-ﬁltered between 20 and 450 Hz, and ampli ﬁed (analog dif-
+ferential ampliﬁer, common mode rejection ratio >96 dB at 60 Hz,
+total gain 1,000); the data were stored in a personal computer for
+later analysis.
+The EMG signals were processed and analyzed with Biometrics
+DataLog 8.0 software. The raw EMG signal was ﬁrst visually checked
+for electrocardiac artifacts. The raw EMG signal was processed with
+the triangle-Bartlett method of fast Fourier transformation to
+determine the median frequency (MDF) value at a sample rate of
+1,024 per second. Changes in the MDF of the EMG signal were taken
+as an indirect measure of muscle fatigue.
+We retrieved every 10-minute block of EMG data from the 60-
+minute sitting period (at 0 e10, 10 e20, 20 e30, 30 e40, 40 e50,
+and 50e60 minutes) for analysis.
+2.3. Experimental procedure
+The participants were asked to sit using one of three sitting
+positions for a period of 1 hour. The individual ’s baseline BPD score
+of six body regions (i.e., the neck, shoulder, upper back, low back,
+hip/thigh, and knee) were recorded. After the application of surface
+electrodes, the participants sat on a stool with their hips and knees
+at 90
+/C14 , their feet positioned shoulder width apart, and their arms
+relaxed at the side of their body. Each participant was asked to sit
+for an hour, during which time the EMG signals of RA, IO/TrA, ICL,
+and MF were collected. After the completion of the 1-hour sitting
+period, the participant was asked to record the BPD score again.
+Three common sitting postures were investigated in the present
+study: upright, slumped, and forward leaning sitting postures [26].
+The sitting posture for each participant was randomly selected
+using a random number table. The measurement outcomes were
+BPD and trunk muscles MDF value during the sitting period. The
+upright sitting posture consisted of sitting with anterior rotation of
+the pelvis, thoracolumbar spine extended, and shoulder blades
+slightly retracted [15]. In the slumped sitting posture, the pelvis is
+Table 1
+Characteristics of the study population ( N ¼ 30)
+Characteristics Mean (SD) p*
+Group 1
+(n ¼ 10)
+Group 2
+(n ¼ 10)
+Group 3
+(n ¼ 10)
+Age (y) 21.3 (1.1) 21.5 (1.7) 22.2 (1.5) 0.369
+Sex (female) 7 8 8
+Height (cm) 168.3 (8.4) 164.9 (8.9) 161.4 (6.1) 0.174
+Weight (kg) 59.8 (6.8) 56.3 (5.8) 52.7 (7.1) 0.071
+Body mass index (kg/m
+2) 21.1 (1.4) 20.7 (1.7) 20.2 (1.7) 0.422
+Skin fold thickness (mm)
+Abdominal area 15.9 (2.3) 15.3 (4.8) 16.0 (4.4) 0.915
+Suprailiac area 15.7 (2.8) 14.5 (3.8) 14.5 (4.0) 0.695
+Group 1, upright sitting; Group 2, slumped sitting; Group 3, forward leaning sitting;
+SD, standard deviation.
+Saf Health Work 2015; -:1e62
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001
+
+===== PAGE 3 =====
+
+in posterior rotation, with the thoracolumbar spine relaxed while
+the participants looks straight ahead [15]. With the forward leaning
+sitting posture, the pelvis is in anterior rotation, with the thor-
+acolumbar spine extended and bent forward by more than 10 /C14 [19].
+In the forward leaning sitting posture, the participants were asked
+to cross their arms to prevent them from using their arms to sup-
+port their body weight ( Fig. 1).
+To control the alignment of sitting postures during the study,
+two adjustable alignment boards were developed and attached to
+the right side of a regular stool (size 30 /C2 45 /C2 45 cm; Fig. 2). Two
+infrared sensors (Infrared Analog Distance Sensor; GP2Y0A21YK0F;
+Sharp Ltd., Osaka, Japan) were inserted into the vertical board at T1
+level and T10 level [27]. Once the participant deviated from the
+selected sitting posture, an auditory feedback signal from the
+sensors is heard, reminding them to return to the proper sitting
+posture.
+2.4. Statistical analysis
+ShapiroeWilk test was performed to check the distribution of
+data. Characteristics of the study participants were described using
+means. Comparisons of participant characteristics among groups
+were conducted using one-way analysis of variance (ANOVA). The
+paired-sample t test compared the BPD scores prior to and after 1
+hour of sitting in each sitting posture. One-way ANOVA determined
+the effect of time on the MDF of the EMG signal of trunk muscles.
+The least signi ﬁcant difference post hoc comparison was used to
+determine whether two selected means were signiﬁcantly different
+from each other. All statistical analyses were performed using the
+SPSS statistical software, version 17.0 (SPSS Inc., Chicago, IL, USA).
+The level of signi ﬁcance was set at 0.05 for all statistical analyses.
+3. Results
+Regardless of sitting posture, the BPD scores in all body regions
+(i.e., neck, shoulder, upper back, low back, hip/thigh, and knee)
+after 1 hour of sitting were signi ﬁcantly greater than those at the
+beginning ( t(9) ¼ e1 1.97 toe2.69, p < 0.05; Table 2).
+One-way ANOVA indicated no signi ﬁcant effect of time
+(F(5,45) ¼ 0.301 to 2.193, p > 0.05) for RA, ICL, and MF MDF of the
+EMG signal in all sitting postures, except for both sides of IO/TrA in
+the slumped sitting ( F(5,45) ¼ 4.488, p ¼ 0.002 for the right side;
+F(5,45) ¼ 3.822, p ¼ 0.006 for the left side; Fig. 3 ). The least signi ﬁ-
+cant difference post hoc comparison revealed that Rt. IO/TrA MDF of
+the EMG signal in the slumped sitting posture at 0 e10 minutes was
+signiﬁcantly greater than that in slumped sitting posture at 10 e20,
+20e30, 30 e40, 40 e50, and 50 e60 minutes ( p ¼ 0.032 to 0.041).
+Similar ﬁndings were also found for Lt. IO/TrA MDF of the EMG
+signal in the slumped sitting posture ( p ¼ 0.019 to 0.038).
+4. Discussion
+The results of this study revealed that 1 hour of sitting in up-
+right, slumped, or forward leaning sitting postures led to increased
+discomfort at the neck, shoulder, upper back, low back, and
+buttock. No sign of trunk muscle fatigue was detected over 1 hour
+of sitting in the upright or forward leaning postures. However, the
+slumped sitting posture was associated with the right and left IO/
+TrA muscle fatigue after 1 hour of sitting. We also found that muscle
+Fig. 1. Sitting postures. (A) Slumped sitting. (B) Upright sitting. (C) Forward leaning sitting.
+Fig. 2. The stool with infrared sensors.
+P. Waongenngarm et al / Slumped Sitting Induced Trunk Muscle Fatigue 3
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001
+
+===== PAGE 4 =====
+
+Table 2
+BPD scores at the beginning and after 1 hour of sitting in six body regions
+Body region
+Mean of BPD scores/10
+Upright sitting Slumped sitting Forward leaning sitting
+Before After t (p) Before After t (p) Before After t (p)
+Neck 1.600 3.000 /C0 2.69 (0.025*) 0.100 3.700 /C0 4.39 (0.002*) 1.500 3.500 /C0 2.93 (0.017*)
+Right shoulder 0.700 3.600 /C0 4.66 (0.001*) 0.300 2.300 /C0 2.79 (0.021*) 1.600 3.600 /C0 5.07 (0.001*)
+Left shoulder 0.700 2.900 /C0 3.24 (0.010*) 0.300 2.500 /C0 3.09 (0.013*) 1.300 3.400 /C0 3.71 (0.005*)
+Upper back 0.500 4.100 /C0 3.86 (0.004*) 0.700 3.500 /C0 3.18 (0.011*) 1.400 3.400 /C0 3.59 (0.006*)
+Low back 1.400 5.100 /C0 5.84 (0.000*) 0.100 2.400 /C0 4.44 (0.002*) 0.700 7.200 /C0 11.98 (0.000*)
+Buttock 0.400 3.500 /C0 4.04 (0.003*) 0.200 3.500 /C0 3.74 (0.005*) 0.700 4.600 /C0 6.66 (0.000*)
+*p < 0.05.
+BPD, Body Perceived Discomfort scale.
+Fig. 3. Median frequency values of the electromyographic signal of rectus abdominis (RA), internal oblique (IO), iliocostalis lumborum pars thoracis (ICL ), and super ﬁcial lumbar
+multiﬁdus (MF) during 1 hour of sitting in various sitting postures. (A and B) Slumped sitting. (C and D) Upright sitting. (E and F) Forward leaning sitting. * p < 0.05.
+Saf Health Work 2015; -:1e64
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001
+
+===== PAGE 5 =====
+
+fatigue occurred earlier during sitting (approximately 20 minutes
+after sitting) in the slumped posture compared to the other sitting
+postures.
+The results of the present study are in line with the ﬁndings of
+previous studies showing that body perceived discomfort increased
+signiﬁcantly during prolonged sitting [9]. Vergara and Page [28]
+reported that discomfort occurred mainly in the neck and low
+back during sustained sitting. Gregory et al [29] found that overall
+body discomfort was signi ﬁcantly higher after a 1-hour period of
+sitting. Perceived musculoskeletal discomfort is a predictor of LBP
+among healthy participants [10]. Our ﬁndings lend further support
+to the notion that prolonged sitting may lead to the development of
+LBP.
+A previous study showed that crossed-leg sitting posture led to
+greater trunk muscle fatigue and discomfort than heel sitting
+posture during 30 minutes of sitting, and the ﬁndings were linked
+to the mechanical effects of the trunk leaning forward during the
+crossed-leg sitting posture and the trunk being upright in the heel
+sitting posture [30]. During slumped sitting, the MF is passively
+stretched resulting in the IO/TrA muscle increasing its cocon-
+traction activity to balance back muscle forces. Consequently, IO/
+TrA muscle will fatigue over time. When the postural muscles
+become fatigued, the lumbopelvic region becomes dependent on
+its passive structures to maintain the position against gravity at the
+end range of spinal ﬂexion [17]. The adverse effect of prolonged
+sitting in the slumped posture on the IO/TrA muscle may predis-
+pose the lumbar spine to injury, leading to the development of LBP.
+Ofﬁce workers are usually required to sit for long hours to
+perform their duty, and prolonged sitting seems to have an adverse
+effect on ofﬁce workers’ health, particularly at the low back. To date,
+there is still a lack of international consensus over the ideal sitting
+posture. The current study suggests that of ﬁce workers should
+avoid sitting in the slumped posture for a prolonged time because it
+induces IO/TrA muscle fatigue. The TrA muscle is a local system for
+counterbalancing compressive forces on the upper lumbar segment
+of the spine and to increase lumbar stability [16]. Fatigue of the TrA
+muscle may predispose the lumbar spine to injury, leading to the
+development of LBP. Thus, prevention of LBP among of ﬁce workers
+should at least include developing strategies or intervention to
+reduce time spent in the slumped sitting posture and to increase
+TrA muscle endurance.
+This study has several methodological limitations that are
+noteworthy. First, the sitting postures tested in this study were
+controlled. Variations in how a person sits may exist and affect
+body perceived discomfort and trunk muscle activity. For example,
+in this study, participants were asked to cross their arms to prevent
+them from using their arms to support their body weight while
+sitting in the forward leaning sitting posture. Further research on
+the effect of arm support on body perceived discomfort and trunk
+muscle activity is recommended. Second, the present study only
+investigated body perceived discomfort and trunk muscle fatigue in
+young healthy participants. Change in body perceived discomfort
+and trunk muscle fatigue during various sitting postures for a
+prolonged time in those with LBP may not correspond to that of an
+asymptomatic population. Thus, extrapolation of these results to
+people with LBP should be made with caution. Further research is
+required to examine the effect of prolonged sitting posture on body
+perceived discomfort and trunk muscle fatigue in patients with LBP.
+Third, the effect of 1 hour of sitting in three different postures on
+body perceived discomfort and trunk muscle fatigue was investi-
+gated. The majority of muscle ﬁber types in trunk muscles are
+mainly type I ﬁbers (slow oxidative), which are fatigue-resistant.
+Thus, an hour of sitting may not be suf ﬁ
+cient time to induce mus-
+cle fatigue. Further research is required to examine the effect of
+prolonged sitting posture, greater than an hour, on body perceived
+discomfort and trunk muscle fatigue. Fourth, participants ’ body
+weight was quite different among groups, despite the fact that the
+sitting posture for each participant was randomly selected using a
+random number table. The degree to which body weight in ﬂuences
+the outcomes of the present study (i.e., body perceived discomfort
+and trunk muscle fatigue) is unknown and is beyond the scope of
+this study. A future study should attempt to investigate the effect of
+body weight on body perceived discomfort and trunk muscle fa-
+tigue during 1 hour of sitting as well as the effect of body weight on
+sitting posture in of ﬁce workers.
+In summary, the current study examined the characteristics of
+body perceived discomfort and trunk muscle fatigue during 1 hour
+of sitting in three common postures in of ﬁce workers (i.e., upright,
+slumped, and forward leaning). The results showed that sitting for
+1 hour in all three sitting postures led to increased discomfort at all
+body parts. Although there were increased BPD scores in all body
+regions, there was no sign of muscle fatigue in MF, ICL, IO/TrA, and
+RA muscles over 1 hour of sitting in the upright or forward leaning
+postures. However, the slumped sitting posture was associated
+with the right and left IO/TrA muscle fatigue after 1 hour of sitting,
+and it occurred very early (i.e., approximately 20 minutes after
+sitting). Fatigue of the IO/TrA muscle may compromise the stability
+of the spine, leading to the occurrence of LBP in of ﬁce workers.
+Conﬂicts of interests
+The authors declare that there are no con ﬂicts of interest.
+Authors’ Contributions
+The authors have contributed in the following ways: PW pro-
+vided concept/research design, data collection, data analysis, and
+manuscript writing. BS and PJ provided concept/research design
+and manuscript writing. All authors read and approved the ﬁnal
+version of the manuscript.
+Acknowledgments
+The author thanks Ms Wan Fang Yuan and Mr Watchara
+Sroykham for technical support during data collection. This study
+was funded by grants from the Institute of Asian Studies, Chula-
+longkorn University, the 90
+th Anniversary of Chulalongkorn Uni-
+versity Fund (Ratchadaphiseksomphot Endowment Fund), and the
+School of Health Sciences (Allied Health), Nanyang Polytechnic.
+References
+[1] Janwantanakul P, Pensri P, Jiamjarasrangsri V, Sinsongsook T. Prevalence of
+self-reported musculoskeletal symptoms among of ﬁce workers. Occup Med
+(Lond) 2008;58:436 e8.
+[2] Ayanniyi O, Ukpai BO, Adeniyi AF. Differences in prevalence of self-reported
+musculoskeletal symptoms among computer and non-computer users in a
+Nigerian population: a cross-sectional study. BMC Musculoskelet Disord
+2010;11:177.
+[3] Juul-Kristensen B, Sogaard K, Stroyer J, Jensen C. Computer users ’ risk factors
+for developing shoulder, elbow and back symptoms. Scand J Work Environ
+Health 2004;30:390 e8.
+[4] Sitthipornvorakul E, Janwantanakul P, Lohsoonthorn V. The effect of daily
+walking steps on preventing neck and low back pain in sedentary workers: a
+1-year prospective cohort study. Eur Spine J 2014;24:417 e24.
+[5] Manchikanti L, Singh V, Datta S, Cohen SP, Hirsch JA. American Society of
+Interventional Pain P. Comprehensive review of epidemiology, scope, and
+impact of spinal pain. Pain Physician 2009;12:E35 e70.
+[6] Manchikanti L, Singh V, Falco FJ, Benyamin RM, Hirsch JA. Epidemiology of low
+back pain in adults. Neuromodulation 2014;172:3 e10.
+[7] Katz JN. Lumbar disc disorders and low-back pain: socioeconomic factors and
+consequences. J Bone Joint Surg Am 2006;88:21 e4.
+[8] Lambeek LC, van Tulder MW, Swinkels IC, Koppes LL, Anema JR, van
+Mechelen W. The trend in total cost of back pain in The Netherlands in the
+period 2002 to 2007. Spine (Phila Pa 1976) 2011;36:1050 e8.
+P. Waongenngarm et al / Slumped Sitting Induced Trunk Muscle Fatigue 5
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001
+
+===== PAGE 6 =====
+
+[9] Sondergaard KH, Olesen CG, Sondergaard EK, de Zee M, Madeleine P. The
+variability and complexity of sitting postural control are associated with
+discomfort. J Biomech 2010;43:1997 e2001.
+[10] Hamberg-van Reenen HH, van der Beek AJ, Blatter BM, van der Grinten MP,
+van Mechelen W, Bongers PM. Does musculoskeletal discomfort at work
+predict future musculoskeletal pain? Ergonomics 2008;51:637 e48.
+[11] Hosea TM, Simon SR, Delatizky J, Wong MA, Hsieh CC. Myoelectric analysis of
+the paraspinal musculature in relation to automobile driving. Spine (Phila Pa
+1976) 1986;11:928 e36.
+[12] Hamberg-van Reenen HH, Ariëns GA, Blatter BM, Twisk JW, van Mechelen W,
+Bongers PM. Physical capacity in relation to low back, neck, or shoulder pain
+in a working population. Occup Environ Med 2006;63:371 e7.
+[13] Heneweer H, Picavet HS, Staes F, Kiers H, Vanhees L. Physical ﬁtness, rather
+than self-reported physical activities, is more strongly associated with low
+back pain: evidence from a working population. Eur Spine J 2012;21:1265 e
+72.
+[14] Lis AM, Black KM, Korn H, Nordin M. Association between sitting and occu-
+pational LBP. Eur Spine J 2007;16:283 e98.
+[15] O’Sullivan PB, Dankaerts W, Burnett AF, Farrell GT, Jefford E, Naylor CS,
+O’Sullivan KJ. Effect of different upright sitting postures on spinal epelvic
+curvature and trunk muscle activation in a pain-free population. Spine (Phila
+Pa 1976) 2006;31:707 e12.
+[16] Kavcic N, Grenier S, McGill SM. Determining the stabilizing role of individual
+torso muscles during rehabilitation exercises. Spine (Phila Pa 1976) 2004;29:
+1254e65.
+[17] O’Sullivan PB, Grahamslaw KM, Kendell M, Lapenskie SC, Moller NE,
+Richards KV. The effect of different standing and sitting postures on trunk
+muscle activity in a pain-free population. Spine (Phila Pa 1976). 2002;27:
+1238e44.
+[18] Maroudas A, Stockwell RA, Nachemson A, Urban J. Factors involved in the
+nutrition of the human lumbar intervertebral disc: cellularity and diffusion of
+glucose in vitro. J Anat 1975;120:113 e30.
+[19] Nachemson A. The effect of forward leaning on lumbar intradiscal pressure.
+Acta Orthop Scand 1965;35:314 e28.
+[20] Anuurad E, Shiwaku K, Nogi A, Kitajima K, Enkhmaa B, Shimono K, Yamane Y.
+The new BMI criteria for Asians by the regional of ﬁce for the western paci ﬁc
+region of WHO are suitable for screening of overweight to prevent metabolic
+syndrome in elder Japanese workers. J Occup Health 2003;45:335 e43.
+[21] Corlett EN, Bishop RP. A technique for assessing postural discomfort. Ergo-
+nomics 1976;19:175 e82.
+[22] Dedering A, Oddsson L, Harms-Ringdahl K, Nemeth G. Electromyography and
+ratings of lumbar muscle fatigue using a four-level staircase protocol. Clin
+Biomech (Bristol, Avon) 2002;17:171 e6.
+[23] De Foa JL, Forest W, Biedermann HJ. Muscles ﬁbre direction of longissimus,
+iliocostalis and multi ﬁdus: landmark-derived reference lines. J Anat
+1989;163:243e7.
+[24] Hermens HJ, Freriks B, Merletti R, Stegeman D, Blok J, Rau G, Disselhorst-
+Klug C, Hagg G. European recommendations for surface electromyography.
+Enschede (Netherlands): Roessingh Research and Development; 1999 .
+[25] Danneels LA, Cagnie BJ, Cools AM, Vanderstraeten GG, Cambier DC,
+Witvrouw EE, De Cuyper HJ. Intra-operator and inter-operator reliability of
+surface electromyography in the clinical evaluation of back muscles. Man Ther
+2001;6:145e53.
+[26] Harrison DD, Harrison SO, Croft AC, Harrison DE, Troyanovich SJ. Sitting
+biomechanics part I: review of the literature. J Manipulative Physiol Ther
+1999;22:594e609.
+[27] Claus AP, Hides JA, Moseley GL, Hodges PW. Is ‘ideal’ sitting posture real?
+Measurement of spinal curves in four sitting postures. Man Ther 2009;14:
+404e8.
+[28] Vergara M, Page A. Relationship between comfort and back posture and
+mobility in sitting-posture. Appl Ergon 2002;33:1 e8.
+[29] Gregory DE, Dunk NM, Callaghan JP. Stability ball versus of ﬁce chair: com-
+parison of muscle activation and lumbar spine posture during prolonged
+sitting. Hum Factors 2006;48:142 e53.
+[30] Areeudomwong P, Puntumetakul R, Kaber DB, Wanpen S, Leelayuwat N,
+Chatchawan U. Effects of handicraft sitting postures on lower trunk muscle
+fatigue. Ergonomics 2012;55:693 e703.
+Saf Health Work 2015; -:1e66
+Please cite this article in press as: Waongenngarm P, et al., Internal Oblique and Transversus Abdominis Muscle Fatigue Induced by Slumped
+Sitting Posture after 1 Hour of Sitting in Of ﬁce Workers, Safety and Health at Work (2015), http://dx.doi.org/10.1016/j.shaw.2015.08.001

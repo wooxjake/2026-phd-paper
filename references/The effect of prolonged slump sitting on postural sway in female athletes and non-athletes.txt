@@ -1,0 +1,818 @@
+===== PAGE 1 =====
+
+RESEARCH Open Access
+© The Author(s) 2026. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p :   /  / c r e a t i  
+v e c  o m m  o n  s  . o  r  g /  l i c  e n s   e s  /  b y  - n c  -  n d / 4 . 0 /.
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation          (2026) 18:289 
+https://doi.org/10.1186/s13102-026-01704-x
+BMC Sports Science, Medicine 
+and Rehabilitation
+*Correspondence:
+Hooman Minoonejad
+H.minoonejad@ut.ac.ir
+1Department of Sports injury and biomechanics, Faculty of Sport 
+Sciences and health, university of Tehran, Tehran, Iran
+Abstract
+Purpose Prolonged sedentary behavior and slump sitting posture may impair neuromuscular function; however, 
+acute effects on postural sway and potential differences between athletes and non-athletes remain unclear. Therefore, 
+this study aims to examine the acute effects of prolonged slump sitting on postural sway in female athletes and 
+non-athletes.
+Methods In this study, 24 females (12 athletes, 12 non-athletes; age 18–30 years) completed balance assessments 
+using the Biodex Balance System, followed by a 30-minute standardized slump sitting protocol. Outcomes included 
+static postural stability test (PST), Modified Clinical Test of Sensory Interaction on Balance (mCTSIB), and limits of 
+stability (LOS). Group differences were analyzed using analysis of covariance (ANCOVA).
+Results Prolonged slump sitting significantly influenced selected postural sway outcomes. Athletes demonstrated 
+greater post-intervention sway compared with non-athletes in the Overall Stability Index (p = 0.01) and the eyes-
+closed firm-surface mCTSIB condition (p = 0.02). A significant group difference was also observed in static left LOS 
+performance (p = 0.01).
+Conclusion In a nutshell, the present study demonstrated that prolonged slump sitting may influence postural 
+sway in female athletes and non-athletes, with specific differences emerging between groups under certain sensory 
+and stability conditions. By highlighting the potential impact of slump sitting on postural stability, this research 
+contributes to the fields of sports science, ergonomics, and rehabilitation, emphasizing the need for strategies that 
+mitigate the negative effects of prolonged sedentary behavior.
+Keywords Posture, College Athletes, Postural Sway
+The effect of prolonged slump sitting 
+on postural sway in female athletes and non-
+athletes
+Reihaneh Zarnegar1 , Hooman Minoonejad1* , Mohammad Karimizadeh Ardakani1  and Ebrahim Ebrahimi1
+
+===== PAGE 2 =====
+
+Page 2 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+Introduction
+Sedentary behavior has emerged as an essential public 
+health concern, with prolonged sitting increasingly rec -
+ognized as a contributor to musculoskeletal dysfunction 
+[1], impaired neuromuscular control, and decreased pos -
+tural stability [ 2]. Modern occupational and academic 
+environments often require extended periods of static 
+sitting, frequently in suboptimal postures such as slump 
+sitting, a posture characterized by posterior pelvic tilt, 
+thoracolumbar flexion, and forward head positioning 
+[3]. Prolonged slump sitting has been shown to induce 
+muscle fatigue [ 4], reduce lumbar lordosis, alter spinal 
+loading patterns [5], and decrease activation of deep sta -
+bilizing muscles, including the transversus abdominis 
+and multifidus [ 6]. Furthermore, sustained flexed pos -
+tures may influence sensorimotor integration through 
+changes in mechanoreceptor sensitivity and neuromus -
+cular recruitment patterns [ 7, 8]. These biomechanical 
+changes may impair proprioceptive feedback from spi -
+nal and pelvic structures [ 9], disrupting postural control 
+strategies during subsequent standing tasks [10].
+Postural control is a complex process involving the 
+integration of sensory input from visual, vestibular, and 
+proprioceptive systems with motor responses to main -
+tain balance during static and dynamic tasks [ 11]. A 
+commonly used quantitative indicator of postural con -
+trol is postural sway, typically assessed through center-
+of-pressure (COP) displacement, velocity, and variability 
+during quiet standing [ 12]. Increased postural sway has 
+been associated with impaired neuromuscular coordina -
+tion [13], fatigue [14], reduced proprioceptive acuity [15], 
+and elevated injury risk. In sports science, postural sway 
+metrics have been widely used to evaluate injury risk, 
+rehabilitation progress, and training adaptations [ 16], 
+with evidence suggesting that athletes often exhibit more 
+efficient balance strategies compared to non-athletes [ 17, 
+18]. In athletic populations, optimal postural control is 
+crucial not only for performance but also for injury pre -
+vention [ 19], as deficits in balance and neuromuscular 
+stability have been linked to conditions such as anterior 
+cruciate ligament (ACL) injuries [ 20], ankle sprains [ 21], 
+and chronic low back pain [22]. A study showed that indi-
+viduals who underwent ACL reconstruction appeared to 
+exhibit a persistent postural balance deficit, particularly 
+in dynamic double-leg conditions [23].
+Despite increasing research on sedentary behavior and 
+postural control, important gaps remain. Existing stud -
+ies have largely emphasized chronic musculoskeletal 
+outcomes of sitting rather than the effects of prolonged 
+slump sitting on postural sway [ 24]. Direct comparisons 
+between athletes and non-athletes following standard -
+ized sedentary postures are limited, leaving unclear 
+whether athletic conditioning mitigates or amplifies tran-
+sient balance disturbances. Female-specific investigations 
+are also underrepresented despite known sex-related dif -
+ferences in neuromuscular control [ 25], balance strate -
+gies, and injury susceptibility. Furthermore, variability 
+in sitting protocols, posture standardization, and sway 
+assessment methods has restricted the development of 
+clear recommendations that integrate ergonomic, sports 
+performance, and rehabilitation perspectives. Therefore, 
+the present study aimed to investigate the effects of pro -
+longed slump sitting on postural sway in female athletes 
+and non-athletes. It was further hypothesized that the 
+effects of prolonged slump sitting on postural sway would 
+be condition-specific and more pronounced under sen -
+sory-challenged conditions.
+Materials and methods
+The present study employed a causal–comparative with 
+pre-test and post-test design. Participants were recruited 
+using convenience sampling from the Faculty of Sport 
+Sciences and Health at the University of Tehran. Based 
+on a study [ 26], 24 participants were chosen using G. 
+Power software, ensuring a 0.80 test power, an effect size 
+of 0.84, and a significance level of 0.05. They were divided 
+into athletes (N = 12) and non-athletes’ groups (N = 12). 
+Participants were eligible for inclusion if they met the fol-
+lowing criteria: female sex; age between 18 and 30 years; 
+body mass index (BMI) between 18.5 and 25 kg/m²; no 
+history of fracture or surgical intervention involving the 
+shoulder, lumbar spine, or lower extremities within the 
+previous six months; absence of neurological disorders, 
+stroke, or functional dysfunction in the neck or shoul -
+der regions; and ability to safely perform all testing pro -
+cedures. Also, the athlete group consisted of individuals 
+with a minimum of three years of regular participation 
+in organized sports activities, defined as structured and 
+supervised training programs conducted within univer -
+sity teams or sports clubs. Participants were engaged in 
+various disciplines, including team sports (e.g., volleyball, 
+basketball) and individual sports (e.g., athletics). All ath -
+letes trained at least three sessions per week, with each 
+session lasting a minimum of 90 min. The majority of 
+participants competed at a recreational to university level 
+rather than elite or professional levels. Participants were 
+excluded if they had engaged in intense physical activ -
+ity within the 24 h preceding testing, were outside the 
+specified age range, demonstrated non-compliance with 
+study procedures, or chose to withdraw from participa -
+tion at any point during the study. Based on the Decla -
+ration of Helsinki, all stages of the study were explained 
+to the participants, and then written informed consent 
+was obtained. Secondly, individuals were informed that 
+in the event of any issues during the tests, the exam -
+iner, a sports science student, would take all necessary 
+actions. Also, the participants were instructed on how 
+to perform the tests. Demographic and anthropometric
+
+===== PAGE 3 =====
+
+Page 3 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+characteristics of the participants, including age, height, 
+and body mass, were recorded using a standardized 
+demographic proforma completed prior to testing. Body 
+height was measured using a wall-mounted stadiometer 
+to the nearest 0.1 cm, and body mass was measured using 
+a calibrated digital scale to the nearest 0.1 kg, with par -
+ticipants barefoot and wearing light clothing. BMI was 
+calculated as body mass in kilograms divided by height 
+in meters squared (kg/m²). All steps were explained 
+to the participants. It is worth mentioning that all tests 
+were conducted in the laboratory of Tehran University, 
+Iran. Before starting the investigation, study approval 
+was obtained from the Biomedical Research Ethics Com -
+mittee of Tehran University (Ethics code: IR.UT.SPORT.
+REC.1403.08).
+Procedure
+The test procedure was conducted as follows: initially, 
+a pre-test assessment of postural sway using the Biodex 
+Balance System was performed for both groups. In the 
+next stage, participants were positioned in a slump sit -
+ting posture (seated on a backless chair in a flexed posi -
+tion, with the hip and knee joints at 90° flexion, and a 
+posture in which the angle formed between the acro -
+mion, L1 vertebra, and greater trochanter deviated by 
+± 3° from 93°) [ 4]. This angle was established using ana -
+tomical landmarks and measured with a handheld goni -
+ometer, supported by visual alignment (Fig. 1). Prior to 
+the intervention, the examiner adjusted each participant’s 
+posture to meet the required criteria. Participants main -
+tained the slump sitting position for 30 min [ 4], after 
+which post-test measurements of postural sway were 
+recorded. During this period, posture maintenance was 
+continuously monitored by the examiner. Participants 
+were instructed to maintain the defined slump position 
+and avoid postural corrections. Verbal reminders were 
+provided when necessary to ensure adherence, and any 
+substantial deviations from the target posture were cor -
+rected immediately.
+Postural sway assessment
+Postural sway was assessed using the Biodex Balance 
+System. All participants completed the Postural Stability 
+Test (PST), Modified Clinical Test of Sensory Interaction 
+on Balance (mCTSIB), and Limits of Stability (LOS) test 
+according to standardized manufacturer guidelines under 
+the supervision of an experienced examiner. Reported 
+reliability coefficients demonstrated the Biodex Balance 
+System as a valid and reliable tool for assessing pos -
+tural sway ( R = 0.94) [ 27]. Prior to testing, participants 
+received a detailed explanation of procedures and per -
+formed familiarization trials to minimize learning effects. 
+For all assessments, participants stood barefoot on the 
+Biodex platform in a standardized upright posture with 
+feet positioned according to the device’s coordinate grid. 
+Foot placement was recorded during the initial trial and 
+replicated in subsequent measurements to ensure con -
+sistency between pre-test and post-test sessions. Partici -
+pants were instructed to maintain an upright standing 
+posture with arms alongside the body unless otherwise 
+specified and to focus on the visual feedback displayed on 
+the monitor [28].
+Postural Stability Test (PST)
+To evaluate static postural control, participants com -
+pleted the PST [ 28]. They were instructed to stand in a 
+double-leg stance with eyes open (DLEO) and maintain 
+the platform indicator at the center of the display while 
+minimizing body sway. At the beginning of the test, 
+the participant’s foot position and stance width were 
+recorded. During each trial, once the device was acti -
+vated, participants were required to keep the platform 
+as stable and horizontal as possible for 15 s, preventing 
+excessive deviations and disturbances. The stability level 
+of the movable platform was adjustable; in this study, it 
+was set between levels 3 and 6 during double-leg stance 
+trials to provide moderate instability while maintaining 
+Fig. 1 Slump sitting posture based on the given definition
+
+===== PAGE 4 =====
+
+Page 4 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+participant safety. The Biodex system automatically cal -
+culated and recorded three primary stability indices: 
+Overall Stability Index (OSI), Anterior–Posterior Sta -
+bility Index (APSI), and Medial–Lateral Stability Index 
+(MLSI).
+Modified Clinical Test of Sensory Interaction on Balance 
+(mCTSIB)
+The mCTSIB was conducted to assess the contribution 
+of visual and somatosensory inputs to postural control 
+under different sensory conditions. Each trial required 
+participants to stand quietly while maintaining stability 
+on the platform for the specified test duration accord -
+ing to Biodex protocols. Participants were instructed to 
+remain as still as possible and avoid excessive movements 
+[28]. The device recorded sway indices and postural sta -
+bility performance across sensory conditions, allowing 
+evaluation of sensory integration and balance control 
+mechanisms. Participants completed four standardized 
+conditions: Eyes open with a firm surface (EO-firm), 
+Eyes closed with a firm surface (EC-firm), Eyes open with 
+a foam surface (EO-foam), and Eyes closed with a foam 
+surface (EC-foam).
+Limits of Stability (LOS) Test
+Dynamic balance and voluntary control of the center of 
+gravity (COG) were evaluated using the LOS test. Par -
+ticipants stood on the platform at stability level 5 with 
+feet positioned according to recorded coordinates and 
+arms crossed over the chest. While viewing the monitor, 
+participants were instructed to shift their body weight 
+and move their COG toward randomly appearing visual 
+targets in multiple directions (anterior, posterior, left, and 
+right). Targets appeared sequentially and unpredictably, 
+requiring controlled and accurate weight shifting without 
+lifting the feet [28]. Participants were asked to move their 
+COG toward each target as quickly and accurately as pos-
+sible. The Biodex system calculated parameters related to 
+movement time, directional control, and dynamic stabil -
+ity performance. All balance assessments were performed 
+before and immediately after the prolonged slump sitting 
+intervention under identical testing conditions to evalu -
+ate changes in postural sway and stability performance.
+Statistical analysis
+Data analysis was performed using SPSS software (ver -
+sion 27). The normality of the data distribution was 
+first examined using the Shapiro–Wilk test. Differences 
+between athletes and non-athletes, while controlling for 
+pre-test scores (covariate), were analyzed using analy -
+sis of covariance (ANCOVA). For each comparison, 
+F-values, eta squared (η²) as a measure of effect size, and 
+p-values were calculated. Statistical significance was set 
+at p ≤ 0.05.
+Results
+Table 1 shows the demographic characteristics of par -
+ticipants in both groups. There were no significant differ-
+ences in demographic data among the study groups.
+The results of Table  2 indicated that there was a sig -
+nificant difference between the athlete and non-ath -
+lete groups in the OSI ( p = 0.01, eta squared = 0.31), 
+even when the pre-test effect was taken into account 
+Table 1 Demographic characteristics of participants
+Data Group Mean ± SD P-value
+Age (year) Athletes 24.81 ± 3.60 0.58
+Non-athletes 25.66 ± 3.16
+Height (cm) Athletes 163.09 ± 5.88 0.05
+Non-athletes 167.88 ± 4.28
+Weight (kg) Athletes 59.63 ± 6.07 0.20
+Non-athletes 60.77 ± 6.11
+BMI (kg/m2) Athletes 23.43 ± 2.35 0.96
+Non-athletes 24.55 ± 3.45
+BMI Body Mass Index
+Table 2 ANCOVA results of static PST between athletes and non-athletes
+Variable Group Pre-Mean ± SD Post-Mean ± SD F Eta
+squared
+P-value
+OSI Athletes 0.90 ± 0.32 0.64 ± 0.13 7.74 0.31 0.01*
+Non-athletes 0.31 ± 0.14 0.52 ± 0.10
+APSI Athletes 0.28 ± 0.14 0.45 ± 0.17 0.71 0.03 0.41
+Non-athletes 0.23 ± 0.08 0.45 ± 0.14
+MLSI Athletes 0.16 ± 0.06 0.33 ± 0.16 0.25 0.01 0.62
+Non-athletes 0.15 ± 0.08 0.30 ± 0.11
+OSI Overall Stability Index, APSI Anterior–Posterior Stability Index, MLSI Medial–Lateral Stability Index
+
+===== PAGE 5 =====
+
+Page 5 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+(covariate), indicating higher scores in the athlete group 
+compared to the non-athlete group.
+EO-firm Eyes open with a firm surface, EC-firm Eyes 
+closed with a firm surface, EO-foam Eyes open with a 
+foam surface, EC-foam Eyes closed with a foam surface.
+The results of Table  3 showed that there was a sig -
+nificant difference between the athlete and non-athlete 
+groups in the EC-firm ( p = 0.02, eta squared = 0.25), 
+even when the pre-test effect was taken into account 
+(covariate), demonstrating higher scores in the athlete 
+group compared to the non-athlete group. The reported 
+Mean ± SD values represent the sway index, derived from 
+COP displacement, under each sensory condition.
+The results of Table  4 revealed that there were no sig -
+nificant differences between the athlete and non-athlete 
+groups in all dynamic and static LOS tests ( P ≥ 0.05), 
+even when the pre-test effect was taken into account 
+(covariate), except for the static left LOS test (p = 0.01, eta 
+squared = 0.31). The Mean ± SD values in this table repre -
+sent directional control (%).
+Discussion
+The purpose of the present study was to investigate the 
+effects of prolonged slump sitting on postural sway in 
+female athletes and non-athletes. The main findings indi-
+cated that prolonged slump sitting influenced several 
+postural stability outcomes, with significant differences 
+observed between groups in OSI, the EC-firm condi -
+tion of the mCTSIB, and the static left LOS test. Athletes 
+demonstrated higher post-intervention sway scores in 
+selected conditions compared to non-athletes, suggest -
+ing that prolonged slump sitting may temporarily alter 
+postural control mechanisms regardless of athletic sta -
+tus. However, most dynamic LOS variables and other 
+mCTSIB conditions did not show significant group dif -
+ferences, indicating that the effects may be task-specific 
+and more evident under certain sensory or stability 
+demands.
+In respect of OSI, the observed increase in postural 
+sway is consistent with studies showing that prolonged 
+slumped or flexed sitting postures may contribute to neu-
+romuscular fatigue and altered postural control. Jung et 
+al. (2021) reported increased trunk muscle fatigue after 
+Table 3 ANCOVA results of mCTSIB between athletes and non-athletes
+Variable Group Pre-Mean ± SD Post-Mean ± SD F Eta
+squared
+P-value
+EO-firm Athletes 1.03 ± 0.50 1.47 ± 0.80 0.01 0.01 0.92
+Non-athletes 0.96 ± 0.65 1.53 ± 1.27
+EC-firm Athletes 0.28 ± 0.14 0.45 ± 0.17 0.92 0.25 0.02*
+Non-athletes 0.32 ± 0.08 0.45 ± 0.14
+EO-foam Athletes 49.09 ± 14.25 70.09 ± 9.74 1.82 0.09 0.19
+Non-athletes 44.22 ± 12.29 67.88 ± 11.45
+EC-foam Athletes 56.72 ± 18.10 72.63 ± 14.05 0.29 0.01 0.59
+Non-athletes 47.66 ± 18.86 68.55 ± 18.52
+Table 4 ANCOVA results of the LOS test between athletes and non-athletes
+Variable Group Pre-Mean ± SD Post-Mean ± SD F Eta
+squared
+P-value
+Anterior LOS- static Athletes 56.72 ± 18.10 72.63 ± 14.05 0.53 0.03 0.47
+Non-athletes 47.66 ± 18.86 68.55 ± 18.52
+Posterior LOS- static Athletes 53.45 ± 15.68 76 ± 11.31 0.92 0.05 0.34
+Non-athletes 50.55 ± 14.62 72.22 ± 7.20
+Right LOS- static Athletes 55 ± 17.52 70.36 ± 12.20 0.71 0.03 0.41
+Non-athletes 51.55 ± 12.28 69.55 ± 10.26
+Left LOS- static Athletes 58.90 ± 12.87 72.27 ± 12.30 7.74 0.31 0.01*
+Non-athletes 49.77 ± 12.26 71.22 ± 7.77
+Anterior LOS- dynamic Athletes 56.72 ± 18.10 72.63 ± 14.05 0.43 0.02 0.52
+Non-athletes 43.11 ± 16.88 44 ± 12.89
+Posterior LOS- dynamic Athletes 62.54 ± 12.69 61 ± 13.06 1.23 0.06 0.28
+Non-athletes 57.44 ± 16.07 49.77 ± 22.21
+Right LOS- dynamic Athletes 49.27 ± 14.86 55.63 ± 15.53 0.18 0.01 0.67
+Non-athletes 43.44 ± 20.67 48.77 ± 17.04
+Left LOS- dynamic Athletes 52.09 ± 15.53 58.90 ± 14.25 0.34 0.02 0.56
+Non-athletes 42.33 ± 18.10 50.88 ± 17.94
+LOS Limits of Stability
+
+===== PAGE 6 =====
+
+Page 6 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+prolonged slumped sitting [ 4], which may negatively 
+influence postural stability during subsequent standing 
+tasks. Similarly, de Groot et al. (2014) found that flexed 
+posture is associated with impaired postural control, sup-
+porting the notion that sustained spinal flexion affects 
+balance regulation [10]. However, these findings contrast 
+with research suggesting that athletes generally exhibit 
+lower postural sway and more efficient stability strate -
+gies than non-athletes. Donath et al. (2016) observed 
+improved balance performance in trained individuals 
+during challenging postural tasks [ 13], while Andreeva 
+et al. (2021) reported superior postural stability among 
+athletes [ 14]. The discrepancy may be attributed to the 
+acute fatigue and proprioceptive alterations induced by 
+prolonged slump sitting, which may temporarily reduce 
+the neuromuscular advantages typically observed in 
+athletic populations. Several mechanisms may explain 
+the increase in OSI observed after prolonged slump sit -
+ting. Sustained spinal flexion may reduce lumbar lordo -
+sis and alter muscle activation patterns [ 29], particularly 
+decreasing the engagement of deep stabilizing muscles 
+such as the transversus abdominis and multifidus [ 30]. 
+This may reduce trunk stiffness and impair the abil -
+ity to control COP movements during standing tasks 
+[31]. Additionally, prolonged static posture may disrupt 
+proprioceptive feedback [ 9], leading to decreased sen -
+sorimotor integration. The higher OSI values observed 
+in athletes may reflect a temporary disruption of finely 
+tuned motor control systems that rely on precise neuro -
+muscular coordination. Athletes often employ adaptable 
+and dynamic balance strategies [ 32], and acute fatigue or 
+altered sensory input may result in increased sway vari -
+ability rather than rigid stabilization. Within the broader 
+field, these findings highlight that acute sedentary behav -
+ior may transiently affect postural control even in physi -
+cally trained individuals.
+Concerning the results of mCTSIB, athletes demon -
+strated higher post-test sway scores compared to non-
+athletes, indicating greater postural instability when 
+visual input was removed. A study showed that prolonged 
+slumped sitting may compromise proprioceptive input 
+and postural control when visual cues are unavailable 
+[33]. Similarly, Peterka (2002) highlighted the importance 
+of sensorimotor integration for maintaining balance [ 8], 
+suggesting that disruptions in proprioceptive feedback 
+can impair stability [ 34], particularly under eyes-closed 
+conditions. Conversely, previous literature has often 
+shown that athletes possess superior sensory integration 
+and balance performance compared to non-athletes. For 
+example, Gaerlan et al. (2012) reported enhanced pos -
+tural control among trained individuals under sensory-
+challenged conditions [ 11], and Donath et al. (2016) 
+found that athletes generally demonstrate reduced sway 
+during demanding balance tasks [ 13]. The contrasting 
+results in the present study may reflect the acute neuro -
+muscular and sensory alterations caused by prolonged 
+slump sitting, which may disrupt the sensory weighting 
+strategies typically advantageous in athletes. The signifi -
+cant changes observed in the EC-firm condition likely 
+reflect a disruption in proprioceptive processing and 
+central sensory reweighting mechanisms following pro -
+longed slump sitting [35]. When visual input is removed, 
+the postural control system must rely primarily on 
+somatosensory and vestibular information to maintain 
+stability. Sustained spinal flexion may alter afferent input 
+from paraspinal muscles [36], ligaments, and joint mech -
+anoreceptors [37], thereby degrading the quality of pro -
+prioceptive signals reaching the central nervous system 
+(CNS). Prolonged slump sitting may also induce neuro -
+muscular fatigue in deep trunk stabilizers and alter feed -
+forward activation patterns necessary for anticipatory 
+postural adjustments [38]. Reduced activation or delayed 
+recruitment of stabilizing muscles may impair the ability 
+to maintain equilibrium when sensory demands increase 
+[39]. Furthermore, when vision is removed, individuals 
+may demonstrate increased sway due to insufficient pro -
+prioceptive compensation. The greater sway observed in 
+athletes may be interpreted through the aspect of motor 
+control flexibility and sensory dependence. Athletes often 
+develop highly refined sensorimotor strategies optimized 
+for dynamic movement and rapid environmental inter -
+action [ 40]. However, these systems may be more sen -
+sitive to acute perturbations such as fatigue or altered 
+proprioceptive input, resulting in temporary instability 
+under sensory-deprived conditions. Another possible 
+explanation is that athletes utilize more exploratory pos -
+tural strategies [ 41], reflecting adaptive motor variability 
+rather than purely reduced stability.
+Additionally, a significant difference between female 
+athletes and non-athletes was observed only in the 
+static left LOS parameter after the intervention, sug -
+gesting increased sway during voluntary weight shifting 
+toward the left side. The observed changes align with 
+literature indicating that prolonged flexed postures can 
+disrupt trunk stability and alter directional weight-shift -
+ing performance. O’Sullivan et al. (2006) demonstrated 
+that variations in sitting posture may influence spinal-
+pelvic alignment and trunk muscle activation patterns 
+[5], potentially affecting postural control during subse -
+quent standing movements. Similarly, Windhorst (2007) 
+emphasized the importance of proprioceptive feedback 
+from spinal musculature in guiding directional bal -
+ance responses [ 9], suggesting that altered afferent input 
+could impair targeted stability tasks such as LOS. How -
+ever, previous research has often shown that athletes 
+possess superior directional control and LOS compared 
+to non-athletes. Parker et al. (2008) reported more effi -
+cient balance and motor control strategies in athletic
+
+===== PAGE 7 =====
+
+Page 7 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+populations [ 42], and Andreeva et al. (2021) found that 
+trained individuals generally demonstrate enhanced pos -
+tural adaptability across multiple directions [ 14]. The dif-
+ferences observed in the present study may reflect the 
+acute neuromuscular effects of prolonged slump sitting, 
+which may override typical athletic advantages by dis -
+rupting trunk control and sensorimotor coordination. 
+The direction-specific impairment in the static left LOS 
+may reflect complex interactions between biomechani -
+cal alignment, neuromuscular fatigue, and hemispheric 
+motor control mechanisms following prolonged slump 
+sitting [ 43]. Sustained spinal flexion may induce asym -
+metric loading patterns on the pelvis and lumbar spine 
+[44], potentially leading to uneven activation or fatigue of 
+lateral trunk stabilizers such as the quadratus lumborum 
+and oblique abdominal muscles [ 45]. Because LOS tasks 
+require controlled displacement of the COG toward the 
+boundaries of stability, even subtle asymmetries in mus -
+cle activation or proprioceptive signaling may influence 
+performance in a single direction. In addition, slump sit -
+ting may alter intersegmental coordination between the 
+trunk and lower extremities [ 46], which could reduce the 
+efficiency of anticipatory postural adjustments necessary 
+for precise lateral weight shifts. From a neurophysio -
+logical perspective, prolonged static posture may dis -
+rupt cortical and subcortical motor planning processes 
+involved in directional balance control [47]. It is also pos-
+sible that lateralized control of movement, influenced 
+by limb dominance and hemispheric specialization, may 
+make one direction, such as the left, more vulnerable to 
+fatigue-induced motor variability [ 48]; however, these 
+mechanisms were not directly assessed in the present 
+study and should be interpreted with caution. The greater 
+changes observed in athletes may reflect their reliance 
+on high-gain neuromuscular control strategies that are 
+optimized for performance but sensitive to perturbations 
+[49]. When proprioceptive input is altered or stabilizing 
+musculature is fatigued, athletes may exhibit increased 
+movement amplitude or exploratory sway as their motor 
+system attempts to recalibrate balance boundaries [ 50]. 
+Within the broader framework of postural control, these 
+findings suggest that acute postural stressors can impair 
+directional stability [ 51], emphasizing the importance of 
+symmetrical trunk function and sensorimotor integrity 
+for maintaining optimal limits of stability.
+The existing literature presents inconsistent findings 
+regarding postural control differences between athletes and 
+non-athletes, which may be explained by several moderat-
+ing factors. A recent review highlighted that although ath-
+letes generally demonstrate superior balance performance 
+compared to non-athletes, these differences are highly 
+dependent on sport-specific demands, level of expertise, 
+and testing conditions [52]. For example, athletes engaged 
+in disciplines requiring high levels of static or dynamic 
+balance (e.g., gymnastics, shooting, or martial arts) tend 
+to exhibit reduced postural sway, whereas athletes from 
+other sports may not demonstrate the same advantage 
+[52]. Moreover, the influence of visual input is critical; dif-
+ferences between athletes and non-athletes often become 
+more pronounced under eyes-closed conditions, where reli-
+ance on proprioceptive and vestibular systems increases [53, 
+54]. Furthermore, fatigue and acute physiological stressors 
+can temporarily impair postural stability, potentially dimin-
+ishing the typical balance advantages observed in athletes 
+[55]. In addition, training experience and competitive level 
+appear to play a critical role in postural control perfor -
+mance. Higher-level athletes generally exhibit more refined 
+neuromuscular control and reduced sway compared to 
+lower-level or recreational athletes [56]; however, this rela-
+tionship is not always consistent across studies and may 
+depend on the interaction between sensory conditions and 
+task complexity [52].
+The findings have practical implications for athletes, stu-
+dents, and individuals engaged in prolonged sedentary 
+activities. From a clinical perspective, minimizing sus -
+tained slump sitting and incorporating regular movement 
+breaks may help maintain optimal neuromuscular function 
+and postural stability. For sports practitioners and coaches, 
+awareness of the potential transient balance disturbances 
+following prolonged sitting may inform warm-up strategies 
+and injury prevention programs. Theoretically, the study 
+contributes to the growing literature emphasizing the acute 
+sensorimotor consequences of sedentary postures on bal-
+ance control.
+Several limitations should be considered when interpret-
+ing these findings. First, the relatively small sample size may 
+limit the generalizability of the results and reduce statistical 
+power for detecting subtle effects. Second, the use of con-
+venience sampling from a single university population may 
+introduce selection bias. Third, the study examined only 
+acute responses to a single 30-minute slump sitting period 
+and, therefore, cannot address long-term adaptations. Addi-
+tionally, only female participants were included, limiting the 
+applicability of findings to male populations. Furthermore, 
+BMI was used as a proxy measure for body status; however, 
+it does not account for body composition. Future stud -
+ies should incorporate direct assessments such as body fat 
+percentage or lean mass to provide a more accurate evalu-
+ation, particularly in athletic populations. The athlete group 
+included participants from different sport disciplines and 
+competitive levels, which may have influenced postural 
+control outcomes. Finally, factors such as fatigue level and 
+habitual posture were not controlled in detail and may have 
+influenced balance outcomes. Incorporating electromyo -
+graphic or kinematic analyses in future research may clarify 
+the underlying mechanisms responsible for changes in pos-
+tural sway.
+
+===== PAGE 8 =====
+
+Page 8 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+Conclusion
+In a nutshell, the present study demonstrated that pro -
+longed slump sitting may influence postural sway in 
+female athletes and non-athletes, with specific differ -
+ences emerging between groups under certain sensory 
+and stability conditions. By highlighting the potential 
+impact of slump sitting on postural stability, this research 
+contributes to the fields of sports science, ergonomics, 
+and rehabilitation, emphasizing the need for strategies 
+that mitigate the negative effects of prolonged sedentary 
+behavior.
+Abbreviations
+LOS  Limits of Stability
+mCTSIB  Modified Clinical Test of Sensory Interaction on Balance
+PST  Postural Stability Test
+Acknowledgements
+Not applicable.
+Authors' contributions
+RZ, HM, and MK contributed to the study design and data collection. HM and 
+EE drafted the manuscript and made critical revisions. All authors read and 
+approved the final manuscript.
+Funding
+Not applicable.
+Data availability
+The experimental data that support the findings of this study are available in 
+Zenodo with the identifier: 10.5281/zenodo.18667751.
+Declarations
+Ethics approval and consent to participate
+Based on the Declaration of Helsinki, all stages of the study were explained 
+to the participants, and then written informed consent was obtained. Before 
+starting the investigation, study approval was obtained from the Biomedical 
+Research Ethics Committee of Tehran University (Ethics code: IR.UT.SPORT.
+REC.1403.08).
+Consent for publication
+We hereby confirm that all participants provided explicit written informed 
+consent for the publication of their personal or clinical data, as well as any 
+potentially identifiable images.
+Competing interests
+The authors declare no competing interests.
+Received: 7 February 2026 / Accepted: 17 April 2026
+References
+1. Kastelic K, Kozinc Ž, Šarabon N. Sitting and low back disorders: an overview 
+of the most commonly suggested harmful mechanisms. Coll Antropol. 
+2018;42(1):73–9.
+2. Szczygieł E et al. Musculo-skeletal and pulmonary effects of sitting position-a 
+systematic review. Ann Agric Environ Med. 2017;24(1).
+3. Hey HWD, et al. Slump sitting X-ray of the lumbar spine is superior to the 
+conventional flexion view in assessing lumbar spine instability. Spine J. 
+2017;17(3):360–8.
+4. Jung K-S, et al. Effects of Prolonged Sitting with Slumped Posture on Trunk 
+Muscular Fatigue in Adolescents with and without Chronic Lower Back Pain. 
+Medicina. 2021;57(1):3.
+5. O’Sullivan PB, et al. Effect of different upright sitting postures on spinal-pelvic 
+curvature and trunk muscle activation in a pain-free population. Spine. 
+2006;31(19):E707–12.
+6. Wong AY, et al. Do different sitting postures affect spinal biomechanics of 
+asymptomatic individuals? Gait Posture. 2019;67:230–5.
+7. Abbruzzese G, Berardelli A. Sensorimotor integration in movement disorders. 
+Mov Disord. 2003;18(3):231–40.
+8. Peterka RJ. Sensorimotor integration in human postural control. J Neuro-
+physiol. 2002;88(3):1097–118.
+9. Windhorst U. Muscle proprioceptive feedback and spinal networks. Brain Res 
+Bull. 2007;73(4–6):155–202.
+10. de Groot MH, et al. A flexed posture in elderly patients is associated 
+with impairments in postural control during walking. Gait Posture. 
+2014;39(2):767–72.
+11. Grace Gaerlan M, et al. Postural balance in young adults: the role of 
+visual, vestibular and somatosensory systems. J Am Acad Nurse Pract. 
+2012;24(6):375–81.
+12. Bronstein AM. Chap. 4 - Multisensory integration in balance control. 
+handbook of clinical neurology. Elsevier. 2016. p. 57–66. J.M. Furman and T. 
+Lempert, Editors.
+13. Donath L, et al. Leg and trunk muscle coordination and postural sway dur-
+ing increasingly difficult standing balance tasks in young and older adults. 
+Maturitas. 2016;91:60–8.
+14. Andreeva A, et al. Postural stability in athletes: The role of sport direction. Gait 
+Posture. 2021;89:120–5.
+15. Mochizuki L, et al. Changes in postural sway and its fractions in conditions of 
+postural instability. J Appl Biomech. 2006;22(1):51–60.
+16. Lehmann T, Paschen L, Baumeister J. Single-Leg Assessment of Postural 
+Stability After Anterior Cruciate Ligament Injury: a Systematic Review and 
+Meta-Analysis. Sports Med - Open. 2017;3(1):32.
+17. Kim M, et al. Specific muscle synergies in national elite female ice hockey 
+players in response to unexpected external perturbation. J Sports Sci. 
+2018;36(3):319–25.
+18. Borzucka D, et al. Postural control in top-level female volleyball players. BMC 
+Sports Sci Med Rehabilitation. 2020;12(1):65.
+19. Ruhe A, Fejer R, Walker B. Does postural sway change in association with 
+manual therapeutic interventions? A review of the literature. Chiropr Man 
+Ther. 2013;21(1):9.
+20. Paterno MV, et al. Altered postural sway persists after anterior cruciate liga-
+ment reconstruction and return to sport. Gait Posture. 2013;38(1):136–40.
+21. Grassi A, et al. Postural stability deficit could predict ankle sprains: a system-
+atic review. Knee Surg Sports Traumatol Arthrosc. 2018;26(10):3140–55.
+22. Demoulin C, et al. Lumbar functional instability: a critical appraisal of the 
+literature. Annales de readaptation et de medecine physique. Elsevier. 2007.
+23. La Greca S, et al. An Evaluation of Postural Balance in Single-leg and Double-
+leg Conditions in Patients with Reconstruction of the Anterior Cruciate 
+Ligament and Healthy Controls. Acta Kinesiologica. 2025;19(3):67–79.
+24. Dzakpasu FQS, et al. Musculoskeletal pain and sedentary behaviour in 
+occupational and non-occupational settings: a systematic review with meta-
+analysis. Int J Behav Nutr Phys Act. 2021;18(1):159.
+25. Sun L et al. Gender differences in the incidence and types of sports injuries 
+among female athletes: a scoping review. J Nurs Manag. 2025; p. 6416101.
+26. Hajihosseini E, Norasteh AA, Daneshmandi H. Comparison of isometric 
+strength and functional stability of shoulder girdle muscles in volleyball 
+women players with and without scapular dyskinesia. J Health Promotion 
+Manage. 2019;8(5):24–32.
+27. Dawson N, et al. Examining the reliability, correlation, and validity of 
+commonly used assessment tools to measure balance. Health Sci Rep. 
+2018;1(12):e98.
+28. Arifin N, Osman NAA, Abas WABW. Intrarater test-retest reliability of static and 
+dynamic stability indexes measurement using the Biodex Stability System 
+during unilateral stance. J Appl Biomech. 2014;30(2):300–4.
+29. Been E, Kalichman L. Lumbar lordosis. Spine J. 2014;14(1):87–97.
+30. Williams M, et al. Multifidus spasms elicited by prolonged lumbar flexion. 
+Spine (Phila Pa 1976). 2000;25(22):2916–24.
+31. Hodges P . Neuromechanical control of the spine. Karolinska Institutet; 2003.
+32. Hrysomallis C. Balance Ability and Athletic Performance. Sports Med. 
+2011;41(3):221–32.
+33. Cleland J, Durall C, Scott SA. Effects of slump long sitting on peripheral sudo-
+motor and vasomotor function: a pilot study. J Man Manipulative Therapy. 
+2002;10(2):67–75.
+
+===== PAGE 9 =====
+
+Page 9 of 9
+Zarnegar et al. BMC Sports Science, Medicine and Rehabilitation           (2026) 18:289 
+34. Riemann BL, Lephart SM. The Sensorimotor System, Part II: The Role of 
+Proprioception in Motor Control and Functional Joint Stability. J Athl Train. 
+2002;37(1):80–4.
+35. Shokri N, Yazdanpanah K, Ashtiani MN. Control mechanisms of sensorimotor 
+system on manipulation of proprioceptive inputs during balance mainte-
+nance. J Mot Behav. 2025; p. 1–9.
+36. Fryer G, Morris T, Gibbons P . Paraspinal muscles and intervertebral dysfunc-
+tion: part one. J Manip Physiol Ther. 2004;27(4):267–74.
+37. Mohapatra S, Krishnan V, Aruin AS. Postural control in response to an external 
+perturbation: effect of altered proprioceptive information. Exp Brain Res. 
+2012;217(2):197–208.
+38. Hodges PW. Changes in motor planning of feedforward postural responses 
+of the trunk muscles in low back pain. Exp Brain Res. 2001;141(2):261–6.
+39. Hodges PW, et al. Experimental muscle pain changes feedforward postural 
+responses of the trunk muscles. Exp Brain Res. 2003;151(2):262–71.
+40. Zemková E. Cognition and motion: Sensory processing and motor skill 
+performance in athletic training and rehabilitation. 2022, MDPI. p. 10345.
+41. Zwierzchowska A, et al. The importance of extrinsic and intrinsic compen-
+satory mechanisms to body posture of competitive athletes a systematic 
+review and meta-analysis. Sci Rep. 2022;12(1):8808.
+42. Parker TM, et al. Balance control during gait in athletes and non-athletes fol-
+lowing concussion. Med Eng Phys. 2008;30(8):959–67.
+43. Bonanno M, et al. Neural control meets biomechanics in the motor assess-
+ment of neurological disorders: a narrative review. Front Neural Circuits. 
+2025;19:1608328.
+44. Stokes IA. Analysis of symmetry of vertebral body loading consequent to 
+lateral spinal curvature. Spine. 1997;22(21):2495–503.
+45. Granata K, Wilson S. Trunk posture and spinal stability. Clin Biomech Elsevier 
+Ltd. 2001;16(8):650–9.
+46. Kasahara S, et al. Lumbar–pelvic coordination in the sitting position. Gait 
+Posture. 2008;28(2):251–7.
+47. Vassar RL, Rose J. Motor systems and postural instability. Handb Clin Neurol. 
+2014;125:237–51.
+48. Schaefer SY, Haaland KY, Sainburg RL. Hemispheric specialization and func-
+tional impact of ipsilesional deficits in movement coordination and accuracy. 
+Neuropsychologia. 2009;47(13):2953–66.
+49. Dideriksen JL, Negro F, Farina D. The optimal neural strategy for a stable 
+motor task requires a compromise between level of muscle cocontraction 
+and synaptic gain of afferent feedback. J Neurophysiol. 2015;114(3):1895–911.
+50. Lederman E. Neuromuscular rehabilitation in manual and physical therapy. 
+Volume 178. Elsevier; 2010.
+51. Doumas M, Morsanyi K, Young WR. Cognitively and socially induced stress 
+affects postural control. Exp Brain Res. 2018;236(1):305–14.
+52. Zemková E, Kováčiková Z. Sport-specific training induced adaptations in 
+postural control and their relationship with athletic performance. Front Hum 
+Neurosci. 2022;16:1007804.
+53. Borzucka D, Kręcisz K, Kuczyński M. Ground reaction forces better than center 
+of pressure differentiate postural control between young female volleyball 
+players and untrained peers. Sci Rep. 2024;14(1):5869.
+54. Srihi S, et al. Postural Balance in Young Tennis Players of Varied Competition 
+Levels. Percept Mot Skills. 2022;129(5):1599–613.
+55. Zemková E. Physiological Mechanisms of Exercise and Its Effects on Postural 
+Sway: Does Sport Make a Difference? Front Physiol. 2022;13:792875.
+56. Zemková E, Zapletalová L. The Role of Neuromuscular Control of Postural 
+and Core Stability in Functional Movement and Athlete Performance. Front 
+Physiol. 2022;13:796097.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

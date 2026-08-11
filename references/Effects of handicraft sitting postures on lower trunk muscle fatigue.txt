@@ -1,0 +1,498 @@
+===== PAGE 1 =====
+
+This article was downloaded by: [CDC Public Health Library & Information Center]
+On: 26 September 2012, At: 07:20
+Publisher: Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,
+37-41 Mortimer Street, London W1T 3JH, UK
+Ergonomics
+Publication details, including instructions for authors and subscription information:
+http://www.tandfonline.com/loi/terg20
+Effects of handicraft sitting postures on lower trunk
+muscle fatigue
+Pattanasin Areeudomwong a , Rungthip Puntumetakul b , David B. Kaber c , Sawitri Wanpen b
+, Naruemon Leelayuwat d & Uraiwan Chatchawan b
+a Department of Physical Therapy, Khon Kaen University, Khon Kaen, Thailand
+b Back, Neck and Other Joint Pain Research Group, Khon Kaen University, Khon Kaen,
+Thailand
+c Edward P . Fitts Department of Industrial & Systems Engineering, North Carolina State
+University, NC, USA
+d Department of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
+Version of record first published: 29 Mar 2012.
+To cite this article: Pattanasin Areeudomwong, Rungthip Puntumetakul, David B. Kaber, Sawitri Wanpen, Naruemon
+Leelayuwat & Uraiwan Chatchawan (2012): Effects of handicraft sitting postures on lower trunk muscle fatigue, Ergonomics,
+55:6, 693-703
+To link to this article:  http://dx.doi.org/10.1080/00140139.2012.658086
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use: http://www.tandfonline.com/page/terms-and-conditions
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to
+anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae, and drug doses should
+be independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims,
+proceedings, demand, or costs or damages whatsoever or howsoever caused arising directly or indirectly in
+connection with or arising out of the use of this material.
+
+===== PAGE 2 =====
+
+Eﬀects of handicraft sitting postures on lower trunk muscle fatigue
+Pattanasin Areeudomwong a, Rungthip Puntumetakul b*, David B. Kaber c, Sawitri Wanpen b,
+Naruemon Leelayuwat d and Uraiwan Chatchawan b
+aDepartment of Physical Therapy, Khon Kaen University, Khon Kaen, Thailand; bBack, Neck and Other Joint Pain Research Group,
+Khon Kaen University, Khon Kaen, Thailand; cEdward P. Fitts Department of Industrial & Systems Engineering, North Carolina
+State University, NC, USA; dDepartment of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
+(Received 1 September 2011; ﬁnal version received 11 January 2012 )
+The purpose of this study was to assess trunk muscle fatigue in seated handicraft tasks using surface
+electromyography (sEMG) and visual analogue scale (VAS) ratings for trunk discomfort, and to assess the
+relationship of these responses. Twenty-three participants were randomly assigned to assumed crossed-leg and
+heel sitting postures for 30 min. Normalised median frequency (NMF) slopes for lumbar multiﬁdus (LM) and
+internal oblique (IO) muscles and VAS ratings were recorded. Results revealed that the crossed-leg posture produced
+signiﬁcantly steeper NMF slopes for both sides of the LM and IO muscles than heel sitting. Greater VAS
+ratings were found in crossed-leg sitting posture than the heel sitting posture. The NMF slopes and the VAS ratings
+had signiﬁcant negative correlations for both postures. Findings support heel sitting in handicraft tasks over
+crossed-leg sitting due to greater trunk muscle fatigue and discomfort during the latter posture. Results support
+VAS ratings as a complementary method to sEMG for identifying trunk muscle fatigue.
+Practitioner Summary: Trunk muscle fatigue in handicraft work is a potential risk for low back pain. Based on
+EMG and discomfort analyses, heel sitting is preferred to crossed-leg posture. Discomfort ratings are consistent
+with EMG measures in identifying trunk muscle fatigue in such postures.
+Keywords: trunk muscle fatigue; body discomfort; surface electromyography; visual analogue scale; normalised
+median frequency slope
+1. Introduction
+Handicraft work is one of the major export products in Southeast Asia, including Thailand. In 2005, it
+was estimated that approximately 1.08 million Thai people worked in domestic or cottage industries
+making handicrafts (Oﬃce of the National Economic and Social Development Board 2009). Of these persons,
+54.3% are males (Teeratrakul et al. 2009). Due to the nature of work tasks in these industries and the
+available workstation resources, workers use ﬂoor-sitting postures and are not likely to use chairs or western
+sitting styles. Floor sitting postures, particularly crossed-leg and heel sitting postures, are popular among Thai
+people for these types of activities (see Figure 1). Workers often assume such postures for prolonged periods,
+which is likely to be one risk factor for low back pain (LBP) (Solomonow et al. 2003, Keawduangdee et al.
+2011).
+Prolonged non-neutral static postures, such as seated postures, can increase the fatigability of the lumbo-pelvic
+muscles, particularly the lumbar multiﬁdus (LM) and internal oblique (IO) muscles (Harrison et al. 1999). These
+muscles represent a local system for counterbalancing compressive forces on the upper lumbar segment of the spine
+and to increase lumbar stability (Kavcic et al. 2004) throughout the sitting period. Sustained contraction of these
+back muscles in seated postures has been identiﬁed as a cause of increased back muscle fatigue (van Diee ¨ n et al.
+1997) and may eventually lead to development of LBP (Frymoyer et al. 1980, Wilder et al. 1988). Although previous
+research has reported ﬁndings on the eﬀect of seated postures on back muscle activity and fatigue (Nag et al. 1986),
+to date no study has evaluated LM and IO muscle fatigue in ﬂoor sitting postures, particularly in crossed-leg and
+heel sitting postures in Thai cottage industry workers. The correlation of measures of muscle fatigue and discomfort
+has also not been assessed in this work context.
+Surface electromyography (sEMG) is a non-invasive muscle activity measurement method that can also be
+used to objectively assess muscle fatigue (De Luca 1993, Dedering et al. 1999, 2002) and fatigue rates. Fatigue
+during sustained contractions is characterised by a shift in the power spectrum of the EMG signal or spectral
+*Corresponding author. Email: rungthip@kku.ac.th
+Ergonomics
+Vol. 55, No. 6, June 2012, 693–703
+ISSN 0014-0139 print/ISSN 1366-5847 online
+/C2112012 Taylor & Francis
+http://dx.doi.org/10.1080/00140139.2012.658086
+http://www.tandfonline.com
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 3 =====
+
+compression (Ng et al. 1997). The median frequency (MF) value is the most commonly used outcome
+measurement of sEMG for assessing muscle fatigue (De Luca 1997, Mannion et al. 1997, Roy et al. 1997,
+Sparto et al. 1997). A decrease in the MF of the EMG power spectrum or a decrease in its slope during an
+isometric contraction is an indicator of myoelectric muscle fatigue (Biedermann et al. 1991, De Luca 1997). In
+general, the slope of the MF reﬂects muscle fatigue and has been widely used to predict and investigate back
+muscle fatigue (Biedermann et al. 1991).
+Many subjective measurement techniques have been developed in the literature for assessing body discomfort,
+including Borg ratings (Dedering et al. 1999, 2002, Yassierli and Nussbaum 2007) and the visual analogue scale
+(VAS) ratings (Lyons et al. 1993, Kumar 2006). The VAS is a general instrument that can be customised to
+applications in terms of scale conﬁguration. For example, VAS scales have been used to measure trunk discomfort
+(Kumar 2006). VAS ratings of postural comfort are inexpensive, eﬃcient and practical for almost any ﬁeld setting.
+Lyons et al. (1993) also demonstrated the use of VAS ratings to measure fatigue of masseter and temporalis muscles.
+They found a signiﬁcant relationship between VAS ratings and MF shift of EMG. However, no previous research
+has studied handicraft ﬂoor sitting postures using sEMG measures of lower trunk muscle fatigue and VAS ratings
+of discomfort.
+Therefore the purpose of this study was to: (1) assess trunk muscle fatigue in seated handicraft tasks using
+sEMG analysis along with lower trunk discomfort using VAS ratings and (2) identify any relationship between VAS
+ratings and sEMG measures as indicators of muscle fatigue.
+2. Methods
+2.1. Participants
+Twenty-three healthy Thai male participants were recruited for the study from the general population of the
+Khon Kaen City area. We elected to study male subjects, in part, based on the demographics of the Thai
+cottage industry working population and to provide some initial insight into the role of common work postures
+in muscle activity and back pain. Participants had a mean age of 21.6 years (SD ¼ +2.55, range ¼ 20–30),
+mean height of 168.57 cm (SD ¼+ 4.57, range ¼ 161–180), and mean weight of 58.16 kg (SD ¼+ 5.38,
+range ¼ 50–68). All participants reported daily work activities involving the crossed-leg and heel sitting postures
+(on a ﬂoor) for at least 30 min. Furthermore, all participants reported experience in these postures for at least
+eight years. We ensured through an initial survey that participants had similar levels of experience with the test
+postures through their work activities.
+None of the participants reported LBP in advance of testing nor did they have documented spinal disorders (e.g.
+scoliosis, spondylolisthesis, lumbar herniated nucleus palposus, ankylosing spondylitis), neurological conditions
+(numbness or loss of sensation in the trunk and/or legs before testing), recent lumbo-pelvic and/or abdominal
+surgery, or abnormal muscle contractions. The participants also did not exhibit pain symptoms during rest or test
+periods (including back pain, leg pain or numbness at the back or their legs). All participants signed an informed
+consent form to participate in the study. The study was approved by the Ethics Committee for Human Research at
+Khon Kaen University.
+Figure 1. Images of Thai handicraft work being performed in typical crossed-leg and heel sitting postures.
+694 P. Areeudomwong et al.
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 4 =====
+
+2.2. Experiment design
+2.2.1. Variables
+The independent variable for this study was the type of sitting posture, including: crossed-leg and heel sitting
+postures. These postures were observed in visits to domestic and cottage workshops producing handicrafts in the
+Khon Kaen area. The postures were assumed by the vast majority of workers and for extended periods of time of
+30 min or greater. The dependent variables included normalised MF slope using sEMG for measuring lower trunk
+muscle fatigue in the sitting postures and lower trunk discomfort ratings using a VAS presented to participants at
+the end of sitting periods. A within-subjects design was followed in which all participants were exposed to the two
+posture positions. The order of the exposure was randomised across participants.
+2.2.2. Procedures
+The study was conducted in the Associated Medical Sciences Laboratory at Khon Kaen University. Although the
+intent was to demonstrate the impact of actual industry work task postures on muscle fatigue and discomfort, a
+controlled lab investigation was initially conducted to isolate posture position eﬀects on the responses as well as any
+relation among the sEMG measures and VAS ratings. This study was expected to motivate a follow-on ﬁeld
+investigation. For each participant, the experiment was administered across two consecutive days with a 24-hr break
+between sessions. The equivalent of a one-day ‘wash-out period’ was used between postures according to the
+methodology described by Jones et al. (2004).
+Participants were initially provided with a familiarisation session outlining the two sitting postures. They were
+also shown pictures of the postures, as typically assumed by workers in Thai cottage industry during daily work
+tasks. Participants practiced the sitting postures until they could readily assume and maintain the task position.
+Subsequently, a researcher asked the participants to rest in a supine lying position for 10 min (Jones et al. 2004).
+Participants then sat unsupported on a cushion for 30 min in the crossed-leg or heel sitting posture depending upon
+their random sequence assignment. During the sitting period, a small vertical stand was placed behind participants
+and they were instructed by a researcher to adjust their posture position in order to maintain point of contact
+between the stand and the L3 spinous process level on the back. Participants did not lean or apply any signiﬁcant
+pressure to the stand. In addition, all participants were instructed to look at a designated point 1.5 m in front of
+them at seated eye level.
+To perform the crossed-leg sitting posture, participants were asked to sit with their thorax relaxed. Both hips
+and knees were ﬂexed with the calf of each leg placed on the top of the opposite foot with the lower leg resting on the
+cushion (see Figure 2a; posture referenced from [Thailand] Oﬃce of the National Culture Commission 2009). To
+perform the heel sitting posture, participants were asked to sit with their thorax relaxed. Both hips and knees were
+fully ﬂexed and contacted the seat cushion, and both feet were in dorsiﬂexion with ischial tuberosities resting on the
+heels (see Figure 2b; posture referenced from Oﬃce of the National Culture Commission 2009). Each sitting posture
+was performed for 30 min on separate days.
+2.2.3. Data collection
+The skin over the boundaries of both sides of the LM and IO muscles was prepared by shaving hair at electrode
+sites, cleaning sites with alcohol and abrading skin using ﬁne sandpaper in order to reduce skin impedance to less
+than 5 k O (Hermens et al. 2000). Two pairs of active adhesive disposable Ag/AgCl disc surface electrodes (EL 503,
+BIOPAC Systems, California) were then placed parallel to the both sides of the muscles (O’Sullivan et al. 2006). For
+the LM muscle, this was a location at the level of the L5 vertebrae, parallel to an imaginary line between the
+posterior superior iliac spine and the L1–L2 interspinous space (De Foa et al. 1989). For the IO muscle, this was a
+location 1 cm from the anterior superior iliac spine towards the median plane (De Luca 1993). The centre-to-centre
+distance of electrodes was 2.5 cm. Two ground electrodes were placed on both anterior superior iliac spines and iliac
+crests. Snap leads were connected between surface electrodes and ampliﬁers to transfer signals, and all electrodes
+were taped to avoid lead movement.
+A Biopac MP 35 sEMG system (Goleta, California) was used to continuously record EMG signals during the
+sitting periods. The sampling rate was 1000 Hz with a signal ampliﬁcation of gain 6 1000 and a common mode
+rejection ratio (CMRR) of 85 dB. A bandpass ﬁlter was applied to the data with lower and upper cutoﬀ frequencies
+of 30 Hz and 500 Hz, respectively. A personal computer with an A/D converter was used to analyse the EMG data.
+A Fast Fourier Transform (FFT) was applied with 1-s data epochs (including 1000 data points) and used to
+Ergonomics 695
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 5 =====
+
+calculate the signal spectrum (Stulen and De Luca 1981). All test trial MF data were normalised based on
+participant initial MF values at rest. Linear regression analysis was applied to the normalised MF observations
+(1800) during each 30-min sitting period in order to determine the normalised MF slope (NMF slope). The NMF
+slope was deﬁned as the MF slope divided by the initial MF value and expressed in per cent per second.
+In order to assess lower trunk discomfort, a VAS was presented to participants at the end of each 30-min sitting
+period. The scale was based on Kumar’s (2006) research and was a 10 cm horizontal line with anchors at the two
+ends reading ‘no discomfort at all’ and ‘worst imaginable discomfort’. The ratings were also used to identify any
+correlation of lower trunk discomfort with sEMG measures of trunk muscle fatigue.
+2.2.4. Hypotheses
+Kiefer et al. (1998) claimed that muscle activation in a neutral sitting posture, under upper body load, involves a subtle
+but distinct local muscle recruitment pattern, especially for the LM and IO muscles, in order to maintain an equilibrium
+posture. On this basis and Harrison et al. (1999) ﬁndings, it was expected that prolonged exposure to the crossed-leg
+and heel sitting postures would lead to fatigue of the trunk muscles, speciﬁcally the LM and IO muscles (Hypothesis (H)
+1). Since heel sitting represented a near-neutral sitting posture, it was hypothesised to produce less fatigue in the lower
+trunk muscles and discomfort when compared with the crossed-leg sitting posture (H2).
+It was further expected that the EMG measures of LM and IO muscle fatigue in the ﬂoor sitting postures would
+be related to the VAS discomfort ratings. Normalised MF slope was expected to be negatively correlated with VAS
+ratings; that is, as lower trunk muscle fatigue increased (and the NMF slope decreased), lower trunk discomfort
+ratings were expected to increase over the period of sitting (H3). This expectation was based on prior observation of
+a dependence among objective and subjective measures of muscle fatigue and discomfort, respectively (Dedering
+et al. 1999, Vergara and Page 2002) as well as Lyons et al. (1993) ﬁndings that VAS ratings were an indicator of
+masticatory muscle fatigue.
+2.2.5. Statistical analysis
+SPSS version 19.0 for Windows (Chicago, IL) was used for all statistical analyses. Diagnostics were initially performed
+on the NMF slope response determined for both sides of the LM and IO muscles for each participant in each sitting
+posture for the 30 min test period. Shapiro–Wilk’s test results revealed the MF data to conform with the normality
+assumption for parametric statistical tests. Levine’s test conﬁrmed conformance of the MF data with the parametric test
+assumption of constant variance. The data were subsequently analysed using a two-way analysis of variance (ANOVA)
+with sitting posture and muscle as the independent variables. When a signiﬁcant sitting posture 6 muscle interaction
+eﬀect was detected, pair-wise comparisons were used to examine diﬀerences between the postures for each muscle.
+Figure 2. (a) Crossed-leg sitting posture. (b) Heel sitting posture.
+696 P. Areeudomwong et al.
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 6 =====
+
+Lower trunk muscle discomfort, measured by VAS ratings, was compared between the crossed-leg and heel
+sitting postures with independent t-test.
+For the correlation analyses on the two response measures, Pearson product–moment correlation coeﬃcients ( r)
+were determined to quantify the degree of linear association between the NMF slope for the right LM and IO
+muscles and the VAS ratings in the crossed-leg and heel sitting postures. We assumed equal fatigue rates for both
+sides of the muscles in symmetrical sitting postures. An alpha level of 0.05 was deﬁned as representing statistical
+signiﬁcance. Interpretation of the correlation coeﬃcients was as follows: 0.0–0.25 – little correlation; 0.26–0.49 – low
+correlation; 0.50–0.69 – moderate correlation; 0.70–0.89 – high correlation and 0.90–1.00 – very high correlation.
+3. Results
+A two-way ANOVA was applied to the mean magnitude of the NMF slope response. Results revealed a statistically
+signiﬁcant sitting posture 6 muscle interaction eﬀect on the slope ( F(3,176) ¼ 2.949, p ¼ 0.034) (see Table 1 and
+Figure 3). Pair-wise comparisons revealed the crossed-leg sitting posture to produce a signiﬁcantly steeper NMF
+slope (more negative) for both sides of LM and IO muscles than the heel sitting posture ( p 5 0.001). The mean
+diﬀerences in NMF slope between the two sitting postures were: 70.062 + 0.025%/s for right LM muscle (with
+95% conﬁdence interval, CI 7 0.072 to 7 0.053); 70.064 + 0.018%/s for left LM muscle (with 95% CI 7 0.073
+to 7 0.055); 7 0.077 + 0.021%/s for right IO muscle (with the 95%CI 7 0.086 to 7 0.068); and 7 0.077 + 0.019%/
+s for left IO muscle (with the 95% CI 7 0.086 to 7 0.068).
+A t-test revealed signiﬁcantly greater discomfort in the lower trunk ( t(44) ¼ 3.722, p ¼ 0.001), measured with the
+VAS, for the crossed-leg sitting posture than for the heel sitting posture. The mean diﬀerence between the postures
+was 2.01 + 1.86 cm, 95%CI 0.92 to 3.09; p ¼ 0.001) (see Figure 4).
+Table 1. Two-way analysis of variance (ANOVA) testing the eﬀects of sitting posture and muscle on mean magnitude of
+normalised median frequency slope ( n ¼ 23).
+Eﬀect df F-value p-value
+Posture 1 909.929 50.001*
+Muscle 3 10.701 50.001*
+Posture 6 muscle 3 2.949 50.034*
+Note: n ¼ group size; *statistically signiﬁcant ( p 5 0.05).
+Figure 3. Means and standard deviation (SD) of NMF slope (%) for right lumbar multiﬁdus (Rt. LM), left lumbar multiﬁdus
+(Lt. LM), right internal oblique (Rt. IO) and left internal oblique (Lt. IO) for the crossed-leg sitting posture (dash line) and heel
+sitting posture (solid line) ( n ¼ 23) (* p 5 0.001).
+Ergonomics 697
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 7 =====
+
+The correlation analyses yielded coeﬃcients demonstrating highly signiﬁcant negative linear associations
+between the NMF slope and the VAS ratings of discomfort for the right LM and IO muscles in the crossed-leg
+sitting posture ( r ¼7 0.85 for right LM muscle; p 5 0.001, and r ¼70.86 for right IO muscle; p 5 0.001).
+Similarly, Pearson product–moment coeﬃcients revealed highly signiﬁcant negative correlations among the
+EMG response and the VAS ratings in the heel sitting posture ( r ¼ 70.84 for right LM muscle; p 5 0.001, and
+r ¼70.85 for right IO muscle; p 5 0.001). The correlation analysis results are also presented in Figure 5. The results
+for the left LM and IO muscles were similar to those shown for the right side.
+4. Discussion
+The purpose of this study was to assess trunk muscle fatigue in seated handicraft tasks using sEMG analysis
+and VAS ratings for lower trunk discomfort, and to identify any relation of sEMG and VAS ratings for
+indicating trunk muscle fatigue in cottage industry work tasks. In general, we found that the crossed-leg and
+heel sitting postures were fatiguing to the LM and IO muscles. This ﬁnding supported H1. Results also
+indicated that fatigue and VAS ratings for lower trunk discomfort were greater for the crossed-leg versus heel
+sitting posture for the 30-min sitting period. These results supported H2. In addition, muscle fatigue was
+signiﬁcantly correlated with VAS ratings, speciﬁcally decreases in NMF slope occurred with increases in
+discomfort ratings during both crossed-leg and heel sitting. This ﬁnding supported H3. On the basis of these
+results, it can be inferred that trunk muscle fatigue led to the development of perceptions of discomfort for
+participants in the seated postures. Furthermore, it appears that the heel sitting posture is more resistant to
+lower trunk muscle fatigue and lower trunk discomfort than the crossed-leg sitting posture. In addition, the
+objective and subjective assessments of muscle fatigue are largely concordant for the speciﬁc task postures
+examined in this study. Below we provide some explanations for these ﬁndings.
+Although the crossed-leg and heel sitting postures are both symmetrical ﬂoor sitting postures, when observing
+participants during the two data collection sessions, the lumbo-pelvic posture position was found to be diﬀerent.
+The diﬀerence in postures may have resulted from diﬀerent centres of gravity which result from diﬀerent positioning
+of the trunk. Consequently, the two postures require diﬀerent levels of LM and IO muscle activities to maintain
+position. Trunk position in diﬀerent unsupported sitting postures could preferentially facilitate distinct LM and IO
+activations (O’Sullivan et al. 2006). Furthermore, it has been reported that the activation of low back muscles,
+especially the LM muscle, can be highly related to fatigue (van Diee ¨ n et al. 1993). Thus, it is likely that the
+biomechanical diﬀerence of the trunk position aﬀected trunk muscle fatigue at diﬀerent levels (Champagne et al.
+2008).
+There are two possible explanations for the ﬁnding that crossed-leg sitting produced greater LM and IO muscle
+fatigue and discomfort ratings for the lower trunk than the heel sitting posture. First, the crossed-leg sitting posture
+may have a mechanical disadvantage compared to the heel sitting posture. In the crossed-leg sitting posture, the hip
+Figure 4. Means and standard deviation (SD) of VAS (cm) at 30 min for the crossed-leg and heel sitting postures ( n ¼ 23)
+(*p ¼ 0.001).
+698 P. Areeudomwong et al.
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 8 =====
+
+Figure 5. Correlation between the NMF slope and VAS of right lumbar multiﬁdus muscle (A) and right internal oblique muscle (B) in the crossed-leg sitti ng posture, and
+right lumbar multiﬁdus muscle (C) and right internal oblique muscle (D) in heel sitting posture ( n ¼ 23).
+Ergonomics 699
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 9 =====
+
+joint was at approximately 90 degrees of ﬂexion and almost fully externally rotated. This particular position of the
+joint may cause the sitter to lean their trunk forward due to decreased thigh-trunk angle (Harrison et al. 1999). This
+trunk posture, with the line of thrust from the centre of gravity passing in front of the spine and ischial tuberosities,
+would cause greater LM and IO muscle activity, and more rapidly lead to fatigue due to an increasing ﬂexor
+moment arm at the lumbar spine (see Figure 6). Although Nag et al. (1986) observed that back muscle activity was
+reduced in a crossed-leg sitting posture, they measured erector spinae muscle activity, which is located at a
+superﬁcial level in the back and only acts as a prime mover in posture positioning. In contrast, the LM muscle acts
+as a synergist (stabilisation) muscle in the crossed-leg sitting posture (Bergmark 1989). Thus, the LM muscle may
+increase in activity in order to maintain the stability of the sitting posture. Second, the LM muscle may be passively
+stretched by inclination of the forward trunk as eﬀected in the crossed-leg sitting posture. The muscle then increases
+in tension to pull on the lumbar spine and resists the increase of the ﬂexor moment arm. This tension maintains
+equilibrium of the sitting posture and prevents the individual from falling forward (Corlett 2008). The tension
+generation of the muscle may contribute to a greater sensation of discomfort in the lower trunk by stimulating
+mechanoreceptors located in muscles and tendons (Keyserling et al. 2005). While the LM is being passively
+stretched, the IO muscle may respond by increasing its co-contraction activity to balance forces with the other back
+muscles; ultimately, this would induce greater IO muscle fatigue in the crossed-leg sitting posture.
+With greater trunk erection in the heel sitting posture, the LM and IO muscles are comparatively less active than
+in crossed-leg sitting, since the centre of gravity passes posteriorly and nearer to the fulcrum of the lumbar spine.
+Thus, the heel sitting posture can be described as a near-neutral sitting posture. In addition, the heel sitting posture
+may produce a lower ﬂexor moment arm for the upper body (see Figure 7). Kiefer et al. (1998) claimed that muscle
+activation in the neutral sitting posture, under upper body load, may cause a subtle but distinct recruitment pattern
+among local muscles, especially the LM and IO, in order to maintain an equilibrium posture. We also observed that
+the lordotic curve of the lumbar spine in heel sitting more closely approximated the curve of the spine when
+standing. The LM muscle in heel sitting may also be less passively stretched as compared to crossed-leg sitting;
+therefore, the heel sitting posture showed less LM and IO fatigue. Related to this, VAS ratings for the heel sitting
+posture were lower than for crossed-leg sitting, corresponding with lower LM and IO muscle fatigue.
+Results clearly revealed that NMF slopes for the right LM and IO muscles decreased as VAS ratings increased
+(representing higher trunk discomfort). This may be due, in part, to the susceptibility of the trunk muscles to
+Figure 6. Flexor moment arm of lumbar multiﬁdus muscle and centre of gravity of the participant while in the crossed-leg
+sitting posture.
+Figure 7. Flexor moment arm of lumbar multiﬁdus muscle and centre of gravity of the participant while in the heel sitting
+posture.
+700 P. Areeudomwong et al.
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 10 =====
+
+fatigue, leading to increased segmental instability (Hansen et al. 1998) and discomfort. Sustained static muscle
+contraction without trunk movement in such postures may induce metabolite accumulation in the trunk muscles
+and lead to fatigue development (Pope et al. 2002). Related to this, previous research proposed that prolonged
+sitting positions may cause trunk muscle fatigue (Frymoyer et al. 1980, Wilder et al. 1988). Among other actions,
+the LM and IO muscles provide lumbo-pelvic stability and directly control lumbar spinal segments (O’Sullivan et al.
+2006). Fatigue of these muscles may lead to decreased stability of the lumbar spine (Todd et al. 2007). Such
+segmental instability may cause overloading of vertebral structures (Hansen et al. 1998, Pope et al. 2002).
+Overloading of the vertebral structures and development of lower trunk muscle fatigue during prolonged sustained
+contraction may provoke the observed discomfort in the lower trunk of sitters (Hansen et al. 1998, Allen et al.
+2008). Although, one prior study did ﬁnd a signiﬁcant correlation between MF and VAS ratings (Lyons et al. 1993),
+results were based on masseter and temporalis muscle responses. This study focused on trunk MF and discomfort in
+common industry work postures.
+Previous research has indicated that participants may over- or under-estimate feelings of ‘lower trunk
+discomfort’ versus ‘pain’ when using the VAS ratings (Callaghan et al. 2010). However, other research indicates this
+ﬁnding may be dependent on participant experience with the measurement methodology (Dedering et al. 2002). For
+this reason, all participants in this study were familiarised and had practice with the VAS ratings before data
+collection. Subjective ratings using VASs may also depend on participant prior experiences of physical tasks and
+coping strategies. Participants in this study were all consistently trained in the two sitting postures before data
+collection. Consequently, all participants had suﬃcient experience with the speciﬁc VAS to make accurate ratings of
+postural discomfort based on their feelings. Related to this, the VAS ratings of discomfort by experienced
+participants could be used to describe seat comfort and as a basis for design.
+The ﬁndings of this study suggest that a heel sitting posture is superior to a crossed-leg posture in terms of trunk
+muscle fatigue and discomfort, when workers need to perform ﬂoor activities. This ﬁnding is not limited in
+applicability to handicraft workers in Thailand, as such postures are adopted in a variety of occupational and
+domestic settings in many countries throughout Asia and Africa. For example, similar and extended crossed-leg
+postures are assumed by workers in African countries and India involved in clay pottery making tasks in which the
+product is held between the legs or adjacent to the legs.
+There are some limitations of this study that should be noted relative to application of the results. First, the
+heel sitting posture investigated here may not be a possible position for people to maintain, if they have knee
+and/or ankle pain. This posture is likely to produce more compressive force on the knees and ankles and would
+not be comfortable or healthy for such individuals. Second, it is important to note that we only investigated
+fatigue in the LM and IO muscles in very speciﬁc sitting postures, including crossed-leg and heel sitting.
+Therefore, this study does not reﬂect fatigue in other areas of the body in diﬀerent posture positions. Third,
+ischemic eﬀects and pain or numbness in the legs during sitting might have inﬂuenced LM and IO muscle
+fatigue and perceptions of discomfort, confounding participant VAS ratings. For this reason, advance screening
+of participant condition was conducted; however, it is possible that some persons had prior conditions. Fourth,
+this study included only male participants. Although the observed demographics of workers in the Thai cottage
+industry (Teeratrakul et al. 2009) include a slight majority of males, females account for approximately 45% of
+the current working population. Consequently, additional data is needed on the female segment of the
+handicraft worker population for making further inferences about muscle activity level and pain. Finally, this
+study was conducted in a laboratory setting. Future studies should include female participants and be
+conducted in ﬁeld settings in order to promote the validity of results.
+5. Conclusion
+The ﬁndings of this study revealed that ﬂoor sitting postures in handicraft work can be fatiguing to lower trunk
+muscles and cause low back discomfort over time. Among common postures observed in Thai handicraft industries,
+heel sitting may be a preferred posture choice when performing work tasks on a ﬂoor. The heel sitting posture causes
+less fatigue in lower trunk muscles and discomfort than a common crossed-leg sitting posture in a healthy person
+without pre-existing knee and ankle pain. It is also superior in terms of these responses during prolonged ﬂoor
+activity (30 min). In addition, ﬁndings reveal that VAS discomfort ratings are a complementary indicator of lower
+trunk muscle fatigue levels to sEMG for cottage industry work tasks.
+Future studies should be conducted on fatigue and discomfort measurement in both trunk and leg muscles in
+other ﬂoor sitting postures. Finally, this study did not address the issue of whether lower trunk discomfort in
+participants is inﬂuenced by central or peripheral fatigue mechanisms or both. Therefore, it would be worthwhile for
+Ergonomics 701
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 11 =====
+
+future studies to discriminate causes of lower trunk discomfort when maintaining crossed-leg and heel sitting
+postures, as well as other postures.
+Acknowledgements
+This study was supported by grants from the Back, Neck and Other Joint Pain Research Group, the Research and Training
+Centre for Enhancing Quality of Life of Working-Age People, and Khon Kaen University. David Kaber’s work on this study
+was supported by a grant from the US National Institute for Occupational Safety & Health (NIOSH) (No. 2 T42 OH008673–06).
+The opinions expressed in this article are those of the authors and do not necessarily reﬂect the views of NIOSH.
+References
+Allen, D.G., Lamb, G.D., and Westerblad, H., 2008. Skeletal muscle fatigue: cellular mechanisms. Physiological Reviews , 88,
+287–332.
+Bergmark, A., 1989. Stability of the lumbar spine. A study in mechanical engineering. Acta Orthopedica Scandinavica Suppl , 230,
+1–54.
+Biedermann, H.J., Shanks, G.L., Forrest, W.J. and Inglis, J., 1991. Power spectrum analyses of electromyographic activity.
+Spine, 16, 1179–1184.
+Callaghan, J.P., Gregory, D.E., and Durkin, J.L., 2010. Do NIRS measures relate to subjective low back discomfort during
+sedentary tasks? International Journal of Industrial Ergonomics , 40, 165–170.
+Champagne, A., Descarreaux, M., and Lafond, D., 2008. Back and hip extensor muscles fatigue in healthy subjects: task-
+dependency eﬀect of two variants of the Sorensen test. European Spine Journal , 17, 1721–1726.
+Corlett, E.N., 2008. Sitting as a hazard. Safety Science , 46, 815–821.
+Dedering, A˚ ., Nemeth, G., and Harms-Ringdahl, K., 1999. Correlation between electromyographic spectral changes and subjective
+assessment of lumbar muscle fatigue in subjects without pain from the lower back. Clinical Biomechanics, 14, 103–111.
+Dedering, A˚ ., Oddsson, L., Harms-Ringdahl, K. and Ne ´ meth, G., 2002. Electromyography and rating of lumbar muscle fatigue
+using a four-level staircase protocol. Clinical Biomechanics , 17, 171–176.
+De Foa, J.L., Forrest, W., and Biedermann, H.J., 1989. Muscle ﬁbre direction of longissimus, iliocostalis and multiﬁdus:
+landmark-derived reference lines. Journal of Anatomy , 163, 243–247.
+De Luca, C.J., 1993. Use of the surface EMG signal for performance evaluation of back muscles. Muscle & Nerve , 16, 210–216.
+De Luca, C.J., 1997. The use of surface electromyography in biomechanics. Journal of Applied Biomechanics , 113, 135–163.
+Frymoyer, J.W., Pope, M.H., Costanza, M.C., Rosen, J.C., Goggin, J.E. and Wilder, D.G., 1980. Epidemiologic studies of low
+back pain. Spine, 5, 419–423.
+Hansen, L., Winkel, J., and Jørgensen, K., 1998. Signiﬁcance of mat and shoe softness during prolonged work in upright
+position: based on measurements of low back muscle EMG, foot volume changes, discomfort and ground force reactions.
+Applied Ergonomics , 29, 217–224.
+Harrison, D.D., Harrison, S.O., Croft, A.C., Harrison, D.E. and Troyanovich, S.J., 1999. Sitting biomechanics part I: review of
+the literature. Journal of Manipulative and Physiological Therapeutics , 22, 594–609.
+Hermens, H.J., Feriks, B., Disselhorst-Klug, C. and Rug, G., 2000. Development of recommendations for SEMG sensors and
+sensor placement procedures. Journal of Electromyography and Kinesiology , 10, 361–374.
+Jones, D., Round, J., and de Haan, A., 2004. Skeletal muscle from molecules to movement . London: Churchill Livingstone.
+Kavcic, N., Grenier, S., and McGill, S.M., 2004. Determining the stabilizing role of individual torso muscles during
+rehabilitation exercises. Spine, 29, 1254–1265.
+Keawduangdee, P., Puntumetakul, R., Chatchawan, U. and Kaber, D. (2012). Prevalence and associated risk factors of low-back
+pain in textile ﬁshing net manufacturing. Human Factors and Ergonomics in Manufacturing & Service Industries , (in press).
+Keyserling, W.M., Sudarsan, S.P., Martin, B.J., Haig, A.J. and Armstrong, T.J., 2005. Eﬀects of low back disability status on
+lower back discomfort during sustained and cyclical trunk ﬂexion. Ergonomics, 48, 219–233.
+Kiefer, A., Shirazi-Adl, A., and Parnianpour, M., 1998. Synergy of the human spine in neutral postures. European Spine Journal ,
+7, 471–479.
+Kumar, S., 2006. Localized muscle fatigue: Review of three experiments. Revista Brasileira de Fisioterapia , 10, 9–28.
+Lyons, M.F., Rouse, M.E., and Baxendale, R.H., 1993. Fatigue and EMG changes in the masseter and temporalis muscles
+during sustained contractions. Journal of Oral Rehabilitation , 20, 321–331.
+Mannion, A.F., Dumas, G.A., Cooper, R.G., Espinosa, F.J., Faris, M.W. and Stevenson, J.M., 1997. Muscle ﬁbre size and type
+distribution in thoracic and lumbar regions of erector spinae in healthy subjects without low back pain: normal values and
+sex diﬀerences. Journal of Anatomy , 190, 505–513.
+Nag, P.K., Chintharia, S., Saiyed, S. and Nag, A., 1986. EMG analysis of sitting work postures in women. Applied Ergonomics,
+17, 195–197.
+Ng, J.K.F., Richardson, C.A., and Jull, G.A., 1997. Electromyographic amplitude and frequency changes in the iliocostalis
+lumborum and multiﬁdus muscles during a trunk holding test. Physical Therapy , 77, 954–961.
+Oﬃce of the National Culture Commission, 2009. Crossed sitting and heel sitting postures [online]. Available from: http://
+www.culture.go.th/knowledge/action/sit.htm. [Accessed 13 March 2009].
+Oﬃce of the National Economics and Social Development Board, 2009. Textile industry [online]. Available from: http://
+www.nesdb.go.th/Portals/0/tasks/dev-ability/Proﬁle/industry [Accessed 4 June 2009].
+O’Sullivan, P.B., Dankaerts, W., Burnett, A.F., Farrell, G.T., Jeﬀord, E., Naylor, C.S. and O’Sullivan, K.J., 2006. Eﬀect of
+diﬀerent upright sitting postures on spinal-pelvic curvature and trunk muscle activation in a pain-free population. Spine, 31,
+707–712.
+702 P. Areeudomwong et al.
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012
+
+===== PAGE 12 =====
+
+Pope, M.H., Goh, K.L., and Magnusson, M.L., 2002. Spine ergonomics. Annual Review of Biomedical Engineering , 4, 49–68.
+Roy, S.H., De Luca, C.J., Emley, M., Oddsson, L.I., Buijs, R.J., Levins, J.A., Newcombe, D.S. and Jabre, J.F., 1997. Classiﬁcation
+of back muscle impairment based on the surface electromyographic signal. Journal of Rehabilitation Research and Development,
+34, 405–414.
+Solomonow, M., Baratta, R.V., Banks, A., Freudenberger, C. and Zhou, B.H., 2003. Flexion-relaxation response to static
+lumbar ﬂexion in males and females. Clinical Biomechanics , 18, 273–279.
+Sparto, P.J., Parnianpour, M., Reinsel, T.E. and Simon, S., 1997. Spectral and temporal responses of trunk extensor
+electromyography to an isometric endurance test. Spine, 22, 418–425.
+Stulen, F.B. and De Luca, C.J., 1981. Frequency parameters of the myoelectric signal as a measure of muscle conduction
+velocity. IEEE Transactions on Biomedical Engineering , 28, 515–523.
+Teeratrakul, B., Uthairat, R., Sangsri, S., Hanchaisri, K., Tanwattanasari, L. and Sangmanee, P., 2009. The Trends of Worker
+Employment in 2010–2014 . [online]. Department of Employment. Available from: http://lmi.doe.go.th/LMI4/counter_
+research/18.Labour%20Demand%20Projection%202010–2014.pdf [Accessed 17 November 2009].
+Todd, A.I., Bennett, A.I., and Christie, C.J., 2007. Physical implications of prolonged sitting in a conﬁned posture-A literature
+review. Ergonomics, 19, 7–21.
+van Diee¨ n, J.H., Jansen, S.M.A., and Housheer, A.F., 1997. Diﬀerences in low back load between kneeling and seated working at
+ground level. Applied Ergonomics , 28, 355–363.
+van Diee¨ n, J.H., Oude Vrielink, H.H., Housheer, A.F., Lo ¨ tters, F.B. and Toussaint, H.M., 1993. Trunk extensor endurance and
+its relationship to electromyogram parameters. European Journal of Applied Physiology , 66, 388–396.
+Vergara, M. and Page, A., 2002. Relationship between comfort and back posture and mobility in sitting-posture. Applied
+Ergonomics, 33, 1–8.
+Wilder, D.G., Pope, M.H., and Frymoyer, J.W., 1988. The biomechanics of lumbar disc herniation and the eﬀect of overload and
+instability. Journal of Spinal Disorders , 1, 16–32.
+Yessierli and Nussbaum, M.A., 2007. Muscle fatigue during intermittent isokinetic shoulder abduction: age eﬀects and utility of
+electromyographic measures. Ergonomics, 50, 1110–1126.
+Ergonomics 703
+Downloaded by [CDC Public Health Library & Information Center] at 07:20 26 September 2012

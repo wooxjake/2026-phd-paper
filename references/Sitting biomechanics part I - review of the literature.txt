@@ -1,0 +1,1612 @@
+===== PAGE 1 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+0161-4754/99/$8.00 + 0 76/1/102744 © 1999 JMPT
+594
+INTRODUCTION
+Because of a void in the literature, an automotive engi-
+neering corporation requested that the authors determine an
+optimal sitting spinal model of a driver and an optimal dri-
+ver’s seat. To complete these two objectives, the state of the
+current knowledge concerning chair design and sitting
+ergonomics in the work place (office and factory) and in
+automobiles was reviewed. Part I of this review concentrates
+on sitting in the work place. Sitting dynamics (vibration) and
+sitting of drivers will be discussed in part II.
+Because few studies exist for sitting in the driver’s seat of an
+automobile compared with sitting in the work place, the pur-
+pose of part I is to review sitting ergonomic principles that will
+be applied to automobile seats presented in part II. Key words
+used in MEDLINE searches were sitting ergonomics, sitting
+posture, spine model, seat design, sitting lordosis, sitting elec-
+tromyography, vibration, and sitting and biomechanics.
+Discussion
+The concepts of ideal sitting posture have a long history in
+the literature, especially in the German literature. In 1884,
+Staffel
+1 wrote the standard for the sitting position that was
+quoted later by Fick, 2 Strasser, 3 and Schede. 4 By 1929,
+Drescher5 had already designed seats for Siemens factories
+that had adjustable backrests and seat bottoms with rounded
+front edges to reduce pressure on the under-thigh region. In
+1948, Akerbloom
+6 provided a review of sitting principles
+from the period 1853-1947.
+Keegan, in 19537 and again in 1962,8 wrote a comprehen-
+sive evaluation of seats and sitting while discussing degener-
+ation and herniation of lower lumbar discs. He
+7 obtained lat-
+eral radiographs of the lumbar spine of his subjects in a
+variety of positions, including standing, squatting, bending,
+and sitting in different chairs. In 1966, Knutsson et al
+9 had
+an interesting review in the ﬁrst part of their article on elec-
+tromyographic evaluation of the sacrospinal muscles during
+sitting. In 1971, Kroemer
+10 reviewed the footrests, office
+equipment, consoles, work benches, and machine stands in
+factories and ofﬁce settings.
+Seated posture has also been of interest in Sweden. In
+1970, Nachemson and Elfstrom
+11 inserted pressure sensors
+into the discs of live subjects (4 subjects) and showed that
+sitting posture caused a higher disc pressure than standing or
+lying. Andersson et al
+12-16 wrote a series of articles on elec-
+aChiropractic BioPhysics Nonproﬁt, Inc, Harvest, Ala.
+bSpine Research Institute of San Diego, Calif.
+cPrivate practice of chiropractic, Elko, Nev.
+dPrivate practice of chiropractic, Normal, Ill. 
+Submit reprint requests to: Donald D. Harrison, PhD, DC, Presi-
+dent, CBP Nonproﬁt, Inc, 210 Bent Oak Circle, Harvest, AL 35749.
+Paper submitted December 9, 1998; in revised form February 12,
+1999.
+REVIEW OF THE LITERATURE
+Sitting Biomechanics Part I: Review of the Literature
+Donald D. Harrison, DC, PhD,a Sanghak O. Harrison, DC,a Arthur C. Croft, DC,b Deed E.
+Harrison, DC,c and Stephan J. Troyanovich, DCd
+ABSTRACT
+Objective: To develop a new sitting spinal
+model and an optimal driver’s seat by using
+review of the literature of seated positions of
+the head, spine, pelvis, and lower extremities.
+Data Selection: Searches included MED-
+LINE for scientific journals, engineering
+standards, and textbooks. Key terms included
+sitting ergonomics, sitting posture, spine model,
+seat design, sitting lordosis, sitting electromyogra-
+phy, seated vibration, and sitting and biomechanics.
+Data Synthesis: In part I, papers were selected if (1) they con-
+tained a first occurrence of a sitting topic, (2) were reviews of
+the literature, (3) corrected errors in previous studies, or (4) had
+improved study designs compared with previous papers. In part
+II, we separated information pertaining to sitting dynamics and
+drivers of automobiles from part I.
+Results: Sitting causes the pelvis to rotate backward and caus-
+es reduction in lumbar lordosis, trunk-thigh angle, and knee
+angle and an increase in muscle effort and disc pressure. Seated
+posture is affected by seat-back angle, seat-bottom angle and
+foam density, height above floor, and presence
+of armrests.
+Conclusion: The configuration of the spine,
+postural position, and weight transfer is dif-
+ferent in the 3 types of sitting: anterior, mid-
+dle, and posterior. Lumbar lordosis is affect-
+ed by the trunk-thigh angle and the knee
+angle. Subjects in seats with backrest inclina-
+tions of 110 to 130 degrees, with concomitant
+lumbar support, have the lowest disc pressures
+and lowest electromyography recordings from
+spinal muscles. A seat-bottom posterior inclination of 5
+degrees and armrests can further reduce lumbar disc pressures
+and electromyography readings while seated. To reduce forward
+translated head postures, a seat-back inclination of 110 degrees
+is preferable over higher inclinations. Work objects, such as
+video monitors, are optimum at eye level. Forward-tilting, seat-
+bottom inclines can increase lordosis, but subjects give high
+comfort ratings to adjustable chairs, which allow changes in
+position. (J Manipulative Physiol Ther 1999;22:594-609)
+Key Indexing Terms: Sitting; Biomechanics; Lordosis; Ergo-
+nomics; Spine; Model; Vibration; Posture; Chair Design
+
+===== PAGE 2 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+595
+tromyographic measurements and disc pressure during seat-
+ed postures, including office chairs, wheel chairs, and dri-
+ver’s seats.
+In 1980, the Society of Automobile Engineers
+17 wrote a
+manual covering all aspects of car seats, both front and rear.
+Williams et al
+18 presented a more recent review of sitting
+and pain and reported that lordosis is preferred over kypho-
+sis. In a review done especially for automobile seats,
+Fubini
+19 wrote a synopsis of safety, comfort, adaptability,
+practicality, solidity, and suitability.
+In the late 1800s and early 1900s, several design items
+were identified. Very early, Parow 20 and von Meyer 21 con-
+cluded that the ischial tuberosities were the chief points of
+support in the sitting position because of posterior pelvic
+rotation. V on Meyer
+21,22 stated that spinal ligaments were
+not in tension while sitting and that a support is required to
+give lumbar relaxation. He noted that straight-back chairs
+did not give support to the spinal column. In 1884, Staffel’s
+designed chair
+1 had a lumbar support and a space under this
+support for the buttocks to slide backward to effect some
+forward rotation of the pelvis.
+The debate about what constitutes a normal position of
+the lumbar spine during sitting (kyphosis or lordosis)
+occurred as early as 1911. Fick
+2 thought that the spine
+should be “ventriﬂexed,” whereas Staffel1 suggested that the
+lumbar curve in sitting should be as close as possible to its
+form in the standing position.
+Some of the issues (or variables) studied before 1950
+included the following: (1) seat-bottom height, (2) seat-bot-
+tom incline, (3) seat-bottom contour, (4) seat-bottom width,
+(5) seat-bottom length, (6) seat-back tilt inclination, (7) seat-
+back lumbar support, (8) seat-back height, (9) table and desk
+height, (10) the correct sitting posture, (11) muscle activity
+while seated, (12) thigh angle to trunk, (13) knee angle, and
+(14) footrest position.
+Fig 1 illustrates some of these ideas, which Keegan
+8 sug-
+gested for seat design, and these are numbered from most
+important to least important.
+Before Snijders et al,
+23 Fick2 and von Meyer22 discussed
+sitting with crossed legs. Before Marumoto et al, 24 Spitzy25
+and Schede 4 discussed table height and near sightedness
+while sitting. Before Lord et al26 and Keegan,8 von Meyer22
+and Staffel1 had written about loss of lumbar lordosis from
+standing to sitting. Before Coleman et al 27 and Keegan, 8
+Staffel1 had incorporated lumbar supports on his designed
+chairs. Before Hooton 28 and Floyd and Roberts, 29 Staffel1
+discussed table heights for adults and children while sitting.
+Before Reinecke et al
+30 presented lumbar support motion as
+a “new” strategy, Hertzberg31 had designed a pulsating seat
+cushion and lumbar support for the US Air Force.
+Let us next examine normal standing posture. Because
+humans are the only species on earth with an upright stance,
+all dynamics (after rising from a lying position) are changes
+from an upright posture. Thus such movements as walking,
+squatting, climbing, and sitting can be described as changes
+from the upright position. Therefore normal upright posture
+must be deﬁned before sitting changes are described.
+Normal Standing Procedure
+The details of sitting posture require more than just a def-
+inition of upright human posture. Although posture align-
+ment is of vital importance, posture provides few details of
+the inside spinal alignment. Because the positions of indi-
+vidual vertebrae are desired for a sitting spinal model, a nor-
+mal upright spinal model is required to discuss spinal
+changes occurring in the sitting posture. Thus after dis-
+cussing normal upright posture, a normal spinal model will
+be reviewed.
+Postural control is a fundamental but complex motor
+function, which is involved in nearly every motor task.
+Different theories have been developed to explain the neural
+organization required for sitting, standing, breathing, and
+movement.
+32 Electromyographic studies have been per-
+formed on infants to follow the evolution of sitting to stand-
+ing posture.
+33
+All authors of postural studies represent the anteroposteri-
+or view of upright stance as a true vertical alignment of cen-
+ters of mass (Fig 2, A). However, in the lateral view, there is
+debate about which anatomic structures are aligned to a ver-
+tical gravity line (Fig 2, B-D). Normal standing posture has
+been defined as perfect alignment of the ear, shoulder, hip,
+knee, and ankle (Fig 2, B).
+34 In 1985, Woodhull et al35 stated
+that good standing posture is often idealized36 and that stud-
+ies37-41 reporting the average standing posture indicate that
+the body center of gravity lies slightly anterior to the talus of
+the ankle (Fig 2, C). For different ideal posture, Kapandji
+42
+stated that the posterior parts of the head, back, and buttocks
+Fig 1. Keegan’s7 1953 list of important aspects of seat design: 1,
+lumbar support; 2, minimum 105-degree tilt angle of backrest; 3,
+open space for posteriorly projecting sacrum and buttocks; 4, con-
+vex thoracic support with height to lower scapulae; 5, shoulder
+support at 105 degrees; 6, any adjustable tilt of seat back pivoted
+on a point in line with the hip joints; 7, maximum length of seat bot-
+tom (16 in); 8, seat-bottom height above floor (16 in); 9, seat bot-
+tom curved down under back of knees; 10, free space for feet under
+seat bottom; and 11, upward tilt of seat bottom of 5 degrees for
+maintenance of back against back support.
+
+===== PAGE 3 =====
+
+should be vertically aligned (Fig 2, D). Thus, as in spinal
+modeling, there is debate concerning the use of an ideal nor-
+mal position versus an average normal position.
+The validity of restoring normal posture as a clinical out-
+come
+43,44 and reliability of measuring posture has been
+established. 45-47 Even though ideal posture has been
+described in the literature for more than a hundred years, the
+alignment of the vertebrae in the lateral view cannot be
+determined from posture.
+48-50
+Average spinal alignment in the sagittal view has been
+determined from numerous radiographic studies. Spinal
+modeling, although determining some guidelines of align-
+ment during impact simulations, has often used the align-
+ment determined from one human subject instead of using
+equilibrium equations or an average from a large population
+of subjects. To develop normal alignment of the cervical lor-
+dosis, thoracic kyphosis, lumbar lordosis, and pelvic tilt,
+spinal modeling and lateral radiographic studies will be
+reviewed.
+Spinal Modeling and Spinal Alignment
+Spinal modeling began in the 1950s to explain spinal
+injuries to ejected Air Force pilots. 51 In 1984, King 52
+reviewed the use of biomechanical models for studying
+musculoskeletal biomechanics. In 1987, Yoganandan et al
+53
+reviewed the types of spinal models in the biomechanics lit-
+erature, including the following: (1) anthropometric, (2) dis-
+crete parameter, (3) continuous elastic, and (4) finite ele-
+ment (FEM). After the description of locations of centers of
+mass for various body parts by Clauser et al,
+54 Belytschiko
+and Privitzer 55 published a complete 3-dimensional spinal
+model with in vivo and in vitro validation. Theirs was a seat-
+ed model with posterior pelvic rotation to simulate the
+forces on pilots who were subjected to seat pyrotechnic
+ejections. Fig 3 illustrates this model. They concluded that
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+596
+Fig 3. Belytschko and Privitzer’s55 sitting spinal model developed
+for the Air Force. Note that the pelvis is rotated posteriorly, but the
+head and rib cage remain in the alignment found in the ideal stand-
+ing position.
+Fig 2. Standing postural alignment. The anteroposterior view depicts the vertical align-
+ment of the body centers of mass and vertebrae in A. The literature agrees on this
+anteroposterior view alignment. There is disagreement among the idealized alignments
+in the lateral view (B and D) and the averages of measured human alignment in the lat-
+eral view (C). Compared with the ideal posture (B), the average posture (C) has anteri-
+or head translation and anterior pelvic translation.
+A
+A B
+B C D
+
+===== PAGE 4 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+597
+the spinal alignment must be a true vertical in the anteropos-
+terior view, have lordotic cervical and lumbar curvatures in
+the lateral view, and be without any anterior head translation
+or posterior thoracic translation.
+Another early spinal model was described by Schultz and
+Galante.
+56 For the anteroposterior spinal alignment, Schultz
+and Miller 57,58 stated that “the spine is approximately
+straight when viewed frontally because each vertebra and
+disc is approximately symmetric about the sagittal plane.” In
+1991, Schultz
+59 stated that “one advantage of using a mathe-
+matical rather than a physical model is that changes are easy
+to make in a mathematical model.” In the lateral view for the
+cervical spine, such changes could be the inclusion of spe-
+cific angles for average cervical lordosis. For example, a
+mean of 23 degrees was reported for Ruth Jackson’s stress
+lines on C2 compared with C7.
+60 Ruth Jackson’s stress lines
+are examples of posterior tangents at C2 and C7. The angle
+formed by these tangents at C2 and C7 is termed an absolute
+rotation angle (ARA).
+In 1996, Yoganandan et al
+61 reviewed the use of FEM
+models of the cervical spine. They state that “the finite ele-
+ment method is an invaluable application tool that can sup-
+plement experimental research in understanding the clinical
+biomechanics of the spine.” An FEM can be described as
+dividing an object of interest into small geometric shapes
+(eg, tetrahedrons), thereby creating a 3-dimensional mesh.
+Each of these geometric shapes (elements) can be assigned
+appropriate mechanical (material) properties, which have
+been established from experiments. These models can then
+be subjected to nearly limitless experimental conditions by
+means of software interface and can closely approximate
+stresses, strains, deflections, bending moments, and shears.
+For example, at the Iowa Spine Institute, Goel et al
+62,63 now
+have a complete spine FEM with pelvis and ribs.
+In 1996, while presenting a simple geometric cervical
+spine model as a normal standard and as an initial starting
+position, Harrison et al
+64 noted that “considering all these
+models, a rigorously defined normal, static position is
+encountered rarely.” Using the posterior tangent line analy-
+sis at C2 and C7, Harrison et al
+64-67 presented validation of a
+circular sagittal cervical model with an average ARA of 34
+degrees and an ideal ARA of 42 degrees. They also present-
+ed average relative rotation values for each pair of cervical
+vertebrae from a large population of 400 subjects.
+64 For the
+thoracic kyphosis, nearly identical means were reported for
+all the segmental angles (relative rotation angles [RRAs]),
+and an overall thoracic kyphosis mean value was reported as
+an ARA of 40 degrees from T1 to T12.
+68,69
+For the lumbar lordosis in a 1997 study, Troyanovich et
+al70 compared results from 7 separate standing lateral lum-
+bar studies (n = 552). They found that a fundamental lumbar
+lordosis existed across a large range of age groups. Average
+segmental RRAs, ARAs, Cobb angles, Ferguson angles,
+arcuate angles, and Z-axis translations for T12 to S1 were
+determined for the lumbar spine.
+70 While refining the
+Harrison spinal model, the sagittal lumbar lordosis was suc-
+cessfully modeled with an 85-degree portion of an ellipse
+with an L1 to L5 ARA of 40 degrees and a T12 to S1 Cobb
+angle of 65 degrees.
+71,72
+The Harrison spinal model provides qualitative normals
+(geometric shapes are cervical circular arc, thoracic circular
+arc, and lumbar elliptical arc) and tables of quantitative nor-
+mal sets of values for the cervical lordosis and lumbar lordo-
+sis.
+73 With these normals, diagnosis of spinal displacement
+on radiographs is possible. Fig 4 illustrates this Harrison
+geometric model with end-of-curve measurements on the
+base of the posterior tangent radiographic method at C2 to
+C7, T3 to T10, and L1 to L5.
+The elliptical shape of the lumbar lordosis might lead one
+to design an elliptical-shaped lumbar support. However,
+Mosner et al
+74 failed to find any significant differences in
+lordotic radiographic appearance between black and white
+persons, even though there are entirely different lateral low
+back skin contours present during physical examination.
+With normal qualitative and quantitative values for standing
+posture, we are now able to describe what happens to a
+human in the seated posture, which are described as changes
+from standing.
+Biomechanics of Seated Postures
+Previously, a list of design aspects affecting seated pos-
+ture was given. These items affect seated posture in different
+ways. Before determining how a sitting human’s posture
+will be changed, it is convenient to categorize seated posture
+by location of the center of gravity.
+Fig 4. Harrison geometric model with circular arcs for the cervical
+and thoracic curvatures and an elliptic arc for the lumbar spine.
+Normal average and normal ideal values for these angles can be
+found in Harrison et al.
+73
+
+===== PAGE 5 =====
+
+In 1962, Schoberth 75 defined 3 different sitting postures
+on the basis of the location of the center of gravity of the
+body and the proportion of body weight transmitted to the
+floor by the feet. Schoberth termed these 3 sitting postures
+as anterior, middle, and posterior. He noted that these 3 pos-
+tures also differed with respect to the shape of the lumbar
+spine. He showed radiographically that his subjects posteri-
+orly rotated their pelvises 40 degrees on average during tran-
+sition of standing to sitting.
+In the middle position (Fig 5, C), the center of gravity is
+above the ischial tuberosities, and the feet transmit about
+25% of the body weight to the floor. In sitting in a relaxed
+middle position, the lumbar spine is either straight or in
+slight kyphosis. The anterior position can be obtained from
+the middle position either by a forward rotation of the pelvis
+(Fig 5, B) or by creating a kyphosis of the spine by flexing
+without much rotation of the pelvis (Fig 5, A). In this anteri-
+or position the center of gravity is in front of the ischial
+tuberosities, and the feet transmit more than 25% of the
+body weight to the ﬂoor. In the posterior position (Fig 5, D)
+the center of gravity is above or behind the ischial tuberosi-
+ties, and less than 25% of the body weight is transmitted by
+the feet. This position is obtained by extension rotation of
+the pelvis and simultaneous kyphosis of the spine.
+Before Schoberth’s
+75 sitting categories were published,
+Keegan7 radiographed a small number of subjects (only 4) in
+various standing and sitting postures to determine changes
+in the lumbar spine in the lateral view. He traced the posteri-
+or vertebral bodies on each radiograph and then superim-
+posed the sacrums of all tracings to create a composite tem-
+plate. Fig 6, A-P, shows the positions radiographed and
+resulting variations in the lumbar spine. Note that Fig 6, F,
+G, L, and N, are types of posterior sitting; Figs 6,I, J, and M,
+are examples of middle sitting; and Fig 6, O, is a type of
+anterior sitting.
+From other lateral tracings, Keegan derived a relationship
+between lordosis and thigh-trunk angle. He radiographed his
+subjects in the lateral recumbent position while varying only
+the thigh-trunk angle. Fig 7 shows that as the thigh-trunk
+angle is reduced from 200 to 50 degrees, the pelvis rotates
+posteriorly, and the lumbar lordosis becomes kyphotic.
+Keegan discovered that the length (he hypothesized tension)
+in the anterior and posterior thigh muscles accounted for the
+effects of thigh-trunk flexion and extension. In Fig 7 the
+anterior and posterior thigh muscles are darkened to show
+their attachments. Fig 7 also shows how tension in these
+muscles will pull on the pelvis. He determined that the 135-
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+598
+Fig 5. Schoberth’s three sitting categories on the basis of center of gravity location. The vector
+RS represents the reaction force through the seat bottom. RF is the reaction force from the
+ground at the feet. CG, Center of gravity of the body mass above the pelvis.
+A B C D
+Fig 6. In 1953, Keegan radiographed subjects in different sitting,
+standing, and lying postures. Reprinted with permission: Keegan JJ.
+Alterations of the lumbar curve related to posture and seating. Re-
+printed with permission from J Bone Joint Surg1953;35-A:589-603.
+
+===== PAGE 6 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+599
+degree thigh-trunk angle was a neutral position for tension
+in the thigh muscles. He believed that tension in the anterior
+thigh muscles (and psoas) in standing accentuated the lum-
+bar curve. He thought that, beside the lever arm for posterior
+pelvic rotation caused by sitting on the ischial tuberosities,
+the tension in the posterior thigh muscles played a large role
+in posterior rotation of the pelvis and reduction of the lum-
+bar lordosis.
+In a recent study with 109 subjects, Lord et al
+76 measured
+the changes in lumbar lordosis between standing and sitting
+posture. The sitting posture was upright middle posture with
+90-degree thigh-trunk angle and 90-degree knee angle; the
+feet were made to rest on the ﬂoor by adjusting the height of
+the seat. By using a Cobb angle from the top of L1 to the top
+of S1, the mean standing lordosis of 49 degrees was reduced
+to 34 degrees in the seated posture.
+In another recent study, Yasukouchi and Isayama
+77 mea-
+sured lumbar lordosis and pelvic rotation of 20 male sub-
+jects in standing and 3 different middle sitting postures. The
+3 sitting postures were based on thigh-trunk angles of 120,
+90, and 60 degrees, which were obtained by changing the
+height of the seat bottom above the ﬂoor. To obtain the 120-
+degree thigh-trunk angle, they also had to incline the seat
+bottom forward. Additionally, they varied the knee angle at
+60, 90, and 120 degrees in the two thigh-trunk postures of 60
+and 90 degrees. Instead of radiographs, an inclinometer was
+used for lumbar lordosis. Taped skin markers were used on
+the armpits, iliocristale, trochanter major, and lateral epi-
+condyle for thigh-trunk angle. Also, instead of radiographs
+for pelvic tilt, skin markers on the trochanter major and
+iliocristale were photographed and compared with a vertical
+line. They concluded that pelvic tilt was caused by different
+hip extensors to an extent dependent on changing the thigh-
+trunk and knee angles. Because skin markers are somewhat
+inaccurate because of elasticity of the stretching skin, their
+results may be less valid than radiographic studies. How-
+ever, several investigators
+77-79 have reported that lumbar lor-
+dosis was affected by the knee ﬂexion angle.
+In another recent study without radiographic measure-
+ments, Black et al80 used a Metrecom, a 3-dimensional com-
+puterized digitizer, to mark the palpated points of the (1)
+anterior nasal spine, (2) mastoid process, (3) spinous
+process of T1, (4) palpation-derived body of T4, (5)
+suprasternal notch, (6) spinous process of L1, (7) spinous
+process of S2, and (8) anterior-superior iliac spine. They
+studied 3 different sitting postures: (1) middle sitting
+slumped, (2) middle sitting erect, and (3) anterior sitting
+with only pelvic rotation. Although trying to separate upper
+and lower cervical spine movements, they modeled the cer-
+vical spine as 3 rigid bodies: head, neck, and base of the cer-
+vical spine. The degree of lumbar lordosis was assessed by
+using a Cybex 320 electronic digital inclinometer. They
+used intraclass coefﬁcients with repeated measures to show
+their method was repeatable; all intraclass coefﬁcients were
+greater than 0.65 except head inclination, which was 0.48.
+Because of elasticity of the stretching skin and the use of
+palpation, their results are not as valid as those obtained in
+radiographic studies, but they claimed that flexion in the
+lumbar spine was accompanied by extension in the cervical
+spine, while the head orientation remained fairly constant.
+Effects of Seat Design
+Bendix and Biering-Sorensen81 studied the effects of seat-
+bottom inclination on 10 subjects. They studied 4 positions
+of the seat bottom: (1) level, (2) 5-degree forward inclina-
+tion, (3) 10-degree forward inclination, and (4) 15-degree
+forward inclination. They used an inclinometer to measure
+the distances between 4 points marked with a Speed marker:
+(1) a sacral point near the spinous process of S2, (2) a lum-
+bar point near the L1 spinous process, (3) a thoracic point
+near the spinous process of T4, and (4) the external occipital
+protuberance. The height of the chair was adjusted to keep
+the subjects’ thighs horizontal and lower legs vertical. They
+observed their subjects for 1 hour of sitting in “a comfort-
+able position with elbows placed on the table,” which was
+provided. They noted an increase in lumbar lordosis with a
+forward increase in seat incline, and they hypothesized 3
+possible ways of adapting the body to a forward-tilting seat
+bottom. Fig 8 illustrates these positions. Because their sub-
+jects’ lumbar angles showed a 4-degree increase, these
+authors suggested that the position in Fig 8, B, occurred.
+Subjects rated the 0- and 5-degree inclines as most comfort-
+able after 1 hour of sitting while reading. This study and
+other studies examining longer sitting periods confirm fre-
+quent leg crossing in seated subjects.
+81-83
+The incline or slope of seat bottoms has been a subject of
+debate for more than 100 years. In 1884, Staffel 1 recom-
+mended a forward slope. Other proﬁles, such as level and
+backward slopes, have been suggested.
+84-86 In Akerbloom’s
+classic text,6 he suggested 3 to 5 degrees of backward incline,
+which was actually proposed by Schulthess 87 in 1905. By
+Fig 7. Effects of altering the thigh-trunk angle in the lateral recum-
+bent posture. Reprinted with permission: Keegan JJ. Alterations of
+the lumbar curve related to posture and seating. Reprinted with
+permission from J Bone Joint Surg 1953;35-A:589-603.
+
+===== PAGE 7 =====
+
+1958, Floyd and Roberts29 suggested that the slope of the seat
+bottom should be changed to ﬁt the job requirements. The
+horizontal seat allows freedom of movement, while the back-
+ward slope tends to move the subject against the backrest and
+lumbar support.
+In 1953, Keegan
+7 noted that seat-bottom height, when too
+high above the ﬂoor, could cause shorter people to have dan-
+gling legs. This position causes compression stresses on the
+soft tissues of the posterior thigh and becomes uncomfort-
+able in a short period of time. Thus a short person sitting on
+a chair that is too high for him or her will soon sit on the
+edge of the chair and negate any seat-bottom incline or any
+lumbar support.
+This situation can occur when the seat-bottom length is
+too long (seat depth).
+29,84,88 The shorter person will not slide
+back against the backrest because of pressure at the posteri-
+or knee area. The minimum width is from trochanter to
+trochanter to allow support for the ischial tuberosities.
+29,89
+The maximum width would be to accommodate overweight
+subjects. The range of seat width and length in most refer-
+ences were between 35 and 40 cm for both dimensions.
+90
+Seat-bottom contour has also been discussed in the litera-
+ture. Various contour shapes have been proposed, including
+saddle-shape, molded to ﬁt the buttocks, and sloping valley
+posteriorly. Attempts to conform the seat to the thighs have
+proved unsuccessful, and a flat surface has been suggested
+as optimal.
+84 The pressure zones on flat seats were deter-
+mined by viewing a naked person sitting on a glass plane or
+by using powder on a naked person to check for sitting
+impression.
+91 Others92-94 have studied the pressures under
+the ischial tuberosities and thighs in sitting. Brienza et al 94
+presented their seating system structure, which has a support
+surface of vertical elements arranged in an 11 × 12 array.
+These elements depress linearly by the amount of pressure
+applied, thus forming a pressure distribution with measured
+values.
+In 1962, Swearingen et al
+95 studied the supporting struc-
+tures for 104 subjects. The body weight is supported by 8%
+of the seat area under the ischia, which carries 64.8% of the
+weight. They observed that the remaining 35.2% is borne by
+the combination of footrests (18.4%), armrests (12.4%), and
+a backrest (4.4%) at 105 degrees. They believed that the
+small amount of weight carried by the backrest indicated
+that stability was achieved here, although not necessarily
+relaxation of the muscles.
+The classic texts and review article by Akerbloom,
+6
+Keegan,7,8 and Kroemer90 presented reviews of the topic of
+seat-back design. Table 1 4,85,87,90,96 summarizes the recom-
+mended setback inclinations from 90 to 125 degrees. Seat-
+back height ranged from the inferior of the shoulder blades
+to the top of the shoulders. In Keegan’s 1962 text,
+8 he pre-
+sented a rating system for evaluating 36 seats ranging from
+church benches to car and truck seats. He stated that manu-
+facturers were ignoring ergonomic research on seat designs,
+and that seat-back incline research and lumbar support
+research were not being applied for the public comfort.
+Kroemer
+90 also discussed use of a lumbar support pad.
+Most references recommended a lumbar support in the
+range (3-5 cm) suggested by Akerbloom in 1948.
+6 Majeske
+and Buchanan 97 investigated changes in the angular posi-
+tions of the forearm, upper arm, pelvis, trunk, neck, and
+head in middle relaxed sitting with and without a lumbar
+support. Photographs of data markers placed on the sub-
+jects’ skin were measured with a protractor. They claimed
+the various joint angles were more normal in sitting with a
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+600
+Table 1. Summary of seat-back inclination before 1972
+Author Year Suggested seat-back angle
+Schulthess87 1905 100-105 degrees
+Schede4 1935 Individual minimum*
+Lay and Fisher85 1940 111-117 degrees
+Morant96 1947 110 degrees for alert pilots, 110-125 
+degrees for rest position
+Kroemer90 1971 90-120 degree range in review article
+*When subject began to rest against the back support.
+Fig 8. Hypothesized 3 possible ways to sit on inclined seats. Bendix
+and Biering-Sorensen81 determined that position A could not occur
+from their data and that position B was how their subjects adapted
+to forward-inclining seat bottoms.
+
+===== PAGE 8 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+601
+lumbar support. They also noted a reduction in anterior head
+carriage with a lumbar support. In 1991, Williams et al 18
+studied 210 subjects with pain while sitting randomly
+assigned to kyphotic sitting or sitting with a lumbar support.
+When sitting with a lumbar support, their subjects reported
+signiﬁcantly reduced low back pain and reduced referred leg
+pain. An increase in pain for kyphotic sitting subjects was
+found.
+In 1971, Kroemer
+90 also suggested armrests depending on
+the ergonomic requirements of the sitter. If free mobility of
+the trunk, shoulders, and arms was required, then armrests
+might be a hindrance. Otherwise, adjustable armrests are
+helpful in changing positions and for decreasing the load on
+the spinal column.
+Before 1970, head restraints are not discussed. Especially
+in automobile impact research, head restraints were
+designed to reduce extension strains during whiplash.
+Recently, posterior head translation strains were considered
+a major factor in whiplash.
+98
+The reader may have noticed that we have presented a his-
+tory of seat design up to about 1970, with only a few refer-
+ences that are recent, and thus we have not yet presented the
+advancements in the past 30 years. In the later 1960s and
+early 1970s, a shift in research methods took place. Before
+1970, most sitting “research” was (1) theoretical and based
+on the mechanical ideas of the particular authors, (2) based
+on the comments of comfort of the subjects, (3) based on the
+observed reactions of the subjects studied, (4) based on
+anthropometric averages of populations,
+99 and/or (5) based
+on radiographic studies. Around 1970, 3 types of methods
+began to help the researcher sift through the multitude of
+personal opinions about sitting.
+In the later 1960s, ergonomists began to develop comfort
+rating methods, which were made better with reliability and
+validity studies. In the 1960s, electromyographic studies of
+muscle activity in different postures began to appear. In 1970,
+Nachemson and Elfstrom
+11 published their famous study on
+internal pressures in the intervertebral disc in various sitting
+and standing postures. They inserted needle electrodes into
+the lumbar discs (usually L3-L4) of live subjects. Many peo-
+ple believe that Nachemson and Elfstrom only studied disc
+pressure in lying, standing, and sitting, and that sitting caused
+the greatest disc pressure. However, they studied 17 body po-
+sitions, including some in lifting weights. Fig 9 is from their
+study and illustrates loads on the discs in various positions.
+In the cervical and lumbar areas, the annulus of the disc is
+wedge shaped, being thicker and higher anteriorly than pos-
+teriorly.
+100-102 Measurements of disc pressure in vivo and in
+vitro have established lordosis in the cervical and lumbar
+areas as the normal configuration.
+103,104 On the basis of in
+vitro studies, the pressure in the nucleus has been deter-
+mined to be approximately 50% higher than that found dur-
+ing any externally applied vertical load when two adjacent
+vertebral bodies are parallel and much less than that found
+when in the normal, slightly extended position.
+11,103,104 Any
+shift in load from vertical creates a concomitant myoelectric
+activity, which increases the load on the disc.
+11 When stand-
+ing erect, the normal vertebral column is straight in the
+anteroposterior aspect and curved in the lateral aspect; there
+is a cervical lordosis, a thoracic kyphosis, and a lumbar lor-
+dosis.
+12 Thus some additional scientiﬁc information became
+available for later studies (1970-1998) to determine optimal
+seat designs and optimal seated positions for different
+ergonomic requirements.
+Optimal Seated Posture
+Akerbloom6 used electromyography to demonstrate that
+the support of the lumbar spine in seated posture is sufﬁcient
+to rest the back muscles. In other early studies with elec-
+tromyography in sitting, Lundervold studied typists in
+1951
+105 and 1958.106
+In 1954, Basmajian and Bentzon,107 and in 1958, Basma-
+jian108 studied muscles of the thigh, leg, foot, and the ilio-
+psoas during standing posture. In 1955, Floyd and Silver 109
+studied the myoelectric patterns of the erector spinae in stand-
+ing posture. In a series of myoelectric studies in standing,
+Joseph and Nightingale,
+110-112 Joseph et al,113 and Joseph and
+Williams114 investigated hip, thigh, and leg muscles.
+In 1961, Carlsoo 115 examined muscles of the lower leg,
+thigh, hip, abdominal region, and neck in the standing posture
+with electromyography and then compared these readings
+with a multitude of abnormal postures and working positions.
+One of the earliest studies of sitting posture with elec-
+tromyography to determine an optimal seat-back incline and
+size of lumbar support pad was by Knutsson et al
+9 in 1966.
+They studied 4 groups of subjects: normal subjects (n = 20),
+subjects with back pain without radiographic findings (n =
+10), subjects with back pain with minor radiographic
+changes (n = 10), and subjects with back pain with severe
+Fig 9. Results of Nachemson and Elfstrom’s 1970 study. 11 Mean
+change in load (%) compared with standing values.
+
+===== PAGE 9 =====
+
+and muscle activity, Andersson et al12-15 studied sitting in an
+experimental chair, sitting at a work table, sitting in a wheel-
+chair, and sitting in an automobile seat. The 4 parameters
+studied were backrest inclination, seat-bottom inclination,
+lumbar support (height and amount of horizontal travel), and
+(upper) thoracic support. Andersson et al studied standing, 7
+unsupported sitting positions, and supported sitting pos-
+tures. They found that internal disc pressure was consider-
+ably higher in unsupported sitting than in standing. Increase
+in backrest inclination and increase in lumbar support was
+associated with a decrease in disc pressure in supported sit-
+ting. Myoelectrical activity was approximately the same for
+standing and relaxed unsupported sitting. For electromyo-
+graphic readings, the highest level of activity occurred in
+anterior sitting, and the lowest occurred in posterior sitting.
+To obtain low values of both electromyographic readings
+and disc pressure, the authors stated that the backrest should
+be inclined to at least 100 degrees. Fig 10 shows disc pres-
+sure in the standing position and in their 7 unsupported sit-
+ting positions. Fig 11 shows their results of decreasing myo-
+electric activity with backrest inclination, whereas Figs 12
+and 13 show decreasing disc pressure with seat-back incli-
+nation and the effects of support (lumbar support, thoracic
+support, and seat-bottom backward incline), respectively.
+In 1974, Andersson et al
+14 studied the effect of armrests
+on disc pressure and myoelectric activity. They found that
+the use of armrests further reduced the disc pressure and the
+myoelectric activity in the trapezius muscles. If armrests are
+too high, the subject must elevate the shoulders and abduct
+the arms.
+116 If the armrests are too low, the subject must
+slide the buttocks forward or lean forward to use them. If the
+armrests are too far laterally, increased abduction of the
+arms and increased inward rotation of the humerus occurs.
+Fig 14 illustrates lower disc pressure, with changes in seat-
+back inclination, when using armrests compared with arms
+hanging.
+radiographic findings of disc degeneration and spondylosis
+(n = 10). They studied middle sitting with two seat-back
+inclines of 100 and 110 degrees while varying the lumbar
+support pad at 0, 1, 2, and 3 cm. Patients sat against the seat
+back with knees at a 90-degree angle and hands resting on
+thighs. The electromyography readings favored a 110-
+degree seat-back incline and 1 to 2 cm of lumbar support,
+except for the severely degenerated patients who favored the
+100-degree incline and 1 to 2 cm of support.
+Many of the later studies of electromyography in sitting
+combined disc internal pressure and muscle activity. In a
+series of articles in 1974 combining disc internal pressure
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+602
+Fig 12. Average values of normalized disc pressure (at 0.51 mPa)
+reduces with seat back incline and increasing horizontal lumbar
+support.
+Fig 10. Andersson et al’s 1974 disc-pressure ﬁndings in unsupport-
+ed sitting.12-15
+Fig 11. Myoelectric amplitude reduces with increase in seat-back
+incline.
+
+===== PAGE 10 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+603
+Lumbar Lordosis versus Kyhosis in Seated Posture
+The vast majority of authors have favored a lordotic lum-
+bar spine, whereas a few117-119 have advocated a ﬂexed pos-
+ture when sitting. The electromyographic studies and disc
+pressure studies just reviewed proved that flexion of the
+lumbar spine while seated caused an increase in load on the
+muscles and discs, whereas a lordotic posture greatly
+reduced these pressures. Still, in 1983, the flexed position
+while seated was promoted by Adams and Hutton.
+117
+Adams and Hutton 117 loaded cadaveric lumbar motion
+segments for 4 hours, with some segments in flexion and
+some in extension. Flexed discs lost more ﬂuid, especially in
+the nucleus pulposus. They concluded that fluid flow in
+flexed postures can aid the nutrition of the lumbar discs.
+Adams and Hutton seemed to discount the fact that it might
+be disadvantageous to lose fluid rapidly from the disc in a
+prolonged ﬂexed posture.
+In 1988, Dolan et al
+118 studied 11 subjects in different
+postures, including standing and sitting, with surface elec-
+tromyography. They measured the lumbar lordosis with
+electronic inclinometers. Their results confirmed data from
+previous studies that all sitting postures reduced the lumbar
+lordosis and increased electromyographic readings. They
+also noted that compressive forces on the apophyseal joints
+are reduced in flexed postures. They claimed that “people
+want to reduce the lumbar lordosis whenever possible, even
+at the expense of increasing back muscle activity.” They
+appear to be inﬂuenced by a 1965 study on primitive peoples
+by Fahrni and Trueman.
+119
+In 1965, Fahrni and Trueman 119 claimed that the inci-
+dence of lumbar disc disease was very low in people who
+habitually sit or squat in positions that greatly ﬂex the lum-
+bar spine. Although Fahrni and Trueman promoted squatting
+with feet flat on the ground, Keegan (Fig 6, H) had shown
+that squatting on the toes was associated with very good lor-
+dosis compared with most sitting positions. Fahrni and
+Trueman also neglected the idea that primitive peoples are
+generally more active, not overweight, in better physical
+condition, nonsmokers, and do not sit for prolonged periods
+as do modern people.
+Finally, in the 1990s, Adams and colleagues began to re-
+verse their minority-held opinion about sitting ﬂexed pos-
+tures being desirable in their published works in 1995
+120 and
+1996.121 In a 1995 review of lumbar spine mechanics, they
+stated that the only known loading condition to cause poste-
+rior disc prolapse involved prolonged forward bending (ﬂex-
+ion) with compression and lateral bending. In 1996, they
+noted in their review of the literature that the ability of the
+disc to act as a hydrostatic cushion depends on the high wa-
+ter content of these tissues, especially the nucleus pulposus.
+The discerning reader realized that Adams and Hutton’s
+1983 study
+117 had shown high water content loss in ﬂexed
+postures and that they 121 may be about to reverse their mi-
+nority position on ﬂexion. They also noted that stress con-
+centrations in the posterior annulus caused by prolonged
+ﬂexion might be a common cause of pain from the disc. They
+noted that as the disc creeped under sustained loading, a
+small loss of ﬂuid led to a large drop in pressure, and the com-
+pression load was transferred to the middle to outer annulus
+instead of the nucleus and inner annulus. They noted that the
+posterior annulus is affected most because it is the narrowest
+part of the disc and least able to sustain large compressive
+strains. This situation would occur on rising after prolonged
+ﬂexion. They also note that these stress concentration peaks
+in the outer annulus can account for the observed collapse of
+the inner annulus into the nucleus and that this is caused by
+creep-related water loss from the nucleus.
+In 1996, they wrote the following: “Pain originating from
+either of these mechanisms would be expected to increase
+Fig 14. Disc pressure (normalized at 0.51 mPa) is lower for the
+same seat-back incline when using armrests.
+Fig 13. Normalized (at 0.51 mPa) disc pressure decreases with
+seat-back inclination and seat-bottom posterior tilt but increases
+with use of thoracic support. Inside the parentheses, the ﬁrst value
+is either 10 or 0 degrees for a support under the upper thoracic ver-
+tebrae, and the second value, 0 or 6 degrees, is for seat-bottom pos-
+terior tilt.
+
+===== PAGE 11 =====
+
+during the course of a day, especially in an individual who
+had spent a considerable amount of time with his lumbar
+spine ﬂexed, so that disc creep would have been unchecked
+by the apophyseal joints. This would explain why prolonged
+automobile driving is so closely associated with back pain
+and disc prolapse”.
+121
+In 1997, Hedman and Fernie 122 studied anterior column
+forces and articular facet forces in the lumbar spine during
+sitting. They attempted to determine the relationship
+between seated forces and the mechanical responses in lum-
+bar tissues. They loaded whole lumbar spines (L1-S1) in
+two postures, ﬂexed and extended. Their results suggested a
+mechanism of force balancing in lordotic postures under sta-
+tic loads, whereas flexed postures produced large increases
+in the tensile forces in the posterior annulus.
+Thus after 1996 the literature agrees that sitting with a
+lordotic lumbar spine is the preferred position. We now
+focus our attention on head and neck position.
+Forward Head Position
+From biomechanical123 and epidemiologic studies, 124,125
+strains on the cervical spine in the sitting position appeared to
+be related to increased forward inclination of the head. A for-
+ward position of the head can occur from anterior translation,
+forward ﬂexion (x-axis rotation), or a combination of both. To
+understand forces on the cervical spine in sitting, it is neces-
+sary to review the cervical coupling patterns for anterior head
+translation and forward ﬂexion. Also, the position of the cen-
+ter of gravity of the head will be important for discussing
+forces on the cervical spine in various sitting positions.
+The location of the center of gravity of the head has been
+debated. Dempster
+126 used volumetry to study the center of
+gravity of the head in 1955. Using only two cadavers,
+Biraune and Fischer
+127 located the center of gravity of the
+head behind the sella turcica. Clauser et al 54 presented a
+thorough review of the literature for various body part cen-
+ters of mass in 1969, with center of mass of the head located
+at the sella turcica. In 1986, Vital and Senegas
+128 used a sus-
+pension technique to locate the head center of gravity of 6
+cadavers “behind the sella turcica, above and slightly in
+front of the external auditory meatus.”
+They claimed that the nasion-opisthion reference line is
+the true normal orientation of the head because suspension
+makes this line horizontal (Fig 15). They determined that the
+center of gravity is the midpoint of the nasion-inion line (Fig
+15, C). They also claimed that when the nasion-opisthion
+line is horizontal, it causes a 30-degree declined gaze posi-
+tion, which is formed by a perpendicular line to the orbits
+(Fig 15, D) and that this 30-degree declined position is rec-
+ommended by ergonomists as a good working position.
+In 1952, Kendall et al
+43 described forward head posture as
+the external auditory meatus positioned anterior to a vertical
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+604
+Fig 15. Center of mass and neutral resting head posture. Vital and Senegas 128 found
+that suspension will result in the nasion-opisthion reference line becoming horizontal
+(A and B). Vital and Senegas located the center of gravity of the head at the midpoint of
+the nasion-inion line, just posterior to the sella turcica (C). Vital and Senegas claim a
+comfortable gaze angle is declined 30 degrees to the nasion-opisthion reference line,
+when it is horizontal (D).
+A B
+C D
+
+===== PAGE 12 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+605
+postural line through the center of the shoulder joint.
+Patients seen in pain clinics frequently have postural
+faults.
+35 Anterior head translation is one of these common
+postural positions.129,130
+Determination of anterior head translation is clinically
+reliable. 131,132 In 1995, Haughie et al 133 showed that com-
+puter-terminal workers, who had more pain than their
+coworkers, had more anterior head translation, less range of
+motion in extension, and more medical visits.
+Many physical problems have been associated with for-
+ward head posture, including the following: (1) increase of
+upper cervical curvature (C1-C4); (2) decrease in lower cer-
+vical curvature (C5-T1); (3) alteration of the upper thoracic
+kyphosis; (4) protraction, elevation, and downward rotation
+of the scapulae; (5) internal rotation of the humeri; and (6)
+elevation of the ﬁrst and second ribs.
+134-137
+Penning, in 1978138 and 1995,139 was the ﬁrst to describe
+changes in cervical lordosis with anterior-posterior head
+translation. He reported that the upper segments (C1-C4)
+extended while the lower cervical vertebrae (C5-T1) flexed
+in anterior head translation. Hanten et al
+46 have measured
+resting head posture and total head excursion, which is for-
+ward and backward head movement in translation, in 218
+adults. For men, the average head excursion was 11.4 cm,
+and for women, it was 10.0 cm.
+Eklund et al
+140 investigated head posture in drivers of fork
+lifts, trucks, forestry machines, and cranes. They determined
+that head axial rotation was a frequent cause of pain in these
+workers and that forward head postures and forward body
+positions occurred in bad lighting conditions.
+Flexion of the cervical spine has been studied by many
+investigators and recently by Dvorak et al.
+141 Loss of cervi-
+cal lordosis occurs in flexion, which causes increased disc
+pressure and increased electromyographic readings in the
+cervical musculature. However, the most important effect is
+tension on the cervical spinal cord, brain stem, and nerve
+roots.
+142 Flexion is often found in desk workers and
+typists. 143 Fig 16 illustrates attempts by ergonomists to
+reduce back and neck stress with tilting seat bottoms and
+tilting stands for reading materials. However, this position
+still results in neck flexion. It will be shown in a later sec-
+tion that this is a common problem for drivers of auto-
+mobiles.
+Consensus by Comfort Ratings
+It is interesting to note that carefully designed ergonomic
+chairs are often rejected by subjects in the workplace. In
+1997, Christiansen
+144 stated that “sitting comfort, a state of
+physical well-being, is a personal sensation.” The feeling of
+comfort cannot be measured directly, and often it has been
+deduced from 3 principles: (1) the ﬁt of the chair to the sub-
+ject’s body type, (2) the subject’s performance or behavior
+while seated, and (3) the subject’s assessment of his or her
+state of comfort (or discomfort). Although the electromyo-
+graphic, disc-pressure, and radiographic studies previously
+mentioned are examples of item 2, much research has gone
+into items 1 and 3.
+Body size and shape has been a topic of ergonomic
+research for 100 years. Before adjustable chairs, work chairs
+were made to fit the 50th percentile in body size. For an
+example of body dimensional research in 1997, Greil
+145
+studied 42,000 Germans, aged from birth to 70 years.
+Percentiles of trunk-cephalic height, trunk length, depth of
+lower trunk, maximum sitting breadth, vertical thigh diame-
+ter, lower leg and foot length, backrest-heel distance, and
+additive arm length were presented by sex, age, and type of
+body shape.
+In each category (items 1-3) there are researchers who
+are adamant that their particular assessment for proper sit-
+ting posture is the best. For example, in 1969, Shackel et
+al
+146 stated that “a further and conclusive reason for our
+concentrating upon subjective measures is inherent in the
+context of studying chair comfort in relation to individual
+users choosing for themselves, namely the ultimate criteri-
+on must be the subjective judgment of a representative sam-
+ple of users.”
+Comfort ratings come in a variety of methods.
+146-148 For
+a modern statistical analysis, Helander and Zhang149 studied
+comfort and discomfort in sitting. Genaidy and Karwowski150
+presented a review of constrained body postures and devia-
+tions from the neutral posture over a long period while work-
+ing. These postures have been associated with discomfort,
+pain, disc degeneration, high risk of arthritis, inﬂammation of
+tendon sheaths, muscle spasms, and general pain.
+People generally avoid static positions for prolonged peri-
+ods by frequently moving while standing and sitting. In
+1967, Branton and Grayson
+151 observed that people fre-
+quently change positions while waiting at train stations.
+They noted that certain postures (eg, leg crossing) occur sig-
+nificantly more often and for longer durations. In 1969,
+Branton
+152 provided a review of 45,000 sitting observations,
+Fig 16. Ergonomic chairs and reading material stands reduce but
+do not eliminate neck ﬂexion.
+
+===== PAGE 13 =====
+
+including time-lapse films, and concluded that chairs must
+allow for changes in position. Branton pointed out that this
+frequent movement of sitters is not just an “urge to move”
+but that certain postures occur more frequently for specific
+types of chairs and for tall versus short people. Branton
+noted that, by speeding up time-lapse ﬁlms of sitters, certain
+sequences of postural changes occurred at least 12 to 16
+times during 5-hour periods.
+Branton
+145 categorized sitting postures into 4 groups,
+which were described as follows: (1) minimal support de-
+rived from seat (3.3% of time, 3 minutes in duration); (2) full
+back support from seat and armrests (49.5% of time, 15 min-
+utes in duration); (3) slumped. with some support from seat
+and armrests (23.4% of time, 11 minutes in duration); and (4)
+all other postures (23.8%, 5 minutes in duration). He noted
+that people often need to extend their legs and cross their an-
+kles, which appeared to be a stabilizing position for the pelvis
+similar to crossing the knees. Change of position is thought
+to reduce ischemia of the tissues, but then the long duration
+of certain postures is unexplained.
+In general, our cited references published before 1950*
+are opinion papers based on the best estimates of ergonom-
+ics, biomechanics, and observations. However, most of the
+references on posture
+32-36,39-50 and spinal modeling51-74 have
+reliability, validity, precise engineering measurements,
+and/or clinical data with statistics. The studies on sitting bio-
+mechanics,
+75-81 seat design, 82-83,90-104 and optimal seated
+posture105-116 are mostly recent articles with multiple sub-
+jects and clinical statistics with electromyographic data. The
+articles cited for lumbar lordosis versus kyphosis in the seat-
+ed position
+117,118,120-122 have biomechanical measurements
+in laboratories, whereas the citations on forward head pos-
+ture
+123-143 are large population clinical studies or random-
+ized clinical trials. The studies on comfort ratings in sitting
+positions are based on patient questionnaires with statistical
+evaluations.
+CONCLUSION
+Sitting biomechanics has a long history in the literature.
+Posture and lower extremity positions have been reviewed
+here with the neglect of upper extremity positions, which
+can be found in the ergonomics literature. Since 1970, elec-
+tromyography and disc-pressure studies have settled some
+debates about the ideal sitting position. Oftentimes, the the-
+oretic ideal chair and sitting position are not preferred by
+subjects’ comfort ratings.
+Lumbar supports, armrests, seat-back inclination, freedom
+to move, freedom to cross the knees or ankles, adjustable
+heights of chairs, curved anterior seat bottom to reduce pres-
+sure on the popliteal area, and minimal anterior translation
+and/or ﬂexion of the head have been shown to reduce sitting
+stress and to be associated with higher comfort ratings. By
+using electromyographic results and internal disc pressures,
+the optimum seat-back angle appears to be 120 degrees from
+horizontal, whereas the seat-bottom optimum appears to be
+approximately 0 to 10 degrees posteriorly inclined. The lum-
+bar support optimum appears to be 5 cm of protrusion from
+the seat back. The seat height should be less than the distance
+from knee to feet to eliminate pressure on the posterior
+popliteal area. The special subject of optimal seating in a car
+seat will be the subject of part II of this review.
+REFERENCES
+1. Staffel F. Zur Hygiene des sitzens. Zbl F Allg Gesund-
+heitspﬂege 1884;3:403-21.
+2. Fick R. Spezielle gelenkund muskelmechanik. Handbuch der
+Anatomie und Mechanik der Gelenke. Jena: Gustav Fischer;
+1911. p. 688.
+3. Strasser H. Die Rumfhaltungen. In: Lehrbuch der muskel und
+gelenkmechanik, chapter VI. V ol. 2. Berlin: Springer; 1913. p.
+244-320.
+4. Schede F. Grundlagen der korperlichen eriziehung. Stuttgart:
+F. Enke; 1935. p. 154.
+5. Drescher EW. Arbeitssitz und arbeitplatz. Reichsarbeitsblatt
+III; 1929. p. 159-75.
+6. Akerbloom B. Standing and sitting posture. Stockholm: AB
+Nordiska Bokhandein; 1948.
+7. Keegan JJ. Alterations of the lumbar curve related to posture
+and seating. J Bone Joint Surg 1953;35-A:589-603.
+8. Keegan JJ. Evaluation and improvement of seats. Indust Med
+Surg 1962:137-48.
+9. Knutsson B, Lindh K, Telhag H. Sitting-an electromyograph-
+ic and mechanical study. Acta Othop Scand 1966;37:415-28.
+10. Kroemer KHE. Seating in plant and office. Am Ind Hyg
+Assoc J 1971;32:636-51.
+11. Nachemson A, Elfstrom G. Intravital dynamic pressure mea-
+surements in lumbar discs. A study of common movements,
+maneuvers and exercises. Scand J Rehabil Med 1970;
+1(Suppl):1-40.
+12. Andersson BJG, Ortengren R, Nachemson A, Elfstrom G.
+Lumbar disc pressure and myoelectric back muscle activity
+during sitting. I. Studies on an experimental chair. Scand J
+Rehabil Med 1974;6:104-14.
+13. Andersson BJG, Ortengren R, Nachemson A, Elfstrom G.
+Lumbar disc pressure and myoelectric back muscle activity
+during sitting. II. Studies on an office chair. Scand J Rehabil
+Med 1974;6:115-21.
+14. Andersson BJG, Ortengren R. Lumbar disc pressure and
+myoelectric back muscle activity during sitting. III. Studies
+on a wheel chair. Scand J Rehabil Med 1974;6:122-7.
+15. Andersson BJG, Ortengren R, Nachemson A, Elfstrom G.
+Lumbar disc pressure and myoelectric back muscle activity
+during sitting. IV . Studies on a car driver’s seat. Scand J
+Rehabil Med 1974;6:128-33.
+16. Andersson BJG, Ortengren R, Nachemson A, Elfstrom G,
+Broman H. The sitting posture: an electromyographic and dis-
+cometric study. Orthop Clin North Am 1975;6:105-19.
+17. Society of Automobile Engineers. Motor vehicle seating man-
+ual. Warrendale (PA): SAE; 1980.
+18. Williams MM, Hawley JA, McKenzie RA, Wijmem PM. A
+comparison of the effects of two sitting postures on back and
+referred pain. Spine 1991;16:1185-91.
+19. Fubini E. The interaction between technical requirements and
+comfort in car seating. Coll Antropol 1997;21:405-27.
+20. Parow W. Studien uber die physikalischen bedingungen der
+aufrechten stellung und der normalen krummung der wirbel-
+saule. Arch Anat Physiol 1864;31:74-110, 223-55.
+21. von Meyer H. Das aufrechte stehen. Arch Anat Physiol
+1853:9-44.
+22. von Meyer H. Das sitzen mit gekreuzen oberschenkeln und
+dessen moglichen folgen. Arch Anat Physiol 1890;14:204-8.
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+606
+*References 1-6, 20-22, 25, 28, 37, 38, 84-89, 96.
+
+===== PAGE 14 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+607
+23. Snijders CJ, Slagter AH, van Strik R, Vleeming A, Stoeckart
+R, Stam HJ. Why leg crossing? The inﬂuence of common pos-
+tures on abdominal muscle activity. Spine 1995;20:1989-93.
+24. Marumoto T, Sotoyama M, Villanueva MBG, Jonai H,
+Yamada H, Kanai A, et al. Correlation analysis between visu-
+al acuity and sitting postural parameters of young students. J
+Jpn Ophthalmol Soc 1997;101:393-9.
+25. Spitzy H. Die korperliche erziehung des kindes. 2nd ed.
+Wien; 1926. p. 424.
+26. Lord MJ, Small JM, Dinsay JM, Watkins RG. Lumbar lordo-
+sis. Effects of sitting and standing. Spine 1997;22:2571-4.
+27. Coleman N, Hull BP, Ellitt G. An empirical study of preferred
+settings for lumbar support on adjustable office chairs.
+Ergonomics 1998;41:401-9.
+28. Hooton EA. A survey in seating. Cambridge (MA): Gardner;
+1945. p. 101.
+29. Floyd WF, Roberts DF. Anatomical and physiological princi-
+ples in chair and table design. Ergonomics 1958;8:1-16.
+30. Reinecke SM, Hazard RG, Coleman K. Continuous passive
+motion in seating: A new strategy against low back pain. J
+Spinal Disord 1994;7:29-35.
+31. Hetzberg HTE. Comfort tests of a pulsating seat cushion and
+lumbar pad. Wright-Patterson AFB (OH): Air Material
+Command; 1949. Publication No. MCREXD 695-82.
+32. Dietz V . Human neuronal control of automatic functional
+movements: interaction between central programs and affer-
+ent input. Physiol Rev 1992;72:33-69.
+33. Hadders-Algra M, Brogren E, Forssberg H. Ontogeny of pos-
+tural adjustments during sitting in infancy: variation, selec-
+tion and modulation. J Physiol 1996;493:273-88.
+34. Kuchera M. Gravitational stress, musculoligamentous strain,
+and postural alignment. Spine: state of the art reviews.
+1995;9:463-89.
+35. Woodhull AM, Maltrud K, Mello BL. Alignment of the
+human body in standing. Eur J Appl Physiol 1985;54:109-15.
+36. Wells KF, Luttgens K. Kinesiology: scientiﬁc basis of human
+motion. 6th ed. Philadelphia: Saunders; 1976.
+37. Du Bois Reymond R. Specielle muskelphysioogie oder bewe-
+gungslehre. Berlin: Hirschwuld; 1903.
+38. Hellebrant FA, Tepper RH, Braun CL, Elliott MC. The loca-
+tion of the cardinal anatomical orientation planes passing
+through the center of weight in young adult women. Am J
+Physiol 1938;121:465-70.
+39. Hellebrandt FA, Hirt S, Fries EC. Centre of gravity of the
+human body. Arch Phys Ther 1944;25:465-70.
+40. May J. The placement of the gravity line on the human body
+in the anterior-posterior plane and its relationship to posture
+by roentgenoscopic study [thesis]. Iowa: State University of
+Iowa; 1955.
+41. Klausen K. The form and function of the loaded human spine.
+Acta Physiol Scand 1965;65:176-90.
+42. Kapandji AI. The physiology of the joints. V ol. 3. New York:
+Churchill Livingstone; 1974. p. 15.
+43. Kendall HO, Kendall FP, Boynton DA. Posture and pain.
+Baltimore: Williams & Wilkins; 1952.
+44. McKenzie RA. The lumbar spine: mechanical diagnosis and
+therapy. Waikanae, New Zealand: Spinal Publications; 1981.
+45. Smidt GL, Day JW, Gerleman DG. Iowa anatomical position
+system. A method of assessing posture. Eur J Appl Physiol
+1984;52:407-13.
+46. Hanten WP, Lucio RM, Russell JL, Brunt D. Assessment of
+total head excursion and resting head posture. Arch Phys Med
+Rehabil 1991;72:877-80.
+47. Bullock-Saxton J. Postural alignment in standing: a repeat-
+able study. Australian J Physiotherapy 1993;39:25-9.
+48. Mosner EA, Bryan JM, Stull MA, Shippee R. A comparison
+of actual and apparent lumbar lordosis in black and white
+adult females. Spine 1989;14:310-4.
+49. Johnson GM. The correlation between surface measurements
+of head and neck posture and the anatomic position of the
+upper cervical vertebrae. Spine 1998;23:921-7.
+50. Refshauge KM, Goodsell M, Lee M. The relationship
+between surface contour and vertebral body measures of
+upper spine curvature. Spine 1994;19:2180-5.
+51. Hess JL, Lumbard CF. Theoretical investigations of dynamic
+response of man to high vertical accelerations. J Aviation
+Med 1958;29:66-75.
+52. King AI. A review of biomechanical models. J Biomech Eng
+1984;106:97-104.
+53. Yoganandan N, Myclebust JB, Ray G, Sances A Jr. Mathemat-
+ical and ﬁnite element analysis of spine injuries. Crit Rev Bio-
+med Eng 1987;15:29-93.
+54. Clauser CE, McConville JT, Young JW. Weight, volume, and
+center of mass of segments of the human body. Wright-
+Patterson Air Force Base (OH): Aerospace Medical Research
+Library, Aerospace Medical Division, Air Force Systems
+Command; 1969. Publication No. AMRL-TR-69-70.
+55. Belytschko T, Privitzer E. Refinement and validation of a
+three-dimensional head-spine model. Wright-Patterson Air
+Force Base (OH): Aerospace Medical Research Laboratory,
+Aerospace Medical Division, Air Force Systems Command;
+1978. Publication No. AMRL-TR-78-7.
+56. Schultz AB, Galante JO. A mathematical model for the study
+of the mechanics of the human vertebral column. J Biomech
+1970;3:405-16.
+57. Schultz AB, Miller JAA. Biomechanics of the human spine.
+In: Mow VC, Hayes WC, editors. Basic orthopaedic biome-
+chanics. New York: Raven Press; 1991. p. 337-74.
+58. Schultz AB, Miller JAA. Biomechanics of the human spine.
+In: Mow VC, Hayes WC, editors. Basic orthopaedic biome-
+chanics. New York: Raven Press; 1997. p. 365.
+59. Schultz AB. The use of mathematical models for studies of
+scoliosis biomechanics. Spine 1991;16:1211-6.
+60. Gore DR, Sepic SB, Ardner GM. Roentgenographic ﬁndings
+of the cervical spine in asymptomatic people. Spine 1986;
+6:521-4.
+61. Yoganandan N, Kumaresan S, V oo L, Pintar FA. Spine Update.
+Finite element applications in human cervical spine modeling.
+Spine 1996;21:1824-34.
+62. Goel VK, Clark C, McGowan D. An in vivo study of the kine-
+matics of the normal, injured and stabilized cervical spine. J
+Biomech 1984;17:363-76.
+63. Goel VJ, Gilbertson LG. Spine update. Applications of the
+ﬁnite element method to thoracolumbar spinal research-past,
+present, and future. Spine 1995;20:1719-27.
+64. Harrison DD, Janik TJ, Troyanovich SJ, Holland B.
+Comparisons of lordotic cervical spine curvatures to a theo-
+retical ideal model of the static sagittal cervical spine. Spine
+1996;21:667-75.
+65. Harrison DD, Janik TJ, Troyanovich SJ, Harrison DE, Colloca
+CJ. Evaluation of the assumptions used to derive an ideal nor-
+mal cervical spine model. J Manipulative Physiol Ther 1997;
+10:202-13.
+66. Harrison DD, Janik TJ. Clinical validation of an ideal normal
+static cervical spine model. In: Witten M, editor. Compu-
+tational medicine, public health, and biotechnology. V ol. 2.
+Austin (TX): World Scientiﬁc Publishing; 1995. p. 1047-56.
+67. Janik TJ, Harrison DD. Prediction of 2-D static normal posi-
+tion of the cervical spine from mathematical modeling. In:
+Witten M, editor. Computational medicine, public health, and
+biotechnology. V ol. 2. Austin (TX): World Scientiﬁc Publish-
+ing; 1995. p. 1035-46.
+68. Stagnara P, De Mauroy JC, Dran G, Fonon GP, Costanzo G,
+Dimnet J, et al. Reciprocal angulation of vertebral bodies in a
+sagittal plane: approach to references for the evaluation of
+kyphosis and lordosis. Spine 1982;7:335-42.
+
+===== PAGE 15 =====
+
+69. Bernhardt M, Bridwell KH. Segmental analysis of the sagittal
+plane alignment of the normal thoracic and lumbar spines and
+thoracolumbar junction. Spine 1989;14:717-21.
+70. Troyanovich SJ, Calliet R, Janik TJ, Harrison DD, Harrison
+DE. Radiographic mensuration characteristics of the sagittal
+lumbar spine from a normal population with a method to syn-
+thesize prior studies of lordosis. J Spinal Disord 1997;10:3806.
+71. Harrison DD, Calliet R, Janik TJ, Troyanovich TJ, Harrison DE.
+Elliptical modeling of the sagittal lumbar lordosis and segmen-
+tal rotation angles as a method to discriminate between normal
+and low back pain subjects. J Spinal Disord 1998;11:430-9.
+72. Janik TJ, Harrison DD, Calliet R, Troyanovich TJ, Harrison
+DE. Can the sagittal lumbar curvature be closely approximat-
+ed by an ellipse? J Orthop Res 1998;16:766-70.
+73. Harrison DE, Harrison DD, Troyanovich SJ. Reliability of
+spinal displacement analysis on plane x-rays: a review of
+commonly accepted facts and fallacies with implications for
+chiropractic education and technique. J Manipulative Physiol
+Ther 1998;21:252-66.
+74. Mosner EA, Bryan JM, Stull MA, Shippee R. A comparison
+of actual and apparent lumbar lordosis in black and white
+adult females. Spine 1989;14:310-4.
+75. Schoberth H. Sitzhaltung, sitzschaden, sitzmobel. Berlin:
+Springer Verlag; 1962.
+76. Lord MJ, Small JM, Dinsay JM, Watkins RG. Lumbar lordo-
+sis. Effects of sitting and standing. Spine 1997;22:2571-4.
+77. Yasukouchi A, Isayama T. The relationships between lumbar
+curves, pelvic tilt, and joint mobilities in different sitting pos-
+tures in young adults. Appl Human Sci 1995;14:15-21.
+78. Stokes IAF, Avery JM. Inﬂuence of the hamstring muscles on
+lumbar spine curvature in sitting. Spine 1980;5:525-8.
+79. Bridger RS, Wilkinson D, Houweninge van T. Hip joint
+mobility and spinal angles in standing and in different sitting
+postures. Hum Factors 1989;31:229-41.
+80. Black KM, McClure P, Polansky M. The influence of differ-
+ent sitting positions on cervical and lumbar posture. Spine
+1996;21:65-70.
+81. Bendix T, Biering-sorensen F. Posture of the trunk when sit-
+ting on forward inclining seats. Scand J Rehabil Med
+1983;15:197-203.
+82. Eastman MC, Kamon F. Posture and subjective evaluation at
+ﬂat and slanted desks. Hum Factors 1976;18:15.
+83. Grall TB. An experimental investigation of the quantitative ef-
+fects of postural support on man’s systematic stress mechanism
+during sustained visual task performance. Leichestershire,
+England: Institute for Consumer Ergonomics, University of
+Technology, Loughbourough; 1974.
+84. Bennett HE. School posture and seating. Boston: Ginn; 1928.
+85. Lay WF, Fisher LC. Riding comfort and cushions. Trans Soc
+Automotive Engineers 1940;47:482-96.
+86. Weddell AGM, Darcus HD. Some anatomical problems in
+naval warfare. Br J Indust Med 1947;4:77-83.
+87. Schultless W. Die pathologie und therapie der ruckgrats-
+verkrummungen. In: Handbuch der orthopadischen chirurgie
+von G. Joachimsthal. V ol. 2. Jena: 1905-1907. p. 487-1224.
+88. Hooton FA. A survey in seating. Gardiner (MA): Heywood-
+Wakeﬁeld Company; 1945.
+89. Darcus HD, Weddell AGM. Some anatomical and physiologi-
+cal principles concerned in the design of seats for naval war
+weapons. Br Med Bull 1947;5:31-7.
+90. Kroemer KHE. Seating in plant and office. Am Indust Hyg J
+1971:635-51.
+91. Ollefs HZ. Pressure distribution while sitting. Zeitschrift für
+Orthopädie und ihre Grenzgebiete 1951;80:573.
+92. Bush CA. Study on pressures on skin under ischial tuberosi-
+ties and thighs during sitting. Arch Phys Med 1969;50:207.
+93. Jurgens HW. Seat pressure distribution. Coll Antropol 1997;
+21:359-66.
+94. Brienza DM, Chung KC, Brubaker CE, Wang J, Karg TE, Lin
+CT. A system for the analysis of seat support surfaces shape
+control and simultaneous measurement of applied pressures.
+IEEE Trans Rehabil Eng 1996;4:103-13.
+95. Swearingen JJ, Wheelwright CD, Garner JD. An analysis of sit-
+ting areas and pressures in man. Oklahoma City (OK): US Civil
+Aero-Medical Research Institute; 1962. Report No. 62-1.
+96. Morant GM. Dimensional requirements for seats in R.A.F.
+aircraft. Flying Personnel Research Committee; 1947. Report
+No. 682.
+97. Majeske C, Buchanan C. Quantitative description of two sit-
+ting postures with and without a lumbar support pillow. Phys
+Ther 1984;64:1531-3.
+98. Grauer JN, Panjabi MM, Cholewicki J, Nibu K, Dvorak J.
+Whiplash produces an S-shaped curvature of the neck with
+hyperextension at lower levels. Spine 1997;22:2489-94.
+99. Floyd WF, Ward JS. Anthropometric and physiological con-
+siderations in school, ofﬁce, and factory seating. In: Grandjean
+E, editor. Sitting posture. London: Taylor & Francis Ltd; 1969.
+p. 18-25.
+100. Galante JO. Tensile properties of the human lumbar annulus
+ﬁbrosus. Acta Orthop Scand 1967;100(Suppl).
+101. Kapandji IA. L’anatomie fonctionelle du rachis lombo-sacre.
+Acta Orthop Belg 1969;35:543.
+102. Parke WW, Schiff DC. The applied anatomy of the interverte-
+bral disc. Orthop Clin North Am 1971;2:309.
+103. Nac hemson A. Lumbar intradiscal pressure. Experimental
+studies on post mortem material. Acta Orthop Scand
+1960;43(Suppl).
+104. Nac hemson A. The influence of spinal movements on the
+lumbar intradiscal pressure and on the tensile stresses in the
+annulus ﬁbrosus. Acta Orthop Scand 1963;33:183.
+105. Lundervold AJS. Electromyographic investigation of position
+and manner of working in typewriting. Acta Physiol Scand
+1951;84(Suppl).
+106. Lundervold AJS. Electromyographic investigation during
+typewriting. Ergonomics 1958;1:226.
+107. Basmajian JV , Bentzon JW. Electromyographic study of cer-
+tain muscles of the leg and foot in the standing position. Surg
+Gynecol Obstet 1954;98:662-6.
+108. Basmajian JV . Electromyography of iliopsoas. Anat Rec
+1958;130:267.
+109. Floyd WF, Silver PHS. The function of the erector spinae
+muscles in certain movements and postures in man. J Physiol
+1955;129:184-203.
+110. Joseph J, Nightingale A. Electromyography of muscles of
+posture: leg muscles in males. J Physiol 1952;117:484-91.
+111. Joseph J, Nightingale A. Electromyography of muscles of
+posture: thigh muscles in males. J Physiol 1954;126:81-5.
+112. Joseph J, Nightingale A. Electromyography of muscles of
+posture: leg and thigh muscles in women, including the
+effects of high heels. J Physiol 1956;132:465-8.
+113. Joseph J, Nightingale A, Williams PL. A detailed study of the
+electric potentials recorded over some postural muscles while
+relaxed and standing. J Physiol 1955;127:617-25.
+114. Joseph J, Williams PL. Electromyography of certain hip mus-
+cles. J Anat 1957;91:286-94.
+115. Carlsoo S. The static muscle load in different work positions:
+an electromyographic study. Ergonomics 1961;4:193-211.
+116. Brattgard SO. Design of wheelchairs and wheelchair service
+based on scientiﬁc research. Readaption 1969;162:11.
+117. Adams MA, Hutton WC. The effect of posture on the fluid
+content of lumbar intervertebral discs. Spine 1983;8:665-71.
+118. Dolan P, Adams MA, Hutton WC. Commonly adopted postures
+and their effect on the lumbar spine. Spine 1988;13:197-200.
+119. Fahrni WH, Trueman GE. Comparative radiological study of
+the spines of a primitive population with North Americans
+and North Europeans. J Bone Joint Surg 1965;47B:552-5.
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+608
+
+===== PAGE 16 =====
+
+Journal of Manipulative and Physiological Therapeutics
+Volume 22 • Number 9 • November/December 1999
+Sitting Biomechanics Part I • Harrison et al
+609
+120. Adams MA, Dolan P. Recent advances in lumbar spinal
+mechanics and their clinical signiﬁcance. Clin Biomechanics
+1995;10:3-19.
+121. Adams MA, McMillan DW, Green TP, Dolan P. Sustain load-
+ing generates stress concentrations in lumbar intervertebral
+discs. Spine 1996;21:434-8.
+122. Hedman TP, Fernie GR. Mechanical response of the lumbar
+spine to seated postural loads. Spine 1997;22:734-43.
+123. Less M, Eihelberg W. Force changes in neck vertebrae and
+muscles. In: Komi P, editor. Biomechanics. V ol. V-A. Balti-
+more: University Park Press; 1976. p. 530-6.
+124. Ferguson D. Posture aching and body build in telephonists. J
+Hum Ergol 1976;5:183-6.
+125. Hunting W, Grandjean E, Maeda K. Constrained postures in
+accounting machine operators. Appl Ergol 1980;11:145-9.
+126. Dempster WT. Space requirements for the seated operator.
+Wright-Patterson Air Force Base (OH): Aerospace Medical
+Research Library, Aerospace Medical Division, Air Force Sys-
+tems Command; 1955. W ADC Technical Report No. 55159.
+127. Biraune W, Fischer O. On the center of gravity of the human
+body. New York: Springer-Verlag; 1985.
+128. Vital JM, Senegas J. Anatomical bases of the study of the con-
+straints to which the cervical spine is subject in the sagittal
+plane. A study of the center of gravity of the head. Surg
+Radiol Anat 1986;8:169-73.
+129. McKenzie RA. The cervical and thoracic spine: mechanical
+diagnosis and therapy. Waikanae, New Zealand: Spinal Publi-
+cations; 1990.
+130. Lennon JM, Shealy CN, Cady RK, Matta W, Cox R, Simpson
+WF. Postural and respiratory modulation of autonomic func-
+tion, pain, and health. Am J Pain Manage 1994;4:36-9.
+131. Garrett TR,Youdas JW, Madson TJ. Reliability of measuring for-
+ward head posture in a clinical setting. JOSPT 1993;17:155-60.
+132. Lundstrom F, Lundstrom A. Natural head position as a basis
+for cephalometric analysis. Am J Orthod Dentofacial Orthod
+1992;101:244-7.
+133. Haughie LJ. Fiebert IM, Roach KE. Relationship of forward
+head posture and cervical backward bending to neck pain. J
+Manual Manip Ther 1995;3:91-7.
+134. Lafferty-Braun B, Amundson LR. Quantitative assessment of
+head and shoulder posture. Arch Phys Med Rehabil 1989;
+70:322-9.
+135. Ayub E, Glasheen-Wray M, Kraus S. Head posture: a case
+study of the effects of the rest position of the mandible.
+JOSPT 1984;8:179-83.
+136. Dar nell MW. A proposed chronology of events for forward
+head posture. J Craniomand Prac 1983;1:49-54.
+137. Saunders HD, Saunders R. Evaluation, treatment and preven-
+tion of musculoskeletal disorders. V ol. 1. Minnesota: Educa-
+tional Opportunities; 1993.
+138. Penning L. Normal movements of the cervical spine. Am J
+Roentgenol 1978;130:317-26.
+139. Penning L. Kinematics of cervical spine injury. A functional
+radiological hypothesis. Eur Spine J 1995;4:126-32.
+140. Eklund J, Odenrick P, Zettergren S, Johansson H. Head posture
+measurements among work vehicle drivers and implications
+for work and workplace design. Ergonomics 1994;37:623-39.
+141. Dvorak J, Panjabi MM, Novotny JE, Antinnes JA. In vivo
+flexion/extension of the normal cervical spine. J Orthop Res
+1991;9:828-34.
+142. Br eig A. Adverse mechanical tension in the central nervous
+system. Analysis of cause and effect. Relief by functional
+neurosurgery. New York: John Wiley and Sons; 1978.
+143. Bendix T. Trunk posture and load on the trapezius muscle
+whilst sitting at sloping desks. Ergonomics 1984;27:873-82.
+144. Christiansen K. Subjective assessment of sitting comfort. Coll
+Antropol 1997;21:387-95.
+145. Greil H. Ontogenetic aspects of dimensions and proportions
+in sitting posture. Coll Antropol 1997;21:367-86.
+146. Shackel B, Chidsey KD, Shipley P. The assessment of chair
+comfort. Ergonomics 1969;12:269-306.
+147. Barkla DM. Chair angles, duration of sitting, and comfort rat-
+ings. Ergonomics 1964;7:297-304.
+148. Cor lett EN, Bishop RP. A technique for assessing postural
+discomfort. Ergonomics 1976;19:175-82.
+149. Helander MG, Zhang L. Field studies of comfort and discom-
+fort in sitting. Ergonomics 1997;40:895-915.
+150. Genaidy AM, Karwowski W. The effects of neutral posture
+deviations on perceived joint discomfort ratings in sitting and
+standing postures. Ergonomics 1993;36:785-92.
+151. Branton P, Grayson G. An evaluation of train seats by obser-
+vation of sitting behavior. Ergonomics 1967;10:35-51.
+152. Br anton P. Behavior, body mechanics and discomfort.
+Ergonomics 1969;12:316-27.

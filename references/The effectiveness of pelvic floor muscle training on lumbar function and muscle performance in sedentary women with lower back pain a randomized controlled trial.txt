@@ -1,0 +1,903 @@
+===== PAGE 1 =====
+
+Si et al. BMC Women’s Health          (2025) 25:125  
+https://doi.org/10.1186/s12905-025-03644-z
+RESEARCH Open Access
+© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if 
+you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or 
+parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+BMC Women’s Health
+The effectiveness of pelvic floor muscle 
+training on lumbar function and muscle 
+performance in sedentary women with lower 
+back pain: a randomized controlled trial
+Xiangyue Si1, Lihua Zhang1*, Fanglei Li2 and Hongyang Liang1 
+Abstract 
+Objective This study aimed to investigate the impact of combined core and pelvic floor muscle (PFM) training 
+on lumbar function in sedentary women with lower back pain (LBP).
+Methods This randomized controlled study included 60 female patients divided into three groups: a control group 
+(n = 20), a core training group (n = 20), and a combined PFM and core training group (n = 20). The participants under-
+went three weekly interventions over four weeks. Trunk muscle endurance, deep lumbar stabilizing muscle activity, 
+and LBP severity were assessed before and after the intervention.
+Results Following the 4-week intervention: 1. In the combined PFM and core training group, significant improve-
+ments in muscle endurance (p < 0.01) were observed, particularly in the flexor, extensor, and right abdominal muscles 
+compared to the control group (p < 0.05). 2. In the core training group, significant increases in muscle endurance 
+were seen in various directions (p < 0.05), with highly significant improvements in flexion and right flexion directions 
+(p < 0.01). The flexor muscles exhibited greater endurance than the control group (p < 0.05). 3. In the control group, 
+dorsal muscle endurance significantly decreased after four weeks (p < 0.01). 4. Pain scores after 2 h of sitting signifi-
+cantly decreased (p < 0.01), along with reduced LBP differences (p < 0.05). There was a decrease in pain scores (p < 0.05) 
+and a significant reduction in LBP after 2 h of sitting (p < 0.01).
+Conclusion Core training, either independently or combined with PFM training, can enhance trunk muscle endur-
+ance and alleviate LBP in sedentary women with LBP . Core training alone appeared to have a more pronounced effect.
+Keywords Pelvic floor muscle training, Sedentary, Low back pain, Lumbar function, Core training
+Introduction
+Nonspecific low back pain (LBP)
+Nonspecific LBP is characterized by pain and discomfort 
+of uncertain origin, localized below the ribcage, above the 
+lower buttock creases, and between the midaxillary lines 
+on both sides. This pain arises from causes unrelated 
+to specific spinal diseases or radicular pain and may or 
+may not include pain referred to the thigh [1]. In recent 
+years, sedentary behavior has become increasingly com -
+mon across all age groups. Research has indicated that 
+*Correspondence:
+Lihua Zhang
+lihuazhangzlh@126.com
+1 Department of Musculoskeletal Rehabilitation, Beijing Rehabilitation 
+Hospital Affiliated to Capital Medical University, Beijing 100144, China
+2 Capital Medical University, Beijing 100144, China
+
+===== PAGE 2 =====
+
+Page 2 of 9Si et al. BMC Women’s Health          (2025) 25:125 
+sedentary lifestyles can lead to structural changes in the 
+spine [2], resulting in a degenerative process. People who 
+engage in sedentary activities and experience LBP tend to 
+have elevated levels of pro-inflammatory cytokines [3], 
+which can limit their range of motion and lead to work 
+absences. Moreover, LBP is more prevalent among work -
+ers and significantly affects their job performance and 
+daily activities, resulting in substantial economic losses 
+for society [4]. However, not everyone develops LBP 
+as a result of a sedentary lifestyle, despite its negative 
+health consequences. In experiments involving sedentary 
+behavior, 25%–50% of participants reported experiencing 
+LBP symptoms, and those whose pain increased by more 
+than 1 point before and after the sedentary period were 
+categorized as individuals with sedentary-related LBP 
+[5].
+Core muscle training
+The management of LBP in individuals with a sedentary 
+lifestyle primarily involves less active approaches, such 
+as modifying workplace setups by adjusting chair and 
+desk heights or extending break intervals [6]. Further -
+more, core muscle control training, recognized globally 
+as a crucial strategy for treating and managing LBP , is a 
+preventative and rehabilitative method that can allevi -
+ate non-specific LBP resulting from a sedentary lifestyle. 
+It enhances lumbar function, increases flexibility, and 
+reduces the likelihood of recurrence.
+Pelvic floor muscle (PFM) training
+There is ongoing debate regarding the link between pel -
+vic floor dysfunction and LBP due to variations in exper -
+imental design. Some studies indicate that there are no 
+significant differences in PFM strength between individu-
+als with LBP and those without, and that the effectiveness 
+of rehabilitation programs with or without PFM training 
+on LBP is comparable [7, 8]. Nevertheless, the majority 
+of experts tend to support the association between pel -
+vic floor dysfunction and LBP . Additionally, prior studies 
+on LBP intervention programs typically extended over 
+a longer duration, typically lasting 6–12  weeks. With -
+out exception, the PFM are an integral part of both the 
+core stabilizing muscle group and the accessory muscles 
+involved in respiration. Additionally, they share a close 
+connection with other deep stabilizing muscles. Research 
+has indicated that training the PFM can enhance the per -
+formance of the transversus abdominis (TrA) and can 
+have a positive impact on alleviating LBP , making PFM 
+contraction a valuable component of abdominal muscle 
+training [8]. An increase in the thickness of the lumbar 
+multifidus (LM) and TrA can mitigate LBP , whereas their 
+dysfunction can raise the risk of LBP [9, 10].
+During breathing, the diaphragm and PFM should 
+move in coordination. When inhaling, the diaphragm 
+contracts, pulling the lumbar spine forward while pre -
+venting the chest from rising excessively. The TrA runs 
+horizontally across the abdomen, connecting to the lum -
+bar vertebrae transverse processes through the thora -
+columbar fascia [11]. In the lumbar region, the LM is 
+particularly developed and works primarily to counter 
+spinal rotation and sliding, maintaining spinal curvature 
+and ensuring close alignment of the vertebrae. The simul-
+taneous contraction of the TrA and LM provides stability 
+to the spine, sustaining intra-abdominal pressure (IAP) 
+to indirectly enhance spinal stability.
+Strong PFM contractions enhance recruitment and 
+contraction force of other respiratory muscles, also 
+allowing for increased breathing speed [12, 13]. Fur -
+thermore, the combined activation of the PFM and TrA 
+can raise IAP , thereby stabilizing the pelvic and lumbar 
+areas. The PFM helps maintain IAP via a feedforward 
+activation mechanism that stabilizes the trunk against 
+disturbances, such as lifting an arm, where trunk muscles 
+activate preemptively to maintain stability. This feedfor -
+ward mechanism is similar to that of the TrA, diaphragm, 
+and LM [14, 15].
+Research shows that PFM training can improve TrA 
+function and has positive effects on lower back pain, 
+making PFM contraction beneficial for core muscle acti -
+vation training [8]. Conversely, TrA training can enhance 
+PFM function, suggesting that TrA training could serve 
+as an indirect form of PFM training [16]. However, 
+although PFM and TrA influence each other, there is 
+ongoing debate about the effectiveness of separate ver -
+sus combined training of these muscles. Some studies 
+suggest that isolated PFM training is more effective than 
+combined TrA and PFM training (e.g., simultaneous PFM 
+contraction during inhalation) [17], potentially because 
+TrA contraction increases IAP , which may reduce PFM 
+activation [18].
+Study objective
+In this study, we aim to compare core training combined 
+with PFM training to conventional core training, with 
+the goal of highlighting the similarities and differences in 
+how these two programs affect the lumbar function, such 
+as muscle endurance and muscle thickness change, and 
+muscle performance of sedentary individuals suffering 
+from LBP .
+Data and methods
+Participants
+In this randomized controlled study, from January 1, 
+2021, to July 31, 2022, we enlisted 60 females living a sed-
+entary lifestyle, comprising both students and individuals
+
+===== PAGE 3 =====
+
+Page 3 of 9
+Si et al. BMC Women’s Health          (2025) 25:125 
+ 
+from the community, who were associated with the Bei -
+jing Rehabilitation Hospital under Capital Medical Uni -
+versity. Data collection took place subsequent to their 
+completion of the informed consent form. Inclusion cri -
+teria: (1) Aged 18–40 years; (2) Sitting for more than 6 h 
+daily in the past 3 months [19]; (3) LBP > 3 points meas -
+ured by Visual Analog Scale (VAS) under normal circum-
+stances, or LBP < 3 points under normal circumstance 
+with the pain change greater than 1 point after sitting 
+for 2 h [20]; (4) No treatment for LBP , if any, within one 
+month.
+Exclusion criteria
+(1) Presence of specific pathological and anatomical 
+lumbar conditions (e.g., compression fracture, lum -
+bar disc herniation); (2) Neurological abnormalities in 
+the spine (e.g., paresthesia of lower limbs, weakness of 
+lower limbs); (3) Pelvic floor dysfunction, assessed by the 
+supine position test of bladder base movement; [21].(4) A 
+history of spinal surgery; (5) Pregnant or lactating. 
+Grouping methods
+Participants were randomly assigned to three different 
+groups: the control group (referred to as Group C), the 
+core training group (referred to as Group T), and the 
+combined PFM and core training group (referred to as 
+Group P) using a numerical randomization method (1, 2, 
+3; 1, 2, 3…). Essential demographic information about the 
+participants can be found in Table  1. There was no sig -
+nificant difference in each item among the three groups 
+in Table 1.
+Evaluation methods
+The examination occurred at the Musculoskeletal Reha -
+bilitation Center in Beijing Rehabilitation Hospital, which 
+is associated with Capital Medical University. Ultrasound 
+was used to assess the thickness of the deep lumbar stabi-
+lizing muscle both before the experiment and four weeks 
+after the training intervention. All ultrasound evaluations 
+were performed by the same investigator. Additionally, 
+the assessment of LBP in individuals leading a sedentary 
+lifestyle was conducted. Women’s physical activity level 
+was assessed by the International Physical Activity Ques -
+tionnaire-short Form [22]. The participants were blinded 
+to the intervention. However, since the therapists worked 
+within the hospital and were familiar with the treatment 
+plans, blinding was not applied to them.
+(1) Muscle endurance tests
+• Extensor muscle endurance test: The participant lies 
+prone on a treatment bed with the hip, knee, and 
+ankle joints of the lower limbs secured to the bed, 
+and the anterior superior iliac spine aligned with the 
+edge of the bed. The upper body extends outward 
+from the bed with arms crossed, maintaining a posi -
+tion parallel to the floor.
+• Flexor muscle endurance test: The participant sits on 
+a treatment bed with arms crossed and hands placed 
+on opposite shoulders. The trunk is angled at 60° 
+relative to the ground, with the hip and knee joints 
+flexed at 90° and feet stabilized.
+• Side bridge test: The participant lies on their side on 
+a mat with the upper foot positioned in front of the 
+lower foot. The supporting arm is flexed, while the 
+opposite hand rests on the shoulder. Upon starting, 
+the participant lifts their hip off the mat.
+(2) TrA test
+ The participants were positioned comfortably, sitting 
+with their knee and hip joints bent at a 90° angle. 
+They had their hands either folded over their legs 
+or resting on the bed, while their upper limbs were 
+supported and relaxed. Images were captured to 
+show the thickness of abdominal muscles at the 
+conclusion of a regular exhale. Following these ini -
+tial postures, the participants were instructed to 
+perform an abdominal draw-in maneuver (ADIM), 
+after which images were taken to showcase the 
+thickness of the abdominal muscles during activa -
+tion. The level of activation was determined using 
+Table 1 Basic information of sedentary participants with LBP
+No significant difference was observed in each characteristic among groups
+Age (y) Height (cm) Weight (kg) Sedentary time (h) Physical 
+activity level 
+(h/d)
+Group C (n = 20) 23.75 ± 1.83 164.70 ± 2.60 56.39 ± 3.59 10.90 ± 2.82 2.65 ± 2.21
+Group T (n = 20) 26.15 ± 5.39 166.40 ± 2.44 55.25 ± 3.85 10.55 ± 2.70 2.63 ± 2.23
+Group P (n = 20) 24.55 ± 3.36 165.90 ± 4.29 57.60 ± 4.31 11.15 ± 2.30 1.87 ± 1.16
+
+===== PAGE 4 =====
+
+Page 4 of 9Si et al. BMC Women’s Health          (2025) 25:125 
+the formula [(thickness during activation – thick -
+ness during relaxation] / thickness during relaxa -
+tion] * 100% [23].
+(3) LM test
+ The participants were positioned comfortably in a 
+seated posture, with both the knee and hip joints 
+bent at a 90-degree angle. They placed their hands 
+either on their laps or the bed, while their upper 
+limbs were adequately supported and relaxed. The 
+participants maintained their hands on either side 
+of their legs to offer support and relaxation to their 
+upper limbs. Images were captured during the 
+exhalation phase to depict the muscle thickness at 
+rest. For the opposite arm, a 1-pound dumbbell was 
+held, and it was straightened until the shoulder joint 
+reached a 90-degree flexion. Subsequently, images 
+were taken to illustrate the muscle thickness during 
+activation. The degree of activation was determined 
+using the following formula: [(thickness during acti-
+vation—thickness at rest) / thickness at rest] * 100% 
+[24].
+(4) Degree of PFM activation
+ To achieve sharp images, the participants were made 
+to drink 600–750  ml of water 30  min before the 
+test and finish drinking it 1  h prior to the exami -
+nation. During this period, participants were not 
+allowed to urinate to maintain a full bladder for 
+optimal results. Participants were positioned on 
+their backs with their feet resting on the bed, their 
+hip and knee joints bent at a 60-degree angle, and 
+their lower back in a neutral position. An ultra -
+sound probe was positioned between the symphysis 
+pubis and the navel, aligned perpendicularly with 
+the center line. The probe was adjusted by tilting 
+and angling it within a range of approximately 15 
+to 30 degrees, depending on each participant, until 
+a clear image was achieved. A reference point was 
+marked at the base of the bladder, and participants 
+were instructed to contract their PFM by follow -
+ing the guidance to "contract and lift the PFM, as if 
+holding in urine." Another point was marked at the 
+peak of this contraction, and the distance between 
+these two points was measured and recorded as 
+data indicating the activation of the PFM [12].
+(5) VAS
+ The impact of LBP on patients was assessed using 
+a 10-cm line segment. A scale ranging from 0 to 
+100 points was employed, with 0 points represent -
+ing "absolutely no pain" and 100 points indicating 
+"excruciating pain" [25]. Pain levels were measured 
+both before a period of inactivity and 2 h after, and 
+the alterations in pain were computed.
+Training program
+Participants underwent intervention training three times 
+per week over a four-week period. The training sessions 
+took place at the Musculoskeletal Rehabilitation Center 
+in Beijing Rehabilitation Hospital, which is affiliated with 
+Capital Medical University. All subjects adhered well to 
+the protocol and successfully completed the total number 
+of repetitions as required.
+(1) Group C did not receive any form of intervention
+(2) Group T followed a program based on prior 
+research [26, 27]. In the core training, each exercise 
+was performed for two sets of 10 repetitions, with a 
+20-s rest interval between sets. In the core dynamic 
+stability training, each exercise was performed for 
+two sets of 10 repetitions, with a 1-min rest inter -
+val between sets. In the core static stability training, 
+each exercise was performed for two sets with spe -
+cific durations: the ventral bridge was held for 30 s, 
+the side bridge on each side was held for 20 s, the 
+hip bridge using both legs was held for 1 min, and 
+the hip bridge on each leg was held for 30 s. After 
+each exercise, muscles such as the abdominal mus -
+cles, dorsal muscles, lateral abdominal muscles, 
+glutes, and posterior thigh muscles were stretched 
+for relaxation, with each stretch held for 30 s. The 
+specific exercises are detailed in Table 2.
+(3) Group P underwent the same intervention program 
+as Group T, with the addition of PFM contraction 
+training [28]. During the pre-intervention testing, 
+PFM contractions were assessed. If the patient was 
+unable to perform the contractions, visual feedback 
+via ultrasound imaging was used for training. Once 
+the patient had mastered the movement, subsequent 
+exercises began. During weeks 1–2, the participants 
+were instructed to contract their PFM while in a 
+supine position, with a 6-s contraction followed by 
+a 6-s relaxation, for a continuous duration of 5 min. 
+In weeks 3–4, participants were required to contract 
+their PFM while sitting, with a 10-s contraction fol -
+lowed by a 5-s relaxation, also for a continuous dura -
+tion of 5 min.
+Statistical analysis
+All test metrics were subjected to statistical analysis 
+using SPSS 25.0 software, and data values are repre -
+sented as mean ± standard deviation (x ± s). Comparisons 
+between the three groups were conducted either through 
+a one-way ANOVA or a rank sum test for multiple
+
+===== PAGE 5 =====
+
+Page 5 of 9
+Si et al. BMC Women’s Health          (2025) 25:125 
+ 
+independent samples, depending on the approximate 
+normal distribution of the sample data. Meanwhile, 
+within each group, the mean of metrics before and after 
+sample intervention was assessed using either the paired 
+t-test or the rank sum test for paired samples, contingent 
+on the sample data’s approximate normal distribution. 
+When p > 0.05, it signified no statistically significant dif -
+ferences; when p < 0.05, it indicated statistical differences, 
+and when p < 0.01, it denoted highly significant statistical 
+differences.
+Results
+As indicated in Table  3, there were no significant statis -
+tical differences in each of the indices among the three 
+groups before the intervention (p > 0.05).
+Following a 4-week intervention, Group P demon -
+strated a significant improvement in the endurance of 
+all muscles (p < 0.01). Specifically, the endurance of the 
+flexor, extensor, and right abdominal muscles in Group 
+P was notably superior to that in Group C (p < 0.05). In 
+Group T, there was an increase in muscle endurance in 
+the extension and left flexion directions (p < 0.05), and a 
+significant increase in endurance in the flexion and right 
+flexion directions (p < 0.01). Additionally, the endurance 
+of the flexor was better than that in Group C (p < 0.05). 
+Conversely, in Group C, the endurance of the extensor 
+decreased significantly after 4 weeks (p < 0.01). (Table 3).
+After 4  weeks of intervention, Group C exhibited a 
+slight reduction in TrA activation and a slight increase in 
+LM and PFM activation, although these differences were 
+not statistically significant (p > 0.05). In Group T, there 
+was an increase in TrA and LM activation, and a slight 
+decrease in PFM activation, yet these differences were 
+not statistically significant (p > 0.05). In Group P , the acti-
+vation of all muscles increased, but the differences were 
+not statistically significant (p > 0.05). After a 4-week inter-
+vention, Group C did not exhibit any significant altera -
+tions in LBP indicators when compared to their baseline 
+measurements from before the intervention (p > 0.05). 
+However, in Group T and Group P , the pain scores nota-
+bly improved after sitting for 2 h compared to their base -
+line measurements before the 4-week intervention, and 
+this difference was statistically significant (p < 0.01). Fur -
+thermore, the differences in pain scores also showed a 
+significant improvement (p < 0.05). In typical situations, 
+the pain scores and differences in Group P also displayed 
+improvement, although the change was not statistically 
+significant (p > 0.05). (Table 3).
+Discussion
+Key findings of this study
+Both core training alone and when coupled with PFM 
+training exhibit the potential to enhance lumbar function 
+in sedentary women experiencing LBP , as well as improve 
+Table 2 Movements in core training program
+Number of weeks Activation training Dynamic stability training Static stability Stretching
+Weeks 1–2 1. Activation of erector 
+spine muscle in a prone 
+position
+2. Activation of TrA 
+in a supine position
+3. Abdominal breathing 
+in a supine position
+4. Hold breath 
+in a supine position
+5. Cat and camel pose 
+in a four-point kneeling 
+position
+1. Crunch: flexion of the hip joint 
+and knee joint in a supine position 
+with feet on the mat
+2. Straight leg raised in a supine posi-
+tion: flexion of the hip joint and knee 
+joint in a supine position
+3. Extension of the hip joint in a four-
+point kneeling position: extension 
+of the hip joint and knee joint
+4. Dorsiflexion in a prone position: 
+for 5 s
+5. Dynamic side bridge: knee support
+1. Ventral bridge: knee support
+2. Side bridge: knee support
+3. Hip bridge: double-leg support
+Abdominal 
+muscles, dorsal 
+muscles, lateral
+abdominal 
+muscles, glutes, 
+and posterior 
+thigh muscle
+stretching
+Weeks 3–4 1. Activation of erector 
+spine muscle in a sitting 
+position
+2. Activation of TrA 
+in a sitting position
+3. Abdominal breathing 
+in a sitting position
+4. Hold breath in a sit-
+ting position
+5. Anterior and posterior 
+tilt of pelvis in a sitting 
+position
+6. Left and right tilt 
+of pelvis in a sitting 
+position
+1. Crunch: flexion of the hip joint 
+and knee joint at 90°, with both feet 
+off the mat
+2. Straight leg raised in a supine posi-
+tion: straighten both legs in a supine 
+position
+3. Extension of the hip joint in a four-
+point kneeling position + raise 
+the contralateral hand
+4. Dorsiflexion in a prone position: 
+in a prone position for 5 s
+5. Dynamic side bridge: foot support
+1. Ventral bridge: foot support
+2. Side bridge: foot support
+3. Hip bridge: single-leg support
+Abdominal 
+muscles, dorsal 
+muscles, lateral
+abdominal 
+muscles, glutes, 
+and posterior 
+thigh muscle
+stretching
+
+===== PAGE 6 =====
+
+Page 6 of 9Si et al. BMC Women’s Health          (2025) 25:125 
+trunk muscle endurance and alleviate LBP . Notably, 
+the combined approach appears to be more effective in 
+achieving these outcomes.
+Lumbar muscle endurance
+Reduced muscle endurance is a potential contributor 
+to chronic LBP . Moreover, insufficient endurance in the 
+dorsal muscles independently predicts LBP among work -
+ers [29]. Engaging in muscle endurance training can offer 
+several benefits for LBP management: enhancing dorsal 
+muscle strength provides significant protection for the 
+lumbar region, helping to prevent or mitigate injuries. 
+Additionally, improved dorsal muscle endurance reduces 
+lumbar muscle fatigue during extended periods of work, 
+thereby reducing the strain on the spinal structure and 
+the risk of injuries. Furthermore, the assessment of mus -
+cle endurance is a key component of evaluating trunk 
+stability and muscular endurance. Assessments of flexor 
+endurance in a seated position and extensor endurance in 
+a prone position are common methods for testing mus -
+cle endurance, and they demonstrate good reliability and 
+validity [30]. Carter et al. [31] conducted a 10-week Swiss 
+ball core stability training program on sedentary individ -
+uals, leading to a significant improvement in their dorsal 
+muscle endurance. Similarly, Sekendiz et al. [32] observed 
+substantial enhancements in abdominal and dorsal mus -
+cle strength and endurance in sedentary women after 
+an 8-week Swiss ball core stability training regimen. 
+These findings align with previous research, despite the 
+relatively short duration of the intervention. Panjabi [33] 
+suggested that spinal stability is upheld through three 
+distinct subsystems: the central nervous subsystem, the 
+passive subsystem, and the positive subsystem.
+In this study, we adopted a progressive training 
+approach. Initially, activation training aimed to engage 
+the deep stabilizing muscles and enhance propriocep -
+tion within them [34]. Subsequently, dynamic core sta -
+bility training was conducted to bolster neuromuscular 
+control capacity [35]. To facilitate progressive training 
+and enhance central nervous subsystem functionality, 
+the difficulty level and unstable elements were gradually 
+intensified. Next, static core stability training was imple -
+mented to enhance the performance of global muscles, 
+with particular emphasis on the endurance of the dorsal 
+muscles among the participants [36]. This not only led 
+to increased muscle endurance but also yielded positive 
+effects on muscle strength, stability, coordination, and 
+control capacity, ultimately improving the functioning of 
+the positive subsystem.
+Furthermore, combined PFM and core training results 
+in more significant improvements in muscle endurance 
+across various directions compared to core training [37]. 
+Despite the prolonged training time due to the additional 
+PFM training, it remained shorter than the time devoted 
+to global training. The PFM activation training primar -
+ily centered on low-intensity and targeted contractions, 
+exerting minimal direct impact on global muscle endur -
+ance. Consequently, it is plausible that PFMs, being a 
+Table 3 Assessing alterations in lumbar function among the three groups prior to and following the intervention (‾x ± s)
+TrA transversus abdominis, LM lumbar multifidus, PFM pelvic floor muscle
+*  p < 0.05, there is a significant difference before and after intervention. ** p < 0.01, there is a significant difference before and after intervention. + p < 0.05, there is a 
+significant difference, compared with the control group. + + p < 0.01, there is a significant difference, compared with the control group
+Group C (n = 20) Group T (n = 20) Group P (n = 20)
+Before 
+intervention
+After intervention Before 
+intervention
+After intervention Before 
+intervention
+After intervention
+Muscle endurance test (s)
+ Flexion 69.70 ± 18.73 74.50 ± 35.92 77.15 ± 21.25 94.75 ± 15.14**+ 72.10 ± 15.75 95.95 ± 19.38**+
+ Extension 80.15 ± 14.22 66.90 ± 17.10** 78.40 ± 22.21 111.00 ± 53.40* 70.30 ± 19.05 120.18 ± 38.71**+
+ Left flexion 44.50 ± 22.80 45.70 ± 19.70 38.85 ± 18.58 47.45 ± 17.32* 44.80 ± 29.78 59.60 ± 27.37**
+ Right flexion 43.85 ± 22.83 44.15 ± 21.44 39.45 ± 20.61 47.80 ± 16.86** 45.45 ± 29.72 59.35 ± 23.12**+
+Muscle thickness
+ TrA (%) 47.27 ± 20.24 44.93 ± 30.81 47.56 ± 22.10 63.81 ± 35.93 46.01 ± 21.05 63.19 ± 32.08
+ LM (%) 6.67 ± 4.98 7.37 ± 6.34 5.99 ± 3.76 7.68 ± 5.89 7.27 ± 4.36 8.92 ± 4.82
+ PFM (mm) 55.40 ± 25.18 59.15 ± 29.90 62.10 ± 38.78 61.00 ± 30.29 50.65 ± 25.79 69.65 ± 31.06
+Pain score (point)
+ Initial score 1.64 ± 0.79 1.62 ± 0.99 2.10 ± 1.05 1.72 ± 0.88 2.00 ± 1.10 1.70 ± 0.80*
+ Score after sitting 
+for 2 h
+4.96 ± 1.30 4.82 ± 1.57 5.62 ± 1.39 4.51 ± 1.37** 5.72 ± 1.55 4.98 ± 1.25**
+ Differences 
+in pain scores
+3.32 ± 0.88 3.20 ± 1.05 3.53 ± 1.39 2.79 ± 1.45* 3.73 ± 1.14 3.28 ± 1.06*
+
+===== PAGE 7 =====
+
+Page 7 of 9
+Si et al. BMC Women’s Health          (2025) 25:125 
+ 
+vital component of the stability system, engage with other 
+lumbar muscles to mutually reinforce each other. The 
+contraction of PFMs indirectly influences the contraction 
+of other localized stabilizing muscles, thereby fortifying 
+core stability.
+Deep lumbar stabilizing muscle thickness
+Several studies have investigated alterations in muscle 
+engagement among patients with LBP . Firstly, patients 
+with LBP tend to activate more superficial muscles [38]. 
+Additionally, there is a delay in muscle contraction and 
+relaxation times [39], as well as reduced muscle activa -
+tion during functional movements when compared to 
+individuals without LBP [40]. Furthermore, during the 
+ADIM, patients with LBP exhibit significantly lower TrA 
+activation compared to those without LBP [41]. The TrA 
+activation is also delayed during rapid body movements 
+in patients with LBP [42]. The changes observed in the 
+appearance of the deep LM indirectly indicate a decrease 
+in muscle recruitment [43]. Consequently, in response 
+to these muscle changes, it is imperative to develop cor -
+responding training methods in clinical rehabilitation 
+to enhance the control and coordination capabilities of 
+trunk muscles, especially the deep stabilizing muscles 
+[44]. The 4-week core training program, which included 
+the activation of deep stabilizing muscles, enhanced pro -
+ficiency in activating these muscles through the process 
+of motor learning, and involved three stages: the cogni -
+tive stage, the associative stage, and the automatic stage. 
+During the cognitive stage, individuals rely heavily on 
+external information and declarative memory, care -
+fully thinking, coordinating, and processing informa -
+tion before executing actions. However, as this process 
+is conscious and relatively slow, it often leads to more 
+errors and variations in their movements. In the associa -
+tive stage, individuals become less reliant on declarative 
+memory and require less conscious control over each 
+aspect of their movements. As a result, their motions 
+become quicker, smoother, and less error-prone. The 
+duration of the associative stage can vary based on the 
+complexity of the movements and the learning capacity 
+of individuals. In the automatic stage, conscious control 
+is no longer necessary, and skills are governed by proce -
+dural memory. This allows learners to divert their atten -
+tion to other aspects, thereby improving the accuracy, 
+speed, and efficiency of their movements [45].
+As a part the training plan, we used targeted activa -
+tion training to engage the TrA through the ADIM 
+motion. This approach aimed to enhance TrA func -
+tionality while reducing the activation and contraction 
+of superficial muscles during stability motions [40, 43]. 
+LM muscle plays a crucial role in trunk stability, but it 
+often experiences dysfunction in patients with LBP . LM 
+activation training aimed to reeducate the LM through 
+specific activation motions and finger strength guid -
+ance. This process stimulated the neural control of the 
+LM and transformed its inactive state.
+During this study, the PFM activation slightly 
+decreased in Group T after intervention. It appears 
+that core training alone may have a negative impact 
+on PFM contraction function. One potential explana -
+tion is that core training effectively strengthens the dia -
+phragm, abdominal muscles, and dorsal muscles, but 
+it does not adequately address PFM training [18]. As a 
+result, the PFM, being a weak link, experiences reduced 
+contraction when intra-abdominal pressure increases. 
+However, combining core training with PFM training 
+has a positive impact on PFM activation. This leads 
+to an improvement or tendency toward improvement 
+in muscle activation in all directions, ensuring intra-
+abdominal pressure and spinal stability.
+Furthermore, since the combined PFM and core 
+training significantly increased PFM activation, and 
+considering that TrA, LM and PFM are all integral 
+parts of the deep lumbar stabilizing muscles, they 
+mutually influence each other. Consequently, increased 
+PFM activation positively affects other deep stabiliz -
+ing muscles. Through intervention targeting these deep 
+stabilizing muscles, the participants gradually gained 
+better control over muscle contractions. However, it is 
+worth noting that previous studies typically involved 
+interventions lasting 6–12  weeks, and the relatively 
+short intervention time in this study may explain the 
+insignificant improvement in certain indicators.
+LBP
+It is crucial to quantify pain for measurement and 
+analysis to evaluate the effectiveness and impact of 
+pain management as well as innovative pain treatment 
+methods. Improvements in LBP have been regularly 
+seen in studies focused on training interventions for 
+people with sedentary lifestyles suffering from both 
+LBP and nonspecific LBP [46, 47]. This is consistent 
+with the inference made here. Three subsystems are 
+said to maintain spinal stability according to Panjabi 
+[33]. The passive and central nervous systems’ abilities 
+are effectively improved by the experimental program 
+presented in this study. This program improves over -
+all muscle function when combined with PFM train -
+ing and aids in maintaining intra-abdominal pressure 
+to guarantee spinal stability [48]. As a result, it lessens 
+the symptoms of LBP , lowers pain-avoidance behaviors 
+brought on by LBP , and helps patients improve their 
+lumbar and general physical functions, easing the tran -
+sition back to normal life.
+
+===== PAGE 8 =====
+
+Page 8 of 9Si et al. BMC Women’s Health          (2025) 25:125 
+Limitations
+To reduce variances, we exclusively selected and 
+assessed healthy women  between the ages of 18 and 
+40. Exploring how PFM training relates to and affects 
+middle-aged people, the elderly, and men is essential 
+as there is still much to be said about this topic. Future 
+research should explore the long-term impacts of this 
+intervention because certain metrics in this study sig -
+nificantly improved after a 4-week session.
+Conclusion
+Both core training alone and the combination of core 
+and PFM training demonstrate significant potential for 
+improving lumbar function in sedentary women experi -
+encing LBP . This combined approach not only enhances 
+trunk muscle endurance but also alleviates LBP more 
+effectively than core training alone. Given these find -
+ings, incorporating PFM training into rehabilitation 
+programs may offer additional benefits and should be 
+considered in future clinical practices and research 
+efforts. Further studies are needed to validate these 
+results and explore the mechanisms underlying the 
+enhanced efficacy of the combined training approach.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+Xiangyue Si made substantial contributions to conception and design of the 
+research; Xiangyue Si and Fanglei Li were involved in drafting the manuscript 
+and revising it critically for important intellectual content and conception and 
+design; Fanglei Li, Hongyang Liang and Xiangyue Si made substantial contri-
+butions to acquisition and interpretation of data; Xiangyue Si and Hongyang 
+Liang analyzed the data; All authors given final approval of the version to be 
+published.
+Funding
+This study was supported by 2020 Beijing Rehabilitation Hospital Talent 
+Project (2020R-007).
+Data availability
+The datasets used and/or analyzed during the current study are available from 
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study was conducted in accordance with the declaration of Helsinki and 
+approved by the Ethics Committee of Beijing Rehabilitation Hospital Affiliated 
+to Capital Medical University. Written informed consent was obtained from all 
+participants.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 11 October 2023   Accepted: 28 February 2025
+References
+ 1. Van Middelkoop M, Rubinstein SM, Verhagen AP , et al. Exercise therapy 
+for chronic nonspecific low-back pain. Best Pract Res Clin rheumatol. 
+2010;24(2):193–204.
+ 2. Billy GG, Lemieux SK, Chow MX. Changes in lumbar disk morphology 
+associated with prolonged sitting assessed by magnetic resonance imag-
+ing. PM&R. 2014;6(9):790–5.
+ 3. Bergens O, Nilsson A, Papaioannou KG, et al. Sedentary patterns and 
+systemic inflammation: sex-specific links in older adults. Front Physiol. 
+2021;12:625950.
+ 4. Damato TM, Christofaro DGD, Pinheiro MB, et al. Does sedentary behav-
+iour contribute to the development of a new episode of low back pain? 
+A systematic review of prospective cohort. Eur J Pain. 2022;26(7):1412–23.
+ 5. Sheahan PJ, Diesbourg TL, Fischer SL. The effect of rest break schedule 
+on acute low back pain development in pain and non-pain developers 
+during seated work. Appl Ergon. 2016;53:64–70.
+ 6. Balci R, Aghazadeh F. Effects of exercise breaks on performance, muscular 
+load, and perceived discomfort in data entry and cognitive tasks. Comput 
+Ind Eng. 2004;46(3):399–411.
+ 7. Stuge B, Mørkved S, Dahl HH, et al. Abdominal and pelvic floor muscle 
+function in women with and without long lasting pelvic girdle pain. Man 
+Ther. 2006;11(4):287–96.
+ 8. Mohseni-Bandpei MA, Rahmani N, Behtash H, et al. The effect of pelvic 
+floor muscle exercise on women with chronic non-specific low back pain. 
+J Bodyw Mov Ther. 2011;15(1):75–81.
+ 9. Hodges P , Richardson C, Jull G. Evaluation of the relationship between 
+laboratory and clinical tests of transversus abdominis function. Physiother 
+Res Int. 1996;1(1):30–40.
+ 10. Hides J, Stanton WS, Sims K, et al. Effect of stabilizaton training on mult-
+fdus muscle cross-sectonal area among young elite cricketers with low 
+back pain. J Orthop Sports Phys Ther. 2008;38(3):101–8.
+ 11. Hodges PW, Richardson CA. Inefficient muscular stabilization of the 
+lumbar spine associated with low back pain: a motor control evaluation 
+of transversus abdominis[J]. Spine. 1996;21(22):2640–50.
+ 12. Talasz H, Kofler M, Kalchschmid E, et al. Breathing with the pelvic floor? 
+Correlation of pelvic floor muscle function and expiratory flows in healthy 
+young nulliparous women[J]. Int Urogynecol J. 2010;21(4):475–81.
+ 13. Cavaggioni L, Ongaro L, Zannin E, et al. Effects of different core exercises 
+on respiratory parameters and abdominal strength [J]. J Phys Ther Sci. 
+2015;27(10):3249–53.
+ 14. Sapsford RR, Hodges PW. Contraction of the pelvic floor muscles during 
+abdominal maneuvers[J]. Arch Phys Med Rehabil. 2001;82(8):1081–8.
+ 15. Madill SJ, McLean L. Relationship between abdominal and pelvic 
+floor muscle activation and intravaginal pressure during pelvic floor 
+muscle contractions in healthy continent women[J]. Neurourology and 
+Urodynamics: Official Journal of the International Continence Society. 
+2006;25(7):722–30.
+ 16. Dufour S, Vandyken B, Forget MJ, et al. Association between lumbopelvic 
+pain and pelvic floor dysfunction in women: A cross sectional study[J]. 
+Musculoskeletal Science and Practice. 2018;34:47–53.
+ 17. Ehsani F, Arab AM, Assadi H, et al. Evaluation of pelvic floor muscles activ-
+ity with and without abdominal maneuvers in subjects with and without 
+low back pain[J]. J Back Musculoskelet Rehabil. 2016;29(2):241–7.
+ 18. Bø K, Mørkved S, Frawley H, et al. Evidence for benefit of transversus 
+abdominis training alone or in combination with pelvic floor muscle 
+training to treat female urinary incontinence: a systematic review[J]. 
+Neurourology and Urodynamics: Official Journal of the International 
+Continence Society. 2009;28(5):368–73.
+ 19. Patel AV, Bernstein L, Deka A, et al. Leisure time spent sitting in relation 
+to total mortality in a prospective cohort of US adults. Am J Epidemiol. 
+2010;172(4):419–29.
+ 20. Dunton GF, Berrigan D, Ballard-Barbash R, et al. Joint associations of physi-
+cal activity and sedentary behaviors with body mass index: results from a 
+time use survey of US adults. Int J Obes. 2009;33(12):1427–36.
+ 21. Thompson JA, O’Sullivan PB, Briffa K, Neumann P , Court S. Assessment 
+of pelvic floor movement using transabdominal and transperineal ultra-
+sound. Int Urogynecol J Pelvic Floor Dysfunct. 2005;16(4):285–92. https:// 
+doi. org/ 10. 1007/ s00192- 005- 1308-3.
+ 22. Lee PH, Macfarlane DJ, Lam TH, Stewart SM. Validity of the International 
+Physical Activity Questionnaire Short Form (IPAQ-SF): a systematic review.
+
+===== PAGE 9 =====
+
+Page 9 of 9
+Si et al. BMC Women’s Health          (2025) 25:125 
+ 
+Int J Behav Nutr Phys Act. 2011;8:115. Published 2011 Oct 21. https:// doi. 
+org/ 10. 1186/ 1479- 5868-8- 115
+ 23. Cho SH, Kim KH, Baek IH, et al. Comparison of contraction rates of 
+abdominal muscles of chronic low back pain patients in different pos-
+tures. J Phys Ther Sci. 2013;25(8):907–9.
+ 24. Kiesel KB, Uhl T, Underwood FB, et al. Rehabilitative ultrasound measure-
+ment of select trunk muscle activation during induced pain. Man Ther. 
+2008;13(2):132–8.
+ 25. Zemp R, Fliesser M, Wippert PM, et al. Occupational sitting behaviour and 
+its relationship with back pain–A pilot study. Appl Ergon. 2016;56:84–91.
+ 26. Noormohammadpour P , Kordi M, Mansournia MA, et al. The role of a 
+multi-step core stability exercise program in the treatment of nurses with 
+chronic low back pain: a single-blinded randomized controlled trial. Asian 
+spine journal. 2018;12(3):490–502.
+ 27. Shamsi MB, Sarrafzadeh J, Jamshidi A. Comparing core stability and 
+traditional trunk exercise on chronic low back pain patients using 
+three functional lumbopelvic stability tests. Physiother Theory Pract. 
+2015;31(2):89–98.
+ 28. Bi X, Zhao J, Zhao L, et al. Pelvic floor muscle exercise for chronic low back 
+pain. J Int Med Res. 2013;41(1):146–52.
+ 29. Hamberg-van Reenen HH, Ariëns GAM, Blatter BM, et al. Physical capacity 
+in relation to low back, neck, or shoulder pain in a working population. 
+Occup Environ Med. 2006;63(6):371–7.
+ 30. Biering-Sørensen FIN. Physical measurements as risk indicators for low-
+back trouble over a one-year period. Spine. 1984;9(2):106–19.
+ 31. Carter J, Beam W, McMahan S, et al. Effects Of Stability Ball Training On 
+Spinal Stability In Those Who Work In Sedentary Occupations. Med Sci 
+Sports Exerc. 2005;37(5):S177–8.
+ 32. Sekendiz B, Cug M, Korkusuz F. Effects of Swiss-ball core strength training 
+on strength, endurance, flexibility, and balance in sedentary women. The 
+Journal of Strength & Conditioning Research. 2010;24(11):3032–40.
+ 33. Panjabi MM. The stabilizing system of the spine Part II Neutral zone and 
+instability hypothesis. Journal of Spinal Disorders. 1992;5:390–390.
+ 34. Shi J, Liu Z, Zhou X, Jin F, Chen X, Wang X, Lv L. Effects of breathing exer-
+cises on low back pain in clinical: A systematic review and meta-analysis. 
+Complement Ther Med. 2023;79:102993. https:// doi. org/ 10. 1016/j. ctim. 
+2023. 102993. (Epub 2023 Oct 10 PMID: 37827444).
+ 35. Gorji SM, Mohammadi Nia Samakosh H, Watt P , Henrique Marchetti P , 
+Oliveira R. Pain Neuroscience Education and Motor Control Exercises ver-
+sus Core Stability Exercises on Pain, Disability, and Balance in Women with 
+Chronic Low Back Pain. Int J Environ Res Public Health. 2022;19(5):2694. 
+https:// doi. org/ 10. 3390/ ijerp h1905 2694. PMID: 35270384; PMCID: 
+PMC8910692.
+ 36. Adnan H, Ghous M, Shakil Ur Rehman S, Yaqoob I. The effects of a static 
+exercise programme versus Swiss ball training for core muscles of 
+the lower back and pelvic region in patients with low back pain after 
+child delivery. A single blind randomized control trial. J Pak Med Assoc. 
+2021 Apr;71(4):1058–1062. https:// doi. org/ 10. 47391/ JPMA. 784. PMID: 
+34125743.
+ 37. Yu D, Yu Y, Peng Q, Luo J, He X. Clinical efficacy of breathing training com-
+bined with core stability training in chronic nonspecific low back pain. 
+Pak J Med Sci. 2023 Jul-Aug;39(4):1008–1012. https:// doi. org/ 10. 12669/ 
+pjms. 39.4. 6918. PMID: 37492324; PMCID: PMC10364287.
+ 38. Flor H, Haag G, Turk DC, et al. Efficacy of EMG biofeedback, pseudo-
+therapy and conventional medical treatment for chronic rheumatic back 
+pain. Pain. 1983;17(1):21–31.
+ 39. Radebold A, Cholewicki J, Panjabi MM, et al. Muscle response pattern to 
+sudden trunk loading in healthy individuals and in patients with chronic 
+low back pain. Spine. 2000;25(8):947–54.
+ 40. Sihvonen T, Lindgren KA, Airaksinen O, et al. Movement disturbances of 
+the lumbar spine and abnormal back muscle electromyographic findings 
+in recurrent low back pain. Spine. 1997;22(3):289–95.
+ 41. Critchley DJ, Coutts FJ. Abdominal muscle function in chronic low back 
+pain patients: measurement with real-time ultrasound scanning. Physi-
+otherapy. 2002;88(6):322–32.
+ 42. Hodges PW, Richardson CA. Altered trunk muscle recruitment in people 
+with low back pain with upper limb movement at different speeds. Arch 
+Phys Med Rehabil. 1999;80(9):1005–12.
+ 43. Rantanen J, Hurme M, Falck B, et al. The lumbar multifidus muscle five 
+years after surgery for a lumbar intervertebral disc herniation. Spine. 
+1993;18(5):568–74.
+ 44. Ferreira PH, Ferreira ML, Maher CG, et al. Changes in recruitment of trans-
+versus abdominis correlate with disability in people with chronic low 
+back pain. Br J Sports Med. 2010;44(16):1166–72.
+ 45. Wang LJ. The Influence of Abdominal Drawing-in Maneuver with Differ-
+ent Types of Biofeedback on Patients with Chronic Low Back Pain. MA 
+thesis, Beijing Sport University, 2017. http:// cdmd. cnki. com. cn/ Artic le/ 
+CDMD- 10043- 10171 81624. htm
+ 46. Miranda IF, Souza C, Schneider AT, et al. Comparison of low back mobility 
+and stability exercises from Pilates in non-specific low back pain: A study 
+protocol of a randomized controlled trial. Complement Ther Clin Pract. 
+2018;31:360–8.
+ 47. Seshagirirao M, Susmitha K, Sundari KS. A randomised controlled study 
+on core stability exercise programme using swiss ball, theraband and 
+floor exercises in cricketers with low back pain. International journal of 
+physiotherapy. 2015;2(6):885–93.
+ 48. Chown M, Whittamore L, Rush M, et al. A prospective study of patients 
+with chronic back pain randomised to group exercise, physiotherapy or 
+osteopathy. Physiotherapy. 2008;94(1):21–8.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
