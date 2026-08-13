@@ -1,0 +1,684 @@
+===== PAGE 1 =====
+
+.....................................................................................................................................................................................
+.....................................................................................................................................................................................
+CLINICAL RESEARCH
+Prevention and epidemiology
+Sedentary time and cardio-metabolic biomarkers
+in US adults: NHANES 2003–06
+Genevieve N. Healy 1,2*, Charles E. Matthews 3, David W. Dunstan 1,2,
+Elisabeth A.H. Winkler 1, and Neville Owen 1,2
+1Cancer Prevention Research Centre, School of Population Health, The University of Queensland, Herston Rd, Herston, QLD 4006, Australia; 2Baker IDI Heart and Diabetes
+Institute, PO Box 6492, St Kilda Road Central, Victoria 8008, Melbourne, Australia; and 3Division of Cancer Epidemiology and Genetics, Nutritional Epidemiology Branch, National
+Cancer Institute, 6120 Executive Boulevard, MSC 7242, Bethesda, MD 20892-7335, USA
+Received 17 August 2010; revised 27 September 2010; accepted 4 November 2010; online publish-ahead-of-print 11 January 2011
+Aims Prolonged sedentary time is ubiquitous in developed economies and is associated with an adverse cardio-metabolic
+risk proﬁle and premature mortality. This study examined the associations of objectively assessed sedentary time and
+breaks (interruptions) in sedentary time with continuous cardio-metabolic and inﬂammatory risk biomarkers, and
+whether these associations varied by sex, age, and/or race/ethnicity.
+Methods
+and results
+Cross-sectional analyses with 4757 participants ( ≥20 years) from the 2003/04 and 2005/06 US National Health and
+Nutrition Examination Survey (NHANES). An Actigraph accelerometer was used to derive sedentary time [ ,100
+counts per minute (cpm)] and breaks in sedentary time. Independent of potential confounders, including moder-
+ate-to-vigorous exercise, detrimental linear associations (P for trends ,0.05) of sedentary time with waist circum-
+ference, HDL-cholesterol, C-reactive protein, triglycerides, insulin, HOMA-%B, and HOMA-%S were observed.
+Independent of potential confounders and sedentary time, breaks were beneﬁcially associated with waist circumfer-
+ence and C-reactive protein (P for trends ,0.05). There was limited evidence of meaningful differences in associ-
+ations with biomarkers by age, sex, or race/ethnicity. Notable exceptions were sex-differences in the associations
+of sedentary time and breaks with HDL-cholesterol, and race/ethnicity differences in the association of sedentary
+time with waist circumference with associations detrimental in non-Hispanic whites, null in Mexican Americans,
+and beneﬁcial in non-Hispanic blacks.
+Conclusion These are the ﬁrst population-representative ﬁndings on the deleterious associations of prolonged sedentary time
+with cardio-metabolic and inﬂammatory biomarkers. The ﬁndings suggest that clinical communications and preventive
+health messages on reducing and breaking up sedentary time may be beneﬁcial for cardiovascular disease risk.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Keywords Epidemiology † Cardiovascular risk factors † Prevention † Population † Sedentary † Accelerometry
+Introduction
+Cardiovascular disease (CVD) is the leading cause of premature
+death in the USA and Europe. 1,2 Elevated levels of cardio-
+metabolic and inﬂammatory biomarkers have been associated
+with increased risk of CVD and premature mortality, even at
+levels below traditional cutpoints of categorically deﬁned risk.
+3,4
+Lack of regular exercise is an established modiﬁable risk factor
+for these biomarkers as well as incident CVD and premature mor-
+tality.
+5 More recently, time spent in self-reported sedentary behav-
+iour has been recognized as a unique risk factor, with detrimental
+associations observed with several of these outcomes.
+6 Both of
+these behavioural risk factors are highly prevalent, with objective
+measures revealing remarkably low levels of moderate–vigorous
+exercise
+7 and high levels of sedentary time 8 in adult populations.
+Furthermore, they are independent of each other, with the
+adverse inﬂuence of prolonged sedentary time being seen indepen-
+dent of exercise,
+9,10 and in those who are physically active at or
+above recommended levels. 9 These ﬁndings are consistent with
+the idea that sedentary behaviours have the potential to inﬂuence
+risk of disease, independent of exercise participation.
+To date, the majority of evidence on associations of sedentary
+time with cardio-metabolic biomarkers has been derived from self-
+report measures. Only three studies, from Europe and Australia,
+* Corresponding author. Tel: +61 7 3365 5528, Fax: +61 7 3365 5540, Email: g.healy@uq.edu.au
+Published by Oxford University Press on behalf of the National Institutes of Health 2011.
+European Heart Journal (2011) 32, 590–597
+doi:10.1093/eurheartj/ehq451
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 2 =====
+
+have examined these associations using an objectively derived (via
+accelerometers) measure of sedentary time. 11– 15 These studies,
+less prone to the biases and errors of self-report, showed that
+total sedentary time was detrimentally associated with waist cir-
+cumference, triglycerides, 2 h plasma glucose, 11,12 and insulin.13,14
+However, these ﬁndings are limited by small sample size 11,12,14,15
+a focus on high-risk individuals, 14 and have only evaluated white
+adults of European descent.11– 15 Given that variations in the exist-
+ence or strength of the associations of self-reported sedentary
+time with measures of cardio-metabolic health have been noted
+(mostly by sex 6 but also by race/ethnicity 16), it is important to
+establish (particularly in large, representative samples) whether
+such differences exist for objectively derived sedentary time.
+Furthermore, just as focusing exclusively on exercise time
+ignores the substantial daily contribution of both light-intensity
+incidental activity and sedentary time,
+12 focusing only on the
+total time spent sedentary might overlook important issues, such
+as how sedentary time is accumulated. An accelerometer-
+measurement study of 168 Australian adults showed accruing
+sedentary time in shorter periods (with more interruptions) to
+be less detrimental for cardio-metabolic health than accruing
+sedentary time in prolonged periods (with fewer interruptions).
+15
+Here, breaks (interruptions) in sedentary time were beneﬁcially
+associated with adiposity, triglycerides, and 2 h plasma glucose,
+independent of total sedentary and exercise time. 15 No other
+studies have explored this ‘breaks’ hypothesis in relation to cardio-
+metabolic biomarkers.
+Given the comparative lack of information about the relation-
+ships of sedentary time with cardio-metabolic and inﬂammatory
+risk in non-white populations, and the need to conﬁrm and
+extend on earlier ﬁndings regarding breaks in sedentary time,
+our aim was to examine the associations of accelerometer-derived
+total sedentary time and breaks in sedentary time with cardio-
+metabolic and inﬂammatory risk biomarkers in a large, ethnically
+diverse sample of US adults.
+Methods
+The National Health and Nutrition Examination Survey (NHANES) is
+a cross-sectional study that uses a complex, multistage probability
+design to obtain a representative sample of the USA civilian non-
+institutionalized population. The methods are described in detail at:
+http://www.cdc.gov/nchs/nhanes.htm.
+17 The survey consists of a house-
+hold interview and an examination conducted in a mobile examination
+centre (MEC). For this study, data were drawn from the 2003/04 and
+2005/06 NHANES cycles. For adults, response rates for the examin-
+ation component were 69% in 2003/04 and 71% in 2005/06.
+17 The
+study complies with the Declaration of Helsinki, the National Center
+for Health Statistics Ethics Review Board approved the protocols,
+and written informed consent was obtained.
+Study sample
+From an initial sample size of 20 472, adult participants ( ≥20 years;
+excluding those who were pregnant or taking insulin) who wore an
+accelerometer were included in the present study (eligible sample :
+7797). Those with missing values for outcome variables or covariates
+or with insufﬁcient valid accelerometer data were also excluded. Data
+from 4757 adults were available for full analyses ( full sample ), with
+sub-samples of 2118 available for fasting analyses ( fasting sub-sample),
+and 910 for 2 h plasma glucose analysis (oral glucose tolerance test:
+OGTT sub-sample ). Further details are provided in the Supplementary
+material oline, Figure S1.
+Accelerometer data collection and analysis
+All ambulatory participants attending the MEC were eligible for the
+accelerometer component (Actigraph 7164; Actigraph, LLC, Fort
+Walton Beach, FLA).
+17 The Actigraph accelerometer is a small
+(5.1 × 4.1 × 1.5 cm), lightweight (0.4 kg) instrument that records inte-
+grated acceleration information as an activity count, which provides an
+objective estimate of the intensity of bodily movement (particularly
+ambulatory movement).8 As these activity counts are time and date
+stamped, detailed data on the time, volume, and intensity of movement
+can be derived. This differs from a pedometer, which only measures
+the volume of movement. Lack of, or minimal movement recorded
+by the accelerometer can be used to derive the time spent sedentary.
+The accelerometer was worn on the right hip during waking hours
+(except for water-based activities) for 7 days. Initial screening excluded
+data from monitors not in calibration and data identiﬁed as question-
+able at the download phase.
+17 An automated program (SAS 9.1: http://
+riskfactor.cancer.gov/tools/nhanes_pam/)8 was adapted and used to
+implement quality control procedures, derive wear time, and summarize
+minute-by-minute data. Non-wear time was deﬁned as intervals of at
+least 60 consecutive minutes of 0 cpm, with allowance for up to 2 min
+of observations of some limited movement ( ,50 cpm) within these
+periods. Days with at least 10 h of wear time that did not contain exces-
+sively high counts (.20 000 cpm) were considered valid. To estimate a
+longer-term pattern of sedentary time, only participants with at least
+four valid days (10 + h of wear), including at least 1 weekend day,
+were included in the analyses.
+Accelerometer counts were used to classify all worn time as
+either sedentary ( ,100 cpm),
+8,11 –14 light-intensity activity (100–
+1951 cpm), or moderate–vigorous intensity physical activity (exercise ,
+≥1952 cpm):18 the intensity level recommended for health in
+current physical activity guidelines. 5 Interruptions in sedentary time,
+or a transition from a sedentary ( ,100 cpm) to an active state
+(≥100 cpm), was considered a break. 15 The number of breaks was
+summed over valid days15 and the mean duration of breaks was calcu-
+lated. Correction for the inﬂuence of variation in wear time on both
+the sedentary (total and breaks) and exercise variables was achieved
+by standardizing these values using the residuals obtained when regres-
+sing the variables on wear time.
+19 To facilitate interpretation of the
+clinical signiﬁcance of the ﬁndings, sedentary time, breaks, and exercise
+(corrected for wear time) were examined as quartiles. Light-intensity
+time was not examined as it had an almost perfect inverse correlation
+(Spearman’s
+r ¼ 20.98) with sedentary time (corrected for wear) and
+would have caused collinearity.
+Cardio-metabolic outcomes
+Waist circumference was measured to the nearest 0.1 cm at the level
+of the iliac crest. Resting systolic and diastolic blood pressures were
+measured three to four times with a mercury sphygmomanometer
+by trained staff and are reported as averages (excluding the ﬁrst
+reading and questionable values).
+17 Non-fasting serum measures of
+HDL-cholesterol were collected and analysed using the Roche/
+Boehringer-Mannheim Diagnostics direct HDL method. Non-fasting
+C-reactive protein concentrations were measured by latex-enhanced
+nephelometry on a Behring Nephelometer.
+Additionally, in a sub-sample of participants who attended the
+morning examination (half of all sampled), fasting measures were
+Sedentary time and cardio-metabolic biomarkers in US adults 591
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 3 =====
+
+obtained for triglycerides, plasma glucose, and insulin. There was no
+exclusion for the fasting sample based on drug treatment, and no
+speciﬁc instructions were given with respect to a drug washout
+period for those in this portion of the study. Triglycerides were
+measured enzymatically at both time points, using the Beckman
+Synchron LX20 analyser in 2003/04 and the Hitachi 717/912 analysers
+in 2005/06. Glucose was analysed using the hexokinase method, using
+the Roche Cobas Mira analyser in 2003/04 and the Roche/Hitachi 911
+analyser in 2005/06. Insulin was analysed via the Tosoh AIA-PACK IRI
+immunoenzymometric assay in 2003/04 and the Merocodia Insulin
+ELISA immunoassay in 2005/06. To account for differences in the
+methods, we applied correction equations to the fasting plasma
+glucose and insulin values, after truncating values to assay-speciﬁc
+detectable ranges (to avoid negative estimates). These corrected
+values were used in the Homeostatic Model Assessment to provide
+measures of b-cell function (HOMA-%B) and insulin sensitivity
+(HOMA-%S). Furthermore, all fasting participants in the 2005/06
+survey underwent an OGTT from which 2 h plasma glucose values
+were obtained. All outcomes were treated continuously, with
+natural log transformation applied to non-normal distributions.
+Covariates
+Socio-demographics
+Interviewer-administered questionnaires obtained socio-demographic
+information. Age (years) at the time of the survey was treated continu-
+ously, allowing for curvilinear relationships by also modelling
+age-squared (where statistically signiﬁcant). Categories of educational
+attainment, marital status and poverty–income ratio, and self-reported
+race/ethnicity were used, as listed in the Supplementary material
+online, Table S1.
+Behaviours
+Smoking status was categorized according to serum-cotinine levels.
+A single 24 h diet-recall coupled with US Department of Agriculture
+food composition data measured intakes of total energy and saturated
+fat (as a percentage of total energy) and alcohol. Additionally, potass-
+ium, ﬁbre, caffeine, and calcium intakes were considered with respect
+to blood pressure. Dietary variables were examined as quintiles,
+except for alcohol, which was collapsed into sex-speciﬁc categories
+based on US Dietary guidelines.
+20
+Medical history
+Dichotomous variables were generated from self-reported medical
+history for diabetes, CVD, and cancer and (for females only) use of
+oral contraceptives, hormone replacement and post-menopausal
+status. Current medication use was recorded, and coded according
+to the Lexicon Plus (Cerner Multum Inc.) database.
+17
+Statistical analysis
+To obtain population-representative ﬁndings, linearized estimates with
+weightings were computed in Stata v.11 (College Station, TX, Stata
+Corporation). Two year sample weights for each NHANES cycle
+were combined to provide 4 year weights for the 2003–06 survey
+periods. Sub-sample weights were used for the fasting and OGTT out-
+comes; all other analyses used examination weights that were
+reweighted to account for the non-random absence of accelerometer
+data.
+7 Statistical signiﬁcance was set at P , 0.05 for main effects, and
+P , 0.1 for interactions; tests were two-sided.
+Linear regression analyses examined the associations of total seden-
+tary time and breaks in sedentary time with cardio-metabolic out-
+comes. Model 1 adjusted only for age, sex, and race/ethnicity. Model
+2 additionally adjusted for socio-demographic, behavioural, and
+medical confounding factors that a backward elimination process had
+previously identiﬁed as speciﬁcally relevant for each outcome (P ,
+0.2 for retention: see Supplementary material online, Table S2 )a s
+well as quartiles of exercise time. To examine the extent to which
+central obesity may mediate the associations observed with other
+cardio-metabolic outcomes, Model 3 further adjusted for waist
+circumference. The associations for breaks were examined having
+adjusted for sedentary time (quartiles). The ﬁndings from Model 2
+are presented as the main results; the results from Model 1 and
+Model 3 are reported in Supplementary material online, Table S4 .
+Results are reported as marginal means for each quartile of
+exposure, back-transformed from the log scale for the non-normal
+outcomes.
+Interactions examined whether associations varied by sex, race/
+ethnicity, or age (adjusting as per Model 2, but without weighting,
+to avoid the problem of inﬂated standard errors). Race/ethnicity
+comparisons excluded the ‘Other’ race/ethnicity group, where
+the small sample size precluded meaningful interpretation. Strati-
+ﬁed analyses differed from the main analyses in that they adjusted
+for reproductive variables (in female only models, if P , 0.2); rou-
+tinely adjusted for poverty–income ratio (all race/ethnicity
+models); used collapsed sampling strata and response categories
+for smoking and alcohol when required due to insufﬁcient
+numbers; and used sex-speciﬁc, race/ethnicity speciﬁc, or sex and
+race/ethnicity speciﬁc quartiles as appropriate. Age interactions
+were tested using continuous age, centred on the mean
+(unweighted mean ¼ 53.0 years).
+Results
+The population-weighted socio-demographic and behavioural
+characteristics of the sub-samples (fasting, OGTT) were similar
+to the full sample and to all potentially eligible participants (see
+Supplementary material online, Table S1). Furthermore, there
+were minimal differences between those included in the samples
+and the eligible (but excluded) participants in terms of their demo-
+graphic characteristics and study outcomes. The average age of the
+full sample was 46.5 years (SD 14.2), with 50% males. Acceler-
+ometer wear time was 14.6 (SD 1.60) h/day (91.2 h total, SD
+17.1), of which an average 8.44 (1.45) h/day was spent sedentary,
+and a median 0.34 h/day (interquartile range 0.15, 0.61) was
+spent in exercise. Sedentary time was broken up an average of
+556 (SD 108) times across the entire wear time (92.5 times, SD
+15.6 per valid day), with a mean break duration of 4.12 (SD
+1.26) min.
+Clear differences by sex and race/ethnicity in accelerometer and
+cardio-metabolic characteristics were observed (see Supplemen-
+tary material online, Table S3). Females were more sedentary,
+but had more breaks and a more-favourable cardio-metabolic
+proﬁle than did males. Mexican Americans were the least
+sedentary, but had signiﬁcantly higher triglycerides than did non-
+Hispanic whites and non-Hispanic blacks. In the full sample, exer-
+cise had a moderate inverse correlation with sedentary time
+(Spearman’s
+r ¼ 20.57, P , 0.001) and a very weak correlation
+with breaks (Spearman’s r ¼ 0.03, P ¼ 0.04). Sedentary time
+and breaks were weakly correlated overall (Pearson’s r ¼ 20.25,
+P , 0.001).
+G.N. Healy et al.592
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 4 =====
+
+Overall associations of total sedentary
+time and breaks with cardio-metabolic
+risk biomarkers
+Following adjustment for covariates, including exercise (Table 1),
+there were signiﬁcant detrimental, linear associations of total
+sedentary time with waist circumference, HDL-cholesterol, C-
+reactive protein, triglycerides, insulin, HOMA-%B, and
+HOMA-%S. The magnitude of the average difference between
+the top and bottom quartiles of sedentary time (a difference of
+2.3 h), was clinically meaningful for triglycerides (0.26 mmol/L),
+insulin (11.6 pmol/L), HOMA-%B (11.6%), and HOMA-%S (36%).
+3
+Independent of total sedentary time (as well as exercise and
+potential confounders), breaks in sedentary time were signiﬁcantly
+detrimentally associated with waist circumference, C-reactive
+protein, and fasting plasma glucose (Table 1), although only the
+ﬁrst two were consistent, linear associations. The associations
+with waist circumference were particularly strong and clinically rel-
+evant. Here, Quartiles 2, 3, and 4 were all signiﬁcantly different
+from Quartile 1 (reference) and corresponded to, on average, a
+2.4, 2.9, and 4.1 cm lower waist circumference, respectively.
+Sex differences
+Signiﬁcant interactions ( P , 0.1) between sedentary time and sex
+were seen with blood pressure, HDL-cholesterol, triglycerides,
+insulin, HOMA-%S, and HOMA-%B. For breaks, signiﬁcant inter-
+actions were seen with these same outcomes, except for
+HOMA-%B, and also with 2 h plasma glucose. However,
+HDL-cholesterol was the only outcome for which there was any
+evidence that an association with sedentary time or breaks was
+present for one sex but not the other (sedentary time in males;
+breaks in females). Detailed results are available in Supplementary
+material online, Table S5.
+Racial/ethnic differences
+Associations of total sedentary time with waist circumference, sys-
+tolic blood pressure, insulin, HOMA-%B, and HOMA-%S differed
+signiﬁcantly by race/ethnicity ( Figure 1A–E). The most marked
+difference between the racial/ethnic groups was for waist circum-
+ference, where sedentary time was detrimentally associated in
+non-Hispanic whites only, with the association null for Mexican
+Americans, and beneﬁcial in non-Hispanic blacks. In contrast,
+sedentary time had signiﬁcant detrimental associations with
+insulin, HOMA-%B, and HOMA-%S within all racial/ethnic
+groups, with only the shape of the relationship differing. No associ-
+ation between sedentary time and systolic blood pressure was
+evident within any racial/ethnic group (despite the interaction).
+With one exception, HDL-cholesterol (Figure 1F), associations of
+breaks did not differ by race/ethnicity ( P . 0.1). Breaks had a
+linear, signiﬁcant, beneﬁcial association with HDL-cholesterol in
+non-Hispanic whites but no association within both Mexican
+Americans and non-Hispanic blacks. Detailed stratiﬁed results are
+available in Supplementary material online, Table S6.
+Age differences
+We examined whether the differences in cardio-metabolic out-
+comes between quartiles of sedentary time or breaks (relative to
+the bottom quartile) varied with each additional year of age. Signiﬁ-
+cant interactions were observed for waist circumference (P ¼
+0.002), HDL-cholesterol (P ¼ 0.037), and C-reactive protein
+(P ¼ 0.005) for sedentary time, and systolic blood pressure (P ¼
+0.005) for breaks. For each of these outcomes, the effect of seden-
+tary time or breaks was the same in direction and signiﬁcance as
+was seen previously in the overall analysis (Table 1). Detailed
+results are presented in the Supplementary material online,
+Table S7.
+Discussion
+Prolonged sitting time is a common feature of contemporary
+society.
+21 However, compared with other modiﬁable health beha-
+viours, such as diet, smoking, and lack of exercise, the potential
+health risks of this ubiquitous behaviour are relatively unknown.
+This is the ﬁrst study in a large, representative, multi-ethnic,
+population-based sample to examine the associations of objec-
+tively derived total sedentary time and breaks in sedentary time
+with cardio-metabolic and inﬂammatory risk biomarkers. Indepen-
+dent of exercise time and other potential confounders, total
+sedentary time was detrimentally associated with several bio-
+markers, whereas breaks, independent of sedentary time, were
+beneﬁcially associated with waist circumference, C-reactive
+protein, and fasting plasma glucose. These ﬁndings complement
+and build upon previous results from smaller and/or less-diverse
+populations and highlight the importance of considering prolonged
+sedentary time as a distinct health risk behaviour that warrants
+explicit advice in future public health guidelines.
+5 In particular,
+the ﬁndings are likely to have implications for settings where pro-
+longed sitting is widespread, such as ofﬁce workplaces.
+Our ﬁndings overall, and among non-Hispanic white participants,
+were consistent with those observed among Australian and Euro-
+pean adults;
+11– 15 namely, the strongest associations with sedentary
+time were observed for triglycerides and markers of insulin resist-
+ance, rather than for blood pressure. This is consistent with plaus-
+ible physiological mechanisms: fewer skeletal muscle contractions
+may result in reduced lipoprotein lipase activity and clearance of
+plasma triglycerides, reduced clearance of an oral glucose load
+from plasma, and less glucose-stimulated insulin secretion.
+21 The
+magnitude of the differences between the top and bottom quar-
+tiles were clinically meaningful for triglycerides and insulin resist-
+ance suggesting that, in theory, population wide reductions in
+sedentary time (of a magnitude of 1–2 h per day) could have a
+substantial impact on CVD prevention.
+22
+This study also showed, for the ﬁrst time, that sedentary time
+was detrimentally associated with C-reactive protein, while
+breaks were beneﬁcially associated. Given that C-reactive
+protein is an inﬂammatory marker associated with increased risk
+of several major disease, including coronary heart disease and vas-
+cular mortality,
+4 inﬂammation may be an adjunct pathway (along
+with reduced muscular contractions) though which prolonged
+sedentary time may impact on CVD risk. Furthermore, as the cor-
+relation between sedentary time and light-intensity time was
+almost perfectly inverse, ﬁndings could also reﬂect the beneﬁts
+of light-intensity activity.
+11,12
+Sedentary time and cardio-metabolic biomarkers in US adults 593
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 5 =====
+
+.............................................................................................................................................................................................................................................
+.............................................................................................................................................................................................................................................
+.............................................................................................................................................................................................................................................
+Table 1 Adjusted means (95% CI) for continuous cardio-metabolic biomarkers across quartiles of total sedentary time and breaks in sedentary time in US adults
+≥20 years (NHANES 2003–06)
+Cardio-metabolic biomarker Mean (SD) or
+Median (IQR)
+Sedentary
+variable
+Quartile 1 Quartile 2 Quartile 3 Quartile 4 P for trend
+Full sample (n ¼ 4757)
+Waist circumference, cm 96.8 (12.7) Total 96.3 (95.3, 97.4) 96.6 (95.4, 97.8) 96.5 (95.4, 97.6) 97.9 (97.0, 98.8)* 0.0495
+Breaks 99.2 (97.9, 100.6) 96.8 (95.5, 98.1)* 96.3 (95.4, 97.2)*** 95.1 (94.0, 96.1)*** <0.001
+Systolic blood pressure, mmHGa 119 (110, 132) Total 121 (121, 122) 121 (120, 123) 121 (119, 122) 120 (119, 122) 0.056
+Breaks 121 (119, 122) 121 (120, 122) 121 (120, 122) 121 (120, 123) 0.664
+Diastolic blood pressure, mmHG 91.2 (15.4) Total 91.4 (89.6, 93.2) 91.5 (89.5, 93.5) 91.4 (89.9, 92.8) 90.7 (89.1, 92.4) 0.503
+Breaks 91.8 (90.5, 93.2) 91.5 (89.6, 93.5) 91.3 (90.1, 92.4) 90.3 (88.7, 92.0) 0.095
+HDL-cholesterol, mmol/La 1.34 (1.09, 1.63) Total 1.38 (1.34, 1.41) 1.36 (1.34, 1.38) 1.35 (1.32, 1.37) 1.32 (1.30, 1.35)* 0.014
+Breaks 1.34 (1.32, 1.37) 1.35 (1.32, 1.38) 1.34 (1.32, 1.36) 1.37 (1.35, 1.40) 0.150
+C-reactive protein, mg/dLa 0.18 (0.07, 0.42) Total 0.17 (0.15, 0.19) 0.17 (0.16, 0.19) 0.18 (0.17, 0.20) 0.19 (0.17, 0.21) 0.032
+Breaks 0.20 (0.18, 0.21) 0.17 (0.16, 0.19)* 0.18 (0.16, 0.19)* 0.16 (0.15, 0.18)*** 0.001
+Fasting sub-sample (n ¼ 2118)
+Fasting triglycerides, mmol/La 1.30 (0.90, 1.96) Total 1.22 (1.16, 1.28) 1.34 (1.27, 1.42)* 1.41 (1.35, 1.48)*** 1.48 (1.38, 1.58)*** <0.001
+Breaks 1.35 (1.28, 1.43) 1.41 (1.35, 1.48) 1.33 (1.25, 1.42) 1.35 (1.28, 1.43) 0.700
+Fasting plasma glucose, mmol/La 5.35 (5.01, 5.79) Total 5.49 (5.39, 5.60) 5.51 (5.43, 5.59) 5.47 (5.40, 5.54) 5.52 (5.41, 5.63) 0.872
+Breaks 5.55 (5.46, 5.64) 5.51 (5.43, 5.60) 5.41 (5.33, 5.49)* 5.51 (5.40, 5.62) 0.267
+Insulin, pmol/La 42.1 (24.6, 73.3) Total 36.2 (33.6, 39.1) 40.1 (36.7, 43.8)* 42.3 (39.5, 45.3)** 47.8 (44.5, 51.4)*** <0.001
+Breaks 43.6 (40.7, 46.6) 42.2 (38.7, 46.0) 39.8 (37.2, 42.7) 41.0 (37.0, 45.4) 0.233
+HOMA-%Ba 67.9 (96.1, 49.4) Total 61.2 (58.2, 64.4) 65.1 (61.9, 68.5) 68.7 (65.7, 71.8)** 72.8 (68.2, 77.7)*** <0.001
+Breaks 67.5 (63.9, 71.3) 67.3 (63.6, 71.1) 67.4 (63.9, 71.0) 66.1 (61.3, 71.3) 0.707
+HOMA-%Sa 124 (70.1, 211) Total 145 (134, 158) 130 (120, 142)* 123 (115, 132)** 109 (101, 118)*** <0.001
+Breaks 120 (113, 129) 124 (113, 135) 131 (122, 140) 127 (115, 141) 0.259
+OGTT sub-sample (n ¼ 910)
+2 h plasma glucose, mmol/La 5.94 (4.83, 7.55) Total 5.89 (5.55, 6.24) 6.09 (5.76, 6.44) 6.28 (6.02, 6.55) 6.32 (5.92, 6.75) 0.119
+Breaks 6.29 (6.03, 6.57) 6.19 (5.83, 6.56) 6.35 (5.95, 6.79) 6.32 (5.78, 6.91) 0.831
+Data are adjusted means (95% CI), weighted to the USA population. Adjusted for age, sex, race/ethnicity, and quartiles of exercise (≥1952 cpm) h/day, sedentary time (breaks only) plus signiﬁcant socio-demographic, behavioural, and medical
+history covariates identiﬁed through outcome-speciﬁc backward elimination (retained at P , 0.2: see Supplementary material online, Table S2). Quartile cutpoints, corrected for wear time, are 7.24, 8.51, 9.57 h/day for total sedentary time;
+470, 559, 645 for breaks in sedentary time. * P , 0.05; **P , 0.01; ***P , 0.001 from Quartile 1 (reference).
+aBack-transformed from the log scale.
+Bold indicates P , 0.05.
+G.N. Healy et al.594
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 6 =====
+
+Figure 1 Associations of total sedentary time ( A– E) and breaks in sedentary time (F ) with cardio-metabolic biomarkers by race/ethnicity
+(Model 2) in US adults ≥20 years (NHANES 2003–06). Only associations where a signiﬁcant interaction (P , 0.1) was observed are
+shown. *P , 0.05; **P , 0.01; ***P , 0.001 from Quartile 1 (reference). Quartile cutpoints for total sedentary time (hours/day) are: 7.39,
+8.59, 9.72 for non-Hispanic whites (clear triangle), 6.20, 7.48, 8.85 for Mexican Americans (ﬁlled orange triangle), and 7.19, 8.49, 9.51 for non-
+Hispanic blacks (clear blue square). Quartile cutpoints for breaks are: 472, 558, 645 for non-Hispanic whites, 478, 575, 649 for Mexican Amer-
+icans, and 449, 545, 638 for non-Hispanic blacks. Sedentary variables standardized for wear time prior to categorization.
+Sedentary time and cardio-metabolic biomarkers in US adults 595
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 7 =====
+
+A key contribution of this study is the conﬁrmation and exten-
+sion of our previous ﬁndings15 indicating that patterns of sedentary
+time accumulation are important in addition to amount of seden-
+tary time. This was particularly pertinent for waist circumference
+where those in the top quartile of breaks had, on average, a
+4.1 cm lower waist circumference than those in the lowest quartile.
+Of importance to note is that a break could be as short as 1 min
+and not necessarily entail ‘exercise’, suggesting that regular breaks
+from sedentary time are probably feasible in many contexts.
+However, the measure of breaks is relatively unsophisticated: it
+does not differentiate between breaks of a long and/or high
+intensity, and those of a short, low intensity. More detailed exam-
+ination of sedentary time patterns, as well as laboratory
+experimental studies and real-world intervention trials examining
+the effects of reducing and/or breaking up sedentary time, are
+needed.
+A unique element of this study was the examination of the
+relationship of objectively derived sedentary time with cardio-
+metabolic biomarkers by race/ethnicity. The patterning of ﬁndings
+by race/ethnicity has some coherence with studies showing racial/
+ethnic differences in the relationship of waist circumference with
+visceral adiposity,
+23 the compensatory responses to insulin resist-
+ance,24 lipoprotein responsiveness to exercise,25 and the relation-
+ship between triglycerides and insulin resistance. 26 For waist
+circumference in particular, the racial/ethnic differences were
+quite pronounced—with no evidence of a detrimental association
+of sedentary time at all with Mexican Americans and non-Hispanic
+blacks. Regardless of whether the racial/ethnic differences are bio-
+logical, or due to unmeasured confounding factors, it is clear that
+this ﬁeld of research needs to expand beyond predominantly white
+populations, to explore this heterogeneity and avoid potentially
+inappropriate generalization of ﬁndings.
+A strength of our study is the objective measurement of
+exposure variables. Compared with self-report, objective
+measures are more precise, less biased, and reduce the potential
+for differential measurement errors. However, some error could
+still be present. First, estimates depend heavily on wear time,
+which was estimated rather than directly measured. Second, the
+uniaxial accelerometer predominantly captures ambulatory activi-
+ties and cannot distinguish between different postures or variations
+in walking conditions. Thus, though the sedentary cutpoint
+(,100 cpm) provides a useful estimate of sitting time,
+8 some
+standing still time may also be included as sedentary time.
+Although we controlled for confounding using several well-
+measured relevant variables, including measures of health status,
+residual confounding is possible. For example, adjustments were
+not made for occupational characteristics (unavailable for the
+2005/06 survey). This is unlikely to be an important issue, as a sen-
+sitivity analysis of the 2003/04 data (not reported) adjusted for
+employment status and work type, did not attenuate any of the
+associations statistically or in terms of effect size; most interactions
+were also unaffected. There may have been some selection bias as
+we excluded a large proportion of participants, predominantly for
+lacking sufﬁcient accelerometer data to acquire habitual estimates
+of sedentary time; however, this bias is likely to be minimal, par-
+ticularly in view of the reweighting for accelerometer non-
+response. Of importance to note is that these associations were
+cross-sectional. Thus, reverse causation is a possibility, and causal-
+ity cannot be determined.
+In summary, these population-based ﬁndings provide further evi-
+dence on the deleterious associations of sedentary time with
+cardio-metabolic health in adults, and provide novel evidence on
+the relationship of sedentary time with the inﬂammatory bio-
+marker C-reactive protein. Furthermore, we found signiﬁcant ben-
+eﬁcial associations of breaking up sedentary time with
+cardio-metabolic health—particularly waist circumference—inde-
+pendent of overall sedentary time. In general, these associations
+were consistent across sex, age, and race/ethnicity subgroups. Pro-
+longed sedentary time is likely to increase with future technological
+and social innovations,
+21 and it is important to consider a whole of
+day approach to physical activity promotion. Reducing and regu-
+larly breaking up sedentary time may be an important adjunct
+health message, alongside the well-established recommendation
+for regular participation in exercise. While further evidence of a
+causal nature is required from longitudinal and intervention
+studies, less sitting time would be unlikely to do harm, and
+would, at the very least, contribute to increase overall levels of
+energy expenditure.
+Supplementary material
+Supplementary material is available atEuropean Heart Journal online.
+Funding
+This work was supported a National Health and Medical Research
+Council (NHMRC #569861)/National Heart Foundation of Australia
+(PH 08B 3905) Postdoctoral Fellowship to G.N.H.; a Victorian
+Health Promotion Foundation Public Health Research Fellowship to
+D.W.D.; and Queensland Health Core Research Infrastructure grant
+and NHMRC Program Grant funding (#301200) to E.A.H.W. and
+N.O. All data used in this study were collected by the National
+Center for Health Statistics, Centers for Disease Control and
+Prevention.
+Conﬂict of interest: none declared.
+References
+1. Rosamond W, Flegal K, Furie K, Go A, Greenlund K, Haase N, Hailpern SM,
+Ho M, Howard V, Kissela B, Kittner S, Lloyd-Jones D, McDermott M, Meigs J,
+Moy C, Nichol G, O’Donnell C, Roger V, Sorlie P, Steinberger J, Thom T,
+Wilson M, Hong Y. Heart disease and stroke statistics—2008 update: a report
+from the American Heart Association Statistics Committee and Stroke Statistics
+Subcommittee. Circulation 2008;117:e25–146.
+2. European Heart Network, Allender S, Scarborough P, Peto V, Raynor M, Leal J,
+Luengo-Fernandez R, Gray A. European Cardiovascular Disease Statistics 2008 .
+http://www.ehnheart.org/cdv-statistics.html (24 June 2010).
+3. Hu G, Qiao Q, Tuomilehto J, Eliasson M, Feskens EJ, Pyorala K. Plasma insulin and
+cardiovascular mortality in non-diabetic European men and women: a
+meta-analysis of data from eleven prospective studies. Diabetologia 2004;47:
+1245–1256.
+4. Kaptoge S, Di Angelantonio E, Lowe G, Pepys MB, Thompson SG, Collins R,
+Danesh J. C-reactive protein concentration and risk of coronary heart disease,
+stroke, and mortality: an individual participant meta-analysis. Lancet 2010;375:
+132–140.
+5. Haskell WL, Lee IM, Pate RR, Powell KE, Blair SN, Franklin BA, Macera CA,
+Heath GW, Thompson PD, Bauman A. Physical activity and public health:
+updated recommendation for adults from the American College of Sports Medi-
+cine and the American Heart Association. Circulation 2007;116:1081–1093.
+6. Owen N, Healy GN, Matthews CE, Dunstan DW. Too much sitting: the popu-
+lation health science of sedentary behavior. Exerc Sport Sci Rev 2010;38:105–113.
+G.N. Healy et al.596
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from
+
+===== PAGE 8 =====
+
+7. Troiano RP, Berrigan D, Dodd KW, Masse LC, Tilert T, McDowell M. Physical
+activity in the United States measured by accelerometer. Med Sci Sports Exerc
+2008;40:181–188.
+8. Matthews CE, Chen KY, Freedson PS, Buchowski MS, Beech BM, Pate RR,
+Troiano RP. Amount of time spent in sedentary behaviors in the United States,
+2003–2004. Am J Epidemiol 2008;167:875–881.
+9. Katzmarzyk PT, Church TS, Craig CL, Bouchard C. Sitting time and mortality from
+all causes, cardiovascular disease, and cancer. Med Sci Sports Exerc 2009;41:
+998–1005.
+10. Dunstan DW, Barr ELM, Healy GN, Salmon J, Shaw JE, Balkau B, Magliano DJ,
+Cameron AJ, Zimmet PZ, Owen N. Television viewing time and mortality: the
+AusDiab study. Circulation 2010;121:384–391.
+11. Healy GN, Dunstan DW, Salmon J, Cerin E, Shaw JE, Zimmet PZ, Owen N.
+Objectively measured light-intensity physical activity is independently associated
+with 2-h plasma glucose. Diabetes Care 2007;30:1384–1389.
+12. Healy GN, Wijndaele K, Dunstan DW, Shaw JE, Salmon J, Zimmet PZ, Owen N.
+Objectively measured sedentary time, physical activity, and metabolic risk: the
+Australian Diabetes, Obesity and Lifestyle Study (AusDiab). Diabetes Care 2008;
+31:369–371.
+13. Balkau B, Mhamdi L, Oppert JM, Nolan J, Golay A, Porcellati F, Laakso M,
+Ferrannini E. Physical activity and insulin sensitivity: the RISC study. Diabetes
+2008;57:2613–2618.
+14. Ekelund U, Grifﬁn SJ, Wareham NJ. Physical activity and metabolic risk in individ-
+uals with a family history of type 2 diabetes. Diabetes Care 2007;30:337–342.
+15. Healy GN, Dunstan DW, Salmon J, Cerin E, Shaw JE, Zimmet PZ, Owen N.
+Breaks in sedentary time: beneﬁcial associations with metabolic risk. Diabetes
+Care 2008;31:661–666.
+16. Richmond TK, Walls CE, Gooding HC, Field AE. Television viewing is not predic-
+tive of BMI in Black and Hispanic young adult females. Obesity (Silver Spring) 2010;
+18:1015–1020.
+17. Centers for Disease Control and Prevention (CDC), National Center for Health
+Statistics (NCHS). National Health and Nutrition Examination Survey Data.
+http://www.cdc.gov/nchs/nhanes.htm (30th May 2009).
+18. Freedson PS, Melanson E, Sirard J. Calibration of the Computer Science and
+Applications, Inc. accelerometer. Med Sci Sports Exerc 1998;30:777–781.
+19. Willett W, Stampfer M. Total energy intake: implications for epidemiologic ana-
+lyses. Am J Epidemiol 1986;124:17–27.
+20. U.S. Department of Health and Human Services. U.S. Department of Agriculture.
+Dietary Guidelines for Americans . Washington, DC: U.S. Government Printing
+Ofﬁce; 2005.
+21. Hamilton MT, Hamilton DG, Zderic TW. The role of low energy expenditure and
+sitting on obesity, metabolic syndrome, type 2 diabetes, and cardiovascular
+disease. Diabetes 2007;56:2655–2667.
+22. Emberson J, Whincup P, Morris R, Walker M, Ebrahim S. Evaluating the impact of
+population and high-risk strategies for the primary prevention of cardiovascular
+disease. Eur Heart J 2004;25:484–491.
+23. Carroll JF, Chiapa AL, Rodriquez M, Phelps DR, Cardarelli KM, Vishwanatha JK,
+Bae S, Cardarelli R. Visceral fat, waist circumference, and BMI: impact of race/
+ethnicity. Obesity (Silver Spring) 2008;16:600–607.
+24.
+Goran MI, Bergman RN, Cruz ML, Watanabe R. Insulin resistance and associated
+compensatory responses in african-american and Hispanic children. Diabetes Care
+2002;25:2184–2190.
+25. Bergeron J, Couillard C, Despres JP, Gagnon J, Leon AS, Rao DC, Skinner JS,
+Wilmore JH, Bouchard C. Race differences in the response of postheparin
+plasma lipoprotein lipase and hepatic lipase activities to endurance exercise train-
+ing in men: results from the HERITAGE Family Study. Atherosclerosis 2001;159:
+399–406.
+26. Sumner AE, Cowie CC. Ethnic differences in the ability of triglyceride levels to
+identify insulin resistance. Atherosclerosis 2008;196:696–703.
+Sedentary time and cardio-metabolic biomarkers in US adults 597
+ at Rutgers University Libraries/Technical Services on May 31, 2014http://eurheartj.oxfordjournals.org/Downloaded from

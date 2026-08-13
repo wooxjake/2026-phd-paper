@@ -1,0 +1,985 @@
+===== PAGE 1 =====
+
+R E S E A R C H A R T I C L E Open Access
+The contribution of office work to sedentary
+behaviour associated risk
+Sharon Parry † and Leon Straker *†
+Abstract
+Background: Sedentary time has been found to be independently associated with poor health and mortality.
+Further, a greater proportion of the workforce is now employed in low activity occupations such as office work. To
+date, there is no research that specifically examines the contribution of sedentary work to overall sedentary
+exposure and thus risk. The purpose of the study was to determine the total exposure and exposure pattern for
+sedentary time, light activity and moderate/vigorous physical activity (MVPA) of office workers during work and
+non-work time.
+Methods: 50 office workers from Perth, Australia wore an Actical (Phillips, Respironics) accelerometer during waking
+hours for 7 days (in 2008 –2009). Participants recorded wear time, waking hours, work hours and daily activities in an
+activity diary. Time in activity levels (as percentage of wear time) during work and non-work time were analysed
+using paired t-tests and Pearson ’s correlations.
+Results: Sedentary time accounted for 81.8% of work hours (light activity 15.3% and MVPA 2.9%), which was
+significantly greater than sedentary time during non-work time (68.9% p < 0.001). Office workers experienced
+significantly more sustained sedentary time (bouts >30 minutes) and significantly less brief duration (0 –10 minutes)
+light intensity activity during work hours compared to non-work time (p < 0.001). Further, office workers had fewer
+breaks in sedentary time during work hours compared to non-work time (p < 0.001).
+Conclusions: Office work is characterised by sustained sedentary time and contributes significantly to overall
+sedentary exposure of office workers.
+Background
+Sedentary behaviour is emerging as an important risk
+factor for poor health and for mortality [1-4]. Sedentary
+‘activity’ is defined as any waking behaviour characterized
+by an energy expenditure ≤1.5 METs while sitting or re-
+clining [5-7] Population research using self-report of
+sitting [2] or television viewing times [8] has found that as
+sitting or television viewing time increases there is an in-
+creased cardiometabolic risk, independent of moderate/
+vigorous physical activity (MVPA – activities requiring en-
+ergy expenditures 3 or more times resting metabolic
+equivalents (MET s) [7] such as brisk walking and run-
+ning). Recently, high accelerometer determined sedentary
+time was related to metabolic and cardiovascular risk fac-
+tors in healthy adults [3,9]. Furthermore, accelerometer
+determined prolonged or uninterrupted sedentary time
+has been found to be a risk factor for poor health inde-
+pendent of total sedentary time and MVPA [10]. Similarly,
+Healy et al. [11] found an association between light inten-
+sity physical activity (leisure, domestic or occupational ac-
+tivities requiring an energy expenditure of 1.6-3.0 METs
+[7] such as gentle walking) and plasma glucose levels in
+healthy adults, independent of MVPA; Camhi et al. [12]
+also found that light ‘lifestyle’ activity was associated with
+reduced odds of some cardiometabolic risk factors, again
+independent of MVPA.
+With the evolution of the “technology age ”,s e d e n t a r y
+time is reported to be increasing [13-15]. This may be due
+in part to the shift towards reduced MVPA required in oc-
+cupations traditionally requiring MVPA and the increa-
+sing percentage of workers employed in low activity
+occupations [16,17]. While sedentary workers may be less
+exposed to many of the hazards associated with more
+physically demanding occupations (e.g. manual labourers),
+* Correspondence: L.Straker@curtin.edu.au
+†Equal contributors
+School of Physiotherapy, Curtin University, Perth Western Australia, GPO Box
+U1987, Perth, WA 6845, Australia
+© 2013 Parry and Straker; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+Parry and Straker BMC Public Health 2013, 13:296
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 2 =====
+
+sedentary workers may gain less of the beneficial MVPA
+and be exposed to more of the potentially detrimental
+prolonged and uninterrupted sedentary behaviour [5].
+Whilst most research on physical activity has focused
+on non-occupational physical activity, some has exam-
+ined physical activity at work and the relationship with
+leisure activity. Early studies using self-report measures
+found that workers in low activity occupations reported
+high levels of leisure time physical activity, suggesting
+that these workers were attempting to compensate for
+their lack of occupational activity [18,19]. In a recent re-
+view examining the relationship between occupation and
+leisure activity, Kirk and Rhodes[16] found mixed results
+with mainly self-report measures. However the majority
+of studies suggested that white collar workers tended to
+have greater leisure physical activity than blue collar
+workers. Further, in a recent study examining the MVPA
+of Scottish postal workers, it was found that there was
+no significant difference in the leisure time MVPA of
+walking postal workers compared to office based postal
+workers [20]. These studies focused on leisure time
+physical activity whereas other non-occupational phys-
+ical activity related to transport and domestic duties are
+also thought to be important [5].
+Due to the increasing prevalence of sedentary occupa-
+tions and the potential contribution of work to sedentary
+risk, there is a growing interest in the occupational activ-
+ity exposures of sedentary workers in terms of both the
+lack of MVPA and increase in sedentary exposure [17].
+A recent review of occupational sitting and health risks
+[21] did not find sufficient evidence of a causal link be-
+tween occupational sitting and poor health, partly be-
+cause many studies did not adequately differentiate
+occupational and leisure time sitting. In one report for a
+health insurance company, based on accelerometer re-
+cordings, office workers were found to be sedentary for
+76% of their working day [22]. While this report demon-
+strated that office workers have high sedentary exposure,
+the pattern of sedentary time was not fully explored.
+Ryan et al. [23], using an inclinometer-based device, ex-
+amined university based office workers and their compli-
+ance with recommendations to take breaks from sitting
+every 20, 30 and 55 minutes during work hours. They
+found that 66% of the work day was spent sitting and
+taking frequent breaks in sitting was uncommon with
+25% of the sitting time at work in bouts of 55 or more
+minutes. Whilst this study examined aspects of the pat-
+tern of sedentary time, it only examined sitting at work
+and did not measure light intensity activity or MVPA at
+work, nor did it explore sedentary time outside of work
+hours. Toomingas et al. [24], using inclinometers found
+that call centre operators were seated for an average of
+75% of their working hours, with 9% of working hours
+spent sitting for periods of greater than 60 minutes.
+However, while this study did examine the pattern of sit-
+ting at work, it was not able to differentiate activity
+levels during non-sitting time.
+Given the limited research that examines the pattern
+of exposure during work and outside work hours to all
+levels of objectively measured activity intensity, from
+sedentary time through light physical activity to MVPA,
+this study aimed to determine: 1) the proportions of
+time in sedentary, light and MVPA during work and
+non-work periods (work days versus non-work days,
+work time on a work day versus non work time on a
+work day, and work time on a work day versus all non
+work time); 2) the overall contribution of work sedentary
+time exposure to overall sedentary time exposure; 3) the
+pattern of sedentary, light and MVPA during work and
+non-work periods in terms of sustained sedentary pe-
+riods, brief light activity periods and bouts of MVPA;
+4) the relationships among measures of the pattern of
+sedentary time and physical activity; and 5) the relation-
+ships between work and non-work activity.
+Methods
+Design and subjects
+A cross-sectional observational study was conducted with
+office workers (clerical and professional staff ) from a large
+resource company in Perth, Australia. The company se-
+lected 12 work groups (20 –40 employees per group) to
+attend a study recruitment meeting that was incorporated
+into a regular compulsory monthly meeting. At the end of
+the meeting, workers participating in office bound duties
+for 6 or more hours per day and working 4 or more days
+per week were asked to volunteer to participate in the
+study. Subjects were only excluded from participating if
+they were unable to wear an accelerometer due to disabi-
+lity or if they were confined to a wheelchair. 176 subjects
+completed physical activity surveys and 51 subjects from
+within this group also volunteered to wear an accelerom-
+eter for 7 days. One participant did not wear the acceler-
+ometer on non-work days and their data were excluded.
+All participants provided informed consent and ethics
+approval was obtained from the Human Research Ethics
+Committee of Curtin University, Perth WA (HR20/2007).
+Measurement of physical activity
+The Actical (Phillips, Respironics) accelerometer is a small
+(2.8 × 2.7 × 1.0 cm), light (17 g) accelerometer that can be
+worn on the hip, wrist or ankle. It is described as “omni-
+directional” as it detects movements in planes of move-
+ment other than the vertical. It has shown good technical
+reliability in laboratory studies [25] and validity as a mea-
+sure of low energy expenditure behaviour in free-living
+conditions [26]. The Actical accelerometer has been used
+in a variety of population groups [27-29] and recently to
+evaluate sitting time of office workers [30].
+Parry and Straker BMC Public Health 2013, 13:296 Page 2 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 3 =====
+
+Procedure
+Participants were asked to wear the accelerometer for 7 -
+days [31,32]. The accelerometer was set to record data
+using a 60 second epoch [33]. It was attached to an elas-
+tic belt and worn over their right hip [34] for all waking
+hours. Activities, accelerometer wear time and the rea-
+son why the accelerometer was removed (e.g. bathing,
+contact sport), waking hours and work hours (from the
+time seated at a desk/workstation until leaving the of-
+fice) were recorded in a simple diary. Sedentary time,
+light and MVPA during work time and non-work hours
+(wear time before and after work on work days and wear
+time on non-work days) were then examined and com-
+pared. Non-work physical activity (activities that oc-
+curred outside of work hours) included leisure activities
+such as sport and brisk walking but also incorporated
+active transport and domestic chores.
+Data processing
+Actical raw data were downloaded using the manufac-
+turer’s software and then raw activity count data were
+processed using a custom LabVIEW program (LabVIEW
+8.6.1 National Instruments, Texas, USA). The LabVIEW
+program enabled detailed simultaneous analysis of the
+pattern of activity intensity and duration to be studied
+using Exposure Variance Analysis [35]. Activity intensity
+categories of sedentary, light, moderate and vigorous were
+determined from counts per minute. As counts are arbi-
+trary and device specific [36], intensity category cut points
+(sedentary < 91 counts, light 91- < 1767 counts, moderate
+1767- < 5182 counts and vigorous >5182) were based on
+those widely used for Actigraph accelerometers (sedentary
+< 100 counts, light 100- < 1951 counts, moderate 1951-
+< 5275 counts and vigorous >5275 [37] but translated to
+Actical using an equation based on a study collecting bio-
+logical data simultaneously from Actigraph and Actical
+accelerometers [38]. Duration was characterised as bouts
+within the same intensity lasting 0- < 5mins, 5- < 10mins,
+10- < 30mins, 30- <60 mins and 60+ mins to match other
+research and recommendations [38-40]. Non-wear during
+waking hours was firstly determined from diary entries
+and then during the data processing. Periods greater than
+120 minutes with counts of zero were considered non-
+wear time, rather than periods of greater than 60 minute
+as pilot testing observations showed some office workers
+were sustaining sedentary time for greater than 60 minute
+bouts. A break in sedentary time was defined as acceler-
+ometer counts above 91 counts/min (Actical translated
+break cutpoint) for greater than one minute during seden-
+tary periods [10]. While minimum wear time of 600 -
+minutes/day has been used in some studies [10,31],
+minimal wear time was set at 500 minutes/day [41,42] to
+limit participant burden and to maximise the data that
+could be used in analysis. Only 12 of the 359 days included
+had wear time between 500 –600 minutes. Days with less
+than 500 minutes were automatically discarded and not
+included in the data processing. Participants were required
+to wear the accelerometer for a minimum of 3 work days
+and 1 non-work day to be included in data processing
+[43,44]. Measures of the pattern of activity extracted from
+the Exposure Variation Analysis and of particular interest
+for this paper were sustained (>30mins) periods of seden-
+tary time, brief (0-5mins and 5-10mins) periods of light
+activity and bouts (>10mins) of MVPA.
+Statistical analysis
+Paired t-tests were used to compare time in activity levels
+between work and non-work days and between work
+hours on work days and non-work periods. Correlations
+between activity levels at work and non-work periods were
+performed using Pearson ’s correlations. All calculations
+were made using the percentage of wear time for each
+time period. All analysis was done using PASW Statistics
+18 with a critical alpha level of 0.05.
+Results
+50 participants (58% men) aged between 22 and 59 years
+(mean ± SD, 36.4 ± 8.6 years) with a BMI of 24.7 ±
+4.1 kg/m
+2 completed the study and wore an accelerom-
+eter for an average of 7.0 ± 0.9 days (4.6 ± 0.5 work days
+and 2.4 ± 0.9 non-work days). A total of 231 valid work
+days and 121 valid non-work days were included in ana-
+lysis. The average accelerometer wear time for work days
+was 14.9 hours (892.5 ± 65.5 mins) which was signifi-
+cantly greater than the 13.7 hours wear time for non-
+work days (820.6 ± 85.5 mins, t = 6.0, df =49, p < 0.001).
+Wear time for work hours was 8.9 hours (535.2 ± 46.2
+mins) which was 60.0% on the total work day wear time.
+Sedentary time, light and moderate/vigorous physical
+activity on work and non-work days
+Sedentary time on work days of 11.3 hours per day
+([676.0 ± 58.7 mins] 75.9% wear time) was proportionally
+greater than the 9.3 hours per day on non-work days
+([570.5 ± 88.0 mins], 69.7% wear time, t = 6.2, df = 49, p <
+0.001). Light activity on work days of 3.0 hours ([176.9 ±
+52.6 mins] 19.7% wear time) was proportionally less than
+the 3.7 hours on non-work days ([224.4 ± 78.3 mins]
+27.2% wear time, t = −7.8, df = 49, p < 0.001). MVPA on
+work days of 39.5 ± 18.7 mins (4.4% wear time) was pro-
+portionally greater than the 25.7 ± 25.7 mins on non-work
+days (3.1% wear time, t = 3.3, df = 49, p = 0.002). Figures 1
+(a) and 1(b) illustrate these differences. 78% of all partici-
+pants had proportionally more sedentary time on work
+days compared to non-work days and 84% of participants
+had proportionally less light activity on work days com-
+pared to non-work days.
+Parry and Straker BMC Public Health 2013, 13:296 Page 3 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 4 =====
+
+Sedentary time, light and moderate/vigorous physical
+activity at work and during non-work hours on a work
+day
+On work days, sedentary time was proportionally greater
+during work hours compared to non-work hours (work
+hours [438.3 ± 51.5 mins] 81.8% wear time, non-work
+hours on work day [237.7 ± 50.7 mins] 67.0% wear time, t
+= 12.7, df = 49, p < 0.001) and there was proportionally less
+light intensity activity during work hours on work days
+compared to non-work hours on work days (work hours
+[81.6 ± 25.6mins] 15.3% wear time, non-work hours on
+work day [95.3 ± 39.2 mins] 26.2% wear time, t = −9.6,
+df = 49, p < 0.001). MVPA of 15.6 ± 9.4 mins (2.9% wear
+time) during work hours on a work day was proportionally
+less than the 24.0 ± 14.2 mins (6.8% wear time) during
+non-work hours on work day (t = −6.9, df = 49, p < 0.001)
+(see Figures 1(c) and 1(d)).
+Sedentary time, light and moderate/vigorous physical
+activity at work and during all non-work hours over a
+whole week
+A similar pattern of results was found when comparing
+work hours on work days with all non-work hours over
+a whole week. The total non-work hours includes the
+Sedentary
+76%
+Light
+20%
+Mod/vig
+4%
+(a) Work day
+Sedentary
+70%
+Light
+27%
+Mod/vig
+3%
+(b) Non-work day
+Sedentary
+82%
+Light
+15%
+Mod/vig
+3%
+(c) Work hours on work day
+Sedentary
+67%
+Light
+26%
+Mod/vig
+7%
+(d) Non-work hours on work day
+Sedentary
+69%
+Light
+27%
+Mod/vig
+4%
+(e) Total Non-work
+Figure 1 Proportion of time in sedentary, light, moderate and vigorous activity on a work day (a), non-work day (b), work hours on a
+work day (c), non-work hours on a work day (d) and total non-work time over a whole week.
+Parry and Straker BMC Public Health 2013, 13:296 Page 4 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 5 =====
+
+time before and after work and all non-work days,
+equating to 56% of total wear time. Sedentary time was
+proportionally greater during work hours (81.8%) com-
+pared to total non-work time ([808.2 ± 115.4 mins],
+68.9% wear time, t = 10.8, df = 49, p < 0.001). Light inten-
+sity activity was proportionally less during work hours
+(15.3%) compared to total non-work time ([319.7 ± 109.0
+mins] 26.9% wear time, t = −10.5, df = 49, p < 0.001) and
+MVPA was proportionally less during work hours (2.9%)
+compared to total non-work time ([49.7 ± 33.7 mins],
+4.2% wear time, t = −3.0, df = 49, p < 0.050) (See Figures 1
+(c) and 1(e)).
+Overall contribution of occupational sedentary time to
+total sedentary time
+In terms of total weekly sedentary time, work time con-
+tributed 36.5 hours (48.5% of total sedentary time) with
+all non-work time contributing 38.7 hours (51.5%).
+Pattern of sedentary time, light activity and MVPA
+T able 1 presents the selected Exposure Variation Analysis
+variables to represent key aspects of the pattern of seden-
+tary, light and MVPA time for work and non-work periods
+as well as the number of breaks in sedentary time.
+Sustained sedentary time (bouts >30 mins) was propor-
+tionally greater on work days compared to non-work days,
+and also during work hours on work days compared to
+non-work hours on work days and total non-work time
+over a whole week. Weekly work time sustained sedentary
+time (bouts > 30 mins) was 18.2 hours/week making work
+time account for 56.7% of total weekly sustained sedentary
+time (32.1 hours/week). Prolonged sustained sedentary
+bouts (sedentary bouts > 60 mins) accounted for 12.7 hours
+over a whole week.
+Brief periods of light intensity activity were propor-
+tionally less on work days compared to non-work days,
+and also during work hours on work days compared to
+non-work hours on work days and total non-work time.
+The majority of MVPA occurred in bouts of < 10 mins,
+with only 93.9 minutes per week of MVPA accumulated
+in bouts of 10 minutes or greater. 14% of participants
+had > 150 minutes per week of moderate intensity activ-
+ity in bouts of 10 or more minutes, additionally 14% of
+participants had >60 minutes per week of vigorous in-
+tensity activity in bouts of 10 or more minutes. Bouts of
+MVPA >10mins were proportionally less during work
+hours on work days compared to non-work hours on
+work days and total non-work time. Office workers also
+had significantly less breaks in sedentary time on work
+days and during work hours on work days.
+Comparison of both the intensity of physical activity
+and the duration of sustained activity during work and
+non-work periods is shown in Figure 2. The taller col-
+umns for sustained sedentary time and the shorter col-
+umns for brief bouts of light activity during work hours
+on a work day 2(c) highlight the differences in exposure
+pattern between work and non-work periods. MVPA
+columns are all very short as MVPA only accounted for
+4.1% (252.4 mins) of total wear time.
+Relationship between sedentary and physical activity
+variables
+Sustained sedentary time greater than 30mins was
+strongly negatively associated with the number of breaks
+in sedentary time (on work days (r = −0.85, p < 0.010), on
+non-work days (r = −0.74, p < 0.010), during work hours
+on work days (r = −0.93, p < 0.010), and in total non-work
+time (r = −0.74, p < 0.010)). There was a strong negative
+Table 1 Selected Exposure Variance Analysis variables demonstrating patterns of sedentary time, light activity and
+MVPA during work and non-work periods
+Type of day Wear time on work day Total non-work
+timeWork day Non-work
+day
+Work hours on work
+day
+Non-work hours on work
+day
+Sustained sedentary time >30 mins
+(%wear time ± SD)
+34.1 ± 11.6 # 26.9 ±11.1 40.8 ±16.6 ^ 22.8 ± 10.9 25.8 ± 9.6
+Light activity bouts 0 –5 mins
+(%wear time ± SD)
+13.4 ± 2.2 # 14.6 ± 2.8 12.2 ± 3.1 ^ 15.4 ±2.2 14.8 ± 2.3
+Light activity bouts 5 –10 mins
+(%wear time ± SD)
+4.1 ± 2.1 # 7.5 ± 3.7 2.6 ± 1.7 ^ 6.5 ± 3.4 7.2 ± 3.3
+MVPA bouts > 10 mins
+(% wear time ± SD)
+1.2 ± 1.6 1.1 ± 1.9 0.5 ± 1.0^ 2.2 ± 3.2 1.4 ± 2.0
+Breaks in sedentary time
+(breaks/sed hour ± SD)
+6.0 ± 1.4 § 9.2 ± 9.8 5.1 ± 1.7 ^ 7.9 ± 2.1 8.0 ± 2.6
+§ Significant difference between work and non-work day (p < 0.05).
+# Significant difference between work and non-work day (p < 0.001).
+^ Significant difference between work hours on a work day and non-work hours on a work day and between work hours on a work day and total non-work
+time (p < 0.001).
+Parry and Straker BMC Public Health 2013, 13:296 Page 5 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 6 =====
+
+Sed
+Light
+MVPA
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(a) Work day
+Sed
+Light
+MVPA
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(b) Non-work day
+Sed
+Light
+MVPA
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(c) Work hours on work day
+Sed
+Light
+MVPA
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(d) Non-work hours on work day
+Sed
+Light
+MVPA
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(e) Total non-work time over whole week
+Figure 2 Exposure Variance Analysis showing proportion of wear time in sedentary, light and MVPA in bouts of 0- < 5, 5- < 10, 10- < 30
+and 30+ minutes on a work day (a), non-work day (b), work hours on a work day (c), non-work hours on a work day (d) and total non-
+work time over a whole week (e).
+Parry and Straker BMC Public Health 2013, 13:296 Page 6 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 7 =====
+
+relationship between sedentary time at work and light
+activity at work (r = −0.96, p < 0.010). There was also a
+significant negative relationship between sedentary time at
+work and MVPA at work (r = −0.65, p < 0.010).
+Relationship between work and non-work time activity
+The proportion of sedentary time at work was moderately
+associated with the proportion of sedentary time during
+non-work hours (r = 0.38, p = 0 < 0.010) and was moder-
+ately negatively associated with the proportion of light
+intensity activity during non-work hours (r = −0.41, p <
+0.010). The proportion of sedentary time at work was not
+significantly associated with the proportion of non-work
+MVPA (r = −0.010, p = 0.925). Further, there was no sig-
+nificant association between the proportion of MVPA at
+work and the proportion of MVPA during non-work pe-
+riods (r = 0.17, p = 0.234).
+Discussion
+This study specifically examined for the first time the accu-
+mulation and pattern of sedentary time, light activity and
+MVPA of office workers during work time and non-work
+time (non-work hours on a work day and non-work days)
+and found work time contributed significantly to overall
+exposure to sedentary time and sustained sedentary time.
+Office workers in this study were sedentary for 81.8% of
+work hours on work days, similar to the only prior acceler-
+ometer determined comparison data of Thorpe et al.
+(2012) (office workers were sedentary for 75.8% of work
+hours on a work day and call centre workers were seden-
+tary for 82.0% of work hours on a work day). Sitting time
+of office workers was less (66% of working hours) in a
+study by Ryan et al. [23] using activPAL, though similar
+(75% of work hours) in a study using inclinometers
+reported by Toomingas et al. [24]. Differences found in
+sedentary time may be due to the variation in the nature of
+work performed (eg clerical/administrative, call centre or
+university academic) and work practices (organisational
+culture regarding breaks and productivity or output) as
+well as differences between devices used. While inclinom-
+eter based devices, such as activPAL, differentiate between
+postures (lying/sitting/standing) [45], movement based de-
+vices, such as accelerometers differentiate between the in-
+tensity of movement and have the advantage of providing
+simultaneous detail about sedentary, light and MVPA [44].
+Regardless of measurement device, it is clear that of-
+fice workers can be sedentary for a very high proportion
+of their work hours, and this study found that sedentary
+time during work hours accounted for nearly half
+(48.5%) of their total weekly sedentary time. This study
+has therefore clearly established that work is an import-
+ant contributor to overall weekly sedentary exposure for
+office workers and thus to their associated health risks
+[3,9]. Future research should investigate how to reduce
+work sedentary exposure.
+Further, the study findings showed only a small pro-
+portion of work hours were spent in light activity and
+for the first time showed that there was a strong recipro-
+cal relationship between sedentary time and light activity
+during work hours. Participation in light activity is
+thought to be beneficial [46] and thus health promotion
+interventions, particularly in workplace settings, should
+target this interplay between light and sedentary activity
+with the aim of replacing sedentary time with light activ-
+ity. Future research should attempt to determine the
+amount of light activity at work necessary to provide a
+health benefit. While it may not be feasibly in all office
+environments, providing the opportunity to spend some
+time during work hours standing by use of a sit/stand
+work station [24,47], could encourage light intensity ac-
+tivity with minimal impact on work productivity. Further,
+time away from a desk does not necessarily need to be
+non-productive - workplaces could encourage incidental
+office activity such as ‘active e-mails’ or walking meetings.
+Future workplace interventions to reduce sedentary be-
+haviour should therefore consider the effect on work pro-
+ductivity and attempt to measure if programmes have a
+positive or negative impact on productivity.
+Office workers spent the majority of their time, both
+at work (97.1%) and during non-work hours (95.7%), in
+either sedentary or light activity with MVPA only ac-
+counting for a very small proportion of wear time. These
+findings were consistent amongst participants with the
+majority of participants more sedentary (78%) and hav-
+ing less light activity (84%) on work days compared to
+non-work days. Most health promotion interventions
+have focused on encouraging sufficient MVPA to pro-
+mote health benefits and prevent many chronic diseases
+(eg “findthirty” campaign that encourages 30 minutes of
+daily activity for good health [48]). Given that the vast
+majority of the week is spent in sedentary or light activ-
+ity, and the emerging evidence of the health impacts of
+sedentary and light activity [3,9,11] public health cam-
+paigns should consider implementing programmes to
+modify sedentary and light activities.
+Office workers in this study experienced more pro-
+longed, uninterrupted sedentary time, fewer breaks in sed-
+entary time and fewer brief bouts of light intensity activity
+during work hours compared to non-work periods. Given
+the evidence suggesting fewer breaks interrupting seden-
+tary time are associated with greater health risk [10], the
+current study demonstrates that the pattern of sedentary
+and activity exposure of office work increases health risks
+for office workers. Further, this study found that office
+workers were sedentary in bouts of greater than 60 -
+minutes (and less than 120 minutes) for over 12 hours a
+week. Studies that estimate non-wear time by the use a
+Parry and Straker BMC Public Health 2013, 13:296 Page 7 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 8 =====
+
+60 minute cut point of continuous activity counts of zero,
+could potentially be misclassifying prolonged sustained
+sedentary time as non-wear time. Office work commonly
+involves sitting at a desk interacting with computer and
+paper based information. The work itself thus provides lit-
+tle of the potentially beneficial light activity or MVPA.
+Whilst workplace interventions to date have tended to
+focus on incorporating activity between productive work
+[49,50] attempts to change the nature of productive work
+to break up sustained sedentary time with light activity are
+being developed (sit-stand desks,[24,47], walking/cycling
+desks [51,52]). These approaches may be more acceptable
+to organisations as there is only minimal impact on work
+productivity [52].
+Even though there was a strong negative relationship be-
+tween sustained sedentary time and breaks in sedentary
+time, it is not possible to determine whether they are cap-
+turing the same risk construct: prolonged sedentary time
+may have unique and different physiological consequences
+when compared to engagement in active breaks [46,53].
+This issue is analogous to the link between musculoskeletal
+disorders and sustained low level muscle contractions [54].
+In muscle physiology studies examining breaking up
+sustained low level muscle contractions, changes in muscle
+activation patterns are seen following breaks composed of
+total rest as well as following breaks composed of greater
+muscle activity [55,56]. Thus it may be that sustained sed-
+entary time results in a detrimental physiological state but
+breaks of a sufficiently active nature may result in a benefi-
+cial physiological state. Recent experimental evidence has
+shown even brief breaks of light intensity activity can im-
+prove glucose metabolism [57]. Thus the current findings
+suggest that research should be conducted examining the
+physiology of both sustained sedentary and activity breaks
+necessary to understand the underlying mechanisms of ef-
+fect, and findings from these used to develop public health
+messages around avoiding sustained sedentary exposure
+and/or seeking out active breaks.
+The relationship between work and non-work activity
+is likely to be complex [16] and influenced by a variety
+of factors such as job, family and individual characteris-
+tics. The present study found that high sedentary time at
+work was not associated with ‘compensatory’ MVPA out-
+side of work hours. However, such attempts to ‘compen-
+sate’ may be in vain as recent evidence has shown that
+sedentary time and breaks in sedentary time are inde-
+pendently associated with health risks [3,10], that is they
+can not be compensated for by increased MVPA. There
+were higher levels of MVPA on work days compared to
+non-work days. Examining the work time on a work day
+results, showed that the higher levels of MVPA were ac-
+cumulated during non-work time on work days. Whilst
+we did not collect data on what activities contributed to
+these higher levels of MVPA, both active transport to
+and from work and/or participation in leisure time ac-
+tivities and sport, are likely to have been important
+contributors to MVPA exposure. Of interest were the
+findings that 26% of participants achieved physical activ-
+ity recommendations for MVPA in bouts of >10 minutes
+[58], which is a higher proportion that has been found
+in large population research [31,59]. These results may
+be a product of living in a city with a climate and culture
+that is very conducive to participation in physical activity
+and also, the participants in general were well educated
+and worked in a corporate environment that encouraged
+and promoted physical activity.
+Interestingly, this study found that people that were
+sedentary at work tended to also be more sedentary
+and have less light activity outside of work hours.
+Thus sedentary office workers may be at greater risk
+of poor health associated with sedentary behaviour
+due to sedentary exposure both at work and outside
+of work. Sedentary workers may have self-selected a
+sedentary occupation and may be at particular risk
+due to some predisposition to be sedentary. There-
+fore, workplace interventions that solely target work
+practices may have limited benefit as interventions
+may need to modify individual attitudes and beliefs.
+However, there is also the possibility that workplace
+interventions aimed at reducing sedentary time at
+work could result in changes to sedentary behaviours
+in non-work hours, as workplace interventions for
+smoking, alcohol, stress and weight loss have success-
+fully reduced these adverse health behaviours during
+non work hours [60,61] and therefore reducing seden-
+tary time at work could have a magnified impact on
+reducing overall weekly sedentary exposure.
+A strength of this study is that it is the first to com-
+prehensively explore the total accumulation and pat-
+tern of sedentary time, light activity and MVPA of
+office workers during work time and outside of work
+time. The study analysed work hours as distinct from
+work days [62] which allowed for separate examination
+of activity levels during non-work time on a work day.
+The study also used an objective measure of sedentary
+time, light activity and MVPA rather than self report.
+Limitations of the study include the moderate sized
+sample from a single organisation in one city and use
+of only a movement intensity device without the
+addition of a posture recording device. There may
+have been a selection bias to more active participants
+as those who volunteered may be more likely to be
+active which could have resulted in an underestimate
+of sedentary time in the cohort. Accelerometer wear
+time was less on non-work days, with later start times
+observed. In the future a comprehensive examination
+of sedentary time for other occupational groups with
+24 hour monitoring would be beneficial.
+Parry and Straker BMC Public Health 2013, 13:296 Page 8 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 9 =====
+
+Conclusion
+Office work contributes significantly to overall sedentary
+exposure and therefore the associated health risks of se-
+dentary behaviour. Furthermore, compared to non-work
+periods, occupational sedentary time of office workers was
+significantly more prolonged with fewer breaks. Although
+office work has traditionally been considered a ‘low risk ’
+occupation in terms of chronic health outcomes, it may in
+fact increase the risk of mortality and cardiometabolic dis-
+orders due to overall accumulated sedentary time and
+especially sustained sedentary time at work. Given the evi-
+dence for a health impact of sedentary and light activity,
+work based activity interventions should therefore target
+reducing total sedentary time and also emphasise the im-
+portance of interrupting sedentary time and provide an
+opportunity to participate in light intensity activity.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+SP and LS conceived and designed this study, SP collected and analysed the
+data with the assistance and supervision of LS. SP and LS drafted the
+manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+The authors would like to thank Paul Davey for his assistance in
+programming the LabVIEW program. We would also like to thank all the
+participants who volunteered their time. Leon Straker is supported by a
+National Health and Medical Research Council of Australia Senior Research
+Fellowship (APP1019980) and Sharon Parry is supported by a Curtin
+University Postgraduate Scholarship.
+Received: 28 November 2012 Accepted: 26 March 2013
+Published: 4 April 2013
+References
+1. Bauman A, Ainsworth BE, Sallis JF, Hagstromer M, Craig CL, Bull FC, Pratt M,
+Venugopal K, Chau J, Sjostrom M: The descriptive epidemiology of sitting - a
+20 country comparison using the International Physical Activity
+Questionnaire (IPAQ).Am J Prev Med 2011, 41:228–235.
+2. Katzmarzyk PT, Church TS, Craig CL, Bouchard C: Sitting time and mortality
+from all causes, cardiovascular disease and cancer. Med Sci Sports Exerc
+2009, 41(5):998–1005.
+3. Healy GN, Wijndaele K, Dunstan DW, Shaw JE, Salmon J, Zimmet PZ, Owen
+N: Objectively measured sedentary time, physical activity, and metabolic
+risk. Diab Care 2008, 31(2):369–371.
+4. Thorp A, Owen N, Neuhaus M, Dunstan D: Sedentary Behaviours and
+subsequent health outcomes in adults - A systematic review of
+longitudinal studies 1996 –2011. Am J Prev Med 2011, 41(2):207–215.
+5. Owen N, Sugiyama T, Eakin EE, Gardiner PA, Trembly MS, Sallis JF: Adults'
+sedentary behaviour determinants and interventions. Am J Prev Med
+2011, 41(2):189–196.
+6. Proper KI, Singh AS, van Mechelen W, Chinapaw MJM: Sedentary
+Behaviours and Health Outcomes Amoung Adults. Am J Prev Med 2011,
+40(2):174–182.
+7. Sedentary Behaviour Research Network: Letter to the Editor: Standardized
+use of the terms "sedentary" and "sedentary behaviours". Appl Physiol
+Nutr Metab 2012, 37:540–542.
+8. Dunstan D, Salmon J, Owen N, Armstrong T, Zimmet PZ, Cameron AJ,
+Dwyer T, Jolley D, Shaw JE: Physical activity and television viewing in
+relation to risk of undiagnosed abnormal glucose metabolism in adults.
+Diab Care 2004, 27(11):2603–2609.
+9. Healy GN, Mathews CE, Dunstan D, Winkler EAH, Owen N: Sedentary time
+and cardio-metabolic biomarkers in US adults: NHANES 2003–6.
+Eur Heart J 2011, 32:590–597.
+10. Healy GN, Dunstan DW, Salmon J, Cerin E, Shaw JE, Zimmet PZ, Owen N:
+Breaks in sedentary time. Diab Care 2008, 31:661–666.
+11. Healy GN, Dunstan D, Salmon J, Cerin E, Shaw JE, Zimmet PZ, Owen N:
+Objectively measured light-intensity physical activity is
+independently associated with 2-h plasma glucose. Diab Care
+2007,
+30(6):1384–1389.
+12. Camhi SM, Sisson SB, Johnson WD, Katzmarzyk PT, Tudor-Locke C:
+Accelerometer-determined moderate intensity activity and
+cardiometabolic health. Prev Med 2011, 52:358–360.
+13. Matthews CE, Chen KY, Freedson PS, Buchowski MS, Beech BM, Pate RR,
+Troiano RP: Amount of time spent in sedentary behaviors in the United
+States, 2003 –2004. Am J Epid 2008, 167(7):875–881.
+14. Borodulin K, Laatikainen T, Juolevi A, Jousilahti P: Thirty-year trends of
+physical activity in relation to age, calendar time and birth cohort in
+Finnish adults. Eur J Public Health 2007, 18(3):339–344.
+15. Brownson RC, Boehmer TK, Luke DA: Declining rates of physical activity in
+the United States. Annu Rev Public Health 2005, 26:421–443.
+16. Kirk MA, Rhodes RE: Occupation correlates of adults' participation in
+leisure-time physical activity - a systematic review. Am J Prev Med 2011,
+40:476–485.
+17. Straker L, Mathiassen SE: Increased physical workloads in modern work - a
+necessity for better health and performance? Ergonomics 2009,
+52(10):1215–1225.
+18. Burton NW, Turrell G: Occupation, Hours Worked, and Leisure-Time
+Physical Activity. Prev Med 2000, 31(6):673–681.
+19. Salmon J, Owen N, Bauman A, Schmitz MKH, Booth M: Leisure-Time,
+Occupational, and Household Physical Activity among Professional,
+Skilled, and Less-Skilled Workers and Homemakers. Prev Med 2000,
+30(3):191–199.
+20. Tigbe WW, Lean ME, Granat MH: A physically active occupation does not
+result in compensatory inactivity during out-of-work hours. Prev Med
+2011, 53:48–52.
+21. van Uffelen JGZ, Wong J, Chau JY, van der Ploeg HP, Riphagen I, Gilson ND,
+Burton NW, Healy GN, Thorp AA, Clark BK, et al: Occupational sitting and
+health risks: A systematic review. Am J Prev Med 2010, 39(4):379–
+388.
+22. Thorp A, Healy G, Winkler E, Clark B, Gardiner P, Owen N, Dunstan D:
+Prolonged sedentary time and physical activity in workplace and non-
+work contexts: a cross-sectional study of office, customer service and
+call centre employees. IJBNPA 2012, 9(1):128.
+23. Ryan CG, Grant MP, Dall PM, Granat MH: Sitting patterns at work: objective
+measurement of adherance to current recommendations. Ergonomics
+2011, 54(6):531–538.
+24. Toomingas A, Forsman M, Mathiassen SE, Heiden M, Nilsson T: Variation
+between seated and standing/walking postures among male and female
+call centre operators. BMC Public Health 2012, 12:154.
+25. Eslinger DW, Tremblay MS: Technical reliability assessment of three
+accelerometer models in a mechanical setup. Med Sci Sports Exerc 2006,
+38:2173–2181.
+26. Wong SL, Colley RC, Connar Gorber S, Tremblay MS: Actical accelerometer
+sedentary thresholds for adults. J Phys Act Health 2011, 8:587–591.
+2 7 . K a y e sN M ,S c h l u t e rP J ,M c P h e r s o nK M ,L e e t eM ,M a w s t o nG ,T a y l o rD :Exploring
+Actical accelerometers as an objective measure of physical activity in people
+with Multiple Sclerosis.Arch Phys Med Rehabil2009, 90:594–601.
+28. Rand D, Eng JJ, Tang P, Jeng J, Hung C: How active are people with
+stroke? Use of accelerometers to assess physical activity. Stroke 2009,
+40:163–168.
+29. Colley RC, Garriguet D, Janssen I, Craig CL, Clark J, Tremblay MS: Physical
+activity of Canadian Adults: Accelerometer results from 2007 to 2009
+Canadian Health Measures Survey. Statistics Canada, Catalogue no
+82-003-XPE. Health Rep 2011, 22(1):15–22.
+30. Oliver M, Schofield GM, Badlands HM, Shepherd J: Utility of accelerometer
+thresholds for classifying sitting in office workers.Prev Med 2010, 51:357–360.
+31. Troiano RP, Berrigan D, Dodd KW, Masse LC, Tilert T, McDowell M: Physical
+activity in the United States measured by accelerometry. Med Sci Sports
+Exerc 2008, 40(1):181–188.
+32. Colley RC, Gorber S, Tremblay MS: Quality control and data reduction
+procedures for accelerometry-derived measures of physical activity.
+Statistics Canada, Catalogue no 82-003-XPE . Health Rep 2010,
+21(1):63–69.
+33. Welk GJ, Schaben JA, Morrow JR Jr: Reliability of accelerometer-based
+activity monitors: A generalizability study. Med Sci Sports Exerc 2004,
+36(9):1637–1645.
+Parry and Straker BMC Public Health 2013, 13:296 Page 9 of 10
+http://www.biomedcentral.com/1471-2458/13/296
+
+===== PAGE 10 =====
+
+34. Welk GJ: Physical activity assessments for health-related research. Champaign,
+IL: Human Kinetics Publishers; 2002.
+35. Mathiassen SE: Diversity and variation in biomechanical exposure: What
+is it, and why would we like to know? Appl Ergon 2006, 37:419–427.
+36. Paul DR, Kramer M, Moshfegh AJ, Baer DJ, Rumpler WV: Comparison of two
+different physical activity monitors. BMC Med Res Methodol 2007, 7:26.
+37. Freedson PS, Melonson E, Sirard J: Calibration of Computer Science and
+Applications, Inc. accelerometer. Med Sci Sports Exerc 1998, 30(5):777–781.
+38. Straker L, Campell A: Translation equations to compare Actigraph GT3X and
+Actical accelerometers activity counts.BMC Med Res Methodol 2012, 12:54.
+39. Metzger JS, Catellier DJ, Evenson KR, Treuth MS, Rosamond WD, Siega-Riz A:
+Patterns of objectively measured physical activity in the United States.
+Med Sci Sports Exerc 2008, 40(4):630–638.
+40. Hagstromer MOP, Sjostrom M: Physical activity and inactivity in an adult
+population assessed by accelerometry. Med Sci Sports Exerc 2007,
+39(9):1502–1508.
+41. Jago R, Fox KR, Page AS, Brockman R, Thompson JL: Physical activity and
+sedentary behaviour typologies of 10 –11 year olds. IJBNPA 2010, 7:59.
+42. Steele R, van Sluijs E, Cassidy A, Griffin S, Ekelund U: Targeting sedentary
+time or moderate- and vigorous-intensity activity: independent relations
+with adiposity in a population-based sample of 10-y-old British children.
+Am J Clin Nutr 2009, 90:1185–1192.
+43. Trost SG, McIver KL, Pate RR: Conducting accelerometer-based activity
+assessment in field -based research. Med Sci Sports Exerc 2005,
+37:S531–S543.
+44. Ward DS, Evenson KR, Vaughn A, Brown Rodgers A, Troiano RP:
+Accelerometer use in physical activity: best practices and research
+recommendation. Med Sci Sports Exerc 2005, 37(11 (Supplement):S582 –S588.
+45. Grant MP, Ryan CG, Tigbe WW, Granat MH: The validation of a novel
+activity monitor in the measurement of posture and motion during
+everyday activities. Br J Sports Med 2006, 40:992–997.
+46. Hamilton MT, Healy G, Dunstan D, Zderic TW, Owen N: Too Little Exercise
+and Too Much Sitting: Inactivity Physiology and the Need for New
+Recommendations on Sedentary Behaviour. Current Cardiovascular Risk
+Reports 2008, 2:292–298.
+47. Gilson ND, Suppini A, Ryde GC, Brown HE, Brown WJ: Does the use of
+standing 'hot' desks change sedentary work time in an open plan office?
+Prev Med 2012, 54:56–67.
+48. Findthirty. http://www.findthirty.com.au/.
+49. Engbers L, van Poppel M, van Mechelen W: Modest effects of a controlled
+worksite environmental intervention on cardiovascular risk in office
+workers. Prev Med 2007, 44:356–362.
+50. Freak-Poli R, Wolfe R, Backholer K, de Courten M, Peeters A: Impact of a
+pedometer-based workplace health program on cardiovascular and
+diabetes risk profile. Prev Med 2011, 53:162–171.
+51. Levine JA, Miller JM: The energy expenditure of using a "walk-and-work"
+desk for office workers. Br J Sports Med 2007, 47:558–561.
+52. Straker L, Levine J, Campell A: The effects of walking and cycling
+computer workstations on keyboard and mouse performance.
+Hum Factors 2009, 51:831–844.
+53. Owen N, Healy G, Mathews CE, Dunstan D: Too much sitting: the
+population health science of sedentary behaviour. Sport Sci Rev 2010,
+38(3):105–113.
+54. Aaras A: Relationship between trapezius load and the incidence of
+musculoskeletal illness in the neck and shoulder. Int J Indust Ergon 1994,
+14:341–348.
+55. Falla D, Farina D: Periodic increases in force during sustained contraction
+reduce fatigue and facilitate spatial redistribution of trapezius muscle
+activity. Exp Brain Res 2007, 178(3):385–393.
+56. Hagg G, Astrom A: Load pattern and pressure pain threshold in the
+upper trapezius muscle and psychosocial factors in medical secretaries
+with and without shoulder/neck disorders. Int Arch Occup Environ Health
+1997, 69:423–432.
+57. Dunstan DW, Kingwell BA, Larsen R, Healy GN, Cerin E, Hamilton MT, Shaw
+JE, Bertovic DA, Zimmet PZ, Salmon J, et al: Breaking up prolonged sitting
+reduces postprandial glucose and insulin responses. Diab Care 2012,
+35(3):976–983.
+58. : National Physical Activity Guidelines for Adults .I n Australian Government
+Department of Health and Aging. 2005.
+59. Tucker JM, Welk GJ, Beyler NK: Physical Activity in U.S. Adults: Compliance
+with the Physical Activity Guidelines for Americans. Am J Prev Med 2011,
+40(4):454–461.
+60. Cahill K, Moher M, Lancaster T: Workplace interventions for smoking
+cessation. Cochrane Databse of Systematic Reviews 2008, Art. No.:
+CD003440.
+61. Osilla KC, Van Busum K, Schnyer C, Larkin JW, Eibner C, Mattke S: Systematic
+review of the impact of worksite wellness programs. Am J Manag Care
+2012, 18(2):e68–e81.
+62. Van Domelen DR, Koster A, Caserotti P, Brychta RJ, Chen KY, McClain JJ,
+Troiano RP, Berrigan D, Harris TB: Employment and physical activity in the
+U.S. Am J Prev Med 2011, 41(2):136–145.
+doi:10.1186/1471-2458-13-296
+Cite this article as: Parry and Straker: The contribution of office work to
+sedentary behaviour associated risk. BMC Public Health 2013 13:296.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Parry and Straker BMC Public Health 2013, 13:296 Page 10 of 10
+http://www.biomedcentral.com/1471-2458/13/296

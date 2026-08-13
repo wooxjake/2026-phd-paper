@@ -1,27 +1,30 @@
 # 프로젝트 지침 — PhD 논문 (Sitting Biomechanics / Kinesiology)
 
 ## 명령어 지침
+
 - 메시지 첫 줄 첫 단어가 **"edit"**(대소문자 무관)일 때만 파일 수정·생성·삭제 등 파일 시스템을 변경하는 작업을 실행한다.
 - 첫 단어가 "edit"이 아니면 파일을 읽고 분석·제안하는 것은 가능하나 실제로 변경하지 않는다. 이 경우 "이 작업을 실행하려면 메시지를 edit으로 시작해주세요"라고 안내하고 대기한다.
 - "edit" 승인은 해당 메시지(턴)에만 유효하며, 이후 메시지에서 다시 변경이 필요하면 재차 "edit"으로 시작해야 한다.
 
 ## 프로젝트 개요
+
 Jake, PhD 논문 작성 중 (Sitting Biomechanics / Kinesiology 분야).
 
 ## 에이전트 구성
 
 이 저장소는 **GitHub Copilot(주)** 과 **Claude Code(보조)** 를 함께 사용한다.
 
-- 논문 작업 시 `.github/agents/phd-thesis-writer.agent.md`의 규칙 전문을 적용한다. frontmatter의 `tools:` 항목은 Copilot 전용이므로 무시한다.
-- 규칙 본문은 위 파일과 `policy/`에 한 벌만 둔다. 이 문서와 `.github/copilot-instructions.md`는 진입점이며, 규칙을 복사해 두지 않는다.
+- 논문 작성·수정 및 일반 검토 시 `.github/agents/phd-thesis-writer.agent.md`의 규칙 전문을 적용한다. frontmatter의 `tools:` 항목은 Copilot 전용이므로 무시한다.
+- 지도교수·심사위원 관점의 전문 검토 시 `.github/agents/phd-thesis-feedback.agent.md`와 `policy/phd-thesis-feedback.md`를 추가로 적용한다. 작성 에이전트의 일반 검토 역할과 중복하여 운영한다.
+- 규칙 본문은 에이전트·정책·프로젝트 문서에 역할별로 나누어 둔다. 이 문서와 `.github/copilot-instructions.md`는 진입점이며, 수정 승인과 근거 사용 등 항상 적용해야 하는 핵심 규칙은 두 진입점에서 요약할 수 있다.
 - 한국어 초안 작성·문체 수정 전 `policy/korean-academic-style.md`를 읽고 적용한다. 문체 근거와 문장 템플릿이 필요하면 `etc/han/analysis.md`를 확인한다.
 - 번역본 작업 전 `references/번역_가이드라인.md`를 읽는다.
 
 ### 역할 분담
 
-| 에이전트 | 담당 |
-|---|---|
-| Copilot (주) | 본문 초안 작성·수정 — introduce.md, methods.md, 이후 추가될 결과·논의 섹션 |
+| 에이전트           | 담당                                                                            |
+| ------------------ | ------------------------------------------------------------------------------- |
+| Copilot (주)       | 본문 초안 작성·수정 — introduce.md, methods.md, 이후 추가될 결과·논의 섹션      |
 | Claude Code (보조) | 검증·대조 — 인용 정합성, 문체 점검, references.md 대조, 스크립트 작성, git 정리 |
 
 같은 파일을 두 에이전트가 동시에 편집하지 않는다. 에이전트를 전환하기 전에 커밋해 체크포인트를 남긴다.
@@ -30,45 +33,54 @@ Jake, PhD 논문 작성 중 (Sitting Biomechanics / Kinesiology 분야).
 
 본문은 단일 draft.md가 아니라 IMRAD 섹션별 파일로 분할한다.
 
-| 파일/폴더 | 용도 |
-|---|---|
-| introduce.md | 서론 초안 (문단별 목적 주석 + 본문) |
-| methods.md | 연구방법 초안 (현재 비어 있음) |
-| outline.md | 주제/연구질문/변수/가설 구상 노트 |
-| references.md | APA7 참고문헌 관리 (문헌별 필수 기재 항목은 아래 참조) |
-| references/ | 논문 원본 PDF + 추출 텍스트(.txt) + 번역본(`_논문_번역.md`) |
-| references/Cited Papers/ | 본문에 실제 인용된 논문 원본 PDF |
-| references/`x_` 접두사 파일 | 참고만 하고 번역·인용 대상이 아닌 문헌 |
-| references/번역_가이드라인.md | 번역 규칙 |
-| references/참고우선순위.md | 문헌 숙지 우선순위 |
-| references/*.py | PDF 텍스트 추출·번역 배치 스크립트 |
-| policy/ | 작성 규칙 (korean-academic-style.md) |
-| etc/han/ | 문체 참고 논문 + analysis.md (내용이 아닌 **문체만** 참고) |
-| etc/g-power/ | G*Power 실행파일 (git 추적 제외) |
-| search1~3.md | 외부에서 불러온 AI 리서치 산출물 — **근거가 아님**. `[cite: n]` 마커는 추적 불가 |
+| 파일/폴더                      | 용도                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------- |
+| introduce.md                   | 서론 초안 (문단별 목적 주석 + 본문)                                               |
+| methods.md                     | 향후 분리할 연구방법 초안 파일 (현재 미생성, 연구방법 목차는 introduce.md에 있음) |
+| outline.md                     | 주제/연구질문/변수/가설 구상 노트                                                 |
+| references.md                  | 참고문헌 색인 (상태·문헌 링크·작업 메모 링크)                                     |
+| references/entries/            | 문헌별 상세 관리 파일 (서지·표본·절차·장비·활용 범위)                             |
+| references/notes.md            | 참고문헌 작업 메모, 확보 대기 문헌 및 폴더 대조 기록                              |
+| references/                    | 논문 원본 PDF + 추출 텍스트(.txt) + 번역본(`_논문_번역.md`)                       |
+| references/`x_` 접두사 파일    | 참고만 하고 번역·인용 대상이 아닌 문헌                                            |
+| references/번역\_가이드라인.md | 번역 규칙                                                                         |
+| references/참고우선순위.md     | 문헌 숙지 우선순위                                                                |
+| references/\*.py               | PDF 텍스트 추출·번역 배치 스크립트                                                |
+| policy/                        | 작성 규칙 (korean-academic-style.md)                                              |
+| etc/han/                       | 문체 참고 논문 + analysis.md (내용이 아닌 **문체만** 참고)                        |
+| etc/g-power/                   | G\*Power 실행파일 (git 추적 제외)                                                 |
+| search1~3.md                   | 외부에서 불러온 AI 리서치 산출물 — **근거가 아님**. `[cite: n]` 마커는 추적 불가  |
 
 ## 작업 워크플로우
+
 - 초고는 markdown으로 작성. 분량이 어느 정도 나오면 docx로 변환 (변환 수단 미확정 — pandoc 검토 중).
 - 그래프·통계 코드는 별도 환경에서 작업 중 — 결과 수치만 본문 파일에 반영.
 - 인용이 필요한 문장은 끝에 `[CITE?]`, 확정되지 않은 절차·수치는 `[확인 필요]` 표시 → 요청 시 문헌 탐색 진행.
-- 찾은 문헌은 references.md에 candidate로 먼저 기록 → 본문에 실제 인용되면 cited로 갱신하고 원본을 `references/Cited Papers/`에 저장 (원문 확보 가능한 경우).
+- 찾은 문헌은 `references.md` 색인과 `references/entries/`의 상세 파일에 candidate로 먼저 기록 → 본문에 실제 인용되면 두 곳의 상태를 cited로 갱신하고 원본을 `references/Cited Papers/`에 저장 (원문 확보 가능한 경우).
 - 인용은 안 됐지만 참고한 논문은 `references/`에 `x_` 접두사를 붙여 저장한다.
 - `search1~3.md`의 내용은 원문으로 확인한 뒤에만 근거로 사용하고 references.md에 등록한다.
 
 ## 서식 규칙
+
 - 인용 스타일: APA 7th edition (본문 인용 + 참고문헌 목록 둘 다).
 - 문헌 탐색: 웹 검색으로 PubMed·저널 원문을 확인한다. (bio-research 플러그인은 현재 미설치 — 설치하면 이 항목을 갱신할 것)
+- 문헌 제시: 응답에서 추가해야 할 문헌을 제안할 때는 해당 문헌의 원제목(원문 표기 그대로)과 다운로드 URL을 반드시 함께 제시한다. HTML로 전문을 볼 수 있는 페이지가 있으면 그 주소도 함께 제시한다.
+- 문헌 제시2: 다운로드 페이지가 없다면 해당 원제목으로 검색한 구글 검색 결과 페이지를 링크해줄것
 
-## references.md 레퍼런스별 필수 기재 항목
-references.md를 생성하거나 레퍼런스를 추가/업데이트할 때마다 각 문헌 항목에 아래 내용을 빠짐없이 포함한다.
+## references/entries 레퍼런스별 필수 기재 항목
+
+문헌을 추가하거나 업데이트할 때마다 `references.md`의 색인과 해당 `references/entries/` 상세 파일을 함께 갱신한다. 상세 파일에는 아래 내용을 빠짐없이 포함한다.
+
 1. 영문 제목, 한국 제목
 2. 연구목표
 3. 집단 정의 및 각 집단별 피험자 수
 4. 비교 조건 정리
 5. 측정 방법 및 절차
 6. 측정장비 및 변인 (구체적으로 — 장비 모델명·제조사, 샘플링레이트, 부착 위치, 산출 변인명 등)
+7. URL (웹에서 전문을 확인할 수 있는 HTML 주소를 우선하여 `html read`로 표시하고, HTML 전문이 없으면 PDF 주소 기재)
 
 ## 검토 요청 시 판단 기준
+
 - 논문 구성의 적절성 (섹션 배치, 분량 균형, 흐름)
 - 문장·문체·맥락 연결이 논리적으로 설명되는지 냉철하게 판단 (좋게 포장하지 않음)
 - `[CITE?]` 문장에 실제 뒷받침할 논문이 존재하는지 확인, 없으면 솔직히 보고
@@ -76,5 +88,6 @@ references.md를 생성하거나 레퍼런스를 추가/업데이트할 때마�
 - 논문 주제/방향성 자체에 대한 피드백도 요청 시 제공
 
 ## 선호사항
+
 - 간결하고 직접적인 커뮤니케이션. 불필요한 설명·포맷팅 지양.
 - 검토는 냉정하게 — 과도한 칭찬이나 완곡한 표현 없이 문제점 직접 지적.

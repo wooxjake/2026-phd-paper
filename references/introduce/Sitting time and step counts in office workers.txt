@@ -1,0 +1,490 @@
+===== PAGE 1 =====
+
+This item was submitted to Loughborough’s Institutional Repository 
+(https://dspace.lboro.ac.uk/) by the author and is made available under the 
+following Creative Commons Licence conditions. 
+ 
+ 
+  
+ 
+ 
+For the full text of this licence, please go to: 
+http://creativecommons.org/licenses/by-nc-nd/2.5/
+
+===== PAGE 2 =====
+
+Sitting time and step counts in office workers 
+ 
+Stacy A Clemes, Rupal Patel, Charlotte Mahon and Paula L Griffiths 
+ 
+Institution of all authors: School of Sport, Exercise and Health Sciences, Loughborough 
+University 
+ 
+ 
+Corresponding author details: 
+School of Sport, Exercise and Health Sciences 
+Loughborough University 
+Loughborough 
+Leicestershire 
+UK 
+LE11 3TU 
+ 
+Telephone: +44 (0)1509 228170 
+Fax: +44 (0)1509 223940 
+Email: S.A.Clemes@lboro.ac.uk
+
+===== PAGE 3 =====
+
+Sitting time and step counts in office workers 
+ 
+Abstract 
+ 
+Background: Technological advances mean that many adults are now employed in 
+sedentary occupations. Given evidence linking prolonged sitting to chronic disease risk, 
+understanding sitting and physical activity in and outside the workplace may usefully inform 
+effective interventions.   
+ 
+Aims: To assess sitting time and physical activity during and outside working hours in full-
+time office workers. 
+ 
+Methods: Participants wore a pedometer and recorded sitting times and step counts during 
+and outside working hours for seven days. Participants were divided into tertiles based on 
+the proportion of time spent sitting at work. Sitting times and step counts reported outside 
+work were compared between groups, using one-way analysis of variance.  
+ 
+Results: There were 72 participants. Almost two thirds (65%) of time at work was spent 
+sitting. The sample accumulated 3742±2493 steps at work and 5159±2474 steps outside 
+work on workdays. Participants in the highest tertile for workplace sitting reported sitting for 
+longer than those in the lowest tertile during transport (64±59 vs 21±16 mins), after-work 
+(154±30 vs 126±51mins) and at weekends (382±133 vs 288±124mins, all p<0.05). Work 
+duration and steps reported outside work did not differ between groups.  
+ 
+Conclusions: Office workers who sit for a large proportion of their working day also report 
+sitting for longer outside work. They do not compensate for their sedentary behaviour at 
+work by being more active outside work. Occupational health interventions should focus on 
+reducing workplace and leisure-time sitting in sedentary office workers.
+
+===== PAGE 4 =====
+
+Keywords: Sedentary behaviour, physical activity, occupational health, workplace health 
+interventions, pedometer, step count
+
+===== PAGE 5 =====
+
+Introduction 
+Evidence suggests that  sedentary behaviour , defined as  “any waking behaviour 
+characterised by an energy expenditure ≤1.5 metabolic equivalents [METs] while in a sitting 
+or reclining posture ” [1], is an independent risk factor for a number of adverse health 
+outcomes. For example, greater sitting time has been associated with increased risk of 
+obesity [2, 3], some cancers [4], type 2 diabetes and the metabolic syndrome [2, 5], and of 
+mortality from all-causes and cardiovascular disease [6, 7]. 
+ 
+Adults typically spend time sitting in three setting s: at work, d uring leisure and when 
+travelling [8]. Economic advances and industrial innovation have resulted in many  people 
+being employed in sedentary occupations . Australian workers have been shown to spend 
+half of their total daily sitting time at work  [9, 10].  Similar findings have been reported in UK 
+workers [11]. Furthermore recent evidence suggests that individuals who sit for long periods 
+of their working day do not compensate by increasing their physical activity levels and/or 
+reducing their sitting time during leisure time [10, 12-14]. 
+ 
+Our limited understanding of sitting time in UK adults is largely restricted to studies of leisure 
+time screen-based sedentary behaviours such as computer use and television viewing , [15] 
+or of specific occupational groups [ 13].  To understand better patterns and determinants of 
+sedentary behaviour in adults,  and to inform behaviour change interventions , it is important 
+to measure all types of sedentary behaviour,  in a range of settings, particularly the 
+workplace [11]. The aim of this  study was to examine sedentary behaviour and physical 
+activity during and outside working hours in a sample of full -time office workers  from 
+England.  A secondary aim was to develop our understandi ng of the links between 
+occupational sitting and leisure sitting, by investigating whether those who sit for long 
+periods at work compensate by decreasing their sitting, or increasing their physical activity , 
+when not at work.  This increased understanding could inform work place interventions 
+targeting physical activity and sedentary behaviour.
+
+===== PAGE 6 =====
+
+Methods 
+We recruited volunteers through advertisements posted on staff notice boards at work , and 
+via word of mouth, from two workplaces (an insurance company and a college of further 
+education) in the East Midlands region of England.  The study was approved by the 
+Loughborough University Ethical Advisory Committee , and participants provided written 
+informed consent. 
+ 
+We measured participants’ body mass (kg) and height (cm) without shoes, using electronic 
+scales (Tanita UK Ltd) and a wall -mounted stadiometer (Seca UK) before the monitoring 
+period.  We calculated body mass index (BMI) as kg/m2.  All participants completed an initial 
+health screening questionnaire. We measured p hysical activity using Yamax Digi-Walker 
+SW-200 pedometers, worn throughout waking hours for one week.  We chose pedometers 
+given their popularity in work place activity promotion campaigns [16].  The SW -200 
+pedometer has been shown to accurately detect steps taken in both free- living conditions 
+[17, 18] and in controlled laboratory conditions in  normal weight and overweight  [19-21] 
+individuals.  We showed participants the appropriate position to wear the pedometer, on the 
+waistband in-line with the midline of the anterior aspect of the thigh, at the outset.  We 
+confirmed pedometer accuracy for each participant on issue with a 20 step test (acceptance 
+criteria: 20 +/- 2 steps recorded) [22]. Throughout the monitoring period, we  asked 
+participants to continue their normal daily routine and to record daily step counts and sitting 
+time in a diary. On work days participants recorded their step count on arriving at work , at 
+the start and end of their lunch break  and at the end of the afternoon and their total daily 
+step count at bed time.  They also recorded their work  start and finish time, morning and 
+afternoon sitting time , time spent sitting after work , and their mode (and duration) of 
+transport to and from work.  A sample page from the diary is included in Appendix 1. On 
+non-work days participants recorded their step counts and sitting times at the end of the day 
+only. We only included participants with full diary entries (completed step counts and sitting
+
+===== PAGE 7 =====
+
+times throughout each time point of the day) on at least three work  days and one non- work 
+day in our analysis.  
+ 
+Statistical analyses were conducted using the IBM Statistical Package for the Social 
+Sciences ( SPSS) for Windows  version 21.  We calculated mean step counts and sitting 
+times recorded at each time point throughout the working day, total step counts, sitting times 
+and minutes spent at work.  We calculated total daily sitting times on work days by summing 
+the sitting times reported in each domain (sitting at work in the morning and afternoon, sitting 
+during transport to and from work, and sitting after work) and compared this to total daily 
+sitting times reported on non- work days using a paired- samples t-test.  We calculated the 
+proportion of time spent sitting at work ((sitting at work  in the morning and afternoon/ time 
+spent at work) x 100) and the proportion of total daily sitting time that occurs at work ( (sitting 
+at work in the morning and afternoon/total daily sitting time) x 100). We grouped participants 
+into tertiles based on the proportion of time (low, medium and high) spent sitting at work .  
+We compared time reported sitting after work and sitting during travel on workdays, and total 
+daily sitting time on non -workdays between the three groups. We also compared reported 
+time spent at work, step counts reported during and out of working hours on work  days and 
+total step counts reported on non- work days between the groups .  For all between- group 
+comparisons we used one-way analysis of variance (ANOVA) with Bonferroni-corrected post 
+hoc comparisons. For those participants who provided seven full days of pedometer data, 
+we compared total step counts reported on each day of the week using  repeated-measures 
+ANOVA, with Bonferroni-corrected post hoc comparisons. Stati stical significance was set at 
+p<0.05 for all analyses unless otherwise stated. 
+ 
+Results 
+ 
+A one-sample Kolmogorov-Smirnov test confirmed that all data were normally distributed;  
+descriptive data are therefore reported as the mean plus/minus the standard deviation
+
+===== PAGE 8 =====
+
+throughout.  Preliminary analyses revealed no significant differences in step counts,  sitting 
+times or time spent at work (p>0.05, data not shown)  between the work sites or sexes.  We 
+therefore analysed the data as a whole sample.  
+ 
+Of the 75 participants who commenced the study, 72 (60% female, age 37±13, BMI 24.0±3.5 
+kg/m2) provided complete diaries for the seven day monitoring period of  step counts and 
+sitting time on work days and non- work days.  Of these 72, 63% ( 45) provided complete 
+diary entries on all seven days, 25% (18) did so on six days, 8% (6) on five days, and 4% (3) 
+on  four days.  92% (66) provided complete diary entries on both weekend days.  All 
+participants reported predominately sedentary occupations, in full-time administrative roles  
+and telephone- based customer services.  The initial health screening questionnaire 
+confirmed that all participants were in good general health and none had any physical 
+illnesses or disabilities that might affect their normal daily routine. 
+ 
+Participants reported sitting  (including sitting at work, sitting out of work and sitting in 
+motorised transport) for a total of 517±144 minute s (8 hours, 37 minutes)  per day on work 
+days and 339±137 minutes (5 hours, 37 minutes) per day on non-work days (p<0.001). The 
+mean reported daily time at work was 8 hours 26 min utes ± 66 minutes, of which 327±114 
+minutes (65% of time at work)  were reportedly spent sitting.  On work days, sitting at work 
+accounted for 63% of total daily sitting time.   
+ 
+83% (60) of participants reported that motorised transport was their method of commuting. 
+The m ean daily reported time spent in motorised transport was 38±41  minutes. 17% (12) 
+reported walking or cycling to and from work.  
+ 
+Figure 1 shows total daily and mean step counts recorded before work, during the morning, 
+over lunch, during the afternoon, and after work  on work  days, and total step counts 
+recorded  on non-work days.  Mean step counts were 1345±1133 before work, 1536±1278
+
+===== PAGE 9 =====
+
+during the morning, 707±644 over lunch, 2134±1486 in the afternoon and 3056±1522 after 
+work on work days.  In the 63% ( 45) of participants  who provided step count data on all 
+seven days, t otal daily step counts varied significantly across the week (F = 2.7, p <0.05).   
+Saturday step counts were si gnificantly higher than those reported on Wednesday, 
+Thursday, Friday and Sunday (p<0.01). 
+ 
+Insert Figure 1 about here 
+ 
+Participants in t ertile 1 (low work -time sitters) spent less than 58% of their working hours 
+sedentary (n = 24).  Participants in tertile 2 (medium work -time sitters) spent 59 to 80% of 
+their working hours sedentary (n = 24), and participants in tertile 3 (high work -time sitters) 
+reported sitting for over 80% of their working hours (n = 24).  Table 1 shows that when 
+grouped into tertiles according to the proportion of time spent sitting at work  (low, medium 
+and high work-time sitters), there were significant differences in reported sitting times outside 
+working hours between groups. High work-time sitters reported spending significantly longer 
+sitting in motorised transport to and from work than medium and low work -time sitters 
+(differences = 37 and 43 minutes/day respectively, p <0.01).  High work sitters also reported 
+sitting for significantly longer after work (on workdays) than low work sitters ( difference = 28 
+minutes per day, p<0.05) and significantly greater total daily sitting times on non- workdays 
+than low work sitters  (difference = 94 minutes per day, p<0.05).  The three groups did not 
+differ significantly in terms of their reported work duration (p>0.05).  
+ 
+Insert Table 1 about here 
+ 
+The low work-time sitting group accumulated significantly more step counts during working 
+hours compared to the medium and high work-time sitting groups ( differences = 2355 and 
+2973 steps respectively, p<0.01). However , there were no significant differ ences in step
+
+===== PAGE 10 =====
+
+counts accumulated before work, during the l unch break, after work, and in total steps 
+accumulated on non-work days between the groups (all p>0.05).  
+ 
+Discussion 
+In this sample of full-time office workers in central England , s ignificantly higher levels of 
+sedentary behaviour were reported on work  days (517±144 minutes/day) compared to non-
+work days (339±137 minutes/day).  Overall, 65% of time at work was sedentary, and sitting 
+at work accounted for 63% of total daily sitting time.  We found that those who were most 
+sedentary at work did not compensate by reducing their sedentary behaviour outside work. 
+ 
+A strength of the study was our ability to measure sitting time and physical activity at discrete 
+periods of the working day to understand how sedentary behaviour is accumulated during 
+and outside working hours.  However, whilst diaries provided valuable contextual information 
+about how sitting is accumulated throughout the day, self-reporting may be a source of bias.  
+The requirement for participants to record their step counts from their pedometers may have 
+influenced their activity  [23].  Inclinometers may provide a more objective measure o f 
+sedentary behaviour and physical activity [13].    A further limitation  of pedometers is their 
+inability to  measure activities such as swimming and cycling. Whilst these activities were 
+recorded by a few participants in the diary, the pedometer data was the primary measure of 
+physical activity in this study. As with similar studies [14, 24, 25], the volunteer sample in this 
+study may not have been representative of the entire workforce . Higher levels of sedentary 
+behaviour on work days accords with findings in Australian workers [ 14, 24].  However, we 
+found a higher proportion of total daily sitting time attributable to sitting at work than a study 
+of Australian adults using similar measures, where 52% of total daily sitting time occurred at 
+work [9, 10]. 
+ 
+Step counts recorde d out side working hours did not vary significantly between the three 
+workplace sitting groups, suggesting that individuals who reported greater sitting times at
+
+===== PAGE 11 =====
+
+work did not compensate by increasing their activity levels outside working hours.   In fact 
+those who reported sitting for longest at work reported sitting for longer outside work, similar 
+to findings of Jans et al. [ 12] and Parry and Straker  [14].  However, Chau et al. [10] found 
+that Australian workers with jobs that involve mostly sitting  were more lik ely to report being 
+physically active during their leisure-time than individuals in more active jobs.   
+ 
+In our study,  the ‘high work-time sitting’ group also reported sitting for longer when using 
+motorised transport, perhaps because they had longer daily commutes.  These people could 
+benefit from occupational health interventions to reduce workplace sitting.  We also found 
+that participants took relatively few steps during their lunch break (700 steps) .  Lunchtime 
+could be targeted for workplace interventions to increase physical activity.  Total work day 
+sitting times of 11 hours in the  ‘high work-time sitting’ group increases their risk of chronic 
+conditions associated with sedentary behaviour [7].  As work represents a large proportion 
+(>50%) of office workers’ total daily sitting time , it is an ideal environment for occupational 
+behaviour change interventions to reduce sedentary behaviour. Indeed, recent studies have 
+investigated the effectiveness of sit -to-stand workstations for reducing sedentary time at 
+work [26, 27].  However, our findings, and those of Jans et al. [12] and Parry and Straker 
+[14], suggest that occupational health  interventions should also address sitting ou tside 
+working hours.  
+ 
+We studied full-time office workers with similar job roles and ranks .  Further research could 
+explore sedentary behaviour during and outside working hours in different employment 
+sectors and grades (such as professionals, managers and technicians). This study’s cross-
+sectional design prevents inference about causality. We cannot  determine whether being 
+sedentary at work leads to being more sedentary out side working hours.  Longitudinal 
+research could explore the long-term relationships between sedentary behaviour during and 
+outside working hours.
+
+===== PAGE 12 =====
+
+Key points 
+• In this sample, office workers were sedentary for 65% of their working day.  
+• Those who reported sitting most at work also reported sitting for longer outside  
+working hours, and did not compensate for their sedentary behaviour at work by being more 
+active in their leisure time.  
+• Occupational health interventions should aim to reduce workplace and leisure-time 
+sitting in sedentary office workers. 
+ 
+Conflict of Interest  
+The authors declare that there are no conflicts of interest. No external funding supported the 
+work outlined in the manuscript.
+
+===== PAGE 13 =====
+
+References 
+1. Sedentary Behaviour Research Network. Standardi zed use of the terms “sedentary” and 
+“sedentary behaviours” Appl Physiol Nutr Metab 2012;37:540–542. 
+2. Hu FB, Li TY, Colditz GA, Willett WC, Manson JE. Television watching and other 
+sedentary behaviors in relation to risk of obesity and type 2 diabetes mellitus in 
+women JAMA 2003;289:1785-1791. 
+3. Brown WJ, Williams L, Ford JH, Ball K, Dobson AJ. Identifying the energy gap: magnitude 
+and determinants of 5 -year weight gain in midage women Obesity research 
+2005;13:1431-1441. 
+4. Gierach GL, Chang SC, Brinton LA , et al.  Physical activity, sedentary behavior, and 
+endometrial cancer risk in the NIH -AARP Diet and Health Study Int J Cancer 
+2009;124:2139-2147. 
+5. Edwardson CL, Gorely T, Davies MJ , et al.  Association of sedentary behaviour with 
+metabolic syndrome: a meta-analysis PloS one 2012;7:e34916. 
+6. Katzmarzyk PT, Church TS, Craig CL, Bouchard C. Sitting time and mortality from all 
+causes, cardiovascular disease, and cancer Med Sci Sports Exerc 2009; 41:998-
+1005. 
+7. Wilmot EG, Edwardson CL, Achana FA , et al.  Sedentary time in adults and the 
+association with diabetes, cardiovascular disease and death: systematic review and 
+meta-analysis Diabetologia 2012;55:2895-2905. 
+8. Chau JY, der Ploeg HP, van Uffelen JG , et al. Are workplace interventions to reduce 
+sitting effective? A systematic review Prev Med 2010. 
+9. Miller R, Brown W. Steps and sitting in a working population Int J Behav Med 
+2004;11:219-224. 
+10. Chau JY, van der Ploeg HP, Merom D, Chey T, Bauman AE. Cross -sectional 
+associations between occupational and leisure -time sitting, physical activity and 
+obesity in working adults Prev Med 2012;54:195-200. 
+11. Clemes SA, David BM, Zhao Y, Han X, Brown W. Validity of two self -report measures of 
+sitting time J Phys Act Health 2012;9:533-539. 
+12. Jans MP, Proper KI, Hi ldebrandt VH. Sedentary behavior in Dutch workers: differences 
+between occupations and business sectors Am J Prev Med 2007;33:450-454. 
+13. Tigbe WW, Lean ME, Granat MH. A physically active occupation does not result in 
+compensatory inactivity during out-of-work hours Prev Med 2011;53:48-52. 
+14. Parry S, Straker L. The contribution of office work to sedentary behaviour associated risk 
+BMC public health 2013;13:296.
+
+===== PAGE 14 =====
+
+15. Stamatakis E, Hamer M, Dunstan DW. Screen- based entertainment time, all -cause 
+mortality, and cardiovascular events: population- based study with ongoing mortality 
+and hospital events follow -up Journal of the American College of Cardiology 
+2011;57:292-299. 
+16. Freak-Poli RL, Cumpston M, Peeters A, Clemes SA. Workplace pedometer interventions 
+for increasing physical activity The Cochrane database of systematic reviews 
+2013;4:CD009209. 
+17. Schneider PL, Crouter S, Bassett DR. Pedometer measures of free -living physical 
+activity: comparison of 13 models Med Sci Sports Exerc 2004;36:331-335. 
+18. Tyo BM, Fitzhugh EC, Bassett DR, Jr., John D, Feito Y, Thompson DL. Effects of body 
+mass index and step rate on pedometer error in a free- living environment Med Sci 
+Sports Exerc 2011;43:350-356. 
+19. Crouter SE, Schneider PL, Karabulut M, Bassett DR, Jr. Validity  of 10 electronic 
+pedometers for measuring steps, distance, and energy cost Med Sci Sports Exerc 
+2003;35:1455-1460. 
+20. Schneider PL, Crouter SE, Lukajic O, Bassett DR, Jr. Accuracy and reliabi lity of 10 
+pedometers for measuring steps over a 400- m walk Med Sci Sports Exerc 
+2003;35:1779-1784. 
+21. Giannakidou DM, Kambas A, Ageloussis N, et al. The validity of two Omron pedometers 
+during treadmill walking is speed dependent European journal of appl ied physiology 
+2012;112:49-57. 
+22. Tudor-Locke C, Sisson SB, Lee SM, Craig CL, Plotnikoff RC, Bauman A. Evaluation of 
+quality of commercial pedometers Canadian journal of public health = Revue 
+canadienne de sante publique 2006;97 Suppl 1:S10-15. 
+23. Clemes SA, Deans NK. Presence and duration of reactivity to pedometers in adults Med 
+Sci Sports Exerc 2012;44:1097-1101. 
+24. Thorp AA, Healy GN, Winkler E , et al. Prolonged sedentary time and physical activity in 
+workplace and non-work contexts: a cross-sectional study of office, customer service 
+and call centre employees Int J Behav Nutr Phys Act 2012;9:128. 
+25. Brown HE, Ryde GC, Gilson ND, Burton NW, Brown WJ. Objectively measured 
+sedentary behavior and physical activity in office employees: relationships with 
+presenteeism Journal of occupational and environmental medicine / American 
+College of Occupational and Environmental Medicine 2013;55:945-953. 
+26. Healy GN, Eakin EG, Lamontagne AD , et al. Reducing sitting time in office workers: 
+Short-term efficacy of a multicomponent intervention Prev Med 2013;57:43-48.
+
+===== PAGE 15 =====
+
+27. Straker L, Abbott RA, Heiden M, Mathiassen SE, Toomingas A. Sit -stand desks in call 
+centres: associations of use and ergonomics awareness with sedentary behavior 
+Applied ergonomics 2013;44:517-522.
+
+===== PAGE 16 =====
+
+Table 1. Sitting times for 72 full-time office workers, reported on workdays (at work, during 
+transport, after work), total sitting times and step counts reported on workdays and non-
+workdays, grouped as tertiles based on the proportion of time spent sitting at work.   
+ Low work 
+sitters (n = 24) 
+Medium 
+work sitters 
+(n = 24) 
+High work 
+sitters         
+(n = 24) 
+Between group differences 
+ F value Significance 
+Sitting at work 
+(minutes/day) 205 ± 76 333 ± 52 443 ± 46 96.3 *** 
+Sitting in transport 
+(minutes/day)* 21 ± 16 27 ± 18 64 ± 59 8.1 *** 
+Sitting after work 
+(minutes/day) 126 ± 51 144 ± 46 154 ± 30 3.2 * 
+Total sitting time on 
+workdays 
+(minutes/day) 
+352 ± 107 504 ± 69 661 ± 98 64.0 *** 
+Total sitting time on 
+non-workdays 
+(minutes/day) 
+288 ± 124 341 ± 142 382 ± 133 3.5 * 
+Steps accumulated at 
+work 5446 ± 3381 3091 ± 1297 2473 ± 1125 12.3 *** 
+Steps accumulated 
+out of work (on 
+workdays) 
+4257 ± 1640 5773 ± 2963 5295 ± 2393 2.5 NS 
+Total step count on 
+workdays 9703 ± 3359 8864 ± 3364 7768 ± 2828 4.7 * 
+Total step count on 
+non-workdays 10329 ± 5825 9973 ± 5225 8284 ± 3475 1.1 NS
+
+===== PAGE 17 =====
+
+Figure legend 
+ 
+Figure 1. Step counts accumulated before work, in the morning, at lunchtime, in the 
+afternoon and after work on workdays and total step counts on non-workdays for 72 full time 
+office workers.
+
+===== PAGE 18 =====
+
+Appendix 1 
+Sample diary 
+ 
+Working Day        Date: __________ 
+ 
+1. What time did you put the pedometer on?  __________  
+ 
+2. Before starting work, have you done any physical activity/exercise  Yes* / No 
+* if Yes, please state what you did and the duration (e.g., walking, running, gym, housework)  
+ 
+Activity: ________________________________________________ Duration: ___________ 
+ 
+3. Upon arriving at work please write down the time and the number of steps displayed  
+ 
+Start work time: _____________   Steps displayed: ___________ 
+ 
+4. At lunch time, please indicate how long you have been sitting for since                                         
+arriving at work (mins)?         ___________ 
+ 
+5. At the beginning and end of your lunch break please write down the time and the number of 
+steps displayed (if working through lunch, leave blank).  
+ 
+Begin lunch break, time: _____________  Steps displayed: ____________ 
+ 
+End of lunch break, time: _____________  Steps displayed: ____________ 
+ 
+6. During your lunch break did you do any activity?     Yes* / No 
+*If Yes, please describe what you did and the duration (e.g. walking, running, gym).  
+ 
+Activity: ________________________________________________ Duration: ___________ 
+ 
+7. Upon leaving work please write down the time and the number of steps displayed  
+ 
+Finish work time: _____________   Steps displayed: ___________ 
+ 
+8. How long have you been sitting for since your lunch break?    ___________ 
+ 
+9. Mode of transport to and from work: ___________________ Total duration: ___________ 
+ 
+10. Has today at work been a typical working day?     Yes / No* 
+*If No, please give details, i.e. extraordinarily busy/stressful day/quiet day/meetings  
+ 
+_________________________________________________________________________ _______ 
+ 
+11. Have you done any other physical activity/exercise today not previously mentioned, i.e. out of 
+working hours?          Yes* / No 
+*If yes, please describe what you did and the duration (e.g. walking, running, cycling, gym, weight 
+lifting, housework, gardening) 
+ 
+Activity: ________________________________________________ Duration: ___________ 
+ 
+12. How long have you been sitting for since you got home from work?     ___________ 
+ 
+13. What time did you take the pedometer off?  ___________ 
+ 
+14. Please write down the reading on the pedometer upon going to bed:    ___________ 
+ 
+ 
+Please add any additional notes that may have made this day different to your usual routine

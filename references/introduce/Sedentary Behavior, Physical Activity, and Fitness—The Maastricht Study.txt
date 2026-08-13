@@ -1,0 +1,927 @@
+===== PAGE 1 =====
+
+Sedentary Behavior, Physical Activity, and Fitness-
+The Maastricht Study
+Citation for published version (APA):
+Van der Velde, J. H. P. M., Koster, A., Van der Berg, J. D., Sep, S. J. S., Van der Kallen, C. J. H.,
+Dagnelie, P. C., Schram, M. T., Henry, R. M. A., Eussen, S. J. P. M., Van Dongen, M. C. J. M.,
+Stehouwer, C. D. A., Schaper, N. C., & Savelberg, H. H. C. M. (2017). Sedentary Behavior, Physical
+Activity, and Fitness-The Maastricht Study. Medicine and Science in Sports and Exercise, 49(8), 1583-
+1591. https://doi.org/10.1249/MSS.0000000000001262
+Document status and date:
+Published: 01/08/2017
+DOI:
+10.1249/MSS.0000000000001262
+Document Version:
+Publisher's PDF, also known as Version of record
+Document license:
+Taverne
+Please check the document version of this publication:
+• A submitted manuscript is the version of the article upon submission and before peer-review. There can
+be important differences between the submitted version and the official published version of record.
+People interested in the research are advised to contact the author for the final version of the publication,
+or visit the DOI to the publisher's website.
+• The final author version and the galley proof are versions of the publication after peer review.
+• The final published version features the final layout of the paper including the volume, issue and page
+numbers.
+Link to publication
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright
+owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these
+rights.
+• Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+• You may not further distribute the material or use it for any profit-making activity or commercial gain
+• You may freely distribute the URL identifying the publication in the public portal.
+If the publication is distributed under the terms of Article 25fa of the Dutch Copyright Act, indicated by the “Taverne” license above,
+please follow below link for the End User Agreement:
+www.umlib.nl/taverne-license
+Take down policy
+If you believe that this document breaches copyright please contact us at:
+repository@maastrichtuniversity.nl
+providing details and we will investigate your claim.
+Download date: 13 8월. 2026
+
+===== PAGE 2 =====
+
+Downloadedfromhttp://journals.lww.com/acsm-mssebyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3XI41p+sDLxZygLgf8cJ1jiKckl7ob8ynv0caRDMZrldSFlgZiQbnNQ==on10/21/2020
+Downloadedfromhttp://journals.lww.com/acsm-mssebyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3XI41p+sDLxZygLgf8cJ1jiKckl7ob8ynv0caRDMZrldSFlgZiQbnNQ==on10/21/2020
+Sedentary Behavior, Physical Activity, and
+Fitness—The Maastricht Study
+JEROEN H. P. M. VAN DER VELDE 1,2,3,4, ANNEMARIE KOSTER 5,6, JULIANNE D. VAN DER BERG 5,6,7,
+SIMONE J. S. SEP 4,8, CARLA J. H. VAN DER KALLEN 4,8, PIETER C. DAGNELIE 4,6,9, MIRANDA T. SCHRAM 4,8,10,
+RONALD M. A. HENRY 4,8,10,S I M O N EJ .P .M .E U S S E N4,6,9, MARTIEN C. J. M. VAN DONGEN 6,9,
+COEN D. A. STEHOUWER 4,8, NICOLAAS C. SCHAPER 3,4,6, and HANS H. C. M. SAVELBERG 1,2
+1Department of Human Movement Sciences, Maastricht University, Maastricht, THE NETHERLANDS; 2NUTRIM School for
+Nutrition and Translational Research in Metabolism, Maastricht University, Maastricht, THE NETHERLANDS; 3Division of
+Endocrinology, Department of Internal Medicine, Maastricht University Medical Centre (MUMC+), Maastricht, THE
+NETHERLANDS;
+4CARIM School for Cardiovascular Diseases, Maastricht University, Maastricht, THE NETHERLANDS;
+5Department of Social Medicine, Maastricht University, Maastricht, THE NETHERLANDS; 6CAPHRI School for Public
+Health and Primary Care, Maastricht University, Maastricht, THE NETHERLANDS; 7Radboud Institute for Health Sciences,
+Radboud University Medical Center, Nijmegen, THE NETHERLANDS;8Department of Internal Medicine, Maastricht University
+Medical Centre (MUMC+), Maastricht, THE NETHERLANDS;9Department of Epidemiology, Maastricht University, Maastricht,
+THE NETHERLANDS; and 10Heart and Vascular Centre, Maastricht University Medical Centre (MUMC+), Maastricht,
+THE NETHERLANDS
+ABSTRACT
+VAN DER VELDE, J. H. P. M., A. KOSTER, J. D. VAN DER BERG, S. J. S. SEP, C. J. H. VAN DER KALLEN, P. C. DAGNELIE,
+M. T. SCHRAM, R. M. A. HENRY, S. J. P. M. EUSSEN, M. C. J. M. VAN DONGEN, C. D. A. STEHOUWER, N. C. SCHAPER,
+and H. H. C. M. SAVELBERG. Sedentary Behavior, Physical Activity, and Fitness—The Maastricht Study. Med. Sci. Sports Exerc. ,
+Vol. 49, No. 8, pp. 1583–1591, 2017. Purpose: This cross-sectional study examined the mutual independent associations of sedentary
+behavior, lower intensity physical activity (LPA) and higher intensity physical activity (HPA) (an approximation of moderate to vigorous
+physical activity with cardiorespiratory fitness (CRF). Methods: Two thousand twenty-four participants were included from The
+Maastricht Study (mean T SD age, 59.7 T 8.1 yr; 49.6% men). With the activPAL3 activity monitor, we assessed sedentary time (ST),
+sedentary pattern variables (number of sedentary breaks, average sedentary bout duration, and number of prolonged sedentary bouts
+[Q30 min]), LPA, and HPA. CRF was calculated as maximum power output per kilogram body mass ( WmaxIkgj1) estimated from a
+submaximal cycle ergometer test. Linear regression analyses and isotemporal substitution analyses were used to examine associations of ST,
+sedentary pattern variables, and HPA with CRF. Analyses were stratified by sex. Results: One hour of ST per day was associated with
+a lower W
+maxIkgj1: Bmen = j0.03 (95% confidence interval [CI], j0.05 to j0.01) and Bwomen = j0.02 (95% CI, j0.04 to 0.00),
+independent of HPA. No statistically significant associations between sedentary patterns variables and CRF were observed. LPA was
+associated with a higher W
+maxIkgj1: Bmen = 0.12 (95% CI, 0.07–0.17) and Bwomen = 0.12 (95% CI, 0.07–0.18). HPA was associated with
+a higher WmaxIkgj1: Bmen = 0.48 (95% CI, 0.38–0.58) and Bwomen = 0.27 (95% CI, 0.18–0.36). Replacing ST with LPA ( Bmen, 0.08; 95%
+CI, 0.03–0.14; Bwomen, 0.10; 95% CI, 0.05–0.16) or with HPA ( Bmen, 0.49; 95% CI, 0.39–0.59; Bwomen = 0.28; 95% CI, 0.19–0.36), but
+not with standing was associated with higher CRF.Conclusions: Modest associations between sedentary behavior and CRF were observed.
+Replacing ST with LPA was associated with higher CRF, which could be of particular importance for individuals who cannot engage in
+HPA. Nonetheless, replacing ST with HPA was associated with greatest estimated change in CRF. Key Words: SEDENTARY LIFE-
+STYLE, SEDENTARY PATTERNS, ACCELEROMETRY, HIGH-INTENSITY PHYSICAL ACTIVITY, PHYSICAL FITNESS
+C
+ardiorespiratory fitness (CRF), defined as the capac-
+ity of the cardiovascular and respiratory systems to
+supply fuel and oxygen during sustained physical
+activity (PA), has shown to be an important determinant of
+health. Impaired CRF has been recognized in the etiology of
+the metabolic syndrome and cardiovascular disease (CVD),
+and may predict premature mortality (6,16,17,21). Although
+CRF is determined to a certain extent by factors such as sex,
+genetics and environment, PA has been identified as a key
+modifiable determinant (7). Specifically, more time engaged
+in moderate-to-vigorous PA (MVPA), has been associated
+with higher CRF (20,22).
+Address for correspondence: Jeroen HPM van der Velde, M.Sc., Department of
+Human Movement Sciences, Maastricht University, P.O. Box 616, 6200 MD,
+Maastricht, the Netherlands; E-mail: jeroen.vandervelde@maastrichtuniversity.nl.
+Submitted for publication September 2016.
+Accepted for publication February 2017.
+Supplemental digital content is available for this article. Direct URL citations
+appear in the printed text and are provided in the HTML and PDF versions of
+this article on the journal_s Web site (www.acsm-msse.org).
+0195-9131/17/4908-1583/0
+MEDICINE & SCIENCE IN SPORTS & EXERCISE
+/C210
+Copyright /C2112017 by the American College of Sports Medicine
+DOI: 10.1249/MSS.0000000000001262
+1583
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 3 =====
+
+Despite the well-documented health benefits of MVPA,
+PA guidelines are frequently not met (32) and the majority
+of the adult population appears to be sedentary most time of
+the day (25). In addition, even individuals who do regularly
+engage in MVPA may spend the majority of the day in sed-
+entary behavior. Sedentary behavior is defined as any waking
+behavior that is characterized by an energy expenditure
+e1.5 METs while in a sitting or reclining position (29). More
+daily sedentary time (ST) has been associated with several ad-
+verse health outcomes including an increased risk for the meta-
+bolic syndrome, type 2 diabetes mellitus (T2DM) and CVD
+(9,38). Importantly, these associations were observed indepen-
+dent of MVPA. Even individuals who do adhere to PA guide-
+lines appear to be at increased riskfor detrimental health effects
+from sitting too much (25). These findings are supported by the
+observation that MVPA may not compensate the detrimental
+associations of ST on markers of metabolic health (12).
+Not only total ST has shown to be a determinant of several
+adverse health outcomes but also the pattern in which ST is
+accumulated may be relevant as well. Patterns of ST can be
+expressed by sedentary breaks (interruptions of periods of
+sitting), the length of sedentary bouts (uninterrupted periods of
+ST) and the mean duration of a sedentary bout. For instance,
+more sedentary breaks have been associated with favorable
+cardiometabolic outcomes (11,15). Because both sedentary
+behavior and CRF have been associated with detrimental
+health, associations between these constructs should be ex-
+amined. Possibly, the positive effect of MVPA on CRF may
+be attenuated by increased amounts of ST. To date, only a
+few studies have considered the associations of sedentary
+behavior with CRF. Studies using self-reported measures of
+ST observed that larger amounts of ST were associated with
+lower CRF (13,33). One study that used objectively measured
+ST and CRF in a population age 12 to 49 yr, also found that
+more ST was associated with a lower CRF (19).
+To obtain a better insight into the associations between
+sedentary behavior and CRF, we examined the mutually in-
+dependent associations of objectively measured ST, sedentary
+behavior patterns and PA with CRF in a large adult population.
+PA was divided into lower-intensity PA (LPA) and higher-
+intensity PA (HPA) (corresponding approximately with MVPA).
+We hypothesized that more daily ST, a longer average sed-
+entary bout duration and more prolonged sedentary bouts per
+day would be associated with lower CRF. On the other hand,
+more daily sedentary breaks and more time engaged in LPA
+and HPA would be associated with higher CRF.
+METHODS
+Population. We used data from The Maastricht Study,
+an observational prospective population-based cohort study.
+The rationale and methodology have been described previ-
+ously (28). In brief, the study focuses on the etiology, path-
+ophysiology, complications, and comorbidities of T2DM and
+is characterized by an extensive phenotyping approach. Eli-
+gible for participation were all individuals age between 40
+and 75 yr and living in the southern part of the Netherlands.
+Participants were recruited through mass media campaigns and
+from the municipal registries and the regional Diabetes Patient
+Registry via mailings. Recruitment was stratified according to
+known T2DM status, with an oversampling of individuals with
+T2DM, for reasons of efficiency . The present report includes
+cross-sectional data from a selection of the first 3451 participants,
+who completed the baseline survey between November 2010
+and September 2013. For this study, data were available for 2024
+participants. Main reasons for missing data were: medical ex-
+clusion for the submaximal cycle ergometer test (n = 425), in-
+valid ergometer test (n = 180), missing or invalid accelerometry
+data (n = 629) and missing data in covariates ( n = 193). The
+examinations of each participant were performed within a time
+window of 3 months. The study has been approved by the in-
+stitutional medical ethical co mmittee (NL31329.068.10) and
+the Minister of Health, Welfare and Sports of the Netherlands
+(Permit 131088-105234-PG). Allparticipants gave written in-
+formed consent.
+Accelerometry: ST, patterns of sedentary behavior,
+and HPA. Daily activity levels were measured using the
+activPAL3i PA monitor (PAL Technologies, Glasgow, UK).
+The activPAL3 is a small (53/C235 /C27 mm), lightweight (15 g)
+triaxial accelerometer that records movement in the vertical,
+anteroposterior and mediolateral axes, and also determines
+posture (sitting or lying, standing and stepping) based on ac-
+celeration information. The device was attached directly to
+the skin on the front of the right thigh with transparent 3M
+Tegadermi tape, after the device had been waterproofed using
+a nitrile sleeve. Participants were instructed to wear the accel-
+erometer for eight consecutive days, without removing it at any
+time. To avoid inaccurately identifying nonwear time, partic-
+ipants were asked not to replace the device once removed. Data
+were uploaded using the activPAL software and processed
+using customized software written in MATLAB R2013b
+(MathWorks, Natick, MA). Data from the first day were ex-
+cluded from the analysis because participants performed
+physical function tests at the research center after the device
+was attached. In addition, data from the final wear day pro-
+viding e14 waking hours of data were excluded from the
+analysis. Participants were included if they provided at least
+one valid day (Q10 h of waking data).
+The total amount of ST was based on the sedentary posture
+(sitting or lying), and calculated as the mean time spent in a
+sedentary position during waking time per day. The method
+used to determine waking time has been described elsewhere
+(37). The number of sedentary breaks during waking time
+was determined as each transition from a sitting or lying po-
+sition to standing or stepping with a duration of at least 1 min,
+and the mean number of breaks per day was calculated.
+Sedentary time accumulated in a consecutive period Q30 min
+was defined as a prolonged sedentary bout, and the mean
+number of prolonged sedentary bouts during waking time per
+day was calculated. Average bout duration was calculated by
+dividing total ST by total number of sedentary bouts of any
+duration. The total amount of standing time was based on the
+http://www.acsm-msse.org1584 Official Journal of the American College of Sports Medicine
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 4 =====
+
+standing posture, and calculated as the mean time spent
+standing during waking time per day. The total amount of
+stepping (PA) was based on the stepping posture, and calcu-
+lated as the mean time stepping during waking time per day.
+Stepping time (PA) was further classified into HPA (minutes
+with a step frequency 9110 steps per minute during waking
+time) and LPA (minutes with a step frequency e110 steps per
+minute during waking time) (35).
+Submaximal cycle ergometer test: CRF. As an ob-
+jective measure of CRF estimated maximum power output
+adjusted for body mass ( W
+maxIkgj1) was used (8,30). Wmax
+was estimated from a graded submaximal exercise protocol
+performed on a cycle ergometer system (CASETM version 6.6
+in combination with e-bike; GE Healthcare, Milwaukee, WI).
+Participants were excluded from the submaximal cycle er-
+gometer test if they had experienced cardiovascular complica-
+tions in the preceding 3 months, had an abnormal resting ECG,
+were known with cardiovascular complications such as peri-
+carditis and hypertrophic cardiomyopathy, had severe hyper-
+tension (SBPQ180 and/or DBP Q110), renal failure or an ICD/
+pacemaker. Participants eligiblefor the test were fitted with a
+blood pressure cuff on the upper left arm (Tango+; SunTech
+Medical, Inc., Morisville, NC) and electrodes on the thorax to
+provide continuously a 12-leads ECG.
+The protocol consisted of a short warm-up period and at
+most seven stages with increasing work load. Participants
+were instructed to cycle at a cadence of 60–70 rotation per
+minute (rpm) during a short familiarization period without
+any external workload. For the first exercise stage, external
+workload was set at 25 W. Every consecutive 2 min external
+workload was increased with 25 W. At the end of each stage,
+HR and blood pressure were measured. Further, the partici-
+pant was asked to provide a RPE on the 15-point Borg-scale;
+an interval scale ranging from 6 (‘ ‘no exertion at all’ ’) up to 20
+(‘ ‘maximal exertion’ ’). The exercise protocol was considered
+as ‘‘completed’’ when HR reached Q85% of the estimated
+maximum HR (220 j age) or when a RPE Q 17 was scored by
+the participant. If HRG 85% or RPE G 17 by the end of stage 7
+(work load of 175 W), the test was also stopped. The test could
+also be prematurely terminated on medical grounds or when
+the participant was unwilling to continue.
+Submaximal values of HR and RPE with workload from
+each stage were extrapolated to 100% of maximum HR or an
+RPE of 20 and corresponding workload ( W
+max)u s i n gi n d i -
+vidual linear regression models. Using RPE to predict Wmax
+overcomes the issue that certain medical conditions, such as
+autonomous neuropathy and medication use (e.g., beta
+blockers) may affect the linear association of HR with
+power output. Consequently, this protocol is suitable for
+participants who otherwise would have been excluded from
+exercise testing (27). Analyses demonstrated that estimated
+W
+max using HR ( WmaxHR85%) was comparable to Wmax
+based on RPE ( WmaxRPE17) in this study (see document,
+Supplemental Digital Content 1, Comparison of Wmax
+based on HR and Wmax based on RPE, http://links.lww.
+com/MSS/A891).
+Wmax was calculated from HR values if the test was com-
+pleted based on HR, that is, HR Q 85% of estimated HR max
+(WmaxHR85%; N = 1201). Wmax was calculated from RPE
+values if the test was completed based on RPE, that is, RPE Q
+17 ( WmaxRPE17; N = 350). In addition to completed tests,
+Wmax from uncompleted tests was calculated from HR if
+Q75% of HR max was achieved ( WmaxHR75% ; N = 375) and
+Wmax was calculated from RPE values if an RPE Q 15 was
+scored (WmaxRPE15; N = 98). Estimations of Wmax from these
+lower ranges of HR and RPE were found to be similar to
+completed tests (methods and results of the analyses between
+W
+maxHR85% vs WmaxHR75% and WmaxRPE17 vs WmaxRPE15 are
+shown as text and tables in Supplemental Digital Content 2,
+Estimations of Wmax from lower ranges of HR, http://links.
+lww.com/MSS/A892. Tests where both 75% of HR max and
+RPE15 were not achieved were considered as invalid.
+Covariates. The following variables were considered as
+potential confounders: BMI, age, education level, alcohol
+use, smoking status, CVD, energy intake, mobility limita-
+tions, beta-blocker use, and T2DM. BMI was calculated
+from weight and height measured in a physical examination
+to the nearest of 0.5 kg or 0.1 cm. Questionnaires were
+conducted to collect information on age (in years), sex, edu-
+cational level, smoking status, alcohol consumption, CVD
+history, energy intake, and mobility limitations. Educational
+level was divided into low, middle, and high. Smoking
+status was divided into current, former, and never smokers.
+Alcohol consumption was divided into three categories: non-
+consumers, low consumers (for womene7 glasses alcohol per
+week; for men e14 glasses alcohol per week), and high con-
+sumers (for women 97 glasses per week; for men 914 glasses
+alcohol per week) (14). CVD history was derived from the
+Rose questionnaire and defined as a self-reported history of
+any of the following conditions: myocardial infarction, cere-
+brovascular infarction or hemorrhage, percutaneous artery
+angioplasty of, or vascular surgery on, the coronary, abdom-
+inal, peripheral, or carotid arteries. Energy intake was derived
+from a food frequency questionnaire, which was developed
+for The Maastricht Study, and calculated as the mean energy
+intake per day (kcal). Mobility limitation was acquired from
+the Dutch version of the Short Form Health Survey and was
+defined as having difficulty with stair climbing and/or walk-
+ing 500 m (1). The use of diabetes medication and beta blockers
+was obtained from a medication interview. To determine
+glucose metabolism status, all participants (except those who
+use insulin or with a fasting plasma glucose9 11.0 mmolIL
+j1)
+underwent a standardized seven-point oral glucose tolerance
+test after an overnight fast as described elsewhere (28). Glu-
+cose metabolism was defined according to the World Health
+Organization 2006 criteria, and participants were categorized
+as having a normal glucose metabolism, prediabetes, T2DM,
+or type 1 diabetes mellitus (and other types). Participants on
+diabetes medication and without type 1 diabetes were also
+considered as having T2DM (39).
+Statistical analyses. CRF ( W
+maxIkgj1) was used as a
+continuous measure and was categorized into tertiles (low,
+SEDENTARINESS, PHYSICAL ACTIVITY, AND FITNESS Medicine & Science in Sports & Exercise d 1585
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 5 =====
+
+medium, and high fit) based on sex and age (40–49, 50–59,
+60–69, and 970 yr). Descriptive statistics are presented for
+the total population and by sex. Normally distributed variables
+are presented as mean (SD), skewed variables are presented as
+median (interquartile range, 25%–75%]. Percentages are pro-
+vided for categorical variables.
+Linear regression analyses were performed to assess the
+association between ST, sedentary breaks, average sedentary
+bout duration, number of prolonged sedentary bouts, LPA and
+HPA with estimated W
+maxIkgj1. Associations were expressed
+as regression coefficients ( B) with 95% confidence intervals.
+The associations in models 1 were adjusted for waking time,
+age, education level, and T2DM (to account for oversampling
+in the study design). In models 2 HPA was added to the
+model describing ST, and vice versa. ST and HPA were both
+added in the models describing sedentary breaks, average
+sedentary bout duration and number of prolonged sedentary
+bouts. In models describing LPA no other activity was added
+due to collinearity. Models 3 were additionally adjusted for
+BMI, alcohol use, smoking status, CVD, beta-blocker use,
+energy intake and mobility limitations. Interaction terms
+with sex were significant for ST, prolonged sedentary bouts
+and HPA ( P G 0.10). Analyses were therefore stratified
+by sex. Additional analyses were performed with partici-
+pants that provided four or more valid days of activPAL data
+(n = 1940) and with participants that had complete ergom-
+eter tests ( n = 1551).
+An isotemporal substitution modeling approach was ap-
+plied to explore the effect of theoretical replacement of ST to
+other types of activity. For this, three models were created: a
+single effect model for each type of activity (no adjustments
+for other activities, nor waking time), a partition model (each
+type of activity was adjusted for all other activities, but not
+waking time), and a substitution model (dropping ST from
+the model and introducing waking time). By doing so, in the
+substitution model, the regression coefficient of each type of
+activity represents the (independent) estimated change in
+W
+maxIkgj1 of replacing 1 h of ST (the only type of activity
+not included in the model) by this activity. The associations
+in all models were adjusted for age, education level, and
+T2DM, BMI, alcohol use, smoking status, CVD, beta-blocker
+use, energy intake and mobility limitations. In these substitu-
+tion models, there was no indication for collinearity (all VIF
+G1.5, Pearson correlation coefficients between exposures:
+standing LPA, 0.35; standing HPA, 0.17; LPA-HPA, 0.22).
+All analyses were performed using IBM SPSS Statistics
+for Windows, Version 22.0 (IBM Corp., Armonk, NY).
+RESULTS
+Compared with the excluded population ( N =1 4 2 7 ) ,t h e
+included population of this study was generally healthier. For
+instance, the study population had a lower BMI and there
+were fewer participants with T2DM, a history of CVD and
+mobility limitations (data not tabulated). This was largely due
+to the exclusion criteria applied for the exercise test. Table 1
+presents the characteristics of the total study population ( N =
+2024) and stratified by sex. The participants, of whom 49.3%
+were men, had a mean T SD age of 59.7 T 8.1 yr. More than
+95% of the study population provided four or more valid days
+TABLE 1 . Descriptive characteristics of the total study population, and according to sex.
+Total Population ( n = 2024) Men ( n = 997) Women ( n = 1027)
+Age (yr) 59.7 (8.1) 60.9 (7.9) 58.6 (8.2)
+Education level (%)
+High 39.6 43.5 35.8
+Medium 28.5 29.0 27.9
+Low 31.9 27.5 36.2
+Smoking status (% current smokers) 12.1 13.1 11.1
+Alcohol consumption (% high consumers) 25.4 23.1 27.8
+Energy intake (kcal Id
+j1) 2167.7 (596.4) 2358.8 (618.5) 1981.6 (509.9)
+Mobility limitation (% with limitation) 17.1 15.2 18.9
+BMI (kg Imj2) 26.7 (4.3) 27.4 (3.9) 26.0 (4.5)
+(History of) CVD (%) 13.9 15.9 12.0
+Glucose metabolism status (%)
+Normal glucose metabolism 58.3 47.3 68.8
+Prediabetes 15.5 16.5 14.4
+T2DM 25.3 35.3 15.6
+Type 1 diabetes or other 0.9 0.8 1.2
+Antihypertensive medication ( A-blockers) (%) 15.8 19.9 11.9
+No. valid days
+G4 valid days (%) 4.2 4.8 3.5
+Q4 valid days (%) 95.8 95.2 96.5
+Waking time (h Id
+j1) 15.7 (0.9) 15.8 (0.9) 15.7 (0.9)
+ST (h Idj1) 9.3 (1.6) 9.8 (1.5) 8.8 (1.6)
+Total PA (h Idj1) 2.0 (0.7) 2.0 (0.7) 2.1 (0.6)
+HPA (min Idj1) 19.5 [9.9–32.0] 14.7 [7.2–26.9] 23.5 [14.5–35.3]
+Sedentary breaks ( N per day) 37.6 (8.5) 37.8 (9.0) 37.4 (8.1)
+Average sedentary bout duration (min) 11.1 (3.5) 11.7 (3.7) 10.5 (3.1)
+Sedentary bouts Q30 min ( N per day) 4.8 (1.5) 5.1 (1.6) 4.5 (1.4)
+CRF ( Wmax) 164.8 (48.3) 191.3 (46.6) 139.2 (34.1)
+CRF adjusted for body mass ( WmaxIkgj1) 2.14 (0.58) 2.26 (0.60) 2.02 (0.52)
+Values are means (SD), median (25%–75%), or percentages. BMI, body mass index; Wmax, estimated maximum work load (W).
+http://www.acsm-msse.org1586 Official Journal of the American College of Sports Medicine
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 6 =====
+
+of activPAL data with, on average, 15.7 h of waking time.
+With 9.8 T 1.5 h, men spent on average 1 h Idj1 more in a
+sedentary position during waking hours than women. Men
+had a higher estimated Wmax than women: 2.62 T 0.60 versus
+2.02 T 0.52 WIkgj1.
+Figure 1 presents the proportion of the day spent seden-
+tary, standing, in LPA and HPA for each (age specific) CRF
+category. Proportion of time per day spent in a sedentary
+position was 65.3% for men and 59.2% for women with low
+level of CRF. This was 60.0% for men and 54.4% for
+women with high CRF. Standing time was higher in men
+and lower in women with increasing CRF level. Both men
+and women in the highest CRF category spent more time in
+LPA and HPA compared with those with lower CRF level.
+Table 2 presents the waking time adjusted associations of
+ST and sedentary behavior pattern variables with CRF
+(WmaxIkgj1) stratified by sex. More ST per day was asso-
+ciated with lower CRF after adjustment for waking time,
+age, education level, T2DM, and HPA (model 2): Bmen =
+j0.05 WIkgj1 (95% confidence interval [CI],j0.07 toj0.03)
+and Bwomen = j0.03 WIkgj1 (95% CI, j0.05 to j0.01). As
+we adjusted for waking time and HPA, these regression co-
+efficients should be interpreted as the associations of engag-
+ing 1 h in ST instead of standing and/or LPA. After
+adjustment for BMI, alcohol use, smoking status, CVD, beta-
+blocker use, energy intake, and mobility limitations (model 3)
+associations remained statistically significant. More sedentary
+breaks per day were associated with higher CRF independent
+of HPA and ST (model 2): Bmen =0 . 0 4WIkgj1 (0.01; 0.08)
+and Bwomen =0 . 0 6W Ikgj1 (0.02; 0.09). A longer average
+sedentary bout duration was associated with lower CRF in-
+dependent of HPA and ST (model 2): Bmen = j0.02 WIkgj1
+(95% CI, j0.03 to j0.01) and Bwomen = j0.02 W Ikgj1
+(95% CI, j0.03 to j0.01). After adjustment for additional
+potential confounders (model 3), these associations became
+statistically nonsignificant. Associations between prolonged
+sedentary bouts and CRF were statistically significant in
+model 1, but this was no longer seen after additional adjust-
+ment for HPA and ST (model 2); Bmen = j0.02 W Ikgj1
+(95% CI, j0.05 to 0.01) and Bwomen = j0.03 WIkgj1 (95%
+CI, j0.06 to 0.00).
+Table 3 presents the waking time adjusted associations of
+L P Aa n dH P Aw i t hC R F(WmaxIkgj1) stratified by sex. More
+time spent in LPA and HPA were associated with higher CRF.
+Statistically significant associations between LPA and CRF
+were observed after adjustment for all potential confounders
+(model 3): Bmen =0 . 1 2W Ikgj1 (95% CI, 0.07–0.17) and
+Bwomen =0 . 1 2W Ikgj1 (95% CI, 0.07–0.18). Associations
+between HPA and CRF in models 3 were:Bmen =0 . 4 8WIkgj1
+(95% CI, 0.38–0.58) and Bwomen =0 . 2 7W Ikgj1 (95% CI,
+0.18–0.36). One may interpret these regression coefficients as
+the associations of engaging 1 h in LPA and HPA, respec-
+tively, as a replacement for engaging in an activity not in-
+cluded in the model.
+Table 4 shows that each type of activity was associated
+with CRF in the single effect models (similar as in Tables 2
+and 3 but without adjustment for waking time). Further, it
+shows that, when all activities were adjusted for each other
+(partition model), only LPA and HPA were associated with
+CRF. The substitution model shows the effect on CRF of the
+theoretical replacement of ST by other types of activity
+(standing, LPA and HPA). After adjustment for potential
+confounders, replacing 1 h of ST with standing was not as-
+sociated with higher CRF. Replacing 1 h of ST with 1 h of
+LPA was associated with higher CRF: Bmen =0 . 0 8WIkgj1
+(95% CI, 0.03–0.14) and Bwomen =0 . 1 0W Ikgj1 (95% CI,
+0.05–0.15). Replacing 1 h of ST with 1 h of HPA was
+FIGURE 1—Percentage ST, standing time, LPA, and HPA per day,
+according to CRF category (low, medium, and high) and sex.
+TABLE 2 . Associations of ST and sedentary behavior pattern variables with estimated CRF (W Ikgj1) stratified by sex.
+ST
+Sedentary Breaks
+(10 per day)
+Average Sedentary
+Bout Duration (min)
+Prolonged Sedentary
+Bouts ( n per day)
+B (95% CI) B (95% CI) B (95% CI) B (95% CI)
+Men Model 1 j0.08 ( j0.10 to j0.06) 0.09 (0.05 to 0.13) j0.03 ( j0.04 to j0.02) j0.07 ( j0.09 to j0.05)
+Model 2 j0.05 ( j0.07 to j0.03) 0.04 (0.01 to 0.08) j0.02 ( j0.03 to j0.01) j0.02 ( j0.05 to 0.01)
+Model 3 j0.03 ( j0.05 to j0.01) 0.02 ( j0.02 to 0.05) j0.01 ( j0.02 to 0.00) j0.01 ( j0.04 to 0.02)
+Women Model 1 j0.06 ( j0.08 to j0.04) 0.08 (0.04 to 0.11) j0.03 ( j0.04 to j0.02) j0.06 ( j0.08 to j0.04)
+Model 2 j0.03 ( j0.05 to j0.01) 0.06 (0.02 to 0.09) j0.02 ( j0.03 to j0.01) j0.03 ( j0.06 to 0.00)
+Model 3 j0.02 ( j0.04 to 0.00) 0.02 ( j0.01 to 0.06) j0.01 ( j0.02 to 0.00) j0.01 ( j0.04 to 0.02)
+Results are presented as unstandardized regression coefficients (B), with 95% CI. The associations in models 1 adjusted for: waking time, age, education level, and T2DM. Model 2: model 1 +
+HPA for ST; + HPA and ST for sedentary breaks, mean bout duration and prolonged sedentary bouts. Model 3: model 2 + BMI, alcohol use, smoking status, CVD, beta-blocker use, energy
+intake and mobility limitations. Bold fonts indicate statistical significance P G 0.05.
+SEDENTARINESS, PHYSICAL ACTIVITY, AND FITNESS Medicine & Science in Sports & Exercise d 1587
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 7 =====
+
+associated with higher CRF: Bmen =0 . 4 9WIkgj1 (95% CI,
+0.39–0.59) and Bwomen =0 . 2 8WIkgj1 (95% CI, 0.10–0.36).
+Results were similar when analyses were repeated after ex-
+cluding participants with les than four valid days of activPAL
+measurement (data not shown). Additionally, results were sim-
+ilar after excluding participants where W
+max was calculated
+from completed ergometer tests (data not shown).
+DISCUSSION
+This study is one of the first to evaluate the mutually inde-
+pendent associations of objectively measured ST, sedentary
+behavior patterns, LPA, and HPA with CRF. Our results show
+that more ST per day was associated with lower CRF, inde-
+pendent from HPA. Sedentary breaks and average sedentary
+bout duration were associated also with CRF. However, these
+associations were attenuated and no longer statistically sig-
+nificant in the fully adjusted models. Further, both daily LPA
+and HPA were positively associated with CRF, independent
+of potential confounders. The theoretical replacement of ST
+with HPA or with LPA was associated with higher CRF. The
+greatest estimated change in CRF was observed when ST was
+replaced with HPA.
+In our study, one additional hour of ST corresponded with,
+on average, approximately 1.2% lower W
+maxIkgj1 for men
+and approximately 0.9% lower WmaxIkgj1 for women. The
+strength of these associations is clearly less than strength of
+the association observed between LPA and HPA with CRF;
+reducing 1 h of ST approximately resembles an increase of 5 min
+of HPA. However, small improvements in CRF have been
+associated with reduced risk for CVD and mortality in
+particularly the least-fit part of the adult population (5).
+Therefore, reductions in ST may improve CRF, which could
+be beneficial for health. This conclusion is supported by the
+results from the isotemporal substitution analyses that show
+that replacing ST with LPA was associated with higher CRF
+(independent of time engaged in standing and HPA). Of note,
+replacing ST with HPA was associated with a greater esti-
+mated change in CRF. Consequently, engaging in HPA is
+most important for CRF than increasing time spent with LPA.
+However, for many people (elderly or those with functional
+limitations). replacing ST by LPA may be more feasible than
+replacing ST by HPA.
+To our knowledge, only two studies have previously
+reported on associations between objectively measured ST
+and CRF in adults (19,26). In the study by Kulinski et al.
+(19), a small, but statistically significant inverse association
+between objectively measured ST and CRF was reported in a
+population age 12 to 49 yr, after adjustment for MVPA. In the
+study by Prince et al. (26), an inverse association between ST
+and CRF was reported in a postcardiac rehabilitation popu-
+lation. Both studies are in line with our findings. Several other
+studies have evaluated the association between ST and CRF
+using self-reported measures of ST. Results from these stud-
+ies were inconsistent. Tucker et al. (33) reported that female
+frequent TV viewers had a lower CRF, but after adjustment
+for PA and BMI, this effect was attenuated and no longer
+statistically significant. A large-scale population based study
+by Eriksen et al. (13) reported inverse associations between
+ST and CRF in participants who reported low levels of PA,
+while no association between ST and CRF was reported in
+those who were classified as being moderately or vigorously
+TABLE 3 . Associations of lower intensity activity and higher intensity physical with estimated CRF (W Ikgj1) stratified by sex.
+LPA (h Idj1) HPA (hIdj1)
+B (95% CI) B (95% CI)
+Men Model 1 0.22 (0.16–0.27) 0.68 (0.58–0.79)
+Model 2 n.a. 0.61 (0.50–0.72)
+Model 3 0.12 (0.07–0.17) 0.48 (0.38–0.58)
+Women Model 1 0.20 (0.14–0.25) 0.45 (0.36–0.54)
+Model 2 n.a. 0.40 (0.31–0.50)
+Model 3 0.12 (0.07–0.18) 0.27 (0.18–0.36)
+Results are presented as unstandardized regression coefficients (B), with 95% CI. The associations in models 1 adjusted for: waking time, age, education level, and T2DM. Model 2: model 1 +
+ST. n.a.: No additional adjustment for other type(s) of activity in the model for LPA due to collinearity. Model 3: model 2 + BMI, alcohol use, smoking st atus, CVD, beta-blocker use, energy
+intake, and mobility limitations. Bold fonts indicate statistical significance P G 0.05.
+TABLE 4. Single, partition, and isotemporal substitution models examining the associations of ST, standing time, lower- and higher-intensity physical ac tivities with CRF and the theoretical
+replacement of 1 h ST with other activities, stratified by sex.
+ST Standing LPA HPA
+B (95% CI) B (95% CI) B (95% CI) B (95% CI)
+Men Single a j0.04 ( j0.11 to j0.06) 0.03 (0.01 to 0.06) 0.14 (0.09 to 0.19) 0.53 (0.43 to 0.63)
+Partitionb 0.02 ( j0.0 to 0.06) 0.03 ( j0.00 to 0.07) 0.11 (0.05 to 0.17) 0.52 (0.41 to 0.62)
+Substitutionc Dropped 0.01 ( j0.02 to 0.04) 0.08 (0.03 to 0.14) 0.49 (0.39 to 0.59)
+Women Single a j0.02 ( j0.04 to j0.01) 0.02 (0.00 to 0.04) 0.14 (0.09 to 0.19) 0.32 (0.23 to 0.40)
+Partitionb 0.03 (0.00 to 0.06) 0.03 (0.00 to 0.06) 0.13 (0.08 to 0.20) 0.31 (0.22 to 0.40)
+Substitutionc Dropped j0.00 ( j0.02 to 0.02) 0.10 (0.05 to 0.16) 0.28 (0.19 to 0.36)
+aNo adjustment for other type of activity nor for wear time.
+bEach activity was adjusted for all other types of activity, no adjustment for wear time.
+cST was dropped from the model, and additionally adjusted for wear time.
+The associations in all models were adjusted for age, education level, and T2DM, BMI, alcohol use, smoking status, CVD, beta-blocker use, energy inta ke, and mobility limitations.
+http://www.acsm-msse.org1588 Official Journal of the American College of Sports Medicine
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 8 =====
+
+active. Lastly, Barlow et al. (3) found a detrimental association
+between more self-reported sitting time and CRF in women
+independent of levels of PA.
+This study is, to the best of our knowledge, the first to
+examine pattern variables of sedentary behavior with CRF.
+Sedentary breaks have previously been associated with im-
+proved cardiometabolic health in some studies (11,15). In
+our study, an association was observed between sedentary
+breaks and CRF independent of ST and HPA, but not in-
+dependent of health related variables in model 3. Similar
+results were observed for average sedentary bout duration.
+Prolonged sedentary bouts lasting Q 30 min were not asso-
+ciated with CRF independent of HPA and ST. Although it
+has been suggested that long uninterrupted periods of ST are
+detrimental for health (11,12), it is unknown at what duration
+a prolonged sedentary bout becomes detrimental. Possibly
+this is not at 30 min, but after 60 or 90 min or even longer.
+Based on our results, total ST seems to be more important for
+CRF than SB patterns. The mechanisms through which sed-
+entary behavior affects CRF are not yet fully understood.
+Partly it could be explained by vascular changes in response
+to sedentary behavior. The pathways, through which these
+changes occur, appear to be distinct from pathways that are
+involved in vascular changes in response to PA (31). Clearly,
+more research in this area is warranted to further investigate
+how sedentary behavior affects CRF.
+Our finding that LPA and HPA were strongly associated
+with CRF elaborates on the existing body of evidence linking
+PA to CRF (20,22). Mechanisms through which HPA improves
+CRF have been studied comprehensively and include vascular,
+muscular, and respiratory adaptations (24). These responses are
+found to be largest when PA is of higher intensity and/or longer
+duration. In our study, one additional hour of HPA per day
+corresponded with, on average, approximately 21% higher
+W
+maxIkgj1 for men and ~13% higher WmaxIkgj1 for women.
+Similar amounts have been associated with reduced mortality
+risk (17). The difference between men and women in our study
+may be explained by a larger range in Wmax for men compared
+with women, because men are physiologically capable of
+achieving higher levels of W
+max.
+A strength of this study was the use of a posture based
+accelerometer in a large sample of adults. The activPALP3
+has been found to accurately measure (patterns of) sedentary
+behavior (4,18,23). Therefore, our estimations of ST were
+probably better than those in previous studies using other
+types of accelerometers. Further, CRF was estimated from a
+submaximal exercise protocol incorporating both HR and
+RPE. Extrapolating submaximal values of RPE, similarly as
+HR, has been shown to be an alternative and valid method to
+estimate CRF (10). By incorporating RPE in addition to HR,
+estimates of CRF were also obtained from individuals who
+otherwise would have been excluded from exercise testing
+due to medication use or medical conditions. Nevertheless,
+exclusion for exercise testing based on medical condition
+has introduced selection bias in this study, though to a lesser
+extent than in many other epidemiological studies measuring
+CRF. It should be noted that the analyses to compare W
+maxHR
+with WmaxRPE (see document, Supplemental Digital Content 1,
+Comparison of Wmax based on HR and Wmax based on RPE,
+http://links.lww.com/MSS/A891) were only performed in a
+subset of the Maastricht Study population. Furthermore, the
+use of a submaximal exercise test instead of a maximal ex-
+ercise test to estimate W
+max may be considered as a limita-
+tion, since this may have resulted in underestimation or
+overestimation of actual Wmax. Nevertheless, high correlations
+(r = 0.76–0.98) between estimated CRF and measured CRF
+have been reported in previous studies (2). Further, the asso-
+ciations in this study were adjusted for a series of potential
+confounders. As The Maastricht Study is enriched with par-
+ticipants with T2DM, adjustments were made for T2DM in the
+associations of model 1. However, T2DM may lie in the path-
+way between sedentary behavior and CRF, as ST has previ-
+ously been associated with in creased odds for T2DM in this
+population (36). Consequently, these adjustments may have
+resulted in over adjustment bias. Overadjustment may also be
+an issue in the fully adjusted models (models 3). For instance,
+sedentary behavior has been associated with increased BMI
+and increased risk for CVD, which both have been associated
+with lower CRF. Consequently, the strength of the associa-
+tions as reported in this study may actually be greater.
+Some other limitations should be considered as well.
+Most importantly, the cross-sectional design of the study
+requires caution with regard to causal inferences. In addi-
+tion, at least one valid day of accelerometer wear time was
+considered sufficient in this study, but 1 d may not be rep-
+resentative for habitual behavior. However, 95% of the
+study population provided at least four valid days of accel-
+erometer data, and results were similar when participants
+with less than four valid days of wear time were excluded
+from analyses. Further, LPA and HPA was based on step
+frequency which may be less precise to determine intensity
+levels compared with estimations of LPA and HPA based on
+acceleration data. However, we used a step frequency of
+9~100 steps per minute which has been reported to corre-
+spond to a MET score of approximately 3.0 (a frequently used
+cutoff value for moderate to vigorous PA) (34). Finally, our
+study population consisted of a relatively healthy population
+of predominantly whites from European descent with well
+controlled participants with T2DM. Therefore, generalizabil-
+ity of our results may be limited.
+In conclusion, more daily ST appeared to be modestly
+associated with lower CRF, independent of HPA. Both LPA
+and HPA were associated with higher CRF. Replacing ST
+with LPA was associated with a positive estimated change in
+CRF, which is particularly helpful for people who are unable
+to engage in HPA. Further, replacing ST with HPA was
+associated with greatest estimated change in CRF. There-
+fore, engaging regularly in HPA appears to be the best
+strategy to improve CRF.
+This study was supported by the European Regional Develop-
+ment Fund via OP-Zuid, the Province of Limburg, the Dutch Ministry
+SEDENTARINESS, PHYSICAL ACTIVITY, AND FITNESS Medicine & Science in Sports & Exercise d 1589
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 9 =====
+
+of Economic Affairs (grant 31O.041), Stichting De Weijerhorst (Maastricht,
+the Netherlands), the Pearl String Initiative Diabetes (Amsterdam,
+the Netherlands), the Cardiovascular Center (CVC, Maastricht, the
+Netherlands), CARIM School for Cardiovascular Diseases (Maastricht,
+the Netherlands), CAPHRI School for Public Health and Primary Care
+(Maastricht, the Netherlands), NUTRIM School for Nutrition and Trans-
+lational Research in Metabolism (Maastricht, the Netherlands), Stichting
+Annadal (Maastricht, the Netherlands), Health Foundation Limburg
+(Maastricht, the Netherlands) andbyunrestrictedgrants from Janssen-Cilag
+B.V. (Tilburg, the Netherlands), Novo Nordisk Farma B.V. (Alphen aan den
+Rijn, the Netherlands) and Sanofi-Aventis Netherlands B.V. (Gouda,
+the Netherlands).
+Conflicts of interest: The authors declare no conflicts of interest. Results
+of the present study do not constitute endorsement by ACSM. The authors
+declare that the results of the study are presented clearly, honestly, and
+without fabrication, falsification, or inappropriate data manipulation.
+REFERENCES
+1. Aaronson NK, Muller M, Cohen PD, et al. Translation, validation,
+and norming of the Dutch language version of the SF-36 Health
+Survey in community and chronic disease populations. J Clin
+Epidemiol. 1998;51(11):1055–68.
+2. Akalan C, Robergs RA, Kravitz L. Prediction of VO2max from an
+individualized submaximal cycle ergometer protocol. J Exerc
+Physiol Online . 2008;11(2):1–17.
+3. Barlow CE, Shuval K, Balasubramanian BA, Kendzor DE, Pettee
+Gabriel K. Sitting time, physical activity and cardiorespiratory
+fitness: Cooper Center Longitudinal Study Cohort. J Phys Act
+Health. 2016;13(1):17–23.
+4. Berendsen BA, Hendriks MR, Meijer K, Plasqui G, Schaper NC,
+Savelberg HH. Which activity monitor to use? Validity, repro-
+ducibility and user friendliness of three activity monitors. BMC
+Public Health . 2014;14:749.
+5. Blair SN, Connelly JC. How much physical activity should we do?
+The case for moderate amounts and intensities of physical activity.
+Res Q Exerc Sport . 1996;67(2):193–205.
+6. Blair SN, Kampert JB, Kohl HW 3rd, et al. Influences of cardio-
+respiratory fitness and other precursors on cardiovascular disease
+and all-cause mortality in men and women. JAMA. 1996;276(3):
+205–10.
+7. Bouchard C, Rankinen T. Individual differences in response to
+regular physical activity. Med Sci Sports Exerc . 2001;33(6 Suppl):
+S446–51, discussion S52–3.
+8. Bovens AM, Van Baak MA, Vrencken JG, Wijnen JA, Saris WH,
+Verstappen FT. Maximal aerobic power in cycle ergometry in
+middle-aged men and women, active in sports, in relation to age
+and physical activity. Int J Sports Med . 1993;14(2):66–71.
+9. Brocklebank LA, Falconer CL, Page AS, Perry R, Cooper AR.
+Accelerometer-measured sedentary time and cardiometabolic bio-
+markers: a systematic review. Prev Med . 2015;76:92–102.
+10. Coquart JB, Garcin M, Parfitt G, Tourny-Chollet C, Eston RG.
+Prediction of maximal or peak oxygen uptake from ratings of
+perceived exertion. Sports Med . 2014;44(5):563–78.
+11. Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up
+prolonged sitting reduces postprandial glucose and insulin re-
+sponses. Diabetes Care . 2012;35(5):976–83.
+12. Duvivier BM, Schaper NC, Bremers MA, et al. Minimal intensity
+physical activity (standing and walking) of longer duration improves
+insulin action and plasma lipids more than shorter periods of mod-
+erate to vigorous exercise (cycling) in sedentary subjects when en-
+ergy expenditure is comparable. PLoS One. 2013;8(2):e55542.
+13. Eriksen L, Gr Lnbaek M, Helge JW, Tolstrup JS. Cardiorespiratory
+fitness in 16 025 adults aged 18–91 years and associations with
+physical activity and sitting time. Scand J Med Sci Sports .
+2016;26(12):1435–43.
+14. Health Council of the Netherlands. Guidelines for a healthy diet
+2006. The Hague: Health Council of the Netherlands, 2006; pub-
+lication no. 2006/21.
+15. Healy GN, Dunstan DW, Salmon J, et al. Breaks in sedentary time:
+beneficial associations with metabolic risk. Diabetes Care . 2008;
+31(4):661–6.
+16. Katzmarzyk PT, Church TS, Blair SN. Cardiorespiratory fitness
+attenuates the effects of the metabolic syndrome on all-cause and
+cardiovascular disease mortality in men. Arch Intern Med .
+2004;164(10):1092–7.
+17. Kodama S, Saito K, Tanaka S, et al. Cardiorespiratory fitness as a
+quantitative predictor of all-cause mortality and cardiovascular
+events in healthy men and women: a meta-analysis. JAMA.
+2009;301(19):2024–35.
+18. Kozey-Keadle S, Libertine A, Lyden K, Staudenmayer J, Freedson
+PS. Validation of wearable monitors for assessing sedentary be-
+havior. Med Sci Sports Exerc . 2011;43(8):1561–7.
+19. Kulinski JP, Khera A, Ayers CR, et al. Association between car-
+diorespiratory fitness and accelerometer-derived physical activity
+and sedentary time in the general population. Mayo Clin Proc .
+2014;89(8):1063–71.
+20. Laukkanen JA, Laaksonen D, Lakka TA, et al. Determinants of
+cardiorespiratory fitness in men aged 42 to 60 years with and
+without cardiovascular disease. Am J Cardiol . 2009;103(11):
+1598–604.
+21. Lee DC, Artero EG, Sui X, Blair SN. Mortality trends in the
+general population: the importanc e of cardiorespiratory fitness.
+J Psychopharmacol. 2010;24(4 Suppl):27–35.
+22. Lin X, Zhang X, Guo J, et al. Effects of exercise training on car-
+diorespiratory fitness and biomarkers of cardiometabolic health: A
+systematic review and meta-analysis of randomized controlled
+trials. J Am Heart Assoc . 2015;4(7):e002014.
+23. Lyden K, Kozey Keadle SL, Staudenmayer JW, Freedson PS.
+Validity of two wearable monitors to estimate breaks from seden-
+tary time. Med Sci Sports Exerc . 2012;44(11):2243–52.
+24. McArdle WD, Katch FI, Katch VL. Exercise Physiology: Nutrition,
+Energy, and Human Performance . Baltimore, MD: Lippincott
+Williams & Wilkins; 2010. pp. 451–75.
+25. Owen N, Healy GN, Matthews CE, Dunstan DW. Too much sit-
+ting: the population health science of sedentary behavior. Exerc
+Sport Sci Rev . 2010;38(3):105–13.
+26. Prince SA, Blanchard CM, Grace SL, Reid RD. Objectively-
+measured sedentary time and its association with markers of
+cardiometabolic health and fitness among cardiac rehabilitation
+graduates. Eur J Prev Cardiol . 2016;23:818–25.
+27. Sartor F, Vernillo G, de Morree HM, et al. Estimation of
+maximal oxygen uptake via submaximal exercise testing in
+sports, clinical, and home settings. Sports Med . 2013;43(9):
+865–73.
+28. Schram MT, Sep SJ, van der Kallen CJ, et al. The Maastricht
+Study: an extensive phenotyping study on determinants of type 2
+diabetes, its complications and its comorbidities. Eur J Epidemiol .
+2014;29(6):439–51.
+29. Sedentary Behaviour Research Network. Letter to the editor:
+standardized use of the terms ‘ ‘sedentary’ ’ and ‘ ‘sedentary behav-
+iours.’ ’ Appl Physiol Nutr Metab . 2012;37(3):540–2.
+30. Storer TW, Davis JA, Caiozzo VJ. Accurate prediction of
+VO2max in cycle ergometry. Med Sci Sports Exerc . 1990;22(5):
+704–12.
+http://www.acsm-msse.org1590 Official Journal of the American College of Sports Medicine
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.
+
+===== PAGE 10 =====
+
+31. Thijssen DH, Green DJ, Hopman MT. Blood vessel remodeling
+and physical inactivity in humans. J Appl Physiol (1985) . 2011;
+111(6):1836–45.
+32. Tucker JM, Welk GJ, Beyler NK. Physical activity in U.S.: adults
+compliance with the physical activity guidelines for Americans.
+Am J Prev Med . 2011;40(4):454–61.
+33. Tucker LA, Arens PJ, LeCheminant JD, Bailey BW. Television
+viewing time and measured cardiorespiratory fitness in adult
+women. Am J Health Promot . 2015;29(5):285–90.
+34. Tudor-Locke C, Craig CL, Brown WJ, et al. How many steps/
+day are enough? For adults. Int J Behav Nutr Phys Act .
+2011;8:79.
+35. Tudor-Locke C, Rowe DA. Using cadence to study free-living
+ambulatory behaviour. Sports Med . 2012;42(5):381–98.
+36. van der Berg JD, Stehouwer CD, Bosma H, et al. Associations of
+total amount and patterns of sedentary behaviour with type 2 diabetes
+and the metabolic syndrome: the Maastricht Study. Diabetologia.
+2016;59(4):709–18.
+37. van der Berg JD, Willems PJ, van der Velde JH, et al. Identifying
+waking time in 24-h accelerometry data in adults using an auto-
+mated algorithm. J Sports Sci . 2016;34(19):1867–73.
+38. Wilmot EG, Edwardson CL, Achana FA, et al. Sedentary time in
+adults and the association with diabetes, cardiovascular disease and
+death: systematic review and meta-analysis. Diabetologia. 2012;
+55(11):2895–905.
+39. World Health Organization. Definition and Diagnosis of Diabetes
+Mellitus and Intermediate Hyperglycemia . Geneva, Switzerland:
+World Health Organization; 2006. pp. 1–3.
+SEDENTARINESS, PHYSICAL ACTIVITY, AND FITNESS Medicine & Science in Sports & Exercise d 1591
+EPIDEMIOLOGY
+Copyright © 2017 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.

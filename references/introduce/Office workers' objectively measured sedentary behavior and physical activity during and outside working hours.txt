@@ -1,0 +1,728 @@
+===== PAGE 1 =====
+
+This item was submitted to Loughborough’s Institutional Repository 
+(https://dspace.lboro.ac.uk/) by the author and is made available under the 
+following Creative Commons Licence conditions. 
+ 
+ 
+  
+ 
+ 
+For the full text of this licence, please go to: 
+http://creativecommons.org/licenses/by-nc-nd/2.5/
+
+===== PAGE 2 =====
+
+1 
+ 
+Office workers objectively measured sedentary behaviour and physical activity during 1 
+and outside working hours 2 
+ 3 
+Stacy A Clemes PhD1*, Sophie E O’Connell PhD2 and Charlotte L Edwardson PhD3 4 
+ 5 
+Affiliation of authors: 6 
+1*School of Sport, Exercise and Health Sciences, Loughborough University, Loughborough, 7 
+Leicestershire, LE11 3TU, UK 8 
+Email: S.A.Clemes@lboro.ac.uk  9 
+2MoveLab; Physical Activity & Exercise Research, Faculty of Medical Sciences, 4th Floor 10 
+William Leech Building, Newcastle University, Newcastle upon Tyne, NE2 4HH, UK 11 
+Email: sophie.o’connell@newcastle.ac.uk  12 
+3Diabetes Research Centre, University of Leicester, Leicester General Hospital, Leicester. 13 
+Leicestershire, LE5 4PW, UK 14 
+Email: ce95@le.ac.uk  15 
+ 16 
+*Corresponding author 17 
+Corresponding author telephone: +44 (0)1509 228170 18 
+Fax: +44 (0)1509 223940 19 
+ 20 
+Running Title: Office workers sedentary behaviour and activity 21 
+Competing interests and funding 22 
+The authors declare that there are no conflicts of interest. No external funding supported the 23 
+work outlined in the manuscript. The research was undertaken using existing funds and 24 
+equipment within the School of Sport, Exercise and Health Sciences at Loughborough 25 
+University. 26 
+ 27 
+  28
+
+===== PAGE 3 =====
+
+2 
+ 
+Abstract (135 words) 29 
+ 30 
+Objective: To examine objectively-determined sedentary behaviour and physical activity 31 
+(PA) during and outside working hours in full-time office workers. 32 
+Methods: 170 participants wore an ActiGraph GT1M accelerometer for 7-days. Time spent 33 
+sedentary (<100 counts/minute), in light PA (100–1951 counts/minute), and moderate-34 
+vigorous PA (≥1952 counts/minute) were calculated for workdays (including working hours 35 
+and non-working hours) and non-workdays.  36 
+Results: Participants accumulated significantly higher levels of sedentary behaviour (68% 37 
+versus 60%) and lower levels of light activity (28% versus 36%) on workdays in comparison 38 
+to non-workdays. 71% of working hours were spent sedentary. Individuals who were most 39 
+sedentary at work were also more sedentary outside work.  40 
+Conclusions: Those who are most sedentary at work do not compensate by increasing their 41 
+PA or reducing their sedentary time outside work. Occupational interventions should address 42 
+workplace and leisure-time sedentary behaviour. 43 
+ 44 
+Keywords: sitting time, light intensity physical activity, workplace, occupational health, 45 
+leisure-time  46
+
+===== PAGE 4 =====
+
+3 
+ 
+Introduction 47 
+Sedentary behaviour, defined  as “any waking behaviour characterised by an energy 48 
+expenditure ≤1.5 METs while in a sitting or reclining posture” (page 540),1 is an independent 49 
+risk factor for a number of adverse health outcomes. For example, greater sitting time (the 50 
+terms sitting and sedentary behaviour are used interchangeably herein) has been associated 51 
+with increased risk of overweight, obesity and weight gain,2,3 cancer,4,5 type 2 diabetes and 52 
+the metabolic syndrome,2,6 all-cause mortality and cardiovascular disease mortality,7,8 53 
+independent of moderate-to-vigorous physical activity. There is a growing consensus that 54 
+sedentary behaviour represents a unique aspect of human behaviour and that it should not 55 
+be viewed as simply the absence of physical activity.7,9 56 
+ 57 
+Adults typically spend time sitting in three domains: the workplace, during leisure and for 58 
+transport.10 Economic advances and industrial innovation have resulted in large numbers of 59 
+people employed within sedentary occupations, and data from Australian workers have 60 
+shown that half of their total daily self-reported sitting time takes place at work.11,12  61 
+Accelerometer data from Australian office workers has shown that between 66 and 82% of 62 
+their working day is spent sedentary.13-15 Of concern, it has been observed in some studies 63 
+that those who are sedentary for a large proportion of their working day do not compensate 64 
+by increasing their physical activity levels and/or reducing their sedentary behaviour during 65 
+leisure time.12,14,16,17 66 
+ 67 
+Our understanding of the prevalence of sedentary behaviour in UK adults is currently limited, 68 
+and has largely been restricted to the study of leisure time screen-based sedentary 69 
+behaviours18 or to specific occupational groups, such as postal workers.17 It is important to 70 
+measure sedentary behaviour and physical activity across a range of domains, particularly 71 
+the workplace, if we are to truly understand patterns and determinants of these behaviours in 72 
+adults, in order to inform behaviour change interventions.19 To date, limited research has 73 
+examined objectively measured sedentary time during and outside working hours.13,14 74
+
+===== PAGE 5 =====
+
+4 
+ 
+Increasing our understanding of the potential impact of sedentary behaviour during work, on 75 
+sedentary behaviour and physical activity outside of work has been highlighted as a 76 
+research priority.13 The aim of the current study therefore was to examine objectively-77 
+determined sedentary behaviour and physical activity occurring during and outside working 78 
+hours in a sample of full-time office workers from the UK. A secondary aim was to build on 79 
+our understanding of the links between sedentary behaviour accumulated during and outside 80 
+of working hours by investigating whether those who are sedentary for a large proportion of 81 
+their working hours compensate by decreasing their sedentary behaviour, or increasing their 82 
+physical activity, during non-working hours.  83 
+ 84 
+Methods 85 
+Participants 86 
+A convenience sample of 210 office workers were recruited from Loughborough University 87 
+and local businesses within the East Midlands region of the UK. The study inclusion criteria 88 
+ensured that all participants were aged between 18-65 years and in full-time office-based 89 
+work. Responses on a health screen questionnaire completed at the outset confirmed that 90 
+participants were all in good general health with no reported physical illnesses or disabilities 91 
+that may affect their normal daily routine.  The sample consisted of individuals employed 92 
+within administrative roles, and all participants described themselves as having a 93 
+predominately sedentary occupation.  The standard working hours of the organisations 94 
+involved were 9am to 5pm on Mondays to Fridays. The study received ethical approval from 95 
+the Loughborough University Ethical Advisory Committee, and participants provided written 96 
+informed consent.  97 
+ 98 
+Procedure 99 
+At the beginning of the study participants either attended a laboratory at Loughborough 100 
+University or were visited by research staff at their place of work. During this meeting 101 
+participant’s body mass (kg) and height (cm) were directly measured without shoes using 102
+
+===== PAGE 6 =====
+
+5 
+ 
+electronic weighing scales (Tanita UK Ltd) and a wall-mounted stadiometer (Seca UK). BMI 103 
+was calculated as kg/m2, and general demographic information (age, gender, nature of 104 
+employment, job title) recorded. Participants were issued with an ActiGraph accelerometer 105 
+and shown the correct wearing position. Participants were instructed to begin wearing the 106 
+device upon waking up the following day.  During the seven day monitoring period, 107 
+participants were requested to continue with their normal daily routine. Upon completion of 108 
+the monitoring period participants met with a researcher to return the accelerometer. During 109 
+this meeting they were asked to confirm if they had experienced a typical working week 110 
+whilst wearing the device and any days in which participants reported missing work through 111 
+either illness or leave days were recorded.   112 
+ 113 
+Sedentary behaviour and physical activity measurement and data processing 114 
+Participants wore an ActiGraph GT1M accelerometer (ActiGraph, Pensacola, FL) throughout 115 
+waking hours for seven consecutive days, except during water based activities. The 116 
+accelerometer was worn around the waist, above the midline of the thigh. The accelerometer 117 
+was set to record at 1-minute epochs. Accelerometer data were downloaded using ActiLife 118 
+version 5 and processed using KineSoft version 3.3.75. Accelerometer data were considered 119 
+valid if there were more than 600 minutes of monitoring per day (excluding continuous 120 
+strings of zero counts for 60 minutes or longer) recorded on at least three weekdays and one 121 
+weekend day.20  The widely used <100 counts/minute (cpm) cut-point was employed to 122 
+estimate sedentary time (i.e. estimated time spent sitting),21 whilst the Freedson cut-points 123 
+were used to estimate time spent in light intensity (100 – 1951 cpm) (such as slow walking) 124 
+and moderate to vigorous intensity (such as brisk walking or jogging/running) physical 125 
+activity (MVPA) (≥ 1952 cpm).22  126 
+ 127 
+As preliminary analyses revealed that no significant differences occurred between the time 128 
+spent in sedentary behaviour and physical activity across Monday to Friday (data not 129 
+shown), time spent in sedentary behaviour, light intensity activity and MVPA were 130
+
+===== PAGE 7 =====
+
+6 
+ 
+summarised for workdays (Monday to Friday in the present sample) and non-workdays 131 
+(Saturday and Sunday). On workdays, time spent in each behaviour were also summarised 132 
+during working hours (9am to 4.59 pm) and during non-working hours (before 9am and after 133 
+5pm).  134 
+ 135 
+Statistical analyses 136 
+Statistical analyses were conducted using IBM SPSS Statistics for Windows version 21.  137 
+Time spent in sedentary behaviour, light intensity activity and MVPA, along with the 138 
+proportion of time spent in each behaviour (accounting for accelerometer wear time), on 139 
+workdays, non-workdays, during working hours and non-working hours on workdays were 140 
+checked for normality using the one-sample Kolmogorov-Smirnov test, which showed that all 141 
+data were not normally distributed. Non-parametric analyses were therefore undertaken and 142 
+the median and inter-quartile ranges (IQR) are presented as descriptors throughout. To 143 
+account for differences in accelerometer wear time during and outside working hours, 144 
+comparisons were undertaken using the proportion of wear time spent in each behaviour 145 
+(sedentary, light activity, MVPA) as opposed to the absolute minute data. Specifically, the 146 
+proportions of time spent in each behaviour were compared between workdays and non-147 
+workdays, and between working hours and non-working hours on workdays using Wilcoxon-148 
+signed ranks tests.   149 
+ 150 
+To address the secondary aim of this study, participants were grouped into tertiles based on 151 
+the proportion of time spent sedentary during working hours. Tertile 1 (lowest working hours 152 
+sedentary behaviour) consisted of individuals who spent less than 68% of their working 153 
+hours sedentary (n = 55). Tertile 2 (medium working hours sedentary behaviour) consisted 154 
+of individuals who spent between 68 and 74% of their working hours sedentary (n = 54), and 155 
+tertile 3 (highest working hours sedentary behaviour) consisted of individuals who were 156 
+sedentary during working hours for equal to or above 75% of the time (n = 61). The three 157 
+groups were compared in terms of the proportion of accelerometer wear time spent in 158
+
+===== PAGE 8 =====
+
+7 
+ 
+sedentary behaviour, light activity and MVPA on non-workdays and during non-working 159 
+hours on workdays using Kruskal-Wallis tests with Bonferroni-corrected post hoc 160 
+comparisons. Age and BMI were also compared between the three groups using Kruskal-161 
+Wallis tests with Bonferroni-corrected post hoc comparisons. To further explore any links 162 
+between sedentary behaviour accumulated during and outside of working hours, Spearman 163 
+correlations examined whether there were any associations between sedentary behaviour 164 
+measured during working hours and sedentary behaviour accumulated on non-workdays, 165 
+and during non-working hours on workdays.  Statistical significance was set at p<0.05 for all 166 
+analyses unless otherwise stated. 167 
+ 168 
+To understand the pattern of sedentary behaviour and physical activity occurring throughout 169 
+the day, line graphs were constructed depicting the mean minutes per hour spent in 170 
+sedentary behaviour, light intensity activity and MVPA across the typical wear period (7am – 171 
+11.59pm) for workdays and non-workdays. The line graphs only contain data from valid days 172 
+(>10 hours) and hours (all 60 minutes) in which the accelerometer was worn by each 173 
+participant. Separate graphs were created for the three tertiles for working hours sedentary 174 
+behaviour described above in order for any differences in patterns between the groups to be 175 
+identified. 176 
+ 177 
+Results 178 
+Of the 210 participants who commenced the study, 170 (30% male, mean age 40.1±12.7 179 
+years; mean BMI 24.5±3.8 kg/m2) provided valid data and were included in the analyses. 180 
+There were no significant differences between those who provided valid data and those who 181 
+did not in terms of age, BMI or gender proportion (p>0.05).  Males and females did not differ 182 
+significantly in terms of the proportion of wear time spent in sedentary behaviour and light 183 
+intensity physical activity during working and non-working hours on workdays (all p>0.05). 184 
+Overall on workdays, males spent a significantly greater proportion of time and minutes in 185 
+MVPA in comparison to females (4±3% versus 3±3%, p = 0.01, [median±IQR]; 38 mins/day 186
+
+===== PAGE 9 =====
+
+8 
+ 
+versus 30 mins/day, p = 0.01). There were no significant differences in the proportion of time 187 
+spent in sedentary behaviour, or in light intensity activity and MVPA between males and 188 
+females on non-workdays (all p>0.05, data not shown).  Given the limited differences in the 189 
+proportion of time spent in each behaviour during and outside working hours between males 190 
+and females, the analyses presented below focus on the sample as a whole. 191 
+ 192 
+Median accelerometer wear time was 874±103 mins/day on workdays and 767±113 193 
+mins/day on non-workdays days (p<0.001), the sample provided valid accelerometer data 194 
+(wear time ≥10 hours/day) on 7 days/person (median value). Given the significant 195 
+differences in wear time between the days (and between working hours and non-working 196 
+hours on workdays, Table 1), the proportions of wear time spent in each behaviour 197 
+(sedentary, light intensity activity and MVPA) were compared during and outside working 198 
+hours as opposed to the absolute minutes. On workdays participants spent a significantly 199 
+greater proportion of time in sedentary behaviours, and significantly less time in light 200 
+intensity physical activity in comparison to non-workdays (Table 1). There were no significant 201 
+differences between workdays and non-workdays in terms of the proportion of time spent in 202 
+MVPA.  203 
+ 204 
+On workdays only, participants spent a greater proportion of time in sedentary behaviour 205 
+during working hours, and less time in light intensity physical activity in comparison to non-206 
+working hours (Table 1).  Overall, sedentary behaviour accumulated during working hours 207 
+accounted for 57% of total daily sedentary time on workdays. There were no significant 208 
+differences in the proportion of time spent in MVPA during working and non-working hours 209 
+on workdays.  210 
+ 211 
+Insert Table 1 about here 212 
+ 213
+
+===== PAGE 10 =====
+
+9 
+ 
+When grouped into tertiles according to the proportion of working hours spent sedentary, 214 
+significant differences in sedentary behaviour and light intensity physical activity were 215 
+observed between the groups during non-working hours (Table 2). Participants in the lowest 216 
+tertile for sedentary behaviour at work spent significantly less time in sedentary behaviour 217 
+and more time in light intensity physical activity than those in the medium and high tertiles on 218 
+non-work days (post hoc analyses, all p<0.01). The three groups did not differ significantly in 219 
+terms of the proportion of time spent in MVPA on non-workdays (weekend days in the 220 
+present sample).  Similarly, during non-working hours on workdays, participants in the lowest 221 
+tertile for sedentary behaviour at work spent significantly less time in sedentary behaviour 222 
+and more time in light intensity physical activity than those in the medium and high tertiles 223 
+(post hoc analyses, all p<0.01).  Like non-work days, there were no significant differences 224 
+between the groups in terms of the proportion of time spent in MVPA during non-working 225 
+hours on workdays (Table 2).  There were no significant differences in BMI between 226 
+participants in the three tertiles (p>0.05). However, participants in the lowest tertile for 227 
+sedentary behaviour at work were significantly older (46±13 years) than those in the medium 228 
+(38±12 years) and high (36±11 years) tertiles (p<0.01). 229 
+ 230 
+For the sample as a whole, there were significant associations between the proportion of 231 
+time spent sedentary during working hours and the proportion of time spent sedentary on 232 
+non-workdays (r = 0.25, p<0.001), and during non-working hours on workdays (r = 0.36, 233 
+p<0.001).  234 
+ 235 
+Insert Table 2 about here 236 
+ 237 
+An hour by hour breakdown of the time (in minutes) spent in sedentary behaviour, light 238 
+intensity activity and MVPA on workdays and non-workdays are shown in Figures 1 and 2, 239 
+respectively for participants grouped into tertiles according to the proportion of time spent 240 
+sedentary during working hours.  On workdays the three groups displayed a similar pattern 241
+
+===== PAGE 11 =====
+
+10 
+ 
+in terms of the accumulation of sedentary behaviour and light intensity physical activity 242 
+across the day, however, as to be expected based on how the groups were defined 243 
+(sedentary behaviour during working hours), the differences between sedentary behaviour 244 
+and light activity over working hours becomes more pronounced across the groups. During 245 
+working hours (9am to 4.59pm) sedentary behaviour was the most prominent behaviour 246 
+across all groups. All groups exhibited a small dip in this behaviour around lunch time 247 
+followed by another dip immediately after working hours which is then followed by a steady 248 
+increase in sedentary behaviour as the evening progresses. It is evident from Figure 1 that 249 
+on workdays, the pattern of light intensity activity displays a mirror image of the pattern of 250 
+sedentary behaviour for all groups, suggesting that light intensity activities offset sedentary 251 
+behaviours. For all groups, MVPA displays a distinct pattern, showing small increases prior 252 
+to working hours (7 – 8.59am), around lunch time (1 – 1.59pm) and after work into the early 253 
+evening (5 – 7.59pm).  254 
+ 255 
+The pattern of sedentary behaviour and physical activity accumulated hour by hour on non-256 
+workdays (Figure 2) differs to that seen for workdays (Figure 1) for all groups. Through until 257 
+mid-afternoon (8am – 3.59pm), the proportion of sedentary behaviour and light intensity 258 
+activity is relatively equal for participants in the lowest tertile for working hours sedentary 259 
+behaviour. From 4pm onwards sedentary behaviour gradually increases throughout the 260 
+evening as light intensity activity decreases.  A similar pattern can be observed in the 261 
+medium tertile group, however throughout the day sedentary behaviour is the predominant 262 
+behaviour, with the steady increase in sedentary behaviour and the decline in light activities 263 
+starting earlier in the day (1pm onwards). On non-workdays sedentary behaviour is the most 264 
+prominent behaviour throughout the day for participants grouped in the highest tertile for 265 
+working hours sedentary behaviour.  The pattern of MVPA on non-workdays appears to be 266 
+similar across the groups, with MVPA being higher during the day, and decreasing from 7pm 267 
+onwards.  268 
+ 269
+
+===== PAGE 12 =====
+
+11 
+ 
+Insert Figures 1 and 2 about here 270 
+ 271 
+Discussion 272 
+The present study examined sedentary behaviour and physical activity accumulated during 273 
+and outside working hours in a sample of full-time office workers from the UK. On both 274 
+workdays and non-workdays sedentary behaviour was the most prevalent behaviour 275 
+exhibited by the sample, accounting for 68% and 60% of accelerometer wear time 276 
+respectively.  On workdays, participants were highly sedentary during working hours, with 277 
+71% of working hours spent in sedentary behaviour. Overall, sedentary behaviour 278 
+accumulated during working hours accounted for 57% of total daily sedentary time on 279 
+workdays.  280 
+ 281 
+The present findings add to the growing evidence highlighting the workplace as an important 282 
+setting for the accumulation of high volumes of sedentary behaviour.13 The proportion of 283 
+working hours spent sedentary in the current sample is similar to that observed in Australian 284 
+office workers, using objective measures.13-15  Given the workplace is the major contributor 285 
+to total daily sedentary time on work days, worksite interventions designed to reduce, or 286 
+break up, sedentary behaviour are urgently needed in UK office workers. Indeed, research in 287 
+Australian and Swedish workers has started to investigate the effectiveness of sit-to-stand 288 
+workstations for reducing sedentary time at work.23,24 If successful, the incorporation of sit-to-289 
+stand workstations in offices of sedentary workers within the UK workforce could be an 290 
+effective strategy for reducing sedentary behaviour during working hours.  291 
+ 292 
+It was observed in the present study that sedentary behaviour accumulated during working 293 
+hours was positively associated with sedentary behaviour measured on non-workdays, and 294 
+during non-working hours on workdays. Furthermore, when split into tertiles according to the 295 
+proportion of working hours spent sedentary, participants in the highest tertile for working 296 
+hours sedentary behaviour spent a significantly greater proportion of time in sedentary 297
+
+===== PAGE 13 =====
+
+12 
+ 
+behaviour during non-working hours on workdays and less time in light intensity activity in 298 
+comparison to participants in the lowest tertile for working hours sedentary behaviour. The 299 
+same finding was also observed on non-work days. The observation that those who were 300 
+most sedentary during working hours were also the most sedentary out of working hours is 301 
+similar to that reported in Dutch16 and Australian14 workers. In the present study, there were 302 
+no significant differences between the groups in terms of the proportion of time spent in 303 
+MVPA either during non-working hours on workdays, or on non-workdays. This suggests 304 
+that, in the present sample, those who are sedentary for a large proportion of their working 305 
+day do not compensate by increasing their physical activity levels outside of working hours. 306 
+This finding is in contrast to that reported by Chau et al. 12 who observed in Australian 307 
+workers that individuals with jobs which involve mostly sitting were more likely to report 308 
+being physically active during their leisure-time than individuals in more active jobs.  The 309 
+differences in study findings may be attributable to differences in lifestyles between these 310 
+Australian and British samples, further highlighting the importance of understanding these 311 
+lifestyle behaviours in different populations. Whilst participants in the three tertiles for 312 
+working hours sedentary behaviour did not differ in terms of job role, those in the lowest 313 
+tertile were older than those in the medium and high tertiles, indicating that sedentary 314 
+behaviour levels and patterns may vary across age groups. This warrants further study in 315 
+larger samples. 316 
+ 317 
+The finding that those who were most sedentary during working hours, were also the most 318 
+sedentary during non-working hours, coupled with the observation that there appears to be 319 
+no compensatory increases in physical activity outside of work, is a major concern. The 320 
+‘highest working hours sedentary behaviour’ group spent over 10 hours per day in sedentary 321 
+behaviour on workdays, suggesting that these individuals are at an increased risk of 322 
+numerous chronic conditions associated with high volumes of sedentary behaviour.8 In 323 
+addition to an increased risk of chronic disease, evidence suggests that these individuals 324 
+may also be at an increased risk of musculoskeletal disorders25 and impaired work 325
+
+===== PAGE 14 =====
+
+13 
+ 
+performance.15  Based on the present findings, and others,14-16 it is suggested that worksite 326 
+sedentary behaviour interventions also target sedentary behaviour outside of working hours. 327 
+ 328 
+The hour by hour breakdown of time spent in each behaviour for the three groups on 329 
+workdays highlights working hours (9am – 4.59 pm) and the evening (8pm onwards) as 330 
+critical periods during the day when sedentary behaviour is most prevalent. Whilst the overall 331 
+pattern of behaviour is similar on workdays across the three groups, the difference between 332 
+light intensity activity and sedentary behaviour becomes more pronounced between the 333 
+groups.  Participants in the lowest tertile for working hours sedentary behaviour exhibited 334 
+less time in sedentary behaviour and a greater proportion of time in light intensity activity in 335 
+the hours before work, in comparison to the remaining groups. This difference could be 336 
+down to differences in commuting behaviour between the groups, however as participants 337 
+did not report their mode of transport to or from work in the present study, this cannot be 338 
+confirmed. For all groups on workdays (and non-workdays), the pattern of light intensity 339 
+physical activity is the inverse to that of sedentary behaviour suggesting that light intensity 340 
+activities offset sedentary behaviours. Given the apparent strong link between sedentary 341 
+behaviour and light intensity physical activity, workplace interventions promoting increases in 342 
+light intensity activity should be effective in reducing sedentary time. Given recent evidence 343 
+suggesting that light intensity physical activity is beneficial to health,26 future worksite 344 
+interventions targeting sedentary behaviour should incorporate the promotion of light 345 
+intensity physical activity where feasible, such as encouraging the use of pooled 346 
+printers/copiers, centrally placed water coolers, restricting email and telephone contact for 347 
+employees in the same building etc.  Emerging experimental evidence has shown that 348 
+breaking up sedentary behaviour every 20 minutes with 2 minutes of light walking 349 
+significantly improves glucose and insulin regulation.27 A strategy such as this could be 350 
+implemented in future worksite interventions.  351 
+ 352
+
+===== PAGE 15 =====
+
+14 
+ 
+A small dip in sedentary behaviour and increases in light activity and MVPA were observed 353 
+around the lunch period on workdays, suggesting that this period could be a suitable time for 354 
+encouraging longer breaks in sedentary behaviour and increases in physical activity. Indeed, 355 
+previous research has demonstrated the effectiveness of instructor-led lunchtime walking 356 
+groups for promoting physical activity in sedentary workers.28 In addition, recent research 357 
+has shown that light intensity physical activity during lunch time was associated with reduced 358 
+work performance impairment in office workers.15 359 
+ 360 
+This study provides novel information on how sedentary behaviour and physical activity is 361 
+accumulated during and outside working hours in a sample of office workers from the UK. 362 
+The objective measurement of sedentary behaviour and physical activity is a strength of the 363 
+present study as it likely overcomes the limitations of bias and recall common with self-report 364 
+measures. The study is not without its limitations however. Whilst the ActiGraph 365 
+accelerometer has been widely used as an objective measure of sedentary behaviour, this 366 
+waist-worn device is not capable of distinguishing between standing and sitting/lying 367 
+postures. Therefore, some periods of standing still may have been misclassified as 368 
+sedentary behaviour. Furthermore, in the present study we applied the commonly used <100 369 
+cpm cut-point to estimate sedentary behaviour. Despite its wide use, this cut-point was not 370 
+empirically derived and recent contradictory evidence has questioned the validity of this 371 
+particular cut-point.29,30 For example, Kozey-Keadle29 suggested a cut-point of 150 cpm may 372 
+be more accurate at defining sedentary time, while Hart et al.30 have reported that a cut-point 373 
+of <50 cpm may be more appropriate. Further research would benefit from the use of an 374 
+inclinometer, as used elsewhere,17 which is capable of distinguishing between different 375 
+postures.  A further limitation of our study is participants did not record their start and finish 376 
+work times in a daily diary, the working hours (9am – 5pm) assigned in the present study 377 
+were based on our knowledge of the standard working hours applied in the organisations in 378 
+which participants were based. It is possible therefore that some of our participants may 379 
+have been at work for longer or shorter periods than these assigned hours on some days of 380
+
+===== PAGE 16 =====
+
+15 
+ 
+the study. However, participants were asked upon completion of the study to report whether 381 
+they had had a typical week during the monitoring period, and any days where the 382 
+participant had reported taking additional days off work through sickness or illness were 383 
+removed ahead of the analyses.  The study’s cross-sectional design prevents us from 384 
+making conclusions about causality, it is therefore not possible to determine whether being 385 
+sedentary at work leads to an individual being more sedentary out of working hours. Further 386 
+longitudinal research is required to understand the long term relationships between 387 
+sedentary behaviour accumulated during and outside working hours. Limited demographic 388 
+information was collected from participants in the present study; further research with larger 389 
+samples should explore patterns of sedentary behaviour occurring across different age 390 
+groups, educational groups and employment sectors for example, in order to enhance the 391 
+development of tailored interventions for reducing sedentary time.  392 
+ 393 
+Conclusions 394 
+The present study extends our knowledge on the patterns of sedentary behaviour and 395 
+physical activity on workdays and non-workdays in office workers living in the UK. The 396 
+sample as a whole spent a large proportion of time in sedentary behaviour on both workdays 397 
+and non-workdays. Of concern, it was observed in the present study that those who are 398 
+sedentary for a large proportion of their working hours also accumulate a high proportion of 399 
+time in sedentary behaviour during non-working hours. There was no evidence to suggest 400 
+that those with high volumes of sedentary behaviour during working hours compensated for 401 
+this by increasing their time in light intensity activity or MVPA out of working hours. Given the 402 
+high volume of sedentary behaviour seen in the current study, and others, workplace 403 
+interventions are urgently needed to reduce sedentary time in adults to reduce the risk of 404 
+numerous chronic diseases associated with sedentary behaviour. Interventions should focus 405 
+on reducing both workplace sedentary behaviour and leisure-time sedentary behaviour in 406 
+sedentary office workers. 407 
+  408
+
+===== PAGE 17 =====
+
+16 
+ 
+References 409 
+1. Sedentary Behaviour Research Network. Standardized use of the terms “sedentary” 410 
+and “sedentary behaviours”. Appl Physiol Nutr Metab. 2012;37:540–542. 411 
+2. Hu FB, Li TY, Colditz GA, Willett WC, Manson JE. Television watching and other 412 
+sedentary behaviors in relation to risk of obesity and type 2 diabetes mellitus in 413 
+women. JAMA. 2003;289:1785-1791. 414 
+3. Brown WJ, Williams L, Ford JH, Ball K, Dobson AJ. Identifying the energy gap: 415 
+magnitude and determinants of 5-year weight gain in midage women. Obes Res. 416 
+2005;13:1431-1441. 417 
+4. Gierach GL, Chang SC, Brinton LA, et al. Physical activity, sedentary behavior, and 418 
+endometrial cancer risk in the NIH-AARP Diet and Health Study. Int J Cancer. 419 
+2009;124:2139-2147. 420 
+5. Lynch BM. Sedentary behavior and cancer: a systematic review of the literature and 421 
+proposed biological mechanisms. Cancer epidemiology, biomarkers & prevention : a 422 
+publication of the American Association for Cancer Research. 2010;19:2691-2709. 423 
+6. Edwardson CL, Gorely T, Davies MJ, et al. Association of sedentary behaviour with 424 
+metabolic syndrome: a meta-analysis. PloS one. 2012;7:e34916. 425 
+7. Katzmarzyk PT, Church TS, Craig CL, Bouchard C. Sitting time and mortality from all 426 
+causes, cardiovascular disease, and cancer. Med Sci Sports Exerc. 2009;41:998-427 
+1005. 428 
+8. Wilmot EG, Edwardson CL, Achana FA, et al. Sedentary time in adults and the 429 
+association with diabetes, cardiovascular disease and death: systematic review and 430 
+meta-analysis. Diabetologia. 2012;55:2895-2905. 431 
+9. Hamilton MT, Hamilton DG, Zderic TW. Role of low energy expenditure and sitting in 432 
+obesity, metabolic syndrome, type 2 diabetes, and cardiovascular disease. Diabetes. 433 
+2007;56:2655-2667. 434 
+10. Chau JY, der Ploeg HP, van Uffelen JG, et al. Are workplace interventions to reduce 435 
+sitting effective? A systematic review. Prev Med. 2010;51:352-6. 436
+
+===== PAGE 18 =====
+
+17 
+ 
+11. Miller R, Brown W. Steps and sitting in a working population. Int J Behav Med. 437 
+2004;11:219-224. 438 
+12. Chau JY, van der Ploeg HP, Merom D, Chey T, Bauman AE. Cross-sectional 439 
+associations between occupational and leisure-time sitting, physical activity and 440 
+obesity in working adults. Prev Med. 2012;54:195-200. 441 
+13. Thorp AA, Healy GN, Winkler E, et al. Prolonged sedentary time and physical activity 442 
+in workplace and non-work contexts: a cross-sectional study of office, customer 443 
+service and call centre employees. Int J Behav Nutr Phys Act. 2012;9:128. 444 
+14. Parry S, Straker L. The contribution of office work to sedentary behaviour associated 445 
+risk. BMC Public Health. 2013;13:296. 446 
+15. Brown HE, Ryde GC, Gilson ND, Burton NW, Brown WJ. Objectively measured 447 
+sedentary behavior and physical activity in office employees: relationships with 448 
+presenteeism. J Occup Environ Med. 2013;55:945-953. 449 
+16. Jans MP, Proper KI, Hildebrandt VH. Sedentary behavior in Dutch workers: 450 
+differences between occupations and business sectors. Am J Prev Med. 451 
+2007;33:450-454. 452 
+17. Tigbe WW, Lean ME, Granat MH. A physically active occupation does not result in 453 
+compensatory inactivity during out-of-work hours. Prev Med. 2011;53:48-52. 454 
+18. Stamatakis E, Hamer M, Dunstan DW. Screen-based entertainment time, all-cause 455 
+mortality, and cardiovascular events: population-based study with ongoing mortality 456 
+and hospital events follow-up. J Am Coll Cardiol. 2011;57:292-299. 457 
+19. Clemes SA, David BM, Zhao Y, Han X, Brown W. Validity of two self-report 458 
+measures of sitting time. J Phys Act Health. 2012;9:533-539. 459 
+20. Matthews CE, Ainsworth BE, Thompson RW, Bassett DR, Jr. Sources of variance in 460 
+daily physical activity levels as measured by an accelerometer. Med Sci Sports 461 
+Exerc. 2002;34:1376-1381. 462 
+21. Atkin AJ, Gorely T, Clemes SA, et al. Methods of Measurement in epidemiology: 463 
+sedentary Behaviour. IntJ Epidemiology. 2012;41:1460-1471. 464
+
+===== PAGE 19 =====
+
+18 
+ 
+22. Freedson PS, Melanson E, Sirard J. Calibration of the Computer Science and 465 
+Applications, Inc. accelerometer. Med Sci Sports Exerc. 1998;30:777-781. 466 
+23. Healy GN, Eakin EG, Lamontagne AD, et al. Reducing sitting time in office workers: 467 
+Short-term efficacy of a multicomponent intervention. Prev Med. 2013;57:43-48. 468 
+24. Straker L, Abbott RA, Heiden M, Mathiassen SE, Toomingas A. Sit-stand desks in 469 
+call centres: associations of use and ergonomics awareness with sedentary behavior. 470 
+Applied ergonomics. 2013;44:517-522. 471 
+25. Gerr F, Marcus M, Ensor C, et al. A prospective study of computer users: I. Study 472 
+design and incidence of musculoskeletal symptoms and disorders. American Journal 473 
+of Industrial Medicine. 2002;41:221-235. 474 
+26. Healy GN, Dunstan DW, Salmon J, et al. Objectively measured light-intensity 475 
+physical activity is independently associated with 2-h plasma glucose. Diabetes Care. 476 
+2007;30:1384-1389. 477 
+27. Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up prolonged sitting reduces 478 
+postprandial glucose and insulin responses. Diabetes Care. 2012;35:976-983. 479 
+28. Chan CB, Ryan DA, Tudor-Locke C. Health benefits of a pedometer-based physical 480 
+activity intervention in sedentary workers. Prev Med. 2004;39:1215-1222. 481 
+29. Kozey-Keadle S, Libertine A, Lyden K, Staudenmayer J, Freedson PS. Validation of 482 
+wearable monitors for assessing sedentary behavior. Med Sci Sports Exerc. 483 
+2011;43:1561-1567. 484 
+30. Hart TL, McClain JJ, Tudor-Locke C. Controlled and free-living evaluation of 485 
+objective measures of sedentary and active behaviors. J Phys Act Health. 486 
+2011;8:848-857. 487 
+ 488 
+ 489 
+ 490 
+ 491
+
+===== PAGE 20 =====
+
+19 
+ 
+Figure legends 492 
+Figure 1. Minutes spent in sedentary behaviour, light intensity physical activity and MVPA 493 
+during each hour of the working day for participants grouped into tertiles based on the 494 
+proportion of time spent sedentary during working hours. 495 
+ 496 
+Figure 2. Minutes spent in sedentary behaviour, light intensity physical activity and MVPA 497 
+during each hour of the non-working day for participants grouped into tertiles based on the 498 
+proportion of time spent sedentary during working hours. 499 
+  500
+
+===== PAGE 21 =====
+
+20 
+ 
+Table 1. Sedentary behaviour and physical activity (PA) measured during and outside 501 
+working hours in 170 office workers. Data represents the median and inter-quartile ranges 502 
+(IQR).  503 
+ All days (median ± IQR) Work days only (median ± IQR) 
+ Work days Non-work 
+days 
+Differences
+* (p value) 
+During 
+working 
+hours 
+Non-
+working 
+hours 
+Differences
+* (p value) 
+Number of valid days** 781 303  781 781  
+Wear time (mins/day) 874 ± 103 767 ± 113 <0.001 477 ± 15 406 ± 79 <0.001 
+% of wear time spent sedentary 68 ± 9 60 ± 14 <0.001 71 ± 12 63 ± 12 <0.001 
+Time in sedentary behaviour 
+(mins/day) 580 ± 101 460 ± 105  333 ± 61 254 ± 72  
+% of wear time spent in light PA 28 ± 9 36 ± 14 <0.001 25 ± 11 33 ± 10 <0.001 
+Time in light PA (mins/day) 246 ± 90 278 ± 126  117 ± 55 130 ± 48  
+% of wear time spent in MVPA 4 ± 3 4 ± 4 0.40 4 ± 4 3 ± 5 0.82 
+Time in MVPA (mins/day) 32 ± 26 28 ± 33  17 ± 17 13 ± 17  
+*Comparisons undertaken using Wilcoxon-signed ranks tests. As significant differences in 504 
+accelerometer wear time were observed between workdays and non-workdays, and 505 
+between working hours and non-working hours, comparisons were undertaken between the 506 
+proportion of accelerometer wear time spent in each behaviour. Minutes spent in each 507 
+behaviour are also included in the table for comparison purposes. 508 
+**The number of valid days (wear time ≥10 hours/day) included in the analyses. 509
+
+===== PAGE 22 =====
+
+21 
+ 
+Table 2. Sedentary behaviour and physical activity measured during and outside working hours in office workers grouped into tertiles according 510 
+to the proportion of working hours spent sedentary. Data represents the median and inter-quartile ranges (IQR). 511 
+ All days (median ± IQR) 
+ Workdays Non-workdays 
+ 
+Tertile 1 
+(n = 55) 
+Tertile 2 
+(n = 54) 
+Tertile 3 
+(n = 61) 
+Between 
+group 
+differences 
+(p value)* 
+Tertile 1 
+(n = 55) 
+Tertile 2 
+(n = 54) 
+Tertile 3 
+(n = 61) 
+Between 
+group 
+differences 
+(p value)* 
+Number of valid days** 260 251 270  97 95 111  
+Wear time (mins/day) 888 ± 112 884 ± 87 850 ± 77 0.02 775 ± 120 764 ± 84 744 ± 135 0.16 
+% of wear time spent sedentary 59 ± 9 69 ± 5 72 ± 6 <0.001 54 ± 18 61 ± 11 64 ± 13 <0.001 
+Time in sedentary behaviour (mins/day) 508 ± 102 594 ± 79 609 ± 76  427 ± 149 479 ± 114 468 ± 79  
+% of wear time spent in light PA 37 ± 8 28 ± 4 23 ± 7 <0.001 41 ± 15 36 ± 10 31 ± 12 <0.001 
+Time in light PA (mins/day) 325 ± 87 246 ± 41 198 ± 74  311 ± 106 274 ± 117 230 ± 104  
+% of wear time spent in MVPA 4 ± 4 3 ± 2 3 ± 3 0.21 4 ± 4 3 ± 4 4 ± 5 0.53 
+Time in MVPA (mins/day) 35 ± 36 30 ± 18 31 ± 26  28 ± 32 26 ± 33 30 ± 33  
+ Work days only (median ± IQR) 
+ During working hours Non-work hours 
+ Tertile 1 
+(n = 55) 
+Tertile 2 
+(n = 54) 
+Tertile 3 
+(n = 61) 
+Between 
+group 
+differences 
+(p value)* 
+Tertile 1 
+(n = 55) 
+Tertile 2 
+(n = 54) 
+Tertile 3 
+(n = 61) 
+Between 
+group 
+differences 
+(p value)* 
+Number of valid days** 260 251 270  260 251 270  
+Wear time (mins/day) 478 ± 13 478 ± 13 474 ± 17 0.26 420 ± 86 418 ± 55 387 ± 64 <0.01 
+% of wear time spent sedentary 60 ± 14 71 ± 3 78 ± 4 <0.001 60 ± 12 65 ± 10 66 ± 13 <0.001 
+Time in sedentary behaviour (mins/day) 286 ± 68 335 ± 17 365 ± 26  247 ± 80 263 ± 64 243 ± 63  
+% of wear time spent in light PA 35 ± 12 25 ± 3 19 ± 5 <0.001 37 ± 10 32 ± 7 29 ± 10 <0.001 
+Time in light PA (mins/day) 163 ± 52 118 ± 19 88 ± 24  150 ± 56 128 ± 41 117 ± 53  
+% of wear time spent in MVPA 4 ± 4 4 ± 3 3 ± 3 <0.001 4 ± 5 3 ± 3 4 ± 5 0.14 
+Time in MVPA (mins/day) 20 ± 19 17 ± 13 13 ± 13  13 ± 25 13 ± 14 16 ± 18  
+*Between group comparisons undertaken using Kruskal-Wallis tests with Bonferroni-corrected post hoc comparisons. To account for differences 512 
+in accelerometer wear time between groups, comparisons were undertaken between the proportion of accelerometer wear time spent in each 513 
+behaviour. Minutes spent in each behaviour are also included in the table for comparison purposes. 514 
+**The number of valid days (wear time ≥10 hours/day) included in the analyses for each tertile group.515
+
+===== PAGE 23 =====
+
+22 
+ 
+ 516 
+ 517
+
+===== PAGE 24 =====
+
+23 
+ 
+ 518
