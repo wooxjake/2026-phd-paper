@@ -102,12 +102,16 @@
 - 각 시행의 과제 후 FR angle은 과제 전 초기값에 대해 정규화했다. 따라서 결과의 0%는 과제 전후 변화가 없음을 뜻한다.
 - 이 지표는 앉기 과제 중 계속 측정한 몸통 각도와 달리, 과제 전후에 별도로 수행한 굴곡-이완 검사 결과다.
 
+참가자들은 직립한 선 자세(upright standing position, 직립 선 자세)에서 몸통 굴곡(trunk flexion, 몸통 굴곡)의 끝범위 운동 범위(end range-of-motion, 최대 가동범위)에 도달하도록 앞으로 숙이도록 요청받았다(Shirado et al., 1995; Callaghan and Dunk, 2002; Solomonow et al., 2003). 그 다음 FR 각도(FR angle, 굴곡-이완 각도)는 앞서 설명한 절차(Hendershot et al., 2011)에 따라 요부 신전근(lumbar extensor muscles, 허리 신전근) 활동이 상대적으로 거의 사라지는 시점을 기준으로 결정되었다. 각 시행에서 과제 후 FR 각도는 과제 전에 수집한 초기값(initial value, 초기값)에 대해 정규화(normalized, 정규화)되었다.
+
 ### 3. 자극 반응 기반 국소 근피로
 
 - 요부 신전근 자극 반응(stimulation response, SR)은 국소 근피로를 판단하기 위해 측정했다.
 - Grass S88 자극기, SIU5 자극 절연 장치, CCU1 정전류 장치로 구성한 이중 채널 시스템을 사용해 L3 수준의 양측 요부 신전근을 전기 자극했다.
 - 준비 자극(conditioning train) 후, 2 Hz 자극열을 16초씩 3회 적용하면서 반응을 1000 Hz로 수집했다.
 - 과제 후 SR은 과제 전 초기값에 대해 정규화했으며, 40분 과제 후 자극 반응이 감소한 경우 국소 근피로가 발생한 것으로 해석했다.
+
+- 요부 신전근(lumbar extensor muscles, 허리 신전근)의 자극 반응(stimulated responses, 자극 반응)은 국소 근피로(localized muscle fatigue, 국소 근피로)의 지표로 측정되었으며, 이는 Jia et al. (2015)에 설명된 장치와 절차를 따랐다. 간단히 말하면, 자극기(stimulator, 자극기)(Grass S88), 자극 절연 장치(stimulus isolation unit, 자극 절연 장치)(SIU5), 정전류 장치(constant current unit, 정전류 장치)(CCU1)로 이루어진 이중 채널 시스템(dual-channel system, 이중 채널 시스템)을 사용하여 L3 수준에서 양측 요부 신전근을 전기적으로 자극했다. 준비 자극(conditioning train, 준비 자극) 후, 자극 반응(stimulation responses, 자극 반응)은 2 Hz에서 3회, 각 16초짜리 자극 동안 1000 Hz로 수집되었다. 과제 후 SR 반응(SR responses, 자극 반응)은 초기값(initial values, 초기값)에 대해 정규화되었다.
 
 ### 4. 표면 근전도와 근활성도
 
@@ -117,7 +121,19 @@
 - 원시 EMG는 1000 Hz로 표집하고, 20-400 Hz 대역통과필터와 50 ms 이동 창 RMS 처리를 적용한 뒤 100 Hz로 다운샘플링했다.
 - 근활성도는 과제 전 최대 수의수축 보정값을 기준으로 %MVC로 제시했다. 따라서 이 값은 절대 전압이 아니라 개인별 최대수의수축 대비 활동 수준이다.
 
-- 표면 EMG 신호(surface EMG signals, 표면 근전도 신호)는 40분간의 앉기 과제 동안 연속적으로 수집되었다. 2개의 8채널 원격 측정형 EMG 시스템(telemetered EMG systems, 원격 측정형 근전도 시스템)(TeleMyo 900, Noraxon, AZ)을 사용하여 양측 12개 허리 근육에서 표면 EMG를 수집했는데, 여기에는 3개의 요부 신전근 [EL group, ET group, MF]과 3개의 요부 굴곡근 [IO, EO, RA]이 포함되었다. 그림 4에 나타난 것처럼, 일회용 이극 Ag/AgCl 전극(disposable bipolar Ag/AgCl electrodes, 일회용 이극 은/염화은 전극)(AccuSensor, Lynn Medical, MI)의 부착 위치는 기존 연구들(McGill 1992, Mirka and Marras 1993, Cholewicki and McGill 1996, Potvin et al., 1996, Hides et al., 2008)을 따랐다.
+표면 EMG 신호(surface EMG signals, 표면 근전도 신호)는 40분간의 앉기 과제 동안 연속적으로 수집되었다. 2개의 8채널 원격 측정형 EMG 시스템(telemetered EMG systems, 원격 측정형 근전도 시스템)(TeleMyo 900, Noraxon, AZ)을 사용하여 양측 12개 허리 근육에서 표면 EMG를 수집했는데, 여기에는 3개의 요부 신전근 [EL group, ET group, MF]과 3개의 요부 굴곡근 [IO, EO, RA]이 포함되었다. 그림 4에 나타난 것처럼, 일회용 이극 Ag/AgCl 전극(disposable bipolar Ag/AgCl electrodes, 일회용 이극 은/염화은 전극)(AccuSensor, Lynn Medical, MI)의 부착 위치는 기존 연구들(McGill 1992, Mirka and Marras 1993, Cholewicki and McGill 1996, Potvin et al., 1996, Hides et al., 2008)을 따랐다.
+
+EL: L3 수준의 극돌기에서 가쪽으로 3–4 cm, 근섬유와 평행하게
+ET: T9/T10 수준의 극돌기에서 가쪽으로 4–5 cm
+MF: L3/L4 수준의 극돌기에서 가쪽으로 1–2 cm
+IO: 배꼽에서 가쪽으로 10–12 cm, 서혜인대 위쪽
+EO: 12번째 늑골과 전상장골극(anterior superior iliac spine, 전상장골극) 사이의 중간점
+RA: 배꼽에서 가쪽으로 2–3 cm
+
+원시 EMG(raw EMG, 원시 근전도) 신호는 1000 Hz로 샘플링한 뒤 하드웨어에서 증폭되고, 20–400 Hz 대역통과필터(band-pass filter, 대역통과필터)를 거쳤으며, 50밀리초 길이의 이동 창(moving window, 이동 창)을 사용해 제곱평균제곱근(root mean square, 제곱평균제곱근) 변환되었다. RMS EMG 신호(root mean square EMG signals, 제곱평균제곱근 EMG 신호)는 아래에서 설명하는 몸통 운동학(trunk kinematics, 몸통 운동학)의 샘플링 속도에 맞추기 위해 100 Hz로 다운샘플링(downsampled, 다운샘플링)되었다. 중앙전력주파수(median power frequency, 중앙전력주파수)는 각 근육의 원시 EMG를 1초 창(1-second windows, 1초 구간)으로 나누어, 각 과제의 처음 5분(i.e., 2–6 min)과 마지막 5분에 대해 계산되었다. MPF(median power frequency, 중앙전력주파수)는 van Dieën et al. (1993)에 설명된 대로 고속 푸리에 변환(Fast Fourier Transforms, FFT)을 사용하여 계산되었다. 이후 이 5분 샘플의 EMG MPF 평균값을 구했고, 그 값은 다시 초기값(initial values, 초기값)에 대해 정규화되었다.
+
+해석:
+이 부분은 이 논문이 피로를 어떻게 측정했는지 보여줍니다. FR 각도는 굴곡-이완 현상을 이용해 자세 변화나 척추 크리프(creep, 점진적 처짐)를 보는 지표이고, SR은 허리 신전근에 전기 자극을 줘서 근육 상태가 떨어졌는지 보는 지표입니다. EMG는 40분 과제 중 신호를 계속 기록하되, 피로 판단에는 MPF 변화를 사용했고, 그 값도 초기값에 맞춰 정규화했습니다. 즉, 이 논문은 “한 가지 피로 지표”가 아니라 FR, SR, EMG MPF를 함께 써서 피로를 해석한 것입니다.
 
 ### 5. EMG MPF 기반 국소 근피로
 
