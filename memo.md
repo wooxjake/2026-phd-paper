@@ -1,3 +1,9 @@
+# 논문명
+
+Effects of Handicraft Sitting Postures on Lower Trunk Muscle Fatigue
+
+저자: Areeudomwong, P., Puntumetakul, R., Kaber, D. B., Wanpen, S., Leelayuwat, N., & Chatchawan, U. (2012)
+
 할 일 목록 업데이트됨
 
 # 서론

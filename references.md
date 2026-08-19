@@ -52,6 +52,7 @@
 8. **Baker et al. (2018)** — `cited` - [상세](references/entries/08-baker-et-al-2018.md)
 
 - The Short Term Musculoskeletal and Cognitive Effects of Prolonged Sitting During Office Computer Work
+- 2시간 좌식 중 30분 간격 5회 반복측정. **불편감만 유의하게 증가**하였고 **EMG 진폭·MDF·요부 각도·골반 움직임은 모두 시간 효과가 유의하지 않았다.** 운동학 장비는 IMU가 아니라 **전자기식 3 Space Fastrak(T12·L1·S2)**이며, 요부 각도를 시상면 T12-S2 상대각으로 정의한 선례다. EMG는 MVC가 아니라 **하위최대 RVC**로 정규화하였다.
 
 ---
 
@@ -129,7 +130,7 @@
 20. **Zawadka et al. (2023)** — `candidate` - [상세](references/entries/20-zawadka-et-al-2023.md)
 
 - The Influence of Sedentary Behaviour on Lumbar-Pelvic Kinematics during Squatting and Forward Bending among Physically Active Students
-- 운동습관 집단 비교 시 일일 좌식시간 보정 근거.
+- 운동습관 집단 비교 시 일일 좌식시간 보정 근거. 2026-08-19 원문 전문을 확인하여 표본·절차·장비·변인을 검증하였다(고좌식군 >7h/일 N=29 vs 저좌식군 ≤7h/일 N=34, VICON 100Hz + Myon sEMG 1000Hz 다열근).
 
 ---
 
@@ -238,6 +239,35 @@
 - Sedentary Behavior, Physical Activity, and Fitness—The Maastricht Study
 - 서론 문단 1 「좌식 시간의 규모와 구성」의 서구 일일 좌식시간 **상한 9.3시간**. Kett et al. (2021) 재인용의 원출처.
 - 원출처 3편 중 유일하게 activPAL로 자세를 판별한다.
+
+---
+
+37. **Alshehri et al. (2025)** — `candidate` - [상세](references/entries/37-alshehri-et-al-2025.md)
+
+- Exploring Lumbar Spine Posture and Movement in Sitting: A Comparison Between Laboratory and Real-World Measures
+- dorsaVi 관성센서(T12/L1·L5/S1)로 실험실 좌식과 실환경 48시간 좌식의 요추 굴곡각을 비교. **IMU 요추각 신호처리 절차(자이로 바이어스 보정, Gradient Descent Filter, 쿼터니언 ZXY 변환)와 기립 중앙값 기준각 정의**의 방법론적 근거.
+
+---
+
+38. **Zarnegar et al. (2026)** — `candidate` - [상세](references/entries/38-zarnegar-et-al-2026.md)
+
+- The Effect of Prolonged Slump Sitting on Postural Sway in Female Athletes and Non-Athletes
+- 30분 구부정 좌식 후 자세동요를 운동선수 12명과 비선수 12명에서 비교. **30분 좌식 프로토콜 표준화(견봉-L1-대전자 93°±3°)와 운동군-비운동군 비교 설계**의 참고. EMG·IMU는 사용하지 않았다.
+
+---
+
+39. **Paloschi et al. (2021)** — `candidate` - [상세](references/entries/39-paloschi-et-al-2021.md)
+
+- Validation and Assessment of a Posture Measurement System with Magneto-Inertial Measurement Units
+- MIMU 3개(T3·T12·S1)와 광학 MoCap의 후만·전만각 비교. **T12-S1 상대각 기반 전만각 산출의 측정 타당도(최대 RMSE 5.6°)** 근거.
+
+---
+
+40. **Cotter, Nairn, & Drake (2014)** — `candidate` - [상세](references/entries/40-cotter-nairn-drake-2014.md)
+
+- Should a Standing or Seated Reference Posture Be Used When Normalizing Seated Spine Kinematics?
+- 좌위 척추 운동학 정규화에서 **기립 기준자세 채택의 직접 근거.** 요추 분절(L1-PSIS)의 상대 굴곡각은 **기립 기준**으로 정규화하라는 것이 저자 권고이며, 이상적으로는 착석·기립 기준을 모두 수집해 분절별로 더 큰 값을 쓴다. 예외는 중부흉추(T5-T8)뿐으로 본 연구 범위 밖이다.
+- **주의**: 이 문헌이 다룬 것은 **분모(최대 ROM)의 출처**이지 시계열 각도의 **기준 오프셋(0°)** 문제가 아니다. Cotter 자신은 0점을 착석·기립 각각에서 첫 1초 평균으로 따로 잡았다.
 
 ---
 

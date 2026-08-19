@@ -2,7 +2,8 @@
 
 - **영문 제목**: Assessing the Preservation of Lumbar Lordotic Curvature in Everyday Sitting Conditions Assessed with an Inertial Measurement System
 - **한글 제목**: 관성측정장치를 이용한 일상 좌식 조건에서의 요추 전만각 유지 평가
-- **저자/출처**: Kim, J.C., Kim, J.-G., Kim, B.S., Kim, C.K., Choi, M., Lee, J., & Chung, S.G. (2025). _Journal of Clinical Medicine_, 13(2728). (IRB No. 1703-174-842, Seoul National University Hospital) https://doi.org/10.3390/jcm13092728 (전문: https://pmc.ncbi.nlm.nih.gov/articles/PMC11084529/)
+- **저자/출처**: Kim, J. C., Kim, J.-G., Kim, B. S., Kim, C. K., Choi, M., Lee, J., & Chung, S. G. (2024). _Journal of Clinical Medicine_, 13(9), 2728. (IRB No. 1703-174-842, Seoul National University Hospital) https://doi.org/10.3390/jcm13092728 (전문: https://pmc.ncbi.nlm.nih.gov/articles/PMC11084529/)
+- **연도 정정 기록**: 2026-08-19에 원문에서 게재 연도를 확인하였다. 원문 표기는 `J. Clin. Med. 2024, 13, 2728`(투고 2024-03-27, 게재 2024-05-06)이므로 **2024년**이 맞다. 이전에 이 파일과 `outline.md`에 `2025`로 표기되어 있었다.
 - **상태**: cited
 - **연구목표**: AHRS 기반 관성센서(IMU)를 이용해 구두 지시, 의자 종류, 책상 작업 유형이라는 세 범주의 일상 좌식 조건에서 요추 전만각(LLA)의 크기(LLAavg)와 유지도(LLAdev)가 어떻게 변화하는지 평가.
 - **집단 정의 및 피험자 수**: 건강한 성인 N=29 (남 15, 여 14). 정상 요추 전만 범위를 가진 것으로 예상되는 자를 대상으로 하였으며, 센서 부착 부위 피부질환·정신질환 등은 제외기준.
