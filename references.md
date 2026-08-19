@@ -163,6 +163,7 @@
 25. **Lis et al. (2007)** — `cited` - [상세](references/entries/25-lis-et-al-2007.md)
 
 - Association between Sitting and Occupational LBP
+- 2026-08-19 원문 PDF 텍스트 추출 완료. 번역본은 아직 만들지 않았다.
 
 ---
 
@@ -175,6 +176,7 @@
 27. **Alzahrani et al. (2022)** — `cited` - [상세](references/entries/27-alzahrani-et-al-2022.md)
 
 - The Association between Sedentary Behavior and Low Back Pain in Adults: A Systematic Review and Meta-Analysis of Longitudinal Studies
+- 2026-08-19 원문 PDF 텍스트 추출 완료. 번역본은 아직 만들지 않았다.
 
 ---
 
@@ -268,6 +270,13 @@
 - Should a Standing or Seated Reference Posture Be Used When Normalizing Seated Spine Kinematics?
 - 좌위 척추 운동학 정규화에서 **기립 기준자세 채택의 직접 근거.** 요추 분절(L1-PSIS)의 상대 굴곡각은 **기립 기준**으로 정규화하라는 것이 저자 권고이며, 이상적으로는 착석·기립 기준을 모두 수집해 분절별로 더 큰 값을 쓴다. 예외는 중부흉추(T5-T8)뿐으로 본 연구 범위 밖이다.
 - **주의**: 이 문헌이 다룬 것은 **분모(최대 ROM)의 출처**이지 시계열 각도의 **기준 오프셋(0°)** 문제가 아니다. Cotter 자신은 0점을 착석·기립 각각에서 첫 1초 평균으로 따로 잡았다.
+
+---
+
+41. **Bae et al. (2012)** — `candidate` - [상세](references/entries/41-bae-et-al-2012.md)
+
+- A Comparison Study on the Change in Lumbar Lordosis When Standing, Sitting on a Chair, and Sitting on the Floor in Normal Individuals
+- 2026-08-19 원문 PDF 텍스트 추출 완료. 방사선영상 기반으로 **기립·의자좌위·바닥 양반다리 좌위의 요추 전만 변화를 직접 비교**한 문헌으로, 자세 간 요추 정렬 차이의 배경 근거로 검토한다. 번역본은 아직 만들지 않았다.
 
 ---
 

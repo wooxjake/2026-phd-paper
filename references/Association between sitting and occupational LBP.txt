@@ -1,0 +1,1908 @@
+===== PAGE 1 =====
+
+Abstract Low back pain (LBP) has been identiﬁed as
+one of the most costly disorders among the worldwide
+working population. Sitting has been associated with
+risk of developing LBP. The purpose of this literature
+review is to assemble and describe evidence of research
+on the association between sitting and the presence of
+LBP. The systematic literature review was restricted to
+those occupations that require sitting for more than
+half of working time and where workers have physical
+co-exposure factors such as whole body vibration
+(WBV) and/or awkward postures. Twenty-ﬁve studies
+were carefully selected and critically reviewed, and a
+model was developed to describe the relationships
+between these factors. Sitting alone was not associated
+with the risk of developing LBP. However, when the
+co-exposure factors of WBV and awkward postures
+were added to the analysis, the risk of LBP increased
+fourfold. The occupational group that showed the
+strongest association with LBP was Helicopter Pilots
+(OR=9.0, 90% CI 4.9–16.4). For all studied occupa-
+tions, the odds ratio (OR) increased when WBV and/or
+awkward postures were analyzed as co-exposure fac-
+tors. WBV while sitting was also independently asso-
+ciated with non-speciﬁc LBP and sciatica. Vibration
+dose, as well as vibration magnitude and duration of
+exposure, were associated with LBP in all occupations.
+Exposure duration was associated with LBP to a
+greater extent than vibration magnitude. However, for
+the presence of sciatica, this difference was not found.
+Awkward posture was also independently associated
+with the presence of LBP and/or sciatica. The risk ef-
+fect of prolonged sitting increased signiﬁcantly when
+the factors of WBV and awkward postures were com-
+bined. Sitting by itself does not increase the risk of
+LBP. However, sitting for more than half a workday, in
+combination with WBV and/or awkward postures,
+does increase the likelihood of having LBP and/or
+sciatica, and it is the combination of those risk factors,
+which leads to the greatest increase in LBP.
+Keywords Sitting Æ LBP Æ Sciatica Æ Epidemiology Æ
+Review
+Introduction
+Low back pain (LBP) is an important public health
+problem in all industrialized countries. It remains the
+leading cause of disability in persons younger than
+45 years old and comprises approximately 40% of all
+compensation claims in the United States [ 17, 19, 42,
+46, 78]. More than one-quarter of the working popu-
+lation is affected by LBP each year [35], with a lifetime
+prevalence of 60–80% [ 21, 35] and a large percentage
+of LBP claims for long durations (more than 90
+workdays lost) [ 55].
+A. M. Lis ( &) Æ M. Nordin
+Occupational and Industrial Orthopaedic Center,
+New York, NY, USA
+e-mail: al96@nyu.edu
+A. M. Lis Æ M. Nordin
+NYU Hospital for Joint Diseases, New York, NY, USA
+K. M. Black Æ H. Korn
+Program of Ergonomics and Biomechanics,
+New York, NY, USA
+K. M. Black Æ H. Korn
+Graduate School of Arts and Science (GSAS),
+New York University, New York, NY, USA
+Eur Spine J (2007) 16:283–298
+DOI 10.1007/s00586-006-0143-7
+123
+ORIGINAL ARTICLE
+Association between sitting and occupational LBP
+Angela Maria Lis Æ Katia M. Black Æ Hayley Korn Æ
+Margareta Nordin
+Received: 16 January 2005 / Accepted: 31 March 2005 / Published online: Published online: 31 May 2006
+/C211 Springer-Verlag 2006
+
+===== PAGE 2 =====
+
+Approximately one-third of American workers are
+in jobs that contribute to an increased risk of devel-
+oping back disorders, although the causes of lumbar
+disorders are complex and difﬁcult to identify [57]. This
+situation is similar in Great Britain, where the average
+estimated year-prevalence derived from British popu-
+lation surveys is 38% [ 61, 77].
+Because of the potential economic and social ben-
+eﬁts to be gained from reducing the magnitude of LBP
+in industry, many investigations have focused their
+attention on the factors that lead to injury, particularly
+on those activities and events associated with the onset
+of symptoms [ 67]. The major thrust of research about
+LBP has been to identify occupational risk factors
+associated with its presence and occurrence [ 58].
+With the rapid development of modern technology,
+sitting has now become the most common posture in
+today’s workplace [ 38]. Reinecke et al. [ 66] reports
+that three-quarters of all workers in industrialized
+countries have sedentary jobs that require sitting for
+long periods. For many activities, however, sitting can
+be a less straining posture than standing [ 32]. Both
+postures are commonly used, and have advantages and
+disadvantages depending on the task to be performed.
+In this review, ‘‘sitting’’ is discussed in the context of
+Western standards. Sitting is described as an erect
+posture in which the head and trunk are vertical, the
+lower legs are bent at about 90 /C176 at the hips and knees,
+and the feet are ﬁrmly placed on the ﬂoor [ 16]. The
+concept of sitting is very different in non-Western
+societies. In India and Southeast Asia, for example, it is
+still common to see workers sitting cross-legged on the
+ground, squatting (knees bent severely, the thighs close
+to the trunk, and weight concentrated on the heels), or
+kneeling [ 32]. Although common, these variations of
+sitting are not discussed in this review.
+The existence of the relationship between workplace
+factors and the occurrence of LBP has long been rec-
+ognized [ 1, 3, 13, 29]. Among the occupational expo-
+sures identiﬁed, sitting is commonly cited as a risk
+factor in the literature, in addition to heavy physical
+work, heavy or frequent lifting, non-neutral postures
+(i.e., trunk rotation, forward bending), pushing and
+pulling, and exposure to whole body vibration (WBV)
+(i.e., motor vehicle driving) [ 12, 20, 25, 31, 35, 37, 39,
+47, 51, 53, 76, 79].
+Laboratory studies have focused on biomechanical
+hypotheses to explain the association between sitting
+and LBP [45, 47, 56, 74
+, 80]. The literature on this subject
+is extensive, but the evidence is somewhat contradictory.
+It has been shown that intradiscal pressure is increased in
+the sitting posture [ 56]. In a more recent investigation,
+Wilke et al. [ 80] reevaluated the intradiscal pressure in
+sitting and found that, in fact, it can be lower in sitting
+than in erect standing. Another hypothesis is that pro-
+longed static sitting postures may have a negative effect
+on the nutrition of the intervertebral disc [ 47]. Thus, a
+constantly changing position may promote the ﬂow of
+ﬂuid (nutrition) to the disc [75].
+The purpose of this paper is to review the more
+recent literature that examines the association between
+sitting and the report of LBP among working popula-
+tions. This review also intends to identify if there is an
+interaction between occupational LBP/sciatica and
+sitting in combination with WBV and/or awkward
+postures. The importance of this association cannot be
+underestimated. Understanding the risk factors for
+LBP and sciatica can lead to prevention programs that
+have the potential to mitigate the high prevalence rates
+of occupational LBP. Although other factors (i.e.,
+physiological and psychosocial) may also be important,
+they are not the focus of this paper.
+For this review, sitting is deﬁned as a sustained up-
+right trunk posture with limited possibilities to change
+posture or position [16, 30]. LBP is represented here by
+reported or examined ache, pain, stiffness, or discom-
+fort in the lumbar spine [9]. Sciatic pain is considered a
+reported or examined radiating pain extending below
+the knee in one or both legs [ 9]. Workers in occupa-
+tions who performed tasks while sitting may also be
+exposed to WBV and/or awkward posture, and these
+exposures are independently analyzed in the literature.
+Awkward posture represents a non-neutral trunk pos-
+ture (i.e., bending forward and/or twisting of the trunk)
+[10, 12, 25, 30, 51]. ‘‘Postural load’’ [7] and ‘‘unfavor-
+able posture’’ [49] are terms used in the literature that
+refer to awkward posture. WBV is present when the
+body receives continuous vibration transmitted from
+the seat over a period of time [ 7, 9].
+This systematic review seeks to examine the asso-
+ciation between the presence and/or occurrence of
+LBP and sciatica among occupational groups in which
+the seated posture is the major physical requirement
+for the work. The following questions were considered:
+(1) Is there evidence in the recent epidemiological
+literature for an association between occupational
+groups exposed to sitting and reported LBP?, (2) Is
+there evidence in the recent epidemiological literature
+of an association between exposure to WBV while
+sitting and reported LBP?, (3) Is there evidence in the
+recent epidemiological literature for an association
+between awkward posture while sitting and reported
+LBP?, and (4) Is there evidence in the recent epide-
+miological literature for an association between the
+combined effect (both WBV and awkward posture)
+while sitting and reported LBP?
+284 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 3 =====
+
+Methodology
+Using MEDLINE (US National Library of Medicine),
+HEALTHSTAR, and CINAHL as the principal data-
+bases, studies published between 1990 and May of 2004
+were retrieved. The primary keywords used were LBP
+and sitting. The secondary keywords used were WBV,
+static posture, occupational back pain, awkward pos-
+ture, sedentary occupation, trunk twisting , and sciatica.
+Several speciﬁc occupations such as different forms of
+professional driving that require a combination of sit-
+ting and WBV or awkward postures were also re-
+viewed. Reference lists of studies retrieved were
+carefully screened in order to locate additional papers.
+Articles written only in English were included, and a
+total of 155 studies were identiﬁed.
+Those studies that described the presence and/or
+occurrence of reported or examined LBP in occupa-
+tional groups in which the major physical requirement
+is sitting (calculated as sitting for more than half of
+work-time) were included. Job titles were also used as
+the selection criteria to identify those occupations in
+which the worker is required to sit for a major part of
+the day. If there was doubt about the amount of sitting
+required for a speciﬁc occupation, ONET, the US
+Department of Labor’s Occupational Information
+Network, was consulted [ 59]. Forty-one publications
+met this criterion and were reviewed using a Critical
+Appraisal form [ 65].
+Quality criteria were established for inclusion and
+carefully analyzed by the authors. The criteria were: a
+clear deﬁnition of LBP and/or sciatica; a control group
+(if applicable) that is well described and relevant
+(consisting of similar or internal groups subjected to
+less exposure to sitting); a response rate reported if a
+questionnaire was used to gather data; exposure de-
+scribed or at least graded; and a statistical measure of
+association (OR or Risk Ratio).
+After applying the evaluation criteria, 17 articles
+were excluded from the ﬁnal review. Of the 17 articles,
+5 articles were experimental studies [ 27, 36, 38, 50, 66]
+and 12 articles were observational studies [ 11, 12, 26,
+28, 33–35, 47, 52, 63, 70, 73]. The main exclusion cri-
+teria pertained to the lack of a statistical measure of
+association. Ten of the 12 observational studies were
+excluded for this reason [ 11, 26, 28, 33–35, 47, 52, 63,
+70]. Two epidemiological studies were excluded, one
+because of small sample size [ 12] and one because the
+focus was placed on psychosocial factors rather than on
+physical work-related factors while sitting [ 73].
+The remaining 24 publications were critically
+reviewed to measure the possible associations between
+sitting at work and reported LBP or sciatica [ 4–7, 9,
+10, 14, 15, 20, 22, 24, 31, 37–39, 41, 43, 44, 48, 49, 53, 62,
+69, 76].
+Results
+LBP
+Figure 1 depicts the results of studies undertaken be-
+tween 1990 and 2004 that measured the annual prev-
+alence rates of LBP among occupational groups that
+are required to sit for more than half of their work-
+time. The estimated annual prevalence rate of LBP in
+the general population of Europe was used for com-
+parison [61, 77]. European population data was chosen
+as a comparison group because 72% of the studies
+reviewed were conducted in Europe. The average age
+of the populations listed in Fig. 1 was 30–50 years old
+and most of the workers were male. In general, the
+ﬁgure shows a higher annual prevalence rate for those
+occupational groups that spend more than half their
+working day in a sitting position. Commercial travelers
+[62] and ofﬁce workers (in control groups) [ 7, 14]
+showed a lower prevalence rate (25%) than the aver-
+age of annual prevalence rate (38%) found in the
+compared European general population [ 61, 77].
+Tractor drivers reported the highest annual prevalence
+rate, with almost two times the annual prevalence rate
+(72%) of the general population [ 14].
+Twenty-four publications were selected according to
+speciﬁc criteria for a more detailed review of the
+association between presence and/or occurrence of
+LBP and occupational groups in which sitting is the
+major physical requirement. Seventeen of these studies
+were conducted in Europe, [4–7, 9, 10, 14, 20, 22
+, 43, 44,
+48, 49, 54, 62, 72, 76], one was conducted in Asia [ 15],
+one was conducted in Israel, [69] three were conducted
+in Canada, [ 31, 39, 41] and two were conducted in the
+US [ 24, 37]. The studies yielded different types of
+prevalence estimates (i.e., point, period, lifetime);
+however, in the majority of studies, the OR for annual
+prevalence was provided. For the papers that reported
+a signiﬁcant association but did not report an OR, if
+enough information was available, an OR was calcu-
+lated so that all papers could be compared using the
+same measure of association. In general, the deﬁnition
+for LBP was consistent with the deﬁnition for sciatica.
+Most authors described how data had been collected
+and attempted to categorize participants as exposed/
+non-exposed, or even to quantify their exposure. It
+should be noted that for all the studies analyzed, the
+parameter that indicates the greatest exposure (mag-
+nitude or duration) was selected by the authors for
+Eur Spine J (2007) 16:283–298 285
+123
+
+===== PAGE 4 =====
+
+each of the factors described. For instance, Bovenzi
+and Betta [7] provided the OR for three parameters of
+the exposure ‘vibration duration’ such as 5–15, 16–25,
+and greater than 25 years. The later parameter
+(>25 years) was selected for this review. LBP was self-
+reported in all the publications reviewed, with the
+exception of two that used a medical examination [ 22,
+69].
+Table 1 shows the OR for LBP in the occupational
+groups in which sitting is the major physical require-
+ment (accounts for more than half of work-time). The
+occupational group that demonstrated the strongest
+association between sitting and reported LBP was
+helicopter pilots [ 4] (OR=9.0, 90% CI 4.9–16.4), com-
+pared with a control group of non-ﬂying ofﬁcers. Crane
+operators also presented a high OR [ 14]; they had 3.29
+times (95% CI 1.52–7.12) the risk of reporting LBP
+than ofﬁce workers. Bus drivers were the subject of two
+separate studies. Although the OR in both studies was
+not equal, both studies showed a positive association
+between sitting and reported LBP (‡1.5) [9, 44]. In fact,
+Bovenzi and Zadini [ 9] reported an OR of 2.57 (95%
+CI 1.52–4.35) while Magnusson et al. [ 44] reported an
+OR of 1.79 (95% CI 1.16–2.75).
+However, results for the association between sitting
+and LBP in professional drivers (automobile, bus,
+tractor or truck drivers) are somewhat controversial.
+Four out of six studies showed a moderate positive
+association (average OR=2.1) between sitting and LBP
+[7, 9, 22, 44]. The remaining two studies found an
+almost null association between professional driving
+and LBP [ 6, 53].
+Nine studies showed a non-signiﬁcant association
+(OR=£ 1.4 and CI including 1) between sitting and
+LBP [20, 31, 37–39, 41, 43, 53, 76]. For instance, when
+dental hygienists were compared with a control group
+of dental assistants, a small protective effect was evi-
+dent (OR=0.9, 95% CI 0.6–1.4) [ 41], and when dentists
+were compared with ofﬁce workers, no association was
+found (OR=1, 95% CI 0.5–1.9) [ 38].
+Two studies [43, 62] evaluated the effect of extended
+daily periods of driving (>4 h/day and >5 h/day). Each
+study found OR > 1 (0.5–2.7) and OR=3.7 (0.9–14),
+respectively; however, the P value was not signiﬁcant
+in any of the studies ( P>0.05). Working in a seated
+position among steel industry workers produced a
+slight increase in the OR of LBP (OR=1.46, P=0.09);
+however, the OR was not signiﬁcant [49]. In the Danish
+Twin Registry, sitting has a slight protective effect
+(OR=0.95, 95% CI 0.8–1.14). In fact, previous studies
+conducted on populations in Sweden and Canada also
+found that sitting did not increase the odds of LBP [ 31,
+39, 76].
+Overall, the average OR for LBP in the occupations
+presented in Table 1 was 1.99. However, almost half
+the OR’s factored in were not signiﬁcant, weakening
+the supposed effect of sitting [ 6, 20, 36, 37, 39, 41, 43,
+53, 62, 76].
+Currently, the evidence is controversial in ﬁnding an
+association between sitting and occupational LBP. In
+Annual Prevalence of LBP found in studies on occupations required to sit
+for more than half of work-time
+0%
+25%
+50%
+75%
+100%
+Bus drivers  x  blue collar workers
+Commercial travelers
+Crane operators x office w
+orkers
+Dental hygenists x dentalassistantPharmaceutical company workers
+Poli
+ce officer
+s (driv
+ers)
+SalespeopleSecret
+arie
+s 
+Steel
+ indus
+try 
+work
+ers
+Str
+addle-
+carr
+ier dri
+vers x
+ office work
+ers
+Subway train op
+erators x tower
+ operat
+ors
+Tractor 
+drivers
+ x office workers
+Occupational Group
+LBP (%)
+Index Group Control Group
+38%
+Fig. 1 Annual prevalence of
+LBP found in studies of
+occupations where sitting is
+required for more than half of
+work-time
+286 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 5 =====
+
+Table 1 Association between the presence of LBP and occupations requiring sitting for >1/2 of working time
+Study Study design Study population Outcome Exposure Risk indicator OR
+(95% CI or P value)
+Adjusted for
+Bongers
+et al. [ 4]
+Cross-sectional
+cohort
+Helicopter pilots
+(n=133) · Non-ﬂying
+ofﬁcers ( n=228)
+LBP Pilot a helicopter OR=9.0 (4.9–16.4) a Age, height, weight, climate,
+bending forward, twisted
+posture and mental stress
+Boshuizen
+et al. [ 6]
+Cross-sectional
+cohort
+Truck and tractor drivers
+(n=196) · Blue-collar
+workers (n=107)
+LBP Drive a tractor or a
+truck
+OR=1.39 (0.71–2.7)a Age
+Bovenzi and
+Betta [7]
+Cross-sectional
+cohort
+Tractor drivers
+(n=1,155) · Ofﬁce
+workers (n=220)
+LBP (previous
+12 months)
+Drive a tractor OR=2.39 (1.57–3.66) Age, BMI, education, sport
+activity, car driving, marital
+status, mental stress,
+climate, history of trauma
+and postural load
+Bovenzi and
+Zadini [9]
+Cross-sectional
+cohort
+Bus drivers
+(n=234) · Maintenance
+workers (n=125)
+LBP (previous
+12 months)
+Drive a bus OR=2.57 (1.52–4.35) Age, awkward posture, BMI,
+mental load, education,
+smoking, sport activity and
+previous jobs at risk for
+LBP
+Burdorf
+et al. [ 14]
+Cross-sectional Crane operators ( n=94)
+and Straddle-carrier
+drivers (n=95) · ofﬁce
+workers (n=86)
+LBP (previous
+12 months)
+Crane operator OR=3.29 (1.52–7.12) Age, individual
+characteristics, work-
+related risk factors in
+previous jobs and work-
+related risk factors
+pertaining to the current job
+Straddle-carrier
+driver
+OR=2.51 (1.17–5.38)
+Helio¨ vaara
+et al. [ 22]
+Cross-sectional
+cohort
+Professional drivers
+(n=310) · Non-
+professional drivers
+(n=5,363)
+Unspeciﬁed LB
+syndrome
+b
+Occupational
+vehicle driving
+OR=1.83 (1.12–3.0)a Sex, age, body height, BMI,
+previous trauma, physical
+and mental stress, smoking,
+alcohol consumption, no. of
+births (women)
+Liss et al. [ 41] Cross-sectional Dental hygienists
+n=950) · Dental
+assistants (n=108)
+LBP (previous
+12 months)
+Work as a dental
+hygienist
+OR=0.9 (0.6–1.4) Age
+MacFarlane
+et al. [ 43]
+Longitudinal
+cohort
+(population-
+based)
+Workforce population of
+Northwest England
+(n=1,412)
+Occurrence of LBP
+(1 year follow-up)
+Drive a car (> 4 h/
+day)
+OR=1.1 (0.5–2.7) Age
+Magnusson
+et al. [ 44]
+Cross-sectional
+cohort
+Bus drivers ( n=111)
+Truck drivers
+(n=117) · Sedentary
+workers (n=137)
+LBP (previous
+12 months)
+Drive a bus or
+truck
+OR=1.79 (1.16–2.75) None
+Masset and
+Malchaire [49]
+Cross- sectional Steel industry workers
+(n=618)
+LBP (previous
+12 months)
+Work in a seated
+position
+OR=1.46 (P=0.09) Vehicle driving, efforts with
+the shoulders
+Moen and
+Bjorvatn [54]
+Cross-sectional Dentists ( n=96) · Dental
+auxiliaries (n=83) and
+Ofﬁce workers ( n=25)
+LBP (employment
+period)
+Being a dentist OR=1.0 (0.5–1.9) None
+Eur Spine J (2007) 16:283–298 287
+123
+
+===== PAGE 6 =====
+
+Table 1 continued
+Study Study design Study population Outcome Exposure Risk indicator OR
+(95% CI or P value)
+Adjusted for
+Rotgoltz
+et al. [ 69]
+Cross-sectional Pharmaceutical factory
+workers (n=208)
+LBP (previous
+12 months)
+Work in sitting
+position (packing,
+laboratories and
+ofﬁces)
+OR=1.97 (1.37–2.81) Age and sex
+Pietri et al. [ 62] Longitudinal
+cohort
+Commercial travelers
+(n=1,719)
+LBP (previous
+12 months)
+Drive a car ( < 5 h/
+day)
+OR=2.1 (1.3–3.4) None
+1st episode of LBP
+(in 1 year follow-
+up)
+Drive a car (>5 h/
+day)
+OR=3.7 (0.9–14.0) None
+Hartvigsen
+et al. [ 20]
+Twin-control Danish Twin Registry LBP Sitting only 0.95 (0.8–1.14) None
+Vingard
+et al. [ 76]
+Case-control Those living in the
+municipality of
+Norrtalje, Sweden and
+who sought care
+treatment for LBP
+LBP Sitting > 5 h/day RR men: 1.1 (0.7–1.7);
+women: 0.7 (0.4–1.1)
+Age, gender
+Kopec
+et al. [ 31]
+Cohort Canadian National
+Population Health
+Survey
+LBP Sitting only 1 (referent) Adjusted sample to match
+the Canadian population
+Miyamoto
+et al. [ 53]
+Cross-sectional Truck Drivers from a
+large chemical industry
+company in Toyko
+LBP Sitting only 1.3 (0.6–2.7) Age, height, weight, BMI,
+working period
+Levangie [37] Case-control Patients referred to
+physical therapists for
+treatment of LBP
+(n=150) · patients being
+treated by phys
+therapists for an
+unrelated problem
+(n=138)
+LBP Sitting < 4 h-referent Geographic distribution,
+socioeconomic group,
+health care access,
+willingness to seek medical
+attention
+4–6 h: 1.54 (0.81–2.91)
+6–8 h: 0.71 (0.37–1.35)
+>9 h: 1.42 (0.73–2.78)
+Liira et al. [ 39] Cross-sectional All residents outside
+institutions and Indian
+reservations in Ontario,
+Canada with White
+Collar Occupations
+LBP Sitting 1.08 (0.71–1.63) Sex, age, smoking
+a90% Conﬁdence interval
+b‘‘Unspeciﬁed low back syndrome’’ was deﬁned by the authors as low back diagnoses other than sciatica (i.e., spondylolisthesis, spondyloarthosis, c hronic muscular pain and
+others)
+288 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 7 =====
+
+fact, the more recent studies (1995–2004) almost
+unanimously found no association between sitting
+alone and LBP [ 20, 31, 37–39, 41, 43, 53, 76].
+Table 2 summarizes the studies that examine the
+association between the presence and/or occurrence of
+LBP and exposure to WBV among occupations that
+require sitting for more than half of working time. All
+studies used vibration dose as the exposure measured;
+however, some studies also provided the OR for
+vibration magnitude [5, 7, 9] and/or duration [4, 5, 7, 9].
+To calculate vibration dose, the studies used the for-
+mula S a
+i
+2. tI, where ai is the estimated vector sum of
+accelerations measured on the vehicle and tI is the time
+in years (or hours in the case of helicopter pilots). In all
+studies, vibration measurements on the vehicles were
+performed according to the recommendations of the
+international standard ISO 2631-1 [ 23]. Seven of the
+nine studies included in Table 2 showed a positive
+association between LBP and exposure to WBV [ 4–7,
+9, 15, 39]. The occupational group that shows the
+strongest association between LBP and vibration dose
+is helicopter pilots, with OR=6.6 (90% CI 2.9–15.1). It
+is noteworthy that this was the only occupational group
+that used total hours as a measurement for duration of
+exposure because pilots systematically document their
+ﬂight hours in a ﬂight log. Both the magnitude and the
+duration were positively associated with LBP. How-
+ever, duration had a stronger impact on increasing the
+risk of LBP in each of the studies (OR>2.5) [ 5, 7, 9].
+One study, conducted by Liira [ 39], showed a small
+association between the presence of LBP and the
+duration of the WBV (OR=1.71). In Chen’s study,
+when the analysis of the dose–response of WBV was
+conducted, the results showed an increase in the risk of
+LBP of 3.7 as the daily vibration dose was increased
+[15].
+Table 3 summarizes the studies that examine the
+association between the presence and/or occurrence
+of LBP and exposure to awkward posture among
+occupations that require sitting for more than half of
+work-time. Four studies [ 7, 9, 10, 48] were included in
+Table 3. Bovenzi and Zadini [ 9] showed that the
+reporting of LBP increased when exposure to awkward
+postures increased (OR=2.29, 95% CI 1.22–4.29) for
+bus drivers when compared with maintenance workers.
+With exposure to frequent awkward postures, Bovenzi
+and Betta [7] found that tractor drivers are almost ﬁve
+times more likely to report LBP than ofﬁce workers.
+Bridger [10] showed that ‘‘sitting forward’’ (as opposed
+to sitting up straight) resulted in a large increase in
+LBP (OR=6.02), and that further increments resulted
+in smaller increases in the OR (3.15) of LBP. Mas-
+saccesi [48] showed that exposure to awkward posture
+(trunk ﬂexed, bent, and twisted) in drivers of Road
+Washing Vehicles increased the OR of LBP to 10.59.
+As indicated in Table 4, only one study measured
+associations for reported LBP and for the combined
+effects of exposure to WBV and awkward postures.
+This study was done by Bovenzi and Betta, [7] who also
+looked at agricultural tractor drivers exposed to WBV
+and the association of postural stress with the occur-
+rence of chronic LBP. The tractor drivers were 4.56
+times (95% CI 2.59–8.03) more likely to report LBP
+compared with the control group. Bovenzi and Betta
+[7] categorized postural stress by rating the workers’
+perception of the frequency and duration of each
+posture. They calculated the frequency using a ﬁve-
+item index scale assigning a value from 0 (never) to 4
+(very often). Following this step, a mean value was
+used to determine the duration by calculating the
+postural indices during a typical workday. Finally, they
+categorized the average postural load into one of the
+four grades described on the table (mild = 0–0.99,
+moderate = 1–1.99, hard = 2–2.99, and very hard = 3–
+4). The results of this study show that after combining
+the exposure factors, the risk of the occurrence of
+chronic LBP increases as vibration dose and postural
+load increase. In fact, the risk for chronic back pain
+increases more than threefold compared with the
+unexposed group (ofﬁce workers).
+Sciatica
+A parallel literature review was conducted to ﬁnd the
+association between sitting for more than half of
+the work-time and the presence of sciatica. Using the
+inclusion criteria mentioned earlier, ﬁve studies were
+included [ 4, 6, 7, 9, 24]. These studies collected infor-
+mation about the prevalence of sciatica using ques-
+tionnaires that asked about the presence of back pain
+with radiation to a leg [ 24]. Table 5 describes the
+prevalence of sciatica in occupations where sitting is
+the major physical requirement with co-exposure fac-
+tors such as WBV and awkward postures. The preva-
+lence rates for reported sciatica in all the occupations
+analyzed were two to three times (OR ranging from
+1.16 to 3.9, 95% CI 0.62–8.71) higher than their cor-
+respondent control groups. However, the prevalence of
+LBP as mentioned above was much higher for all
+occupations compared with the prevalence of sciatica
+pain, except for crane operators [4] (50% prevalence of
+LBP versus a 61% prevalence of sciatica pain).
+Table 6 shows the association between the presence
+of sciatica pain and sitting for more than half of
+working time. The occupational groups that presented
+the strongest association of sitting and reported LBP
+Eur Spine J (2007) 16:283–298 289
+123
+
+===== PAGE 8 =====
+
+Table 2 Association between the presence of LBP and exposure to whole body vibration among occupations that require sitting for >1/2 of working time
+Study Study design Study group Control
+group
+Outcome Vibration dose,
+magnitude and/or
+duration
+Risk indicator OR
+(95% CI)
+Confounders adjusted for
+Bongers
+et al. [ 4]
+Cross-sectional
+cohort
+Helicopter pilots
+(n=133)
+Non-ﬂying
+air force
+ofﬁcers
+(n=228)
+LBP Duration: Total ﬂight
+time/>4,000 h
+OR=13.4 (5.7–32.0)
+a Age, height, weight, climate,
+bending forward, twisted
+posture and mental stressDose: >800–1,200 m 2 h/s4 OR=6.6 (2.9–15.1)a
+Boshuizen
+et al. [ 5]
+Longitudinal
+cohort
+Tractor drivers
+(n=450)
+Agricultural
+workers
+(n=110)
+LBP Magnitude: >0.7 m/s 2 OR=2.10 (1.07–4.1)a Duration of exposure, age,
+height, weight, smoking,
+twisting, lifting, mental stress,
+employing company
+Duration:>10 years OR=3.6 (1.21–11) a
+Dose: >5 year m 2/s4 OR=2.8 (1.64–5.0)a
+Boshuizen
+et al. [ 6]
+Cross-sectional
+cohort
+Truck and tractor
+drivers (n=196)
+Blue-collar
+workers
+(n=107)
+LBP Dose: 15 year m 2/s4 OR=1.96 (1.03–3.7)a Age, mental stress, no. of years
+lifting + twisting, no. of times/
+day lifting + twisting, body
+height, smoking, prolonged
+sitting and time spent looking
+backward
+Bovenzi and
+Zadini [9]
+Cross-sectional
+cohort
+Bus drivers ( n=234) Maintenance
+workers
+(n=125)
+LBP
+(previous
+12 months)
+Magnitude: >0.60 m/s
+2 OR=1.76 (0.86–3.58) Age, awkward posture, BMI,
+mental load, education,
+smoking, sport activity and
+previous jobs at risk for LBP
+Duration: >15 years OR=2.90 (1.54–5.46)
+Dose: >4.5 years m
+2/s4 OR=2.63 (1.35–5.12)
+Bovenzi and
+Betta [7]
+Cross-sectional
+cohort
+Tractor drivers
+(n=1,155)
+Ofﬁce
+workers
+(n=220)
+LBP
+(previous
+12 months)
+Magnitude: >1.25 m/s
+2 OR=2.29 (1.43–3.68) Age, BMI, education, sport
+activity, car driving, marital
+status, mental stress, climate,
+history of trauma and postural
+load
+Duration: >25 years OR=2.74 (1.69–4.45)
+Dose: >30 years m
+2/s4 OR=2.36 (1.48–3.74)
+Magnusson
+et al. [ 44]
+Cross-sectional
+cohort
+Bus drivers ( n=111) Sedentary
+workers
+(n=137)
+LBP
+(previous
+12 months)
+Bus drivers:
+Dose: 48.18 years m 2/s4
+OR=2.0 (0.98–4.1) None
+Truck drivers ( n=117)
+Truck drivers: Dose:
+79.97 years m 2/s4
+Chen et al.
+[15]
+Cross-sectional Taxi drivers N/A-general
+population
+LBP Increment of daily
+vibration exposure by
+each m2/s4 h
+3.7 (1.1–12.2) Age, body mass index,
+professional seniority,
+registration type, seat
+inclination, vehicle engine size,
+use of lumbar support
+Liira et al.
+[39]
+Cross-sectional All Residents outside
+institutions and
+Indian reservations
+in Ontario, Canada
+with White Collar
+Occupations that
+were exposed to
+WBV
+Those from
+the same
+population
+who were
+not
+exposed to
+WBV
+LBP Duration: always or often
+(at least several hours
+per day)
+1.71 (1.09–2.67) Sex, age, smoking
+a90% Conﬁdence interval
+290 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 9 =====
+
+were subway train operators [ 24] and tractor drivers
+[7], with an OR of 3.9 (95% CI 1.7–8.6) and an OR of
+3.9 (95% CI 1.75–8.71), respectively. Taking into
+account that the occupational groups presented in
+Table 6 were exposed to other factors such as WBV
+and awkward postures, these groups will be analyzed
+independently below.
+Table 7 shows the association between vibration
+magnitude, duration of vibration exposure, and total
+vibration dose while sitting with sciatica pain. An
+overall positive association was found between sciatica
+pain and WBV when the OR was greater than or equal
+to 1.5 (OR ‡1.5). There was a signiﬁcant trend of in-
+creased reported presence of sciatica with increased
+vibration dose expressed as a variable derived from the
+duration of exposure and the magnitude of the expo-
+sure.
+Helicopter pilots with a vibration dose greater than
+1,200 m
+2 h/s4 were 5.6 times more likely to have sci-
+atica pain [ 4]. At the same time, tractor drivers with a
+vibration dose greater than 30 years m 2/s4 were 4.14
+times more likely to develop sciatica pain compared
+with ofﬁce workers [ 7]. In contrast with LBP without
+sciatica, the magnitude of vibration presents a greater
+risk for having sciatica pain when compared with
+exposure to long-term vibration [ 5, 7, 9]. For instance,
+Table 3 Association between the presence of LBP and awkward posture among occupations that require sitting for >1/2 of working
+time
+Study Study design Study population Outcome Exposure Risk
+indicator
+OR (95%CI)
+Adjusted for
+Bovenzi and
+Zadini [9]
+Cross-sectional
+cohort
+Bus drivers
+(n=234) · Main-
+tenance workers
+(n=125)
+LBP
+(previous
+12 months)
+Awkward postures OR=2.29
+(1.22–4.29)
+None
+Bovenzi and
+Betta [7]
+Cross-sectional
+cohort
+Tractor drivers
+(n=1,155) · Ofﬁce
+workers (n=220)
+LBP
+(12 month
+prevalence)
+Awkward posture OR=4.56
+(2.59–8.03)
+Age, BMI, education,
+sport activity, car
+driving, marital status,
+mental stress, climatic
+conditions, back trauma
+and total vibration dose
+Bridger
+et al. [ 10]
+Cross-sectional Navy helicopter
+pilots
+LBP For VFF, slightly
+forward posture
+vs. sitting up
+straight
+6.02
+(P < 0.01)
+a
+None (but there were no
+signiﬁcant differences
+based on other
+variables)
+For IF, sitting
+noticeably
+forward vs. sitting
+slightly forward
+3.15
+(P < 0.05)
+a
+Massaccesi
+et al. [ 48]
+Cross-sectional Drivers of road
+washing vehicles
+(sitting in an
+awkward posture)
+(n=38) · Drivers
+of rubbish
+collection vehicles
+(sitting in a
+standard posture)
+(n=39)
+LBP Awkward posture 10.59
+a None
+aOR was not reported in the paper, but enough information was given to calculate the OR
+Table 4 Association between the combined effects of vibration
+dose (years m 2/s4)/postural load and the occurrence of chronic
+LBP
+Total
+vibration
+dose
+(years m2/s4)
+Postural load (grades) a
+1
+(Mild)
+2
+(Moderate)
+3
+(Hard)
+4
+(Very hard)
+5 OR=1.29 OR=1.79 OR=2.50 OR=3.48
+10 OR=1.41 OR=1.96 OR=2.73 OR=3.79
+20 OR=1.55 OR=2.15 OR=2.99 OR=4.16
+30 OR=1.63 OR=2.27 OR=3.16 OR=4.39
+40 OR=1.70 OR=2.36 OR=3.29 OR=4.58
+Modiﬁed from Bovenzi and Betta [ 7]. Low-back disorders in
+agricultural tractor drivers exposed to whole-body vibration and
+postural stress
+aOR adjusted for age, BMI, education, sport activity, car driving,
+marital status, mental stress, climatic conditions and back trauma
+Eur Spine J (2007) 16:283–298 291
+123
+
+===== PAGE 10 =====
+
+Bovenzi and Zadini [ 9] found a greater associa-
+tion between exposure to a vibration magnitude of
+0.60 m/s2 and sciatica (OR=2.26, 95% CI 1.4–4.49),
+than compared with exposure to a vibration duration of
+more than 15 years (OR=2.06, 95% CI 0.93–4.53).
+Only two studies investigated the independent
+association of awkward postures while sitting with
+the presence of sciatica (Table 8). Although the OR
+was higher than 2 in each study, Bovenzi and Betta
+[7] found that the association was not signiﬁcant
+(95% CI 0.68–7.61). In Bovenzi and Zandini [ 9], the
+conﬁdence interval was not provided, so it is not
+included in the calculation. However, it seems that
+awkward posture at work was associated with the
+presence of back pain with radiation to a leg to a
+lesser extent than WBV.
+Discussion
+The prevalence rates of LBP have been affecting the
+economy of industrialized countries in many ways [ 17,
+19]. As was described in Fig. 1, the prevalence rate of
+reported LBP in those occupations that require the
+worker to sit for the majority of a working day is sig-
+niﬁcantly higher than the prevalence rate of the gen-
+eral population [ 61, 77]. Physical factors, psychosocial
+factors, and individual characteristics contributed to
+these ﬁndings [ 12, 25, 47, 67, 79], but only the physical
+factors will be discussed here.
+Sitting
+Sitting has been a complex topic for researchers of
+LBP. For many years, the sitting position has been
+identiﬁed as one of the major risk factors for devel-
+oping LBP [ 29, 45]. Nachemson and Elfstro ¨ m found
+that body position affects the magnitude of the loads
+on the lumbar spine, and that the magnitude of the
+loads increases markedly when sitting is compared with
+upright standing and well-supported reclining [ 39].
+This ﬁnding created much controversy, and while some
+subsequent lab studies supported this ﬁnding [ 2, 36],
+others have found different results [ 47, 80]. For in-
+stance, the conclusions of Wilke et al. reevaluate the
+assumption that there is an increased presence of
+Table 5 Sciatica prevalence in occupations that require sitting
+for >1/2 of working time
+Occupational groups Sciatica (%)
+Crane operators
+· Ofﬁce workers [ 14]
+61
+27
+Helicopter pilots
+· Non-ﬂying ofﬁcers [ 4]
+12
+6
+Subway train operators
+· Tower operators [ 24]
+22
+8
+Tractor drivers
+· Ofﬁce workers [ 7]
+16
+4
+Table 6 Association between the presence of sciatica pain and occupations that require sitting for >1/2 of working time
+Study Study design Study population Outcome Exposure Risk indicator
+(95% CI)
+Adjusted for
+Bongers
+et al. [ 4]
+Cross-
+sectional
+cohort
+Helicopters pilots
+(n=133) · Non-ﬂying
+ofﬁcers ( n=228)
+Sciatica Pilot a
+helicopter
+OR=3.3
+(4.9–16.4)
+a
+Age, height, weight,
+climate, bending
+forward, twisted posture
+and mental stress
+Boshui-
+zen
+et al. [ 6]
+Cross-
+sectional
+cohort
+Truck and tractor drivers
+(n=196) · Blue-collar
+workers (n=107)
+Sciatica Drive a tractor
+or a truck
+OR=1.16
+(0.62–2.2)
+a
+Age
+Bovenzi
+et al. [ 7]
+Cross-
+sectional
+cohort
+Tractor drivers
+(n=1,155) · Ofﬁce
+workers (n=220)
+Sciatica Drive a tractor OR=3.9
+(1.75–8.71)
+Age, BMI, education,
+sport activity, car
+driving, marital status,
+mental stress, climate,
+history of trauma and
+postural load
+Bovenzi
+and
+Zadini
+[9]
+Cross-
+sectional
+cohort
+Bus drivers
+(n=234) · Maintenance
+workers (n=125)
+Sciatica
+(previous
+12 months)
+Drive a bus OR=2.57
+(1.52–4.35)
+Age, awkward posture,
+BMI, mental load,
+education, smoking,
+sport activity and
+previous jobs at risk for
+LBP
+Johan-
+ning
+[24]
+Cross-
+sectional
+Subway train operators
+(n=492) · Tower
+operators (n=92)
+Sciatica
+(previous
+12 months)
+Operate a
+subway train
+OR=3.9
+(1.7–8.6)
+Age, gender, job title and
+employment duration
+a90% Conﬁdence interval
+292 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 11 =====
+
+higher intradiscal pressure while sitting as opposed to
+erect standing [ 80]. In fact, Rohlmann et al. reports
+that intradiscal pressure is up to 10% less when
+standing [68]. Some studies have reported OR’s as low
+as 0.7 for occupations in which the major physical
+requirement is sitting, indicating that people in these
+occupations may actually have a lower risk of LBP
+than in other occupations [ 37, 76]. However, although
+the rate of LBP among occupations requiring extended
+periods of sitting may not be as high as the rate of LBP
+among more strenuous occupations, Lee et al. reported
+that this group had the highest hospitalization rate for
+LBP, indicating that when low back injuries occur
+among persons in these occupations, these injuries tend
+to be more severe [ 35]. Hence, the risk of prolonged
+sitting in the workplace should not be overlooked. A
+deﬁnitive experimental conclusion about the effect of
+sitting on LBP has yet to be conﬁrmed. However, the
+majority of the literature reviewed for this paper has
+shown that sitting by itself does not imply a markedly
+Table 7 Association between the presence of sciatica pain and exposure to whole body vibration among occupations that require
+sitting for >1/2 of working time
+Study Study design Study group Control
+group
+Outcome Vibration dose,
+magnitude and/
+or duration
+Risk indicator
+OR (95% CI)
+Confounders
+adjusted for
+Bongers
+et al. [ 4]
+Cross-
+sectional
+cohort
+Helicopter
+pilots
+(n=133)
+Non-ﬂying
+air force
+ofﬁcers
+(n=228)
+Sciatica Duration: Total
+ﬂight time/
+> 4,000 h
+OR=3.3
+(1.0–10.4)
+a
+Age, height, weight,
+climate, bending
+forward, twisted
+posture and mental
+stress
+Dose:
+>1,200 m
+2 h/s4
+OR=5.6
+(1.5–21.2)a
+Boshuizen
+et al. [ 5]
+Longitudinal
+cohort
+Tractor
+drivers
+(n=450)
+Agricultural
+workers
+(n=110)
+Sciatica Magnitude:
+>0.7 m/s
+2
+OR=1.60
+(0.71–3.6)a
+Duration of exposure,
+age, height, weight,
+smoking, twisting,
+lifting, mental stress,
+employing company
+Duration:
+> 10 years
+OR=1.42
+(0.40–5.1)
+a
+Dose: > 5 year
+m2/s4
+OR=1.59
+(0.84–3.0)a
+Bovenzi and
+Zadini [9]
+Cross-
+sectional
+cohort
+Bus drivers
+(n=234)
+Maintenance
+workers
+(n=125)
+Sciatica
+(previous
+12 months)
+Magnitude:
+>0.60 m/s
+2
+OR=2.26
+(1.4–4.49)
+Age, awkward
+posture, BMI, mental
+load, education,
+smoking, sport
+activity and previous
+jobs at risk for LBP
+Duration:
+>15 years
+OR=2.06
+(0.93–4.53)
+Dose:
+>4.5 years m
+2/
+s4
+OR=2.28
+(1.19–4.35)
+Bovenzi and
+Betta [7]
+Cross-
+sectional
+cohort
+Tractor
+drivers
+(n=1155)
+Ofﬁce
+workers
+(n=220)
+LBP
+(previous
+12 months)
+Magnitude
+>1.25 m/s2
+OR=3.65
+(1.56–8.53)
+Age, BMI, education,
+sport activity, car
+driving, marital
+status, mental stress,
+climate, history of
+trauma and postural
+load
+Duration
+>25 years
+OR=4.46
+(1.86–10.7)
+Dose >30 years
+m
+2/s4
+OR=4.14
+(1.18–9.61)
+a90% Conﬁdence interval
+Table 8 Association between the presence of sciatica pain and exposure to awkward postures among occupations that require sitting
+for >1/2 of working time
+Study Study
+design
+Study population Outcome Exposure Risk indicator
+OR (95%CI)
+Adjusted for
+Bovenzi and
+Zadini [9]
+Cross-
+sectional
+cohort
+Bus drivers
+(n=234) · Main-
+tenance workers
+(n=125)
+Sciatica
+(previous
+12 months)
+Awkward
+postures
+OR=2.44 None
+Bovenzi and
+Betta [7]
+Cross-
+sectional
+cohort
+Tractor drivers
+(n=1,155) · Of-
+ﬁce workers
+(n=220)
+Sciatica
+(12 month
+prevalence)
+Awkward
+postures
+OR=2.27
+(0.68–7.61)
+Age, BMI, education, sport
+activity, car driving, marital
+status, mental stress,
+climatic conditions, back
+trauma, and total vibration
+dose
+Eur Spine J (2007) 16:283–298 293
+123
+
+===== PAGE 12 =====
+
+increased association with the presence and/or occur-
+rence of reported or examined LBP. In fact, a consid-
+erably stronger association was found only when the
+occupational groups studied were exposed to WBV
+and/or awkward postures while sitting [ 4–7, 9, 10, 15,
+39, 48]. It is still unknown if other confounders as
+psychosocial factors may affect the strength of the
+association between sitting alone and LBP.
+Sitting and exposure to WBV
+One of the major co-exposure factors for all the
+occupations analyzed was WBV. There is a clear
+indication of an increased risk of reported LBP and/or
+sciatica in occupations with exposure to WBV while
+sitting, mostly in professional driving occupations [4, 6–
+9, 12, 15, 22]. Many authors have carefully reviewed the
+risk effect expressed as increased associations from
+exposure to WBV and LBP, and have concluded that
+there is indeed an association between WBV and LBP
+[8, 18, 40, 60]. However, there is limited evidence
+regarding a dose–response relationship. There are
+many confounding factors that interfere with the rela-
+tionship between LBP and WBV exposure. A worker’s
+age, duration of exposure, history of LBP, previous
+exposure, and even posture while being exposed to
+WBV seems to affect that relationship [ 4, 6, 9, 60, 71].
+Chen et al. [ 15] found that daily increments of the
+vibration dose by each m
+2/s4-hour resulted in an in-
+crease in the OR of LBP by 3.7 even after controlling
+for age and professional seniority, which is almost
+analogous to duration of exposure [ 15].
+Even though the number of studies that use control
+and exposure groups to analyze the association be-
+tween LBP and WBV is limited, there is strong evi-
+dence of a major association between WBV while
+sitting and LBP/sciatica [ 4–7, 9]. For instance, occu-
+pational groups such as helicopter pilots have shown a
+very high OR (OR=6.6, 90% CI 2.9–15.1) for a vibra-
+tion-dose exposure greater than 800 m
+2 h/s4 after
+adjusting for awkward postures [4]. Only one study [12]
+did not ﬁnd an association between sitting plus WBV
+and LBP; however, the low response rate in that study
+compromised its quality. Therefore, this does not affect
+the conclusion that there is a strong relationship be-
+tween sitting plus WBV and LBP.
+In addition to dose, the magnitude and duration of
+exposure have also been found to be important expo-
+sure factors for the presence of occupational LBP and
+sciatica. The articles reviewed showed that the dura-
+tion of the exposure had a slightly stronger association
+with the presence of LBP than did magnitude of
+vibration [ 5, 7, 9]. This ﬁnding suggests a cumulative
+effect. As the duration of exposure increases, the risk
+of LBP increases. Bovenzi and Betta [ 7] found that
+prolonged tractor driving and exposure to WBV were
+the factors most associated with chronic LBP and sick
+leave. They suggested an excessive accumulated
+vibration dose effect as the main reason, which is in
+agreement with the Boshuizen ﬁndings [ 6]. However,
+in the case of sciatica the pattern is not the same. The
+duration of the exposure was constantly related to
+sciatica to a lesser extent than vibration magnitude for
+all the occupations [ 5, 9]. The reasons for such results
+are not clear. Moreover, it is important to understand
+that in both cases either duration or magnitude were
+positively associated with the presence of reported
+LBP or sciatica symptoms. It is also important to take
+into account that the recommended ISO standards did
+not reveal any preventive health effect. Even with
+following ISO recommendations, the levels of vibra-
+tion magnitude to which most drivers are exposed
+seems to be higher than the recommended maximum
+level of exposure, especially when exposed for long
+periods of time. Many authors argue that these rec-
+ommendations should be reviewed [ 4, 6, 7].
+Sitting and awkward posture
+It has been postulated that sustained awkward seating
+posture (lordosed or kyphosed, overly arched, or
+slouched) can result in higher intradiscal pressure and
+may be injurious to spinal postural health [ 64].
+Therefore, awkward postures while sitting have been
+described as possible risk factors for the presence of
+LBP [12, 25, 30, 71, 80]. Many experimental studies [ 2,
+30] have demonstrated that postural changes affect
+spinal loads. Keyserling et al. [ 30] used a computer-
+aided system to investigate trunk posture during work
+by measuring the time spent in neutral and non-neutral
+postures. Their results suggested that by controlling
+non-neutral trunk posture, the risk of developing back
+pain on industrial jobs can be reduced. Non-industrial
+occupations such as professional drivers, dentists, and
+helicopter pilots are also potentially exposed to awk-
+ward postures. However, only four epidemiological
+studies showed the associated risk of being exposed to
+awkward postures and having LBP and/or sciatica [7, 9,
+10, 48]. The results of these studies conﬁrms that in the
+case of bus drivers [9], tractor drivers [7], road washing
+vehicle [48] drivers, and helicopter pilots [
+10], the risk
+of having LBP increases due to awkward posture while
+driving. The Road Washing Vehicle drivers have the
+highest OR of all the occupations (OR=10.59) [ 48]. It
+may be important to note that these drivers are ex-
+posed to trunk ﬂexion, bending, and twisting, whereas
+294 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 13 =====
+
+the other occupational groups are exposed to only one
+of these factors. Hence, ﬂexion, bending, and twisting
+may be more detrimental than only ﬂexion. The
+question to be asked in this case is if the observed
+adverse effects of driving in these studies should be
+attributed to the exposure to awkward posture alone or
+to a combination of prolonged sitting, twisting, and
+bending postures, once sitting per se was not investi-
+gated.
+A proposed model
+The literature reviewed has indicated an increased risk
+of LBP and sciatica for individuals in those occupations
+that require prolonged sitting (deﬁned as sitting for
+more than half of a working day). However, the risk
+increases after combining factors such as WBV and
+awkward postures. In fact, for all the occupations
+studied, these co-exposure factors were the variables
+that led to a signiﬁcantly increased risk. The fact of
+being seated for an extended period does not signiﬁ-
+cantly demonstrate an impressive risk of having LBP
+and/or sciatica. Bovenzi and Betta [ 7] compared a
+group of agricultural tractor drivers with a group of
+ofﬁce workers. Both groups were exposed to static load
+due to prolonged sitting. However, only the tractor
+drivers group was exposed to the combined factors of
+WBV and awkward posture. They found that tractor
+drivers were 2.39 times more likely to report LBP than
+ofﬁce workers (OR=2.39, 95% CI 1.57–3.66). The
+association was similar (OR=2.36, 95% CI 1.48–3.74)
+when they looked at WBV while sitting (adjusted for
+awkward posture). The association increased when
+postural load was analyzed adjusting for vibration dose
+(OR=4.56, 95% CI 2.59–8.03).
+A model was constructed based on WBV and awk-
+ward postures (Fig. 2). The model aims to describe
+how the risk effect of prolonged sitting increases sig-
+niﬁcantly as other co-exposure factors (in this case
+WBV and awkward postures) play a role. As such, just
+the fact of sitting probably does not present a risk until
+the worker is exposed to a certain level of WBV and/or
+an awkward posture. When these co-exposure factors
+are combined, the risk for reporting LBP and/or sci-
+atica increases (Fig. 2). Bovenzi and Betta [ 7] tried to
+demonstrate this ﬁnding after analyzing the combined
+effect of postural load and total vibration dose. They
+found, as mentioned above (Table 4), that the combi-
+nation of vibration dose and postural load increases the
+risk of reporting LBP. In fact, there was a linear trend
+of increasing prevalence of LBP as the combined effect
+increases, perhaps demonstrating a dose–response
+relationship.
+It could be argued that this model has many limi-
+tations due to the fact that LBP is multi-factorial in its
+origin. Through this literature review, some physical
+(mechanical) factors (WBV, awkward posture, and a
+combination of both) were identiﬁed that are associ-
+ated with the occupations performed while sitting.
+However studies have shown that there are other risk
+factors for LBP to which workers are exposed during
+the time period when they are sitting or not sitting,
+such as manual material handling or lifting activities, or
+psychosocial factors.
+SITTING + AWKWARD POSTURES + WBV
+SITTING + 
+WHOLE BODY VIBRATION
+SITTING + 
+AWKWARD POSTURE
+SITTING  
+Risk for having LBP
+Fig. 2 The risk for having low
+back pain while sitting
+increases signiﬁcantly as the
+combination of physical
+factors such as exposure to
+whole body vibration and
+awkward posture plays an
+additive effect
+Eur Spine J (2007) 16:283–298 295
+123
+
+===== PAGE 14 =====
+
+Summary
+No previous research has been reported that investi-
+gated the sitting posture with respect to LBP and sciatica
+in a manner similar to this literature review, so no direct
+comparisons can be made. However, it could be argued
+that the conclusions of this paper, as well as of this
+model, have some limitations due to the fact that LBP is
+multi-factorial in its origin. Through this literature re-
+view, an association was made between some work-re-
+lated factors while sitting (WBV, awkward posture, and
+the combination of both) and reported LBP and sciatica.
+A quantitative determination of how much exposure to
+these risk factors (WBV and awkward posture) would
+alter the risk of occupational-related LBP was not con-
+ducted (dose–response relationship). Just being seated
+on the job is not a risk factor; sitting becomes risky when
+combined with other risk factors. There is a lack of re-
+search on how much the risk increases for all popula-
+tions. Other individual or psychosocial risk factors that
+have been found to be predictive of LBP were not
+studied in this literature review. Thus, no conclusions can
+be made about the interactions between these factors
+while sitting and the presence of LBP/sciatica.
+Conclusion and implications
+More epidemiological studies are needed to provide
+clear evidence of the association between sitting and
+occupational LBP. However, our review suggests the
+following conclusions:
+• Sitting by itself does not show an increased associ-
+ation with the presence of reported LBP.
+• Sitting in combination with other co-exposures such
+as WBV and awkward posture does increase the
+association with the presence of LBP.
+• Sitting in combination with WBV and awkward
+posture seems to have the strongest association
+with the presence of LBP. However, this conclusion
+is based on only one study whose results have not
+since been replicated. Hence more studies are
+needed to conﬁrm this hypothesis.
+• Occupational groups exposed to WBV while sitting
+are at an increased risk of having LBP. Also, the
+inﬂuence of the duration of the exposure seems
+more important than the magnitude of the expo-
+sure, suggesting a cumulative effect.
+• Although awkward posture while sitting has not
+been as well investigated as WBV, the results of the
+preliminary research reveal a strong association
+with the presence of LBP. Thus, occupational
+groups exposed to awkward postures while sitting
+have an increased risk of having LBP. However,
+further research is needed on this topic due to the
+lack of valid and reliable instruments for its mea-
+surement.
+• The interaction of factors such as sitting, WBV, and
+awkward posture should also be carefully analyzed
+in terms not only of their association with LBP, but
+also of their dose–response.
+• Awkward posture and WBV have been previously
+associated with LBP, even without sitting. Further
+research should be conducted to probe if sitting
+adds to the risk of LBP.
+References
+1. Andersson GBJ (1981) Epidemiologic aspects of low-back
+pain in industry. Spine 6(1):53–60
+2. Andersson GBJ, O ¨ rtengren R (1974) Myoelectric back
+muscle activity during sitting. Scand J Rehabil Med 3:73–90
+3. Black K, Lis A, Nordin M (2001) Association between sitting
+and occupational low back pain. In: Grammer symposium,
+Ulm, Germany. Ergomechanics, Chap. 1, pp 11–35
+4. Bongers PM, Hulshof CTJ, Dijkstra L, Boshuizen HC (1990)
+Back pain and exposure to whole body vibration in heli-
+copter pilots. Ergonomics 33(8):1007–1026
+5. Boshuizen HC, Bongers PM, Hulshof CTJ (1990) Self-re-
+ported back pain in tractor drivers exposed to whole body
+vibration. Int Arch Occup Environ Health 62:109–115
+6. Boshuizen HC, Bongers PM, Hulshof CTJ (1992) Self-re-
+ported back pain in fork-lift truck and freight-container
+tractor drivers exposed to whole body vibration. Spine
+17(1):59–65
+7. Bovenzi M, Betta A (1994) Low-back disorders in agricul-
+tural tractor drivers exposed to whole body vibration and
+postural stress. Appl Ergon 25(4):231–241
+8. Bovenzi M, Hulshof CTJ (1999) An update review of epi-
+demiologic studies on the relationship between exposure to
+whole body vibration and low back pain (1986–1997). Int
+Arch Occup Environ Health 72:351–365
+9. Bovenzi M, Zadini A (1992) Self-reported low back symp-
+toms in urban bus drivers exposed to whole body vibration.
+Spine 17(9):1048–1059
+10. Bridger RS, Groom MR, Jones H, Pethybridge RJ, Pullinger
+N (2002) Task and postural factors are related to back pain
+in helicopter pilots. Aviat Space Environ Med 73:805–811
+11. Brown JJ, Wells GA, Trottier AJ et al (1998) Back pain in a
+large Canadian police force. Spine 23(7):821–827
+12. Burdorf A, Zondervan H (1990) An epidemiological study of
+low-back in crane operators. Ergonomics 33(8):981–987
+13. Burdorf A (1992) Exposure assessment of risk factors for
+disorders of the back on occupational epidemiology. Scan-
+dinavian Work Environ Health 18:1–9
+14. Burdorf A, Naaktgeboren B, deGroot HCWM (1993)
+Occupational risk factors for low back pain among sedentary
+workers. J Occup Med 35(12):1213–1220
+15. Chen JC, Chang WR, Shih TS, Chen CJ, Chang WP, Den-
+nerlein JT, Ryan LM, Christiani DC (2004) Using ‘exposure
+prediction rules’ for exposure assessment: an example on
+whole-body vibration in taxi drivers. Epidemiol 15(3):293–
+299
+296 Eur Spine J (2007) 16:283–298
+123
+
+===== PAGE 15 =====
+
+16. Dainoff MJ (1999) Ergonomics of seating and chairs. In:
+Salvendy C (ed) Handbook of human factors and ergo-
+nomics, chap. 97. CRC Press, Boca Raton
+17. Frymoyer JW, Cats-Baril WL (1991) An overview of the
+incidences and costs of low back pain. Orthop Clin North
+Am 22(2):263–271
+18. Grifﬁn MJ (1978) The evaluation of vehicle vibration and
+seats. Appl Ergon 9(1):15–21
+19. Guo HR, Tanaka S, Cameron LL et al (1995) Back pain
+among workers in United States: National estimates and
+workers at high risk. Am J Ind Med 28:591–602
+20. Hartvigsen JK, Kyvik KOP, Leboeuf YC, Lings S, Bakketeig
+L (2003) Ambiguous relation between physical workload and
+low back pain: a twin contol study. Occup Environ Med
+60:109–114
+21. Hartvigsen J, Leboeuf YC, Lings S, Corder EH (2000) Is
+sitting-while-at-work associated with low back pain? A sys-
+tematic critical literature review. Scand J Public Health
+28(3):230–239
+22. Helio¨ vaara M, Ma¨ kela¨ M, Knekt P et al (1991) Determi-
+nants of sciatica and low back pain. Spine 16(6):608–614
+23. International Organization for Standardization (1985) Guide
+for the evaluation of human exposure to whole body vibra-
+tion. Part 1: General requirements, 1st edn. ISO, Geneva.
+1985:ISO 2631–1
+24. Johanning E (1991) Back disorders and health problems
+among subway train operators exposed to whole body
+vibration. Scand J Work Environ Health 17:414–419
+25. Johanning E (2000) Evaluation and management of occu-
+pational low back disorders. Am J Ind Med 37:94–111
+26. Johanning E, Bruder R (1998) Low back disorders and
+dentistry—stress factors and ergonomic intervention. In:
+Murphy DC (ed) Ergonomics and the dental care worker.
+Washington DC, pp 355–373
+27. Johanning E, Wilder DG, Landrigan PJ, Pope MH (1991)
+Whole body vibration exposure in subway cars and review of
+adverse health effects. J Occup Med 33(5):605–612
+28. Kamwendo K, Linton SJ, Moritz U (1991) Neck and shoul-
+der disorders in medical secretaries. Scand J Rehabil Med
+23:127–133
+29. Kelsey JL (1975) An epidemiological study of the relation-
+ship between occupations and acute herniated lumbar
+intervertebral discs. Int J Epidemiol 4(3):197–205
+30. Keyserling WM, Punnet L, Fine LJ (1988) Trunk posture and
+back pain: identiﬁcation and control of occupational risk
+factors. Appl Ind Hyg 3(3):87–92
+31. Kopec JA, Sayre EC, Esdaile JM (2004) Predictors of back
+pain in a general population cohort. Spine 29(1):70–78
+32. Kroemer KHE, Kroemer HB, Kroemer-Ebert KE (1994)
+Ergonomics: how to design for ease and efﬁciency, Chap. 8.
+Prentice-Hall, Englewood Cliffs
+33. Kumar A, Varghese M, Mohan D et al (1999) Effect of
+whole body vibration on the low back. Spine 24(23):2506–
+2515
+34. Leclerc A, Tubach F, Landre MF, Ozguler A (2003) Personal
+and occupational predictors of sciatica in the GAZEL co-
+hort. Occup Med 53:384–391
+35. Lee P, Helewa A, Goldsmith CH, Smythe HA, Stitt LW
+(2001) Low back pain: prevalence and risk factors in an
+industrial setting. J Rheumatol 28(2):346–351
+36. Lehman KR, Psihogios JP, Meulenbroek GJ (2001) Effects
+of sitting versus standing and scanner type on cashiers.
+Ergonomics 44(7):719–738
+37. Levangie PK (1999) Association of low back pain with self-
+reported risk factors among patients seeking physical ther-
+apy services. Phys Ther 79(8):757–766
+38. Li G, Haslegrave CM (1999) Seated postures for manual,
+visual and combined tasks. Ergonomics 42(8):1060–1086
+39. Liira JP, Shannon HS, Chambers LW, Haines TA (1996)
+Long-term back problems and physical work exposures in
+the 1990 Ontario Health Survey. Am J Public Health
+86(3):382–387
+40. Lings S, Leboeuf-Yde C (2000) Whole body vibration and
+low back pain: a systematic, critical review of the epidemi-
+ological literature 1992–1999. Int Arch Occup Environ
+Health 73:290–297
+41. Liss G, Jesin E, Kusiak A, White P (1995) Musculoskeletal
+problems among Ontario dental hygienists. Am J Ind Med
+28:521–540
+42. Lu JLP (2003) Risk factors for low back pain among Filipino
+manufacturing workers and their anthropometric measure-
+ments. Appl Occup Environ Hyg 18(3):170–176
+43. Macfarlane G, Thomas E, Papageorgiou AC et al (1997)
+Employment and physical work activities as predictors of
+future low back pain. Spine 22(10):1143–1149
+44. Magnusson ML, Pope MH, Wilder DG, Areskoug B (1996)
+Are occupational drivers at an increased risk for developing
+musculoskeletal disorders? Spine 21(6):710–717
+45. Magora A (1972) Investigation of the relation between low
+back pain and occupation. 3. Physical requirements: sitting,
+standing and weightlifting. Scand J Rehabil Med 41:5–9
+46. Maniadakis N, Gray A (2000) The economic burden of back
+pain in the UK. Pain 84:95–103
+47. Marras WS, Lavender SA, Leurgans SE et al (1995) Bio-
+mechanical risk factors for occupationally related low back
+disorders. Ergonomics 38(2):377–410
+48. Massaccesi M, Pagnottaa A, Soccettia A, Masalib M, Ma-
+sieroc C, Grecoa F (2003) Investigation of work-related
+disorders in truck drivers using RULA method. Appl Ergon
+34(4):303–307
+49. Masset D, Malchaire J (1994) Epidemiologic aspects and
+work-related factors in the steel industry. Spine 19(2):143–
+146
+50. Masset D, Malchaire J, Lemoine M (1993) Static and dy-
+namic characteristics of the trunk and history of low back
+pain. Int J Ind Ergon 11:279–290
+51. Merlino LA, Rosecrance JC, Anton D, Cook TM (2003)
+Symptoms of musculoskeletal disorders among apprentice
+contruction workers. Appl Occup Environ Hyg 18(1):57–64
+52. Miranda H, Viikari-Juntura E, Martikainen R, Takala EP,
+Riihimaki H (2002) Individual factors, occupational loading,
+and physical exercise as predictors of sciatic pain. Spine
+27(10):1102–1108
+53. Miyamoto M, Shirai Y, Nakayama Y, Gembun Y, Kaneda K
+(2000) An epidemiologic study of occupational low back pain
+in truck drivers. J Nippon Med Sch = Nihon Ika Daigahu
+Zasshi 67(3):186–190
+54. Moen BE, Bjorvatn K (1996) Musculoskeletal symptoms
+among dentists in a dental school. Occup Med 46:65–68
+55. Murphy PL, Volinn E (1999) Is occupational low back pain
+on the rise? Spine 24(7):691–697
+56. Nachemson A, Elfstro ¨ m G (1970) Intravital dynamic pres-
+sure measurements in lumbar discs. Scand J Rehabil Med
+1(Suppl):1–40
+57. NIOSH (1989) Proposed National strategy for the preven-
+tion of musculoskeletal injuries. US Department of Health
+and Human Services, NIOSH 89–129
+58. NIOSH (1997) Musculoskeletal disorders and workplace
+factors: a critical review of epidemiologic evidence for work-
+related musculoskeletal disorders of the neck, upper
+extremity, and low back. Pub 97–141. Department of Health
+and Human Services, DHHS
+Eur Spine J (2007) 16:283–298 297
+123
+
+===== PAGE 16 =====
+
+59. O*NET 5.1 [database online]. US Department of Labor:
+National O*NET Consortium; 2004. Available at http://
+www.onetcenter.org/database.html. Accessed April 11, 2004
+60. O¨ zkaya N, Willems B, Goldsheyder D, Nordin M (1994)
+Whole body vibration exposure experienced by subway train
+operators. J Low Freq Noise Vib 13(1):13–18
+61. Papageorgiou AC, Croft PR, Ferry S et al (1995) Estimating
+the prevalence of low back pain in the general population:
+evidence from the South Manchester Back Pain Survey.
+Spine 20(17):1889–1894
+62. Pietri F, Leclerc A, Boitel L et al (1992) Low-back pain in
+commercial travelers. Scand J Work Environ Health 18:52–58
+63. Porter JM, Gyi DE (2002) The prevalence of musculoskel-
+etal troubles among car drivers. Occup Med 52(1):4–12
+64. Pynt J, Higgs J, Mackey M (2002) Milestones in the evolu-
+tion of lumbar spinal postural health in seating. Spine
+27(19):2180–2189
+65. Quebec Task Force on Whiplash-Associated Disorders
+(1995) Critical appraisal form. Spine 20:1S–73S
+66. Reinecke SM, Hazard RG, Coleman K, Pope MH (2002) A
+continuous passive lumbar motion device to relieve back
+pain in prolonged sitting. In: Kumar S (ed) Advances in
+industrial ergonomics and safety IV. Taylor and Francis,
+London, pp 971–976
+67. Riihima¨ ki H (2002) Low-back pain, its origin and risk indi-
+cators. Scand J Work Environ Health 17:81–90
+68. Rohlmann A, Claes LE, Bergmann G, Graichen F, Neef P,
+Wilke HJ (2001) Comparison of intradiscal pressures and
+spinal ﬁxator loads for different body positions and exercises.
+Ergonomics 44(8):781–794
+69. Rotgoltz J, Derazne E, Froom P et al (1992) Prevalence of
+low back pain in employees of a pharmaceutical company.
+Isr J Med Sci 28:615–618
+70. Rundcrantz BL, Johnsson B, Moritz U (1991) Pain and
+discomfort in the musculoskeletal system among dentists.
+Swed Dent J 15:219–228
+71. Seidel H, Heide R (1986) Long-term effects of whole body
+vibration: a critical survey of the literature. Int Arch Occup
+Environ Health 58:1–26
+72. Shinozaki T, Yano E, Murata K (2001) Intervention for
+prevention of low back pain in Japanese forklift workers.
+Am J Ind Med 40(2):141–144
+73. Skov T, Borg V, Orhede E (1996) Psychosocial and physical
+risk factors for musculoskeletal disorders of the neck,
+shoulders, and lower back in salespeople. Occup Environ
+Med 53(5):351–356
+74. Toren A (2001) Muscle activity and range of motion during
+active trunk rotation in a sitting posture. Appl Ergon 32:583–
+591
+75. Van Deursen LL, Patijn J, Brouwer R et al (1999) Sitting
+and low back pain: the positive effect of rotatory dynamic
+stimuli during prolonged sitting. Eur Spine J 8:187–193
+76. Vingard E, Alfredsson L, Hagberg M, Kilbom A, Theorell T,
+Waldenstrom M, Hjelm EW, Wiktorin C, Hogstedt C (2000)
+To what extent do current and past physical and psychosocial
+occupational factors explain care-seeking for low back pain
+in a working population? Results from the Musculoskeletal
+Intervention Center-Norrtalje Study. Spine 25(4):493–500
+77. Walsh K, Cruddas M, Coggon D (1992) Low back pain in
+eight areas of Britain. J Epidemiol Commun Health 46:227–
+230
+78. Webster BS, Snook S (1990) The cost of compensable low
+back pain. J Occup Med 32:13–16
+79. Wells R, Moore A, Potvin J, Norman R (1994) Assessment
+of risk factors for development of work-related musculo-
+skeletal disorders. Appl Ergon 25(3):157–164
+80. Wilke HJ, Neef P, Caimi M et al (1999) New in vivo mea-
+surements of pressures in the intervertebral disc in daily life.
+Spine 24(8):755–762
+298 Eur Spine J (2007) 16:283–298
+123
