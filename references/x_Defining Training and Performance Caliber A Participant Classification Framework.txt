@@ -1,0 +1,1589 @@
+===== PAGE 1 =====
+
+Deﬁning Training and Performance Caliber: A Participant
+Classiﬁcation Framework
+Alannah K.A. McKay, Trent Stellingwerff, Ella S. Smith, David T. Martin, I ˜nigo Mujika,
+Vicky L. Goosey-Tolfrey, Jeremy Sheppard, and Louise M. Burke
+Throughout the sport-science and sports-medicine literature, the term “elite” subjects might be one of the most overused and ill-
+deﬁned terms. Currently, there is no common perspective or terminology to characterize the caliber and training status of an
+individual or cohort. This paper presents a 6-tiered Participant Classi ﬁcation Framework whereby all individuals across a
+spectrum of exercise backgrounds and athletic abilities can be classi ﬁed. The Participant Classiﬁcation Framework uses training
+volume and performance metrics to classify a participant to one of the following: Tier 0: Sedentary; Tier 1: Recreationally Active;
+Tier 2: Trained/Developmental; Tier 3: Highly Trained/National Level; Tier 4: Elite/International Level; or Tier 5: World Class.
+We suggest the Participant Classi ﬁcation Framework can be used to classify participants both prospectively (as part of study
+participant recruitment) and retrospectively (during systematic reviews and/or meta-analyses). Discussion around how the
+Participant Classi ﬁcation Framework can be tailored toward different sports, athletes, and/or events has occurred, and sport-
+speciﬁc examples provided. Additional nuances such as depth of sport participation, nationality differences, and gender parity
+within a sport are all discussed. Finally, chronological age with reference to the junior and masters athlete, as well as the
+Paralympic athlete, and their inclusion within the Participant Classi ﬁcation Framework has also been considered. It is our
+intention that this framework be widely implemented to systematically classify participants in research featuring exercise, sport,
+performance, health, and/or ﬁtness outcomes going forward, providing the much-needed uniformity to classi ﬁcation practices.
+Keywords: elite, athlete, terminology, classi ﬁcation system, exercise, recreationally active
+The physiology and performance of athletes are thoroughly
+scrutinized by many audiences, including sport and exercise
+scientists who are interested in the extremes of human perfor-
+mance, the contributions of training and genetics to sport perfor-
+mance, the impact of various strategies or interventions, and the
+potential lessons that could be inferred for the beneﬁt of the general
+community. However, the sports science and sports medicine
+literature, from elite athletes through to sedentary individuals,
+has evolved over time without a common perspective or terminol-
+ogy to characterize the caliber and training status of a participating
+individual or group of individuals. Indeed, the term “elite” subjects
+might be one of the more overused and ill-de ﬁned terms in the
+exercise science literature.
+1 An investigation examining 91 pub-
+lications, which de ﬁned their participants as either “elite” or
+“expert” across a range of sports, found that the range of this
+term encompassed athletes participating in national-level competi-
+tions up to athletes winning medals at major international
+competition.
+2 Terms such as “trained,”“ highly trained, ” and
+“well-trained” also seem to be highly subjective, with variations
+around the participants training load, training history, and the intent
+of the training commitment. 3,4
+There are many beneﬁts to having a standardized framework to
+characterize participants based on an integrated approach to their
+sporting performance/achievements, biometric attributes, training
+exposure, and general ﬁtness level. For example, the basic principle
+of the speciﬁcity of research, which states that the results of a study
+should be applied only to populations and/or scenarios which are
+similar to those involved in the research design, 5 requires objective
+features to de ﬁne the targeted individuals/groups. Comparisons
+across and within studies, which try to identify the similarities or
+differences between members of a sporting or active population,
+require robust de ﬁnitions of the cohort. There is evidence that
+athletic success might be explained by different attributes, or that
+athletic caliber may inﬂuence the response to various interventions.
+For example, although targeted periodization of carbohydrate
+availability has been shown to enhance training adaptation and
+endurance performance in subjects described as “trained ath-
+letes,”
+6,7 these beneﬁts have not been seen when similar interven-
+tions were implemented in “elite” and “highly trained” athletes.8–10
+Similarly, beetroot juice/nitrate is considered an evidence-based
+performance enhancing supplement, 11 based largely on studies in
+lower-caliber athletes, whereas elite athletes do not appear to obtain
+the same bene ﬁts.12,13 Whether these and other observations are
+robust and can be explained by innate biometric differences or by
+the modifying effects of training history and load are of particular
+interest. However, the results of existing and future studies cannot
+be effectively harvested unless there is uniformity around the
+descriptive characteristics and classiﬁcation of athletic populations.
+McKay, Smith, and Burke are with the Mary MacKillop Inst for Health Research,
+and Martin, the School of Behavioural and Health Sciences, Australian Catholic
+University, Melbourne, VIC, Australia. Stellingwerff is with the Inst for Sport
+Excellence, Canadian Sport Inst Paci ﬁc, Victoria, BC, Canada. Stellingwerff and
+Sheppard are with Exercise Science, Physical & Health Education, University of
+Victoria, Victoria, BC, Canada. Mujika is with the Dept of Physiology, Faculty of
+Medicine and Nursing, University of the Basque Country, Leioa, Basque Country,
+Spain, and the Exercise Science Laboratory, School of Kinesiology, Faculty of
+Medicine, Universidad Finis Terrae, Santiago, Chile. Goosey-Tolfrey is with the
+Peter Harrison Centre for Disability Sport, School of Sport Exercise and Health
+Sciences, Loughborough University, Loughborough, United Kingdom. Sheppard is
+also with Canada Snowboard, Whistler, BC, Canada. McKay (alannah.mckay@acu.
+edu.au) is corresponding author.
+317
+International Journal of Sports Physiology and Performance, 2022, 17, 317-331
+https://doi.org/10.1123/ijspp.2021-0451
+© 2022 Human Kinetics, Inc INVITED COMMENTARY
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 2 =====
+
+Early attempts to de ﬁne an elite performer were based on time
+spent practicing a task, with suggestions that 10 years 14 or 10,000
+hours15 are required to achieve expert level. However, such a model
+would imply that anybody can reach the elite level with deliberate
+practice and intent, whereas in an elite sporting context other
+factors such as biological age
+16 and genetics 17 are undoubtedly
+important. Additionally, time-based metrics of training are unlikely
+to be comparable across sports due to the nature of training; for
+example, a sprinter will most likely require fewer training hours
+compared to an endurance cyclist to reach the elite level. Further-
+more, there are numerous examples of action sports athletes who
+have transferred skills gained in one domain to an entirely different
+domain
+18 and have surpassed the top competitors in the sport who
+have had >10,000 hours of training.
+Speciﬁc attempts to classify the training and performance
+caliber of athletes have occurred. Two decades ago, Jeukendrup
+et al19 recognized the misclassiﬁcation of training status in cyclists
+throughout the literature, and attempted to unify classi ﬁcation and
+terminology based on metrics of training and race status (training
+volume, training background, and race days per year), combined
+with quantitative physiological variables (measures of aerobic
+capacity, power output, and ef ﬁcacy). More recently, 2 reviews
+further developed cycling-based classi ﬁcation protocols, terminol-
+ogy, and performance indicators in both male
+4 and female parti-
+cipants.3 These frameworks consist of 5 performance levels, which
+encompass untrained through to professional cyclists, and purpo-
+sely use neutral terminology to avoid the misinterpretation of the
+commonly used subjective terms such as “well-trained” or “elite.”
+Within the cycling speci ﬁc literature, these classi ﬁcation systems
+have been widely adopted and have likely facilitated better com-
+parison and interpretation of scienti ﬁc results. However, these
+classiﬁcation systems are highly speci ﬁc to a single sport and
+rely on extensive physiological and anthropometric data for clas-
+siﬁcation to occur.
+The most extensive attempt at de ﬁning the “elite” athlete was
+completed in 2015, following an examination of the misuse of the
+term in sports psychology research.
+2 Swann and colleagues pro-
+posed that 5 criteria should be used to assess an athlete ’s ability:
+(1) highest performance standard, (2) level of success, (3) years of
+experience, (4) competitiveness of the sport within the athlete ’s
+country, and (5) global competitiveness of the sport, with responses
+used in a mathematical equation to differentiate a “semi-elite”
+athlete from a “world-class” athlete. However, this has yet to be
+established within the exercise sciences/physiology domain, and
+the rigidity of classi ﬁcation does not consider the many nuances
+that are apparent between different sports and athletes.
+The current paper builds upon this previous literature and
+presents a ﬂexible framework that aims to:
+1. Provide a training and performance-based classi ﬁcation sys-
+tem grounded in population statistics, meaning only a tiny
+proportion of participants can reach the top tiered classiﬁcation
+level as in elite sport, with the vast majority of the population
+being either sedentary or recreationally active;
+2. Develop a continuum whereby all participants can be classiﬁed
+across a spectrum of exercise backgrounds and athletic abili-
+ties, from sedentary individuals through to world-class
+athletes;
+3. Develop a framework that can be implemented both prospec-
+tively (ie, as part of study participant recruitment to publica-
+tion) and retrospectively (ie, during systematic reviews and/or
+meta-analyses) to classify participants;
+4. Allow classi ﬁcation to occur without the need for extensive
+physiological, anthropometric, bi omechanical, or skill-based
+testing;
+5. Be a user-friendly resource, which can be implemented with
+research participants across the spectrum of training status/
+sports and across all scienti ﬁc disciplines;
+6. Provide a ﬂexible framework that endures the test of time,
+which can eventually be adapted as sports and athletic ability
+inevitably evolves over time.
+It is our intention that this framework should be widely
+implemented to systematically classify participants in research
+and published articles featuring exercise, sport, performance,
+health, and/or ﬁtness outcomes going forward.
+A New Paradigm for Participant Training
+and Performance Classi ﬁcation
+A framework, presented in Table1, has been developed by a range of
+content/discipline experts to facilitate both prospective and retrospec-
+tive classiﬁcation of individual participants in studies featuring exer-
+cise/training and/or sport performance outcomes. Each author has
+extensive expertise working in elite sporting environments, along
+with extensive academic experience, which allowed the construction
+of a holistic framework whereby individuals are classiﬁed based on
+training and performance metrics into 6 possible tiers. Furthermore,
+we have extended the framework by estimating the percentage of the
+population which might fall into each classiﬁcation. These population
+estimates have been based on both global and continent-speci ﬁc
+statistics to demonstrate how densely populated each of these tiers
+may be, also allowing authors an opportunity to reﬂect on how well
+the framework represents real-life scenarios. We have provided
+calculations and appropriate references for these statistics within
+the Supplementary Material (available online).
+The ﬁrst, most populated tier in this framework (Tier 0: Seden-
+tary) includes individuals who fail to meet the World Health Orga-
+nization’s physical activity standards for adults: >150 minutes of
+moderate activity or >75 minutes of vigorous activity each week.
+20
+Meanwhile, Tier 1: Recreationally Active involves individuals who
+achieve the physical activity standards 20 and may participate in a
+variety of activities and/or sports without a speci ﬁc commitment or
+focus on competition. Several country estimates suggest that between
+48% and 54% of individuals do meet current physical activity
+guidelines,
+21–24 which would classify them as Recreationally Active
+or above, according to our framework. Participants in Tiers 0 or 1 can
+contribute valuable information to the sports science literature by
+forming suitable control groups in cross-sectional/observational stud-
+ies of athletes, or as the subject of mechanistic-based studies,
+including pharmacokinetic, dose–response, and proof-of-concept in-
+vestigations. However, their inclusion as participants in investigations
+of sports performance is inappropriate due to the poor reliability of
+performance measures collected on these populations and because
+these cohorts have little validity compared to higher tiers.
+Tier 2: Trained/Developmental is estimated from national
+reports of sport participation rates to include ∼12% to 19% of
+the population.
+25–27 Individuals in this tier identify with a given
+sport and are differentiated from Tier 1 because of their commit-
+ment to sports-speciﬁc training ∼3 times per week and an intention
+to compete in local-level competitions. No performance criteria or
+skill level is required to reach this classi ﬁcation. Individuals in this
+tier represent a relatively large percentage of the available
+318 McKay et al
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 3 =====
+
+population of trained individuals and are well suited for trials that
+require large subject numbers to be adequately statistically pow-
+ered. This may include cross-sectional, observational, or survey-
+based study designs. When Tier 2 participants are involved in
+performance-based research, we recommend the use of familiari-
+zation trials and established and sensitive laboratory-based tests
+with a known typical error. This will reduce the noise-to-signal
+ratio and allow the best chance at detecting changes in performance
+in this population.
+28
+Tier 3: Highly Trained/National Level is the ﬁrst tier of the
+present framework in which performance standards are deﬁned and
+represent only ∼0.01% to 0.03% of the population (see
+Supplementary Material [available online]). Athletes within this
+tier include national-level representatives who are performing
+structured and/or periodized training and are developing pro ﬁ-
+ciency in skills required to perform their sport at the highest level.
+This tier includes individuals participating in Provincial/State or
+Academy Programs (eg, Division II and III programs of the
+National Collegiate Athletic Association). Tier 3 athletes can be
+expected to provide reliable measures of performance in familiar
+tasks and are therefore well suited to both laboratory- and ﬁeld-
+based research. Since individuals from higher tiers are often
+reluctant to participate in studies using invasive measurements
+or requiring large time commitment, Tier 3 athletes often represent
+a “sweet spot ” in studies that simultaneously collect mechanistic
+data with reliable performance outcomes.
+Table 1 Participant Classi ﬁcation Framework
+Tier Criteria for classification
+Tier 5: World Class
+=< 0.00006% of the global population
+=< 0.001% of the Australian population
+ Olympic and/or world medalists.
+ World-record holders and athletes achieving within 2% of world-record performance and/or world-
+leading performance.
+ Top 3–20 in world rankings and/or top 3 –10 at an Olympics/World Championships (ie, ﬁnalists in
+their event), with this number determined based on size and depth of competition in the event.
+ Top players within top teams (teams which medal or are in the most competitive leagues) or athletes
+achieving individual accolades (ie, most valuable player, player of the year).
+ Maximal, or nearly maximal training, within the given sports norms.
+ Exceptional skill-level achieved (ie, running biomechanics, ball skills, acquired decision-making
+components).
+Tier 4: Elite/International Level
+= ∼0.0025% of the global population
+= ∼0.0055% of the Australian population
+ Competing at the international level (individuals or team-sport athletes on a national team).
+ Team-sport athletes competing in international leagues/tournaments.
+ Top 4–300 in world rankings, with this number dependant on size and depth of competition in the
+event.
+ Achievement of within ∼7% of world-record performance and/or world-leading performance.
+ NCAA Division I athletes.
+ Maximal, or nearly maximal training, within the given sports norms, with intention to complete at
+top-level competition.
+ Highly proﬁcient in skills required to perform sport (ie, biomechanics, ball skills, acquired decision-
+making components).
+Tier 3: Highly Trained/National Level
+(Provincial/State or Academy Programs)
+= ∼0.014% of the global population
+= ∼0.027% of the Australian population
+ Competing at the national level.
+ Team-sport athletes competing in national and/or state leagues/tournaments.
+ Achievement of within ∼20% of world-record performance and/or world-leading performance.
+ NCAA Division II and III athletes.
+ Completing structured and periodized training and developing towards (within 20%) of maximal or
+nearly maximal norms within the given sport.
+ Developing pro ﬁciency in skills required to perform sport (ie, biomechanics, ball skills, acquired
+decision-making components).
+Tier 2: Trained/Developmental
+= ∼12%–19% of the global population
+= ∼18% of the Australian population
+ Local-level representation.
+ Regularly training ∼3 times per week.
+ Identify with a speci ﬁc sport.
+ Training with a purpose to compete.
+ Limited skill development.
+Tier 1: Recreationally Active
+= ∼35%–42% of the global population
+= ∼30% of the Australian population
+ Meet World Health Organization minimum activity guidelines: Adults aged 18 –64 years old
+completing at least 150 to 300 min moderate-intensity activity or 75 –150 min of vigorous-intensity
+activity a week, plus muscle-strengthening activities 2 or more days a week. 20
+ May participate in multiple sports/forms of activity.
+Tier 0: Sedentary
+= ∼46% of the global population
+= ∼52% of the Australian population
+ Do not meet minimum activity guidelines.
+ Occasional and/or incidental physical activity (eg, walking to work, household activities).
+Abbreviation: NCAA, National Collegiate Athletic Association. Note: We have presented the key classi ﬁcation criteria for each tier and the estimated proportion of the
+population that fall into each tier. These population estimates have been derived from both global and continent-speci ﬁc statistics to demonstrate how densely populated
+each of these tiers may be. Detailed calculations for these estimates can be found in the Supplementary Material (available online).
+Participant Classi ﬁcation Framework 319
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 4 =====
+
+Tier 4: Elite/International Level includes∼0.003% to 0.006% of
+the population based on our estimates of participation rates in interna-
+tional-level competitions (see Supplementary Material [available
+online]). This classiﬁcation requires a higher performance level than
+Tier 3 and is likely to involve repres entation at international-level
+competition. Athletes within Tier 4 may perform within∼7% of world-
+leading or world-record performance, be ranked within the world’st o p
+4–300 athletes (depending on the depth ofﬁeld within the sport), and/
+or compete in professional leagues/tournaments. The majority of
+individuals at this level are a part of the registered testing pool or
+national testing pool as de ﬁned by World Anti-Doping Agency.
+29
+Conducting studies in Tier 4 athletes can be challenging due to their
+smaller numbers and availability. Nevertheless, specialized research
+projects involving individuals at th is level can provide particularly
+valuable insights and outcomes with high ecological validity, which
+can often be directly translated into high-performance sport settings.
+Finally, Tier 5: World Class is a classiﬁcation reserved for the most
+exceptional athletes within their sport/event. This includes Olympic
+and/or World Championship medalists andﬁnalists, top athletes within
+top global teams, and athletes who can perform within∼2% of world-
+leading and/or world-record performances. Tier 5 athletes are consid-
+ered the “crème of the crop,” and their rarity makes an involvement in
+cohort studies to be highly unusual. Indeed, case studies are the more
+common research design to feature these athletes, yielding valuable
+information about the top-end of athletic performance.
+30–32
+In Figure 1, we show the interaction between these classiﬁcation
+tiers, training volume/physical activity level, performance standards,
+research design, and the population density of each tier.
+How to Use the Participant Classi ﬁcation
+Framework
+Prospectively
+Figure 2 provides a ﬂow chart that demonstrates how information
+should be collected and interpreted in a stepwise manner. It should
+Figure 1 — Graphical representation of the interaction between the Participant Classi ﬁcation Framework, training volume/physical activity levels,
+population proportions, and research design. Inspired by D. Lee Hamilton. 33 WL indicates world leading; WR, world record.
+320 McKay et al
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 5 =====
+
+Figure 2 — An easy-to-implement ﬂowchart demonstrating how participants can be prospectively classi ﬁed according to the Participant Classi ﬁcation Framework.
+IJSPP Vol. 17, No. 2, 2022 321
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 6 =====
+
+be noted that individuals are not required to meet all aspects of each
+tier to be classi ﬁed, rather the information provided in Table 1
+should be used in conjunction with the process outlined in Figure 2
+to guide classi ﬁcation. When participants are recruited, average
+exercise volume is the ﬁrst characteristic that should be identi ﬁed;
+this can be determined from common metrics such as the number of
+training days per week, training hours, and quanti ﬁcation of tasks
+that are completed (eg, kilometers traveled or number of throws/
+jumps per week). The chosen metric should then be scaled accord-
+ing to considerations of normal preparation for a world-class athlete
+in the given sport. This will vary markedly between sports; for
+example, a world-class road cyclist may train in excess of 1000 km/
+wk (>30 h), whereas some middle-distance runners of this caliber
+may only run ∼50 km/wk (approximately 4 –5 h). This information
+should provide a clear distinction between Tier 0: Sedentary
+Individuals (minimal training) and those in Tier 3: Highly
+Trained/National Level or above (near maximal training volume
+for their chosen sport). Differentiation between Tier 1: Recrea-
+tionally Active and Tier 2: Trained/Developmental individuals
+requires a greater understanding of their primary training modality
+and recent competition history, with identi ﬁcation with a speci ﬁc
+sport, and an intention to compete being the primary factor splitting
+these 2 tiers. Differentiation of the top 3 athletic tiers requires an
+understanding of the athlete ’s performance achievements. This
+information can be collected from personal best times/perfor-
+mance, world rankings, participation in major competitions, or
+achievement of individual athletic accolades (eg, medals, world
+records, athletic-based awards), which should be relevant to the
+athlete’s primary sport. We suggest that performance metrics used
+for this assessment be current: within a 4-year Olympic cycle or an
+appropriate sport-speci ﬁc time frame for non-Olympic sports
+(eg, between seasons or world championships). This allows current
+performances to be considered for classi ﬁcation, rather than a
+previous performance standard that is unlikely to be achieved
+again. It should be noted that the suggested performance metrics
+are examples only, and this framework has been intentionally
+created to allow for appropriate sport speci ﬁc metrics to be used.
+To ensure a consistent and informative approach to document-
+ing a participant ’s training and performance caliber, we have
+outlined simple reporting guidelines that should be adopted
+when using this framework. First, it is suggested that authors
+classify each participant individually during study recruitment,
+and then describe the cohort by reporting the proportion of
+participants within each tier. This avoids generalizations or embel-
+lishment of a cohort ’s athletic ability. Furthermore, all studies
+should also report the sex of the participant cohort, or the male-to-
+female ratio in mixed sex studies. In studies utilizing athletes (Tiers
+3–5), the primary sport(s) should be explicitly mentioned. While
+not compulsory, we recommend that the key performance-based
+metrics used to classify individuals also be reported, to allow the
+reader greater context for interpretation. Similarly, other sport-
+speciﬁc details regarding competition experience, position within a
+team or event within a sport, and previous years ’ experience all
+may be important when describing athletes from higher tiers.
+A ﬁnal consideration, which is not currently accounted for
+within the framework, is the ﬁtness status at the time of testing,
+relative to an individual ’s classi ﬁcation according to the frame-
+work. For instance, a current Olympic medalist who is returning
+from injury at the time of classi ﬁcation would still be considered
+Tier 5: World Class, based on training volume and previous
+performance outcomes. However, their performance capabilities
+at the time of their involvement in a study may not re ﬂect their
+classiﬁcation. Conversely, an emerging athlete who has been
+classiﬁed as Tier 3: Highly Trained/National Level but has had
+limited racing opportunities may outperform athletes at Tier 4:
+Elite/International Level. These complexities are nuanced and will
+be highly speci ﬁc to each individual ’s situation. Accordingly, we
+encourage reporting additional descriptive information relating to
+the current training status of individuals where appropriate. This
+may include the participant ’s training phase (eg, off-season, pre-
+season, competition phase); training status (eg, full training, modi-
+ﬁed training); and any other relevant information (ie, recent career
+interruptions, competition history).
+Retrospectively
+We envisage that this framework can also be used in a retrospective
+manner to classify participant cohorts for the purpose of audits,
+reviews, and/or meta-analyses. In this instance, subject character-
+istics (means with SDs) which are reported alongside other descrip-
+tive information should be interpreted using the framework to
+provide an overview of the caliber of the study cohort. Identifying
+with a particular sport typically differentiates Tier 2: Trained/Devel-
+opmental from Tier 1: Recreationally Active individuals, while
+studies of Tier 2: Trained/Developmental individuals often also
+provide a sport-speci ﬁc metric of training volume (eg, kilometers
+per week, rather than days/week, which is more common with Tier 1:
+Recreationally Active individuals).Typically, studies which include
+higher caliber athletes (Tier 3–5) provide a greater depth and breadth
+of information regarding participant training status. Importantly,
+objective information should be prioritized for the purposes of
+classiﬁcation, even if subjective terminology employed by authors
+contradicts the resulting classi ﬁcation tier. For example, studies
+describing “recreationally active” participants with an activity level
+less than 150 minutes per week should be classi ﬁed as Tier 0:
+Sedentary. Furthermore, participants who are described as competing
+at an international level but present performance metrics that are far
+from the required performance level should be classi ﬁed as Tier 3:
+Highly Trained/National rather than Tier 4: Elite/International. In
+other words, objective and quant itative data should be prioritized
+above prior published subjective descriptions.
+While we have encouraged a speci ﬁc approach to the pro-
+spective reporting of study participants, when the framework is
+used to retrospectively describe study cohorts, a classi ﬁcation of
+the typical member or majority of the participant group is likely to
+be the most practical outcome. Similarly, where appropriate,
+studies conducted on a sporting team should classify the group
+as a whole rather than differentiating team members. Since the type
+of information typically provided to make speci ﬁc or individual
+assessments is likely to be missing, a consistent and wide-reaching
+approach to classifying individuals is therefore preferred. To
+determine the “majority” classiﬁcation when information around
+the proportion of participants in each tier is not provided, the
+median tier should be chosen. For example, if participants ranged
+between Tier 2 and Tier 4, the study should be classi ﬁed as Tier 3.
+In scenarios where participants range between 2 tiers, the higher
+tier should be selected (eg, Highly Trained/National and Elite/
+International Level individuals would be classi ﬁed as Elite/Inter-
+national level). When studies are intentionally designed to compare
+individuals of different training status, each cohort should be
+classiﬁed as a separate group. Undoubtedly, some studies will
+fail to provide clear information about their participants, preventing
+a robust decision around classi ﬁcation to occur; here, the study
+should be classi ﬁed as “insufﬁcient information. ” It should be
+322 McKay et al
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 7 =====
+
+noted that the retrospective use of this framework should not
+require studies to provide extensive information covering all
+criteria identiﬁed in the tables in this review. Rather, the available
+information in any published study should be used to provide the
+best-ﬁt assessment of the caliber of the cohort involved. Table 2
+provides examples of a random selection of papers from sport and
+exercise science journals, which have been retrospectively classi-
+ﬁed based on the proposed framework.
+Classifying Athletes Across Different Sports
+While the aim of this framework is to provide a resource that can be
+adapted to all athletes and research participants, we recognize there
+will be key differences between sports. In Table 3, we have
+clustered sports into 7 categories based on physiological demands,
+tactical components, and the skill requirements of the sport. Within
+each category, we have outlined considerations that should be used
+when applying the Participant Classi ﬁcation Framework to these
+sports. First, team sports are unique in the way participants are
+classiﬁed. According to Stefani ’s taxonomy of sports rating sys-
+tems,
+40 team sports can be described as “object sports ” where the
+primary objective is to manipulate an object while another com-
+petitor is in direct confrontation. Due to the dynamic nature of these
+sports, using performance times or world-record standards for
+classiﬁcation using the Participant Classi ﬁcation Framework is
+unsuitable, and therefore classi ﬁcation should occur primarily
+based on team representation and playing position. Table 4 pro-
+vides a speci ﬁc example of the application of the Participant
+Classiﬁcation Framework to basketball. This suggests that Tier
+5: World Class includes only the top players ( “starters”) from the
+top global league/tournaments, while the next 2 tiers include
+athletes playing in international leagues (Tier 4) and domestic/
+state leagues (Tier 3).
+The next 3 sports categories cover Endurance/Long-Distance
+sports, Middle-Distance/Power sports, and Speed/Strength sports.
+These sports are similar, with the majority being described as
+“independent sports ”
+40 in which one competitor cannot directly
+interfere with the performance of another. In these sports, perfor-
+mance can be quanti ﬁed, allowing comparisons over time and
+across locations. In Table 5, we have used the Participant Classi ﬁ-
+cation Framework to generate benchmarked performance standards
+for selected events within track and ﬁeld across Tiers 3 to 5. Here,
+we have derived performance standards using a number of different
+metrics, including world-leading times, world-record times, and
+the leading time at the most recent major international competition
+(Tokyo 2020 Olympic Games). We do not intend for this table to be
+used as a strict resource from which participants are classi ﬁed.
+Rather, this has been included to demonstrate the numerous ways
+performance standards may be generated for use in the Participant
+Classiﬁcation Framework, while also highlighting methods which
+may not be appropriate. For instance, the marathon at the Tokyo
+2020 Olympic Games was performed in very hot and humid
+conditions ( ∼28°C and ∼70% humidity),
+47 leading to slower
+race times (winners ﬁnished in ∼106% and 110% of world-record
+time for males and females, respectively). Therefore, using these
+times to benchmark performance standards would not be appro-
+priate. Similarly, the use of world records may not be the best
+option for benchmarking performance standards in some sports. An
+example of this is the men ’s long jump, in which the world record
+was set more than 30 years ago (1991: 8.95 m) and only one other
+athlete has performed to within 2% of the world record since that
+time.
+43 When world records are dated or current performances are
+not close to these standards, world-leading performance is a far
+more appropriate metric from which to derive performance stan-
+dards. While the majority of sports in these categories easily allow
+performance to be quantiﬁed in a standardized way, there are a few
+exceptions. For example, while rowing is a time-based independent
+sport, boat speed can be highly inﬂuenced by environmental factors
+such as water temperature, salinity, wind, and water current
+direction. Furthermore, sports such as BMX racing and Mountain
+Bike are performed on different courses with different features, and
+therefore absolute race time is not comparable across racing
+locations. In these instances, world rankings should be the primary
+metric used for classi ﬁcation.
+The remaining three categories refer to precision/skill-depen-
+dent sports, racquet sports, and combat/weight-making sports.
+These include a mixture of object sports, independent sports,
+and combat sports in which a competitor tries to directly control
+the opponent by confrontation.
+40 These sports often have a larger
+dependence on skill rather than physiology or strength as a primary
+determinant of success, which can be factored into classiﬁcation. In
+the case of sports which are subjectively scored, using performance
+standards may not be appropriate simply because scores allocated
+during the judging process are primarily intended to differentiate
+placing, rather than act as a highly sensitive instrument to reﬂect the
+speciﬁc magnitude of performance difference. Accordingly, the
+magnitude of score difference between 2 participants may be larger
+than the magnitude of actual technical difference. For this reason,
+sports from all 3 of these categories will likely rely heavily on world
+rankings for classi ﬁcation using the Participant Classi ﬁcation
+Framework. Often, points are awarded to athletes based on compe-
+tition outcomes which contribute to their world ranking, with many
+sports adjusting the way points are obtained to prioritize key events.
+For example, the ranking method used by the Association of Tennis
+Professionals allocates a higher number of points according to the
+progression of the athlete within a tournament, with an increase in
+points distributed at Grand Slams and Association of Tennis Pro-
+fessional Finals, compared to less prestigious competitions.
+48 Simi-
+larly, the International Judo Federation also uses a points-based
+system, allocating points based on ﬁnal competition standings, with
+increased points awarded at major-level competitions.49 In Table 6,
+we have provided an example for classi ﬁcation in the sport of
+snowboard, including speciﬁc skill-based metrics and world ranking
+brackets for each tier. Once appropriate metrics have been chosen to
+classify an individual, we foresee that 3 key factors will require
+further sport-speciﬁc consideration.
+Depth of Participation in the Sport. It should be recognized that
+sports have different rates of global participation. For instance,
+running is relatively inexpensive and has minimal requirement for
+skill or equipment for participation at the recreational level, making
+it popular worldwide ( >200 countries represented at global cham-
+pionships). Conversely, sports such as Sailing, Equestrian, Modern
+Pentathlon, and Ski Jump all require expensive equipment, expert
+coaching, and/or the necessary climate for participation to occur.
+These barriers explain small global participation rates with a
+subsequent effect on the number of athletes who compete at the
+elite level. These sports often feature a small competitor pool with
+variable performance levels at major events. For instance, separa-
+tion between ﬁrst and eighth ﬁnisher in the 100 m women ’s
+freestyle swimming ﬁnal at the Tokyo 2020 Olympic Games
+was 1.27 seconds or 2.4% of winning race time.
+50 Conversely,
+in the relatively new Olympic sport of women ’s park skateboard,
+the 22.8 point difference from ﬁrst to eighth in the ﬁnal equates to
+Participant Classi ﬁcation Framework 323
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 8 =====
+
+Table 2 A Random Selection of Papers Published in Sport Science and Exercise Journals Over the Last Decade
+Authors Title
+Description of subject
+characteristics
+Reported subject
+characteristics Premise for classification Classification
+Jones et al 34 Physiological demands of
+running at 2-h marathon
+race pace
+ Elite male distance runners
+ Recruited for the ﬁrst phase of Nike ’s
+“Breaking 2 ” project, which had the
+purpose of identifying athletes with the
+physiological characteristics that might
+enable them to run a marathon in less than
+2h
+ Included the current of ﬁcial world mar-
+athon record holder, world marathon
+champion, and former world half-
+marathon record holder
+ Half-marathon PB:
+59:53 (0:46) min:s
+ Marathon PB of
+2:06:53 (0:02:58) h:min:s
+ VO2peak: 71.0 (5.7) mL/kg/min
+ Economy: 189 (14) mL/kg/km
+ Lactate threshold corresponded
+to 83% (5%) VO 2peak
+Marathon PB was close to 2% of the cur-
+rent world-leading time, and faster than the
+time it took to win a gold medal at the
+Tokyo 2020 Olympic Games.
+Classiﬁcation supported by relevant phys-
+iological data. SDs are small, suggesting a
+homogenous athlete group.
+Tier 5: World
+Class
+Eaton et al 35 A combination of amino
+acids and caffeine en-
+hances sprint running
+capacity in a hot, hypoxic
+environment
+ Male, subelite football players
+ Regularly competing and training
+(∼60 min, 3 times per week)
+ 20-m sprint time: 3.1 (0.1) s
+ Yo-Yo IR1 distance: 1320 (528) m
+ Estimated VO 2max:
+47.5 (4.4) mL/kg/min
+Individuals meet physical activity guide-
+lines.20 Athletes also identify with a sport
+and are regularly competing. No further
+info to justify “subelite” terminology.
+Tier 2: Trained/
+Developmental
+Muggeridge
+et al 36
+The effects of dietary
+nitrate supplementation on
+the adaptations to sprint
+interval training in previ-
+ously untrained males
+ Healthy males
+ Participants were untrained, de ﬁned by
+participation in less than 2 structured
+exercise sessions per week, but not
+sedentary
+ VO2max: 42.4 (7.2) mL/kg/min Despite language used to suggest partici-
+pants were not sedentary, descriptive
+information indicates physical activity le-
+vels are lower than guidelines. 20 Not en-
+ough information is provided to say
+otherwise.
+Tier 0:
+Sedentary
+Niemiro
+et al 37
+Circulating progenitor cell
+response to exercise in
+wheelchair racing athletes
+ Eight elite wheelchair racing athletes
+were recruited from an elite wheelchair
+racing team (5 males and 3 females)
+ Participants had been competing in
+wheelchair racing for an average of
+13.5 (6.8) years and were training to
+compete in the 2016 Paralympic Games
+ 25-km road race time trial:
+51.9 (6.6) min
+ VO2peak 2.4 (0.6) L/min
+Subject description of competition history
+conﬁrms international status. VO 2peak
+values are at the high-end range of what has
+been previously reported for wheelchair
+racers,38 conﬁrming classi ﬁcation.
+Tier 4: Elite/
+International
+Level
+Calderbank
+et al
+39
+Association of jumping
+ability and maximum
+strength with dive distance
+in swimmers
+ Regional, national, and international
+competitive swimmers who swam a
+range of different sprint events
+including 50- to 100-m butter ﬂy, back-
+stroke, breaststroke, and freestyle
+ FINA points ranging from 500 to 700+
+ FINA points equivalent for 100 m
+freestyle:
+Females =< 0:58–1:05 min:s
+Males =< 0:52–0:59 min:s
+Cohort includes individuals from multiple
+tiers: Regional (Tier 2), National (Tier 3),
+and International (Tier 4); however, par-
+ticipant number from each was not re-
+ported. Therefore, the “Median”
+classiﬁcation has been taken. This
+corresponds with performance metrics
+reported.
+Tier 3: Highly
+Trained/
+National Level
+Abbreviations: FINA, Fédération Internationale de Natation; PB, personal-best time; Yo-Yo IR1, Yo-Yo Intermittent Recovery Test Level 1. Note: Ea ch paper has been classi ﬁed according to the Participant Classi ﬁcation
+Framework, and we have provided a justi ﬁcation for the chosen classi ﬁcation.
+324 IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 9 =====
+
+Table 3 Classi ﬁcation of Sports Within 7 Broad Categories
+Sports
+category
+Stefani’s
+rating
+system40 Sports examples
+Sport-specific considerations for implementing the Participant
+Classification Framework
+Team sports Object sports Australian football, American football, baseball, basketball, cricket, ﬁeld hockey,
+football, handball, ice hockey, netball, rugby, goalball, volleyball, and water polo
+ Most often classi ﬁcation will occur based on the team and league the individual
+participates in, as well as their contribution to/position within the team.
+ Recognition for exceptional individual performance within a team can be
+considered during the classi ﬁcation process. This includes metrics such as most
+valuable player, player of the year, and player of the tournament.
+Endurance/
+long distance
+Independent
+sport
+Track (>5000 m) events, biathlon, cross-country skiing, road cycling, swimming
+(800 m+) open water swimming, triathlon, racewalking, marathon, and ultra
+endurance events
+ A combination of current world records, world-leading performances, and world
+championship competition performances should be used to create benchmark
+performance standards for each tier. The selection of performance standard should
+take into account factors such as age of world record and environmental
+conditions of world championship performances so that these standards appro-
+priately re ﬂect current performances.
+ Where performance can be easily quantiﬁed, athletes achieving within ∼2% of the
+benchmarked standard can be classiﬁed as World Class, athletes achieving within
+∼7 as Elite/International level, and those within ∼20% of the benchmarked
+standard as Highly Trained/National Level.
+ In sports where quantifying performance isn ’t appropriate (eg,. rowing, where
+environmental conditions and wind speeds can affect performance; and BMX/
+Mountain biking where races are completed on different courses), athlete ranking
+and placings at major competitions should be the priority metric used to classify
+athletes.
+ Sport-speciﬁc ranking systems can be a useful way of comparing events within a
+sport (ie, the use of IAAF points in Track and Field or FINA points in swimming).
+ Additional physiological variables (ie, VO 2max, Watt max) may be used in
+conjunction with the framework to aid classi ﬁcation if desired.
+Middle dis-
+tance/power
+Independent
+sports
+Canoe, kayak, BMX racing, mountain biking, rowing, swimming ( <400 m), track
+(800–1500 m), and track cycling
+Speed/
+strength
+Independent
+sports
+Alpine skiing, bobsleigh, ﬁeld athletics, luge, skeleton, ski jumping, speed
+skating, sprinting, track ( <400 m), and weightlifting
+Precision/
+skill-depen-
+dent sports
+Independent/
+object sports
+Archery, artistic swimming, curling, diving, equestrian, ﬁgure skating, freestyle
+skiing, golf, gymnastics, sailing, shooting, snowboard, sur ﬁng, skateboard, and
+BMX freestyle trampoline
+ Majority of the sports within these sports produce individual athlete world
+rankings on a point based system which can be used for classi ﬁcation. Similarly,
+many of these sports already adjust the way points are obtained to prioritize key
+events (world championships, tennis grand slams).
+ In many of these sports, the number of participants in the ﬁeld will be much
+smaller compared to other sports that have higher participation rates and an
+increased depth of ﬁeld. This should be a key consideration when ranking athletes
+within these sports.
+ These sports likely allow a greater consideration of skill compared to other sport
+categories. Skill should be re ﬂected and at the forefront in the classi ﬁcation of
+athletes within some of these sports.
+ For sports with tiered events (ie, combat sports with weight classiﬁcations, sailing
+with multiple boat classes), rankings should be done within each event, and not
+combined across events.
+Racquet
+sports
+Object sports Badminton, table tennis, squash, and tennis
+Combat/
+weight-
+making
+Combat
+sports
+Boxing, fencing, judo, karate, taekwondo, and wresting
+Abbreviation: IAAF, International Amateur Athletic Federation. Note: Speci ﬁc considerations for implementation of the Participant Classi ﬁcation Framework are included for each sports category.
+IJSPP Vol. 17, No. 2, 2022 325
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 10 =====
+
+Table 4 An Example of How the Participant Classi ﬁcation Framework Could Be Applied to Classify Team-Sport Athletes
+Tier Basketball league
+Tier 5: World Class Tier 5 includes the most competitive basketball players in the most exclusive basketball league. World-Class players are usually “starters.” Highest paid
+players often reﬂect the most elite performers (eg, in the NBA, top 20 players are earning >$35 million US per year and in the WNBA, top 10 players are
+earning >$200
+K per year 41).
+Men
+ NBA for men (n = 30 teams)
+ All Stars = 24 top players in NBA
+ Starters for Olympic Medal-Winning Team = 36 players
+ Starters NBA = 150 NBA players
+Women
+ WNBA for women (n = 12 teams)
+ All Stars = 12 players
+ Starters for Olympic Medal-Winning Team = 36 players
+ Starters WNBA = 60 players
+Tier 4: Elite/International Level Tier 4 includes professional basketball players who are not starters, All-Stars or medal-winning Olympians. Eli te-Level players are nonstarters competing
+in NBA and WNBA, as well as starters and reserve players in other Professional Leagues. Players on NCAA Division I teams and players that represent
+their country in international competition.
+Men
+ NBA (n=30 teams)
+ NBA Reserve Players = ∼300 to 350 players
+ Professional Leagues for Men (n = 15 Africa, n = 23 Asia, n = 43 Europe,
+n = 3 Oceania, and n = 20 Americas) = ∼1500 players
+ 353 NCAA Division 1 Basketball teams = ∼5200 players
+Women
+ WNBA (n=12 teams)
+ WNBA Reserve Players = ∼90 players
+ Professional Leagues for Women (n = 3 Africa, n = 7 Asia,
+n = 36 Americas
+Europe, n = 2 Oceania, and n = 3 Americas) = ∼760 players
+Tier 3: Highly Trained/National
+Level
+Players competing in NCAA Division II and Division III, US high school varsity teams, and equivalent standard international community-based Teams
+and Clubs.
+Men
+ NCAA Division II ( ∼312 teams) or Division III ( ∼424 teams) = 11,000
+players
+ US high school players = ∼540,000
+ Community-based teams, clubs
+Women
+ NCAA Division II ( ∼312 teams) or Division III ( ∼424 teams) = 11,000
+players
+ US high school players = ∼430,000
+ Community-based teams, clubs
+Tier 2: Trained/Developmental No performance/competition standard is required for this classi ﬁcation. Includes participants in Recreational Basketball Leagues and junior varsity high
+school teams or “second team” for many international clubs. Must meet other participation ( ∼3 times per week) and intent to compete criteria set out in
+Table 1.
+Basketball is the second most popular sport in the United States with approximately 26 million Americans playing basketball regularly. 14.4 million 6- to
+14-year-olds and 11 million 12- to 17-year-olds play basketball. 42 The FIBA estimates there are 450 million basketball players worldwide.
+Abbreviations: FIBA, International Basketball Federation; NBA, National Basketball Association; NCAA, National Collegiate Athletic Associati on; WNBA, Women's National Basketball Association.
+Note: Classi ﬁcation is primarily based on the team and league they participate in, as well as their contribution to/position within the team. The sport of basketbal l has been used as an example to highlight
+which leagues/playing position would fall into each tier and is inclusive of both men ’s and women ’s leagues.
+326 IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 11 =====
+
+Table 5 Performance Standards for Classi ﬁcation Have Been Derived for Track and Field, for Both Male and Female Athletes in Speed/Power
+Sports, Middle Distance/Power Sports, and Endurance/Long-Distance Sports, Which Use a Combination of Time, Distance, and Points-Based
+Scoring Systems
+Tier 5: World Class Tier 4: Elite/International Level Tier 3: Highly Trained/National Level
+2020
+Olympics WR WL %2 WR %2 WL
+Mean
+(SD)
+300th
+WL %7 WR %7 WL
+Mean
+(SD)
+AA
+standard
+AC
+standard
+USATF
+standard
+20%
+WL %2 WL Mean (SD)
+Males
+100 m (s) 9.80 9.58 9.77 9.77 9.97 9.78
+(0.14)
+10.15 10.25 10.45 10.28
+(0.15)
+10.84 10.45 10.05 11.50 11.72 10.91
+( 0.70)
+1500 m
+(min:s)
+03:28.32 03:26.00 03:28.28 03:30.10 03:32.20 3:28.90
+(0:02.30)
+03:37.30 03:40.40 03:42.60 3:40.10
+(0:02.60)
+03:50.00 03:46.00 03:37.50 04:07.20 04:09.60 3:54.10
+(0:13.90)
+5000 m
+(min:s)
+12:58.15 12:35.36 12:48.45 12:50.50 13:03.80 12:51.20
+(0:10.80)
+13:32.17 13:28.20 13:42.20 13:34.20
+(0:07.20)
+14:25.00 14:15.00 13:25.00 15:06.40 15:22.10 14:30.70
+(0:46.10)
+10,000 m
+(min:s)
+27:43.63 26:11.00 26:33.93 26:42.40 27:05.80 26:51.30
+(0:35.00)
+28:23.60 28:01.00 28:25.50 28:16.70
+(0:13.70)
+29:45.00 N/A 28:00.00 31:25.20 31:52.70 30:15.70
+(1:37.50)
+Marathon,
+h:min:s
+2:08:38 2:01:39 2:02:57 2:04:05 2:05:25 2:04:33
+(0:02:40)
+2:15:02 2:10:10 2:11:33 2:12:15
+(0:02:30)
+2:30:00 2:37:00 2:19:00 2:25:59 2:27:32 2:27:54
+(0:06:31)
+Decathlon,
+points
+9018 9126 9018 8943 8838 8989
+(107)
+7217 8487 8387 8030
+(706)
+6100 N/A 7900 7301 7214 7129
+(751)
+Long jump,
+m
+8.41 8.95 8.60 8.77 8.43 8.60
+(0.20)
+7.86 8.32 8.00 8.06
+(0.24)
+7.30 7.40 8.00 7.16 6.88 7.35
+(0.41)
+IAAF points 1231
+(48)
+1318
+(23)
+1274
+(13)
+1268
+(23)
+1225
+(20)
+1263
+(43)
+1096
+(50)
+1148
+(42)
+1105
+(48)
+1116
+(50)
+922
+(66)
+954
+(132)
+1119
+(56)
+859
+(101)
+821
+(109)
+932
+(138)
+Females
+100 m (s) 10.61 10.49 10.61 10.70 10.82 10.65
+(0.12)
+11.21 11.22 11.35 11.26
+(0.08)
+12.44 11.8 11.15 12.59 12.73 12.14
+(0.66)
+1500 m
+(min:s)
+03:53.11 03:50.07 03:51.07 03:54.70 03:55.70 3:52.90
+(0:02.40)
+04:08.62 04:06.20 04:07.20 4:07.40
+(0:01.20)
+04:40.00 04:24.00 04:06.00 04:36.10 04:37.30 4:28.70
+(0:14.10)
+5000 m
+(min:s)
+14:36.79 14:06.62 14:13.32 14:23.60 14:30.40 14:22.10
+(0:12.30)
+15:32.35 15:05.90 15:13.10 15:17.10
+(0:13.70)
+17:10.00 16:40.00 15:20.00 16:55.90 17:04.00 16:38.00
+(0:45.00)
+10,000 m
+(min:s)
+29:55.32 29:01.03 29:01.03 29:35.90 29:35.90 29:25.80
+(0:24.00)
+33:01.91 31:02.9 31:02.9 31:42.60
+(1.08.70)
+35:30.0 N/A 32:25.0 34:49.20 34:49.20 34:23.40
+(1:22.60)
+Marathon
+(h:min:s)
+2:27:20 2:14:04 2:19:35 2:16:45 2:22:22 2:20:01
+(0:05:08)
+2:40:22 2:23:27 2:29:21 2:31:03
+(0:08:35)
+3:00:00 3:00:00 2:45:00 2:40:53 2:47:30 2:50:41
+(0:08:50)
+Heptathlon,
+points
+6791 7291 6791 7145 6655 6935
+(270)
+5439 6781 6316 6178
+(681)
+4100 N/A 6000 5833 5433 5341
+(861)
+Long jump,
+m
+7.00 7.52 7.17 7.37 6.95 7.20
+(0.24)
+6.51 6.99 6.67 6.72
+(0.25)
+5.85 5.90 6.70 6.02 5.74 6.04
+(0.38)
+IAAF points 1231
+(41)
+1296
+(34)
+1264
+(26)
+1270
+(24)
+1227
+(24)
+1258
+(39)
+1084
+(64)
+1195
+(32)
+1146
+(21)
+1138
+(59)
+890
+(88)
+972
+(70)
+1112
+(62)
+975
+(58)
+943
+(46)
+977
+(91)
+Abbreviations: AA, Athletics Australia; AC, Athletics Canada; IAAF, International Amateur Athletic Federation; N/A, not applicable; USATF, USA Track and Field; WR, world-record performance43; WL, world-leading time
+from the 2021 athletic season43; 300th WL, the 300th best athletes’performance time from the 2021 athletics season.43 Note: Data were retrieved and current to August 12, 2021. Tier 3 performance standards have been derived
+from entry standards for AA,44 AC,45 and USATF46 National Championship competitions. Mean (SD) has been calculated across each tier. Standards generated here are to be usedas an example only, documenting the process,
+rather than a strict criterion for classi ﬁcation.
+IJSPP Vol. 17, No. 2, 2022 327
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 12 =====
+
+38% of the gold medal-winning score. 50 Accordingly, we suggest
+authors use their own knowledge of their sport to account for these
+differences, particularly when distinguishing between the top tiers
+within the Participant Classi ﬁcation Framework. An example of
+this can be seen when comparing track and ﬁeld (Table 5) and
+snowboard (Table 6). In track and ﬁeld, we limited Tier 5: World
+Class to athletes who qualify for the ﬁnal of a major competition
+(the top approximately 8 –15 athletes), with Tier 4: Elite/Interna-
+tional Level including the top ∼300 athletes. Alternatively, in
+Snowboard Tier 5: World Class are the medal-winning (top 3)
+athletes at major events, whereas the top 30 athletes are considered
+Tier 4: Elite/International Level. These sport-speci ﬁc adjustments
+ensure that the quality of athletes included within a tier is not
+diluted by smaller ﬁeld sizes, nor are exceptional athletes mis-
+classiﬁed because of the larger number of high-performing athletes
+within an event.
+Nationality Differences. In addition to differences between
+global participation rates, some sports are identi ﬁed by marked
+pockets of success associated with speci ﬁc countries or origins.
+Since the 1960s, East African countries, particularly Kenya and
+Ethiopia have dominated the sport of endurance running. 43 Some
+of the factors suggested to explain their dominance in the sport
+include favorable anthropometric qualities, which led to bio-
+mechanical and metabolic advantages, a solid training foundation
+partly due to running often used as a form of transportation from a
+young age, hematological advantages resulting from living at
+moderate altitude, and a high motivation to succeed for the
+purpose of improving their socioeconomic status.
+51 Australia
+represents another example of concentrated sport success, with
+60% of medals won at Olympic Games by Australians involving
+sports associated with water, whereas just 2.7% have come from
+Winter Sports.
+52 This is likely the result of a hot climate and
+extensive coastline, where sports associated with water are cul-
+turally valued and have high participation rates. There are numer-
+ous other examples of countries excelling at particular sports:
+Chinese athletes have dominated the sport of table tennis, winning
+52% of all available Olympic medals in the sport, while US men ’s
+“dream team ” in Basketball have won 16/20 Olympic gold
+medals.
+52 These region-speci ﬁc differences in the success of a
+sport make global classi ﬁcation using the Participant Classi ﬁca-
+tion Framework challenging, particularly at the level of Tier 3:
+Highly Trained/National Level. This is evident in Table 5,w h e r e
+National Track-and-Field Championship entry standards from 3
+different countries have been sourced. Here, performance stan-
+dards for participation at the national level is higher in the United
+States, compared to Canada, despite being higher than countries
+with smaller populations such as Australia. To overcome these
+limitations, we suggest that world ranking and/or world-leading
+performance metrics be used in consultation with country-speci ﬁc
+metrics (such as competition entry standards and national rank-
+ings) to gain an understanding of how an individual ranks in a
+global context, rather than within a strong or weak national ﬁeld.
+Gender Parity Within Sport. Finally, while female representa-
+tion in sport has increased in recent years, gender parity is yet to
+Table 6 An Example Using Freestyle Snowboard (Big Air) of How the Participants Classi ﬁcation Framework
+Can Be Applied and Interpreted
+Tier Criteria for classification
+Tier 5: World Class  Performance achievements include:
+(1) Medalist (top 3) at a major international event. *
+ Athlete will be ranked within the Top 10 in World Rankings. **
+ Athlete would be characterized as full-time athletes and are globally considered the top athletes in their sport.
+*The authors consider “Major” international events to be those events that have a 900- or 1000-point WSPL weighting
+for ﬁrst place. These tend to include World Championships, Olympic Games, X Games, and FIS World Cups, which
+have a strong, competitive ﬁeld.
+**World Rankings should be determined from the WSPL, not the World Cup (FIS) ranking, as WSPL provides a
+weighting to event based on ﬁeld size and depth of ﬁeld. Furthermore, WSLP include events that are of high-level
+competition (eg, X Games), which are not included in the FIS rankings.
+Tier 4:
+Elite/International
+Level
+ Performance achievements include:
+(1) World Snowboard Points List ranking of top 30.
+(2) Finalist (top 8 and/or top third within a ﬁeld) at a major event.
+(3) Medalist/top 3 at continental-level or international events. ***
+ Athlete is likely a National Team member.
+ Competition-relevant tricks (competition-relevant difﬁculty) within 7% of world leading (for amplitude, execution) in
+TWO spinning directions.
+***Continental events refer to events promoted as part of a continental “tour,” for example, North American ( “Nor-
+Am”) or European Cup events, and International events with 700 –800 WSPL weighting.
+Tier 3: Highly Trained/
+National Level
+ Performance achievements include:
+(1) Medalist (top 3) at national events and/or championships.
+(2) Finalist (top 8) at events continental-level international events.
+ Athlete may be a member of a National Development Team or a top club, state, or provincial team athlete in countries
+with substantial depth in the discipline.
+ Competition-relevant tricks (competition-relevant difﬁculty) within 20% of world leading (for amplitude, execution)
+in TWO spinning directions.
+Tier 2: Trained/
+Developmental
+No performance standard required. Individuals must meet other criteria set out in Table 1.
+Abbreviations: FIS, Fédération Internationale de Ski; WSPL, World Snowboards Points List. Note: Key considerations are based around participatio n in speci ﬁc
+competitions and world rankings.
+328 McKay et al
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 13 =====
+
+be achieved, even in the most developed nations. On a global
+scale, females represented 49 % and 41% of total competitors at
+the Tokyo 2020 Olympic and Paralympic Games, respectively, a
+vast improvement toward equality from the 38% and 26% who
+competed at Sydney in 2020.
+50 As with the introduction of any
+new event, it takes time to build depth within the ﬁeld to see the
+best of human performance. Therefore, direct comparisons of
+male and female events within a sport may not be appropriate.
+For instance, although the men ’s 50-km race walk was included
+as an Olympic Event from 1932 to 2020, the women ’s event has
+never featured on the Olympic Games program, and since World
+Athletics started recording tim es in 2017, only 182 athletes have
+posted veri ﬁed times.
+43 Such considerations should be included
+within the Participant Classi ﬁcation Framework, with different
+methods of benchmarking perfo rmance standards and world
+ranking brackets potentially required for males and females in
+some sports until complete gender pa rity, including participation
+opportunities, ﬁnancial assistance, and performance potential is
+established.
+Chronological Age — The Junior Athlete
+Versus the Masters Athlete
+Age plays a role in sports performance since it can interact with
+the biological maturity of the young athlete, training, and
+competition maturity across the athlete ’s development pathway,
+and the biological decline assoc iated with aging. However, these
+effects are not uniform across sports and even within sports;
+there are examples of extrao rdinary individuals who may
+achieve world-class status at a relatively early age, even in
+sports where intensive training loads commence in childhood
+(eg, swimming and gymnastics). Conversely, there are athletes
+who can remain internationally competitive in their late 30s and
+40s (eg, road cycling and long-distance triathlon). Since there are
+complex nuances between and with in sports in relation to junior
+athletes and masters/v eteran competitors, the ﬁrst iteration of the
+Participant Classi ﬁcation Framework will focus on absolute
+performance rankings that ar e untroubled by age classi ﬁcations.
+Following feedback and experie nce in the implementation of the
+Framework, future versions should consider age categories, or at
+least the inclusion of broad cate gories such as junior and masters
+competition.
+The Paralympic Athlete
+Despite the growing interest in Paralympic sport, the use and
+consistency for classifying train ing status remains in its infancy
+when compared to nondisabled sport. It ’s even more complex,
+since at International Paralym pic Committee (IPC) sanctioned
+events, the primary diagnosis of a participant must be stable and
+belong to one of the 10 impairment types (8 physical impair-
+ments, as well as visual and intellectual impairments). This
+results in a heterogeneous population if simply described as a
+cohort of Para athletes. Many researchers have undertaken
+studies of Para athletes accor ding to impairment type. For
+example, a series of studies examined respiratory mechanics
+during exercise that occurred in athletes with a cervical spinal
+cord injury.
+53,54 Likewise, studies speci ﬁc to a sport where only
+one impairment type occurs, such as Cerebral Palsy football 55 or
+goalball, which is a sport that i nvolves players with a visual
+impairment, 56 can be easier to categorize. However, within team
+sports such as wheelchair basketball, sports classi ﬁcation is
+based on the players ’ functional capacity to complete the skills
+necessary to play the sport, and pl ayers are allocated points. With
+the potential for such a diverse population within a sporting
+cohort, we suggest reporting the impairment type of each par-
+ticipant as this will help aid st udy interpretation. However, it
+should be considered that the d isclosure of too many speci ﬁc
+individual characteristics, such as age, onset of injury, and
+impairment classi ﬁcation may pose ethical issues with main-
+taining the anonymity of participants.
+Within the context of the Participant Classi ﬁcation Frame-
+work, there are a number of factors which add an additional layer of
+complexity to categorizing Para athletes, such as “physical liter-
+acy” and “sporting age, ” which can in ﬂuence an individual ’s
+transition from Tier 1 to Tier 5. For example, opportunities to
+train and participate in wheelchair basketball occur at an earlier age
+with congenital disabilities,
+57 and it’s unclear whether participants
+with acquired disabilities can transfer skills from previous nondis-
+abled sporting experiences. As stated by Dehghansai et al,
+57
+considering the nuances of disability (ie, types of disability,
+severity), examining the in ﬂuence of disability factors during
+investigations will be critical for extending our understanding of
+athletes’ training and developmental trajectories, and indeed with
+classiﬁcation of athletic ability. Furthermore, it is very common
+within Para sport for individuals to remain internationally compet-
+itive in their late 30s and 40s. In fact, in the women ’s Para Va ’a
+(water paddling sport) at the Tokyo 2020 Paralympic Games,
+58 the
+silver medal was won by a 51-year-old, an athlete that transitioned
+between multiple Paralympic sports. Moreover, many competitive
+hand cyclists have sustained a spinal cord injury later in life and
+compete internationally well into their 40s.
+59 This is commonplace
+in wheelchair rugby too, with a recent study reporting a mean
+participant age of 32 (7) years.
+60 Finally, the use of performance
+standards derived from world rankings or world-leading times may
+not be appropriate for many Para sports at the Elite/International
+level, due to exceptionally small ﬁeld sizes (as discussed above in
+“Depth of Participation in the Sport ” section) or ever changing
+disability classi ﬁcation protocols/systems. The depth within Para
+sports ﬂuctuates greatly, which can be explained by the total
+number of athletes with the impairment type and/or the talent
+pathway programs and coaching support systems. For example, at
+the Tokyo 2020 Paralympic Games, the T34 women ’s 100-m track
+race equated to a 24% difference between ﬁrst and eighth, whereas
+the men ’s T64 event over the same distance had a 6.3% differen-
+tial.
+58 While the event is the same, the 2 different impairment
+classiﬁcations and modalities (wheelchair propulsion vs ambulant
+athletes running) resulted in varying levels of performance within
+the event. We recognize that the Participant Classi ﬁcation Frame-
+work has been designed with the classi ﬁcation of nondisabled
+participants at the forefront, and there are numerous complexities
+which will make the classi ﬁcation of disabled participants more
+challenging. We hope to see future versions of the Participant
+Classiﬁcation Framework adapted for the primary purpose of
+classifying Para athletes as more quantitative and qualitative
+data is developed.
+Conclusion
+In this paper, we have presented a practical, easy to implement
+framework for classifying the activity level and athletic ability of
+an individual. We envision wide-s pread use of this tool in exercise
+Participant Classi ﬁcation Framework 329
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 14 =====
+
+and sport science –based literature that will provide uniformity
+around how we describe and examine cohorts of participants
+hereon in. In this ﬁrst iteration of the framework, we have
+produced guidelines for classi ﬁcation based on training vol-
+ume/physical activity metrics, performance standards, and skill
+level. It should be noted that sport-speci ﬁc examples produced
+within this manuscript should not be used as a rigid classi ﬁcation
+system; rather, these performance standards should be updated
+over time and evolve as the sport, and world-leading perfor-
+mances naturally progress. Furthermore, this framework has
+intentionally been created so that it can be easily adaptable to
+ﬁt many different sports. We suggest authors adapt the framework
+to ﬁt the cohort in question, paying particular attention to features
+such as the size and depth of the ﬁeld of a sport, and a cohort ’s
+nationality and gender parity within the sport. Finally, we have
+highlighted issues we foresee when implementing this framework,
+particularly around special populations like junior/masters ath-
+letes and individuals with a disability (including Paralympic
+athletes). We would like to see future versions of this framework
+be speci ﬁcally developed to target these populations.
+References
+1. McAuley AB, Baker J, Kelly AL. De ﬁning “elite” status in sport:
+from chaos to clarity [published online ahead of print August 5,
+2021]. Ger J Exerc Sport Res . doi: 10.1007/s12662-021-00737-3
+2. Swann C, Moran A, Piggott D. De ﬁning elite athletes: issues in the
+study of expert performance in sport psychology. Psychol Sport
+Exerc. 2015;16:3 –14. doi: 10.1016/j.psychsport.2014.07.004
+3. Decroix L, De Pauw K, Foster C, Meeusen R. Guidelines to classify
+female subject groups in sport-science research. Int J Sports Physiol
+Perform. 2016;11(2):204–213. PubMed ID: 26182438 doi:10.1123/
+ijspp.2015-0153
+4. De Pauw K, Roelands B, Cheung SS, De Geus B, Rietjens G,
+Meeusen R. Guidelines to classify subject groups in sport-science
+research. Int J Sports Physiol Perform . 2013;8(2):111–122. PubMed
+ID: 23428482 doi:10.1123/ijspp.8.2.111
+5. Betts JA, Gonzalez JT, Burke LM, et al. PRESENT 2020: text
+expanding on the checklist for proper reporting of evidence in sport
+and exercise nutrition trials.Int J Sport Nutr Exerc Metab. 2020;30(1):2–
+13. PubMed ID: 31945740 doi:10.1123/ijsnem.2019-0326
+6. Marquet L-A, Hausswirth C, Molle O, et al. Periodization of carbo-
+hydrate intake: short-term effect on performance. Nutrients.
+2016;8(12):755. doi: 10.3390/nu8120755
+7. Marquet L-A, Brisswalter J, Louis J, et al. Enhanced endurance
+performance by periodization of CHO intake: “sleep low ” strategy.
+Med Sci Sports Exerc . 2016;48(4):663–672. PubMed ID: 26741119
+doi:10.1249/MSS.0000000000000823
+8. Burke LM, Ross ML, Garvican-Lewis LA, et al. Low carbohydrate, high
+fat diet impairs exercise economy and negates the performance beneﬁt
+from intensi ﬁed training in elite race walkers. J Physiol . 2017;
+595(9):2785–2807. PubMed ID: 28012184 doi:10.1113/JP273230
+9. Gejl KD, Thams LB, Hansen M, et al. No superior adaptations to
+carbohydrate periodization in elite endurance athletes. Med Sci Sports
+Exerc. 2017;49(12):2486–2497. PubMed ID: 28723843 doi:10.1249/
+MSS.0000000000001377
+10. Burke LM, Sharma AP, Heikura IA, et al. Crisis of con ﬁdence
+averted: impairment of exercise economy and performance in elite
+race walkers by ketogenic low carbohydrate, high fat (LCHF) diet is
+reproducible. PLoS One . 2020;15(6):e0234027. PubMed ID:
+32497061 doi:10.1371/journal.pone.0234027
+11. Peeling P, Binnie MJ, Goods PS, Sim M, Burke LM. Evidence-based
+supplements for the enhancement of athletic performance. Int J Sport
+Nutr Exerc Metab . 2018;28(2):178 –187. PubMed ID: 29465269
+doi:10.1123/ijsnem.2017-0343
+12. Jones AM. Dietary nitrate supplementation and exercise performance.
+Sports Med. 2014;44(suppl 1):35–45. doi:10.1007/s40279-014-0149-y
+13. Burke LM, Hall R, Heikura IA, et al. Neither beetroot juice supple-
+mentation nor increased carbohydrate oxidation enhance economy of
+prolonged exercise in elite race walkers. Nutrients. 2021;13(8):2767.
+PubMed ID: 34444928 doi:10.3390/nu13082767
+14. Ericsson KA, Krampe RT, Tesch-Römer C. The role of deliberate
+practice in the acquisition of expert performance. Psychol Rev .
+1993;100(3):363. doi: 10.1037/0033-295X.100.3.363
+15. Gladwell M. Outliers: The Story of Success . Little, Brown and
+Company; 2008.
+16. Lloyd RS, Oliver JL, Faigenbaum AD, Myer GD, Croix MBDS.
+Chronological age vs. biological maturation: implications for exercise
+programming in youth. J Strength Cond Res. 2014;28(5):1454–1464.
+PubMed ID: 24476778 doi:10.1519/JSC.0000000000000391
+17. MacArthur DG, North KN. Genes and human elite athletic perfor-
+mance. Hum Genet . 2005;116(5):331 –339. PubMed ID: 15726413
+doi:10.1007/s00439-005-1261-8
+18. Vaeyens R, Güllich A, Warr CR, Philippaerts R. Talent identi ﬁcation
+and promotion programmes of Olympic athletes. J Sports Sci .
+2009;27(13):1367–1380. PubMed ID: 19787538 doi:10.1080/
+02640410903110974
+19. Jeukendrup AE, Craig NP, Hawley JA. The bioenergetics of world
+class cycling. J Sci Med Sport . 2000;3(4):414 –433. PubMed ID:
+11235007 doi:10.1016/S1440-2440(00)80008-0
+20. Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization
+2020 guidelines on physical activity and sedentary behaviour. Br J
+Sports Med. 2020;54(24):1451–1462. PubMed ID: 33239350 doi:10.
+1136/bjsports-2020-102955
+21. Australian Institute of Health Welfare. Physical activity across the life
+stages. 2018. Accessed June 2021. https://www.aihw.gov.au/reports/
+physical-activity/physical-activity-acro ss-the-life-stages/contents/
+table-of-contents
+22. Centers for Disease Control and Prevention. National Center for
+Chronic Disease Prevention and Health Promotion, Division of
+Nutrition, Physical Activity, and Obesity: Data, trends and maps.
+Updated November 19, 2021. Accessed May 2021. https://www.cdc.
+gov/nccdphp/dnpao/data-trends-maps/index.html
+23. Sport England. Active Lives Adult Survey November 2019/20 Report .
+Sport England. April 2021. Accessed June 2021.
+24. Statistics Canada. Physical activity, self reported, adult, by age
+group. Updated September 2021. Accessed May 2021. https://
+www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009613
+25. AusPlay. Australians’ Participation and Involvement in Summer
+Olympic and Paralympic Sports . Sport Australia. 2021. Accessed
+June 2021. https://www.clearinghouseforsport.gov.au/research/
+ausplay/results
+26. Cooke K. 37% of people in the UK never exercise or play sport. 2018.
+Accessed September 2021.https://www.kantar.com/uki/inspiration/sport-
+leisure/37-per-cent-of-people-in-the-uk-never-exercise-or-play-sport/
+27. Lange D. Physical activity — Statistics & facts. 2021. Accessed Sep-
+tember 2021. https://www.statista.com/topics/1749/physical-activity/
+28. Hopkins WG. Measures of reliability in sports medicine and science.
+Sports Med . 2000;30(1):1 –15. PubMed ID: 10907753 doi:10.2165/
+00007256-200030010-00001
+29. World Anti-Doping Agency. Whereabouts. February 2009. Accessed
+August 2021. https://www.wada-ama.org/en/questions-answers/
+whereabouts
+330 McKay et al
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC
+
+===== PAGE 15 =====
+
+30. Jones AM. The physiology of the world record holder for the
+women’s marathon. Int J Sports Sci Coach . 2006;1(2):101 –116.
+doi:10.1260/174795406777641258
+31. Carr AJ, Saunders PU, Garvican-Lewis LA, Vallance BS. Altitude
+and heat training in preparation for competitions in the heat: a case
+study. Int J Sports Physiol Perform . 2020;15(9):1344–1348. doi:10.
+1123/ijspp.2019-0292
+32. Schmitt L, Bouthiaux S, Millet GP. Eleven years ’ monitoring of the
+world’s most successful male biathlete of the last decade. Int J Sports
+Physiol Perform . 2020;16(6):900 –905. PubMed ID: 32887848
+doi:10.1123/ijspp.2020-0148
+33. @dlhamilton82. Ever wonder why there are so few training studies in
+trained populations? September 9, 2016. Accessed July 2021. https://
+twitter.com/dlhamilton82/status/774197423342252032
+34. Jones AM, Kirby BS, Clark IE, et al. Physiological demands of
+running at 2-hour marathon race pace. J Appl Physiol . 2021;130(2):
+369–379. PubMed ID: 33151776 doi:10.1152/japplphysiol.00647.
+2020
+35. Eaton TR, Potter A, Billaut F, et al. A combination of amino acids and
+caffeine enhances sprint running capacity in a hot, hypoxic environ-
+ment. Int J Sport Nutr Exerc Metab . 2016;26(1):33–45. PubMed ID:
+26248498 doi:10.1123/ijsnem.2015-0108
+36. Muggeridge DJ, Sculthorpe N, James PE, Easton C. The effects of
+dietary nitrate supplementation on the adaptations to sprint interval
+training in previously untrained males. J Sci Med Sport . 2017;20(1):
+92–97. PubMed ID: 27260004 doi:10.1016/j.jsams.2016.04.014
+37. Niemiro GM, Edwards T, Bar ﬁeld J, et al. Circulating progenitor cell
+response to exercise in wheelchair racing athletes. Med Sci Sports
+Exerc. 2018;50(1):88–97. PubMed ID: 28806276 doi:10.1249/MSS.
+0000000000001402
+38. Baumgart JK, Brurok B, Sandbakk Ø. Peak oxygen uptake in
+Paralympic sitting sports: a systematic literature review, meta-and
+pooled-data analysis. PLoS One. 2018;13(2):e0192903. PubMed ID:
+29474386 doi:10.1371/journal.pone.0192903
+39. Calderbank JA, Comfort P, McMahon JJ. Association of jumping
+ability and maximum strength with dive distance in swimmers. Int J
+Sports Physiol Perform . 2020;16(2):296–303. PubMed ID: 33276324
+doi:10.1123/ijspp.2019-0773
+40. Stefani RT. A taxonomy of sports rating systems. IEEE Trans Syst
+Man Cybern Part A Syst Humans. 1999;29(1):116–
+120. doi:10.1109/
+3468.736367
+41. Spotrac. Sports contracts, salaries, caps, bonuses & transactions.
+2021. Accessed September 2021. https://www.spotrac.com/
+42. DiFiori JP, Güllich A, Brenner JS, et al. The NBA and youth
+basketball: recommendations for promoting a healthy and positive
+experience. Sports Med . 2018;48(9):2053 –2065. PubMed ID:
+29961207 doi:10.1007/s40279-018-0950-0
+43. World Athletics. All time top lists. 2021. Accessed September 2021.
+https://www.worldathletics.org/records/all-time-toplists/
+44. Athletics Australia. 2021 –22 Australian Championship Entry Stan-
+dards. March 2021. Accessed July 2021. https://www.athletics.com.
+au/entrystandards/
+45. Athletics Canada. 2019 Canadian Track and Field Champsionships.
+2019. Accessed July 2021. https://athletics.ca/events/montreal2019/
+46. USA Track and Field. Qualifying standards. 2020. Accessed July
+2021. https://www.usatf.org/events/2021/2020-u-s-olympic-team-
+trials-track-ﬁeld/qualifying-standards
+47. Weather Underground. Sapporo, Hokkaido, Japan Weather Condi-
+tions. 2021. Accessed September 2021. https://www.wunderground.
+com/weather/jp/sapporo
+48. Association of Tennis Professionals. 2021 ATP Of ﬁcial Rule Book.
+Chapter 9: FedEx ATP Rankings. January 2021. Accessed September
+2021. https://www.atptour.com/en/corporate/rulebook
+49. Internation Judo Federation. IJF WRL Event Points. 2021. Accessed
+September 2021. https://www.ijf.org/wrl_downloads
+50. International Olympic Committee. Olympic schedule & results. 2021.
+Accessed September 2021. https://olympics.com/tokyo-2020/olympic-
+games/en/results/all-sports/olympic-schedule.htm
+51. Wilber RL, Pitsiladis YP. Kenyan and Ethiopian distance runners:
+what makes them so good? Int J Sports Physiol Perform . 2012;
+7(2):92–102. PubMed ID: 22634972 doi:10.1123/ijspp.7.2.92
+52. Olympedia. Countries. November 2018. Accessed August 2021.
+https://www.olympedia.org/countries
+53. West CR, Goosey-Tolfrey VL, Campbell IG, Romer LM. Effect of
+abdominal binding on respiratory mechanics during exercise in
+athletes with cervical spinal cord injury. J Appl Physiol . 2014;
+117(1):36–45. PubMed ID: 24855136 doi:10.1152/japplphysiol.
+00218.2014
+54. West CR, Campbell IG, Goosey-Tolfrey VL, Mason BS, Romer LM.
+Effects of abdominal binding on ﬁeld-based exercise responses in
+Paralympic athletes with cervical spinal cord injury. J Sci Med Sport.
+2014;17(4):351–355. PubMed ID: 23880254 doi:10.1016/j.jsams.
+2013.06.001
+55. Yanci J, Castagna C, Los Arcos A, et al. Muscle strength and
+anaerobic performance in football players with cerebral palsy. Disabil
+Health J. 2016;9(2):313–319. PubMed ID: 26723466 doi:10.1016/j.
+dhjo.2015.11.003
+56. Gawlik K, Zwierzchowska A, Roso łek B. Evaluation of lipid metab-
+olism and nutritional status in male goalball players. J Hum Kinet
+.
+2015;48(1):141–147. PubMed ID: 26834882 doi:10.1515/hukin-
+2015-0100
+57. Dehghansai N, Lemez S, Wattie N, Baker J. Training and develop-
+ment of Canadian wheelchair basketball players. Eur J Sport Sci .
+2017;17(5):511–518. PubMed ID: 28099092 doi:10.1080/17461391.
+2016.1276636
+58. International Paralympic Committee. Tokyo 2020 Results. 2021.
+Accessed September 2021. https://www.paralympic.org/tokyo-2020/
+results
+59. Graham-Paulson T, Perret C, Goosey-Tolfrey V. Case study:
+dose response of caffeine on 20-km handcycling time trial per-
+formance in a paratriathlete. Int J Sport Nutr Exerc Metab .
+2018;28(3):274 –278. PubMed ID: 29091469 doi:10.1123/
+ijsnem.2017-0089
+60. Rhodes JM, Mason BS, Perrat B, Smith MJ, Malone LA,
+Goosey-Tolfrey VL. Activity pro ﬁles of elite wheelchair rugby
+players during competition. Int J Sports Physiol Perform . 2015;
+10(3):318 –324. PubMed ID: 25202822 doi: 10.1123/ijspp.2014-
+0203
+Participant Classi ﬁcation Framework 331
+IJSPP Vol. 17, No. 2, 2022
+Brought to you by AUSTRALIAN CATHOLIC UNIVERSITY | Unauthenticated | Downloaded 03/09/22 03:46 AM UTC

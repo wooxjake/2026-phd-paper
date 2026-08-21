@@ -81,7 +81,7 @@ n Correspondence to: 2030 Sherman Health Science Research Centre, School of
 Kinesiology and Health Science, York University, 4700 Keele Street, Toronto,
 Ontario, Canada M3J 1P3. Tel.: þ1 416 736 2100x33568; fax: þ1 416 736 5772.
 E-mail address: jdrake@yorku.ca (J.D.M. Drake).
-Journal of Biomechanics 47 (2014) 2371 – 2377
+Journal of Biomechanics 47 (2014) 2371 –2377
 
 ===== PAGE 2 =====
 
@@ -120,7 +120,7 @@ to track the position of 31 passive-re ﬂective markers. As shown in Fig. 1, 24
 reﬂective markers were placed on eight rigid plates (three markers per plate),
 which were attached to the skin over speci ﬁc vertebrae (T
 1,T 4,T 5,T 8,T 9,T 12,L 1, and
-the posterior– superior iliac spines (PSISs)) as per Nairn et al. (2013) . The remaining
+the posterior–superior iliac spines (PSISs)) as per Nairn et al. (2013) . The remaining
 markers were placed over C7, greater trochanters, and the iliac crests and anterior –
 superior iliac spines of the pelvis.
 Participants were asked to perform seven different movements which were
@@ -131,9 +131,9 @@ which were completed both while sitting (-Sit) and standing (-Stand). The remain
 four movements were performed while seated only and used as the comparison
 postures with focus on thoracic twist orﬂexion, with the lumbar spine being in a neutral
 or at a mid-range ﬂexion posture. These combinations included: thoracic twist with a
-neutral lumbar (Twist – Neutral), thoracic twist with a ﬂexed lumbar (Twist – Flex),
-thoracic ﬂexion with a ﬂexed lumbar (Flex– Flex), and thoracic ﬂexion with a neutral
-lumbar (Flex– Neutral). Participants were asked to begin in an upright posture, move to
+neutral lumbar (Twist –Neutral), thoracic twist with a ﬂexed lumbar (Twist –Flex),
+thoracic ﬂexion with a ﬂexed lumbar (Flex–Flex), and thoracic ﬂexion with a neutral
+lumbar (Flex–Neutral). Participants were asked to begin in an upright posture, move to
 the speciﬁed end posture in approximately four seconds, hold the posture for ﬁve
 seconds (hold-phase), then to return to their starting position in another four seconds.
 The timing was assisted by both a metronome and researcher cues. For the maximum
@@ -152,13 +152,13 @@ The data were ﬁltered using a fourth-order dual-pass, low pass Butterworth
 ﬁlter, with a cut off frequency of 2.5 Hz, as determined through a residual analysis
 (Winter, 2009). The spine was partitioned into four regions based on the location of
 the rigid plates: upper-thoracic (T
-1– T4), mid-thoracic (T5– T8), lower-thoracic (T9– T12),
+1–T4), mid-thoracic (T5–T8), lower-thoracic (T9–T12),
 and lumbar (L1-PSIS) ( Nairn et al., 2013 ) as shown in Fig. 1. Angles for each region
 were expressed as both relative and global angles, with a regional relative angle
 being de ﬁned as the movement of a segment relative to the one below it, with the
 lumbar segment being relative to the pelvis. Global regional angles were taken as
 the particular segment with respect to the laboratory space. The three-dimensional
-rotation angles were calculated using an X– Y– Z (Flexion– Lateral Bend– Axial Twist)
+rotation angles were calculated using an X–Y–Z (Flexion–Lateral Bend–Axial Twist)
 Cardan sequence. Given the mathematical nature of the analysis it is possible slight
 variations in results may have arisen based on the rotation sequence used.
 However, this order has been used previously during three-dimensional, multi-
@@ -182,8 +182,8 @@ to a percent of maximum ROM both while sitting (%SIT) and standing (%STAND).
 The normalized ROM of each region (global and relative angles) for ﬂexion,
 axial twist and lateral bend, were analyzed separately using 2 /C2 6 repeated
 measures ANOVAs, with the two factors being: reference posture (%SIT or %STAND)
-and Movement trial (Flex – Neutral, Flex – Flex, Twist – Neutral, Twist – Flex, Max – Sit,
-and Max – Stand). For each plane, all of the comparison movements as well as the
+and Movement trial (Flex –Neutral, Flex –Flex, Twist –Neutral, Twist –Flex, Max –Sit,
+and Max –Stand). For each plane, all of the comparison movements as well as the
 speciﬁc seated and standing maximum planar movement trials for that plane were
 analyzed. For all analyses, α¼0.05 and all signi ﬁcant omnibus F-tests were further
 analyzed pairwise, and the p-value was adjusted using a Bonferroni correction. All
@@ -284,7 +284,7 @@ similar to MaxBend
 Twist trials similar
 to MaxTwistTable 2
 Summary of mean 7SEM Global range of motion ( 1) for each movement trial for the different spine segments. Seated postures include: thoracic ﬂex with lumbar ﬂex (Flex–
-Flex), thoracic twist with lumbar ﬂex (Twist– Flex), thoracic ﬂex with lumbar neutral (Flex – Neutral), thoracic twist with lumbar neutral (Twist – Neutral), and the maximum
+Flex), thoracic twist with lumbar ﬂex (Twist–Flex), thoracic ﬂex with lumbar neutral (Flex –Neutral), thoracic twist with lumbar neutral (Twist –Neutral), and the maximum
 planar movements for both sitting and standing.
 Flexion Flex –Flex Twist –Flex Flex –Neutral Twist –Neutral MaxFlex-Sit MaxFlex-Stand
 Upper-thoracic 48.1 (2.2) 30.5 (1.0) 27.5 (3.1) 4.3 (0.8) 101.4 (4.2) 121.1 (4.7)
@@ -309,15 +309,15 @@ B.D. Cotter et al. / Journal of Biomechanics 47 (2014) 2371 –2377 2373
 normalizing as a %SIT ( po0.001) ( Table 1 , Fig. 2 b). Comparing
 movement trials in the mid-thoracic region, the MaxFlex trials (both
 -Sit and -Stand) were not found to be different from the trials that
-speciﬁcally gave instructions for thoracic ﬂexion (Flex– Neutral and
-Flex– Flex differences up to 19.47%MaxFlex,p40.145) (Fig. 2b).
+speciﬁcally gave instructions for thoracic ﬂexion (Flex–Neutral and
+Flex–Flex differences up to 19.47%MaxFlex,p40.145) (Fig. 2b).
 Similarly the relative lower-thoracicregion showed an interaction
 between reference posture and movement trial forﬂexion, and a main
 effect of movement trial for twist and lateral bend ( F(5,60)418.12,
 po0.001). Normalizing theseﬂexion angles as a %SIT resulted in larger
 percentages than as a %STAND, (po0.001) (Table 1, Fig. 2c). In all three
 planes the maximum angle came from the maximum ROM trials
-(po0.04) (Fig. 2c); the one exception was Twist– Neutral, which was
+(po0.04) (Fig. 2c); the one exception was Twist–Neutral, which was
 /C24 36.5%MaxTwist less than MaxTwist-Stand, although this was
 approaching statistical signiﬁcance (p¼ 0.052).
 The lumbar region showed an interaction between reference
@@ -330,7 +330,7 @@ presented as %SIT were found to be larger than the angle as
 The reliability of the maximum planar trials was assessed with
 intraclass correlation coef ﬁcients (ICCs) reporting Cronbach's
 alpha using a 2-way model. High reliability was shown across all
-measures ( r range: 0.908 – 0.995) with the exception of one
+measures ( r range: 0.908 –0.995) with the exception of one
 variable (relative upper-thoracic sitting lateral bend, r¼0.645).
 4. Discussion
 This study was the ﬁr s tt or e p o r tn o r m a l i z e dt h o r a c i ca n g l ed a t a
@@ -395,7 +395,7 @@ capture their true maximum, with the trial resulting in largest
 ROM for each segment, being used for normalizing.
 Table 3
 Summary of mean 7SEM Relative range of motion ( 1) for each movement trial for the different spine regions. Seated postures include: thoracic ﬂex with lumbar ﬂex (Flex–
-Flex), thoracic twist with lumbar ﬂex (Twist– Flex), thoracic ﬂex with lumbar neutral (Flex – Neutral), thoracic twist with lumbar neutral (Twist – Neutral), and the maximum
+Flex), thoracic twist with lumbar ﬂex (Twist–Flex), thoracic ﬂex with lumbar neutral (Flex –Neutral), thoracic twist with lumbar neutral (Twist –Neutral), and the maximum
 planar movements for both sitting and standing.
 Flexion Flex –Flex Twist –Flex Flex –Neutral Twist –Neutral MaxFlex-Sit MaxFlex-Stand
 Upper-thoracic 1 1.9 (0.8) 4.3 (0.6) 12.1 (0.9) 4.0 (0.7) 7.8 (1.1) 1.9 (1.8)
@@ -418,7 +418,7 @@ B.D. Cotter et al. / Journal of Biomechanics 47 (2014) 2371 –23772374
 
 Fig. 2. Mean7SEM normalized relative range of motion (ROM) from each plane is shown, with the respective maximum planar trials, for: (a) upper-thoracic, (b) mid-thoracic, (c) lower-thoracic, and (d) lumbar regions. When
 appropriate, different upper-case letters represent signi ﬁcant differences between %SIT postures whereas different lower-case letters represent signi ﬁcant differences between %STAND postures. Segments with no main or
-interaction effects of reference postures where collapsed across reference posture. In all cases ‘ *’ denotes a signi ﬁcant difference between corresponding trials. α¼0.05 was used for all comparisons.
+interaction effects of reference postures where collapsed across reference posture. In all cases ‘*’ denotes a signi ﬁcant difference between corresponding trials. α¼0.05 was used for all comparisons.
 B.D. Cotter et al. / Journal of Biomechanics 47 (2014) 2371 –2377 2375
 
 ===== PAGE 6 =====
@@ -457,9 +457,9 @@ producing “anchored” motion may have resulted in the observed
 twisting of the lumbar region in the opposite direction to the
 intended movement and could be responsible for the large lateral
 bend angles that occurred during twisting trials, as found in the
-Twist– Neutral and Twist – Flex trials. Of the thirteen participants,
+Twist–Neutral and Twist –Flex trials. Of the thirteen participants,
 three participants may have used this anchoring technique during
-the comparison trials involving twist (Twist – Flex, Twist – Neutral),
+the comparison trials involving twist (Twist –Flex, Twist –Neutral),
 and one during the MaxTwist-Sit trials (produced global and
 relative twist angles to the left, noted during data analysis).
 Regardless, the magnitude of the movement for these participants
@@ -471,7 +471,7 @@ participant's global angle range over the three MaxTwist-Sit trials
 averaged to /C24 5.341, showing how little motion actually occurs at
 the lumbar region during seated twisting. The chair also seemed to
 affect relative ﬂexion of the upper-thoracic angle, as the Flex –
-Neutral and Flex – Flex trials resulted in percentages greater than
+Neutral and Flex –Flex trials resulted in percentages greater than
 175%STAND, similar to the ﬁnding of
 Nairn et al. (2013) . This could
 be a result of the dif ﬁculty in maintaining balance when attempt-
@@ -544,64 +544,64 @@ References
 Bauman, A., Ainsworth, B.E., Sallis, J.F., Hagstro ̈mer, M., Craig, C.L., Bull, F.C., Pratt,
 M., Venugopal, K., Chau, J., Sjo ̈ström, M., 201 1. The descriptive epidemiology of
 sitting: a 20-country comparison using the International Physical Activity
-Questionnaire (IPAQ). Am. J. Prev. Med. 41 (2), 228 – 235.
+Questionnaire (IPAQ). Am. J. Prev. Med. 41 (2), 228 –235.
 Callaghan, J.P., McGill, S.M., 2001. Low back joint loading and kinematics during
-standing and unsupported sitting. Ergonomics 44 (3), 280 – 294.
+standing and unsupported sitting. Ergonomics 44 (3), 280 –294.
 B.D. Cotter et al. / Journal of Biomechanics 47 (2014) 2371 –23772376
 
 ===== PAGE 7 =====
 
 Callaghan, J.P., Dunk, N.M., 2002. Examination of the ﬂexion relaxation phenom-
 enon in erector spinae muscles during short duration slumped sitting. Clin.
-Biomech. 17 (5), 353 – 360.
-Claus, A.P., Hides, J.A., Moseley, G.L., Hodges, P.W., 2009. Is ‘ ideal’ sitting posture
+Biomech. 17 (5), 353 –360.
+Claus, A.P., Hides, J.A., Moseley, G.L., Hodges, P.W., 2009. Is ‘ideal’ sitting posture
 real?: measurement of spinal curves in four sitting postures. Manual Ther.
-14 (4), 404 – 408.
+14 (4), 404 –408.
 Doriot, N., Wang, X., 2006. Effects of age and gender on maximum voluntary range
-of motion of the upper body joints. Ergonomics 49 (3), 269 – 281.
+of motion of the upper body joints. Ergonomics 49 (3), 269 –281.
 Dunk, N.M., Callaghan, J.P., 2010. Lumbar spine movement patterns during
 prolonged sitting differentiate low back pain developers from matched asymp-
-tomatic controls. Work: J. Prev. Assess. Rehabil. 35 (1), 3 – 14.
+tomatic controls. Work: J. Prev. Assess. Rehabil. 35 (1), 3 –14.
 Edmondston, S.J., Aggerholm, M., Elfving, S., Flores, N., Ng, C., Smith, R., Netto, K.,
 2007a. In ﬂuence of posture on the range of axial rotation and coupled lateral
-ﬂexion of the thoracic spine. J. Manip. Physiol. Ther. 30 (3), 193 – 199.
+ﬂexion of the thoracic spine. J. Manip. Physiol. Ther. 30 (3), 193 –199.
 Edmondston, S.J., Chan, H.Y., Wing, Chi, Ngai, G., Warren, M.L.R., Williams, J.M.,
 Glennon, S., Netto, K., 2007b. Postural neck pain: an investigation of habitual
-sitting posture, perception of ‘ good’ posture and cervicothoracic kinaesthesia.
-Manual Ther. 12 (4), 363 – 371.
+sitting posture, perception of ‘good’ posture and cervicothoracic kinaesthesia.
+Manual Ther. 12 (4), 363 –371.
 Gilleard, W., Crosbie, J., Smith, R., 2002. Effect of pregnancy on trunk range of
 motion when sitting and standing. Acta Obstet. Gynecol. Scand. 81 (1 1),
-1011– 1020.
+1011–1020.
 Gregersen, C.G., Lucas, D.B., 1967. An in vivo study of the axial rotation of the
-human thoracolumbar spine. J. Bone Joint Surg. 49 (2), 247 – 262.
+human thoracolumbar spine. J. Bone Joint Surg. 49 (2), 247 –262.
 Hoogendoorn, W.E., Bongers, P.M., de Vet, H.C., Douwes, M., Koes, B.W., Miedema,
 M.C., Aroems, G.A.M., Bouter, L.M., 2000. Flexion and rotation of the trunk and
 lifting at work are risk factors for low back pain: results of a prospective cohort
-study. Spine 25 (23), 323 – 328.
+study. Spine 25 (23), 323 –328.
 Johnson, K.D., Kim, K.-M., Yu, B.-K., Saliba, S.A., Grindstaff, T.L., 2012. Reliability of
 thoracic spine rotation range-of-motion measurements in healthy adults.
-J. Athl. Train. 47 (1), 52 – 60.
+J. Athl. Train. 47 (1), 52 –60.
 Nairn, B.C., Chisholm, S.R., Drake, J.D.M., 2013. What is slumped sitting?
-A kinematic and electromyographical evaluation. Manual Ther. 18 (6), 498 – 505.
+A kinematic and electromyographical evaluation. Manual Ther. 18 (6), 498 –505.
 Preuss, R.A., Popovic, M.R., 2010. Three-dimensional spine kinematics during
 multidirectional, target-directed trunk movement in sitting. J. Electromyogr.
-Kinesiol. 20 (5), 823 – 832.
+Kinesiol. 20 (5), 823 –832.
 Sjolie, A.N., 2004. Associations between activities and low back pain in adolescents.
-Scand. J. Med. Sci. Sports 14 (6), 352 – 359.
-Strahan, A.D., Burnett, A.F., Caneiro, J.P., Doyle, M.M., O ’ Sullivan, P.B., Goodman, C.,
+Scand. J. Med. Sci. Sports 14 (6), 352 –359.
+Strahan, A.D., Burnett, A.F., Caneiro, J.P., Doyle, M.M., O ’Sullivan, P.B., Goodman, C.,
 201 1. Differences in spinopelvic kinematics in sweep and scull ergometer
-rowing. Clin. J. Sport Med. 21 (4), 330 – 336.
+rowing. Clin. J. Sport Med. 21 (4), 330 –336.
 Sullivan, M.S., Dickinson, C.E., Troup, J.D., 1994. The in ﬂuence of age and gender on
 lumbar spine sagittal plane range of motion: a study of 1 126 healthy subjects.
 Spine 19 (6), 682
-– 686.
+–686.
 Torén, A., 2001. Muscle activity and range of motion during active trunk rotation in
-a sitting posture. Appl. Ergon. 32 (6), 583 – 591.
+a sitting posture. Appl. Ergon. 32 (6), 583 –591.
 Van Herp, G., Rowe, P., Salter, P., Paul, J.P., 2000. Three ‐dimensional lumbar spinal
 kinematics: a study of range of movement in 100 healthy subjects aged 20 to
-60þ years. Rheumatology 39 (12), 1337 – 1340.
+60þ years. Rheumatology 39 (12), 1337 –1340.
 Willems, J.M., Jull, G.A., Ng, J.F., 1996. An in vivo study of the primary and coupled
-rotations of the thoracic spine. Clin. Biomech. 1 1 (6), 31 1 – 316.
+rotations of the thoracic spine. Clin. Biomech. 1 1 (6), 31 1 –316.
 Winter, D.A., 2009. Biomechanics and Motor Control of Human Movement, 4th ed.
-Wiley, New York, pp. 70 – 73.
+Wiley, New York, pp. 70 –73.
 B.D. Cotter et al. / Journal of Biomechanics 47 (2014) 2371 –2377 2377

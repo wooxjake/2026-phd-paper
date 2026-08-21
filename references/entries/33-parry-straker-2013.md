@@ -12,3 +12,10 @@
 - **측정장비 및 변인**: 우측 고관절 부착 가속도계 Actical(Philips Respironics; 2.8×2.7×1.0cm, 17g, 무지향성), 60초 에포크 기록. 강도 절단값은 좌식 <91 counts, 저강도 91-<1,767 counts, 중강도 1,767-<5,182 counts, 고강도 >5,182 counts로, Actigraph 기준(<100 / 100-<1,951 / 1,951-<5,275 / >5,275)을 Actical로 환산한 값이다. 변인: 착용시간 대비 좌식·저강도·MVPA 비율, 지속 좌식 구간(30분 초과) 비율, 단시간(0-10분) 저강도 활동 비율, 좌식 중단(break) 횟수. 결과: 근무시간의 81.8%가 좌식이었고(저강도 15.3%, MVPA 2.9%) 이는 근무 외 시간의 좌식 비율 68.9%보다 유의하게 높았다(p<0.001). 근무시간에는 30분을 초과하는 지속 좌식 구간이 유의하게 많고 0-10분의 단시간 저강도 활동이 유의하게 적었으며, 좌식 중단 횟수도 유의하게 적었다(모두 p<0.001).
 - **현재 연구에서의 활용 범위**: 사무직 근로자의 근무시간 좌식 비율을 제시하는 근거로 Clemes et al. (2014)과 함께 사용한다. 다만 Actical은 카운트 절단값에 기반하므로 앉은 자세·선 자세·저강도 활동을 신뢰성 있게 구분하지 못한다(Smith et al., 2015에서 지적). 따라서 본문에서 이 문헌의 값은 상위 개념인 "좌식"으로 표기하고, 하위 개념인 "의자에 앉은 자세"의 근거로는 사용하지 않는다. 30분 초과 지속 좌식 구간이 근무시간에 집중된다는 결과는 본 연구의 30분 관찰 세션 길이를 정당화하는 근거로 추가 검토할 가치가 있다.
 
+## Citation Like
+
+- **원문 텍스트**: [The contribution of office work to sedentary behaviour associated risk.txt](../introduce/The%20contribution%20of%20office%20work%20to%20sedentary%20behaviour%20associated%20risk.txt)
+
+1. [introduce.md#L32](../../introduce.md#L32)
+   > Sedentary time accounted for 81.8% of work hours (light activity 15.3% and MVPA 2.9%), which was significantly greater than sedentary time during non-work time (68.9% p < 0.001).
+   > Office work is characterised by sustained sedentary time and contributes significantly to overall sedentary exposure of office workers.
