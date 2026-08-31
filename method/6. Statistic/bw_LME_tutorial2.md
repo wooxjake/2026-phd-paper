@@ -6,26 +6,32 @@
 
 ## Page 1
 
-A very basic tutorial for performing linear mixed effects analyses (Tutorial 2) Bodo Winter1 University of California, Merced, Cognitive and Information Sciences Last updated: 01/19/2013; 08/13/2013; 04/18/2014; 05/19/2014 This tutorial serves as a quick boot camp to jump-start your own analyses with linear mixed effects models. This text is different from other introductions by being decidedly conceptual; I will focus on why you want to use mixed models and how you should use them. While many introductions to this topic can be very daunting to readers who lake the appropriate statistical background, this text is going to be a softer kind of introduction… so, don’t panic! The tutorial requires R – so if you haven’t installed it yet, go and get it! I also recommend reading tutorial 1 in this series before you go further. You can find it here: http://www.bodowinter.com/tutorial/bw_LME_tutorial1.pdf This tutorial will take you about 1 hour (possibly a bit more). 
- 1 For updates and other tutorials, check my webpage www.bodowinter.com. If you have any suggestions, please write me an email: bodo@bodowinter.com Please cite as: Winter, B. (2013). Linear models and linear mixed effects models in R with linguistic applications. arXiv:1308.5499. [http://arxiv.org/pdf/1308.5499.pdf]
+A very basic tutorial for performing linear mixed effects analyses (Tutorial 2) Bodo Winter1 University of California, Merced, Cognitive and Information Sciences Last updated: 01/19/2013; 08/13/2013; 04/18/2014; 05/19/2014 This tutorial serves as a quick boot camp to jump-start your own analyses with linear mixed effects models. This text is different from other introductions by being decidedly conceptual; I will focus on why you want to use mixed models and how you should use them. While many introductions to this topic can be very daunting to readers who lake the appropriate statistical background, this text is going to be a softer kind of introduction… so, don’t panic! The tutorial requires R – so if you haven’t installed it yet, go and get it! I also recommend reading tutorial 1 in this series before you go further. You can find it here: http://www.bodowinter.com/tutorial/bw_LME_tutorial1.pdf This tutorial will take you about 1 hour (possibly a bit more).
+1 For updates and other tutorials, check my webpage www.bodowinter.com. If you have any suggestions, please write me an email: bodo@bodowinter.com Please cite as: Winter, B. (2013). Linear models and linear mixed effects models in R with linguistic applications. arXiv:1308.5499. [http://arxiv.org/pdf/1308.5499.pdf]
 
 ---
 
 ## Page 2
 
-Introduction: Fixed and random effects In tutorial 1, we talked about how we could use the linear model to express the relationships in our data in terms of a function. In one example, we modeled pitch as a function of age. 
+Introduction: Fixed and random effects In tutorial 1, we talked about how we could use the linear model to express the relationships in our data in terms of a function. In one example, we modeled pitch as a function of age.
+
 ```text
 pitch ~ age + ε
 ```
- We called “age” a fixed effect, and ε was our “error term” to represent the deviations from our predictions due to “random” factors that we cannot control experimentally. You could call this part the “probabilistic” or “stochastic” part of the model. Now, we’ll unpack this “ε” and add complexity to it. That is, we change the random aspect of our model, essentially leaving the systematic part unchanged. In mixed models, everything in the “systematic” part of your model works just like with linear models in tutorial 1. In one of my studies, we have been interested in the relationship between pitch and politeness (Winter & Grawunder, 2012). So, essentially we’re aiming for a relationship that looks like something like this: 
+
+We called “age” a fixed effect, and ε was our “error term” to represent the deviations from our predictions due to “random” factors that we cannot control experimentally. You could call this part the “probabilistic” or “stochastic” part of the model. Now, we’ll unpack this “ε” and add complexity to it. That is, we change the random aspect of our model, essentially leaving the systematic part unchanged. In mixed models, everything in the “systematic” part of your model works just like with linear models in tutorial 1. In one of my studies, we have been interested in the relationship between pitch and politeness (Winter & Grawunder, 2012). So, essentially we’re aiming for a relationship that looks like something like this:
+
 ```text
 pitch ~ politeness + ε
 ```
- In our study, politeness was treated as a categorical factor with two levels… a formal register and an informal register. On top of that, we also had an additional fixed effect, sex, and so our formula looks more like this: 
+
+In our study, politeness was treated as a categorical factor with two levels… a formal register and an informal register. On top of that, we also had an additional fixed effect, sex, and so our formula looks more like this:
+
 ```text
 pitch ~ politeness + sex + ε
 ```
- So far so good. Now things get a little more complicated. Our design was so that we took multiple measures per subject. That is, each subject gave multiple polite responses and multiple informal responses. If we go back to the discussion of the assumptions of the linear model in tutorial 1, we can immediately see that this would violate the independence assumption: Multiple responses from the same subject cannot be regarded as independent from each other. Every person has a slightly different voice pitch, and this is going to be an idiosyncratic factor that affects all responses from the same subject, thus rendering these different responses inter-dependent rather than independent. The way we’re going to deal with this situation is to add a random effect for subject. This allows us to resolve this non-independence by assuming a different “baseline” pitch value for each subject. So, subject 1 may have a mean voice pitch of 233 Hz across different utterances, and subject 2 may have a mean voice pitch of 210 Hz per subject. Here’s a visual depiction of how this looks like:
+
+So far so good. Now things get a little more complicated. Our design was so that we took multiple measures per subject. That is, each subject gave multiple polite responses and multiple informal responses. If we go back to the discussion of the assumptions of the linear model in tutorial 1, we can immediately see that this would violate the independence assumption: Multiple responses from the same subject cannot be regarded as independent from each other. Every person has a slightly different voice pitch, and this is going to be an idiosyncratic factor that affects all responses from the same subject, thus rendering these different responses inter-dependent rather than independent. The way we’re going to deal with this situation is to add a random effect for subject. This allows us to resolve this non-independence by assuming a different “baseline” pitch value for each subject. So, subject 1 may have a mean voice pitch of 233 Hz across different utterances, and subject 2 may have a mean voice pitch of 210 Hz per subject. Here’s a visual depiction of how this looks like:
 
 ---
 
@@ -40,11 +46,13 @@ Subjects Subjects F1 to F9 are female subjects. Subjects M1 to M7 are male subje
 
 ## Page 4
 
-Our updated formula looks like this: 
+Our updated formula looks like this:
+
 ```text
 pitch ~ politeness + sex + (1|subject) + ε
 ```
- “(1|subject)” looks a little enigmatic. I’m already using the R-typical notation format here. What this is saying is “assume an intercept that’s different for each subject” … and “1” stands for the intercept here. You can think of this formula as telling your model that it should expect that there’s going to be multiple responses per subject, and these responses will depend on each subject’s baseline level. This effectively resolves the non-independence that stems from having multiple responses by the same subject. Note that the formula still contains a general error term “ε”. This is necessary because even if we accounted for individual by-subject variation, there’s still going to be “random” differences between different utterances from the same subject. O.k., so far so good. But we’re not done yet. In the design that we used in Winter and Grawunder (2012), there’s an additional source of non-independence that needs to be accounted for: We had different items. One item, for example, was an “asking for a favor” scenario. Here, subjects had to imagine asking a professor for a favor (polite condition), or asking a peer for a favor (informal condition). Another item was an “excusing for coming too late” scenario, which was similarly divided between polite and informal. In total, there were 7 such different items. Similar to the case of by-subject variation, we also expect by-item variation. For example, there might be something special about “excusing for coming too late” which leads to overall higher pitch (maybe because it’s more embarrassing than asking for a favor), regardless of the influence of politeness. And whatever it is that makes one item different from another, the responses of the different subjects in our experiment might similarly be affected by this random factor that is due to item-specific idiosyncrasies. That is, if “excusing for coming to late” leads to high pitch (for whatever reason), it’s going to do so for subject 1, subject 2, subject 3 and so on. Thus, the different responses to one item cannot be regarded as independent, or, in other words, there’s something similar to multiple responses to the same item – even if they come from different people. Again, if we did not account for these interdependencies, we would violate the independence assumption. Here’s a visual representation of the by-item variability:
+
+“(1|subject)” looks a little enigmatic. I’m already using the R-typical notation format here. What this is saying is “assume an intercept that’s different for each subject” … and “1” stands for the intercept here. You can think of this formula as telling your model that it should expect that there’s going to be multiple responses per subject, and these responses will depend on each subject’s baseline level. This effectively resolves the non-independence that stems from having multiple responses by the same subject. Note that the formula still contains a general error term “ε”. This is necessary because even if we accounted for individual by-subject variation, there’s still going to be “random” differences between different utterances from the same subject. O.k., so far so good. But we’re not done yet. In the design that we used in Winter and Grawunder (2012), there’s an additional source of non-independence that needs to be accounted for: We had different items. One item, for example, was an “asking for a favor” scenario. Here, subjects had to imagine asking a professor for a favor (polite condition), or asking a peer for a favor (informal condition). Another item was an “excusing for coming too late” scenario, which was similarly divided between polite and informal. In total, there were 7 such different items. Similar to the case of by-subject variation, we also expect by-item variation. For example, there might be something special about “excusing for coming too late” which leads to overall higher pitch (maybe because it’s more embarrassing than asking for a favor), regardless of the influence of politeness. And whatever it is that makes one item different from another, the responses of the different subjects in our experiment might similarly be affected by this random factor that is due to item-specific idiosyncrasies. That is, if “excusing for coming to late” leads to high pitch (for whatever reason), it’s going to do so for subject 1, subject 2, subject 3 and so on. Thus, the different responses to one item cannot be regarded as independent, or, in other words, there’s something similar to multiple responses to the same item – even if they come from different people. Again, if we did not account for these interdependencies, we would violate the independence assumption. Here’s a visual representation of the by-item variability:
 
 ---
 
@@ -53,35 +61,44 @@ pitch ~ politeness + sex + (1|subject) + ε
 1 2 3 4 5 6 7
 100150200250300350400
 Mean Pitch (Hertz)
-Items The variation between items isn’t as big as the variation between subjects – but there are still noticeable differences, and we better account for them in our model! We do this by adding an additional random effect: 
+Items The variation between items isn’t as big as the variation between subjects – but there are still noticeable differences, and we better account for them in our model! We do this by adding an additional random effect:
+
 ```text
 pitch ~ politeness + sex + (1|subject) + (1|item) + ε
 ```
- So, on top of different intercepts for different subjects, we now also have different intercepts for different items. We now “resolved” those non-independencies (our model knows that there are multiple responses per subject and per item), and we accounted for by-subject and by-item variation in overall pitch levels. Note the efficiency and elegance of this model. Before, people used to do a lot of averaging. For example, in psycholinguistics, people would average over items for a subjects-analysis (each data point comes from one subject, assuring independence), and then they would also average over subjects for an items-analysis (each data point comes from one item). There’s a whole literature on the advantages and disadvantages of this approach (Clark, 1973; Forster & Dickinson, 1976; Wike & Church, 1976; Raaijmakers, Schrijnemakers, & Gremmen, 1999; Raaijmakers, 2003; Locker, Hoffman, & Bovaird, 2007; Baayen, Davidson, & Bates, 2008; Barr, Levy, Scheepers, & Tilly, 2013). The upshot is: while traditional analyses that do averaging are in principle legit, mixed models give you much more flexibility … and they take the full data into account. If you do a subjects-analysis (averaging over items), you’re essentially disregarding by-item variation. Conversely, in the items-analysis, you’re
+
+So, on top of different intercepts for different subjects, we now also have different intercepts for different items. We now “resolved” those non-independencies (our model knows that there are multiple responses per subject and per item), and we accounted for by-subject and by-item variation in overall pitch levels. Note the efficiency and elegance of this model. Before, people used to do a lot of averaging. For example, in psycholinguistics, people would average over items for a subjects-analysis (each data point comes from one subject, assuring independence), and then they would also average over subjects for an items-analysis (each data point comes from one item). There’s a whole literature on the advantages and disadvantages of this approach (Clark, 1973; Forster & Dickinson, 1976; Wike & Church, 1976; Raaijmakers, Schrijnemakers, & Gremmen, 1999; Raaijmakers, 2003; Locker, Hoffman, & Bovaird, 2007; Baayen, Davidson, & Bates, 2008; Barr, Levy, Scheepers, & Tilly, 2013). The upshot is: while traditional analyses that do averaging are in principle legit, mixed models give you much more flexibility … and they take the full data into account. If you do a subjects-analysis (averaging over items), you’re essentially disregarding by-item variation. Conversely, in the items-analysis, you’re
 
 ---
 
 ## Page 6
 
-disregarding by-subject variation. Mixed models account for both sources of variation in a single model. Neat, init? Let’s move on to R and apply our current understanding of the linear mixed effects model!! Mixed models in R For a start, we need to install the R package lme4 (Bates, Maechler & Bolker, 2012). While being connected to the internet, open R and type in: 
+disregarding by-subject variation. Mixed models account for both sources of variation in a single model. Neat, init? Let’s move on to R and apply our current understanding of the linear mixed effects model!! Mixed models in R For a start, we need to install the R package lme4 (Bates, Maechler & Bolker, 2012). While being connected to the internet, open R and type in:
+
 ```r
 install.packages(“lme4”)
 ```
- Select a server close to you. After installation, load the lme4 package into R with the following command: 
+
+Select a server close to you. After installation, load the lme4 package into R with the following command:
+
 ```r
 library(lme4)
 ```
+
 Now, you have the function lmer() available to you, which is the mixed model equivalent of the function lm() in tutorial 1. This function is going to construct mixed models for us. But first, we need some data! I put a shortened version of the dataset that we used for Winter and Grawunder (2012) onto my server. You can load it into R the following way:
 
 ```r
 politeness= read.csv("http://www.bodowinter.com/tutorial/politeness_data.csv")
 ```
 
-Or you can download it by hand… http://www.bodowinter.com/tutorial/politeness_data.csv …and load it into R the following way: 
+Or you can download it by hand… http://www.bodowinter.com/tutorial/politeness_data.csv …and load it into R the following way:
+
 ```r
 politeness = read.csv(file.choose( ))
 ```
- Now, you have a data frame called politeness in your R environment. You can familiarize yourself with the data by using head(), tail(), summary(), str(), colnames()… or whatever commands you commonly use to get an overview of a dataset. Also, it is always good to check for missing values: 
+
+Now, you have a data frame called politeness in your R environment. You can familiarize yourself with the data by using head(), tail(), summary(), str(), colnames()… or whatever commands you commonly use to get an overview of a dataset. Also, it is always good to check for missing values:
+
 ```r
 which(is.na(politeness$frequency))
 ```
@@ -90,15 +107,18 @@ which(is.na(politeness$frequency))
 
 ## Page 7
 
-Or, alternatively, you can use the following: 
+Or, alternatively, you can use the following:
+
 ```r
 which(!complete.cases(politeness))
 ```
- Apparently, there is a missing value in row 39. This is important to know but fortunately, a few missing values provide no problems for our mixed model analyses. The difference in politeness level is represented in the column called “attitude”. In that column, “pol” stands for polite and “inf” for informal. Sex is represented as “F” and “M” in the column “gender”. The dependent measure is “frequency”, which is the voice pitch measured in Hertz (Hz). To remind you, higher values mean higher pitch. The interesting random effects for us are in the column “subject” and “scenario”, the latter being the name of the item column (remember the different scenarios like “asking for a favor”?). Let’s look at the relationship between politeness and pitch by means of a boxplot: 
+
+Apparently, there is a missing value in row 39. This is important to know but fortunately, a few missing values provide no problems for our mixed model analyses. The difference in politeness level is represented in the column called “attitude”. In that column, “pol” stands for polite and “inf” for informal. Sex is represented as “F” and “M” in the column “gender”. The dependent measure is “frequency”, which is the voice pitch measured in Hertz (Hz). To remind you, higher values mean higher pitch. The interesting random effects for us are in the column “subject” and “scenario”, the latter being the name of the item column (remember the different scenarios like “asking for a favor”?). Let’s look at the relationship between politeness and pitch by means of a boxplot:
+
 ```r
 boxplot(frequency ~ attitude*gender, col=c("white","lightgray"),politeness)
 ```
- 
+
 inf.F pol.F inf.M pol.M
 100 150 200 250 300
 
@@ -106,15 +126,20 @@ inf.F pol.F inf.M pol.M
 
 ## Page 8
 
-What do we see? In both cases, the median line (the thick line in the middle of the boxplot) is lower for the polite than for the informal condition. However, there may be a bit more overlap between the two politeness categories for males than for females. Let’s start with constructing our model! Type in the command below … 
+What do we see? In both cases, the median line (the thick line in the middle of the boxplot) is lower for the polite than for the informal condition. However, there may be a bit more overlap between the two politeness categories for males than for females. Let’s start with constructing our model! Type in the command below …
+
 ```r
 lmer(frequency ~ attitude, data=politeness)
 ```
- … and you will retrieve an error that should look like this: Error in mkReTrms(findbars(RHSForm(formula)), fr) : No random effects terms specified in formula This is because the model needs a random effect (after all, “mixing” fixed and random effects is the point of mixed models). We just specified a single fixed effect, attitude, and that was not enough. So, let’s add random intercepts for subjects and items (remember that items are called “scenarios” here): 
+
+… and you will retrieve an error that should look like this: Error in mkReTrms(findbars(RHSForm(formula)), fr) : No random effects terms specified in formula This is because the model needs a random effect (after all, “mixing” fixed and random effects is the point of mixed models). We just specified a single fixed effect, attitude, and that was not enough. So, let’s add random intercepts for subjects and items (remember that items are called “scenarios” here):
+
 ```r
 politeness.model = lmer(frequency ~ attitude + (1|subject) + (1|scenario), data=politeness)
 ```
- The last command created a model that used the fixed effect “attitude” (polite vs. informal) to predict voice pitch, controlling for by-subject and by-item variability. We saved this model in the object politeness.model. Use summary() to display the full result: 
+
+The last command created a model that used the fixed effect “attitude” (polite vs. informal) to predict voice pitch, controlling for by-subject and by-item variability. We saved this model in the object politeness.model. Use summary() to display the full result:
+
 ```r
 summary(politeness.model)
 ```
@@ -123,71 +148,85 @@ summary(politeness.model)
 
 ## Page 9
 
-Again, let’s work through this: First, the output reminds you of the model that you fit. Then, there’s some general summary statistics such as Akaike’s Information Criterion, the log-Likelihood etc. We won’t go into the meaning of these different values in this tutorial because these are conceptually a little bit more involved. Let’s focus on the output for the random effects first: 
- Have a look at the column standard deviation. This is a measure of how much variability in the dependent measure there is due to scenarios and subjects (our two random effects). You can see that scenario (“item”) has much less variability than subject. Based on our boxplots from above, where we saw more idiosyncratic differences between subjects than between items, this is to be expected. Then, you see “Residual” which stands for the variability that’s not due to either scenario or subject. This is our “ε” again, the “random” deviations from the predicted values that are not due to subjects and items. Here, this reflects the fact that each and every utterance has some factors that affect pitch that are outside of the purview of our experiment. The fixed effects output mirrors the coefficient table that we considered in tutorial 1 when we talked about the results of our linear model analysis.
+Again, let’s work through this: First, the output reminds you of the model that you fit. Then, there’s some general summary statistics such as Akaike’s Information Criterion, the log-Likelihood etc. We won’t go into the meaning of these different values in this tutorial because these are conceptually a little bit more involved. Let’s focus on the output for the random effects first:
+Have a look at the column standard deviation. This is a measure of how much variability in the dependent measure there is due to scenarios and subjects (our two random effects). You can see that scenario (“item”) has much less variability than subject. Based on our boxplots from above, where we saw more idiosyncratic differences between subjects than between items, this is to be expected. Then, you see “Residual” which stands for the variability that’s not due to either scenario or subject. This is our “ε” again, the “random” deviations from the predicted values that are not due to subjects and items. Here, this reflects the fact that each and every utterance has some factors that affect pitch that are outside of the purview of our experiment. The fixed effects output mirrors the coefficient table that we considered in tutorial 1 when we talked about the results of our linear model analysis.
 
 ---
 
 ## Page 10
 
-The coefficient “attitudepol” is the slope for the categorical effect of politeness. Minus 19.695 means that to go from “informal” to “polite”, you have to go down -19.695 Hz. In other words: pitch is lower in polite speech than in informal speech, by about 20 Hz. Then, there’s a standard error associated with this slope, and a t-value, which is simply the estimate (20 Hz) divided by the standard error (check this by performing the calculation by hand). Note that the lmer() function (just like the lm() function in tutorial 1) took whatever comes first in the alphabet to be the reference level. “inf” comes before “pol”, so the slope represents the change from “inf” to “pol”. If the reference category would be “pol” rather than “inf”, the only thing that would change would be that the sign of the coefficient 19.695 would be positive. Standard errors, significance etc. would remain the same. Now, let’s consider the intercept. In tutorial 1, we already talked about the fact that oftentimes, model intercepts are not particularly meaningful. But this intercept is especially weird. It’s 202.588 Hz … where does that value come from? If you look back at the boxplot that we constructed earlier, you can see that the value 202.588 Hz seems to fall halfway between males and females (in the informal condition) – and this is indeed what this intercept represents. It’s the average of our data for the informal condition. As we didn’t inform our model that there’s two sexes in our dataset, the intercept is particularly off, in between the voice pitch of males and females. This is just like the classic example of a farm with a dozen hens and a dozen cows … where the mean legs of all farm animals considered together is three, not a particularly informative representation of what’s going on at the farm. Let’s add gender as an additional fixed effect: 
+The coefficient “attitudepol” is the slope for the categorical effect of politeness. Minus 19.695 means that to go from “informal” to “polite”, you have to go down -19.695 Hz. In other words: pitch is lower in polite speech than in informal speech, by about 20 Hz. Then, there’s a standard error associated with this slope, and a t-value, which is simply the estimate (20 Hz) divided by the standard error (check this by performing the calculation by hand). Note that the lmer() function (just like the lm() function in tutorial 1) took whatever comes first in the alphabet to be the reference level. “inf” comes before “pol”, so the slope represents the change from “inf” to “pol”. If the reference category would be “pol” rather than “inf”, the only thing that would change would be that the sign of the coefficient 19.695 would be positive. Standard errors, significance etc. would remain the same. Now, let’s consider the intercept. In tutorial 1, we already talked about the fact that oftentimes, model intercepts are not particularly meaningful. But this intercept is especially weird. It’s 202.588 Hz … where does that value come from? If you look back at the boxplot that we constructed earlier, you can see that the value 202.588 Hz seems to fall halfway between males and females (in the informal condition) – and this is indeed what this intercept represents. It’s the average of our data for the informal condition. As we didn’t inform our model that there’s two sexes in our dataset, the intercept is particularly off, in between the voice pitch of males and females. This is just like the classic example of a farm with a dozen hens and a dozen cows … where the mean legs of all farm animals considered together is three, not a particularly informative representation of what’s going on at the farm. Let’s add gender as an additional fixed effect:
+
 ```r
 politeness.model = lmer(frequency ~ attitude + gender + (1|subject) + (1|scenario), data=politeness)
 ```
- We overwrote our original model object politeness.model with this new model. Note that we added “gender” as a fixed effect because the relationship between sex and pitch is systematic and predictable (i.e., we expect females to
+
+We overwrote our original model object politeness.model with this new model. Note that we added “gender” as a fixed effect because the relationship between sex and pitch is systematic and predictable (i.e., we expect females to
 
 ---
 
 ## Page 11
 
-have higher pitch). This is different from the random effects subject and item, where the relationship between these and pitch is much more unpredictable and “random”. We’ll talk more about the distinction between fixed and random effects later. Let’s print the model output again: 
+have higher pitch). This is different from the random effects subject and item, where the relationship between these and pitch is much more unpredictable and “random”. We’ll talk more about the distinction between fixed and random effects later. Let’s print the model output again:
+
 ```r
 summary(politeness.model)
 ```
- Let’s have a look at the residuals first: 
- Note that compared to our earlier model without the fixed effect gender, the variation that’s associated with the random effect “subject” dropped considerably. This is because the variation that’s due to gender was confounded with the variation that’s due to subject. The model didn’t know about males and females, and so its predictions were relatively more off, creating relatively larger residuals. Now that we have added the effect of gender, we have shifted a considerable amount of the variance that was previously in the random effects component (differences between male and female individuals) to the fixed effects component. Let’s look at the coefficient table now: 
- We see that males and females differ by about 109 Hz. And the intercept is now much higher (256.846 Hz), as it now represents the female category (for the informal condition). The coefficient for the effect of attitude didn’t change much. Statistical significance So far, we haven’t talked about significance yet. But, if you want to publish this, you’ll most likely need to report some kind of p-value. Unfortunately, p-values for mixed models aren’t as straightforward as they are for the linear model. There are multiple approaches, and there’s a discussion surrounding these, with
+
+Let’s have a look at the residuals first:
+Note that compared to our earlier model without the fixed effect gender, the variation that’s associated with the random effect “subject” dropped considerably. This is because the variation that’s due to gender was confounded with the variation that’s due to subject. The model didn’t know about males and females, and so its predictions were relatively more off, creating relatively larger residuals. Now that we have added the effect of gender, we have shifted a considerable amount of the variance that was previously in the random effects component (differences between male and female individuals) to the fixed effects component. Let’s look at the coefficient table now:
+We see that males and females differ by about 109 Hz. And the intercept is now much higher (256.846 Hz), as it now represents the female category (for the informal condition). The coefficient for the effect of attitude didn’t change much. Statistical significance So far, we haven’t talked about significance yet. But, if you want to publish this, you’ll most likely need to report some kind of p-value. Unfortunately, p-values for mixed models aren’t as straightforward as they are for the linear model. There are multiple approaches, and there’s a discussion surrounding these, with
 
 ---
 
 ## Page 12
 
-sometimes wildly differing opinions about which approach is the best. Here, I focus on the Likelihood Ratio Test as a means to attain p-values. Likelihood is the probability of seeing the data you collected given your model. The logic of the likelihood ratio test is to compare the likelihood of two models with each other. First, the model without the factor that you’re interested in (the null model), then the model with the factor that you’re interested in. Maybe an analogy helps you to wrap your head around this: Say, you’re a hiker, and you carry a bunch of different things with you (e.g., a gallon of water, a flashlight). To know whether each item affects your hiking speed, you need to get rid of it. So, you get rid of the flashlight and run without it. Your hiking speed is not affected much. Then, you get rid of the gallon of water, and you realize that your hiking speed is affected a lot. You would conclude that carrying a gallon of water with you significantly affects your hiking speed whereas carrying a flashlight does not. Expressed in formula, you would want to compare the following two “models” (think “hikes”) with each other: 
+sometimes wildly differing opinions about which approach is the best. Here, I focus on the Likelihood Ratio Test as a means to attain p-values. Likelihood is the probability of seeing the data you collected given your model. The logic of the likelihood ratio test is to compare the likelihood of two models with each other. First, the model without the factor that you’re interested in (the null model), then the model with the factor that you’re interested in. Maybe an analogy helps you to wrap your head around this: Say, you’re a hiker, and you carry a bunch of different things with you (e.g., a gallon of water, a flashlight). To know whether each item affects your hiking speed, you need to get rid of it. So, you get rid of the flashlight and run without it. Your hiking speed is not affected much. Then, you get rid of the gallon of water, and you realize that your hiking speed is affected a lot. You would conclude that carrying a gallon of water with you significantly affects your hiking speed whereas carrying a flashlight does not. Expressed in formula, you would want to compare the following two “models” (think “hikes”) with each other:
+
 ```text
 mdl1 = hiking speed ~ gallon of water + flashlight
 ```
- 
+
 ```text
 mdl2 = hiking speed ~ flashlight
 ```
- If there is a significant difference between “mdl2” and “mdl1”, then you know that the gallon of water matters. To assess the effect of the flashlight, you would have to do a similar comparison: 
+
+If there is a significant difference between “mdl2” and “mdl1”, then you know that the gallon of water matters. To assess the effect of the flashlight, you would have to do a similar comparison:
+
 ```text
 mdl1 = hiking speed ~ gallon of water + flashlight
 ```
- 
+
 ```text
 mdl2 = hiking speed ~ gallon of water
 ```
- In both cases, we compared a full model (with the fixed effects in question) against a reduced model without the effects in question. In each case, we conclude that a fixed effect is significant if the difference between the likelihood of these two models is significant. Here’s how you would do this in R. First, you need to construct the null model: 
+
+In both cases, we compared a full model (with the fixed effects in question) against a reduced model without the effects in question. In each case, we conclude that a fixed effect is significant if the difference between the likelihood of these two models is significant. Here’s how you would do this in R. First, you need to construct the null model:
+
 ```r
 politeness.null = lmer(frequency ~ gender + (1|subject) + (1|scenario), data=politeness, REML=FALSE)
 ```
- Note one additional technical detail. I just added the argument REML=FALSE. Don’t worry about it too much – but in case you’re interested, this changes some internal stuff (in particular, the likelihood estimator), and it is necessary to do this when you compare models using the likelihood ratio test (Pinheiro & Bates, 2000; Bolker et al., 2009).
+
+Note one additional technical detail. I just added the argument REML=FALSE. Don’t worry about it too much – but in case you’re interested, this changes some internal stuff (in particular, the likelihood estimator), and it is necessary to do this when you compare models using the likelihood ratio test (Pinheiro & Bates, 2000; Bolker et al., 2009).
 
 ---
 
 ## Page 13
 
-Then, we re-do the full model above, this time also with REML=FALSE: 
+Then, we re-do the full model above, this time also with REML=FALSE:
+
 ```r
 politeness.model = lmer(frequency ~ attitude + gender + (1|subject) + (1|scenario), data=politeness, REML=FALSE)
 ```
- Now you have two models to compare with each other – one with the effect in question, one without the effect in question. We perform the likelihood ratio test using the anova() function: 
+
+Now you have two models to compare with each other – one with the effect in question, one without the effect in question. We perform the likelihood ratio test using the anova() function:
+
 ```r
 anova(politeness.null,politeness.model)
 ```
- This is the resulting output: 
- You’re being reminded of the formula of the two models that you’re comparing. Then, you find a Chi-Square value, the associated degrees of freedom and the p-value2. You would report this result the following way: “… politeness affected pitch (χ2(1)=11.62, p=0.00065), lowering it by about 19.7 Hz ± 5.6 (standard errors) …” If you’re used to t-tests, ANOVAs and linear model stuff, then this likelihood-based approach might seem weird to you. Rather than getting a p-value straightforwardly from your model, you get a p-value from a comparison of two models. To help you get used to the logic, remember the hiker and the analogy of putting one piece of luggage away to estimate that piece’s effect on hiking speed. 2 You might wonder why we’re doing a Chi-Square test here. There’s a lot of technical detail here, but the main thing is that there’s a theorem, called Wilk’s Theorem, which states that negative two times the log likelihood ratio of two models approaches a Chi-Square distribution with degrees of freedom of the number of parameters that differ between the models (in this case, only “attitude”). So, somebody has done a proof of this and you’re good to go! Do note, also, that some people don’t like “straight-jacketing” likelihood into the classical null-hypothesis significance testing framework that we’re following here, and so they would disagree with the interpretation of likelihood the way we used it in the likelihood ratio test.
+
+This is the resulting output:
+You’re being reminded of the formula of the two models that you’re comparing. Then, you find a Chi-Square value, the associated degrees of freedom and the p-value2. You would report this result the following way: “… politeness affected pitch (χ2(1)=11.62, p=0.00065), lowering it by about 19.7 Hz ± 5.6 (standard errors) …” If you’re used to t-tests, ANOVAs and linear model stuff, then this likelihood-based approach might seem weird to you. Rather than getting a p-value straightforwardly from your model, you get a p-value from a comparison of two models. To help you get used to the logic, remember the hiker and the analogy of putting one piece of luggage away to estimate that piece’s effect on hiking speed. 2 You might wonder why we’re doing a Chi-Square test here. There’s a lot of technical detail here, but the main thing is that there’s a theorem, called Wilk’s Theorem, which states that negative two times the log likelihood ratio of two models approaches a Chi-Square distribution with degrees of freedom of the number of parameters that differ between the models (in this case, only “attitude”). So, somebody has done a proof of this and you’re good to go! Do note, also, that some people don’t like “straight-jacketing” likelihood into the classical null-hypothesis significance testing framework that we’re following here, and so they would disagree with the interpretation of likelihood the way we used it in the likelihood ratio test.
 
 ---
 
@@ -199,52 +238,64 @@ Note that we kept the predictor “gender” in the model. The only change betwe
 full model: frequency ~ attitude + gender
 reduced model: frequency ~ 1
 ```
- “mdl.null” in this case is an intercept only model, where you just estimate the mean of the data. You could compare this to “mdl.full”, which has two more effects, “attitude” and “gender”. If this difference became significant, you would know that “mdl.full” and “mdl.null” are significantly different from each other – but you would not know whether this difference is due to “attitude” or due to “gender”. Coming back to the hiker analogy, it is as if you dropped both the gallon of water and the flashlight and then you realized that your hiking speed changed, but you wouldn’t be able to determine conclusively which one of the two pieces of luggage was the crucial one. A final thing regarding likelihood ratio tests: What happens if you have an interaction? We didn’t talk much about interactions yet, but say, you predicted “attitude” to have an effect on pitch that is somehow modulated through “gender”. For example, it could be that speaking politely versus informally has the opposite effect for men and women. Or it could be that women show a difference and men don’t (or vice versa). If you have such an inter-dependence between two factors (called an interaction), you can test it the following way:
+
+“mdl.null” in this case is an intercept only model, where you just estimate the mean of the data. You could compare this to “mdl.full”, which has two more effects, “attitude” and “gender”. If this difference became significant, you would know that “mdl.full” and “mdl.null” are significantly different from each other – but you would not know whether this difference is due to “attitude” or due to “gender”. Coming back to the hiker analogy, it is as if you dropped both the gallon of water and the flashlight and then you realized that your hiking speed changed, but you wouldn’t be able to determine conclusively which one of the two pieces of luggage was the crucial one. A final thing regarding likelihood ratio tests: What happens if you have an interaction? We didn’t talk much about interactions yet, but say, you predicted “attitude” to have an effect on pitch that is somehow modulated through “gender”. For example, it could be that speaking politely versus informally has the opposite effect for men and women. Or it could be that women show a difference and men don’t (or vice versa). If you have such an inter-dependence between two factors (called an interaction), you can test it the following way:
 
 ```text
 full model: frequency ~ attitude*gender
 reduced model: frequency ~ attitude + gender
 ```
- In R, interactions between two factors are specified with a “*” rather than a “+”. If you compare the above models in a likelihood ratio test using the anova() function, then you would get a p-value that gives you the significance of the interaction. If this comparison is significant, you know that attitude and gender are significantly inter-dependent on each other. If this is comparison is not significant, there is no significant inter-dependence. It might be a good idea to try out different likelihood comparisons with the data provided above, say “attitude*gender” versus “attitude + gender” versus simply “1” (the intercept only model). Remember to always put REML=FALSE when creating your model.
+
+In R, interactions between two factors are specified with a “*” rather than a “+”. If you compare the above models in a likelihood ratio test using the anova() function, then you would get a p-value that gives you the significance of the interaction. If this comparison is significant, you know that attitude and gender are significantly inter-dependent on each other. If this is comparison is not significant, there is no significant inter-dependence. It might be a good idea to try out different likelihood comparisons with the data provided above, say “attitude*gender” versus “attitude + gender” versus simply “1” (the intercept only model). Remember to always put REML=FALSE when creating your model.
 
 ---
 
 ## Page 15
 
-Super-crucial: Random slopes versus random intercepts We’re not done yet. One of the coolest things about mixed models is coming up now, so hang on!! Let’s have a look at the coefficients of the model by subject and by item: 
+Super-crucial: Random slopes versus random intercepts We’re not done yet. One of the coolest things about mixed models is coming up now, so hang on!! Let’s have a look at the coefficients of the model by subject and by item:
+
 ```r
 coef(politeness.model)
 ```
- Here is the output: 
- You see that each scenario and each subject is assigned a different intercept. That’s what we would expect, given that we’ve told the model with “(1|subject)” and “(1|scenario)” to take by-subject and by-item variability into account. But not also that the fixed effects (attitude and gender) are all the same for all subjects and items. Our model is what is called a random intercept model. In this model, we account for baseline-differences in pitch, but we assume that whatever the effect of politeness is, it’s going to be the same for all subjects and items. But is that a valid assumption? In fact, often times it’s not – it is quite expected that some items would elicit more or less politeness. That is, the effect of politeness might be different for different items. Likewise, the effect of politeness might be different for different subjects. For example, it might be expected that
+
+Here is the output:
+You see that each scenario and each subject is assigned a different intercept. That’s what we would expect, given that we’ve told the model with “(1|subject)” and “(1|scenario)” to take by-subject and by-item variability into account. But not also that the fixed effects (attitude and gender) are all the same for all subjects and items. Our model is what is called a random intercept model. In this model, we account for baseline-differences in pitch, but we assume that whatever the effect of politeness is, it’s going to be the same for all subjects and items. But is that a valid assumption? In fact, often times it’s not – it is quite expected that some items would elicit more or less politeness. That is, the effect of politeness might be different for different items. Likewise, the effect of politeness might be different for different subjects. For example, it might be expected that
 
 ---
 
 ## Page 16
 
-some people are more polite, others less. So, what we need is a random slope model, where subjects and items are not only allowed to have differing intercepts, but where they are also allowed to have different slopes for the effect of politeness. This is how we would do this in R: 
+some people are more polite, others less. So, what we need is a random slope model, where subjects and items are not only allowed to have differing intercepts, but where they are also allowed to have different slopes for the effect of politeness. This is how we would do this in R:
+
 ```r
 politeness.model = lmer(frequency ~ attitude + gender + (1+attitude|subject) + (1+attitude|scenario), data=politeness, REML=FALSE)
 ```
- Note that the only thing that we changed is the random effects, which now look a little more complicated. The notation “(1+attitude|subject)” means that you tell the model to expect differing baseline-levels of frequency (the intercept, represented by 1) as well as differing responses to the main factor in question, which is “attitude” in this case. You then do the same for items. Have a look at the coefficients of this updated model by typing in the following: 
+
+Note that the only thing that we changed is the random effects, which now look a little more complicated. The notation “(1+attitude|subject)” means that you tell the model to expect differing baseline-levels of frequency (the intercept, represented by 1) as well as differing responses to the main factor in question, which is “attitude” in this case. You then do the same for items. Have a look at the coefficients of this updated model by typing in the following:
+
 ```r
 coef(politeness.model)
 ```
- Here’s a reprint of the output that I got:
+
+Here’s a reprint of the output that I got:
 
 ---
 
 ## Page 17
 
-Now, the column with the by-subject and by-item coefficients for the effect of politeness (“attitudepol”) is different for each subject and item. Note, however, that it’s always negative and that many of the values are quite similar to each other. This means that despite individual variation, there is also consistency in how politeness affects the voice: for all of our speakers, the voice tends to go down when speaking politely, but for some people it goes down slightly more so than for others. Have a look at the column for gender. Here, the coefficients do not change. That is because we didn’t specify random slopes for the by-subject or by-item effect of gender. O.k., let’s try to obtain a p-value. We keep our model from above (politeness.model) and compare it to a new null model in a likelihood ratio test. Let’s construct the null model first: 
+Now, the column with the by-subject and by-item coefficients for the effect of politeness (“attitudepol”) is different for each subject and item. Note, however, that it’s always negative and that many of the values are quite similar to each other. This means that despite individual variation, there is also consistency in how politeness affects the voice: for all of our speakers, the voice tends to go down when speaking politely, but for some people it goes down slightly more so than for others. Have a look at the column for gender. Here, the coefficients do not change. That is because we didn’t specify random slopes for the by-subject or by-item effect of gender. O.k., let’s try to obtain a p-value. We keep our model from above (politeness.model) and compare it to a new null model in a likelihood ratio test. Let’s construct the null model first:
+
 ```r
 politeness.null = lmer(frequency ~ gender + (1+attitude|subject) + (1+attitude|scenario), data=politeness, REML=FALSE)
 ```
- Note that the null model needs to have the same random effects structure. So, if your full model is a random slope model, your null model also needs to be a random slope model. Let’s now do the likelihood ratio test: 
+
+Note that the null model needs to have the same random effects structure. So, if your full model is a random slope model, your null model also needs to be a random slope model. Let’s now do the likelihood ratio test:
+
 ```r
 anova(politeness.null,politeness.model)
 ```
- This is, again, significant. There are a few important things to say here: You might ask yourself “Which random slopes should I specify?” … or even “Are random slopes necessary at all?” A lot of people construct random intercept-only models but conceptually, it makes hella sense to include random slopes most of the time. After all, you can almost always expect that people differ with how they react to an experimental manipulation! And likewise, you can almost always expect that the effect of an experimental manipulation is not going to be the same for all items. Moreover, researchers in ecology (Schielzeth & Forstmeier, 2009), psycholinguistics (Barr, Levy, Scheepers, & Tilly, 2013) and other fields have shown via simulations that mixed models without random slopes are anti-conservative or, in other words, they have a relatively high Type I error rate (they tend to find a lot of significant results which are actually due to chance).
+
+This is, again, significant. There are a few important things to say here: You might ask yourself “Which random slopes should I specify?” … or even “Are random slopes necessary at all?” A lot of people construct random intercept-only models but conceptually, it makes hella sense to include random slopes most of the time. After all, you can almost always expect that people differ with how they react to an experimental manipulation! And likewise, you can almost always expect that the effect of an experimental manipulation is not going to be the same for all items. Moreover, researchers in ecology (Schielzeth & Forstmeier, 2009), psycholinguistics (Barr, Levy, Scheepers, & Tilly, 2013) and other fields have shown via simulations that mixed models without random slopes are anti-conservative or, in other words, they have a relatively high Type I error rate (they tend to find a lot of significant results which are actually due to chance).
 
 ---
 
@@ -262,15 +313,19 @@ for(i in 1:nrow(mydataframe)){ myfullmodel=lmer(response~predictor+ (1+predictor
 
 ## Page 20
 
-In contrast, random effects generally sample from the population of interest. That means that they are far away from “exhausting the population” … because there’s usually many many more subjects or items that you could have tested. The levels of the factor in your experiment is a tiny subset of the levels “out there” in the world. The write-up A lot of tutorials don’t cover how to write up your results. And that’s a pity, because this is a crucial part of your study!!! The most important thing: You need to describe the model to such an extent that people can reproduce the analysis. So, a useful heuristic for writing up your results is to ask yourself the question “Would I be able to re-create the analysis given the information that I provided?” If the answer is “yes” your write-up is good. In particular, this means that you specify all fixed effects and all random effects, and you should also mention whether you have random intercepts or random slopes. For reporting individual results, you can stick to my example with the likelihood ratio test above. Remember that it’s always important to report the actual coefficients/estimates and not just whether an effect is significant. You should also mention standard errors. Another important thing is to give enough credit to the people who put so much of their free time into making lme4 and R work so efficiently. So let’s cite them! It’s also a good idea to cite exactly the version that you used for your analysis. You can find out your version and who to cite by typing in… 
+In contrast, random effects generally sample from the population of interest. That means that they are far away from “exhausting the population” … because there’s usually many many more subjects or items that you could have tested. The levels of the factor in your experiment is a tiny subset of the levels “out there” in the world. The write-up A lot of tutorials don’t cover how to write up your results. And that’s a pity, because this is a crucial part of your study!!! The most important thing: You need to describe the model to such an extent that people can reproduce the analysis. So, a useful heuristic for writing up your results is to ask yourself the question “Would I be able to re-create the analysis given the information that I provided?” If the answer is “yes” your write-up is good. In particular, this means that you specify all fixed effects and all random effects, and you should also mention whether you have random intercepts or random slopes. For reporting individual results, you can stick to my example with the likelihood ratio test above. Remember that it’s always important to report the actual coefficients/estimates and not just whether an effect is significant. You should also mention standard errors. Another important thing is to give enough credit to the people who put so much of their free time into making lme4 and R work so efficiently. So let’s cite them! It’s also a good idea to cite exactly the version that you used for your analysis. You can find out your version and who to cite by typing in…
+
 ```r
 citation()
 ```
- … for your R-version … and … 
+
+… for your R-version … and …
+
 ```r
 citation("lme4")
 ```
- … for the lme4 package. Finally, it’s important that you mention that you checked assumptions, and that the assumptions are satisfied. So here’s what I would have written for the analysis that we performed in this tutorial:
+
+… for the lme4 package. Finally, it’s important that you mention that you checked assumptions, and that the assumptions are satisfied. So here’s what I would have written for the analysis that we performed in this tutorial:
 
 ---
 

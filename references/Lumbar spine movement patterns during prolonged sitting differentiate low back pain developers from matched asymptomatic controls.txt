@@ -1,0 +1,984 @@
+===== PAGE 1 =====
+
+Work 35 (2010) 3–14 3
+DOI 10.3233/WOR-2010-0953
+IOS Press
+Lumbar spine movement patterns during
+prolonged sitting differentiate low back pain
+developers from matched asymptomatic
+controls
+Nadine M. Dunk and Jack P. Callaghan∗
+Department of Kinesiology, Faculty of Applied Health Sciences, University of Waterloo, Waterloo, Ontario, Canada
+Received 11 November 2008
+Accepted 12 December 2008
+Abstract. Background: Little is known about how lumbar spine movement inﬂuences mechanical changes and the potential
+injurious effects of prolonged ﬂexion associated with seated postures. The purpose of this study was to examine the postural
+responses and pain scores of low back pain sufferers compared with asymptomatic individuals during prolonged sitting in order
+to understand the biomechanical factors that may be associated with sitting induced low back pain.
+Method: Sixteen participants with sitting-aggravated low back pain were age- and gender-matched with 16 asymptomatic
+participants. Tri-axial accelerometers were used to monitor lumbar spine angles during 90 minutes of seated computer work.
+Lumbar spine postures were examined using a movement pattern analysis of two types of postural adjustments, termed shifts
+(step-like adjustments larger than 5
+◦) and ﬁdgets (small change and return to approximately the same position).
+Results: The LBP group reported large signiﬁcant increases ( P< 0.0001) in low back pain while asymptomatic individuals
+reported little to no pain. On average, every participant ﬁdgeted every 40 to 50 seconds. However, only the LBP sufferers
+demonstrated a signiﬁcant increase ( P = 0.04) in the number of shifts over 90 minutes of seated work; the LBP group shifted
+every 4 minutes in the last 30 minutes of sitting compared to every 10 minutes for the asymptomatic group. LBP sufferers also
+demonstrated larger amplitudes of shifts and ﬁdgets when compared to the asymptomatic group.
+Conclusion: Greater and more frequent movement was not beneﬁcial and did not reduce pain in individuals with pre-existing
+LBP. Future work to understand the biomechanical effects of proactively inducing movement may help to explain the paradox of
+the relationship between movement and pain.
+Keywords: Lumbar spine, pain, seated work, movement
+1. Introduction
+The relationship between workplace exposure to pro-
+longed sitting and low back pain (LBP) is controver-
+sial; systematic reviews of the literature fail to show
+∗Address for correspondence: Dr. Jack P. Callaghan, Department
+of Kinesiology, University of Waterloo, 200 University Ave. W,
+Waterloo, ON, N2L 3G1, Canada. Tel.: +1 519 888 4567 x37080;
+Fax: +1 519 746 6776; E-mail: callagha@healthy.uwaterloo.ca.
+convincing evidence that LBP is strongly linked to
+prolonged sitting [25,32]. However, the fact remains
+that populations who have LBP that is induced and/or
+aggravated by prolonged sitting do indeed exist [15,
+41,56]. Furthermore, subjective experimental ﬁndings
+demonstrate that low back discomfort increases with
+prolonged seated exposures, even in individuals with
+no prior history of LBP [7,18,22,23]. A move to-
+wards the examination of time-varying responses of
+the lumbar spine is necessary in order to determine the
+mechanisms for sitting-induced LBP in situations rel-
+1051-9815/10/$27.50  2010 – IOS Press and the authors. All rights reserved
+
+===== PAGE 2 =====
+
+4 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+evant to workplace exposures. Little is known about
+how movement in the lumbar spine inﬂuences the me-
+chanical changes and potential injurious effects of the
+prolonged ﬂexion associated with seated postures and
+whether movements are preventative of or in response
+to discomfort/pain. Thus we were driven to document
+the seated movement patterns of a group of individuals
+with a history of LBP induced or aggravated by pro-
+longed sitting and compare them to an asymptomatic
+group.
+Several research attempts have increased the under-
+standing of the biomechanical differences between in-
+dividuals with LBP and asymptomatic individuals and
+how these factors affect seated postural and muscu-
+lar responses. Previous research shows that LBP sta-
+tus can affect lumbar spine and pelvic postures in sit-
+ting. Individuals with ﬂexion-provoked pain sit closer
+to lumbar spine ﬂexion end range with greater posterior
+pelvic tilt [41] and this results in a reduced “usable”
+lumbar range of movement in sitting [15]. Further-
+more, LBP patients with skeletal asymmetries compen-
+sate with altered motion in both the thoracic and lumbar
+regions during seated movements [5]. Several studies
+demonstrate impaired trunk postural control in individ-
+uals with LBP that could be caused by poor proprio-
+ception in the lumbar spine [40,42]. In fact, LBP pa-
+tients appear to lack the ability to produce ﬁne postural
+adjustments in both ﬂexion/extension and lateral bend-
+ing and they have difﬁculty repositioning their lumbar
+spine into a neutral posture [40,42]. In seated postures,
+LBP patients demonstrate higher back muscle activa-
+tion [14] and delayed muscle responses to sudden load-
+ing [42]. The increased muscle activity is consistent
+with a protective reﬂex at the end range of lumbar spine
+ﬂexion [47]. It is thought that these altered muscle co-
+ordination patterns are aimed at protecting the lumbar
+spine in order to avoid or reduce pain. However, if this
+guarding behaviour persists, it may exacerbate the pain
+or lead to new complaints [33]. Co-contraction will
+increase forces acting on the spine and hyperactivity
+in the muscles could lead to spasm and more pain and
+limit the functional abilities of LBP patients [51].
+Most studies have examined a static snapshot of dif-
+ferent sitting conditions to observe representative mus-
+cle activity, posture, and loading. Seated ofﬁce work
+can involve a wide range of postures of up to 50%
+of lumbar spine range of motion (RoM) with frequent
+movements [13,50]. Thus, a shift towards the examina-
+tion of the time-varying responses of the lumbar spine
+is necessary in order to determine the mechanisms for
+LBP generation and how certain variables can be ma-
+nipulated to avoid or prolong the initiation of these
+mechanisms. Jensen and Bendix [28] suggested that
+there are three factors contributing to LBP in sitting:
+1) insufﬁcient nutrition to the intervertebral disc; 2) the
+stress-relaxation of spinal ligaments and; 3) muscular
+fatigue. Therefore, it is necessary to establish a more
+complete knowledge of how movement of the lumbar
+spine affects pain generating mechanisms in sitting.
+Sitting speciﬁc movement patterns of the lumbar spine
+need to be established in order to attempt to understand
+the relationship between lumbar spine movement and
+LBP.
+One of the difﬁculties with prolonged examinations
+is ﬁnding ways to quantify time-varying data. Sever-
+al previous approaches attempted to document postu-
+ral changes during prolonged sitting including: count-
+ing the number of times that whole body posture
+changed [9,29,31]; seat pan centre of pressure (CoP)
+movements [21,22]; variation of lumbar spine postures
+quantiﬁed using the amplitude probability distribution
+function (APDF) [13]; and global postural (macro-
+movements) and small “ﬁdgeting” changes (micro-
+movements) in lumbar spine curvatures using a ﬂexible
+goniometer [52,53]. In a related technical approach,
+Duarte and Zatsiorsky [17] developed algorithms to de-
+tect different migration patterns of the centre of pres-
+sure under the feet during prolonged standing. A sim-
+ilar approach was developed for the current study in
+order to quantify lumbar spine movement.
+In order to understand the relationship between lum-
+bar spine movement and LBP, it is necessary to ﬁrst ex-
+amine the sitting behaviour of individuals with sitting-
+induced LBP. Thus, the purpose of this study was to ex-
+amine any association between postural responses and
+pain development in a LBP population and compare
+it to an asymptomatic control population in order to
+understand the biomechanical factors associated with
+LBP during sitting. Speciﬁc goals included: (1) ex-
+amining the postural responses and pain scores of LBP
+and asymptomatic individuals to 90 minutes of seat-
+ed computer work; (2) to develop different methods
+of quantifying lumbar spine movement patterns and to
+determine if it is possible to distinguish between LBP
+and asymptomatic groups based on postural responses.
+2. Methods
+2.1. Participants
+A total of thirty-two participants were recruited from
+the community at large. Eight asymptomatic males and
+
+===== PAGE 3 =====
+
+N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers 5
+Table 1
+Participant characteristics and Oswestry Disability Index (ODI) scores taken at the beginning of the testing
+session. Signiﬁcant differences between the asymptomatic and LBP groups were seen in ODI score only (level
+of signiﬁcance indicated by P-value)
+Age
+(years)
+Height
+(m)
+Mass
+(kg)
+BMI
+(kg/m
+2)
+ODI Score
+(%)
+Female
+Asymptomatic (n = 8)
+LBP (n = 8)
+25.9 (4.6)
+27.0 (5.3)
+n/s
+1.67 (0.06)
+1.70 (0.06)
+n/s
+64.4 (13.3)
+70.7 (13.3)
+n/s
+23.0 (4.7)
+24.6 (5.3)
+n/s
+1.1 (2.0)
+17.5 (9.2)
+P = 0.002
+Male
+Asymptomatic (n = 8)
+LBP (n = 8)
+24.0 (3.8)
+22.8 (3.2)
+n/s
+1.80 (0.10)
+1.78 (0.05)
+n/s
+74.0 (11.5)
+81.3 (17.3)
+n/s
+23.3 (3.3)
+24.8 (3.4)
+n/s
+0.3 (0.8)
+14.2 (5.2)
+P = 0.0001
+eight asymptomatic females with no history of LBP
+for 12 months prior to the testing period were age-
+and gender-matched to eight males and eight females
+with sitting-induced LBP (Table 1). Asymptomatic
+participants were included if they had no self-reported
+activity-limiting LBP over the 12 months prior to the
+testing period. Inclusion criteria for LBP participants
+were: non-speciﬁc back pain with insidious onset for
+longer than 2 months (less than 2 years), self-reported
+lumbar pain and discomfort elicited by prolonged sit-
+ting and minimal pain at the time of testing (i.e. at
+the start of the test, participants were not having an
+episode of LBP that would prevent them from sitting
+for 90 minutes). LBP participants were excluded if
+they had been previously diagnosed with neurological
+deﬁcits and/or lower extremity impairments (i.e. numb-
+ness, weakness, decreased reﬂex), stenosis, spondy-
+lolisthesis, recent fractures, severe structural deformi-
+ties (kyphosis or scoliosis) or had previous surgical in-
+tervention. All participants (both asymptomatic and
+LBP) completed the Oswestry Disability Index 2.0 [20]
+at the beginning of the test session prior to sitting in
+order to ascertain how LBP affected their ability to
+manage in everyday life (Table 1). An ODI score of
+0 to 20% indicates minimal disability and 21 to 40%
+indicates moderate disability [20]. The study protocol
+received approval from the University of Waterloo Of-
+ﬁce of Research and participants gave informed consent
+before testing began.
+2.2. Instrumentation and data collection
+Lumbar spine ﬂexion angles were obtained us-
+ing tri-axial accelerometers (S2-10G-MF, NexGen Er-
+gonomics, Montreal, Quebec, Canada) placed over the
+L1 spinous process and the sacrum at the level of
+S2. Accelerometers have been used as inclinometers
+to measure the spine in quasi-static and static situa-
+tions [8,24,57] and have been shown to correlate well
+with a common ﬁn marker method of measuring spine
+angles [44]. Only ﬂexion-extension was examined in
+this study because the link between low back pain and
+sitting has been attributed to the ﬂexed curvature of the
+lumbar spine [54]. Accelerometer signals were A/D
+converted at rates of 128 Hz with a 16-bit A/D system
+(Optotrak Data Acquisition Unit II, Northern Digital
+Inc., Waterloo, ON, Canada).
+Lumbar spine RoM was assessed before and after
+the 90-minute sitting period. A quiet upright standing
+trial was collected for 5 seconds. Then participants
+were asked to bend over and touch their toes while
+focusing on maximally ﬂexing their lumbar spine and
+data were collected for 5 seconds while the position
+was held. The sitting period involved 90 minutes of
+seated computer work, performed at a workstation that
+was adjusted so that the elbows were at 90
+◦ with re-
+laxed shoulders when each participant was typing on
+the keyboard. The ofﬁce chair (Jendra #3614, Borgo
+Contract Seating, Etobicoke, Ontario, Canada) was ad-
+justed such that the initial seated position allowed the
+knees to be at 90
+◦ when the feet were in full contact
+with the ﬂoor. The seat pan to back rest angle was ﬁxed
+at an angle of 105 ◦ and the seat pan was locked in a
+position parallel to the ﬂoor. Participants were instruct-
+ed to sit how they would normally and move around
+in the chair at will with the constraint imposed of no
+leg crossing. During the 90-minute sitting period, par-
+ticipants performed 15-minute intervals of controlled
+simulated ofﬁce work consisting of a mousing task, a
+typing task and task involving a combination of the
+two. The three tasks were presented in a random order
+and then repeated in the same order to ensure that a full
+data set was obtained should a participant not be able
+to complete the 90-minute sitting period. Accelerom-
+eter data were continuously collected throughout each
+15-minute interval.
+
+===== PAGE 4 =====
+
+6 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+Fig. 1. An example of the shift pattern and the parameters used in the recognition algorithm. The average values were computed on a point-by-point
+basis for two 15-second moving windows (W
+1 and W2 ), each centered on a point (x1i and x2i) and separated by Ws (3 seconds). Any two
+consecutive windows being offset by a change greater than ﬁve degrees were classiﬁed as a shift. Ampshif t indicates the calculation for the shift
+amplitude.
+Participants rated their perceived level of pain on a
+10 cm visual analogue scale (V AS) at the start and after
+each of six 15-minute intervals, yielding a total of seven
+V AS scores per participant during the 90-minute sitting
+period. V AS scores were obtained for three regions of
+the low back: the central area over the lumbar spine,
+and the right and left sides lateral to the spine. Visual
+analog scales are generally accepted by the Internation-
+al Association for the Study of Pain as a valid scale
+for pain and discomfort assessments [10]. Participants
+were asked to place a mark along the 10 cm line where
+they felt their current level pain was on a scale of “no
+discomfort” to “worst discomfort imaginable”.
+2.3. Data reduction and processing
+Given that the outputs from the accelerometers are a
+sinusoidal function of the inclination of the sensor rel-
+ative to gravity, each axis was recorded at 0
+◦ (or +1g )
+and 180 ◦ (or −1 g) in order to provide a conversion
+from voltage outputs to degrees. Each accelerometer
+was oriented so that the positive y-axis was aligned
+pointing down the vertical axis of the spine. The y-axis
+was used as the inclination axis and the corresponding
+orthogonal z-axis was used in order to determine the
+correct orientation of the y-axis inclination. Because
+of the sinusoidal nature of the accelerometer output,
+two axes are necessary in order to determine the correct
+orientation of the sensor. For example, when the z-axis
+was oriented to the left (90
+◦), the y-axis was pointed
+up (180◦). The lumbar spine angle was calculated as
+the difference between the y-axis inclinations of the L1
+and sacral sensors. Converted angles were smoothed
+using a zero-lag 4th order low pass Butterworth ﬁlter
+with a cut-off frequency of 1 Hz to remove any high-
+er frequency accelerations. Lumbar spine RoM was
+calculated as the change in angle from upright stand-
+ing to the fully ﬂexed posture in the toe touch RoM
+test. The mean lumbar spine angles from the pre- and
+post-sitting RoM trials were compared to determine if
+there were any effects of prolonged sitting on lumbar
+spine RoM. The pre-sitting lumbar spine RoM value
+was used to normalize all lumbar spine angles through-
+out the 90-minute sitting period. Time-varying lum-
+bar spine angles were quantiﬁed using the following
+methods:
+1. The amplitude probability distribution function
+(APDF) was used to examine the range and time
+distribution of lumbar spine postures adopted dur-
+ing the 90-minute sitting period [13]. Brieﬂy,
+the normalized time-varying lumbar spine angles
+were binned in 1% increments to generate an
+APDF for each individual.
+2. Shift and ﬁdget patterns were determined using
+the following movement pattern algorithms:
+When lumbar spine postures were displayed as a
+time-series, two patterns of movement were discernible
+(Figs 1 and 2):
+1. Shifts: step-like angular change in lumbar angle
+2. Fidgets: small rapid changes of the lumbar angle
+about the same average position
+
+===== PAGE 5 =====
+
+N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers 7
+Fig. 2. An example of the ﬁdget pattern and the parameters used in the recognition algorithm. The average and standard deviation were computed
+on a point-by-point basis for a moving window (W) of length W (60 seconds) and centered on a point (x
+i ). Amp f idget  indicates the calculation
+for the ﬁdget amplitude.
+Two separate algorithms were developed in order to
+detect these two movement patterns in time-varying
+lumbar angle.
+2.3.1. Shift algorithm
+To detect shifts in the lumbar spine angle time series
+(Fig. 1):
+1. The average values (
+xW 1i and
+ xW 2i) for two con-
+secutive moving windows, W 1 and W2 each of
+15 seconds in length, centered around a point (x1i
+and x2i) and separated by the 3 second period Ws,
+were computed.
+ xW 1i and
+ xW 2i were calculated
+and compared on a point by point basis (where
+i corresponds to the centre point of the moving
+window).
+2. Any two consecutive windows being offset by a
+change greater than ﬁve degrees (Eq. (1)) were
+classiﬁed as a shift:
+|¯x
+W 1i − ¯xW 2i| ⩾ 5◦ (1)
+3. The shift duration was determined as the length of
+time Eq. (1) was consecutively satisﬁed, as long
+as the shift duration was greater than W
+s.
+4. The shift amplitude in degrees was calculated as:
+Ampshif t =
+( n∑
+i=m
+|
+xW 1i −
+ xW 2i|
+)
+/n (2)
+Where:
+n = the total number of consecutive points satis-
+fying Eq. (1) for a given shift
+i = frame number where Eq. (1) is satisﬁed
+m = the last consecutive frame satisfying Eq. (1)
+for a given shift
+2.3.2. Fidget algorithm
+To detect a ﬁdget in the lumbar spine angle time
+series (Fig.2):
+1. The average and standard deviation values (
+x Wi
+and SDWi ) of a moving window (W), centered
+on a point (xi) were computed. The length of W
+was 60 seconds.
+2. The ﬁdget amplitude threshold value was set as
+3*SDWi and the ﬁdget duration, WF , was select-
+ed as less than 3 seconds in order to distinguish it
+from a shift Eq. (3).
+|
+xW − xi| > 3SDW (3)
+3. The ﬁdget duration, W F was determined as the
+length of time Eq. (3) was consecutively satisﬁed,
+as long as the time did not exceed 3 seconds.
+4. The ﬁdget amplitude was calculated as:
+Amp
+fi d ge t=
+( n∑
+i=m
+|
+xWi − xi|
+)
+/n (4)
+Where:
+
+===== PAGE 6 =====
+
+8 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+n = the total number of consecutive points satis-
+fying Eq. (3) for a given ﬁdget
+i = frame number where Eq. (3) is satisﬁed
+m = the last consecutive frame satisfying Eq. (3)
+for a given ﬁdget
+2.4. Statistical analyses
+Pre- and post-sitting lumbar spine angles, the time-
+varying changes in V AS scores, and number of shifts
+and ﬁdgets were compared using a mixed model 2-
+way analysis of variance (ANOV A) (LBP status, time)
+with repeated measure on one factor (time). Baseline
+V AS scores were compared using a 2-way ANOV A
+(LBP status, body region). Average shift and ﬁdget
+amplitudes and frequencies were compared between
+LBP and asymptomatic groups using Student’s t-tests.
+Tukey’s post-hoc multiple comparisons were used to
+examine signiﬁcant main effects and interactions. The
+level of signiﬁcance was set at P< 0.05.
+3. Results
+3.1. VAS scores
+Baseline V AS scores for the three low back regions
+were not signiﬁcantly different and were pooled to give
+an overall low back pain score when comparing the
+LBP and asymptomatic groups. The difference be-
+tween baseline V AS scores was signiﬁcant between the
+groups ( P = 0.01); the asymptomatic group’s base-
+line score was 0.1 mm (SD 0.1) and the LBP baseline
+score was 9.6 mm (SD 3.8). There was a signiﬁcant
+LBP status*time interaction (P< 0.0001) for low back
+V AS scores in all three regions; scores increased sig-
+niﬁcantly over time for the LBP group, while remain-
+ing relatively close to zero for the asymptomatic group
+(Fig. 3).
+3.2. Lumbar spine range of motion
+Lumbar spine RoM was signiﬁcantly different (P =
+0.04) between the LBP group that had an average RoM
+of 47.4
+◦ (SD 14.0) and the asymptomatic group with an
+average of 58.0◦ (SD 15.1). There was no signiﬁcant
+difference between the groups in pre and post sitting
+lumbar spine RoM; however in both groups, partici-
+pants lost an average of 2.4
+◦ (SD 4.1) of lumbar spine
+RoM after 90 minutes of sitting (P = 0.003).
+3.3. Time-varying lumbar spine movement patterns
+There were two patterns of seated lumbar spine pos-
+tures adopted by the asymptomatic and the LBP groups,
+as demonstrated by the APDF (Fig. 4). Asymptomat-
+ic individuals generally adopted a more “static” sitting
+strategy where they used a smaller range of their lum-
+bar spine RoM over the 90-minute sitting period. LBP
+individuals generally adopted a wide range of postures
+over a larger RoM (Fig. 4). The range of movement of
+the lumbar spine was determined using the maximum
+and minimum lumbar spine angles achieved during the
+sitting period. Asymptomatic individuals used 26.5%
+(SD 9.8) of their RoM on average while LBP individ-
+uals used an average of 61.4% (SD 27.3), which were
+signiﬁcantly different (P< 0.0001).
+Over the entire sitting period, LBP sufferers shifted
+once every 7.2 ± 4.7 minutes, whereas healthy partic-
+ipants shifted every 12.6 ± 4.6 minutes and the dif-
+ference in shift frequency was statistically signiﬁcant
+(P = 0.003; Table 2). Every participant demonstrat-
+ed some level of a ﬁdget movement pattern, where a
+ﬁdget occurred on average every 40 to 50 seconds (Ta-
+ble 2). However, the amplitudes of both the shift and
+ﬁdget movement patterns of the LBP group were 1.5
+and 2.5 times larger than the asymptomatic group (Ta-
+ble 2). There was also a signiﬁcant LBP*Time interac-
+tion (P = 0.04) whereby the LBP group shifted more
+times than the asymptomatic group in the last three
+15-minute time blocks (Fig. 5).
+4. Discussion
+Time-varying lumbar spine movement patterns dis-
+tinguished between the LBP and asymptomatic groups
+during prolonged seated ofﬁce work. The major ﬁnding
+of this study was that LBP sufferers moved more than
+asymptomatic individuals during 90 minutes of seat-
+ed work and they reported increased LBP over time.
+LBP sufferers used as much as 80% of their lumbar
+spine RoM while sitting and demonstrated large, fre-
+quent shifts in lumbar spine posture. These move-
+ment patterns increased in amplitude and frequency
+over time along with LBP development. On the oth-
+er hand, asymptomatic individuals generally exhibited
+a more static sitting pattern, using only 30% of their
+lumbar RoM with smaller ﬁdget movements around
+a mean posture and reported little to no LBP devel-
+opment. For asymptomatic individuals, seated move-
+ments may serve a purpose to diminish feelings of dis-
+
+===== PAGE 7 =====
+
+N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers 9
+Fig. 3. Average ( ± 1 SD) Visual Analogue Scale (V AS) scores for the low back over 90 minutes of sitting for the low back pain ( n = 16) and
+asymptomatic (n =16) groups. There was a signiﬁcant LBP*time interaction ( P< 0.0001). The asterisk (*) indicates that the LBP V AS score
+is signiﬁcantly different from baseline. The number sign (#) indicates that the LBP V AS score is signiﬁcantly different from the asymptomatic
+group.
+comfort from restlessness [9,29], body stiffness, lack
+of circulation [55] or seat pressure [16]. In the current
+study, larger magnitude and more frequent movement
+was not beneﬁcial and did not reduce or prevent pain
+in individuals with pre-existing LBP.
+Both LBP and asymptomatic individuals in the cur-
+rent study demonstrated a decrease in lumbar spine
+RoM after 90 minutes of sitting, which is likely syn-
+onymous with an increase in lumbar spine stiffness.
+Previous research has suggested that increased spine
+stiffness after prolonged sitting could occur because
+spinal movement may increase spinal height through
+ﬂuid ﬂow into the disc [7], especially if a chair back rest
+is present [50]. However, the increased stiffness in the
+LBP and asymptomatic individuals in the current study
+may be due to different mechanisms. Due to the less dy-
+namic nature of LBP-free sitting, increased spinal stiff-
+ness could be due to changes in passive elastic proper-
+ties of the muscles and passive tissues surrounding the
+joint. However, chronic LBP patients generally exhib-
+it higher back muscle activation, most likely aimed at
+avoiding painful tensile stresses placed on spinal struc-
+tures [51]. Even slight increases in trunk extensor ac-
+tivity associated with small postural changes [6,12] or
+low back pain disorders [51], could have negative ef-
+fects on the muscles of the back, thus increasing lumbar
+spine stiffness. This study lacks information regarding
+muscular activity during prolonged sitting, which may
+have helped explain the impact of the movement pat-
+terns and subsequent post-exposure response seen in
+the different groups.
+Other studies have quantiﬁed trunk and lumbar spine
+movements of asymptomatic populations using various
+methods. Two sitting strategies in an asymptomatic
+group were previously described based on the ampli-
+tude probability distribution function (APDF) of time-
+varying lumbar spine postures [13]. “Static” sitters
+used less than 10% of their total lumbar ﬂexion RoM
+whereas “dynamic” sitters used up to 50% of their RoM,
+but no relationship between sitting strategies and dis-
+comfort was established. The results from our study
+demonstrated that asymptomatic individuals generally
+adopted the “static” sitting strategy, while LBP indi-
+viduals were “dynamic” sitters. Vergara and Page [52,
+53] noted that increases in lumbar discomfort reporting
+were associated with less frequent lumbar ﬁdgeting and
+
+===== PAGE 8 =====
+
+10 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+Table 2
+Lumbar spine shift and ﬁdget analysis. Shifts are deﬁned as a step-like change in
+lumbar spine angle. Fidgets are deﬁned as a change and return of lumbar spine
+angle to approximately the same position. Signiﬁcant differences between the low
+back pain (LBP) and asymptomatic groups are indicated by asterisks (*)
+Healthy LBP P-value
+Shift amplitude
+(normalized to %RoM)
+11.2% (5.2)* 17.3% (6.7)* P = 0.01
+Shift frequency
+(# minutes between shifts)
+12.6 min (4.6)* 7.2 min (4.7)* P = 0.003
+Fidget amplitude
+(normalized to %RoM)
+4.4% (3.6)* 10.9% (8.0)* P = 0.001
+Fidget frequency
+(# seconds between ﬁdgets)
+47.0 s (9.2) 42.1 s (9.9) n/s
+Fig. 4. Amplitude probability distribution functions of lumbar spine angles for one asymptomatic and one LBP participant for the duration of the
+sitting period.
+more frequent lumbar and pelvic shifts. They suggest-
+ed that small movements around a mean posture help
+to reduce muscular strain while large changes in pos-
+ture are a good indicator of the presence of discomfort.
+Based on their quantiﬁcation methods, they document-
+ed large lumbar spine shifts (or “macromovements”)
+that ranged from one change every four to eight minutes
+with amplitudes from 14 to 27
+◦. “Micro-movements”
+occurred every 4.5 to 6.5 seconds, with amplitudes of
+1t o2 . 5
+◦. In the present study, the deﬁnition of a shift
+was very similar to that of Vergara and Page [53] but
+the shift amplitudes never exceeded 13
+◦ (or 40% RoM).
+This is likely due to the mathematical calculations of
+this study’s method, which compared average values of
+two moving windows, thus perhaps masking any large
+peaks in lumbar spine posture. Therefore, large peaks
+in lumbar spine movement could be occurring that may
+be more detrimental to spine health than beneﬁcial as
+higher trunk velocity has been identiﬁed as a risk factor
+for LBP [34]. Future work could be aimed at examin-
+ing the efﬁcacy of slower, more controlled movements
+in the relief of sitting-induced LBP.
+One of the uncertainties of the algorithm used to
+identify shifts in the current study is the choice of the
+shift amplitude threshold of 5
+◦. This value was chosen
+because it has been used as a threshold by other re-
+
+===== PAGE 9 =====
+
+N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers 11
+Fig. 5. The average ( + 1SD) number of shifts during 90 minutes of sitting for each 15-minute time block for the two test groups (low back pain
+and asymptomatic). There was a signiﬁcant LBP*time interaction (P = 0.04) whereby LBP group had signiﬁcantly more shifts in the last 3 time
+blocks than the asymptomatic group. The asterisk (*) indicates a signiﬁcant difference between LBP and asymptomatic groups ( P< 0.05).
+searchers to deﬁne large lumbar spine movements [52,
+53] and because ﬂexion at the L4/5 joint contributes
+approximately 40% to the total ﬂexion angle in sit-
+ting [19]. Based on this percentage, a 5
+◦ change in
+total lumbar spine angle will effect a 2 ◦ change at the
+L4/5 intervertebral joint (IVJ). While it is not fully
+understood how much of an angular change will af-
+fect the IVJ, 2◦ increment changes of a spinal segment
+have been shown to affect the mean intervertebral disc
+pressure [39]. The algorithm employed in the current
+study to detect a ﬁdget was very different from previ-
+ous studies [52,53] where the signal was conditioned
+(i.e. high pass ﬁltered) to isolate the high frequencies.
+Zero-crossings of the ﬁltered signal were counted as
+“micromovements”. Our method of detecting ﬁdgets
+used the unaltered time-varying angle signal and the
+variability of the signal as a threshold to detect bio-
+logically meaningful changes in lumbar spine posture.
+Given the choice of the parameters to mathematically
+identify a ﬁdget (i.e. ﬁdget threshold, moving window
+length) there may have been higher frequency move-
+ments that were not detected. However, Duarte and
+Zatsiorsky [17] identiﬁed high frequency movement
+patterns in standing CoP, which they termed trembling.
+Trembling may have more pertinent implications for
+studying postural control mechanisms, which was not
+the focus of our study.
+Previous research has suggested that LBP sufferers
+assume sitting postures with more lumbar spine ﬂexion
+and posterior pelvic tilt [41]. Contrary to these ﬁnd-
+ings, which were developed based on static analyses of
+instantaneous seated postures, the development of LBP
+in the current study was not associated with any one
+posture. One implication of this ﬁnding is that short
+duration investigations of seated postures may not ac-
+curately represent the time varying biological respons-
+es to prolonged exposure. Every participant in the cur-
+rent study demonstrated a ﬁdgeting movement pattern,
+where a ﬁdget occurred on average every 40 to 50 sec-
+onds. However, only the LBP sufferers demonstrated a
+signiﬁcant increase in the number of shifts over 90 min-
+utes of seated work. In fact, 80% of the asymptomatic
+individuals did not shift their lumbar spine until after 45
+minutes of sitting and ﬁdgeting was the primary move-
+ment pattern observed. On the other hand, only 2 LBP
+sufferers did not shift during the ﬁrst 45 minutes. These
+ﬁndings support the notion that more frequent shifts
+are associated with LBP development. It is difﬁcult to
+address the issue of why individuals moved more over
+90 minutes of sitting when so little is understood about
+why seated individuals move at all. The relationship
+between in-chair movement and discomfort is elusive
+since movement is necessary to avoid detrimental static
+postures. From a tissue perspective, prolonged static
+trunk postures can have severe detrimental effects on
+the various structures of the spine. Static ﬂexion can
+lead to changes in the intervertebral disc (IVD), such
+
+===== PAGE 10 =====
+
+12 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+as increased stresses in the annulus of the IVD [4,27]
+and a loss of disc height over time [11,26]. Further-
+more, prolonged bouts of extreme static ﬂexion have
+been shown to increase joint laxity due to creep of the
+posterior passive structures of the spine [35] and this
+creep has the potential to alter spine muscle activity
+patterns [46]. Prolonged seated work has also been
+shown to alter the passive stiffness of the in vivo lumbar
+spine [7]. Movement during sitting may be necessary
+to promote disc nutrition through ﬂuid ﬂow [1,2,38],
+relieve potentially harmful stress concentrations in the
+disc [3,4,39], vary muscle activity [13,36,37] and help
+circulate blood to and from the muscles [45].
+It is difﬁcult to prove a cause and effect relation-
+ship between seated spine movement and LBP because
+the etiology of sitting-induced LBP is generally un-
+known. There are two plausible explanations as to why
+movement may not reduce pain in LBP individuals.
+First, LBP individuals may possess some underlying
+pathology that is aggravated by increased movement
+in sitting. LBP sufferers may demonstrate asymmet-
+ric movements [5], they may be at their end range of
+motion already [41], or have altered muscle activation
+and load sharing [49]. Movement in sitting may lead to
+strain on tissues that are already vulnerable or reduce
+spinal stability [51]. Secondly, LBP individuals may
+move preemptively in order to reduce or prevent ex-
+pected LBP development. Proactively inducing move-
+ment has shown to effectively reduce sitting-induced
+LBP [48], yet the ﬁndings of the current study would
+argue against this as increased movement did not alle-
+viate LBP development. It is possible that the large and
+frequent changes in posture observed in LBP suffer-
+ers were strategies for preventing pain from becoming
+worse. Little is known about the biomechanical effects
+of proactively induced movements. Education regard-
+ing movement while sitting, as well as regularly sched-
+uled standing stretch breaks, appears to minimize the
+increase of low back discomfort over time [21,37]. Fur-
+thermore, regular breaks may reduce “static” sitting in
+asymptomatic individuals and promote muscular load
+sharing [21,37]. At-work exercise programs are rela-
+tively effective at relieving neck/shoulder pain [30],and
+whole body discomfort [21]. More work is needed to
+determine whether speciﬁc exercises targeting the low
+back would be appropriate and effective at alleviating
+sitting-induced LBP. Low frequency, small amplitude
+continuous passive lumbar motion has also been effec-
+tive in reducing pain in LBP sufferers over a period of
+prolonged sitting [43,48]. However, the biomechani-
+cal effectiveness of mechanically induced movements,
+and how these movements can mitigate the detrimental
+effects of sitting, is largely unknown. Further work to
+understand the biomechanical effects of proactive in-
+duced movement may help to explain the paradox of
+the relationship between movement and discomfort or
+pain.
+4.1. Conclusions
+The proposed methods for identifying shift and ﬁd-
+get movement patterns developed in this work were
+successful at differentiating between LBP and asymp-
+tomatic groups. The results highlight the fact that short
+duration investigations of seated postures do not accu-
+rately represent the time varying biological responses
+to prolonged exposure. The results from this study also
+support the theory that large changes in posture are a
+good indicator of the presence of discomfort in asymp-
+tomatic individuals [53] and pain in LBP sufferers. In
+the current investigation, movement was not beneﬁcial
+and did not reduce pain in individuals with pre-existing
+LBP. When one feels movement or a break is necessary,
+the level of discomfort or pain could be indicating that
+the process of irritation or damage to the tissues may
+have already begun. Thus, it is possible that proactively
+inducing movement may be more beneﬁcial than self-
+selected movement. However, increased seated move-
+ment is not a mechanism that shows potential to reduce
+LBP development in individuals with sitting-induced
+LBP. This highlights the need for the development of
+other interventions in the workplace to help reduce LBP
+during seated work.
+Acknowledgements
+The authors wish to acknowledge the Natural Sci-
+ences and Engineering Research Council Canada,
+AUTO21-Network of Centres of Excellence, Canadian
+Institute for the Relief of Pain and Disability, and Cana-
+dian Institutes for Health Research for ﬁnancial sup-
+port. Dr. Jack Callaghan is also supported by a Cana-
+da Research Chair in Spine Biomechanics and Injury
+Prevention.
+References
+[1] M.A. Adams and W.C. Hutton, The effect of posture on the
+ﬂuid content of lumbar intervertebral discs, Spine 8 (1983),
+665-71.
+
+===== PAGE 11 =====
+
+N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers 13
+[2] M.A. Adams and W.C. Hutton, The effect of posture on dif-
+fusion into lumbar intervertebral discs, J Anat 147 (1986),
+121-34.
+[3] M.A. Adams, D.W. McMillan, T.P. Green, and P. Dolan, Sus-
+tained loading generates stress concentrations in lumbar inter-
+vertebral discs, Spine 21 (1996), 434-8.
+[4] M.A. Adams, D.S. McNally, H. Chinn, and P. Dolan, Posture
+and the compressive strength of the lumbar spine, Clinical
+Biomechanics 9 (1994), 5-14.
+[5] E. Al Eisa, D. Egan, K. Deluzio, and R. Wassersug, Effects
+of pelvic asymmetry and low back pain on trunk kinematics
+during sitting: a comparison with standing, Spine 31 (2006),
+E135-E143.
+[6] B.J. Andersson, B. Jonsson, and R. Ortengren, Myoelectric
+activity in individual lumbar erector spinae muscles in sitting.
+A study with surface and wire electrodes, Scand J Rehabil
+Med Suppl 3 (1974), 91-108.
+[7] T.A. Beach, R.J. Parkinson, J.P. Stothart, and J.P. Callaghan,
+Effects of prolonged sitting on the passive ﬂexion stiffness of
+the in vivo lumbar spine, Spine J 5 (2005), 145-54.
+[8] E. Bernmark and C. Wiktorin, A triaxial accelerometer for
+measuring arm movements, Appl Ergon 33 (2002), 541-7.
+[9] V . Bhatnager, C.G. Drury, and S.G. Schiro, Posture, postural
+discomfort, and performance,Hum Factors27 (1985), 189-99.
+[10] G. Borg, Borg’s Perceived Exertion and Pain Scales, Cham-
+paign, IL: Human Kinetics, 1998.
+[11] D.J. Botsford, S.I. Esses, and D.J. Ogilvie-Harris, In vivo di-
+urnal variation in intervertebral disc volume and morphology,
+Spine 19 (1994), 935-40.
+[12] J.P. Callaghan and N.M. Dunk, Examination of the ﬂexion
+relaxation phenomenon in erector spinae muscles during short
+duration slumped sitting, Clinical Biomechanics 17 (2002),
+353-60.
+[13] J.P. Callaghan and S.M. McGill, Low back joint loading
+and kinematics during standing and unsupported sitting, Er-
+gonomics 44 (2001), 280-94.
+[14] W. Dankaerts, P. O’Sullivan, A. Burnett, and L. Straker, Al-
+tered patterns of superﬁcial trunk muscle activation during sit-
+ting in nonspeciﬁc chronic low back pain patients: importance
+of subclassiﬁcation, Spine 31 (2006), 2017-23.
+[15] W. Dankaerts, P. O’Sullivan, A. Burnett, and L. Straker, Dif-
+ferences in sitting postures are associated with nonspeciﬁc
+chronic low back pain disorders when patients are subclassi-
+ﬁed, Spine 31 (2006), 698-704.
+[16] M.P. de Looze, L.F. Kuijt-Evers, and J. van Dieen, Sitting
+comfort and discomfort and the relationships with objective
+measures, Ergonomics 46 (2003), 985-97.
+[17] M. Duarte and V .M. Zatsiorsky, Patterns of center of presure
+migration during prolonged unconstrained standing, Motor
+Control 3 (1999), 12-27.
+[18] N.M. Dunk and J.P. Callaghan, Gender-based differences in
+postural responses to seated exposures,Clinical Biomechanics
+20 (2005), 1101-10.
+[19] N.M. Dunk, A.E. Kedgley, T.R. Jenkyn, and J.P. Callaghan,
+Seated lumbar intervertebral angles using ﬂuoroscopy, in:
+Proceedings of the 31st Annual Meeting of the American So-
+ciety of Biomechanics, Stanford, California, August 23-25,
+2007.
+[20] J.C. Fairbank and P.B. Pynsent, The Oswestry Disability In-
+dex, Spine 25 (2000), 2940-52.
+[21] A. Fenety and J.M. Walker, Short-term effects of workstation
+exercises on musculoskeletal discomfort and postural changes
+in seated video display unit workers, Phys Ther 82 (2002),
+578-89.
+[22] P.A. Fenety, C. Putnam, and J.M. Walker, In-chair movement:
+validity, reliability and implications for measuring sitting dis-
+comfort, Appl Ergon 31 (2000), 383-93.
+[23] D.E. Gregory, N.M. Dunk, and J.P. Callaghan, Stability ball
+versus ofﬁce chair: Comparison of muscle activation and lum-
+bar spine posture during prolonged sitting, Human Factors 48
+(2006), 142-53.
+[24] G.A. Hansson, P. Asterland, N.G. Holmer, and S. Skerfving,
+Validity and reliability of triaxial accelerometers for inclinom-
+etry in posture analysis, Med Biol Eng Comput 39 (2001),
+405-13.
+[25] J. Hartvigsen, C. Leboeuf-Yde, S. Lings, and E.H. Corder,
+Is sitting-while-at-work associated with low back pain? A
+systematic, critical literature review,Scand J Public Health28
+(2000), 230-9.
+[26] T.P. Hedman and G.R. Fernie, In vivo measurement of lumbar
+spinal creep in two seated postures using magnetic resonance
+imaging, Spine 20 (1995), 178-83.
+[27] T.P. Hedman and G.R. Fernie, Mechanical response of the
+lumbar spine to seated postural loads,Spine 22 (1997), 734-43.
+[28] C.V . Jensen and T. Bendix, Spontaneous movements with var-
+ious seated-workplace adjustments, Clinical Biomechanics 7
+(1992), 87-90.
+[29] H.W. Jurgens, Body movement during observation tasks, Ann
+Physiol Anthropol 8 (1989), 33-5.
+[30] D.M. Kietrys, J.S. Galper, and V . Verno, Effects of at-work
+exercises on computer operators, Work 28 (2007), 67-75.
+[31] M.H. Liao and C.G. Drury, Posture, discomfort and perfor-
+mance in a VDT task, Ergonomics 43 (2000), 345-59.
+[32] A.M. Lis, K.M. Black, H. Korn, and M. Nordin, Association
+between sitting and occupational LBP, Eur Spine J 16 (2007),
+283-98.
+[33] C.J. Main and P.J. Watson, Psychological aspects of pain, Man
+Ther 4 (1999), 203-15.
+[34] W.S. Marras, S.A. Lavender, S.E. Leurgans, F.A. Fathallah,
+S.A. Ferguson, W.G. Allread, and S.L. Rajulu, Biomechani-
+cal risk factors for occupationally related low back disorders,
+Ergonomics 38 (1995), 377-410.
+[35] S.M. McGill and S. Brown, Creep response of the lumbar spine
+to prolonged full ﬂexion, Clinical Biomechanics 7 (1992),
+43-6.
+[36] L. Mclean, M. Tingley, R.N. Scott, and J. Rickards, Myoelec-
+tric signal measurement during prolonged computer terminal
+work, J Electromyogr Kinesiol 10 (2000), 33-45.
+[37] L. Mclean, M. Tingley, R.N. Scott, and J. Rickards, Computer
+terminal work and the beneﬁt of microbreaks, Appl Ergon 32
+(2001), 225-37.
+[38] D.W. McMillan, G. Garbutt, and M.A. Adams, Effect of sus-
+tained loading on the water content of intervertebral discs:
+implications for disc metabolism, Ann Rheum Dis 55 (1996),
+880-7.
+[39] D.S. McNally and M.A. Adams, Internal intervertebral disc
+mechanics as revealed by stress proﬁlometry,Spine 17 (1992),
+66-73.
+[40] P.B. O’Sullivan, A. Burnett, A.N. Floyd, K. Gadsdon, J. Logiu-
+dice, D. Miller, and H. Quirke, Lumbar repositioning deﬁcit in
+a speciﬁc low back pain population, Spine 28 (2003), 1074-9.
+[41] P.B. O’Sullivan, T. Mitchell, P. Bulich, R. Waller, and J. Holte,
+The relationship beween posture and back muscle endurance
+in industrial workers with ﬂexion-related low back pain, Man
+Ther 11 (2006), 264-71.
+[42] A. Radebold, J. Cholewicki, G.K. Polzhofer, and H.S. Greene,
+Impaired postural control of the lumbar spine is associated
+
+===== PAGE 12 =====
+
+14 N.M. Dunk and J.P . Callaghan / Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers
+with delayed muscle response times in patients with chronic
+idiopathic low back pain, Spine 26 (2001), 724-30.
+[43] S.M. Reinecke, R.G. Hazard, and K. Coleman, Continuous
+passive motion in seating: a new strategy against low back
+pain, Journal of Spinal Disorders 7 (1994), 29-35.
+[44] J.C. Singer, N.M. Dunk, and J.P. Callaghan, Evaluation of sur-
+face marker systems to determine pelvic and lumbar kinemat-
+ics during sitting, in: Proceedings of the 4th Annual Ontario
+Biomechanics Conference, Barrie, ON, March 9-11, 2007.
+[45] G. Sjogaard, G. Savard, and C. Juel, Muscle blood ﬂow during
+isometric activity and its relation to muscle fatigue,Eur J Appl
+Physiol Occup Physiol 57 (1988), 327-35.
+[46] M. Solomonow, R.V . Baratta, A. Banks, C. Freudenberger,
+and B.H. Zhou, Flexion-relaxation response to static lumbar
+ﬂexion in males and females, Clin Biomech (Bristol, Avon )
+18 (2003), 273-9.
+[47] M. Solomonow, B.H. Zhou, R.V . Baratta, and E. Burger,
+Biomechanics and electromyography of a cumulative lumbar
+disorder: response to static ﬂexion, Clin Biomech (Bristol,
+Avon ) 18 (2003), 890-8.
+[48] L.L. van Deursen, J. Patijn, J.R. Durinck, R. Brouwer, J.R.
+Erven-Sommers, and B.J. V ortman, Sitting and low back pain:
+the positive effect of rotary dynamic stimuli during prolonged
+sitting, European Spine Journal 8 (1999), 187-93.
+[49] J.H. Van Dieen, J. Cholewicki, and A. Radebold, Trunk mus-
+cle recruitment patterns in patients with low back pain enhance
+the stability of the lumbar spine, Spine 28 (2003), 834-41.
+[50] J.H. Van Dieen, M.P. de Looze, and V . Hermans, Effects of dy-
+namic ofﬁce chairs on trunk kinematics, trunk extensor EMG
+and spinal shrinkage, Ergonomics 44 (2001), 739-50.
+[51] J.H. Van Dieen, L.P. Selen, and J. Cholewicki, Trunk mus-
+cle activation in low-back pain patients, an analysis of the
+literature, J Electromyogr Kinesiol 13 (2003), 333-51.
+[52] M. Vergara and A. Page, System to measure the use of the
+backrest in sitting-posture ofﬁce tasks, Appl Ergon 31 (2000),
+247-54.
+[53] M. Vergara and A. Page, Relationship between comfort and
+back posture and mobility in sitting- posture, Appl Ergon 33
+(2002), 1-8.
+[54] D.G. Wilder and M.H. Pope, Epidemiological and aetiological
+aspects of low back pain in vibration environments – an update,
+Clinical Biomechanics 11 (1996), 61-73.
+[55] J. Winkel and K. Jorgensen, Evaluation of foot swelling and
+lower-limb temperatures in relation to leg activity during long-
+term seated ofﬁce work, Ergonomics 29 (1986), 313-28.
+[56] L. Womersley and S. May, Sitting posture of subjects with
+postural backache, J Manipulative Physiol Ther 29 (2006),
+213-8.
+[57] W.Y . Wong and M.S. Wong, Detecting spinal posture change
+in sitting positions with tri-axial accelerometers, Gait and
+Posture 27 (2008), 168-71.

@@ -127,7 +127,7 @@ sex = c(rep("female", 3), rep("male", 3))
 
 ```
 
- The first line concatenates our 6 data points from above and saves it in an object that we named pitch.
+The first line concatenates our 6 data points from above and saves it in an object that we named pitch.
 
 The second line repeats the word “female” 3 times and then the word “male” 3 times … and concatenates these 6 words into an object that we named sex.
 
@@ -139,8 +139,8 @@ my.df = data.frame(sex, pitch)
 
 ```
 
- Now we have a data frame object that we named my.df, and if you type that, you’ll see this:
- 2 You don’t have R?
+Now we have a data frame object that we named my.df, and if you type that, you’ll see this:
+2 You don’t have R?
 
 Don’t worry, it’s free and works on all platforms.
 
@@ -162,7 +162,7 @@ xmdl = lm(pitch ~ sex, my.df)
 
 ```
 
- We modeled pitch as a function of sex, taken from the data frame my.df … and we saved this model into an object that we named xmdl.
+We modeled pitch as a function of sex, taken from the data frame my.df … and we saved this model into an object that we named xmdl.
 
 To see what the linear model did, we have to “summarize” this object using the function summary():
 
@@ -172,8 +172,8 @@ summary(xmdl)
 
 ```
 
- If you do this, you should see this:
- Lots of stuff here.
+If you do this, you should see this:
+Lots of stuff here.
 
 First, you’re being reminded of the model formula that you entered.
 
@@ -250,7 +250,7 @@ This model was significant (F(1,4)=46.61, p<0.01).
 (…)” Now, let’s look at the coefficient table.
 
 Here it is again:
- Note that the p-value for the overall model was p=0.002407, which is the same as the p-value on the right-hand side of the coefficients table in the row that starts with “sexmale”.
+Note that the p-value for the overall model was p=0.002407, which is the same as the p-value on the right-hand side of the coefficients table in the row that starts with “sexmale”.
 
 This is because your model had only one fixed effect (namely, “sex”) and so the significance of the overall model is the same as the significance for this coefficient.
 
@@ -274,7 +274,7 @@ mean(my.df[my.df$sex == "female", ]$pitch)
 
 ```
 
- … you’ll get the mean of female voice pitch values, and you’ll see that this value is very similar to the estimate value in the “(Intercept)” column.
+… you’ll get the mean of female voice pitch values, and you’ll see that this value is very similar to the estimate value in the “(Intercept)” column.
 
 Next, note that the estimate for “sexmale” is negative.
 
@@ -293,12 +293,12 @@ This may seem like a very roundabout way of showing a difference between two cat
 Internally, linear models like to think in lines.
 
 So here’s a picture of the way the linear model sees your data:
- The linear model imagines the difference between males and females as a slope.
+The linear model imagines the difference between males and females as a slope.
 
 So, to go “from females to males”, you have to go down –98.33 … which is exactly the coefficient that we’ve seen above.
 
 The internal coordinate system looks like this:
- Females are sitting at the x-coordinate zero at the y-intercept (the point where the line crosses the y-axis), and males are sitting at the x-coordinate 1.
+Females are sitting at the x-coordinate zero at the y-intercept (the point where the line crosses the y-axis), and males are sitting at the x-coordinate 1.
 
 So now, the output makes a hella more sense to us:
 0 50100150200250300
@@ -389,16 +389,16 @@ Say you were now interested in whether age predicts voice pitch.
 The data might look something like this:
 
 | Subject | Age | Voice Pitch |
-| --- | --- | --- |
-| 1 | 14 | 252 Hz |
-| 2 | 23 | 244 Hz |
-| 3 | 35 | 240 Hz |
-| 4 | 48 | 233 Hz |
-| 5 | 52 | 212 Hz |
-| 6 | 67 | 204 Hz |
+| ------- | --- | ----------- |
+| 1       | 14  | 252 Hz      |
+| 2       | 23  | 244 Hz      |
+| 3       | 35  | 240 Hz      |
+| 4       | 48  | 233 Hz      |
+| 5       | 52  | 212 Hz      |
+| 6       | 67  | 204 Hz      |
 
 And here’s a scatterplot of this data:
- O.k., same thing as before: We express this as a function, where our “fixed effect” is now “age”.
+O.k., same thing as before: We express this as a function, where our “fixed effect” is now “age”.
 
 ```text
 pitch ~ age + epsilon
@@ -413,15 +413,11 @@ pitch = c(252, 244, 240, 233, 212, 204)
 
 ```
 
-
-
 ```r
 
 my.df = data.frame(age, pitch)
 
 ```
-
-
 
 ```r
 
@@ -429,15 +425,13 @@ xmdl = lm(pitch ~ age, my.df)
 
 ```
 
-
-
 ```r
 
 summary(xmdl)
 
 ```
 
- In the output, let’s focus on the coefficients:
+In the output, let’s focus on the coefficients:
 0 20 40 60 80
 180200220240260280
 Voice pitch (Hz)
@@ -488,15 +482,11 @@ my.df$age.c = my.df$age - mean(my.df$age)
 
 ```
 
-
-
 ```r
 
 xmdl = lm(pitch ~ age.c, my.df)
 
 ```
-
-
 
 ```r
 
@@ -504,10 +494,10 @@ summary(xmdl)
 
 ```
 
- Here, we just created a new column “age.c” that is the age variable with the mean subtracted from it.
+Here, we just created a new column “age.c” that is the age variable with the mean subtracted from it.
 
 This is the resulting coefficient table from running a linear model analysis of this “centered” data:
- Note that while the estimate has changed from 267.0765 (predicted voice pitch at age 0) to 230.8333 (predicted voice pitch at average age), the slope hasn’t changed and neither did the significance associated with the slope or the significance associated with the full model.
+Note that while the estimate has changed from 267.0765 (predicted voice pitch at age 0) to 230.8333 (predicted voice pitch at average age), the slope hasn’t changed and neither did the significance associated with the slope or the significance associated with the full model.
 
 That is, you haven’t messed at all with the nature of your model, you just changed the metric so that the intercept is now the mean voice pitch.
 
@@ -566,7 +556,7 @@ We haven’t talked about residual plots yet, let alone residuals.
 So, let’s do that!
 
 Have a look at the picture below, which is a depiction of the age/pitch relationship again:
- 0 20 40 60 80
+0 20 40 60 80
 180200220240260280
 Voice pitch (Hz)
 Age (years)
@@ -580,12 +570,12 @@ The red lines indicate the residuals, which are the deviations of the observed d
 In this case, the residuals are all fairly small … which is because the line that represents the linear model predicts our data very well, i.e., all points are very close to the line.
 
 To get a better view of the residuals, you can take a snapshot of this graph like this…
- … and rotate it over.
+… and rotate it over.
 
 So, you make a new plot where the line that the model predicts is now the center line.
 
 Like here:
- This is a residual plot.
+This is a residual plot.
 
 The fitted values (the predicted means) are on the horizontal line (at y=0).
 
@@ -610,12 +600,12 @@ plot(fitted(xmdl), residuals(xmdl))
 
 ```
 
- In this case… there isn’t any obvious pattern in the residuals.
+In this case… there isn’t any obvious pattern in the residuals.
 
 If there were a nonlinear or curvy pattern, then this would indicate a violation of the linearity assumption.
 
 Here’s an example of a residual plot that clearly shows a violation of linearity:
- What to do if your residual plot indicates nonlinearity?
+What to do if your residual plot indicates nonlinearity?
 
 There’s several options: • You might miss an important fixed effect that interacts with whatever fixed effects you already have in your model.
 
@@ -687,7 +677,7 @@ For the homoscedasticity assumption to be met, the residuals of your model need 
 Again, we can check this by looking at a residual plot.
 
 Here’s the one for the age/pitch data again:
- There’s not really that many data points to tell whether this is really homoscedastic.
+There’s not really that many data points to tell whether this is really homoscedastic.
 
 In this case, I would conclude that there’s not enough data to safely determine whether there is or isn’t heteroskedasticity.
 
@@ -704,7 +694,7 @@ Residuals
 ## Page 17
 
 And another one:
- A good residual plot essentially looks blob-like.
+A good residual plot essentially looks blob-like.
 
 It’s a good idea to generate some random data to see how a plot with roughly equal variances looks like.
 
@@ -716,7 +706,7 @@ plot(rnorm(100), rnorm(100))
 
 ```
 
- This creates two sets of 100 normally distributed random numbers with a mean of 0 and a standard deviation of 1.
+This creates two sets of 100 normally distributed random numbers with a mean of 0 and a standard deviation of 1.
 
 If you type this in multiple times to create multiple plots, you can get a feel of how a “normal” residual plot should look like.
 
@@ -764,7 +754,7 @@ hist(residuals(xmdl))
 
 ```
 
- … or a Q-Q plot …
+… or a Q-Q plot …
 
 ```r
 
@@ -772,7 +762,7 @@ qqnorm(residuals(xmdl))
 
 ```
 
- Here’s a residual plot and a Q-Q plot of the same residuals next to each other.
+Here’s a residual plot and a Q-Q plot of the same residuals next to each other.
 
 -3 -2 -1 0 1 2 3
 -3 -2 -1 0 1 2 3
@@ -854,25 +844,25 @@ To remind you, here’s our two data sets that we worked on:
 
 **Study 1**
 
-| Subject | Sex | Voice Pitch |
-| --- | --- | --- |
-| 1 | female | 233 Hz |
-| 2 | female | 204 Hz |
-| 3 | female | 242 Hz |
-| 4 | male | 130 Hz |
-| 5 | male | 112 Hz |
-| 6 | male | 142 Hz |
+| Subject | Sex    | Voice Pitch |
+| ------- | ------ | ----------- |
+| 1       | female | 233 Hz      |
+| 2       | female | 204 Hz      |
+| 3       | female | 242 Hz      |
+| 4       | male   | 130 Hz      |
+| 5       | male   | 112 Hz      |
+| 6       | male   | 142 Hz      |
 
 **Study 2**
 
 | Subject | Age | Voice Pitch |
-| --- | --- | --- |
-| 1 | 14 | 252 Hz |
-| 2 | 23 | 244 Hz |
-| 3 | 35 | 240 Hz |
-| 4 | 48 | 233 Hz |
-| 5 | 52 | 212 Hz |
-| 6 | 67 | 204 Hz |
+| ------- | --- | ----------- |
+| 1       | 14  | 252 Hz      |
+| 2       | 23  | 244 Hz      |
+| 3       | 35  | 240 Hz      |
+| 4       | 48  | 233 Hz      |
+| 5       | 52  | 212 Hz      |
+| 6       | 67  | 204 Hz      |
 
 We were able to run the linear model on this data the way we did only because each row in this dataset comes from a different subject.
 

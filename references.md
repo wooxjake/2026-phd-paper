@@ -68,13 +68,13 @@
 
 ---
 
-11. **Areeudomwong et al. (2012)** — `candidate` - [상세](references/entries/11-areeudomwong-et-al-2012.md)
+11. **Areeudomwong et al. (2012)** — `cited` - [상세](references/entries/11-areeudomwong-et-al-2012.md)
 
 - Effects of Handicraft Sitting Postures on Lower Trunk Muscle Fatigue
 
 ---
 
-12. **Waongenngarm et al. (2015a)** — `candidate` - [상세](references/entries/12-waongenngarm-et-al-2015a.md)
+12. **Waongenngarm et al. (2015a)** — `cited` - [상세](references/entries/12-waongenngarm-et-al-2015a.md)
 
 - Perceived Body Discomfort and Trunk Muscle Activity in Three Prolonged Sitting Postures
 
@@ -251,14 +251,14 @@
 
 ---
 
-38. **Zarnegar et al. (2026)** — `candidate` - [상세](references/entries/38-zarnegar-et-al-2026.md)
+38. **Zarnegar et al. (2026)** — `cited` - [상세](references/entries/38-zarnegar-et-al-2026.md)
 
 - The Effect of Prolonged Slump Sitting on Postural Sway in Female Athletes and Non-Athletes
 - 30분 구부정 좌식 후 자세동요를 운동선수 12명과 비선수 12명에서 비교. **30분 좌식 프로토콜 표준화(견봉-L1-대전자 93°±3°)와 운동군-비운동군 비교 설계**의 참고. EMG·IMU는 사용하지 않았다.
 
 ---
 
-39. **Paloschi et al. (2021)** — `candidate` - [상세](references/entries/39-paloschi-et-al-2021.md)
+39. **Paloschi et al. (2021)** — `cited` - [상세](references/entries/39-paloschi-et-al-2021.md)
 
 - Validation and Assessment of a Posture Measurement System with Magneto-Inertial Measurement Units
 - MIMU 3개(T3·T12·S1)와 광학 MoCap의 후만·전만각 비교. **T12-S1 상대각 기반 전만각 산출의 측정 타당도(최대 RMSE 5.6°)** 근거.
@@ -277,6 +277,27 @@
 
 - A Comparison Study on the Change in Lumbar Lordosis When Standing, Sitting on a Chair, and Sitting on the Floor in Normal Individuals
 - 2026-08-19 원문 PDF 텍스트 추출 완료. 방사선영상 기반으로 **기립·의자좌위·바닥 양반다리 좌위의 요추 전만 변화를 직접 비교**한 문헌으로, 자세 간 요추 정렬 차이의 배경 근거로 검토한다. 번역본은 아직 만들지 않았다.
+
+---
+
+42. **Luttmann, Jager, & Laurig (2000)** — `candidate` - [상세](references/entries/42-luttmann-jaeger-laurig-2000.md)
+
+- Electromyographical Indication of Muscular Fatigue in Occupational Field Studies
+- 2026-08-27 원문 PDF 텍스트 추출 완료. JASA와 EMG 진폭·주파수의 동시 해석 원출처로 검토한다.
+
+---
+
+43. **Dunk & Callaghan (2010)** — `cited` - [상세](references/entries/43-dunk-callaghan-2010.md)
+
+- Lumbar Spine Movement Patterns during Prolonged Sitting Differentiate Low Back Pain Developers from Matched Asymptomatic Controls
+- 2026-08-31 원문 PDF 텍스트 추출 완료. 90분 좌식 중 요추 움직임 패턴과 통증 반응을 LBP군과 무증상 대조군에서 비교한 문헌으로, 장시간 앉은 자세 유지 중 시간가변 요추 움직임과 자세 재조정 해석의 배경 근거로 검토한다.
+
+---
+
+44. **Kruithof, Song, & Vink (2026)** — `candidate` - [상세](references/entries/44-kruithof-song-vink-2026.md)
+
+- In-chair Movements: Categorizations and Patterns over Time Based on a Literature Review
+- 2026-08-31 원문 PDF 텍스트 추출 완료. 의자 내 움직임(ICM)의 분류와 시간 경과 패턴을 체계적으로 정리한 문헌고찰로, shift·fidget·자세변화 해석과 시간가변 좌식 반응 틀의 배경 근거로 검토한다.
 
 ---
 

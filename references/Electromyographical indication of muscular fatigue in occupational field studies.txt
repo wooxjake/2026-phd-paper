@@ -1,0 +1,1198 @@
+===== PAGE 1 =====
+
+International Journal of Industrial Ergonomics 25 (2000) 645}660
+Electromyographical indication of muscular fatigue
+in occupational "eld studies
+Alwin Luttmann*, Matthias JaK ger, Wolfgang Laurig
+Institute for Occupational Physiology, Uni versity of Dortmund, Ardeystra}e 67, D-44139 Dortmund, Germany
+Received 1 April 1999; received in revised form 10 August 1999; accepted 29 August 1999
+Abstract
+Surface electromyography o!ers a valuable tool for the indication of muscular fatigue in occupational"eld studies. For
+this purpose, the time course of the electromyogram (EMG) has to be analysed, in order to detect typical fatigue-induced
+changes such as an increase in EMG amplitude or a shift in the spectral distribution towards lower frequencies. Such
+procedures need a detailed knowledge about the actual activity of the person and muscle under test for the total working
+time. This can be attained by encoding the activity of the person during the work and recording an electrical code signal
+together with the electrophysiological signals. For the indication of muscle fatigue, EMGs for situations connected with
+similar muscle load should only be compared, since the EMG amplitude as well as the spectrum do not only depend upon
+the fatigue state, but also upon the produced muscle force. This demand can be ful"lled by (i) interrupting the work and
+performing test contractions of known force in a prede"ned body posture or (ii) by comparing situations connected with
+a certain reference activity. (iii) In a recently developed approach for the joint analysis of EMG amplitude and spectrum
+(JASA) changes in the amplitude and the spectrum are considered simultaneously. This method permits the discrimina-
+tion between fatigue-induced and force-related EMG changes. Using this procedure, changes in the EMG can be
+attributed to categories like fatigue or recovery as well as increase or decrease in the force production of the muscle under
+test. Applications from "eld studies during manual materials handling in a weaving mill, price recording at scanner
+checkouts in a supermarket and the performance of surgical work using endoscopic operation techniques in urology
+demonstrate the appropriateness of electromyography for fatigue indication in occupational physiology and ergonomics.
+Nevertheless, the commonly used measures of muscular fatigue such as increase in EMG amplitude and left shift in EMG
+spectrum are primarily related to the electrical activation and its propagation along the muscle"bres. Their connection
+to the fatigue-induced reduction in the force generating capacity of the muscle under test includes complex physiological
+implications. Therefore, the need for further development of fatigue indicators which are more directly related to
+muscular force is recognized.
+Relevance to industry
+In occupational health and ergonomics indication of muscular fatigue is needed, since activities inducing muscular
+fatigue can be performed for a limited time, only, and the quality of work can be in#uenced negatively. Electromyography
+o!ers valuable tools for the indication of fatigue and the appropriate assessment of ergonomic design measures.( 2000
+Elsevier Science B.V. All rights reserved.
+Keywords: Muscular fatigue; Electromyography; EMG amplitude; EMG spectrum; Fatigue indication; Occupational "eld studies
+*Corresponding author. Tel.: #49-231-1084-376; fax: #49-231-1084-402.
+E-mail address: luttmann@arb-phys.uni-dortmund.de (A. Luttmann)
+0169-8141/00/$- see front matter ( 2000 Elsevier Science B.V. All rights reserved.
+PII: S 0 1 6 9 - 8 1 4 1 ( 9 9 ) 0 0 0 5 3 - 0
+
+===== PAGE 2 =====
+
+1. Introduction
+During sustained or repetitive muscle contrac-
+tions typical changes in surface electromyograms
+(EMG), such as an increase in the amplitude or
+a shift in the frequency spectrum towards lower
+frequencies, can be observed. In occupational
+electromyography such EMG changes are com-
+monly interpreted as signs of muscular fatigue and
+used to establish the occurance of fatigue. Since,
+however, the EMG amplitude as well as its spectral
+content do not only depend on the fatigue state,
+but also on the force production of the muscle
+under test, changes in the amplitude and spectrum
+cannot be unequivocally attributed to muscular
+fatigue.
+Under laboratory conditions it is normally pos-
+sible to control the force produced by the muscle
+under test. Under such circumstances the force can
+be kept constant at a known level and a change
+in the respective EMG can be ascribed to a change
+in the fatigue state of the muscle. Under"eld condi-
+tions, however, the force production is determined
+by the actual necessities of the work and cannot be
+controlled by the investigator. In a general case, it is
+therefore not possible to decide whether a temporal
+variation of an EMG is caused by a change in the
+force production or in the fatigue state. Neverthe-
+less, the indication of muscular fatigue is possible
+under shop-#oor conditions if special requirements
+are satis"ed.
+One possible way is to compare the EMGs for
+situations in which the muscle force is identical.
+Two methods which ful "l this demand were pre-
+viously applied in occupational studies: (i) the
+execution of test contractions of known force in
+ad e"ned posture, and (ii) the comparison of EMGs
+for reference activities of comparable workload. In
+another approach (iii) amplitude and spectral shifts
+are considered simultaneously in order to discrimi-
+nate between force-related and fatigue-induced
+EMG changes. To this end a method for the‘joint
+analysis of EMG spectrum and amplitude (JASA)a
+was developed and applied (Luttmann et al.,
+1996a,b; Luttmann and Ja K ger, 1998). Using this
+procedure time-related EMG changes can be as-
+signed to di!erent categories such as fatigue, recov-
+ery, force increase, or force decrease.
+The aim of this paper is to present several
+methods for the indication of muscular fatigue and
+to weigh their appropriateness using examples from
+various shop-#oor studies.
+2. Methodology for the identi 5cation of muscular
+fatigue in occupational 5eld studies
+2.1. Preliminary remarks
+In the context of ergonomics and work-physi-
+ology muscle fatigue is understood as a reduction
+in the force generating capacity of a muscle which
+occurs in the course of the work. A direct fatigue
+determination based on the mechanical perfor-
+mance capacity of a muscle needs the repeated
+execution of maximum voluntary contractions at
+several moments of time during the work. Such
+a procedure should not be applied in real work
+situations, since the measuring strongly disturbs
+the work#ow. Furthermore, the measuring is retro-
+active in its nature, because the execution of test
+contractions reduces the performance capacity.
+Therefore, in occupational studies an indirect fa-
+tigue determination using electromyography is pre-
+ferred. All electromyographical fatigue analyses are
+based on the assumption that the change in the
+mechanical performance capacity is re #ected in
+corresponding changes in the myoelectrical signal
+of the muscle under test. Many studies performed
+since the beginning of this century (e.g. Piper,
+1909,1912; Cobb and Forbes, 1923) have shown
+that fatiguing contractions of a muscle coincide
+with typical changes in the EMG time course, like
+an increase in the EMG amplitude or a shift in the
+EMG spectrum towards lower frequencies. In or-
+der to detect those changes, long-term EMG re-
+cordings of selected muscles or muscle groups are
+performed for certain periods of time up to total
+working shifts or considerable shift sections. In
+data evaluation it has to be examined whether
+typical fatigue-induced changes in the EMG can be
+found.
+The preferable method for the measurement of
+EMGs in occupational settings is surface electro-
+myography, since this method allows a noninvasive
+recording of myoelectrical signals and a minimal
+646 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 3 =====
+
+Fig. 1. Schematic description of the equipment used to record electrophysiological signals and an action code in ergonomic"eld studies.
+restraint of the subjects. The EMGs can be stored
+using portable recorders or the signal can be trans-
+mitted using a portable telemetric device. Espe-
+cially for the use of portable recorders, data
+reduction is sometimes advisable. For this purpose
+characteristics representing the averaged amplitude
+like Root Mean Square (RMS) and Electrical Ac-
+tivity (EA) or spectral parameters like Mean Power
+Frequency (MPF) and Median Frequency (MF)
+are calculated from the raw EMGs. In "eld appli-
+cations the recording of raw EMGs should be
+preferred, since recordings subjected to prior data
+reduction have the disadvantage that disturbances
+caused, for example, by strong electrode move-
+ments or power-line hum cannot be distinguished
+from the electrical signal originating at the muscle
+"bres.
+2.2. Test contractions
+It was mentioned before, that an increase in the
+EMG amplitude may be caused by an increase in
+the force production of the muscle under test or by
+muscular fatigue. Therefore, an indication of fa-
+tigue based on the amplitude change is only pos-
+sible, if situations with identical force production of
+the muscle are compared. This demand can be
+ful"lled using test contractions of prede"ned force
+levels. An appropriate method was developed and
+applied in "eld studies by HaK gg et al. (1987). There-
+by the occupational activity was interrupted at
+prede"ned moments of time and muscle contrac-
+tions of known force were performed in a certain
+posture. EMGs were measured during these test
+contractions and the corresponding amplitudes
+were compared. Possible EMG changes over time
+observed under such conditions were attributed to
+the occurence of muscle fatigue. The use of this
+method needs an exact control of the body posture
+during the performance of the test contractions.
+2.3. Selection of reference acti vities of comparable
+workload
+In an analogous approach EMGs can be com-
+pared for selected periods of time which are charac-
+terized by a de"ned activity like holding or lifting
+a certain object, taking a de "ned body posture,
+or performing a special movement. The respective
+activities represent regular elements of the oc-
+cupational work. They are taken as ‘reference
+activitiesa comprising a certain muscular force
+production. By contrast to the method described
+above, customary activities are used instead of test
+contractions and the interruption of work is avoid-
+ed. When applying the reference task method activ-
+ities should be preferred which are performed
+repeatedly during the execution of the work.
+To meet this methodological approach a careful
+documentation of the sequence of operations is
+needed which enables, in the data evaluation pro-
+cess, a precise assignment of the subject’s activity to
+the EMG. For this purpose a method for the pro-
+duction of an ‘electronic protocola was developed
+and proven in practice (Balle H et al., 1982;
+Luttmann et al., 1988). A schematic representation
+of the concept and the equipment is shown in Fig. 1.
+The subject is accompanied during the total
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 647
+
+===== PAGE 4 =====
+
+working period by an observer who uses a numer-
+ical keyboard to encode the actual activity accord-
+ing to a prede"ned code list. The code list must be
+adopted appropriately for each "eld application.
+To this end actual characteristics of the work-load
+like body posture of the subject or mass and form of
+a manipulated object have to be considered. The
+electrical output signal of the keyboard represents
+an ‘action codea which is recorded together with
+the electromyograms and } if needed } other
+physiological signals like an electrocardiogram on
+the same recording device (computer memory me-
+dia, magnetic tape). The coding system permits the
+recording of informations regarding the actual load
+at a given moment and to combine those load-
+related data with the current EMGs. In case of
+non-stationary workplaces it is favorable to use
+wireless transmitters to relay the action code as
+well as the physiological signals to the recording
+unit.
+During o!-line data evaluation, the electrical ac-
+tion code enables combining activity data with
+electromyographical "ndings and determining
+the myoelectrical activity during particular activ-
+ities. The code signal can be applied in computer-
+assisted data evaluation in order to identify all
+periods during the shift connected with the same
+activity. With respect to the electromyographical
+fatigue analysis this method o!ers a valuable pro-
+cedure to select sections from EMG time functions
+which are associated with similar workload and
+presumably equal muscular force production. For
+the fatigue indication, EMGs of all selected sections
+are compared, and a possible increase in the ampli-
+tude or a shift in the frequency spectrum towards
+lower values over time can be attributed to the
+occurance of muscular fatigue.
+2.4. Joint analysis of EMG spectrum and amplitude
+(JASA)
+In the aforementioned procedures for fatigue
+indication, EMG changes in the amplitude or
+spectral domain are considered separately and
+independently. Due to the twofold dependency of
+the EMG amplitude and spectrum on force and
+fatigue, the methods for fatigue indication are only
+applicable if EMG sections with identical force
+production are taken into account. This results in
+a considerable restriction for use in occupational
+"eld studies. In the newly developed method for
+‘joint analysis of EMG spectrum and amplitude
+(JASA)a this restriction is reduced. For this purpose
+the methodology for fatigue indication was en-
+hanced and both, the change in the amplitude and
+the spectrum were considered simultaneously (Lutt-
+mann et al., 1996a).
+The JASA method is based on the principally
+known relationships between muscular force pro-
+duction and fatigue state, on the one hand, and the
+EMG amplitude and spectrum, on the other hand.
+These relationships were investigated in numerous
+studies; with regard to the EMG amplitude it is
+experimentally veri"ed that the amplitude increases
+with increasing force as well as with the occurence
+of fatigue. A uniform functional relationship be-
+tween the mechanical force production and the
+EMG amplitude is not entirely settled (Kumar
+1996). The spectrum also depends on fatigue and
+force production: In case of fatigue a left shift in the
+spectral distribution was consistently found. For
+the force dependency of the spectral distribution,
+however, inconsistent "ndings were reported, de-
+pending on the muscle under test, the force level
+and the quantitative measure used for the descrip-
+tion of the spectral distribution. The most often
+used measures to characterize EMG power spectral
+distribution are the Median Frequency (MF) ac-
+cording to Stulen and De Luca (1981) and the
+Mean Power Frequency (MPF) as de "ned by
+Kwatny et al. (1970). Measurements have been per-
+formed to study the MPF and MF as a function
+of the muscular force and torque level during
+both static and dynamic contractions (e.g. Komi
+and Viitasalo, 1976; Viitasalo and Komi,
+1977,1978; Petrofsky, 1980; Petrofsky and Lind,
+1980; Petrofsky et al., 1982; Hagberg and Ericson,
+1982; Broman et al., 1985; Moritani and Muro,
+1987; Nagata et al., 1990; Bilodeau et al.,
+1990,1991,1992a,b). A collation of literature data
+regarding the relationship between the force and
+both spectral measures is provided for studies on
+extremity muscles in Fig. 2. A relatively uniform
+result is achieved for MF. In most of the studies for
+various muscles and di!erent types of contractions
+(step contraction, ramp contraction) an increase in
+648 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 5 =====
+
+Fig. 2. Collation of literature data: Median Frequency and Mean Power Frequency of electromyograms of di!erent extremity muscles
+as a function of the muscular force level expressed as the percentage of the force during maximum voluntary contraction (MVC).
+MF is observed with increasing force up to forces of
+more than 60% of the maximum voluntary con-
+traction force (MVC). For MPF also an increase is
+shown in the majority of the studies for force levels
+up to 30% and a levelling o ! at higher forces. In
+some cases even a decrease in MPF over the total
+force range was observed. In the following, due to
+its more uniform behavior the use of MF was
+preferred in the JASA method for the characteriza-
+tion of the dependency of the EMG spectrum on
+the force level.
+The principle relationships between the EMG
+amplitude and spectrum, on the one hand, and the
+fatigue state and force production, on the other
+hand, are illustrated schematically in Fig. 3.
+The amplitude is assumed to be quanti"ed by the
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 649
+
+===== PAGE 6 =====
+
+Fig. 3. Schematic representation of the method for the Joint
+Analysis of EMG Spectrum and Amplitude (JASA): Time-re-
+lated changes in the Electrical Activity (EA) and the Median
+Frequency (MF) are considered jointly in order to di!erentiate
+between various EMG-change causations.
+Electrical Activity (EA) which is derived from the
+raw EMG by recti "cation and low-pass "ltering.
+Spectral distribution is characterized by MF.
+A temporal increase in EA } illustrated in the
+right-hand half-plane of the xy diagram in Fig.
+3 } may result from an increase in the force produc-
+tion over time or from fatigue. A temporal decrease,
+shown in the left-hand half-plane, may be e!ected
+by force decrease or recovery from previous fatigue.
+If such a change in the amplitude is considered
+solely, the discrimination between a change in the
+fatigue state or in the force production is obviously
+not possible. A similar problem arises with respect
+to the spectrum: A left shift in the power spectral
+density indicated by a negative temporal change in
+MF } see the lower half-plane in Fig. 3 } may be
+received from fatigue or, according to Fig. 2, from
+decrease in force. Analogously, in the upper half
+plane an increase in MF may result from force
+increase or recovery. If both characteristics of the
+EMG are considered jointly, more reliable con-
+clusions can be drawn than from the use of one
+of the characteristics only. Four cases can be dis-
+tinguished: (i) For EMG recordings for which a
+simultaneous increase in EA and MF over time is
+observed, the concordant statement drawn from
+the change in amplitude and spectrum is an in-
+crease in muscle force (upper right-hand quadrant
+in the xy diagram in Fig. 3). (ii) An increase in EA
+which occurs together with a decrease in MF can
+be regarded as the result of muscle fatigue (lower
+right-hand quadrant). (iii) Similarly a decrease in
+EA and an increase in MF points to recovery from
+previous muscle fatigue (upper left-hand quadrant).
+(iv) A decrease in EA accompanied by a decrease in
+MF can be regarded as a sign of muscle force
+decrease (lower left-hand quadrant).
+When applying the JASA procedure described
+above, knowledge about the temporal behaviour of
+the EMG amplitude and spectrum or measures
+thereof is needed. In previous studies (e.g. Lutt-
+mann and Ja K ger, 1992; Luttmann et al.,
+1989,1996a,b) such information were obtained from
+long-term EMG recordings by calculating mean
+values of EA and MF for succeeding short periods
+of time (e.g. 5 s or 10 s). This procedure results in
+time series for both characteristics with the respect-
+ive sampling interval. EA and MF time series were
+summarized by regression analyses and the regres-
+sion coe$cients for EA and MF were regarded as
+quantitative indicators of the temporal change in
+the EMG amplitude and spectrum.
+3. Examples for occupational fatigue analyses
+3.1. EMG recording and e valuation
+Electromyographical "eld studies using the
+aforementioned techniques for selecting reference
+activities as well as the JASA method were per-
+formed in various occupational settings during to-
+tal shifts (e.g. manual materials handling in
+a weaving mill, price-recording at scanner check-
+outs, surgical work using endoscopic operation
+techniques). In all cases surface electromyograms
+from various muscles were recorded using a telem-
+etric procedure. For this purpose electrodes were
+a$xed to the skin by self-adhesive rings. After pre-
+ampli"cation up to 5 EMG signals were transmit-
+ted via a telemetric system and recorded on an
+analog magnetic tape. In data evaluation from the
+raw EMG the Electrical Activity (EA) was formed
+by recti "cation and continuous averaging over
+650 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 7 =====
+
+Fig. 4. Two sections of an original recording of the electromyograms (EMG) and Electrical Activity (EA) of the biceps and"nger #exors
+during the handling of bobbins in a weaving mill, with a time lapse of about half an hour between the sections; black bars denote sections
+with lifting of bobbins.
+a time window of particular length (between 140
+and 400 ms); the EMG spectra were calculated
+from the raw EMG by Fourier transformation, and
+the Median Frequency was determined in order to
+quantify the spectral distribution.
+Parallel to the EMGs the action code describing
+the occupational activity of the person under test
+(cf. Section 2.3) was recorded on the same tape and
+used in data evaluation for the selection of reference
+activities representing EMG sections which are as-
+sociated with similar muscular force production.
+3.2. Fatigue indication using reference acti vities
+The "rst example for an occupational fatigue
+analysis based on the evaluation of EMGs during
+reference activities is taken from a study on persons
+manipulating objects in a weaving mill. The task of
+the person under test was to produce warp beams.
+In the course of this activity bobbins with a mass of
+about 10 kg had to be transferred from transport
+containers into a special rack arrangement, called
+beamer. Grasping and lifting of the bobbins re-
+quires high muscular forces of the arm and "nger
+#exors. Accordingly EMGs of the m. biceps brachii
+and the m. #exor digitorum super "cialis of both
+arms were recorded and analysed. The activity of
+the person under test was documented during the
+work using the aforementioned coding system (see
+Fig. 1). During the study the following activities
+were encoded among others: lifting a bobbin,
+mounting a bobbin onto a peg in the beamer, and
+tying threads together.
+For the purpose of fatigue analysis the lifting
+activity was chosen as a reference activity and the
+temporal behaviour of the EMG amplitude for
+such activity sections was followed up. The proced-
+ure will be explained using Fig. 4: Two short EMG
+sections, each lasting about 3 min, are shown. The
+time interval between the sections amounts to
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 651
+
+===== PAGE 8 =====
+
+Fig. 5. Mean Electrical Activity of various shoulder and arm
+muscles during scanning (i.e. price recording by moving an
+article over an optical scanner) and scanning rate for a total
+working day at a check-out station in a supermarket. Time
+dependencies are represented by regression lines (straight lines)
+for 5 work sections.
+about half an hour. Each lifting of a bobbin is
+indicated by a black bar underneath the EMG
+recordings. The point in time and the length of each
+lifting period were derived from the corresponding
+action code signal. Fig. 4 indicates that the highest
+EMG amplitudes occur during the lifting periods.
+Furthermore, it becomes evident from the EA re-
+cording (lowest trace of Fig. 4) that the peaks with-
+in the time curves are higher in the right section
+than in the left one. This points to an increase in the
+myoelectrical activity in the course of the work.
+The "nding shown here for short sections only, is
+con"rmed by a detailed analysis of all of the peak
+activities for total shifts (Luttmann and Ja K ger,
+1992). It is concluded that the observed increase in
+the EMG peak amplitude during lifting indicates
+the occurence of muscular fatigue. The other pos-
+sible explanation for the increase in the EMG am-
+plitude, namely the increase in muscular force, is
+unlikely for this activity, since the mass and the
+form of the handled objects were unchanged and
+the lifting technique as well as the body posture did
+not vary systematically.
+In Fig. 5 another example for the fatigue analysis
+based on the determination of the EMG amplitude
+for reference activities is shown. Data from a study
+of persons working on scanner check-outs in
+a supermarket (Luttmann et al., 1989) are provided.
+EMGs were derived from various shoulder muscles
+(m. trapezius, m. deltoideus) and arm muscles (m.
+biceps brachii, m. extensor carpi ulnaris) and re-
+corded using the aforementioned telemetric system.
+Muscles from the left-hand side of the body were
+chosen, since, due to the construction of the cash-
+desk, almost all articles were moved using the left
+hand. The current activity of the subject was re-
+corded by producing an action code according to
+Fig. 1. Additionally, an electrical scanner signal was
+recorded which was triggered by each movement of
+an article across the scanner in order to count the
+number of price recordings per unit of time. In
+contrast to the example shown in Fig. 4, where
+short sections of the EMG recordings are provided,
+here data for a whole working day are demon-
+strated.
+In the upper traces of Fig. 5 each point refers
+to the average Electrical Activity in a time sec-
+tion relating to the action ‘scanninga (i.e. price
+recording by moving articles over the scanner). In
+the lowest trace, as a measure of the working speed,
+the number of scanned articles per minute is re-
+corded. The time courses demonstrate that the
+work over the day is divided by breaks (see the
+black bars) into 5 activity sections. Within the sec-
+tions the EA data and the number of articles are
+summarized by regression lines. A signi "cant in-
+crease in the EA is found for at least one of the
+muscles for four of the "ve working sections. By
+contrast, the regression lines for the number of
+articles do not increase or decrease signi "cantly
+over time; so the mean workload within the sec-
+tions can be interpreted as not changing. It is there-
+fore concluded that the measured increase in the
+mean EA is not the result of a change in load but an
+indication of muscle fatigue. The results shown in
+652 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 9 =====
+
+Fig. 5 for one subject during a total work shift were
+con"rmed by further measurements on 4 persons
+during total working days (Luttmann et al., 1989).
+3.3. Fatigue indication using the JASA method
+The method described in the previous section
+can only be applied, if an identi"cation of reference
+activities comprising similar workload is possible.
+In a more general approach the newly developed
+JASA method for the joint analysis of EMG spec-
+trum and amplitude is used in which, in addition to
+the change in the EMG amplitude, the change in
+the spectral distribution is considered.
+An application of the method will be demon-
+strated referring to an example of an occupational
+EMG "eld study performed on surgeons in an
+operation theatre (Luttmann et al., 1996a). The
+EMGs from several muscles in the shoulder-arm
+region (right and left m. trapezius, right m.
+deltoideus) and the back (left m. erector spinae)
+were derived from surgeons during endoscopic op-
+erations in urology. In such operations a so-called
+resectoscope is introduced into the body through
+the urethra. The resectoscope mainly consists of
+a rod-shaped endoscope used for the visual inspec-
+tion of the operation area and a wire loop supplied
+by a high frequency current for the dissection or
+coagulation of the tissue. The"rst part of the study
+was performed when the surgeons used the so-
+called ‘direct endoscopya. In this method, the sur-
+geons looked ‘directlya into the urethra and the
+bladder through the endoscope. This method re-
+quires that both hands of the surgeons simulta-
+neously grasp the instrument and that one eye is
+permanently in contact with the aperture of the
+endoscope. When positioning the instrument it is
+often necessary to steeply incline the trunk and to
+remain in this posture for a long time. A typical
+body posture during an operation using direct en-
+doscopy is shown in the upper photograph in Fig. 6.
+Data from the "rst part of the study were com-
+pared with the results of a second part which was
+performed after an ergonomic intervention. In this
+a video system was introduced enabling the sur-
+geon to apply the ‘monitor endoscopya. For this
+purpose a camera was mounted on the top of the
+endoscope and the operation area could be visually
+inspected using a monitor. The monitor could be
+adjusted according to the anthropometry of the
+surgeon and the patient. Furthermore, a chair with
+arm and back rests was used which allows to sup-
+port the back and the elbows of the surgeons from
+time to time in order to unburden the muscles. In
+the lower photograph in Fig. 6, the newly intro-
+duced equipment (HoK cker et al., 1995) including the
+monitor hanging on the ceiling and being adjust-
+able in the horizontal and vertical directions as well
+as the newly developed chair (SoK keland et al., 1995)
+is shown. Using this device the operation can be
+performed with the trunk held in an almost upright
+position.
+In the "rst part of the investigation, the EMG
+studies were performed on four surgeons during 14
+endoscopic operations lasting between 18 and
+83 min. The second part was carried out more than
+one year after the ergonomic redesign of the opera-
+tion equipment when the surgeons were accus-
+tomed to the new arrangement including the video
+technique. It was performed on 5 surgeons during
+12 operations lasting between 18 and 80 min.
+EMG amplitude was quanti"ed by determining
+the Electrical Activity. Spectral distribution was
+analysed by performing Fourier transformation
+and calculating the Median Frequency. The tem-
+poral behaviour of both characteristics was evalu-
+ated as described before in Section 2.4 by
+computing the means for EA and MF for sections
+of 10 or 5 s length, respectively. For the resulting
+EA and MF time series a linear regression analysis
+was performed. The slopes of the regression lines
+for EA and MF are used in the further analysis as
+characteristics of the temporal behaviour of the
+EMG. According to the principle of the JASA ap-
+proach (see Fig. 3) changes in the EMG were at-
+tached to one of the categories fatigue, recovery,
+force increase, or force decrease.
+Results from the"rst part of the study during the
+application of direct endoscopy are provided in
+Table 1 for a total of 45 EMG recordings during 14
+operations. (Data from 11 recordings could not be
+considered in data evaluation owing to distur-
+bances induced by high frequency currents used for
+the dissection and coagulation of the tissue.) It
+reveals that fatigue occurs in the right trapezius in
+the majority of the operations (11 to 14). With
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 653
+
+===== PAGE 10 =====
+
+Fig. 6. Left-hand part: Photographs of typical work situations during an urological operation applying direct endoscopy before
+ergonomic redesign (above) and using monitor endoscopy after redesign (below). Right-hand part: Corresponding joint analysis of EMG
+spectrum and amplitude (JASA) for EMG recordings from the right m. trapezius of the surgeons.
+Table 1
+Time-related changes in the amplitude and spectrum of elctromyograms of various muscles derived from surgeons during urological
+operations applying ‘direct endoscopya!
+Number of operations with simultaneous
+EA increase and
+MF decrease
+EA decrease and
+MF increase
+EA increase and
+MF increase
+EA decrease and
+MF decrease
+Interpretation Fatigue Recovery Force increase Force decrease
+M. trapezius, right 11 0 1 2
+M. trapezius, left 4 1 3 1
+M. deltoideus, right 4 2 3 0
+M. Erector spinae, left 4 1 4 4
+!EA: Electrical Activity; MF: Median Frequency.
+respect to the other muscles fatigue was identi"ed
+for 4 operations in all cases. It may concluded that
+the trapezius muscle forms a bottleneck for the
+performance of this activity. Signs of recovery
+were found altogether in 4 cases, only. The number
+of operations for which a change in the force
+654 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 11 =====
+
+production was identi"ed depends on the muscle, it
+varies between 4 (in case of the m. erector spinae)
+and 0 (m. deltoideus). It is concluded that during
+direct endoscopy fatigue occurred in the majority
+of the operations, the right trapezius muscle being
+particularly a!ected.
+In Fig. 6 the in#uence of the ergonomic interva-
+tion on body posture and muscle fatigue is shown.
+In the left-hand part photographical representions
+of the typical pustures of the persons under test
+before and after redesign are shown. Before re-
+design, direct endoscopy is applied and a steep
+lateral bending of the surgeon can be seen; after
+redesign, when using the monitor method, the op-
+eration can be performed in an almost upright
+position. In the right-hand part of Fig. 6 the com-
+parison of EMG "ndings from both parts of the
+study is provided. Data are focussed on the right
+trapezius muscle since this muscle was identi"ed to
+form a bottleneck for the execution of the opera-
+tion. In accordance with the schematical descrip-
+tion of the JASA method presented in Fig. 3, the
+time-related change in EA is plotted on the x axis
+and the change in MF on the y axis. For each
+operation a pair of values was formed using the EA
+and MF regression coe$cients and graphically pre-
+sented in form of a dot in thexy diagram provided
+in the right-hand part of Fig. 6. Before redesign
+(upper diagram) about 80% of the EMGs are char-
+acterized by an increase in EA over time and a de-
+crease in MF. The corresponding dots are located
+in the ‘fatigue quadranta (lower right-hand quad-
+rant in the diagram). After redesign (lower diagram)
+this amount was lowered to about 45%. It is con-
+cluded that for the muscle a !ected most, i.e. the
+right trapezius muscle, fatigue is reduced by the
+ergonomic intervention but not completely avoided.
+4. Discussion
+4.1. Methodological restrictions
+EMG amplitude and spectrum depend not only
+on the fatigue state but also on the produced mus-
+cular force. Nevertheless, the separate use of the
+increase in the EMG amplitude or the left shift in
+the EMG spectrum for the indication of fatigue is
+possible, if the force production is similar for all
+EMG sections which are included in the analysis of
+the EMG time course. This has been proven by the
+use of test contractions (Ha K gg et al., 1987). The
+application of test contractions in occupational
+studies reveals some problems, however, since the
+body postures which are adopted during the perfor-
+mance of the test contraction have to be repro-
+duced and controlled with high accuracy; otherwise
+fatigue-induced changes in the EMG might be
+covered by changes in the EMG caused by alter-
+ations in muscle geometry due to postural vari-
+ations and changed muscular force production.
+Furthermore, in many real activities, such as the
+execution of the surgical work shown in the pre-
+vious section, it is not possible to in #uence the
+content of the work by incorporating such test
+contractions.
+Another possibility for selecting sections with
+similar force production is to use ‘reference con-
+tractionsa which are a natural part of the normal
+work of the person under test. Here also, strictly
+speaking, only sections should be compared for
+which an identical force production is attained.
+Under real occupational conditions this demand
+can be ful"lled with some restrictions only. In"eld
+situations the same activity is normally performed
+somewhat diversely, e.g. with respect to the body
+posture, working velocity, and working technique.
+This results in a certain scattering of the EMG data
+for the same activity. Nevertheless, reliable in-
+formations regarding the EMG time course can be
+obtained and signi"cant changes in EMG can be
+found, if the selected reference activities form an
+essential part of the work and are, in consequence,
+performed with a high degree of repetition. Then
+the number of EMG samples usable for the time
+course analysis is high and statistical methods such
+as regression analyses can be used in order to prove
+the signi"cance of EMG changes as shown in the
+example provided in Fig. 5.
+The indication of muscular fatigue is enhanced
+by applying the JASA method since changes in the
+EMG due to a change in the force production can
+be separated from fatigue-induced changes. In the
+JASA approach, muscular fatigue is assumed in
+cases, only, where an increase in EA as well as
+a decrease in MF over time was observed. In the
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 655
+
+===== PAGE 12 =====
+
+graphical representation of the JASA diagram
+(Fig. 6) the corresponding dots are positioned in
+the lower right-hand quadrant. It should be
+noted, however, that the locations of the dots with-
+in this quadrant scatter within a wide range. Some
+dots are located near the x or y axis, respectively,
+others are lying in an ‘intermediate "elda between
+the axes. For dots near one of the axes a distinct
+change is observed in one of the characteristics EA
+or MF with only a slight change in the other
+parameter; for dots in the intermediate "eld both
+parameters are changing considerably over time.
+A systematic analysis of the causation for the di!er-
+ent locations of the dots using the data shown in
+Fig. 6 is not advisable, since the respective EMGs
+were recorded under "eld conditions and some
+supposed in#uencing factors like body posture or
+body movements were not controlled with su $-
+cient accuracy. Therefore, corresponding laborat-
+ory studies with fatiguing muscle contractions of
+constant force were performed. In such studies an
+in#uence of the size of the muscle and the indi-
+vidual force generating capacity of the muscle un-
+der the test on the individual reaction in the
+parameters EA and MF was observed (Luttmann
+et al., 1997,1998). Accordingly, the individual max-
+imum force maybe partly responsible for the indi-
+vidual reaction. For further interpretations
+additional studies are necessary.
+4.2. Physiological implications
+The basis for the JASA method are experi-
+mentally proved relationships between EMG
+amplitude and spectrum and its measures EA
+and MF, on the one hand, and force and fatigue,
+on the other hand. Nevertheless, the appointment
+of a change in the phenomenological parameters
+EA and MF to the physiological causes is di$cult,
+due to the complexity of the physiological pro-
+cesses.
+An increase in muscular force is accompanied by
+an increase in EA. This mainly results from an
+increase in muscular activation, namely, of the
+number of action potentials per unit of time. It is
+performed by recruiting additional muscle "bres
+and/or by an increase in the "ring rate (‘rate cod-
+inga). The relative importance of the two neural
+mechanisms was described by Stein (1974). In
+muscle fatigue also an increase in EA is found. In
+this case two di!erent factors contribute to the EA
+increase: (i) An increase in the activation of the
+muscle by recruitment and/or rate coding and (ii)
+a slowing in the propagation of the action poten-
+tials along the muscle "bres. Re (i) The fatigue-
+induced increase in the activation of the muscle
+occurs, since, as a result of fatigue, the force per
+action potential drops. (For review of the underly-
+ing physiological mechanisms see Luttmann
+(1996).) In order to maintain a constant force either
+additional motor units are recruited or the action
+potential "ring rate is increased. Re (ii) Slowing of
+the action potential propagation velocity results
+from changes in the ional composition of the intra-
+and extra-cellular #uids in the muscle"bres and, in
+particular, in changes in the potassium distribution
+(KoK ssler et al., 1990; Sj +gaard, 1990). Such a de-
+crease in the action potential propagation is re#ec-
+ted in a change in the EMG signal, in particular in
+a ‘broadeninga of the bipolar action potentials
+measured on the skin surface. Both changes, the
+increase in the number of action potentials and
+their broadening, results in an increase in EA, since
+EA is determined by integrating the EMG and
+therefore, it depends upon the area below the EMG
+time functions. Another often applied integrative
+measure of the EMG amplitude is the Root Mean
+Square (RMS); its dependency on muscular force
+and fatigue is similar to EA.
+In summary, integrative measures of the EMG
+amplitude such as EA and RMS are suitable to
+illustrate changes in the EMG signal caused by
+muscular fatigue; they are, however, not appropri-
+ate to solve the reverse problem, namely, to decide
+whether an increase in the EMG amplitude results
+from fatigue.
+Another measure for the description of the EMG
+amplitude, the Muscular Activity (ACT), was de-
+"ned some years ago by Spaepen et al. (1987). ACT
+is derived from the EMG not by integration, but by
+di!erentiation. It increases with increasing muscu-
+lar activation and, in contrast to EA and RMS, it
+decreases with decreasing propagation velocity
+(Hermans, 1996). The simultaneous use of an in-
+tegrative measure (EA or RMS) and a di !erenti-
+ating one (ACT) allows to distinguish between
+656 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 13 =====
+
+force-related and fatigue-induced EMG changes.
+Based on this idea, a combination of both types of
+measures of the EMG amplitude, the ratio between
+RMS and ACT, was introduced recently as
+an indicator of muscular fatigue (Spaepen and
+Hermans, 1996).
+An increase in muscular force is not only accom-
+panied by an increase in the EMG amplitude but
+also by an increase in MF (see Fig. 2) which re#ects
+a spectral shift to higher frequencies and is caused
+mainly by an increase in the number of action
+potentials per unit of time. Such behaviour of MF
+in relation to the "ring rate is con"rmed by model
+studies of Hermens et al. (1992). The change in the
+spectral distribution occurring during fatiguing
+contractions is in#uenced by counteracting e!ects:
+(i) A shift to higher frequencies due to the aforemen-
+tioned increase in the number of action potentials
+and (ii) a shift towards lower values. In the litera-
+ture this left shift in the spectrum has been dis-
+cussed intensely for many years. (For review see
+Basmajian and De Luca (1985); De Luca (1985);
+HaK gg (1992); HaK gg and Kadefors (1996).) Two main
+interpretations have emerged: reduction in action
+potential conduction velocity and synchronization
+or grouping of motor unit "ring. The reduction in
+conduction velocity is currently the most widely
+acknowledged interpretation of the fatigue-induced
+spectral change even if the decrement in spectral
+parameters is often greater than the decrement in
+conduction velocity (Broman et al., 1985; Merletti
+et al., 1992). However, there is some evidence that
+this explanation is only partially valid, in particular
+for low- and moderate-level endurance contrac-
+tions (Krogh-Lund, 1993; Ca$er et al., 1993). The
+net spectral change normally observed during fa-
+tiguing contractions is to the left; it is concluded
+that the spectral shift towards lower values exceeds
+the shift to higher ones.
+One of the main interests in the fatigue analysis
+in occupational health and ergonomics is to de"ne
+an indicator of the loss in the force generating
+capacity of the muscle under test. This information
+can then be applied for the justi"cation of measures
+for work design like redesign of the workplace
+according to ergonomic principles or the introduc-
+tion of a work-rest regimen which prevents immod-
+erate fatigue. Another aim of fatigue analysis deals
+with musculoskeletal disorders and functional in-
+su$ciency. Static activity can be assumed to serve
+as a risk factor for the development of muscular
+pain symptoms (Westgaard et al., 1996), in particu-
+lar for the trapezius muscle. In this muscle high
+static activity was observed, even if objects of low
+weight were handled (Strasser and MuK ller, 1999).
+The prevailing hypothesis for the occurence of
+shoulder myalgia is based on observations that
+low-threshold motor units are active throughout
+the contraction, until total relaxation (Kadefors
+et al., 1999). Therefore, the reduction of static activ-
+ity by ergonomic work design and the introduction
+of breaks allowing muscular relaxation are as-
+sumed to be e!ective measures for the prevention of
+myalgia symptoms.
+The aforementioned short compilation of the re-
+lationships between the EMG changes and the
+physiological processes indicates that all com-
+monly used fatigue measures characterize changes
+in the myoelectrical activity, which coincide with
+fatigue in a complex way, but do not depend dir-
+ectly on mechanical characteristics. This elucidates
+the necessity of further development of an adequate
+measure of muscular fatigue which is preferably
+derived from surface EMGs and which depends
+directly on the interrelationship between the elec-
+trical EMG signal and the mechanical force devel-
+opment. A possible way for the derivation of such
+a measure is to determine an electrical equivalent of
+the ‘elementary force a, i.e., the force which
+is produced by a single action potential, and its
+fatigue-induced reduction.
+4.3. Conclusions regarding work design
+An activity in which the working musculature is
+fatigued can only be performed for a limited period
+of time. After this time has elapsed, the musculature
+is exhausted and the needed force cannot be pro-
+duced any longer. Another implication of fatigue is
+a loss in the required accuracy of movements. From
+a practical point of view, indication of muscular
+fatigue is needed in occupational studies in order to
+quantify the time for performing a certain activity
+without reaching the state of immoderate fatigue
+and disabling the person to continue the activity
+with the necessary precision. Such queries can be
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 657
+
+===== PAGE 14 =====
+
+studied using EMG "ndings, if the connection
+between fatigue-induced changes in the EMG
+and the endurance time of the muscle is taken
+into consideration. In the frequency domain,
+Hagberg (1981) has studied this connection by
+analysing the relationship between the temporal
+change in MPF and the endurance time. In the
+amplitude domain, the increase in EA caused by
+fatigue and the resulting endurance time was inves-
+tigated by Laurig (1974,1975) using a fairly large
+number of experiments on di!erent muscle groups.
+It reveals that a steep increase in the EA is connec-
+ted with a small endurance time whereas a #at
+increase in EA is related to a large endurance time.
+The data were later extended by some further
+measurements (Laurig et al., 1987) and summarized
+using the regression formulay"101.622~0.745 -0’ x
+with y"endurance time in min and x"increase
+in Electrical Activity in percent per min (Luttmann,
+1996).
+For practical applications such relationships can
+be used to predict the endurance time for the mea-
+sured EMG change. Investigations of this type were
+performed within the aforementioned studies on
+persons executing manual handling tasks in a
+weaving mill, during cash-desk activities and for
+surgeons performing endoscopic operations in
+urology. In all cases the periods of time for uninter-
+rupted working sections were compared with the
+predicted endurance times, and if necessary,
+measures for the reduction in muscular strain and
+fatigue by introducing a new ergonomic work de-
+sign or a physiologically justi "ed work-rest regi-
+men with shorter working periods could be derived
+and were recommended.
+References
+BalleH , W., Smolka, R., Luttmann, A., 1982. Aufbau und Er-
+pobung eines Me{fahrzeugs zur Datenerfassung in arbeits-
+physiologischen Felduntersuchungen. Zentralblatt fu K r
+Arbeitsmedizin 32, 214}218.
+Basmajian, J.V., De Luca, C., 1985. Muscles Alive - Their Func-
+tions Revealed by Electromyography 5th Edition. Williams
+and Wilkins, Baltimore.
+Bilodeau, M., Arsenault, A.B., Gravel, D., Bourbonnais, D.,
+1990. The in#uence of an increase in the level of force on the
+EMG power spectrum of elbow extensors. European Journal
+of Applied Physiology 61, 461}466.
+Bilodeau, M., Arsenault, A.B., Gravel, D., Bourbonnais, D.,
+1991. EMG power spectrum of elbow extensors during ramp
+and step isometric contractions. European Journal of Ap-
+plied Physiology 63, 24}28.
+Bilodeau, M., Arsenault, A.B., Gravel, D., Bourbonnais, D.,
+1992a. In #uence of gender on the EMG power spectrum
+during an increasing force level. Journal of Electromyogra-
+phy and Kinesiology 2 (3), 121}129.
+Bilodeau, M., Arsenault, A.B., Gravel, D., Bourbonnais, D.,
+1992b. Time and frequency analysis of EMG signals of
+homologous elbow #exors and extensors. Medical & Bio-
+logical Engineering & Computing 30, 640}644.
+Broman, H., Bilotto, G., de Luca, C.J., 1985. Myoelectric signal
+conduction velocity and spectral parameters: in #uence of
+force and time. Journal of Applied Physiology 58 (5),
+1428}1437.
+Ca$er, G., Heinecke, D., Hinterthan, R., 1993. Surface EMG
+and load level during long-lasting static contractions of low
+intensity. International Journal of Industrial Ergonomics 12,
+77}83.
+Cobb, S., Forbes, A., 1923. Electromyographic studies of muscu-
+lar fatigue in man. Americal Journal of Physiology 65,
+234}251.
+De Luca, C., 1985. Myoelectric manifestations of localized
+muscle fatigue in humans. CRC Critical Reviews in Biomedi-
+cal Engineering 11, 251}279.
+HaK gg, G.M., SuurkuK la, J., Liew, M., 1987. A worksite method for
+shoulder muscle fatigue measurements using EMG, test con-
+tractions and zero crossing technique. Ergonomics 30,
+1541}1551.
+HaK gg, G.M., 1992. Interpretation of EMG spectral alterations
+and alteration indexes at sustained contraction. Journal of
+Applied Physiology 73, 1211}1217.
+HaK gg, G.M., Kadefors, R., 1996. EMG alterations at sustained
+contractions with special emphasis on applications in ergo-
+nomics. In: Kumar, S., Mital, A. (Eds.), Electromyography in
+Ergonomics. Taylor and Francis, London, pp. 163}181.
+Hagberg, M., 1981. Muscular endurance and surface elec-
+tromyogram in isometric and dynamic exercise. Journal of
+Applied Physiology 51, 1}7.
+Hagberg, M., Ericson, B.-E., 1982. Myoelectric power spectrum
+dependence on muscular contraction level of elbow #exors.
+European Journal of Applied Physiology 48, 147}156.
+Hermens, H.J., v. Bruggen, T.A.M., Baten, C.T.M., Rutten,
+W.L.C., Boom, H.B.K., 1992. The median frequency of the
+surface EMG power spectrum in relation to motor unit
+"ring and action potential properties. Journal of Elec-
+tromyography and Kinesiology 2, 15}25.
+Hermans, V., 1996. Changes in surface EMG signals of shoulder
+and neck muscles during sustained e !ort. Ph.D. Thesis.
+Katholieke Universiteit Leuven.
+HoK cker, F., Luttmann, A., SoK keland, J., Witkowski, M., 1995.
+Versorgungseinheiten fu K r endoskopische Arbeitspla K tze.
+Urologe B 35, 265}266.
+Kadefors, R., Forsman, M., ZoeH gas, B., Herberts, P., 1999. Re-
+cruitment of low threshold motor-units in the trapezius
+muscle in di!erent static positions. Ergonomics 42, 359}375.
+658 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660
+
+===== PAGE 15 =====
+
+KoK ssler, F., Ca$er, G., Lange, F., 1990. Probleme der Muskeler-
+muK dung - Beziehung zur Erregungsleitungsgeschwindigkeit
+und K‘-Konzentration. Zeitschrift fuK r die gesamte Hygiene
+36, 354}356.
+Komi, P.V., Viitasalo, J.H.T., 1976. Signal characteristics of
+EMG at di!erent levels of muscle tension. Acta Physiologica
+Scandinavia 96, 267}276.
+Krogh-Lund, C., 1993. Myo-electric fatigue and force failure
+from submaximal static elbow #exion sustained to exhaus-
+tion. European Journal of Applied Physiology 67, 389}401.
+Kumar, S., 1996. Electromyography in ergonomics. In: Kumar,
+S., Mital, A. (Eds.), Electromyography in Ergonomics.
+Taylor and Francis, London, pp. 1}50.
+Kwatny, E., Thomas, D.H., Kwatny, H.G., 1970. An application
+of signal processing techniques to the study of myoelectric
+s5 ignals. IEEE Transactions on Biomedical Engineering 17,
+303}313.
+Laurig, W., 1974. Beurteilung einseitig dynamischer Muskelar-
+beit. Beuth, Berlin.
+Laurig, W., 1975. Methodological and physiological aspects of
+electromyographic investigations. In: Komi, P.V. (Ed.), Bi-
+omechanics V-A. University Park, Baltimore, pp. 219}230.
+Laurig, W., Luttmann, A., JaK ger, M., 1987. Evaluation of strain
+in shop-#oor situations by means of electromyographic in-
+vestigations. In: Asfour, S.S. (Ed.), Trends in Ergonom-
+ics/Human Factors IV. Elsevier Science Publishers,
+Amsterdam, pp. 685}692.
+Luttmann, A., 1996. Physiological basis and concepts of
+electromyography. In: Kumar, S., Mital, A. (Eds.), Electro-
+myography in Ergonomics. Taylor & Francis, London,
+pp. 51}95.
+Luttmann, A., JaK ger, M., 1992. Reduction of muscular strain by
+work design: Electromyographical"eld studies in a weaving
+mill. In: Kumar, S. (Ed.), Advances in Industrial Ergonomics
+and Safety IV. Taylor & Francis, London, Washington,
+pp. 553}560.
+Luttmann, A., JaK ger, M., 1998. Discrimination between fatigue-
+induced and force-related EMG changes in occupational
+"eld studies. In: Kumar, S. (Ed.), Advances in Occupational
+Ergonomics and Safety 2. IOS Press, Amsterdam, pp.
+218}221.
+Luttmann, A., JaK ger, M., Laurig, W., 1988. Surface electromyo-
+graphy in work-physiological"eld studies for the analysis of
+muscular strain and fatigue. In: Wallinga, W., Boom, H.B.K.,
+de Vries, J. (Eds.), Electrophysiological Kinesiology. Elsevier
+Science Publishers, Amsterdam, pp. 301}304.
+Luttmann, A., Ja K ger, M., Laurig, W., 1989. Elektromyo-
+graphische Untersuchungen an Kassenarbeitspla K tzen mit
+Scannern. Zeitschrift fuK r Arbeitswissenschaft 43 (15 NF),
+234}240.
+Luttmann, A., JaK ger, M., SoK keland, J., Laurig, W., 1996a. Elec-
+tromyographical study on surgeons in urology, Part II: De-
+termination of muscular fatigue. Ergonomics 39, 298}313.
+Luttmann, A., JaK ger, M., SoK keland, J., Laurig, W., 1996b. Joint
+analysis of spectrum and amplitude (JASA) of electromyo-
+grams applied for the indication of muscular fatigue among
+surgeons in urology. In: Mital, A., Krueger, H., Kumar, S.,
+Menozzi, M., Fernandez, J.E. (Eds.), Advances in Occupa-
+tional Ergonomics and Safety. Int. Soc. for Occupational
+Ergonomics and Safety, Cincinnati, pp. 523}528.
+Luttmann, A., JaK ger, M., Witscher, K., Vorgerd, M., Tegentho!,
+M., 1997. Individual fatigue response in the joint analysis of
+EMG spectrum and amplitude (JASA). In: Hermens, H.J.,
+HaK gg, G., Freriks, B. (Eds.), European Applications on Sur-
+face Electromyography. Roessingh Research and Develop-
+ment, Enschede, pp. 138}146.
+Luttmann, A., JaK ger, M., Witscher, K., Vorgerd, M., Tegentho!,
+M., 1998. Fatigue-induced EMG changes during low-level
+isometric contractions. In: Hermens, H.J., Rau, G., Dissel-
+horst-Klug, C., Freriks, B. (Eds.), Surface Electromyography:
+Application Areas and Parameters - Proceedings of the
+Third General SENIAM Workshop. Roessingh Research
+and Development, Enschede, pp. 141}150.
+Merletti, R., Kna #itz, M., De Luca, C.J., 1992. Electrically
+evoked myoelectric signals. CRC Critical Reviews in Bio-
+medical Engineering 19, 293}340.
+Moritani, T., Muro, M., 1987. Motor unit activity and surface
+electromyogram power spectrum during increasing force of
+contraction. European Journal of Applied Physiology 56,
+260}265.
+Nagata, S., Arsenault, A.B., Gagnon, D., Smyth, G., Mathieu,
+P.-A., 1990. EMG power spectrum as a measure of muscular
+fatigue at di !erent levels of contraction. Medical & Bio-
+logical Engineering & Computing 28, 374}378.
+Petrofsky, J.S., 1980. Computer analysis of the surface EMG
+during isometric exercise. Computers in Biology and Medi-
+cine 10, 83}95.
+Petrofsky, J.S., Lind, A.R., 1980. Frequency analysis of the
+surface electromyogram during sustained isometric con-
+tractions. European Journal of Applied Physiology 43,
+173}182.
+Petrofsky, J.S., Glaser, R.M., Phillips, C.A., Lind, A.R., Williams,
+C., 1982. Evaluation of the amplitude and frequency compo-
+nents of the surface EMG as in index of muscle fatigue.
+Ergonomics 25 (3), 213}223.
+Piper, H., 1909. UG ber die ErmuK dung bei willkuK rlichen Muskel-
+kontraktionen. Archiv fu K r Anatomie und Physiologie
+491}498.
+Piper, H., 1912. Elektrophysiologie menschlicher Muskeln.
+Springer, Berlin.
+Sj+gaard, G., 1990. Exercise-induced muscle fatigue: The signi"-
+cance of potassium. Acta Physiologica Scandinavia 140
+(Suppl. 593).
+SoK keland, J., Luttmann, A., Seidel-Fabian, B., 1995. Ergonomie
+am endoskopischen Arbeitsplatz. Urologe B 35, 428}429.
+Spaepen, A.J., Baumann, W., Meas, H., 1987. Relation between
+mechanical load and EMG-activity of selected muscles of the
+trunk under isometric conditions. In: Bergmann, G., KoK lbel,
+R., Rohlmann, A. (Eds.), Biomechanics: Basic and Applied
+Research. Martinus Nijho ! Publishers, Dordrecht, pp.
+473}478.
+Spaepen, A., Hermans, V., 1996. EMG in occupational settings:
+Measurement of muscle load or muscle fatigue. In: Mital, A.,
+Krueger, H., Kumar, S., Menozzi, M., Fernandez, J.E. (Eds.),
+A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660 659
+
+===== PAGE 16 =====
+
+Advances in Occupational Ergonomics and Safety. Interna-
+tional Society for Occupational Ergonomics and Safety, Cin-
+cinnati, pp. 557}560.
+Stein, R.B., 1974. Peripheral control of movement. Physiological
+Reviews 54, 215}243.
+Strasser, H., MuK ller, K.-W., 1999. Favorable movements of the
+hand-arm system in the horizontal plane assessed by elec-
+tromyographic investigations and subjective rating. Interna-
+tional Journal of Industrial Ergonomics 23, 339}347.
+Stulen, F.B., De Luca, C.J., 1981. Frequency parameters of the
+myoelectric signal as a measure of muscle conduction velocity.
+IEEE Transactions on Biomedical Engineering 28, 515}523.
+Viitasalo, J.H.T., Komi, P.V., 1977. Signal characteristics of
+EMG during fatigue. European Journal of Applied Physi-
+ology 37, 111}121.
+Viitasalo, J.H.T., Komi, P.V., 1978. Interrelationships of EMG
+signal characteristics at di!erent levels of muscle tension and
+during fatigue. Electromyography and Clinical Neuro-
+physiology 18, 167}178.
+Westgaard, R.H., Jansen, T., Jensen, C., 1996. EMG of neck and
+shoulder muscles: the relationship between muscle activity
+and muscle pain in occupational settings. In: Kumar, S.,
+Mital, A. (Eds.), Electromyography in Ergonomics. Taylor
+and Francis, London, pp. 227}258.
+660 A. Luttmann et al. / International Journal of Industrial Ergonomics 25 (2000) 645 }660

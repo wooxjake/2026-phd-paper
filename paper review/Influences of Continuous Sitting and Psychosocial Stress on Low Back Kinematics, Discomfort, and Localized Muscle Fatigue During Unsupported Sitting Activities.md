@@ -65,13 +65,13 @@ Influences of Continuous Sitting and Psychosocial Stress on Low Back Kinematics,
 ## 원문 해석
 
 한국어 번역:
-참가자들은 각기 별도의 시행에서 두 과제를 수행했는데, 각 과제는 책상 없이 앉은 자세에서 노트북을 40분 동안 연속으로 사용하는 것이었다(그림 2). 일부 사람들은 더 오래 앉아 있을 수도 있지만, 40분은 책상 없이 노트북을 사용하는 전형적인 중단 없는 시간으로 간주되었다. 각 시행에서 참가자들은 등받이가 없는 스툴에 앉았다. 첫 번째 시행 전에 각 참가자에 대해 스툴 높이를 조정하여, 양쪽 허벅지가 수평이 되고 무릎 포함각이 90도가 되도록 했다. 스툴 높이, 노트북 위치, 참가자들의 자세를 기록했으며, 두 번째 시행에서도 동일한 설정을 사용했다. 책상 없는 환경에서 노트북을 사용하는 연속적 정적 앉기 조건을 재현하기 위해(Moffet et al., 2002; Asundi et al., 2010; Gold et al., 2012), 참가자들은 몸의 큰 범위 움직임을 하거나 실험자와 대화하지 않은 채 이완된 후만 자세(relaxed kyphotic posture, 이완성 후만 자세)를 유지하면서 과제를 수행하도록 지시받았다. 다만 참가자들은 이완된 후만 자세와 좀 더 곧게 앉은 자세 사이를 바꾸어 앉으면서 자세 부담(postural stress, 자세 부담)을 완화하는 것은 허용되었다. 또한 참가자들은 불편감이나 다른 이유로 인해 언제든지 연구에서 철회할 수 있었지만, 실제로 철회한 참가자는 없었다.
+참가자들은 각기 별도의 시행에서 두 과제를 수행했는데, 각 과제는 책상 없이 앉은 자세에서 노트북을 40분 동안 연속으로 사용하는 것이었다(그림 2). 일부 사람들은 더 오래 앉아 있을 수도 있지만, 40분은 책상 없이 노트북을 사용하는 전형적인 중단 없는 시간으로 간주되었다. 각 시행에서 참가자들은 등받이가 없는 의자에 앉았다. 첫 번째 시행 전에 각 참가자에 대해 의자 높이를 조정하여, 양쪽 허벅지가 수평이 되고 무릎 포함각이 90도가 되도록 했다. 의자 높이, 노트북 위치, 참가자들의 자세를 기록했으며, 두 번째 시행에서도 동일한 설정을 사용했다. 책상 없는 환경에서 노트북을 사용하는 연속적 정적 앉기 조건을 재현하기 위해(Moffet et al., 2002; Asundi et al., 2010; Gold et al., 2012), 참가자들은 몸의 큰 범위 움직임을 하거나 실험자와 대화하지 않은 채 이완된 후만 자세(relaxed kyphotic posture, 이완성 후만 자세)를 유지하면서 과제를 수행하도록 지시받았다. 다만 참가자들은 이완된 후만 자세와 좀 더 곧게 앉은 자세 사이를 바꾸어 앉으면서 자세 부담(postural stress, 자세 부담)을 완화하는 것은 허용되었다. 또한 참가자들은 불편감이나 다른 이유로 인해 언제든지 연구에서 철회할 수 있었지만, 실제로 철회한 참가자는 없었다.
 
 ## 자세와 과제
 
 - 좌위 조건은 노트북을 사용하는 지지 없는 앉기(unsupported sitting, 지지 없는 앉기)였다.
 - 각 trial은 40분간 지속되었고, 이 40분이 "desk 없이 노트북을 사용하는 전형적 uninterrupted period"로 해석되었다.
-- 의자는 등받이 없는 stool을 사용했고, 처음 trial 전에 stool height를 맞춰 양쪽 넓적다리가 수평이 되도록 했으며 무릎각은 90도로 유지했다.
+- 의자는 등받이 없는 의자를 사용했고, 처음 trial 전에 의자 높이를 맞춰 양쪽 넓적다리가 수평이 되도록 했으며 무릎각은 90도로 유지했다.
 - 참가자는 relaxed kyphotic posture(이완성 후만 자세)를 유지하도록 지시받았지만, 필요 시 좀 더 upright한 자세로 스스로 조정할 수 있었다.
 - 실험자는 참가자에게 과도한 몸통 움직임이나 대화를 하지 않도록 했다.
 - 첫 1분은 안정화 구간으로 보고 이후 분석에서 제외했다.
@@ -103,31 +103,31 @@ Influences of Continuous Sitting and Psychosocial Stress on Low Back Kinematics,
 
 ### 2. 몸통 굴곡-이완 각도
 
-- 굴곡-이완 각도(flexion-relaxation angle, FR angle)는 척추의 굴곡 노출 뒤 요부 신전근 활동이 상대적으로 조용해지는 지점을 이용해 산출했다.
+- 굴곡-이완 각도(flexion-relaxation angle, FR angle)는 척추의 굴곡 노출 뒤 요추부 신전근 활동이 상대적으로 조용해지는 지점을 이용해 산출했다.
 - 참가자는 직립 선 자세에서 몸통을 앞으로 굽혀 최대 굴곡범위(end range-of-motion)에 도달했고, 이 과정에서 FR angle을 측정했다.
 - 각 시행의 과제 후 FR angle은 과제 전 초기값에 대해 정규화했다. 따라서 결과의 0%는 과제 전후 변화가 없음을 뜻한다.
 - 이 지표는 앉기 과제 중 계속 측정한 몸통 각도와 달리, 과제 전후에 별도로 수행한 굴곡-이완 검사 결과다.
 
-참가자들은 직립한 선 자세(upright standing position, 직립 선 자세)에서 몸통 굴곡(trunk flexion, 몸통 굴곡)의 끝범위 운동 범위(end range-of-motion, 최대 가동범위)에 도달하도록 앞으로 숙이도록 요청받았다(Shirado et al., 1995; Callaghan and Dunk, 2002; Solomonow et al., 2003). 그 다음 FR 각도(FR angle, 굴곡-이완 각도)는 앞서 설명한 절차(Hendershot et al., 2011)에 따라 요부 신전근(lumbar extensor muscles, 허리 신전근) 활동이 상대적으로 거의 사라지는 시점을 기준으로 결정되었다. 각 시행에서 과제 후 FR 각도는 과제 전에 수집한 초기값(initial value, 초기값)에 대해 정규화(normalized, 정규화)되었다.
+참가자들은 직립한 선 자세(upright standing position, 직립 선 자세)에서 몸통 굴곡(trunk flexion, 몸통 굴곡)의 끝범위 운동 범위(end range-of-motion, 최대 가동범위)에 도달하도록 앞으로 숙이도록 요청받았다(Shirado et al., 1995; Callaghan and Dunk, 2002; Solomonow et al., 2003). 그 다음 FR 각도(FR angle, 굴곡-이완 각도)는 앞서 설명한 절차(Hendershot et al., 2011)에 따라 요추부 신전근(lumbar extensor muscles, 허리 신전근) 활동이 상대적으로 거의 사라지는 시점을 기준으로 결정되었다. 각 시행에서 과제 후 FR 각도는 과제 전에 수집한 초기값(initial value, 초기값)에 대해 정규화(normalized, 정규화)되었다.
 
 ### 3. 자극 반응 기반 국소 근피로
 
-- 요부 신전근 자극 반응(stimulation response, SR)은 국소 근피로를 판단하기 위해 측정했다.
-- Grass S88 자극기, SIU5 자극 절연 장치, CCU1 정전류 장치로 구성한 이중 채널 시스템을 사용해 L3 수준의 양측 요부 신전근을 전기 자극했다.
+- 요추부 신전근 자극 반응(stimulation response, SR)은 국소 근피로를 판단하기 위해 측정했다.
+- Grass S88 자극기, SIU5 자극 절연 장치, CCU1 정전류 장치로 구성한 이중 채널 시스템을 사용해 L3 수준의 양측 요추부 신전근을 전기 자극했다.
 - 준비 자극(conditioning train) 후, 2 Hz 자극열을 16초씩 3회 적용하면서 반응을 1000 Hz로 수집했다.
 - 과제 후 SR은 과제 전 초기값에 대해 정규화했으며, 40분 과제 후 자극 반응이 감소한 경우 국소 근피로가 발생한 것으로 해석했다.
 
-- 요부 신전근(lumbar extensor muscles, 허리 신전근)의 자극 반응(stimulated responses, 자극 반응)은 국소 근피로(localized muscle fatigue, 국소 근피로)의 지표로 측정되었으며, 이는 Jia et al. (2015)에 설명된 장치와 절차를 따랐다. 간단히 말하면, 자극기(stimulator, 자극기)(Grass S88), 자극 절연 장치(stimulus isolation unit, 자극 절연 장치)(SIU5), 정전류 장치(constant current unit, 정전류 장치)(CCU1)로 이루어진 이중 채널 시스템(dual-channel system, 이중 채널 시스템)을 사용하여 L3 수준에서 양측 요부 신전근을 전기적으로 자극했다. 준비 자극(conditioning train, 준비 자극) 후, 자극 반응(stimulation responses, 자극 반응)은 2 Hz에서 3회, 각 16초짜리 자극 동안 1000 Hz로 수집되었다. 과제 후 SR 반응(SR responses, 자극 반응)은 초기값(initial values, 초기값)에 대해 정규화되었다.
+- 요추부 신전근(lumbar extensor muscles, 허리 신전근)의 자극 반응(stimulated responses, 자극 반응)은 국소 근피로(localized muscle fatigue, 국소 근피로)의 지표로 측정되었으며, 이는 Jia et al. (2015)에 설명된 장치와 절차를 따랐다. 간단히 말하면, 자극기(stimulator, 자극기)(Grass S88), 자극 절연 장치(stimulus isolation unit, 자극 절연 장치)(SIU5), 정전류 장치(constant current unit, 정전류 장치)(CCU1)로 이루어진 이중 채널 시스템(dual-channel system, 이중 채널 시스템)을 사용하여 L3 수준에서 양측 요추부 신전근을 전기적으로 자극했다. 준비 자극(conditioning train, 준비 자극) 후, 자극 반응(stimulation responses, 자극 반응)은 2 Hz에서 3회, 각 16초짜리 자극 동안 1000 Hz로 수집되었다. 과제 후 SR 반응(SR responses, 자극 반응)은 초기값(initial values, 초기값)에 대해 정규화되었다.
 
 ### 4. 표면 근전도와 근활성도
 
-- 표면 근전도(surface EMG)는 40분 앉기 과제 내내 양측 12개 요부 근육에서 연속 수집했다.
-- 측정 근육은 신전근인 EL(요부 척추기립근군), ET(흉부 척추기립근군), MF(다열근)와 굴곡근인 IO(내복사근), EO(외복사근), RA(복직근)였다.
+- 표면 근전도(surface EMG)는 40분 앉기 과제 내내 양측 12개 요추부 근육에서 연속 수집했다.
+- 측정 근육은 신전근인 EL(요추기립근군), ET(흉부 척추기립근군), MF(다열근)와 굴곡근인 IO(내복사근), EO(외복사근), RA(복직근)였다.
 - TeleMyo 900(Noraxon) 두 대의 8채널 원격 측정 시스템과 일회용 이극 Ag/AgCl 전극을 사용했다.
 - 원시 EMG는 1000 Hz로 표집하고, 20-400 Hz 대역통과필터와 50 ms 이동 창 RMS 처리를 적용한 뒤 100 Hz로 다운샘플링했다.
 - 근활성도는 과제 전 최대 수의수축 보정값을 기준으로 %MVC로 제시했다. 따라서 이 값은 절대 전압이 아니라 개인별 최대수의수축 대비 활동 수준이다.
 
-표면 EMG 신호(surface EMG signals, 표면 근전도 신호)는 40분간의 앉기 과제 동안 연속적으로 수집되었다. 2개의 8채널 원격 측정형 EMG 시스템(telemetered EMG systems, 원격 측정형 근전도 시스템)(TeleMyo 900, Noraxon, AZ)을 사용하여 양측 12개 허리 근육에서 표면 EMG를 수집했는데, 여기에는 3개의 요부 신전근 [EL group, ET group, MF]과 3개의 요부 굴곡근 [IO, EO, RA]이 포함되었다. 그림 4에 나타난 것처럼, 일회용 이극 Ag/AgCl 전극(disposable bipolar Ag/AgCl electrodes, 일회용 이극 은/염화은 전극)(AccuSensor, Lynn Medical, MI)의 부착 위치는 기존 연구들(McGill 1992, Mirka and Marras 1993, Cholewicki and McGill 1996, Potvin et al., 1996, Hides et al., 2008)을 따랐다.
+표면 EMG 신호(surface EMG signals, 표면 근전도 신호)는 40분간의 앉기 과제 동안 연속적으로 수집되었다. 2개의 8채널 원격 측정형 EMG 시스템(telemetered EMG systems, 원격 측정형 근전도 시스템)(TeleMyo 900, Noraxon, AZ)을 사용하여 양측 12개 허리 근육에서 표면 EMG를 수집했는데, 여기에는 3개의 요추부 신전근 [EL group, ET group, MF]과 3개의 요추부 굴곡근 [IO, EO, RA]이 포함되었다. 그림 4에 나타난 것처럼, 일회용 이극 Ag/AgCl 전극(disposable bipolar Ag/AgCl electrodes, 일회용 이극 은/염화은 전극)(AccuSensor, Lynn Medical, MI)의 부착 위치는 기존 연구들(McGill 1992, Mirka and Marras 1993, Cholewicki and McGill 1996, Potvin et al., 1996, Hides et al., 2008)을 따랐다.
 
 EL: L3 수준의 극돌기에서 가쪽으로 3–4 cm, 근섬유와 평행하게
 ET: T9/T10 수준의 극돌기에서 가쪽으로 4–5 cm
@@ -167,7 +167,7 @@ RA: 배꼽에서 가쪽으로 2–3 cm
 
 - 각 참가자는 먼저 resting and maximal voluntary muscle contractions(안정 시 및 최대 수의수축) 보정 절차를 수행했다.
 - 짧은 휴식 후, 서 있는 자세에서 trunk flexion end range(몸통 굴곡 최대범위)를 취하게 하고 FR angle을 먼저 측정했다.
-- 이어서 편안하게 직립한 앉은 자세에서 lumbar extensor SR(요부 신전근 자극 반응)을 수집한 다음, 40분 연속 앉기 과제를 수행했다.
+- 이어서 편안하게 직립한 앉은 자세에서 lumbar extensor SR(요추부 신전근 자극 반응)을 수집한 다음, 40분 연속 앉기 과제를 수행했다.
 - 과제 시작 시에는 perceived discomfort(지각된 불편감)를 먼저 평가했고, 과제 종료 후에는 PD, SR, FR를 다시 측정했다.
 - FR와 SR는 서로 측정 순서가 영향을 줄 수 있어서, seated exposure(좌위 노출) 전에는 FR를 먼저, 좌위 노출 후에는 SR를 먼저 측정하도록 순서를 바꿔서 피로 회복(fatigue recovery, 피로 회복)의 영향을 줄였다.
 - 40분 과제 중에는 EMG, trunk kinematics, lumbosacral moments and forces(요천추 모멘트와 힘)를 계속 기록했고, 첫 1분은 안정화 구간이라 분석에서 제외했다.
@@ -255,7 +255,7 @@ RA: 배꼽에서 가쪽으로 2–3 cm
 ## 논의 4단락
 
 두 과제의 끝에서는 몸통 굴곡각(trunk flexion angle, 몸통 굴곡각)이 증가했다. 이는 40분 동안의 고정된 후만 앉기(postural kyphosis, 후만 앉기)가 몸통 변형의 가능성을 보여주며, FR angle(굴곡-이완 각도) 증가로도 뒷받침되었다.
-저자들은 정적 몸통 굴곡에서는 low back creep(요부 점진 변형)과 피로가 모두 생길 수 있고, creep은 5분 정도의 정적 굴곡에서도 나타날 수 있다고 설명했다. FR angle은 이런 굴곡 노출에서 척추 구조의 creep 변형을 보여주는 지표로 자주 쓰이며, 이번 연구에서도 40분 연속 앉기 동안 몸통 굴곡각 증가와 함께 FR angle 증가 경향이 확인되었다.
+저자들은 정적 몸통 굴곡에서는 low back creep(요추부 점진 변형)과 피로가 모두 생길 수 있고, creep은 5분 정도의 정적 굴곡에서도 나타날 수 있다고 설명했다. FR angle은 이런 굴곡 노출에서 척추 구조의 creep 변형을 보여주는 지표로 자주 쓰이며, 이번 연구에서도 40분 연속 앉기 동안 몸통 굴곡각 증가와 함께 FR angle 증가 경향이 확인되었다.
 
 ## 논의 5단락
 

@@ -11,3 +11,12 @@
 - **측정 방법 및 절차**: Medline(OvidSP), CINAHL(EBSCOhost), Scopus, EMBASE, Web of Science를 2020년 3월까지 검색. 포함된 16편 중 15편이 자기기입식 설문으로 좌식시간을 측정했고, 가속도계 기반 객관적 측정은 1편에 그쳤다.
 - **측정장비 및 변인**: 해당 없음(2차 문헌 종합). 변인: 좌식시간(자가보고 중심), 요통 발생 여부, 통증 강도, 요통 관련 장애. 결과: 3-6시간 OR=0.95(95% CI 0.85-1.07), 6-8시간 OR=0.95(0.88-1.02), 8시간 초과 OR=0.92(0.85-1.00)로 요통 발생과 유의한 관련성이 없었으며, 일일 3시간 이상 좌식은 통증 강도가 아니라 요통 관련 장애의 악화와 연관되었다(OR=1.24, 1.02-1.51).
 - **현재 연구에서의 활용 범위**: 좌식 노출이 요통 **발생**을 예측하지 못한다는 종단적 근거이며, 통증 유무가 아닌 좌식 중 생체역학적 변화를 관찰해야 한다는 본 연구의 논거로 사용한다. 좌식 노출의 측정이 대부분 자가보고였다는 점을 함께 제시한다.
+
+## Citation Like
+
+- **원문 텍스트**: [The association between sedentary behavior and low back pain in adults a systematic review and meta-analysis of longitudinal studies.txt](../The%20association%20between%20sedentary%20behavior%20and%20low%20back%20pain%20in%20adults%20a%20systematic%20review%20and%20meta-analysis%20of%20longitudinal%20studies.txt)
+
+1. [introduce.md#L49](../../introduce.md#L49)
+   > "The results of meta-analyses showed that a sedentary time of 3 – <6 (Odds ratio (OR) 0.95, 95% CI [0.85 – 1.07]), 6– 8 (OR 0.95, 95% CI [0.88 – 1.02]), and >8 (OR 0.92, 95% CI [0.85– 1.00]) hours per day (h/d) was not associated with LBP development. A sedentary time of ≥3 h/d was associated with poor LBP-related disability (OR 1.24, 95% CI [1.02 – 1.51]), but not with pain intensity."
+   >
+   > "In terms of measurements used in assessing sedentary behavior, all the studies except one used self-reported measures. Self-reported measures have been shown to be prone to underestimating sedentary behavior and recall bias."

@@ -23,11 +23,11 @@
 
 **8.4~9.3시간 범위의 정체가 확인되었다.** Kett et al. (2021)의 해당 문장은 세 연구의 평균값 중 최소와 최대를 묶은 범위였다.
 
-| 문헌 | 표본 | 측정 | 보고값 |
-| --- | --- | --- | --- |
-| Healy et al. (2011) | 미국 20세 이상 N=4,757 (NHANES 2003-06) | ActiGraph 7164, <100 cpm | **8.44시간/일 (SD 1.45)** — 착용시간 14.6시간의 약 58% |
-| Clemes, Patel, Mahon, & Griffiths (2014) | 영국 사무직 N=72 | 만보계 + 자가기입 일지 | 근무일 517±144분(8시간 37분) / 비근무일 339±137분(5시간 37분) |
-| van der Velde et al. (2017) | 네덜란드 40-75세 N=2,024 | activPAL3 (자세 판별) | **9.3시간/일 (SD 1.6)** — 남 9.8, 여 8.8 |
+| 문헌                                     | 표본                                    | 측정                     | 보고값                                                        |
+| ---------------------------------------- | --------------------------------------- | ------------------------ | ------------------------------------------------------------- |
+| Healy et al. (2011)                      | 미국 20세 이상 N=4,757 (NHANES 2003-06) | ActiGraph 7164, <100 cpm | **8.44시간/일 (SD 1.45)** — 착용시간 14.6시간의 약 58%        |
+| Clemes, Patel, Mahon, & Griffiths (2014) | 영국 사무직 N=72                        | 만보계 + 자가기입 일지   | 근무일 517±144분(8시간 37분) / 비근무일 339±137분(5시간 37분) |
+| van der Velde et al. (2017)              | 네덜란드 40-75세 N=2,024                | activPAL3 (자세 판별)    | **9.3시간/일 (SD 1.6)** — 남 9.8, 여 8.8                      |
 
 하한 8.44는 Healy, 상한 9.3은 van der Velde에서 나온다.
 
@@ -45,13 +45,13 @@
 
 ### 1. 파일명 불일치 수정
 
-`references/Immediate Effects of Dynamic Sitting Exercise on the Lower Back Mobility of Sedentary Young Adults.pdf`와 동명 `.txt`의 **실제 내용이 Zawadka et al. (2023)**(20번 항목)이었다. PDF 첫 페이지를 pypdf로 추출해 확인한 결과 *Ergonomics* 게재본 표지와 저자명이 나왔다. 두 파일을 `The influence of sedentary behaviour on lumbar-pelvic kinematics during squatting and forward bending among physically active students.pdf/.txt`로 변경하고, 전문을 근거로 20번 상세 파일의 「원문 확인이 필요하다」 표기를 모두 검증된 값으로 교체하였다. 원래 받으려던 `Immediate Effects of Dynamic Sitting Exercise…`는 확보되어 있지 않다.
+`references/Immediate Effects of Dynamic Sitting Exercise on the Lower Back Mobility of Sedentary Young Adults.pdf`와 동명 `.txt`의 **실제 내용이 Zawadka et al. (2023)**(20번 항목)이었다. PDF 첫 페이지를 pypdf로 추출해 확인한 결과 _Ergonomics_ 게재본 표지와 저자명이 나왔다. 두 파일을 `The influence of sedentary behaviour on lumbar-pelvic kinematics during squatting and forward bending among physically active students.pdf/.txt`로 변경하고, 전문을 근거로 20번 상세 파일의 「원문 확인이 필요하다」 표기를 모두 검증된 값으로 교체하였다. 원래 받으려던 `Immediate Effects of Dynamic Sitting Exercise…`는 확보되어 있지 않다.
 
 **교훈.** PDF를 저장할 때 파일명을 수동으로 입력하면 다른 논문의 제목이 들어갈 수 있다. 등록 전 첫 페이지의 제목·저자를 반드시 대조한다.
 
 ### 2. 8번(Baker et al., 2018) 장비 기재 보완
 
-상세 파일에 운동학 장비가 「골반 움직임」으로만 적혀 있었으나, 원문 확인 결과 **3 Space Fastrak(Polhemus Navigation Sciences Division), 25Hz, 10초 표본, 센서 T12·L1·S2 극돌기**를 사용하였고 **요부 각도를 시상면상 T12-S2 상대각**으로 산출하였다. 두 가지를 상세 파일에 반영하였다.
+상세 파일에 운동학 장비가 「골반 움직임」으로만 적혀 있었으나, 원문 확인 결과 **3 Space Fastrak(Polhemus Navigation Sciences Division), 25Hz, 10초 표본, 센서 T12·L1·S2 극돌기**를 사용하였고 **요추 각도를 시상면상 T12-S2 상대각**으로 산출하였다. 두 가지를 상세 파일에 반영하였다.
 
 - 이 정의는 **본 연구의 IMU 기반 요추각(T12-S2)과 산출 구조가 동일**하므로 측정 변인 정의의 선례로 사용할 수 있다.
 - 다만 **전자기식 추적 장치이지 IMU가 아니므로** "IMU 선행연구"로 인용하지 않는다. 각도 수치도 본 연구 값과 직접 비교하지 않는다.
@@ -60,11 +60,11 @@
 
 `references/`에 원문이 있으나 색인에 없던 3편을 원문에서 검증하여 등록하였다.
 
-| 번호 | 문헌 | 등록 사유 |
-| --- | --- | --- |
-| 37 | Alshehri et al. (2025), _J Clin Med_ 14(21), 7518 | IMU 요추각 신호처리 절차(자이로 바이어스 보정, Gradient Descent Filter, 쿼터니언 ZXY 변환)와 **기립 요추각 중앙값을 기준 0°로 정의**한 방식 |
-| 38 | Zarnegar et al. (2026), _BMC Sports Sci Med Rehabil_ 18, 289 | 30분 구부정 좌식 프로토콜의 표준화(견봉-L1-대전자 93°±3°)와 운동군-비운동군 비교 설계 |
-| 39 | Paloschi et al. (2021), _Sensors_ 21(19), 6610 | **T12-S1 상대각 기반 전만각의 측정 타당도(광학식 대비 최대 RMSE 5.6°)** |
+| 번호 | 문헌                                                         | 등록 사유                                                                                                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 37   | Alshehri et al. (2025), _J Clin Med_ 14(21), 7518            | IMU 요추각 신호처리 절차(자이로 바이어스 보정, Gradient Descent Filter, 쿼터니언 ZXY 변환)와 **기립 요추각 중앙값을 기준 0°로 정의**한 방식 |
+| 38   | Zarnegar et al. (2026), _BMC Sports Sci Med Rehabil_ 18, 289 | 30분 구부정 좌식 프로토콜의 표준화(견봉-L1-대전자 93°±3°)와 운동군-비운동군 비교 설계                                                       |
+| 39   | Paloschi et al. (2021), _Sensors_ 21(19), 6610               | **T12-S1 상대각 기반 전만각의 측정 타당도(광학식 대비 최대 RMSE 5.6°)**                                                                     |
 
 3편 모두 `candidate`이며 아직 본문에 인용하지 않았다.
 
@@ -72,14 +72,14 @@
 
 지속 좌식 중 EMG 피로 지표(MDF/MPF)의 검출 여부를 산출법별로 정리하면 아래와 같다. 본 연구가 30분 세션에서 피로를 결과변인으로 삼을지 결정할 때의 근거다.
 
-| 산출법 | 문헌 | 좌식 시간 | 요부 신전근 결과 |
-| --- | --- | --- | --- |
-| 첫 5분 vs 마지막 5분 | 10. Jung et al. (2021) | 30분 | **유의차 없음** |
-| 첫 5분 vs 마지막 5분 | 23. Jia & Nussbaum (2018) | 40분 | 일부 검출(무지지 + 전기자극 반응 병행) |
-| 10분 블록 6구간 | 13. Waongenngarm et al. (2015b) | 60분 | **유의차 없음**(IO/TrA만 구부정 자세에서 감소) |
-| 30분 간격 5회 | 8. Baker et al. (2018) | 120분 | **유의차 없음**(요부 각도·골반 움직임도 유의차 없음) |
-| **정규화 중앙주파수 회귀기울기** | 11. Areeudomwong et al. (2012) | **30분** | **검출** |
-| 10분 블록 3구간 | 19. Saiklang et al. (2022) | 41분 | 검출(만성요통군, 2000Hz, ECG 아티팩트 육안 검수) |
+| 산출법                           | 문헌                            | 좌식 시간 | 요추부 신전근 결과                                   |
+| -------------------------------- | ------------------------------- | --------- | ---------------------------------------------------- |
+| 첫 5분 vs 마지막 5분             | 10. Jung et al. (2021)          | 30분      | **유의차 없음**                                      |
+| 첫 5분 vs 마지막 5분             | 23. Jia & Nussbaum (2018)       | 40분      | 일부 검출(무지지 + 전기자극 반응 병행)               |
+| 10분 블록 6구간                  | 13. Waongenngarm et al. (2015b) | 60분      | **유의차 없음**(IO/TrA만 구부정 자세에서 감소)       |
+| 30분 간격 5회                    | 8. Baker et al. (2018)          | 120분     | **유의차 없음**(요추 각도·골반 움직임도 유의차 없음) |
+| **정규화 중앙주파수 회귀기울기** | 11. Areeudomwong et al. (2012)  | **30분**  | **검출**                                             |
+| 10분 블록 3구간                  | 19. Saiklang et al. (2022)      | 41분      | 검출(만성요통군, 2000Hz, ECG 아티팩트 육안 검수)     |
 
 **첫-끝 2점 비교는 30분·60분·120분에서 모두 실패했고, 회귀기울기 방식은 30분에서 검출에 성공하였다.** 본 연구에서 EMG 피로를 산출한다면 첫-끝 비교가 아니라 다구간 블록의 회귀기울기를 일차 산출법으로 삼는다.
 
@@ -93,35 +93,38 @@
 **T12-S2 조합으로 EMG를 함께 측정한 선행연구는 수집 문헌 안에 없다.** 본 연구의 신규성 지점으로 서론·연구방법에서 사용할 수 있다.
 
 ---
+
 ## 2026-08-19 (2) — method 폴더 구성과 방법론 문헌 확보 목록
 
 `memo.md`(Areeudomwong 2012 정독), `memo2.md`(Jia & Nussbaum 2018 정독), `memo3.md`(RVC·LLA·EMG/IMU 대조)의 방법론 내용을 `method/`의 6개 주제 폴더에 분배하였다. 각 파일은 「선행연구 대조표 → 본 연구 프로토콜(안) → 참고문헌 → 미결 사항」 구조를 공통으로 갖는다.
 
-| 폴더 | 파일 |
-| --- | --- |
-| 1. Subjects | `1-1_피험자_선정_및_집단정의.md` |
-| 2. Sitting Time | `2-1_좌식_세션_프로토콜.md` |
+| 폴더                 | 파일                                                                    |
+| -------------------- | ----------------------------------------------------------------------- |
+| 1. Subjects          | `1-1_피험자_선정_및_집단정의.md`                                        |
+| 2. Sitting Time      | `2-1_좌식_세션_프로토콜.md`                                             |
 | 3. EMG - fatigue,RVC | `3-1_EMG_측정_프로토콜.md`, `3-2_정규화_RVC.md`, `3-3_피로지표_산출.md` |
-| 4. IMU - LLA | `4-1_IMU_측정_프로토콜.md`, `4-2_LLA_산출변인.md` |
-| 5. Survey | `5-1_설문_및_주관적_지표.md` |
-| 6. Statistic | `6-1_통계분석_설계.md` |
+| 4. IMU - LLA         | `4-1_IMU_측정_프로토콜.md`, `4-2_LLA_산출변인.md`                       |
+| 5. Survey            | `5-1_설문_및_주관적_지표.md`                                            |
+| 6. Statistic         | `6-1_통계분석_설계.md`                                                  |
 
 ### 확보해야 할 방법론 문헌 (우선순위순)
 
-| 순위 | 문헌 | 용도 | 링크 |
-| --- | --- | --- | --- |
-| ~~1~~ | ~~**Cotter, Nairn, & Drake (2014).**~~ → **2026-08-19 확보 완료.** `40. Cotter, Nairn, & Drake (2014)`로 등록 | **해결: 요추는 기립 기준** | https://doi.org/10.1016/j.jbiomech.2014.04.023 |
-| 2 | **Dankaerts et al. (2004).** Reliability of EMG measurements for trunk muscles during maximal and sub-maximal voluntary isometric contractions in healthy controls and CLBP patients. _JEK_, 14(3), 333-342 | 체간근 RVC 정규화 채택의 직접 근거 | https://www.google.com/search?q=%22Reliability+of+EMG+measurements+for+trunk+muscles+during+maximal+and+sub-maximal+voluntary+isometric+contractions%22 |
-| 3 | **Hermens et al. (2000).** Development of recommendations for SEMG sensors and sensor placement procedures. _JEK_, 10(5), 361-374 | 전극 위치·피부준비의 국제 표준(SENIAM). 수집 문헌 3편이 인용 | https://pubmed.ncbi.nlm.nih.gov/11018445/ · http://www.seniam.org/pdf/contents5.PDF |
-| 4 | **Cifrek et al. (2009).** Surface EMG based muscle fatigue evaluation in biomechanics. _Clin Biomech_, 24(4), 327-340 | MDF 회귀기울기를 피로 지수로 쓰는 방식의 근거 | https://www.clinbiomech.com/article/S0268-0033(09)00025-4/abstract |
-| 5 | **Riddick et al. (2023).** Estimation of human spine orientation with IMU at low sampling rate: How low can we go? _J Biomech_, 157, 111726 | IMU 샘플링레이트 하한 근거 | https://www.google.com/search?q=%22Estimation+of+human+spine+orientation+with+inertial+measurement+units%22+%22How+low+can+we+go%22 |
-| 6 | **van Dieën et al. (1993)** | MPF 산출 절차의 직접 근거(Jia가 인용) | https://www.google.com/search?q=van+Dieen+1993+EMG+median+power+frequency+back+muscle+fatigue |
-| 7 | **Faul et al. (2007).** G*Power 3. _Behav Res Methods_, 39(2), 175-191 | 표본크기 산출 근거. `etc/g-power/`에 프로그램만 있고 문헌 미등록 | https://www.google.com/search?q=%22G*Power+3%3A+A+flexible+statistical+power+analysis+program%22 |
-| 8 | **Luttmann, Jäger, & Laurig (2000).** Electromyographical indication of muscular fatigue in occupational field studies | JASA(진폭-주파수 결합 분석) 원출처 | https://www.google.com/search?q=%22Electromyographical+indication+of+muscular+fatigue+in+occupational+field+studies%22+Luttmann |
-| 9 | **Borg (1990)**, **Corlett & Bishop (1976)**, **Kuorinka et al. (1987)**, **Craig et al. (2003)** | 불편감 척도(Borg CR-10, 신체부위 불편감, NMQ)와 IPAQ의 원출처 | `method/5. Survey/5-1_설문_및_주관적_지표.md` 참조 |
-| 10 | **Burden (2010)**, **Mathiassen, Winkel, & Hägg (1995)** | 정규화 방법론 일반 리뷰 및 RVC 개념 원출처 | `method/3. EMG - fatigue,RVC/3-2_정규화_RVC.md` 참조 |
-| 11 | **Merletti & Cerone (2020).** Tutorial. Surface EMG detection, conditioning and pre-processing | 20Hz 고역 하한 선택 근거 | https://www.google.com/search?q=%22Surface+EMG+detection%2C+conditioning+and+pre-processing%3A+Best+practices%22+Merletti |
-| 12 | **Madgwick, Harrison, & Vaidyanathan (2011).** Gradient descent algorithm for IMU/MARG orientation | 쿼터니언 처리를 택할 경우 필요 | https://www.google.com/search?q=%22Estimation+of+IMU+and+MARG+orientation+using+a+gradient+descent+algorithm%22 |
+| 순위  | 문헌                                                                                                                                                                                                        | 용도                                                             | 링크                                                                                                                                                    |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~~1~~ | ~~**Cotter, Nairn, & Drake (2014).**~~ → **2026-08-19 확보 완료.** `40. Cotter, Nairn, & Drake (2014)`로 등록                                                                                               | **해결: 요추는 기립 기준**                                       | https://doi.org/10.1016/j.jbiomech.2014.04.023                                                                                                          |
+| 2     | **Dankaerts et al. (2004).** Reliability of EMG measurements for trunk muscles during maximal and sub-maximal voluntary isometric contractions in healthy controls and CLBP patients. _JEK_, 14(3), 333-342 | 체간근 RVC 정규화 채택의 직접 근거                               | https://www.google.com/search?q=%22Reliability+of+EMG+measurements+for+trunk+muscles+during+maximal+and+sub-maximal+voluntary+isometric+contractions%22 |
+| 3     | **Hermens et al. (2000).** Development of recommendations for SEMG sensors and sensor placement procedures. _JEK_, 10(5), 361-374                                                                           | 전극 위치·피부준비의 국제 표준(SENIAM). 수집 문헌 3편이 인용     | https://pubmed.ncbi.nlm.nih.gov/11018445/ · http://www.seniam.org/pdf/contents5.PDF                                                                     |
+| 4     | **Cifrek et al. (2009).** Surface EMG based muscle fatigue evaluation in biomechanics. _Clin Biomech_, 24(4), 327-340                                                                                       | MDF 회귀기울기를 피로 지수로 쓰는 방식의 근거                    | https://www.clinbiomech.com/article/S0268-0033(09)00025-4/abstract                                                                                      |
+| 5     | **Riddick et al. (2023).** Estimation of human spine orientation with IMU at low sampling rate: How low can we go? _J Biomech_, 157, 111726                                                                 | IMU 샘플링레이트 하한 근거                                       | https://www.google.com/search?q=%22Estimation+of+human+spine+orientation+with+inertial+measurement+units%22+%22How+low+can+we+go%22                     |
+| 6     | **van Dieën et al. (1993)**                                                                                                                                                                                 | MPF 산출 절차의 직접 근거(Jia가 인용)                            | https://www.google.com/search?q=van+Dieen+1993+EMG+median+power+frequency+back+muscle+fatigue                                                           |
+| 7     | **Faul et al. (2007).** G\*Power 3. _Behav Res Methods_, 39(2), 175-191                                                                                                                                     | 표본크기 산출 근거. `etc/g-power/`에 프로그램만 있고 문헌 미등록 | https://www.google.com/search?q=%22G*Power+3%3A+A+flexible+statistical+power+analysis+program%22                                                        |
+| ~~8~~ | ~~**Luttmann, Jäger, & Laurig (2000).** Electromyographical indication of muscular fatigue in occupational field studies~~ → **2026-08-27 확보 완료.** `42. Luttmann, Jager, & Laurig (2000)`로 등록        | **해결: JASA 원출처**                                            | https://www.sciencedirect.com/science/article/pii/S0169814199000530                                                                                     |
+| ~~13~~ | ~~**Dunk & Callaghan (2010).** Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers from matched asymptomatic controls~~ → **2026-08-31 확보 완료.** `43. Dunk & Callaghan (2010)`으로 등록 | **해결: 90분 좌식 중 shift/fidget 패턴 분석 원출처** | https://doi.org/10.3233/WOR-2010-0953 |
+| ~~14~~ | ~~**Kruithof, Song, & Vink (2026).** In-chair movements: Categorizations and patterns over time based on a literature review~~ → **2026-08-31 확보 완료.** `44. Kruithof, Song, & Vink (2026)`으로 등록 | **해결: ICM 빈도·진폭·자세변화 분류 및 시간 패턴 고찰** | https://doi.org/10.1177/10519815251394878 |
+| 9     | **Borg (1990)**, **Corlett & Bishop (1976)**, **Kuorinka et al. (1987)**, **Craig et al. (2003)**                                                                                                           | 불편감 척도(Borg CR-10, 신체부위 불편감, NMQ)와 IPAQ의 원출처    | `method/5. Survey/5-1_설문_및_주관적_지표.md` 참조                                                                                                      |
+| 10    | **Burden (2010)**, **Mathiassen, Winkel, & Hägg (1995)**                                                                                                                                                    | 정규화 방법론 일반 리뷰 및 RVC 개념 원출처                       | `method/3. EMG - fatigue,RVC/3-2_정규화_RVC.md` 참조                                                                                                    |
+| 11    | **Merletti & Cerone (2020).** Tutorial. Surface EMG detection, conditioning and pre-processing                                                                                                              | 20Hz 고역 하한 선택 근거                                         | https://www.google.com/search?q=%22Surface+EMG+detection%2C+conditioning+and+pre-processing%3A+Best+practices%22+Merletti                               |
+| 12    | **Madgwick, Harrison, & Vaidyanathan (2011).** Gradient descent algorithm for IMU/MARG orientation                                                                                                          | 쿼터니언 처리를 택할 경우 필요                                   | https://www.google.com/search?q=%22Estimation+of+IMU+and+MARG+orientation+using+a+gradient+descent+algorithm%22                                         |
 
 ### 설계상 확인된 충돌 2건
 
@@ -145,12 +148,12 @@
 
 남성 13명, Vicon MX 카메라 7대 50Hz, 강체판 8개(T1·T4·T5·T8·T9·T12·L1·PSIS)로 척추를 4분절로 나누고 좌위 ROM을 `%STAND`와 `%SIT`로 각각 정규화해 2×6 반복측정 ANOVA로 비교하였다.
 
-| 각도 유형 | 권고 기준자세 |
-| --- | --- |
-| 전역각 — 모든 분절·모든 평면 | **기립** |
-| 상대각 굴곡 — 상부흉추 · 하부흉추 · **요추(L1-PSIS)** | **기립** |
-| 상대각 굴곡 — 중부흉추(T5-T8) | **착석** (유일한 예외, 본 연구 범위 밖) |
-| 상대각 측굴·회전 — 모든 분절 | **기립** |
+| 각도 유형                                             | 권고 기준자세                           |
+| ----------------------------------------------------- | --------------------------------------- |
+| 전역각 — 모든 분절·모든 평면                          | **기립**                                |
+| 상대각 굴곡 — 상부흉추 · 하부흉추 · **요추(L1-PSIS)** | **기립**                                |
+| 상대각 굴곡 — 중부흉추(T5-T8)                         | **착석** (유일한 예외, 본 연구 범위 밖) |
+| 상대각 측굴·회전 — 모든 분절                          | **기립**                                |
 
 저자 권고는 **"착석과 기립 기준자세를 모두 수집해 분절별로 더 큰 각도를 채택하되, 하나만 수집해야 한다면 기립으로 충분하다"**이다. 본 연구가 표준 직립자세와 좌식 시작값을 모두 기록하려던 계획과 일치한다.
 
@@ -167,5 +170,21 @@ Cotter가 답한 것은 **분모(최대 ROM)를 어느 자세에서 얻는가**�
 `memo3.md` 1.4(c)·1.5(3)·1.6·4장, `method/4. IMU - LLA/4-1_IMU_측정_프로토콜.md` 3절, `method/4. IMU - LLA/4-2_LLA_산출변인.md` 미결 4번, `method/3. EMG - fatigue,RVC/3-2_정규화_RVC.md` 4(b)·미결 1번.
 
 **부수 확인**: 이 문헌으로 「표준 직립자세」의 용도가 명확해졌다. **IMU 요추각의 기준자세로는 근거가 확보되었고**(Cotter), **EMG 진폭 정규화 기준으로는 여전히 근거가 없다**(수집 문헌 0편). `outline.md`의 "표준 직립자세 기준 RVC(%RVC)"는 두 용도를 분리해 수정해야 한다.
+
+---
+
+## 2026-08-31 — Dunk & Callaghan (2010) 확보 후 남은 작업
+
+원문 PDF·`.txt`를 확보하고 `references.md`에 `43. Dunk & Callaghan (2010)`(`candidate`)으로 등록, `references/entries/43-dunk-callaghan-2010.md`도 생성되었다. `method/4. IMU - LLA/4-2_LLA_산출변인.md`(Shift/Fidget 알고리즘을 자발적 재조정 역치·지속시간 후보로 반영), `method/2. Sitting Time/2-1_좌식_세션_프로토콜.md`(90분·6블록 선례 추가), `method/final method.md`도 함께 갱신하였다.
+
+**미반영 — `introduce.md` 본문 수정 필요**
+
+1. 문단 3 "후반 30분 구간에 유의하게 증가" → "마지막 45분(15분 블록 3개)"으로 정정. 원문 Results·Discussion·그림5 캡션은 모두 `"last 3 [of 6] 15-minute time blocks"`(45분)라고 쓰는데, 초록만 `"last 30 minutes"`라고 쓴다 — **원문 자체의 초록-본문 불일치**이며, 지금 문단 3 문장은 초록 쪽 표현을 따라간 상태다.
+2. 문단 6 또는 8에 "Dunk & Callaghan(2010)이 자신의 연구의 한계로 EMG 부재를 직접 명시했다"는 근거 추가 가능. 원문: `"This study lacks information regarding muscular activity during prolonged sitting, which may have helped explain the impact of the movement patterns and subsequent post-exposure response seen in the different groups."`
+3. 위 두 가지가 본문에 반영되면 `references/entries/43-dunk-callaghan-2010.md`의 "본문 인용 위치 미정"도 함께 채우고, `references.md`의 상태를 `candidate` → `cited`로 갱신한다.
+
+**⚠ 엔트리 카드에도 같은 부정확성이 있음**
+
+`43-dunk-callaghan-2010.md`의 결과 요약과 Citation Like 인용문이 모두 "마지막 30분" 표현을 그대로 썼다(원문 초록을 그대로 옮긴 결과). 위 1번을 반영할 때 이 카드의 결과 요약도 "마지막 45분(15분 블록 3개)"으로 함께 정정해야 한다.
 
 ---
