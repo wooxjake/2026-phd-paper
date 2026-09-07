@@ -301,6 +301,41 @@
 
 ---
 
+45. **Pynt, Higgs, & Mackey (2001)** — `candidate` - [상세](references/entries/45-pynt-higgs-mackey-2001.md)
+
+- Seeking the optimal posture of the seated lumbar spine
+- 2026-09-02 원문 PDF 텍스트 추출 완료. 좌식 요추 전만(lordosis)과 후만(kyphosis) 논쟁을 검토한 고전 문헌고찰로, lordosed 자세와 중간중간의 움직임이 요추 건강을 유지하고 요통을 예방하는 최적 좌식 자세라는 결론을 제시한다.
+
+---
+
+46. **Cifrek, Medved, Tonković, & Ostojić (2009)** — `candidate` - [상세](references/entries/46-cifrek-medved-tonkovic-ostojic-2009.md)
+
+- Surface EMG based muscle fatigue evaluation in biomechanics
+- 2026-09-04 원문 PDF 텍스트 추출 완료. MDF/MNF 계열 피로 지표와 JASA 원출처로 등록.
+
+---
+
+47. **Siemienski, Kebel, & Klajner (2006)** — `candidate` - [상세](references/entries/47-siemienski-kebel-klajner-2006.md)
+
+- Fatigue Independent Amplitude-Frequency Correlations in EMG Signals
+- 2026-09-04 arXiv 원문 PDF 확보. 피로가 없는 조건에서도 표본추출속도·증폭 이득에 따라 진폭-주파수 음의 상관이 발생할 수 있다는 방법론적 주의의 근거. 학술지 게재본 여부는 `[확인 필요]`.
+
+---
+
+48. **Dolan, Mannion, & Adams (1995)** — `candidate` - [상세](references/entries/48-dolan-mannion-adams-1995.md)
+
+- Fatigue of the Erector Spinae Muscles - A Quantitative Assessment Using Frequency Banding of the Surface Electromyography Signal
+- 2026-09-04 원문 PDF 텍스트 추출 완료(OCR). 5-30 Hz frequency band 피로 지표의 고전적 근거로 등록.
+
+---
+
+49. **Davidson, Zehr, Dominelli, & Callaghan (2024)** — `candidate` - [상세](references/entries/49-davidson-et-al-2024.md)
+
+- Traditional versus dynamic sitting: Lumbar spine kinematics and pain during computer work and activity guided tasks
+- 2026-09-07 원문 PDF 텍스트 추출 완료. 전통적 좌식과 동적 좌식, 활동 유도 과제의 비교 연구로 등록.
+
+---
+
 ## 작업 메모
 
 - [참고문헌 작업 메모](references/notes.md)

@@ -1,0 +1,1335 @@
+===== PAGE 1 =====
+
+Review
+Surface EMG based muscle fatigue evaluation in biomechanics
+Mario Cifrek a,*, Vladimir Medved b, Stanko Tonkovic´ a, Saša Ostojic´ a
+a Faculty of Electrical Engineering and Computing, University of Zagreb, Unska 3, HR-10000 Zagreb, Croatia
+b Faculty of Kinesiology, University of Zagreb, Horvac ´anski zavoj 15, HR-10000 Zagreb, Croatia
+article info
+Article history:
+Received 28 January 2009
+Accepted 28 January 2009
+Keywords:
+Surface electromyography
+Muscle fatigue
+Biomedical signal processing
+Biomechanics
+abstract
+In the last three decades it has become quite common to evaluate local muscle fatigue by means of
+surface electromyographic (sEMG) signal processing. A large number of studies have been performed
+yielding signal-based quantitative criteria of fatigue in primarily static but also in dynamic tasks. The
+non-invasive nature of this approach has been particularly appealing in areas like ergonomics and occu-
+pational biomechanics, to name just the most prominent ones. However, a correct appreciation of the
+ﬁndings concerned can only be obtained by judging both the scientiﬁc value and practical utility of meth-
+ods while appreciating the corresponding advantages and limitations. The aim of this paper is to serve as
+a state of the art summary of this issue. The paper gives an overview of classical and modern signal pro-
+cessing methods and techniques from the standpoint of applicability to sEMG signals in fatigue-inducing
+situations relevant to the broad ﬁeld of biomechanics. Time domain, frequency domain, time–frequency
+and time-scale representations, and other methods such as fractal analysis and recurrence quantiﬁcation
+analysis are described succinctly and are illustrated with their biomechanical applications, research or
+clinical alike. Examples from the authors’ own work are incorporated where appropriate. The future of
+this methodology is projected by estimating those methods that have the greatest chance to be routinely
+used as reliable muscle fatigue measures.
+/C2112009 Elsevier Ltd. All rights reserved.
+1. Introduction
+Muscle fatigue represents a complex phenomenon encompass-
+ing various causes, mechanisms and forms of manifestation. It
+develops as a result of a chain of metabolic, structural and ener-
+getic changes in muscles due to insufﬁcient oxygen and nutritive
+substances supply through blood circulation, as well as a result
+of changes in the efﬁciency of the nervous system. In general,
+one may refer to Merletti et al. (2004) who stated that the potential
+sites of neuromuscular fatigue can be grouped under three head-
+ings: (1) central fatigue, (2) fatigue of the neuromuscular junction
+and (3) muscle fatigue.
+The usual term ‘‘muscle fatigue” (which we shall use in this pa-
+per), meaning in fact ‘‘local muscle fatigue” (introduced by Chafﬁn,
+1973) is therefore, sometimes substituted by, or equivalent with,
+‘‘neuromuscular” fatigue.
+Probably, the simplest way to determine the onset of muscle fa-
+tigue is to measure time during which an individual is able to per-
+form certain work, such as keeping a deﬁned level of static
+(isometric) contraction, ergometrically imposed loading, etc. This
+is known as ‘‘mechanical manifestation of muscle fatigue” and
+may be deﬁned as a ‘‘failure to maintain the required or expected
+force” ( Edwards, 1981 ), ‘‘state of temporary lowered capacity to
+perform work of a certain intensity, caused by this work itself”
+(Heimer, 1987), or ‘‘any exercise-induced reduction in the maximal
+capacity to generate force or power output” (Vollestad, 1997 ).
+Although simple to determine, results obtained in this manner de-
+pend also on psychological factors like motivation, associated with
+task conditions ( Enoka, 1995; Enoka and Duchateau, 2008 ). Be-
+sides, such a method does not give an insight into muscle fatigue
+as a continuous process of biochemical and physiological changes
+during performance of the deﬁned work, but detects it only after
+it has occurred. Finally, this method cannot be used to determine
+fatigue of a particular muscle when more agonists are contracting
+participating in physical effort and/or movement.
+Muscle fatigue may also be estimated by determining lactate
+concentration in a muscle based on blood samples taken at prede-
+ﬁned time intervals during performing certain work. Due to the
+mere manner of taking samples, and the way in which lactate con-
+centration is being determined, it is not possible to monitor the
+state of fatigue in real-time. Also, this kind of measurement, used
+routinely in sports medicine, gives an estimation of global fatigue
+of the organism, i.e. of the total active body musculature.
+Continuous monitoring of local muscle fatigue during
+performance of certain work is possible by measuring myoelectric
+activity of particular muscles by the method of surface electromy-
+ography (sEMG). Biochemical and physiological changes in
+0268-0033/$ - see front matter /C2112009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.clinbiomech.2009.01.010
+* Corresponding author.
+E-mail address: mario.cifrek@fer.hr (M. Cifrek).
+Clinical Biomechanics 24 (2009) 327–340
+Contents lists available at ScienceDirect
+Clinical Biomechanics
+journal homepage: www.elsevier.com/lo cate/clinbiomech
+
+===== PAGE 2 =====
+
+muscles during fatiguing contractions are, namely, reﬂected also in
+properties of myoelectric signals recorded on the surface of the
+skin above the muscle(s) concerned (De Luca, 1984 ).
+In spite of the limitations of the application of sEMG method to
+muscles positioned directly below the skin, and the problems of
+cross talk of myoelectric signals from neighbouring muscles
+(Farina et al., 2002c ), the method, due to its advantages, is used
+even more often to determine local muscle fatigue. Its principal
+advantages, hence, in this respect are (1) non-invasiveness, (2)
+applicability in situ , (3) real-time fatigue monitoring during the
+performance of deﬁned work, (4) ability to monitor fatigue of a
+particular muscle and (5) correlation with biochemical and physi-
+ological changes in muscles during fatiguing.
+This paper aims to present a state of art in the area of local mus-
+cle fatigue evaluation in biomechanics by using sEMG information.
+Mathematics for the extraction of amplitude and spectral variables
+from the sEMG signal is described concisely, and sorted according
+to particular methods. Selected examples from the literature are
+presented in order to support the application of a particular signal
+processing method. Finally, some trends for the future in this ﬁeld
+are projected.
+2. A look at the history of sEMG signal processing methods
+in muscle fatigue evaluation
+Almost a century ago Piper, a professor of physiology at the
+Royal Friedrich-Wilhelms-University in Berlin, noticed a certain
+‘‘slowing” of surface myoelectric signals during static contraction
+(Piper, 1912 ). In addition to this phenomenon Cobb and Forbes
+(1923) also noted an increase in the signal amplitude as one of
+the manifestations of fatigue during the static contraction. Unfor-
+tunately, due to imperfect instrumentation, these have remained
+only laboratory efforts of a kind.
+The development of electronics in the second half of the 20th
+century has brought the possibility to reliably measure and record
+myoelectric signals, while digital computers made applications of
+digital signal processing methods possible and quite ‘‘handy”.
+Systematic research on the inﬂuence of fatigue on the proper-
+ties of myoelectric signals has begun around 1950s. One of the ﬁrst
+papers addressing this issue reported an increase in the signal
+amplitude during the fatiguing process (Knowlton et al., 1951 ).
+Frequency analysis of myoelectric signals with the aim to monitor
+muscle fatigue was provided for the ﬁrst time by Kogi and Haka-
+mada (1962) , who observed the shift toward lower frequencies of
+surface myoelectric signal power spectrum. A number of authors
+reported on a similar observation in various muscles in the human
+body, with different explanations for the phenomenon (De Luca,
+1984; Basmajian and De Luca, 1985 ).
+Lindström et al. (1970) developed a mathematical model di-
+rectly relating power spectrum of surface myoelectric signal to
+muscle ﬁbre conduction velocity.
+Kwatny et al. (1970) applied digital signal processing (PDP-6
+computer) to explore properties of power spectrum density of a
+surface myoelectric signal recorded during fatiguing task. They
+introduced the mean frequency of the spectrum (MNF, or MPF as
+denoted by the authors) to determine differences before and dur-
+ing fatigue. Besides MNF, the second most popular spectral
+descriptor is the median frequency (MDF), the frequency value
+dividing the spectrum in two equal halves, (Stulen and De Luca,
+1981; Medved, 2001, pp. 197 ).
+The development of digital computers and their general avail-
+ability enabled the implementation of various digital signal pro-
+cessing methods to sEMG signal. In the earliest investigations,
+the method most often used for estimating the spectrum of the
+sEMG signal was the Fourier transform, partially due to the com-
+putationally effective fast Fourier transform (FFT) algorithm (Coo-
+ley and Tukey, 1965 ; applied in Medved, 1987). Another parameter
+that has been used to measure frequency shift is the number of
+zero crossings of the raw EMG per time unit (Hägg, 1981 ). This
+parameter has been shown to have properties similar like MNF
+and MDF. Some investigators have, more recently, used spike
+properties (Gabriel, 2000 ) as an alternative indicator of the sEMG
+spectral changes.
+Along with the popular FFT method, parametric (autoregres-
+sive) identiﬁcation methods have also been used to estimate the
+spectrum of the EMG signal (Paiss and Inbar, 1987; Merletti
+et al., 1995; Merletti and Lo Conte, 1995 ).
+The applicability of surface
+electromyography for detection and
+evaluation of local muscle fatigue has resulted in the development
+of specialized equipment for real-time muscle fatigue monitoring,
+based on the power spectrum shift ( Stulen and De Luca, 1982; Gil-
+more and DeLuca, 1985; Merletti et al., 1985; Basano and Otto-
+nello, 1986; Inbar et al., 1986; Kramer et al., 1987; Seroussi et al.,
+1989; Pratt et al., 1991; D’Alessio et al., 1993 ).
+Although fatigue is most often the consequence of practicing
+movement and exercise (sports training, kinesiological rehabilita-
+tion, ergonomics), the majority of studies in the past were carried
+out to quantify muscle fatigue resulting from isometric, i.e. con-
+stant length (static) muscle contractions. The principal causes for
+this situation were problems which arose during the measurement
+of myoelectric signal in dynamic contractions, as well as the prob-
+lem of their mathematical analysis.
+Intensive studies of fatigue in dynamic conditions were per-
+formed only during the last decade or so, using various time–fre-
+quency signal processing methods in order to investigate changes
+in the frequency content of the sEMG data that relate to the pro-
+gression of fatigue. Bonato et al. (1996) suggested Choi–Williams
+distribution as the most suitable method to be applied to the
+non-stationary sEMG signal. Karlsson et al. (2000) compared
+the short-time Fourier transform, the Wigner–Ville distribution,
+the Choi–Williams distribution, and the continuous wavelet trans-
+form in order to analyze myoelectric signals during dynamic con-
+tractions by estimating time-dependent spectral moments. The
+results have shown that the estimates provided by the continuous
+wavelet transform have better accuracy than those obtained by
+using other methods.
+Regardless of the method of analysis the relative movement of
+the electrodes with respect to the measured muscle during the
+sEMG measurement in dynamic conditions makes such estimates
+questionable and may lead to incorrect conclusions (Farina et al.,
+2001).
+A number of topics describing procedures designed to study
+sEMG signals recorded during dynamic contractions were pre-
+sented in the November–December 2001 issue of the IEEE Engi-
+neering in Medicine and Biology Magazine (IEEE EMB, 2001 ).
+Recently, non-linear methods such as recurrence quantiﬁcation
+analysis (RQA) have been introduced for the study of sEMG signals,
+mainly in fatigue assessment ( Felici et al., 2001; Clancy et al.,
+2004).
+Methods for analyzing fatigue at the single motor unit level
+relying on non-invasive multichannel recordings and joint use of
+spatial ﬁltering and spatial sampling are currently under study
+(Merletti et al., 2003; Farina et al., 2004 ).
+The European initiative called Surface Electromyography for
+Non-invasive Assessment of Muscles (SENIAM), started in 1996.
+The main goal was to attain consensus on key items (sensors, sen-
+sor placement, signal processing, and modelling) to enable ex-
+change of data and results obtained with sEMG (Hermens et al.,
+1999).
+The book ‘‘Electromyography – Physiology, Engineering, and
+Non-invasive Applications” has appeared a couple of years ago
+328 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 3 =====
+
+deﬁning the state of the art in the ﬁeld of electromyography as a
+whole ( Merletti and Parker, 2004 ).
+3. Insight into physiological phenomena underlying changes in
+sEMG signal with fatigue
+As already mentioned the properties of the sEMG signal are re-
+lated to the biochemical and physiological changes in skeletal mus-
+culature during fatiguing contractions.
+One consequence of the muscle contraction is the increase in
+the concentration of lactic acid, a metabolic product. Besides the
+type and size of the dominant muscle ﬁbres, the net lactate con-
+centration depends also on the force level and on the type of con-
+traction (static or dynamic), since blood ﬂow that determines the
+rate of metabolic removal is, during sustained contraction of about
+20% of maximum voluntary contraction (MVC) and more, usually
+restricted ( Humphreys and Lind, 1963 ). During dynamic contrac-
+tions blood ﬂow is increased due to the pumping effect of the con-
+tracting muscle.
+At a certain level of contraction, blood ﬂow is stopped by intra-
+muscular pressure and the muscle becomes ischemic. Myoelectric
+manifestations of muscle fatigue are affected by this event (Mer-
+letti et al., 1984 ).
+Increased concentration of the lactates is responsible for fatigue
+by changes in intracellular pH. As a result, muscle ﬁbre conduction
+velocity (CV) decreases, directly changing the shape of the motor
+unit action potential (MUAP) waveform (Fig. 1 – the case of a sus-
+tained contraction), and, ﬁnally, the properties of the surface EMG
+as an interference signal of all generated MUAPs (so-called ‘‘inter-
+ference pattern” according to Basmajian and De Luca, 1985 ). Brody
+et al. (1991) show ( in vitro ) that the decrease of pH in fact deter-
+mines the decrease of muscle ﬁbre CV, and as a consequence, the
+decrease of median frequency (MDF).
+Therefore, the lowering of muscle ﬁbre conduction velocity (CV)
+is one of the causes of signal power spectrum shift toward lower
+frequencies, and also of the increase in sEMG signal amplitude be-
+cause of a spatial low-pass ﬁltering effect of tissue as a volume
+conductor ( De Luca, 1984 ).
+Viitasalo and Komi (1977) analyzed surface myoelectric signal
+of the rectus femoris muscle in static contractions. They reported
+a series of changes in the signal as a result of fatigue: increase of
+the mean absolute value of a signal, increase of the amplitude
+and duration of an averaged action potential of motor unit, fre-
+quency shift in power spectrum toward the lower frequencies.
+An increase in amplitude of averaged motor unit action potential
+measured on the skin surface above the muscle has shown contra-
+dictory to results of intramuscular measurements showing de-
+crease of amplitude due to fatigue. The mentioned contradiction
+was explained by De Luca (1979) . He developed mathematical
+model of myoelectric signal, based on knowledge of contraction
+mechanisms. The results of simultaneous measurement of myo-
+electric signals within muscles and on the surface showed that fa-
+tigue increased the RMS of the surface myoelectric signal, while
+simultaneously decreased the RMS of the signal measured within
+muscle (Stulen and De Luca, 1978 ). This was explained as a result
+of frequency shift of the power spectrum toward lower frequen-
+cies. The tissue acts as a low-pass ﬁlter, allowing more energy to
+reach surface electrodes ( Basmajian and De Luca, 1985 ).
+It is observed that power spectrum changes are often greater
+than those predictable by the changes of CV, suggesting that myo-
+electric manifestations of muscle fatigue cannot solely be attrib-
+uted to CV decrements, and other factors must be considered
+(Merletti et al., 1990; Dimitrova and Dimitrov, 2003 ).
+Besides the decrease of ﬁbre conduction velocity, two more
+phenomena are hypothesized as the cause of the observed signal
+changes (1) remaining activity of the slow motor units, while the
+fast ones fatigue quickly and are switched off and (2) time synchro-
+nization in the activity of particular motor units.
+The inﬂuence of muscle fatigue on the properties of the sEMG
+signal during isometric voluntary and electrically elicited contrac-
+tions is clearly shown in Fig. 2 (Merletti and Lo Conte, 1997 ). In this
+example a subject maintained target torque level for 60 s before a
+mechanical manifestation of muscle fatigue occurred (healthy tib-
+ialis anterior muscle). Increase of
+the RMS value and decrease of CV
+and power spectrum mean frequency are evident from the begin-
+ning of the contraction. This is even more evident during electri-
+cally elicited contractions (vastus medialis stimulated for 30 s at
+Fig. 1. Factors which affect the shape of the motor unit action potential during a sustained contraction. Shaded boxes indicate factors that are modiﬁed as function of time
+during a sustained constant-force isometric contraction above 30% MVC. Temperature is less relevant than the other highlighted factors. Other indicated factors are relevant
+only during weaker contractions or non-isometric contractions (De Luca, 1992).
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 329
+
+===== PAGE 4 =====
+
+30 pulses/s), and it appears to be a combination of scaling (stretch-
+ing in time and in amplitude) and a change of shape of the M-wave.
+4. Signal processing methods suitable for muscle fatigue
+evaluation in biomechanical applications
+A succinct description of signal processing methods suitable for
+application in sEMG-based muscle fatigue evaluation follows. Typ-
+ical application in the domain of biomechanics is referred to where
+appropriate. The intention is not to enlist all relevant papers but in-
+stead to provide a brief overview.
+4.1. Time domain methods
+4.1.1. Estimates of sEMG amplitude
+Modulation of the amplitude due to muscular effort and/or
+fatigue represents the dominant change of sEMG signal in the time
+domain. First continuous EMG amplitude estimators consisted of
+full-wave rectiﬁer followed by a resistor–capacitor low-pass ﬁlter
+(Inman et al., 1952 ).
+In modern digital systems two indicators of sEMG amplitude
+are used: mean absolute value (MAV), also called average rectiﬁed
+value (ARV), and root-mean-square (RMS) value.
+They are deﬁned by following equations:
+MAV ¼ 1
+N
+XN
+i¼1
+jxijð 1Þ
+RMS ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ﬃ
+1
+N
+XN
+i¼1
+x2
+i
+vuu
+t ð2Þ
+In both equations xi is the ith sample of a signal and N is the
+number of samples in the epoch.
+According to Clancy et al. (2002) the amplitude of the single
+channel sEMG signal can be estimated using cascade of ﬁve
+sequential processing stages: (1) noise rejection/ﬁltering, (2) whit-
+ening, (3) amplitude demodulation, (4) smoothing and (5) relinea-
+rization (Fig. 3 ).
+The role of noise reject ﬁlter is to limit the effect of unwanted
+signals added to sEMG during measurement (for example motion
+artefacts, power line interference, and electronic noise). Whitening
+Fig. 2. Examples of fatigue plots showing the time course of the EMG signal variables during a sustained contraction, the EMG signal and its power spectral density (PSD)
+during speciﬁc time windows: (a) voluntary contraction of a healthy tibialis anterior muscle sustained for 100 s with a target set at 60% MVC. For the sake of clarity a three-
+point moving average has been applied to the variables and one value every 3 s is displayed. Note the mechanical breakpoint at 60 s and (b) electrically elicited contraction of
+a healthy vastus medialis stimulated for 30 s at 30 pulses/s. MNF = mean frequency of the PSD, RMS = root mean square value, CV = conduction velocity. From Merletti and Lo
+Conte (1997) .
+330 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 5 =====
+
+process makes the samples statistically uncorrelated and reduces
+the variance of amplitude estimation (Bonato et al., 1998 ). The
+demodulator (the Detect block on Fig. 3 ) rectiﬁes whitened sEMG
+and then raises the result to power 1 for MAV or 2 for RMS process-
+ing. In the smoothing stage, several demodulated samples are
+time-averaged to form one amplitude estimate using sliding win-
+dow. The length of the window can be optimally selected (Clancy,
+1999). Other smoothing methods are also possible, for example,
+Kalman ﬁlter ( Evans et al., 1984 ).
+Surface EMG signal amplitude, itself, is rarely used as an indica-
+tor of muscle fatigue. It is used in combination with other indica-
+tors, often in combination with spectral analysis (Joint Analysis
+of EMG Spectrum and Amplitude, JASA).
+In Sekulic et al. (2006) an application of simple rectiﬁcation and
+smoothing of sEMG signals is presented. The aim of the paper was
+to establish the characteristic values of the particular electromyo-
+graphic indicators in the simulation of hiking in the laser-standard
+class in dinghy sailing. Top Croatian athletes participated in the
+experiment. Simple averaging of the smoothed signals provided a
+valuable means to quantify muscle load which, presumably – as
+this was only a simulation of real sports activity – was exerted dur-
+ing this highly demanding physical activity.
+4.1.2. Zero-crossing rate (ZCR) of the signal
+The zero-crossing rate or zero-crossing frequency f
+z of the signal
+s(t) is deﬁned as half the number of zero crossings of s(t) per sec-
+ond ( Hägg, 1981; Inbar et al., 1986 ). If both the signal s(t) and its
+ﬁrst derivative s0(t) have a Gaussian amplitude the distribution of
+the expected zero-crossing rate Z can be calculated as (Rice, 1945 ):
+Z ¼ 2
+R fs =2
+0 f 2Sðf Þdf
+R fs =2
+0 Sðf Þdf
+"#
+ð3Þ
+where S(f) is the PSD of the signal and fs is the sampling frequency.
+Zero-crossing rate showed properties close to MDF and MNF
+(Hägg, 1991 ), but since the zero-crossing rate is highly dependant
+on signal-to-noise ratio (SNR) of the analyzed surface EMG, and
+also very sensitive to deviations of the amplitude distribution from
+Gaussian one, its use for analysis of sEMG has been abandoned.
+4.1.3. Spike analysis
+Spike analysis is most certainly not a newly emerging method
+in the area of sEMG signal analysis (Viitasalo and Komi, 1977 ). A
+peak is any pair of upward or downward deﬂections within a spike
+that do not together constitute a discrete spike, except in the case
+of a spike with a single peak. In this case, the deﬂections of the
+spike and the peak are the same. Any deﬂections that do not con-
+stitute discrete spikes as previously deﬁned and are found before,
+between, or after identiﬁed spikes, are assumed to be a background
+noise and not a sEMG signal. Spike analysis can be used to provide
+similar information as spectral analysis, and does not require
+stationarity.
+Nevertheless, contradictory results on the reliability of sEMG
+spike parameters are not in favour of their use. Since this method
+is not frequently used for sEMG signal analysis it will not be pre-
+sented here. Interested readers are advised to consult (Gabriel,
+2000).
+4.2. Frequency domain methods
+In a frequency domain, the dominant change in sEMG signal
+during sustained contractions is a compression of the signal spec-
+trum toward lower frequencies. Measures of this compression can
+be obtained by using various methods of signal frequency analysis.
+4.2.1. Fourier-based spectral estimators
+We will assume that the sEMG signal is a zero mean wide sense
+stationary (WSS) process. This stands at least for isometric
+Fig. 3. Cascade of processing stages used to form an EMG amplitude estimate. The EMG amplitude estimate is sˆk. In the ‘‘detect” and ‘‘relinearize” stages d = 1 for MAV, and
+d = 2 for RMS processing. ( Clancy et al., 2004 , adopted from Clancy et al., 2002 ).
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 331
+
+===== PAGE 6 =====
+
+constant-force contractions, e.g. for time intervals short enough to
+exclude fatigue.
+In practical sense this means that autocorrelation sequence
+^rmmðkÞ can be estimated from the single realization of a stochastic
+process or, in our case, from the samples of a recorded ﬁnite length
+sEMG signal:
+^rmmðkÞ¼ 1
+L
+XL/C0 1/C0 k
+l¼0
+mðk þ lÞmðlÞ; 0 /C20 k < L ð4Þ
+where m(k) is a single process realization, and L is the number of re-
+corded signal samples. The estimator (4) is a biased estimator of the
+autocorrelation sequence.
+Furthermore, the estimate of the power spectral density (PSD)
+of such a process is provided as:
+^SmmðejxÞ¼
+Xk¼þ1
+k¼/C01
+^rmmðkÞe/C0 jkx ð5Þ
+where e/C0 jkx is the kth sinusoidal harmonic and ^rmmðkÞ is the estima-
+tion of an autocorrelation function.
+The estimation equivalent to the one deﬁned by relation (5) is
+called periodogram:
+^SmmðejxÞ¼ 1
+L jMðejxÞj2 ð6Þ
+where | M(ejx)|2 represents energy spectral density of the ﬁnite en-
+ergy signal obtained by windowing one realization of the stochastic
+process. The periodogram is an asymptotically unbiased estimator
+of the power spectrum, e.g. if signal is inﬁnite, L ? 1, the expected
+value of the periodogram is equal to the true spectrum. Neverthe-
+less, the periodogram is not consistent in the mean square sense
+since its variance tends to the square of the spectrum value as
+L ? 1.
+There are different methods for the reduction of estimation var-
+iance. Bartlett method (Oppenheim and Shafer, 1989 ) averages
+multiple periodograms from non-overlapping segments of the ori-
+ginal signal sequence. Welch method (Welch, 1967 ) is similar to
+the Bartlett’s, but uses data windows and allows the segments to
+overlap. The averaging methods reduce the variance of the period-
+ogram but increase the bias and decrease the frequency resolution.
+An alternative method based on wavelet shrinkage has been pro-
+posed ( Moulin, 1994; Gao, 1997 ).
+This frequency domain method for muscle fatigue evaluation
+has been used in many areas of human activities.
+Roy et al. (1990) showed that frequency analysis of myoelectric
+signals recorded from muscle erector spinae can be used to select
+individuals with lower back pain problem among the population
+of professional rowers. A similar diagnostic method has been pre-
+viously veriﬁed for subjects who are not professionals in sport (Roy
+et al., 1989 ).
+4.2.2. Parametric based spectral estimators
+From digital systems analysis it is known that the system may
+be deﬁned by its transfer function. Under the assumption that sur-
+face EMG is a stochastic process, and that the system is physically
+realizable, the stochastic process under study can be presented as
+the output of a causal linear time invariant ﬁlter with white noise
+as input having a rational transfer function and a ﬁnite number of
+poles:
+HðejxÞ¼
+Pq
+k¼0bkejkx
+Pp
+k¼0
+akejkx ; ð7Þ
+where bk; k ¼ 0; 1; 2; ...; q are the zeros, and ak; k ¼ 0; 1; 2 ...; p are
+the poles.
+In such an approach, instead of spectral estimators one looks for
+a ﬁnite number of parameters which are sufﬁcient to describe the
+stochastic process of interest. Eq. (7) is the general transfer func-
+tion that deﬁnes a so-called autoregressive moving average
+(ARMA) model. If ai ¼ 0; i ¼ 1; 2; ...; p and a0 = 1 the model is
+called moving average (MA), and if bi ¼ 0; i ¼ 1; 2; ...; q and
+b0 = 1 the model is called autoregressive (AR) model. A mere list
+of these three models provokes a question – how to choose an
+appropriate model as well as the order of a model? Ideally, the
+model type should be the ARMA since it is the most general one
+and the order should be larger or equal to the real order. From
+the practical point of view, AR parameters are much easier to com-
+pute than MA parameters. Also, ARMA and MA models can be pre-
+sented by an inﬁnite AR model, which in practice is truncated at a
+speciﬁc order. These are the reasons why the AR model is the most
+widely used for EMG investigation. As for the order, the number of
+parameters has to be chosen appropriately, since the unnecessary
+parameters are never estimated as zero.
+The random variables, e.g. the estimates of the parameters, are
+associated with certain variance. A smaller order of the model
+leads to a smaller variance. On the other hand, if the order of the
+model is small it will lead to poor AR approximation of the true
+spectrum. A number of criteria have been proposed to estimate
+the appropriate order of a model; among them one may mention
+Akaike’s ﬁnal prediction error (FPE), Akaike’s information criterion
+(AIC, Akaike, 1974), Parzen’s autoregressive transfer function crite-
+rion (CAT, Parzen, 1974 ), and Rissanen’s minimum description
+length criterion (MDL, Rissanen, 1978, 1983 ).
+Paiss and Inbar (1987) used autoregressive analysis of sEMG sig-
+nal during fatiguing maximum voluntary contraction of m. biceps
+brachii. The estimation model chosen in this case was the AR model
+of the order 10. The model showed a signiﬁcant decrease of param-
+eter a
+1 and a small increase of parameter a2, while parameter a3 re-
+mained unchanged. These trends were unchanged for the order of
+AR model ranging from p =3t o p = 30. The authors concluded that
+parameter a
+1 can be used for muscle fatigue monitoring (Fig. 4).
+Merletti and Lo Conte (1995) introduced the detection tech-
+niques, reviewed and compared the methods of spectral estimation
+based on FFT and autoregressive (AR) models. They discussed their
+applications and limitations in extracting information from the
+surface myoelectric signal in particular regard to muscle fatigue
+during sustained voluntary or electrically elicited contractions.
+Their results showed that model orders of 4–6 were satisfactory
+for voluntary sEMG signals, while orders of 8–11 were preferable
+for the analysis of M-waves measured during electrical
+stimulation.
+4.3. Joint analysis of EMG spectrum and amplitude (JASA)
+It is known that EMG spectrum and EMG amplitude are inﬂu-
+enced by both force and fatigue. Simultaneous consideration of
+amplitude and spectrum of a surface EMG can provide information
+on whether EMG changes are fatigue-induced or force-related. The
+method is especially useful in situations like those encountered in
+occupational studies, where intervals of fatigue and recovery
+interchange ( Hägg et al., 2000; Wang et al., 2003; Jonkers et al.,
+2004).
+Brieﬂy, four different cases can be distinguished: (1) If the EMG
+amplitude increases and EMG spectrum shifts to the right, muscle
+force increase is the probable cause, (2) If the EMG amplitude de-
+creases and EMG spectrum shifts to the left, muscle force decrease
+is the probable cause, (3) If the EMG amplitude increases and
+EMG spectrum shifts to the left, this is considered to be result of
+muscle fatigue , (4) If the EMG amplitude decreases and the EMG
+spectrum shifts to the right, this is considered to be recovery from
+previous muscle fatigue . Even though dependencies of spectral vari-
+ables on force are neither fully explained nor clear (Farina et al.,
+2002b), it is possible to reach rather precise conclusions based on
+332 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 7 =====
+
+this simple and easy to implement four-case algorithm (Luttmann
+et al., 2000 ).
+4.4. Time–frequency and time-scale methods
+During sustained isometric contractions the signals may be as-
+sumed to be stationary during short-time intervals (0.5–2 s). Under
+this assumption spectral analysis based on the Fourier Transform
+can be applied. However, for dynamic contractions the assumption
+does not hold and other methods must be used. Besides, in these
+conditions one measures the EMG of a muscle that moves under-
+neath the electrodes. This fact complicates the signal considerably,
+adding confounding factors. Quadratic time–frequency representa-
+tions do not require stationarity and are being investigated. Some
+of them introduce unacceptable artefacts due to cross-terms (Hla-
+watsch and Boudreaux-Bartels, 1992; Jones and Parks, 1992 ). The
+Choi–Williams transform seems particularly promising because
+of the small amplitude of the cross-terms. Examples of possible ap-
+proaches have been provided ( IEEE EMB, 2001 ). In general, the re-
+sults obtained during dynamic contractions should be treated with
+caution because of the limited information available regarding the
+effect of the relative muscle-electrode movement (Farina et al.,
+2001; MacIsaac et al., 2001 ).
+4.4.1. General time–frequency representations (Cohen class)
+General time–frequency representation or Cohen’s class of dis-
+tributions is deﬁned as
+Cxðt; t; f Þ¼
+ZZZ
+ej2pnðs/C0 tÞf ðn; sÞxðs þ s=2Þx/C3
+/C2ð s /C0 s=2Þe/C0 j2ptsdndsds ð8Þ
+where f(n, s) is the kernel of the distribution, x is the signal, x* is its
+complex conjugate, t is the time, t is the frequency and s is the run-
+ning time ( Cohen, 1995 ).
+The word ‘‘distribution” should be used when referring to spe-
+ciﬁc members of Cohen’s class, and the word ‘‘representation”
+should be used when referring to all members in order to empha-
+size the fact that they are not distributions in probabilistic sense.
+We present only a subgroup of time-shift and frequency shift
+invariant t– f distributions that are most often used for sEMG signal
+analysis, like spectrogram, Wigner distribution (WD) and reduced
+interference distribution (RID).
+4.4.2. Short-time Fourier transform and spectrogram
+Variations of the sEMG signal spectrum as a function of time
+cannot be analyzed by simply applying Fourier transform, since
+information about time would be lost. Also, generally speaking,
+sEMG signals do not conform to the stationarity requirement of
+the Fourier transform. One way to satisfy this requirement is to ap-
+ply Fourier transform only to signal segments that are short en-
+ough to fulﬁl this requirement. This approach also provides an
+insight into variations of the spectrum as a function of time and
+leads to the short-term Fourier transform (STFT), deﬁned by
+STFThxðt; f Þ¼
+Z
+xðuÞh
+/C3
+ðu /C0 tÞe/C0 j2pfudu; ð9Þ
+where x(t) is the signal, t is time, f is frequency, and h(t) is normal-
+ized window.
+The deﬁnition can be interpreted in different ways but we
+choose two of them:
+(1) Decomposing the signal x on a basis of ﬁnite length waves
+(of frequency f and central instant t) obtained by windowing
+the waves of Fourier basis;
+(2) Decomposing the windowed signal on inﬁnite length waves
+of a Fourier basis.
+Under the assumption of the ﬁnite energy signal and normal-
+ized window, Parseval’s theorem can be extended to the STFT:
+Ex ¼
+ZZ
+jSTFThxðt; f Þj2dtdf ð10Þ
+where the spectrogram is deﬁned as
+SPhxðt; f Þ¼j STFThxðt; f Þj2; ð11Þ
+and represents the distribution of the signal energy in the t– f plane.
+Even though the spectrogram has proven to be very useful, it
+has several limitations like the stationarity requirement or the
+uncertainty principle – long time windows will provide high-fre-
+quency resolution, but poor time resolution. On the other hand,
+short-time windows will provide low frequency resolution, but
+high time resolution.
+Cifrek and his collaborators (Cifrek, 1997; Cifrek et al., 1998,
+2000) developed a method of surface myoelectric signal measure-
+ment and analysis aimed at evaluating muscle fatigue in healthy
+subjects during cyclic dynamic contractions of upper leg muscula-
+ture in a simple cyclic ﬂexion–extension movement of the lower
+leg, recorded during exercise on a training device. The signal pro-
+cessing part of the method is schematically presented in Fig. 5 .A s
+an indicator of muscle fatigue a change in the power spectrum med-
+ian frequency (MF), calculated from the spectrogram, was used.
+The authors also discussed the inﬂuence of analysis parameters
+(Cifrek et al., 1999 ) on the results. For example, Fig. 6 shows the
+inﬂuence of the analysis parameters R (step) and L (window
+length) on the fatigue index k (slope of the regression line).
+4.4.3. Wigner distribution (WD)
+Wigner distribution, also called Wigner–Ville distribution, over-
+comes some limitations of the spectrogram and provides a high
+resolution representation in time and in frequency for non-station-
+ary signals. Yet, due to severe cross-terms, or interference terms,
+between the components in different time–frequency regions, it
+can be rather difﬁcult to interpret.
+The Wigner distribution is deﬁned as:
+WDxðt; f Þ¼
+Z
+xt þ s
+2
+/C16/C17
+x/C3 t /C0 s
+2
+/C16/C17
+e/C0 j2pf sds: ð12Þ
+where x(t) is signal.
+Fig. 4. Course of the AR model parameters a1, a2, and a3 during 100% MVIC of m. biceps brachii . The order of the model is 10 ( Paiss and Inbar, 1987 ).
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 333
+
+===== PAGE 8 =====
+
+4.4.4. Time-varying autoregressive approach (TVAR)
+When a spectrogram is used for analysis of the sEMG signal, the
+signal is portioned into short enough segments to ensure stationa-
+rity. Each analyzed segment for which spectrogram is calculated
+provides information about the spectrum of the segment. A similar
+approach can be applied to autoregressive modelling. It is then
+called time-varying autoregressive approach.
+Korosec (1999) proposed that the technique in which the time-
+varying coefﬁcients of the linear model are assumed to be a linear
+combination of the basis functions is advantageous in some appli-
+cations, because it produces a smooth, continuous spectrum pro-
+viding a better view to the slowly changing frequency content of
+a wide-band non-stationary signal. Clancy et al. (2005) compared
+various conventional methods to estimate the mean and median
+power spectral frequencies, and amplitude of the surface electro-
+myogram during 30–90 min, of cyclic, force-varying, constant-pos-
+ture contractions. Subjects produced hand-grip contractions (of the
+ﬂexor digitorum superﬁcialis and extensor carpi radialis ) in a re-
+peated intermittent pattern until exhaustion. The authors con-
+cluded that estimates based on the short-time Fourier transform
+Fig. 5. Myoelectric signal spectral analysis for quantiﬁcation muscle fatigue during dynamic contractions: (a) sEMG signal x[n], raw data; (b) extracted data, using window
+sequence w[n] of length L, with shift of R samples (c), (d) and (e) estimation of median frequency (MF 0 ) using modiﬁed periodogram of windowed sequence, (f) course of
+median frequency (MF 0 ), (g) after low-pass ﬁltering, maximum values of MF during each contraction were calculated, (h) limits of contractions have been calculated using
+shaft angle data, (i) a slope of the regression line ( k, expressed in Hz/min) that ﬁts maximum values of MF in a least-square sense was used as a fatigue index. From regression
+line, the frequency at the beginning of exercise ( f0) was calculated ( Cifrek et al., 2000 ).
+334 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 9 =====
+
+were similar to those based on time-varying autoregressive
+methods.
+4.4.5. Choi–Williams distribution (exponential distribution)
+An attempt to improve WD is the Choi–Williams distribution
+(CWD), also called Exponential distribution (ED). It is a member
+of Cohen’s class of distributions, where kernel is deﬁned to be:
+f ðn; sÞ¼ e/C0ð pnsÞ2 =ð2r2 Þ: ð13Þ
+By varying the parameter r, a trade-off between interference sup-
+pression and high auto-term t– f resolution is varied. The larger
+the parameter r gets, the better the resolution, but the cross-terms
+increase. For very large values of the parameter r, CWD kernel ap-
+proaches the WD kernel.
+Knaﬂitz and Bonato (1999) discuss the assessment of the elec-
+trical manifestations of muscle fatigue during cyclic dynamic con-
+tractions. They introduce instantaneous spectral parameters suited
+to tracking spectral changes due to muscle fatigue, discuss the is-
+sues of quasi-stationarity and quasi-cyclostationarity, and present
+different strategies of signal analysis to be utilized with cyclic dy-
+namic contractions. The time–frequency representation was ob-
+tained by means of the Choi–Williams transform. Preliminary
+results are presented, obtained by analyzing data collected from
+paraspinal muscles during repetitive lifting movements, from the
+ﬁrst dorsal interosseus during abduction–adduction movements
+of the index ﬁnger, and from knee ﬂexors and extensors during
+isokinetic exercise. The authors concluded that these techniques
+allowed for evidencing the electrical manifestations of muscle fati-
+gue in different paradigms of cyclic dynamic contractions.
+4.4.6. Wavelets
+Following the deﬁnition of the STFT transform, as presented
+earlier in this paper, it is easier to understand how a shorter time
+window h(t) causes better time resolution along with poorer fre-
+quency resolution if a simple example is presented. Let us use Dir-
+ac delta function as window function in order to select a part of a
+signal. When applied to such a windowed signal, STFT will result
+with the original signal translated down in frequency:
+STFThxðt; f Þ¼ xðtÞe/C0 j2pft ; ð14Þ
+In this result the time information is preserved completely but the
+frequency information is lost.
+The inability to have good time resolution along with good fre-
+quency resolution is the inherent property of the STFT. From Hei-
+senberg uncertainty principle (time and frequency resolution are
+dependant) DtDf = C, where C is a non-zero constant value –
+dependent on the deﬁnition of the selected width. Thus, once the
+window function h(t) is selected, the time and frequency resolution
+of the STFT are deﬁned and ﬁxed for all values of t and f. Schemat-
+ically, this can be presented as shown in Fig. 7 .
+The rectangles indicate the time and frequency resolution of the
+STFT which remains the same across all times and frequencies. In
+some applications this can be a rather irrelevant property, yet in
+other it may prove to be a limitation. For example, if the analyzed
+signal is a mixture of short-duration high-frequency events that
+are closely spaced in time and long-duration low frequency com-
+ponents that are closely spaced in frequency, STFT cannot provide
+appropriate time resolution for distinguishing high-frequency
+events along with adequate frequency resolution for distinguishing
+low frequency components. One possible solution for this chal-
+lenge is to calculate STFTs with different choices of window func-
+tion and thus ensure good time resolution with short-duration
+window function, and good frequency resolution with long-dura-
+tion window function. Another possible solution is to use transfor-
+mation with variable time–frequency resolution, ensuring good
+time resolution at high frequencies and good frequency resolution
+at low frequencies. A representative of this group is Continuous
+wavelet transform (CWT), deﬁned as:
+CWTwxða; sÞ¼
+Z
+xðtÞw/C3
+a;sðtÞdt; ð15Þ
+where a 2 Rþ represents the scale parameter, t is a time, and seR
+represents the translation parameter (time shifting). The basis func-
+tion wa,s(t) is obtained by scaling the mother wavelet w(t) at time s
+and scale a:
+wa;sðtÞ¼ 1ﬃﬃ ﬃap w t /C0 s
+a
+/C18/C19
+: ð16Þ
+In order to ensure inverse transform, w(t) has to satisfy the
+condition
+Z þ1
+/C01
+wðtÞdt ¼ 0: ð17Þ
+Information about frequency is not lost. There is a general rela-
+tion between scale and frequency:
+fa ¼ f0
+a fs; ð18Þ
+where a is the scale parameter, fs/C223is a sampling frequency, fa is the
+pseudo-frequency corresponding to scale a. The idea is to associate
+Fig. 6. Inﬂuence of analysis parameters R (step) and L (window length) on fatigue
+index k (slope of the regression line). Tav is the average period of exercise ( Cifrek
+et al., 1999 ).
+time
+frequency (ti,fj)
+Fig. 7. Tiling of the time–frequency plane by the STFT. The rectangles centred at
+(ti, fj) represent regions of the time–frequency plane where the functions
+h*(t /C0 ti))exp(/C0 j2pfjt) are concentrated. These rectangles therefore also indicate
+the time and frequency resolution of the STFT (Akay, 1998).
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 335
+
+===== PAGE 10 =====
+
+a purely periodic signal of frequency f0 with a given wavelet, where
+f0 is the frequency maximizing the FFT of the wavelet modu-
+lus.Unlike STFT, tiling of time–frequency plane by CWT is not the
+same for all values of time and frequency as illustrated schemati-
+cally in Fig. 8 .
+Similar to the spectrogram, which represents the distribution of
+the signal energy in the t– f plane, energy distribution along time
+and scale called scalogram is deﬁned as:
+SCALwxða; sÞ¼j CWTwxða; sÞj2: ð19Þ
+Continuous wavelet transform can be sampled. There are two vari-
+ables available for sampling: scale a and time-shift s. The sampling
+has to be ﬁne enough to ensure reconstruction of a signal from the
+sampled transformation. The most common approach is sampling
+on a dyadic grid in the time-scale plane, also known as a Wavelet
+series expansion (WSE), where a =2
+j and s = k2j. The time remains
+continuous. Very similar to WSE is the Discrete wavelet transform
+(DWT). The difference between the two is that the DWT is applied
+to discrete-time signals, e.g. time is no longer continuous.
+Karlsson et al. (2000) introduced the non-stationary signal anal-
+ysis methods to analyze the myoelectric (ME) signals during dy-
+namic contractions by estimating the time-dependent spectral
+moments. The time–frequency analysis methods including the
+short-time Fourier transform, the Wigner–Ville distribution, the
+Choi–Williams distribution, and the continuous wavelet transform
+were compared in order to estimate accuracy and precision on syn-
+thesized and real ME signals. They found that the estimates pro-
+vided by the continuous wavelet transform had better accuracy
+and precision than those obtained with remaining time–frequency
+analysis methods on simulated data sets. In addition, ME signals by
+four subjects ( vastus lateralis and rectus femoris muscles) during
+three different tests (maximum static voluntary contraction, ramp
+contraction, and repeated isokinetic contractions) were also
+examined.
+Karlsson et al. (2001) summarized the application of the contin-
+uous wavelet transform to the analysis of the surface myoelectric
+signal. They used wavelets to study movements at different angu-
+lar velocities, and found the continuous wavelet transform to be
+very reliable for the analysis of non-stationary biological signals,
+not requiring any smoothing function as do methods based on
+Wigner–Ville distribution. However, using time–frequency meth-
+ods involves two main tradeoffs: i.e. potential increases in perfor-
+mance for a given application versus computational complexity
+and storage requirements. They also conﬁrmed ﬁndings of earlier
+studies showing MNF’s independence of angular velocity.
+4.5. Spectral shape indicators
+During fatiguing contractions the PSD of an analyzed sEMG sig-
+nal shifts toward lower frequencies. The shift, in a simpliﬁed ver-
+sion, can be described as a compression of the spectrum. If so,
+one parameter would be enough to represent the compression.
+Among possible choices, the most common parameters are mean
+and median frequency (as stated in the Introduction).
+Mean frequency (MNF) is deﬁned as:
+fmean ¼
+R fs =2
+0 fPðf Þdf
+R fs =2
+0 Pðf Þdf
+; ð20Þ
+where fs is the sampling frequency, and P(f) is the PSD of the signal.
+Median frequency (MDF) is deﬁned as:
+Z fmed
+0
+Pðf Þdf ¼ 1
+2
+Z fs =2
+0
+Pðf Þdf ð21Þ
+where fmed is the median frequency, fs is the sampling frequency,
+and P(f) is the PSD of the signal.
+The mean and the median frequency, as deﬁned in above equa-
+tions, give no information on time dependence of the frequency
+content. In order to overcome this, instantaneous mean frequency
+(IMNF)
+IMNFðtÞ¼
+R 1
+0 xPðt; xÞdxR 1
+0 Pðt; xÞdx ; ð22Þ
+and instantaneous median frequency (IMDF)
+Z IMDFðtÞ
+0
+Pðt; xÞdx ¼
+Z 1
+IMDFðtÞ
+Pðt; xÞdx: ð23Þ
+are deﬁned, where P(t, x) denotes time dependant power spectrum
+density of the signal (time–frequency spectrum, Knaﬂitz and Bona-
+to, 1999 ).
+4.6. Other mathematical methods
+4.6.1. Frequency-band method
+Alternatively, muscle fatigue can be tracked by monitoring
+changes within different frequency ranges, like low frequency
+band ( Dolan et al., 1995; Maisetti et al., 2002 ), mid-frequency re-
+gion ( Lowery et al., 2000 ), and a ratio between high and low fre-
+quency bands ( Moxham et al., 1982; Allison and Fujiwara, 2002 ).
+Among the methods that have shown a rather good repeatabil-
+ity are the one investigated by Allison and Fujiwara (2002) and
+Yassierli and Nussbaum (2008) : the sEMG signal is portioned into
+segments, and for each segment the PSD is calculated. From such
+PSD the sum of the power within low frequency band (10–45 Hz)
+is calculated as a percentage of the total power. Even though sim-
+ple, this method should be carefully used since PSD shape depends
+on the experimental protocol and investigated muscle, thus chal-
+lenging selection of the adequate frequency band.
+4.6.2. Logarithmic power–frequency representation
+The sEMG signal is portioned into segments, and for each seg-
+ment the PSD is calculated and transformed into the logarithmic
+function. After the normalization with total power, peak frequency
+(PF), slope of lower frequency (SLF) and slope of higher frequency
+(SHF) are calculated. More details on how the parameters are de-
+ﬁned can be found in Yassierli and Nussbaum (2008).
+4.6.3. Fractal analysis
+Among the possible choices for fractal analysis, the most re-
+cently used methods rely on computing parameters which repre-
+sent lower and higher frequency behaviour of an analyzed sEMG
+time
+frequency
+(τi,fj)
+Fig. 8. Tiling of the time–frequency plane by the CWT. The rectangles centred at ( si,
+fj) represent regions of the time–frequency plane where the functions w*([t /C0 ti]/aj)
+are concentrated, with fj = K/aj, and K = f0 fs. These rectangles also indicate time and
+frequency resolution of the CWT. The CWT cannot resolve components at DC, since
+the basis functions do not extend to zero frequency. The ﬁgure shown here
+represents dyadic grid, i.e. the rectangles double in length as we move along the
+frequency axis, but of course their areas are all the same. Our choice of the factor 2
+is illustrative; other ratios could equally be used (Akay, 1998).
+336 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 11 =====
+
+signal. Dispersion analysis and detrended–ﬂuctuation analysis are
+such methods (Yassierli and Nussbaum, 2008 ).
+4.6.4. Recurrence quantiﬁcation analysis (RQA)
+Recurrence quantiﬁcation analysis is a non-linear method. The
+sEMG signal is mapped onto bidimensional space, and the set of
+variables is calculated in order to evaluate recurring patterns and
+non-stationarities in the analyzed signal. Among them, the most
+commonly used variables are the percentage of recurrence struc-
+tures (%REC) and the percentage of determinism (%DET) indicating
+how far the time series of the surface EMG samples is from a purely
+random dynamic system and indicating the ‘‘level” of determinism,
+respectively. Experimental studies have shown RQA to be suitable
+for muscle fatigue assessment, providing results that highly corre-
+late with those of traditional spectral techniques (Filligoi and Felici,
+1999; Felici et al., 2001 ).
+Similar conclusions were drawn from one combined theoretical
+and experimental study where the effect of motor unit short-term
+synchronization and conduction velocity (CV) on EMG spectral
+variables and two previously mentioned RQA-generated variables:
+%REC and %DET were studied (Farina et al., 2002a ). The comparison
+of simulation with experiments was carried out for high-force level
+isometric fatiguing contractions of the biceps brachii . The simula-
+tion approach allowed the change of synchronization degree and
+mean CV for a number of motor units. Simulations and experimen-
+tal results have both shown that spectral variables, %REC and %DET
+were inﬂuenced by CV and degree of synchronization (Fig. 9). Spec-
+tral variables were highly correlated with %DET, while variations of
+%DET and %REC in response to changes in muscle properties were
+signiﬁcantly larger than the variations of spectral variables. The
+latter property gives the RQA method an advantage over classical
+spectral analysis.
+4.6.5. Hilbert–Huang transform
+Hilbert–Huang transform (HHT) is a new time–frequency repre-
+sentation method of signal analysis which was initially proposed in
+the study of ﬂuid mechanics ( Huang et al., 1998a ). The method has
+also found applications in biomedical engineering (Huang et al.,
+1998b; Echeverria et al., 2001 ).
+Hilbert–Huang transform comprises the empirical mode
+decomposition (EMD) and Hilbert transform. The aim of EMD is
+to decompose a signal into a set of ‘‘intrinsic mode functions”
+(IMFs), where the characteristics of each IMF are such that they
+may be Hilbert transformed. Then, through the Hilbert transform,
+the instantaneous frequency with meaningful feature of each IMF
+at any point in time may be calculated. The decomposition is based
+Fig. 9. From top to bottom: raw simulated signals, power spectra with mean (MNF) and median spectral frequency (MDF) values, and recurrence maps and their percentage
+of determinism (%DET) and recurrence (%REC). The electromyographic signals are generated with 5 m/s conduction velocity (CV) and 0% MU synchronization level (a) and
+3 m/s CV and 25% MU synchronization level (b). The signals in the top row as well as the power spectra in the middle row are in arbitrary units. The recurrence quantiﬁcation
+analysis parameters are D = 15, R = 60, k = 3, and L = 20, providing a plot of 982 /C2 982 pixels ( Farina et al., 2002a ).
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 337
+
+===== PAGE 12 =====
+
+on the local time-scale of the data and yields adaptive basis
+functions.
+Xie and Wang (2006) tried to improve the mean frequency
+(MNF) estimation. They compared three methods to estimate the
+MNF of non-stationary EMG: An approach based on Hilbert–Huang
+transform (HHT) was proposed and compared with the autoregres-
+sive (AR) spectrum estimation and wavelet transform method. It
+was observed that HHT method showed low variability in terms
+of robustness to the length of the analysis window (Fig. 10 ).
+This method was also used by Peng et al. (2006) . They chose an
+experiment of the static contraction of the biceps muscle in twelve
+adult subjects under a contraction amounting to 80% of the maxi-
+mal voluntary contraction (MVC) and reported on the success of
+this method and its use in biomedical signal analysis.
+5. Conclusion and further prospects
+Surface EMG represents a fairly non-invasive source of informa-
+tion on the state of skeletal muscle fatigue. This review paper
+shows that an interdisciplinary bioengineering approach has been
+quite successful in providing quantitative sEMG-based information
+about the (variable) fatigue state of skeletal musculature, as evi-
+denced by numerous methods and their practical biomechanical
+applications. Currently, the merging of improved measurement
+techniques (including multichannel approaches targeted at a single
+muscle; one pair of electrodes per muscle in a convenient differen-
+tial setup is normally understood) with sophisticated mathemati-
+cal methods and digital signal processing techniques provides a
+solid basis for validation, reﬁnement and standardization of suit-
+able methods to be applied in biomechanical situations.
+We feel conﬁdent that in realms of biomechanical research the
+presented methods will be further developed, exercised, improved
+and standardized. In clinical diagnostic applications – both in sport
+and in medical rehabilitation contexts – standardization of modern
+methods embodied in a novel type of a ‘‘muscle fatigue monitor”
+device is yet to be realized. It may appear in a form of a compact
+device of portable design and makeup, offering a menu of several
+correlated fatigue indices, (including, possibly, some non-EMG
+based as well); a usual common goal of engineers working in the
+biomedical ﬁeld.
+Conﬂict of interest
+The authors hereby declare to have no conﬂict of interest.
+Acknowledgements
+The results presented are the product of a number of scientiﬁc
+projects including ‘Non-invasive measurements and procedures in
+biomedicine’, ‘Automated motion capture and expert evaluation in
+the study of locomotion’ and ‘Real-life data measurement and
+characterization’, supported by The Ministry of Science, Education
+and Sports, Republic of Croatia.
+References
+Akaike, H., 1974. A new look at the statistical model identiﬁcation. IEEE Trans.
+Automat. Contr. 19 (6), 716–723.
+Akay, M., 1998. Time Frequency and Wavelets in Biomedical Signal Processing. IEEE
+Press, Piscataway, NJ.
+Allison, G.T., Fujiwara, T., 2002. The relationship between EMG median frequency
+and low frequency band amplitude changes at different levels of muscle
+capacity. Clin. Biomech. 17 (6), 464–469.
+Basano, L., Ottonello, P., 1986. Real-time FFT to monitor muscle fatigue. IEEE Trans.
+Biomed. Eng. 33 (11), 1049–1051.
+Basmajian, J.V., De Luca, C.J., 1985. Muscles Alive: Their Function Revealed by
+Electromyography, ﬁfth ed. Williams and Wilkins, Baltimore.
+Bonato, P., D’Alessio, T., Knaﬂitz, M., 1998. A statistical method for the measurement
+of muscle activation intervals from surface myoelectric signal during gait. IEEE
+Trans. Biomed. Eng. 45 (3), 287–299.
+Bonato, P., Gagliati, G., Knaﬂitz, M., 1996. Analysis of myoelectric signals recorded
+during dynamic contractions – a time–frequency approach to assessing muscle
+fatigue. IEEE Eng. Med. Biol. Mag. 15 (6), 102–111.
+Brody, L.R., Pollock, M.T., Roy, S.H., De Luca, C.J., Celli, B., 1991. pH-induced effects
+on median frequency and conduction velocity of the myoelectric signal. J. Appl.
+Physiol. 71 (5), 1878–1885.
+Chafﬁn, D.B., 1973. Localized muscle fatigue-deﬁnition and measurement. J. Occup.
+Med. 15 (4), 346–354.
+Cifrek, M., 1997. Myoelectric Signal Analysis during Dynamic Fatigue. Ph.D.
+Dissertation. University of Zagreb, Faculty of Electrical Engineering and
+Computing (in Croatian).
+Cifrek, M., Tonkovic, S., Medved, V., 1999. Surface EMG spectrogram in dynamic
+muscle fatigue monitoring – inﬂuence of analysis parameters. In: Hinrikus, H.
+et al., (Eds.), 11th Nordic-Baltic Conference on Biomedical Engineering, Tallin,
+Estonia, pp. 375–376.
+Cifrek, M., Tonkovic, S., Medved, V., 1998. Surface myoelectric signal spectral
+analysis during fatigued dynamic contractions of quadriceps muscle. In:
+Magjarevic, R. (Ed.), 8th International IMEKO Conference on Measurement in
+Clinical Medicine, KoREMA, Zagreb, pp. 98–101.
+Cifrek, M., Tonkovic, S., Medved, V., 2000. Measurement and analysis of surface
+myoelectric signals during fatigued cyclic dynamic contractions. Measurement
+27 (2), 85–92.
+Clancy, E.A., 1999. Electromyogram amplitude estimation with adaptive smoothing
+window length. IEEE Trans. Biomed. Eng. 46 (6), 717–729.
+Clancy, E.A., Farina, D., Filligoi, G., 2004. Single-channel techniques for information
+extraction from the surface EMG signal. In: Merletti, R., Parker, P.A. (Eds.),
+Electromyography – Physiology, Engineering, and Noninvasive Applications,
+ﬁrst ed. John Wiley & Sons, Inc., Hoboken, New Jersey, pp. 133–168.
+Clancy, E.A., Farina, D., Merletti, R., 2005. Cross-comparison of time- and frequency-
+domain methods for monitoring the myoelectric signal during a cyclic, force-
+varying, fatiguing hand-grip task. J. Electromyogr. Kines. 15 (3), 256–265.
+Fig. 10. Slope (a) and point of intercept (b) parameters of the linear regression of
+the MNF calculated by Hilbert–Huang transform (diamond), AR model (asterisk),
+and wavelet transform (pentagram) method for different epoch lengths of subject 3.
+This study included 24 subjects (authors comment). Similar results were obtained
+for all subjects ( Xie and Wang, 2006 ).
+338 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340
+
+===== PAGE 13 =====
+
+Clancy, E.A., Morin, E.L., Merletti, R., 2002. Sampling, noise-reduction and amplitude
+estimation issues in surface electromyography. J. Electromyogr. Kines. 12 (1), 1–
+16.
+Cobb, S., Forbes, A., 1923. Electromyographic studies of muscular fatigue in man.
+Am. J. Physiol. 65 (2), 234–251.
+Cohen, L., 1995. Time–Frequency Analysis. Prentice-Hall, Englewood Cliffs, NJ.
+Cooley, J.W., Tukey, J.W., 1965. An algorithm for machine calculation of complex
+Fourier series. Mathematics of Computation 19 (90), 297.
+D’Alessio, T., Knaﬂitz, M., Balestra, G., Paggi, S., 1993. Online estimation of
+myoelectric signal spectral parameters and nonstationarities detection. IEEE
+Trans. Biomed. Eng. 40 (9), 981–985.
+De Luca, C.J., 1979. Physiology and mathematics of myoelectric signals. IEEE Trans.
+Biomed. Eng. 26 (6), 313–325.
+De Luca, C.J., 1984. Myoelectrical manifestations of localized muscular fatigue in
+humans. Crit. Rev. Biomed. Eng. 11 (4), 251–279.
+De Luca, C.J., 1992. Spectral compression of the EMG signal as an index of muscle
+fatigue. In: Sargeant, A.J., Kernell, D. (Eds.), Neuromuscular Fatigue. Royal
+Netherlands Academy of Arts and Sciences, Amsterdam, The Netherlands, pp.
+44–51.
+Dimitrova, N.A., Dimitrov, G.V., 2003. Interpretation of EMG changes with fatigue:
+facts, pitfalls, and fallacies. J. Electromyogr. Kines. 13 (1), 13–36.
+Dolan, P., Mannion, A.F., Adams, M.A., 1995. Fatigue of the erector spinae muscles –
+a quantitative assessment using frequency banding of the surface
+electromyography signal. Spine 20 (2), 149–159.
+Echeverria, J.C., Crowe, J.A., Woolfson, M.S., Hayes-Gill, B.R., 2001. Application of
+empirical mode decomposition to heart rate variability analysis. Med. Biol. Eng.
+Comput. 39 (4), 471–479.
+Edwards, R.H.T., 1981. Human muscle function and fatigue. In: Porter, R., Whelan, J.
+(Eds.), Human Muscle Fatigue: Physiological Mechanisms. Pitman Medical,
+London.
+Enoka, R.M., 1995. Mechanisms of muscle fatigue – central factors and task
+dependency. J. Electromyogr. Kines. 5 (3), 141–149.
+Enoka, R.M., Duchateau, J., 2008. Muscle fatigue: what, why and how it inﬂuences
+muscle function. Journal of Physiology – London 586 (1), 11–23.
+Evans, H.B., Pan, Z., Parker, P.A., Scott, R.N., 1984. Signal processing for proportional
+myoelectric control. IEEE Trans. Biomed. Eng. 31 (2), 207–211.
+Farina, D., Fattorini, L., Felici, F., Filligoi, G., 2002a. Nonlinear surface EMG analysis to
+detect changes of motor unit conduction velocity and synchronization. J. Appl.
+Physiol. 93 (5), 1753–1763.
+Farina, D., Fosci, M., Merletti, R., 2002b. Motor unit recruitment strategies
+investigated by surface EMG variables. J. Appl. Physiol. 92 (1), 235–247.
+Farina, D., Merletti, R., Disselhorst-Klug, C., 2004. Multi-channel techniques for
+information extraction from the surface EMG. In: Merletti, R., Parker, P. (Eds.),
+Electromyography – Physiology, Engineering, and Noninvasive Applications,
+ﬁrst ed. John Wiley & Sons, Inc., Hogoken, New Jersey, pp. 169–203.
+Farina, D., Merletti, R., Indino, B., Nazzaro, M., Pozzo, M., 2002c. Surface EMG
+crosstalk between knee extensor muscles: experimental and model results.
+Muscle Nerve 26 (5), 681–695.
+Farina, D., Merletti, R., Nazzaro, M., Caruso, I., 2001. Effect of joint angle on EMG
+variables in leg and thigh muscles. IEEE Eng. Med. Biol. Mag. 20 (6),
+62–71.
+Felici, F., Rosponi, A., Sbriccoli, P., Filligoi, G.C., Fattorini, L., Marchetti, M., 2001.
+Linear and non-linear analysis of surface electromyograms in weightlifters. Eur.
+J. Appl. Physiol. 84 (4), 337–342.
+Filligoi, G., Felici, F., 1999. Detection of hidden rhythms in surface EMG signals with
+a non-linear time-series tool. Med. Eng. Phys. 21 (6–7), 439–448.
+Gabriel, D.A., 2000. Reliability of SEMG spike parameters during concentric
+contractions. Electromyogr. Clin. Neurophysiol. 40 (7), 423–430.
+Gao, H.Y., 1997. Choice of thresholds for wavelet shrinkage estimate of the
+spectrum. J. Time Series Anal. 18, 231–251.
+Gilmore, L.D., DeLuca, C.J., 1985. Muscle fatigue monitor (MFM) – 2nd generation.
+IEEE Trans. Biomed. Eng. 32 (1), 75–78.
+Hägg, G., 1981. Electro-myographic fatigue analysis based on the number of zero
+crossings. Pﬂugers Archiv – Eur. J. Physiol. 391 (1), 78–80.
+Hägg, G.M., 1991. Comparison of different estimators of electromyographic spectral
+shifts during work when applied on short test contractions. Med. Biol. Eng.
+Comput. 29 (5), 511–516.
+Hägg, G.M., Luttmann, A., Jager, M., 2000. Methodologies for evaluating
+electromyographic ﬁeld data in ergonomics. J. Electromyogr. Kines. 10 (5),
+301–312.
+Heimer, S., 1987. Fatigue. In: Medved, R., (Ed.), Sports Medicine, second ed. pp. 147–
+151 (in Croatian).
+Hermens, H.J., Freriks, B., Merletti, R., Rau, G., Disselhorst-Klug, C., Stegeman, D.F.,
+Hägg, G.M., 1999. European Recommendations for Surface Electromyography:
+Results of the SENIAM Project. Roessingh Research and Development, Enschede,
+Netherlands.
+Hlawatsch, F., Boudreaux-Bartels, G.F., 1992. Linear and quadratic time–frequency
+signal representations. IEEE Signal Proc. Mag. 9 (2), 21–67.
+Huang, N.E., Shen, Z., Long, S.R., Wu, M.L.C., Shih, H.H., Zheng, Q.N., Yen, N.C., Tung,
+C.C., Liu, H.H., 1998a. The empirical mode decomposition and the Hilbert
+spectrum for nonlinear and non-stationary time series analysis. Proc. Roy. Soc.
+London Ser. A – Math. Phys. Eng. Sci. 454 (1971), 903–995.
+Huang, W., Shen, Z., Huang, N.E., Fung, Y.C., 1998b. Engineering analysis of
+biological variables: an example of blood pressure over 1 day. Proc. Natl.
+Acad. Sci. USA 95 (9), 4816–4821.
+Humphreys, P.W., Lind, A.R., 1963. The blood ﬂow through active and inactive
+muscles of the forearm during sustained hand-grip contractions. J. Physiol. 166,
+120–135.
+IEEE EMB, 2001. Monitoring muscles in motion – advancements in analyzing
+dynamic EMG data. IEEE Eng. Med. Biol. Mag. 20 (6).
+Inbar, G.F., Allin, J., Paiss, O., Kranz, H., 1986. Monitoring surface EMG spectral
+changes by the zero crossing rate. Med. Biol. Eng. Comput. 24 (1), 10–18.
+Inman, V.T., Ralston, H.J., Saunders, J.B., Feinstein, B., Wright Jr., E.W., 1952. Relation
+of human electromyogram to muscular tension. Electroencephalogr. Clin.
+Neurophysiol. 4 (2), 187–194.
+Jones, D.L., Parks, T.W., 1992. A resolution comparison of several time–frequency
+representations. IEEE Trans. Signal Proc. 40 (2), 413–420.
+Jonkers, I., Nuyens, G., Seghers, J., Nuttin, M., Spaepen, A., 2004. Muscular effort in
+multiple sclerosis patients during powered wheelchair manoeuvres. Clin.
+Biomech. 19 (9), 929–938.
+Karlsson, J.S., Gerdle, B., Akay, M., 2001. Analyzing surface myoelectric signals
+recorded during isokinetic contractions. IEEE Eng. Med. Biol. Mag. 20 (6), 97–
+105.
+Karlsson, S., Yu, J., Akay, M., 2000. Time–frequency analysis of myoelectric signals
+during dynamic contractions: a comparative study. IEEE Trans. Biomed. Eng. 47
+(2), 228–238.
+Knaﬂitz, M., Bonato, P., 1999. Time–frequency methods applied to muscle fatigue
+assessment during dynamic contractions.
+J. Electromyogr. Kines. 9 (5), 337–350.
+Knowlton, G.C., Bennett, R.L., McClure, R., 1951. Electromyography of fatigue. Arch.
+Phys. Med. Rehab. 32 (10), 648–652.
+Kogi, K., Hakamada, T., 1962. Frequency analysis of the surface electromyogram in
+muscle fatigue. J. Sci. Labour (Tokyo) 38, 519–528.
+Korosec, D. 1999. Continuous time-varying autoregressive spectrum for assessment
+of fatigue induced changes in SEMG signals. In: [Engineering in Medicine and
+Biology, 1999. 21st Annual Conf. and the 1999 Annual Fall Meeting of the
+Biomedical Engineering Soc.] BMES/EMBS Conference, Proceedings of the First
+Joint, p. 574.
+Kramer, C.G.S., Hagg, T., Kemp, B., 1987. Real-time measurement of muscle fatigue
+related changes in surface EMG. Med. Biol. Eng. Comput. 25 (6), 627–630.
+Kwatny, E., Thomas, D.H., Kwatny, H.G., 1970. An application of signal processing
+techniques to the study of myoelectric signals. IEEE Trans. Biomed. Eng. 17 (4),
+303–313.
+Lindström, L., Magnusson, R., Petersen, I., 1970. Muscular fatigue and action
+potential conduction velocity changes studied with frequency analysis of EMG
+signals. Electromyography 10 (4), 341–356.
+Lowery, M.M., Vaughan, C.L., Nolan, P.J., O’Malley, M.J., 2000. Spectral compression
+of the electromyographic signal due to decreasing muscle ﬁber conduction
+velocity. IEEE Trans. Rehab. Eng. 8 (3), 353–361.
+Luttmann, A., Jager, M., Laurig, W., 2000. Electromyographical indication of
+muscular fatigue in occupational ﬁeld studies. Int. J. Indus. Ergon. 25 (6),
+645–660.
+MacIsaac, D.T., Parker, P.A., Scott, R.N., Englehart, K.B., Dufﬂey, C., 2001. Inﬂuences of
+dynamic factors on myoelectric parameters. IEEE Eng. Med. Biol. Mag. 20 (6),
+82–89.
+Maisetti, O., Guevel, A., Legros, P., Hogrel, J.Y., 2002. Prediction of endurance
+capacity of quadriceps muscles in humans using surface electromyogram
+spectrum analysis during submaximal voluntary isometric contractions. Eur. J.
+Appl. Physiol. 87 (6), 509–519.
+Medved, V., 1987. Computer algorithm for an EMG-based muscular fatigue
+assessment method. In: Wilson, J.R., Corlett, E.N., Manenica, I. (Eds.), New
+Methods in Applied Ergonomics. The Proceedings of the Second International
+Occupational Ergonomics Symposium. Taylor and Francis, London, pp. 71–75.
+Medved, V., 2001. Measurement of Human Locomotion. CRC Press, Boca Raton, Fl.
+Merletti, R., Biey, D., Biey, M., Prato, G., Orusa, A., 1985. Online monitoring of the
+median frequency of the surface EMG power spectrum. IEEE Trans. Biomed. Eng.
+32 (1), 1–7.
+Merletti, R., Farina, D., Gazzoni, M., 2003. The linear electrode array: a useful tool
+with many applications. J. Electromyogr. Kines. 13 (1), 37–47.
+Merletti, R., Gulisashvili, A., Lo Conte, L.R., 1995. Estimation of shape characteristics
+of surface muscle signal spectra from time domain data. IEEE Trans. Biomed.
+Eng. 42 (8), 769–776.
+Merletti, R., Knaﬂitz, M., De Luca, C.J., 1990. Myoelectric manifestations of fatigue in
+voluntary and electrically elicited contractions. J. Appl. Physiol. 69 (5), 1810–
+1820.
+Merletti, R., Lo Conte, L.R., 1995. Advances in processing of surface myoelectric
+signals: part 1. Med. Biol. Eng. Comput. 33 (3), 362–372. Spec No.
+Merletti, R., Lo Conte, L.R., 1997. Surface EMG signal processing during isometric
+contractions. J. Electromyogr. Kines. 7 (4), 241–250.
+Merletti, R., Parker, P., 2004. Electromyography – Physiology, Engineering and
+Noninvasive Applications, ﬁrst ed. John Wiley & Sons, Inc., Hoboken, New
+Jersey.
+Merletti, R., Rainoldi, A., Farina, D., 2004. Myoelectric manifestations of muscle
+fatigue. In: Merletti, R., Parker, P. (Eds.), Electromyography – Physiology,
+Engineering, and Noninvasive Applications, ﬁrst ed. John Wiley & Sons, Inc.,
+Hoboken, New Jersey, pp. 233–258.
+Merletti, R., Sabbahi, M.A., DeLuca, C.J., 1984. Median frequency of the myoelectric
+signal – effects of muscle ischemia and cooling. Eur. J. Appl. Physiol. Occup.
+Physiol. 52 (3), 258–265.
+Moulin, P., 1994. Wavelet thresholding techniques for power spectrum estimation.
+IEEE Trans. Signal Proc. 42 (11), 3126–3136.
+M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340 339
+
+===== PAGE 14 =====
+
+Moxham, J., Edwards, R.H.T., Aubier, M., Detroyer, A., Farkas, G., Macklem, P.T.,
+Roussos, C., 1982. Changes in EMG power spectrum (high-to-low ratio) with
+force fatigue in humans. J. Appl. Physiol. 53 (5), 1094–1099.
+Oppenheim, A.V., Shafer, R.W., 1989. Discrete-Time Signal Processing. Prentice-Hall,
+Inc., Englewood Cliffs, New Jersey.
+Paiss, O., Inbar, G.F., 1987. Autoregressive modeling of surface EMG and its
+spectrum with application to fatigue. IEEE Trans. Biomed. Eng. 34 (10), 761–
+770.
+Parzen, E., 1974. Some recent advances in time series modeling. IEEE Trans.
+Automat. Contr. AC19 (6), 723–730.
+Peng, B., Jin, X., Min, Y., Su, X., 2006. The study on the sEMG signal characteristics of
+muscular fatigue based on the Hilbert–Huang transform. In: Computational
+Science – ICCS 2006, Proceedings, vol. 3991(Pt 1), pp. 140–147.
+Piper, H., 1912. Elektrophysiologie menschlicher Muskeln. Springer Verlag, Berlin.
+Pratt, A.J., Gander, R.E., Brandell, B.R., 1991. Real-time digital median frequency
+estimator for surface myoelectric signals. IEEE Trans. Biomed. Eng. 38 (3), 306–
+309.
+Rice, R.O., 1945. Mathematical analysis of random noise. In: Wax, N. (Ed.), Selected
+Papers on Noise and Stochastic Processes. Dover, New York.
+Rissanen, J., 1978. Modeling by shortest data description. Automatica 14 (5), 465–
+471.
+Rissanen, J., 1983. A universal prior for integers and estimation by minimum
+description length. Ann. Stat. 11 (2), 416–431.
+Roy, S.H., De Luca, C.J., Casavant, D.A., 1989. Lumbar muscle fatigue and chronic
+lower back pain. Spine 14 (9), 992–1001.
+Roy, S.H., De Luca, C.J., Snyder-Mackler, L., Emley, M.S., Crenshaw, R.L., Lyons, J.P.,
+1990. Fatigue, recovery, and low back pain in varsity rowers. Med. Sci. Sport.
+Exer. 22 (4), 463–469.
+Sekulic, D., Medved, V., Rausavljevic, N., Medved, V., 2006. EMG analysis of muscle
+load during simulation of characteristic postures in dinghy sailing. J. Sport. Med.
+Phys. Fit. 46 (1), 20–27.
+Seroussi, R., Krag, M.H., Wilder, P., Pope, M.H., 1989. The design and use of a
+microcomputerized real-time muscle fatigue monitor based on the medial
+frequency-shift in the electromyographic signal. IEEE Trans. Biomed. Eng. 36
+(2), 284–286.
+Stulen, F.B., De Luca, C.J., 1978. The relation between the myoelectric signal and
+physiological properties of constant-force isometric contractions.
+Electroencephalogr. Clin. Neurophysiol. 45 (6), 681–698.
+Stulen, F.B., De Luca, C.J., 1982. Muscle fatigue monitor – a non-invasive device for
+observing localized muscular fatigue. IEEE Trans. Biomed. Eng. 29 (12), 760–
+768.
+Stulen, F.B., De Luca, C.J., 1981. Frequency parameters of the myoelectric signal as a
+measure of muscle conduction-velocity. IEEE Trans. Biomed. Eng. 28 (7), 515–
+523.
+Viitasalo, J.H., Komi, P.V., 1977. Signal characteristics of EMG during fatigue. Eur. J.
+Appl. Physiol. Occup. Physiol. 37 (2), 111–121.
+Vollestad, N.K., 1997. Measurement of human muscle fatigue. J. Neurosci. Meth. 74
+(2), 219–227.
+Wang, D.M., Wang, J., Ge, L.Z., 2003. sEMG time–frequency analysis techniques for
+evaluation of muscle fatigue and it’s application in ergonomic studies. Space
+Med. Med. Eng. (Beijing) 16 (5), 387–390.
+Welch, P.D., 1967. Use of fast Fourier transform for estimation of power spectra – a
+method based on time averaging over short modiﬁed periodograms. IEEE Trans.
+Audio. Electroacoust. AU15 (2), 70–73.
+Xie, H.B., Wang, Z.Z., 2006. Mean frequency derived via Hilbert–Huang transform
+with application to fatigue EMG signal analysis. Comput. Meth. Prog. Biol. 82
+(2), 114–120.
+Yassierli, Nussbaum, M.A., 2008. Utility of traditional and alternative EMG-based
+measures of fatigue during low-moderate level isometric efforts. J.
+Electromyogr. Kines. 18 (1), 44–53.
+340 M. Cifrek et al. / Clinical Biomechanics 24 (2009) 327–340

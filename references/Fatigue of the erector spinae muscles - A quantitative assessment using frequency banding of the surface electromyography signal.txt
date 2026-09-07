@@ -1,0 +1,1391 @@
+===== PAGE 1 =====
+
+SPINE Volume 20, Number 2,pp 149-159
+1995,J. B.Lippincott Company
+Fatigue of the Erector Spinae Muscles
+A Quantitative Assessment Using “Frequency
+Banding"of the Surface Electromyography Signal
+P.Dolan, PhD,A.F. Mannion, PhD, and M.A.Adams, PhD
+come fatigued.This possibility could be investigated if
+StudyDesign.The authors investigated
+techniques were available for the accurate and objective
+fatigue-induced changes in the frequency content of the
+assessment of back muscle fatigue.In recent years, sur-
+surface electromyographic(EMG)signal from the erec-
+tor spinae muscles.
+face electromyography (EMG) has been used to monitor
+Objectives.The objective of the study was to under-
+stand the EMG changesin fatiguing muscle and to ob-
+problems to consider when applying the same tech-
+tain a reliable index of fatigue.
+niques to the erector spinae.
+Summary of BackgroundData.Power spectral analy-
+sis has been used increasingly inrecentyears to moni-
+First, the erector spinae are unusual muscles in that
+tormuscle fatigue,butparameters other than the mean
+the slow-twitch (TypeI) fibers are larger in cross-section
+ormedianfrequencyhavereceived littleattention.
+than the fast-twitch (Type II) fibers, both in patients
+Methods.Thirty-five healthyvolunteers participated.
+and people without back
+Theypulled upward with constant force on ahandlebar
+pain.35,41 The large fibers therefore may be recruited at
+attached toafloor-mountedloadcellwhile theEMG
+signal from the erectorspinaewasrecordedat thelev-
+lower forces than the smaller fibers, and this unusual
+elsof T10andL3at1024Hz;1.0-sec“windows"of the
+pattern of recruitment may explain atypical changes in
+signal were analyzed using fastFourier transforms,and
+the frequency content of the surface EMG with increas-
+theresultingpowerspectra were divided into10 fre-
+ing force of contraction.37 Another problem is that the
+quency bandsbetween5Hzand300Hz.Themedian
+frequency,total power,and peak amplitude of the spec
+erector spinae consist of a large number of discrete
+tra were also calculated.Changes in the frequency con-
+muscle fascicles that are innervated separately and can
+tentof the EMG signal were examined during submaxi-
+mal contractions of different intensity and duration.
+Results.Median frequency decreased steadily dur-
+may also be influenced by the level of force and fatigue.
+ing the contractions,whereas totalpower andpeak am-
+plitude increased.The most repeatable and linear in-
+The thoracic portion of the erector spinae has a larger
+dex ofchange was the increase in the EMG signal in
+percentage cross-sectional area of Type I fibers than the
+the5-30Hz frequencyband.The middle-to-high fre-
+lumbar musculature,41 and this may reflect a functional
+quency componentof the EMGsignalincreased during
+difference in the two regions, with the activity of the
+the early stages of the contractions,but decreased as
+theendurance limit was approached.
+thoracic muscles being more tonic in character than that
+Conclusions.Changes in the5-30 Hz bandof the
+of the lumbar muscles, which are relatively inactive
+EMGpower spectrum providea morereliable and lin-
+during standing postures.24 Another unusual property
+earindexoffatigue in the erectorspinaemuscles than
+of the erector spinae is that they rarely shorten beyond
+dochanges in median frequency.In the erector spinae,
+the earlyeffectsof fatigue appeartobe delayed by the
+their length in the upright standing position; in fact,
+recruitment ofadditional motor units.[Keywords:
+theyperformmostof theirworkwhenextending the
+erectorspinae,fatigue,EMG,power spectrum]Spine
+upper body from flexed postures in which the muscles
+1995;20:149-159
+are lengthened considerably. All of these factors may
+cause the erector spinae to show atypical EMG changes
+during sustained fatiguing contractions.
+The back muscles normally act to protect the lumbar
+A further problem with assessing erector spinae fa-
+spine,particularly during forward bending movements2
+tigue from surface EMG is that the EMG techniques
+but their protective action may be impaired if they be-
+themselves have given conflicting results. Both the root
+mean square (RMS) and integrated EMG signals gener-
+From theComparative OrthopaedicResearchUnit,University ofBris-
+ally increase during sustained iometric contractions140,
+tol,Bristol,United Kingdom.
+36,43,44 but under certain circumstances, they may re-
+Supportedby theArthritis and Rheumatism Council of Great Britain
+and the Medical Research Council.
+Device status category: 1.
+using the RMS or integrated EMG signal is to analyze
+Accepted for publication July 27, 1994.
+the raw EMG signal using fast Fourier transforms to
+149
+
+===== PAGE 2 =====
+
+150Spine·Volume 20·Number 2·1995
+of pulsed electromagnetic waves that can be attached to the
+skin surface overlying the spinous processes of L1 and S1: the
+angle between source and sensor (Figure 1A) is then a good
+measure of lumbar curvature,and thisis sampled at60Hz and
+input to a microcomputer.1The range of lumbar flexion was
+established for each subject by measuring lumbar curvature in
+the erect standing (Figure 1A) and extreme toe-touching (Fig-
+ure 1B) positions. This enabled a given posture, and hence
+musclelength,tobe defined in terms of thefullrange of flexion
+of the lumbar spine, for example,“70% flexion."
+MaximumVoluntary Contractions (MVCs).Each sub-
+ject stood in a woodenframe with the front of the thighs
+resting against a cushioned crossbar andwith a strap fastened
+around the hips.While leaning forward in the frame, each
+subject pulled upward on a handlebar attached by a chain to
+a floor-mounted load cell(Figure 2). The handlebar was con-
+strained by the frame to move only in the vertical direction,
+a)
+b)
+and its height was adjusted so that the subject's lumbar spine
+was flexed by 70%, as measured by the Isotrak. The position
+Figure 1.The lsotrak measures the lumbar curvature between L1
+of the feet and the lever arms D and d (Figure 2) were recorded
+andS1in the sagittalplane.Therange of lumbar flexion is
+as described16so that the posture could be reproduced exactly
+determinedfromchangesinlumbarcurvaturebetweentheerect
+standing (A) and fully flexed (B) positions and is given by O。 -
+in subsequent tests. Subjects then pulled up with maximum
+force for 3.3 sec, while the output from the load cell was A-D
+muscle fatigues, the power spectrum is shifted to lower
+D
+frequencies,which are quantified bymeasuring the
+change in the mean or median frequency. Most studies
+report a decrease in mean and median frequency during
+found that the low frequency shift is more pronounced
+in the early stages of a contraction.6,8,39 This makes it
+difficult to obtain an unambiguous measure of “fa-
+tigue."
+This study investigates, in detail, the fatigue-related
+changes in the surface EMG signal from the erector
+spinae muscles. Changes in discrete frequency bands of
+the power spectrum were compared with changes in
+dian frequency. In this way, we hoped to explain some
+EM
+of the previous inconsistencies regardingEMGmeasure-
+ments of fatigue. Also, we aimed to identify the EMG
+parameters that afforded the most repeatable and linear
+indices offatigueunder differentloading conditions.
+Materials andMethods
+SubjectsParticipatingin theStudy.Fifteen menand twenty
+W
+women without histories of serious low back pain partici-
+pated. The average age was 30.7 years (SD 7.9, range: 19-43
+years). Average body mass for the men was 78.4 kg (SD 12.1,
+range: 53.0-95.5 kg) and for women was 57.9 kg (SD 13.0,
+range: 48.0-94.1 kg).
+Muscle Length and Spinal Posture.The length of the
+Figure 2. EMG activity of the erector spinae muscles was re-
+erector spinae muscles is largely determined by the curvature
+corded while each subject pulled upward ona floor-mounted load
+of thelumbar spinen thesagittalplane,so thiswasmeasured
+cellwith a constant force (W).The extensor moment EM gener-
+and controlled in all experiments,using the 3-Space Isotrak
+atedbythebackmuscleswas calculatedfromW,theupper body
+device (Polhemus).The Isotrak consists of a source and sensor
+weight (w),and the lever arms D and d.
+
+===== PAGE 3 =====
+
+Frequency Banding of Surface EMG·Dolan et al151
+converted at 60 Hz and input to a microcomputer.16(The
+Peakamplitude
+precise timing of this, and other tests,was chosen for conve-
+nience in data acquisition.) To avoid spurious high transient
+Medianfrequency
+forces resulting from jerking movements, the force data was
+averaged over 10 discrete intervals of 0.33s, and the maximum
+POWER
+of the 10 values was retained. The total extensor moment
+Total power=area under
+curve
+generatedby thebackmuscles was calculated from thelever
+arms D and d (Figure 2),body mass (w), and the force on the
+IGNAL
+load cell (w),16 and this was used as a measure of the maxi-
+mum force generated by the erector spinae. Between two and
+four repetitions were necessary to establish a consistent max-
+imum.The Isotrakwas used to check that subjects maintained
+the samepostureduringeachpull.
+Electromyography. The electrical activity of the erector spi-
+FREQUENCY (Hz)
+naemuscleswasmeasured usingdisposable surface electrodes
+(Biolect,UK) attached over the muscle belly on the left-hand
+Figure 3.The frequency analysis of the EMG signal resulted in a
+side at T10 and L3. The use of special skin preparation pads
+"power spectrum,which is a histogram of signalintensity plotted
+against frequency.The total power is the areaunder the curve,
+(Biolect,UK) ensured that skin resistance was always less than
+anditrepresents the overall sizeof the EMG signal atallfrequen-
+10 kohms; often it was less than 2 kohms.The location of
+cies.The median frequency is thatfrequency that splits the area
+electrodes was chosen to obtain EMG signals representative of
+under the curve into two equal halves.Thepeak amplitudeis the
+the main muscle mass of erector spinae at both lumbar and
+highest amplitude in the entire spectrum,and the frequency at
+thoracic levels.16 The raw EMG signal from each electrode
+which it occurs is the peak amplitude frequency.
+was filtered with a band-pass of 5-300 Hz, amplified, A-D
+converted at 1024 Hz, and stored on a microcomputer for
+subsequent analysis.
+Effect of Increasing Load and Duration.Nine subjects
+FrequencyAnalysisofEMGSignal.RawEMGdatawas
+continued the 60% MVC fatiguing contraction “to endur-
+analyzed in the frequency range 1-512 Hz using a fast Fourier
+ance,” that is, until they could no longer maintain the force
+transform algorithm acting on 1024 data points. These data
+above 95% of the target level. On a separate day,the same
+were recorded over a period of 1.0 sec to give a resolution of
+subjects also performed sustained contractions at 80%MVC
+1 Hz.Power density spectra were constructed for frequencies
+for 23 sec, or to endurance, whichever was the shorter. In this
+in the restricted range 5-300 Hz because preliminary tests
+case,the EMG signal was sampled for 1.0-sec periods,at the
+showed that most of the signal above 300Hz was noise, and
+start of the pull and at 2.4-sec intervals thereafter (2.4 sec was
+the minimum time required torecord and save theEMG data
+signalbelow5Hzwasmost susceptible to movement artifact.
+for each sampling period). These tests enabled us to examine
+the effects of increasing duration and of increasing contraction
+(twice the Nyquist frequency), and the accuracy of the fast
+forceon theEMGsignal.
+Fourier analysis was checked over a range of frequencies using
+a signal generator. The following power spectral parameters,
+Assessment of Repeatability. Ten subjects repeated the sub-
+defined in Figure 3,were calculated:median frequency,peak
+maximal test at 60%MVC approximately 1 hour after com-
+amplitude, peak amplitude frequency, and total power. The
+pleting the initial test. The electrodes were not removed be-
+electrical “power” was calculated in each of 10 frequency
+tween the tests and so the within-day repeatability obtained
+bands; the first band was 5-30 Hz; the remainder were 30-
+from these measurementsis an indication of thevariability of
+60 Hz, 60-90 Hz, and so on up to 300 Hz.The full analysis
+the EMG signal when the test conditions remain the same.Six
+was repeated using the square root of “power”(i.e., the am-
+of the ten subjects also repeated the test several days later. In
+plitude) at each frequency, to obtain an “amplitude spec-
+this case,the whole procedure was performed anew,including
+palpating the spine,attaching the electrodes and the 3-Space
+the highest and lowest frequency components of the EMG
+Isotrak,remeasuring the person’srange offlexion,andremea
+signal (see below).
+suring their MVC.The day-to-day repeatability estimates
+therefore include all the possible sources of variation that
+Fatiguing Isometric Contractions.Five minutes were al-
+would be encountered if the test were to be used in longitudi-
+lowed for recovery after the final MVC test.The subject then
+nal studies of subject performance.
+was repositioned exactly in the frame and pulled up on the
+handlebar for a period of 46 seconds,with a force that was
+Statistical Analysis.Most of theEMGchanges during sus-
+calculated to generate 60% of his or her previously measured
+tained contractions were approximately linear with time, so
+maximum extensor moment ("60%MVC").Electromyo-
+linear regression was used to calculate the initial value (the
+graphic activity was sampled for1.0-sec periods,at the start of
+intercept) and its rate of change with time (the gradient).To
+the pull and subsequently at 5.0-sec intervals. If the force
+standardize results between subjects, changes with time were
+differed by more than 5% from the target,then the test was
+evaluated from the regression line and expressed as a percent
+discontinued.
+of the initialvalue.Differences between initial andfinal values
+
+===== PAGE 4 =====
+
+152Spine·Volume 20·Number 2·1995
+Table1.InitialValuesofMedianFrequencyandTotalPowerinEachof theThreeFatigueTests
+Amplitude Spectrum
+Power Spectrum
+60%
+60%
+80%
+60%
+60%
+80%
+submax
+LOE
+submax
+submax
+LOE
+submax
+Site
+(n = 35)
+(6 = U)
+(6 = u)
+(n = 35)
+(n = 9)
+(n = 9)
+Median frequency (Hz)
+T
+68
+68
+69
+53
+53
+56
+L
+59
+59
+55
+40
+40
+39
+Totalpower (arbitrary units)
+T
+21,272
+21,343
+26,724
+3.6 × 106
+3.4 × 106
+6.3 × 106
+L
+20,303
+20,347
+26,239
+3.4 × 106
+2.9 × 106
+7.4 × 106
+Threefatiguetests are:1)60%maximumvoluntarycontraction(MVC)for46seconds(60%submax),2)60%MVCto thelimit ofendurance(60%LOE),and3)
+80%MvCfor 23 seconds(80% submax).Data are shown for the amplitude and power spectra from EMG recordings made at the the level of the10th thoracic
+(T) and third lumbar (L) vertebrae.
+were compared using a matched-pair Student t-test.Associa-
+indicates thatthechangesin thepower spectralparam-
+tions between EMG parameters and endurance time were
+eters remained constant throughout the 60%fatiguing
+evaluated using linear regression to calculate the Pearson
+contraction.
+product correlation coefficient.Reliability estimates for the
+The linearity of the changes with respect to time
+within-day and day-to-day repeated trials were evaluated us-
+during the sustained contractions was expressed by the
+ing a one-way analysis of variance withrepeatedmeasures that
+modulusofthecorrelationcoefficient(r);inmostcases,
+allowed calculation of the intraclass correlation coefficient.
+Significance was measured at the 5% level.
+Results
+ENDURANCETEST:6O%MVC
+FrequencySpectrumParameters
+The values of median frequency and total power at the
+Initialpower spectrum at T10
+start of the three tests are compared in Table 1. The
+800,000
+stronger muscle contractions required in the 80%MVC
+test increased total power compared with the 60%
+POWE
+600,000
+MVC tests, and this reached
+d significance atL3.The
+initial median frequency was similar in all three tests.
+The effect of a severe fatiguing contraction on the
+power spectrum is depicted in Figure 4; power at high
+frequencies decreased, and that at low frequencies in-
+creased. Individual subjects often showed unequal
+changes at T10 and L3, but there was no consistent
+tendency for the changes to be greater at one level than
+50
+100
+150
+200
+250
+300
+FREQUENCY(Hz)
+the other, and the averaged results (see below) showed
+no important differences between T10 and L3.
+Final power spectrum atT10
+Changes in the spectral parameters during the three
+fatigue tests are summarized inTable 2.In all cases,the
+800,000
+medianfrequency
+decreased and thepeak amplitude
+and total power increased; all of these changes were
+600,000
+significantly greater than zero. Changes in peak ampli-
+POWI
+tude frequency were small and inconsistent. In subjects
+who performed all of the tests, a matched-pair compar-
+ison showed that the rates of change in thespectral
+parameters with respect to time (the gradients) were
+200,000
+greater during the 80% submaximal test than the 60%
+submaximal test.These changes were significant for all
+parameters at L3 and for the median frequency at T10.
+50
+100
+150
+200
+250
+300
+However, there was no significant difference in the gra-
+FREQUENCY(Hz)
+dients between the 60% submaximal test and the 60%
+endurance test.This latter comparison was madein only
+course of an isometric contraction at 60%MvC,sustained to the
+seven of the nine subjects who performed the endurance
+limitofendurance.Attheendofthecontraction,poweratlow
+testsbecause two subjectsreached theirendurancelimits
+frequencies is increased markedly, and at high frequencies, is
+withinthe46secofthesubmaximaltest.However,it
+reduced slightly.
+
+===== PAGE 5 =====
+
+FrequencyBanding of SurfaceEMG·Dolan et al153
+Table 2. Changes in Spectral Parameters of the Surface EMG at the Level of the 10th Thoracic(T) and Third Lumbar
+(L) Vertebrae
+Amplitude Spectrum
+Power Spectrum
+60%
+60%
+80%
+60%
+60%
+80%
+submax
+LOE
+submax
+submax
+LOE
+submax
+Site
+(n = 35)
+(n = 9)
+(6 =u)
+(n = 35)
+(n = 9)
+(n =9)
+Median frequency
+T
+-10 (13)
+-25 (13)
+--20 (11)
+-11(11)
+-24 (15)
+-17 (13)
+L
+-10(10)
+-27(16)
+13 (8)
+-9(8)
+-23(16)
+-13 (4)
+Total power
+T
+32 (29)
+22 (28)
+20 (30)
+110 (137)
+190 (304)
+98(113)
+1
+30 (30)
+37 (48)
+28 (17)
+128 (115)
+142 (106)
+111(102)
+Peak amplitude
+T
+50 (55)
+73(99)
+41 (43)
+150 (232)
+146 (153)
+128 (143)
+L
+49 (39)
+96 (39)
+41 (41)
+183(259)
+249 (189)
+136 (144)
+Peakamplitude frequency
+T
+0(37)
+-12 (42)
+13 (27)
+0 (37)
+-12(42)
+-13 (27)
+L
+2 (35)
+-16 (31)
+17 (15)
+2(35)
+-16 (31)
+-17(15)
+Valuesshownarethemean(standarddeviation)percentagechangefrominitialvaluesduringthreeloadingregimes:1)60%maximumvoluntary contraction
+{MVC)for 46 seconds(60% submax),2)60% MVC to thelimit ofendurance (60%LOE).and3)80%MVCfor23seconds (80% submax).Data were calculated
+fromamplitude andpowerspectra.
+r was between 0.5-0.7, but lower values were obtained
+PredictorsofEnduranceTime
+for the peak amplitude frequency (Table 3). In the case
+The mean time to endurance.in the 60% (endurance)
+of the median frequency, r was considerably higher for
+test was 91 sec (SD 43 sec, range: 40-170 sec). The
+the amplitude spectra than the power spectra.
+gradients of the linear regression lines describing the
+change of each spectral parameter with respect to time
+Frequency Bands
+Changes in the ten frequency bands of the amplitude
+showed no correlation with endurance time. This was
+true for both the amplitude and power spectrum data,
+and power spectra during the three tests are compared
+in Figures 5A and B respectively. During the 60% sub-
+and for both the 60% submaximal test and the 60%
+maximal test,the EMG signal increased slightly at high
+endurance test. However, the rate of increase in the
+frequencies and markedly at lowfrequencies.However,
+signal in the first frequency band at T10 in the 60%
+the 60%endurance test caused the high frequency signal
+submaximal test was a significant predictor of endur-
+to decrease, and low frequency signal to increase dra-
+ance time when the test was continued to the endurance
+matically, especially in the two lowest bands (5-30 Hz
+limit (r = 0.52).
+and 30-60 Hz).Changes in the 80% submaximal test
+RepeatabilityoftheMeasurements
+wereintermediatebetween theother two tests.The lin-
+The intraclass correlation coeffcients for within-day
+earity of the change in each band is given by the mod-
+and day-to-day repeated trials are shown for the ampli-
+ulus of the correlation coefficient r in Table 4. This was
+tude spectrum parameters in Table 5. With the excep-
+highest in the lowest frequency band, where it was be-
+tion of the peak amplitude frequency, initial values for
+tween0.65and0.81.
+all parameters, indicated by the intercept of the linear
+Three Loading Regimes
+Amplitude Spectrum
+Power Spectrum
+60%
+%09
+80%
+60%
+60%
+80%
+submax
+LOE
+submax
+submax
+LOE
+submax
+Site
+(n =35)
+(n = 9)
+(6 = u)
+(n = 35)
+(6 = u)
+(6 = u)
+Median frequency
+T
+0.63
+0.82
+0.81
+0.47
+0.61
+0.60
+L
+0.59
+0.73
+0.65
+0.38
+0.56
+0.52
+Total power
+T
+0.66
+0.50
+0.55
+0.70
+0.64
+0.57
+L
+0.66
+0.57
+0.55
+0.68
+0.62
+0.53
+Peak amplitude
+T
+0.55
+0.60
+0.49
+0.55
+0.57
+0.49
+L
+0.61
+0.62
+0.50
+0.58
+0.61
+0.50
+Peak amplitude frequency
+T
+0.31
+0.37
+0.41
+0.31
+0.37
+0.41
+L
+0.31
+0.34
+0.45
+0.31
+0.34
+0.45
+SeeTable2for definition of loading regimes.LOE=limit of endurance.T= thoracic.L= lumbar.
+
+===== PAGE 6 =====
+
+154S
+Spine·Volume20·Number2·1995
+A)
+AMPLITUDESPECTRA
+B)
+POWER SPECTRA
+740
+150
+Submaximal test:60%MVC
+Submaximal test:60% MVC
+n=35
+640
+n=35
+540
+100
+CHANGE
+T10
+國T10
+L3
+340
+L3
+240
+140
+40
+6
+7
+8
+10
+FREQUENCY BAND
+FREQUENCYBAND
+740
+150
+Endurance test:60%MVC
+Endurance test:60% MVC
+n=9
+640
+6=U
+540
+00
+440
+T10
+圆T10
+L3
+H3
+L3
+140
+40
+50
+60
+10
+2
+10
+FREQUENCY BAND
+FREQUENCY BAND
+740
+150
+Submaximal'test:80%MvC
+Submaximaltest:80%MvC
+6=u
+640
+6=u
+100
+540
+CHANGE
+CHANGE
+440
+T10
+T10
+口
+L3
+L3
+240
+140
+40
+2
+7
+10
+10
+FREQUENCY BAND
+FREQUENCY BAND
+Figure 5.The percentage change in the EMG signal during the sustained isometric contractions is shown for each of tendiscrete
+frequency bands,ranging fromband1(5-30Hz)up to band10(270-300Hz).Results are compared forthe three different fatigue tests and
+arecalculatedseparatelyfrom the amplitudespectra(A)and thepower spectra (B).
+regression line, showed good reproducibility (R ≥ 0.76
+Discussion
+in all cases),and therewaslittledifferencebetween the
+Surface EMG signals are inherently “noisy,” and the
+within-day and day-to-day values. However,the
+effectsofnoisewillbeconsideredbeforetheresultsare
+changes in the parameters with respect to time (the
+discussed. Reducing skin resistance below 10 kohms,
+gradients) were more variable.In this case, the increases
+and often below 2 kohms, increased the signal-to-noise
+insignalinthefirsttwofrequencybandsandinthetotal
+ratio to the extent that rapidflicking of the EMG leads
+power proved to be the most reproducible changes in
+the within-day trials.In the day-to-day trials, only the
+generated a signal less than 10% of that obtained from
+signal in the first twobands achieved R values that were
+an MVC. During the static contractions in this study,
+always above 0.8. The repeatability of power spectrum
+theartifactwouldbemuchlessthan this.Movement
+parameters is not shown in Table 5; in most cases, the R
+artifacts occur at low frequencies, and for this reason,
+values were slightly lower thanfor the amplitude spec-
+the high-pass filter was set at 5 Hz, and frequencies
+trum.
+below this were excluded from the analysis.It has been
+
+===== PAGE 7 =====
+
+Frequency Banding of Surface EMG·Dolan et al 155
+Table 4. Mean Correlation Coefficients (r) for the Change in EMG Signal in Each Frequency Band With Respect to
+Time During the Three Loading Regimes
+Amplitude Spectrum
+Power Spectrum
+60%
+60%
+80%
+60%
+60%
+80%
+Frequency
+submax
+LOE
+submax
+submax
+LOE
+xewqns
+Band (Hz)
+Site
+(n = 35)
+(n = 9)
+(6 =u)
+(n =35)
+(n = 9)
+(n = 9)
+5-30
+T
+0.70
+0.81
+0.80
+0.67
+0.75
+0.75
+L
+0.68
+0.74
+0.75
+0.65
+0.70
+0.70
+30-60
+T
+0.63
+0.55
+0.59
+0.63
+0.55
+0.60
+L
+0.58
+0.44
+0.43
+0.59
+0.46
+0.45
+60-90
+T
+0.52
+0.46
+0.52
+0.51
+0.43
+0.50
+L
+0.54
+0.57
+0.53
+0.54
+0.55
+0.53
+90-120
+T
+0.49
+0.54
+0.46
+0.49
+0.51
+0.41
+L
+0.47
+0.49
+0.41
+0.46
+0.44
+0.43
+120150
+T
+0.45
+0.43
+0.65
+0.44
+0.44
+0.66
+L
+0.39
+0.59
+0.23
+0.40
+0.56
+0.27
+150-180
+T
+0.43
+0.49
+0.69
+0.43
+0.51
+0.67
+L
+0.40
+0.58
+0.24
+0.41
+0.58
+0.27
+180-210
+T
+0.44
+0.47
+0.57
+0.43
+0.47
+0.56
+L
+0.45
+0.64
+0.31
+0.45
+0.63
+0.34
+210-240
+T
+0.46
+0.39
+0.60
+0.46
+0.40
+0.60
+L
+0.46
+0.59
+0.28
+0.46
+0.59
+0.27
+240270
+T
+0.45
+0.36
+0.44
+0.45
+0.34
+0.43
+L
+0.45
+0.61
+0.35
+0.46
+0.61
+0.38
+270-300
+T
+0.46
+0.37
+0.46
+0.46
+0.37
+0.44
+0.35
+0.61
+0.26
+0.37
+0.61
+0.25
+SeeTable2for definition of loading regimes.LOE= limit of endurance.T= thoracic.L= lumbar,
+suggested that all frequencies below 20 Hz be excluded
+could then be attributed to the ECG rather than muscle
+if movement artifact is to be eliminated entirely,but this
+activity.TheECGsignalwasrecordedinthismanner
+would be unacceptable for the erector spinae,which
+before and after the isometric contractions and was then
+generate a substantial signal at low frequencies (Figure
+analyzed using fast fourier transforms to determine its
+4).The signal in the frequency band 5-30Hzisunlikely
+size in each of the frequency bands.The ECG artifact
+toincludemuchnoisebecauseitwasthemostrepeat-
+accounted for less than 10% of the initial signal in the
+able of all the parameters studied (Table 5) and also
+5-30 Hz band and altered little during fatiguing con-
+showed the most linear changes with time (Table 4).We
+tractions. Hence, changes in the lowest frequency band
+have found previously that our T10 electrodes pick up
+appear to reflect real fatigue-induced changes in the
+an ECG artifact, most of it in the frequency range of
+erector spinae muscles.A high frequency cut-off of 300
+5-30 Hz.We assessed the size of the ECG artifact in five
+Hz was used because the signal above this was small and
+subjects by positioning each of them in the test position
+varied little during the contractions.Otherinvestigators
+(70% flexion) but with their upper body supported so
+havereportedfewsignalsabove300Hzintheerector
+that the erector spinae was silent.The remaining signal
+spinae.2
+This may reflect the predominance of slow
+of Change With Respect to Time (gradient, G) when the 60% Submaximal Test Was Repeated on the Same Day After
+1 Hour (n = 10) and on Separate Days (n = 6)
+Within Day
+Day to Day
+T10
+L3
+T10
+L3
+G
+1
+G
+1
+G
+1
+G
+Median frequency
+0.94
+0.92
+0.97
+0.50
+0.90
+0.70
+0.85
+-3.4
+Total power
+0.99
+0.93
+0.92
+0.99
+0.94
+0.50
+0.88
+0.84
+Peak amplitude
+0.97
+0.88
+0.76
+0.68
+0.94
+0.73
+0.92
+0.84
+Peak amplitudefrequency
+0.37
+0.05
+-0.27
+1.2
+2.89
+6.90
+0.37
+0.31
+5-30Hz
+0.90
+0.92
+0.93
+0.96
+0.98
+0.90
+0.97
+0.91
+30-60 Hz
+0.98
+0.86
+0.89
+0.92
+0.94
+0.82
+0.91
+0.93
+Values of G andI were calculated bylinearregression.
+
+===== PAGE 8 =====
+
+156Spine·Volume20·Number2·1995
+twitch (Type I) fibers in these muscles,as well as the
+higher contraction force (80% MVC), but this may have
+small size of the fast twitch (Type II) fbers, which have
+been because they were reduced already,by virtue of the
+slower conduction velocities than the larger Type II
+increased musclelength.The rate of decrease in median
+fibers found in other muscles.11
+frequencyduring sustained contractionswas related to
+Our subjects were tested in 70%lumbar flexion be-
+contractile force in the present and previous experi-
+cause the lumbar spine is flexed by 70-100% during
+ments,37 and this is a consistent finding provided that
+everyday bending_and lifting activities,even when the
+the work load is above approximately 30% MVC. The
+totalpower changesinthis studywere alsodependent
+flexion)was chosen tominimize tension in theinterver-
+on load. Both the initial values and the rate of increase
+tebral ligaments and lumbodorsal fascia and ensure that
+were significantly higher in the 80% submaximal test
+most of the extensor moment would be generated by the
+compared with the 60% submaximal test, in agreement
+erector spinae muscles, both at T10 and L3.19 However,
+with earlier observations of the RMS and integrated
+EMG changes in some subjects could be much more
+marked at one level than the other, even in 70% flexion,
+therate of changeof the spectral parameters and endur-
+suggesting that passive tissues might become involved at
+ance time in this study may also be because of factors
+a local level.This highlights the importance of recording
+associated with the muscle length.The already consid-
+at more than one spinal level when assessing fatigue in
+erable compression of the spectrum tolow frequencies
+backmuscles.
+at the start of the test may cause the fatigue-induced
+Most investigators have studied subjects in lordotic
+shift to be less marked. The low percentage decrease in
+postures, where the erector spinae are in a shortened
+median frequency at the endurance limit seems to sup-
+position compared with thelengthened position
+port this suggestion.We also used a high relative load at
+adopted during lifting.Lengthened muscles have a re-
+a muscle length where the MVC would also have been
+duced EMG signal per unit force3,34 and exhibit a shift
+high compared with erect postures, so the ability of the
+in the power spectrum to lower frequencies compared
+subjectstoreachtheir true endurancelimitmayhave
+with when they are shortened.36 This shift cannot be
+beenmoredependent onmotivationin thisparticular
+explained fully by an increase in the interelectrode dis-
+test.
+tance6,36 and must be due predominantly to some other
+The detailed “banding”analysis carried out in this
+factor.These findings may explain why our measure-
+study enabled us to identify repeatable and linear EMG
+ments of initial median frequency of the power spectrum
+indices of the changes that occur in fatiguing muscles. In
+(39--56 Hz: Table 1) were below_those reported previ-
+previous attempts to band the power spectrum, two or
+three frequency bands were chosen to represent the high
+Despite this dependence of the EMG signal on muscle
+and low frequency components of the signal,3,s,33 and
+length, comparisons can be drawn with previous work.
+the high/low frequency ratio reflected fatigue-induced
+In this experiment,increasing the force of contraction
+changes in the muscle. However, other studies found
+from60%to80%MVChadlittleeffect on the initial
+that arbitrarily chosen frequency ratios were less reliable
+median frequency,whereas several studies on the erec-
+than the median frequency as an index of fatigue.21,38 In
+tor spinae have shown median frequency to decrease
+the present study, the signal in the frequency range 5-
+with increasing force of contraction.37,39On the other
+30Hz showed the mostconsistentchangeswithfatigue
+hand,previousstudies onlimbmuscleshave shown the
+at all loads and all duration times and alsodemon-
+opposite trend9,12 or found no dependence on load.6.,9
+strated the most linear change with respect to time (Ta-
+Thesedisparateresultsmayreflectdifferentmethodsby
+ble 4).As a result,the rate ofincreasein the signal in this
+which musclesincrease their force of contraction; those
+frequency band during the 60% submaximal test was
+with small numbers of motor units, such as the first
+the only parameter that was a significant predictor of
+dorsal interosseus or the adductor pollicis,increase
+endurance timein those subjects whocontinued totheir
+endurance limit.Thereason why thegradient in the
+this has little effect on median frequency.42 In contrast,
+endurancetestwasnotsimilarly correlated toendurance
+large muscles such as the biceps brachii and the deltoid
+time is not clear.Subtle changes in the gradient as the
+increasetheirforceofcontractionmainlybymotorunit
+endurance limit was approached may have been respon-
+recruitment.15,6,40 According to the size principle2 th
+sible,in which case the selection of an appropriate con-
+largerdiameterfasttwitchfiberswillberecruited asthe
+traction timeforsubmaximal testingissomethingthat
+contraction force increases, and this will cause the me-
+would have to be considered in future investigations.
+dian frequency to increase. Roy et al37 have suggested
+Median frequency, peak amplitude, and total power
+that the opposite trend occurs in the erector spinae
+alsochangedsignificantlyduringeachofthethreefa-
+because in thesemuscles theTypeIIfibers that are
+tigue tests, but the changes were smaller and less con-
+recruited athigherforcelevels are smallerindiameter
+sistent than those of the signal in the5-30 Hzfrequency
+than the Type I fbers.5,35,41 In the present study, the
+band, and they were less repeatable on a day-to-day
+initialmedianfrequencieswerenotreducedatthe
+basis.The linearity of the decrease in median frequency
+
+===== PAGE 9 =====
+
+Frequency Banding of Surface EMG·Dolan et al 157
+with contraction time was improved if the amplitude
+Comparing theEMGchangesinresponse todifferent
+rather than the power spectrum data were considered
+loading conditions gives some clues about the metabolic
+(Table 3).This may be because the power spectrum of
+processes involved in fatigue.Several investigators have
+the erector spinae is dominated by the high amplitude
+reported little or no_change in the amplitude of the
+signals at low-to-middle frequencies, whereas the am-
+surface EMG signal13,39 during isometric contractions
+plitude spectrum givesmore prominence to small signals
+less than30%MVC.Under theseconditions blood flow
+at the lowest and highestfrequencies.Hence,the power
+to the muscle may be increased32 and accumulation of
+spectrum will be less sensitive than the amplitude spec-
+metabolic end-productswillbeminimal.Athigherlevels
+trum to fatigue-induced shifts from high to lowfrequen-
+offorce,isometric contractions increase the amplitude
+cies.
+of the surface EMG14,43,44 and reduce its median fre-
+Thedetailed frequency banding of this study explains
+the previously observed changes in median frequency
+and totalpower duringsustainedfatiguing contractions.
+to accumulate,and muscle pH to decrease.Whether
+During all tests, the low frequency signal increased
+these changes becomelimiting will depend on the level
+throughout the contraction (Figure 5A,B),and this no
+of contractionbecause thisdetermines the amount of
+doubtexplainswhy themedianfrequencydecreases.
+occlusion as well as therate of substrate metabolism.
+The middle-to-high frequency signal appeared to show a
+The lack of EMG changes at loads less than 30%MVC
+biphasic response: an initial increase, followed by a
+suggest that,under these conditions, contractions may
+subsequent decrease as the endurance limit was ap-
+belimited by centralfactors such asmotivation orpain;
+proached (Figure 5A,B).The initial increase is evidently
+at higher loads, changing metabolic conditions within
+too slight to overcome the increase at low frequencies
+the muscleprobably limit performance.The present re
+and cause the median frequency to increase, but to-
+sults suggest that during submaximal contractions of the
+gether with the low-frequency increase,it would con-
+erector spinae, the metabolic effects of fatigue may be
+tribute toamarked overall increaseintotalpower.
+counteracted ordelayedby therecruitment of additional
+However, if the endurance limit was approached, the
+motor units.The beneficial effects of this are likely to be
+diminishing signal at middle-to-highfrequencies would
+greatest during the initial stages of low to moderate
+contractions when the potential for recruitment will be
+counteractthe continuingincreaseatlowfrequenciesso
+that total power could increase more slowly, level off, or
+at its highest. Such a compensatory mechanism has not
+been demonstrated before,and it may reflect a func-
+evendecrease.Such aneffect was observed in some
+individuals in the present study, and it could explain
+tional requirement of the back muscles to maintain
+why changes in the RMS and integrated EMG during
+static“postural"contractions forlong periods.
+contractions maintained tothe endurance limit are
+sometimes greater during the early part of the contrac-
+Conclusions
+tion.14,39
+1.The surface EMG signal offers reliable indices of
+Increases in the low frequency EMG signal during a
+fatigue-induced changes in the erector spinae muscles
+sustainedisometriccontractionhavebeen attributedto
+during sustained isometric contractions.
+a slowingoftheconductionvelocityin theactivefibers
+2. Of these indices, the signal in the frequency band
+andanincreasedduration of themotor unit action
+5-30 Hz showed the most consistent, repeatable and
+linear changeswithtime.
+action potentials has also been proposed as a contrib-
+3. Changes can vary with electrode location, and both
+uting factor.8,43 As far as the authors are aware, in-
+thoracic and lumbar portions of the erector spinae
+creases in the highfrequencyEMG signal have not been
+should be monitored.
+reported previously; they suggest that some recruitment
+4. Increases in the middle-to-high frequency component
+of additional motor units occurs during the initial stages
+of the EMG signal suggest that motor unit recruitment
+of a sustained submaximal isometric contraction. An
+may occur during the early stages of a sustained sub-
+alternative explanation,that somefibers increase their
+maximal isometric contraction. This may be a compen-
+firing rate, is unlikely to be applicable to a large muscle
+satory mechanism to delay the onset of fatigue.
+grouplike the erector spinae,for thereasons discussed
+earlier. Recruitment of additional motor units may be
+References
+accompaniedby a slowing of conduction velocity and/or
+firing rate in those fibers that are already active,which
+1.Adams MA,Dolan P.A technique for quantifying bending
+would contribute to the increased signal observed in the
+moment acting on the lumbar spine in-vivo.JBiomech 1991;
+low frequency bands.As the contraction continues, the
+24:117-126.
+2.Adams MA,Hutton WC.Has the lumbar spine a margin
+latter effect probably will predominate, and this would
+of safety in forward bending? Clin Biomech 1986;1:3-6.
+explain why the signal in the high frequency bands
+3.Andersson GBJ, Herberts P, Ortengren R. Myoelectric
+eventually decreases (Figure 5A, B).
+back muscle activity in standardized lifting postures. In: Komi
+
+===== PAGE 10 =====
+
+158Spine·Volume20·Number2·1995
+PV,editor.International Series onBiomechanicsVolume 1A.
+22. Henneman E. Organization of the motoneuron pool: the
+BiomechanicsV-A.UniversityParkPress,1976;520-529.
+size principle.In:Mountcastle VA,editor. Medical Physiol-
+4.Arendt-Nielsen L,Mills KR. The relationship between
+ogy, 14th Edition. St Louis: CV Mosby Company, 1980;1:
+mean powerfrequency of the EMG spectrum and muscle fibre
+732.
+conduction velocity.Electroencephal Clin Neurophysiol 1985;
+23.HumphreysPW,LindAR.Thebloodflow throughactive
+60:130-134.
+and inactivemuscles of the forearm during sustained hand grip
+5.BagnallKM,Ford DM,McFaddenKD,GreenhillBJ,Raso
+contractions.JPhysiol 1963;166:120-135.
+VJ. The histochemical composition of human vertebral mus-
+24. Joseph J, McColl J. Electromyography of muscles of pos-
+cle.Spine 1984;9:470-473.
+ture: posterior vertebral muscles in males.J Physiol 1961;157:
+6.Bazzy AR, Korten JB,Haddad GG.Increase in electro-
+33-37.
+myogram low-frequency power in non-fatigued contracting
+25.Kranz H, Williams AM, Cassell J, Caddy DJ, Silberstein
+skeletal muscle.J Appl Physiol 1986;61:1012-1017.
+RB.Factors determining the frequency content of the electro-
+7.Biedermann HJ, Shanks GL,Forrest WJ,Inglis J.Power
+myogram. J Appl Physiol 1983;55:392-399.
+spectrum analysis of electromyographic activity.Discrimina-
+26.Kukulka CG,Clamann HP. Comparison of the recruit-
+tors in the differential assessment of patients with chronic low
+ment and discharge properties of motor units in human bra-
+back pain. Spine 1991;16:1179-1184.
+chial biceps and adductor pollicis during isometric contrac-
+8.Bigland-Ritchie B,Donovan EF,Roussos CS.Conduction
+tion.BrainRes 1981;219:44-55.
+velocity and EMG power spectrum changes infatigue of sus-
+27.Lafortune DR,Norman RW.EMG power spectra during
+tained maximal efforts.J Appl Physiol 1981;51:1300-1305.
+lifting.Proceedings of the 6th Meeting of the European Society
+9.Bilodeau M,Arsenault AB,Gravel D,Bourbonnais D.The
+of Biomechanics,Bristol,U.K., September 1988.
+influence of anincrease inthelevel of force on theEMGpower
+28.Lindstrom L, Magnusson R, Petersen I. Muscular fatigue
+spectrum of elbow extensors. Euro J Appl Physiol 1990;61:
+and action potential conductionvelocity changes studiedwith
+461--466.
+frequency analysis of EMG signals.Electromyography 1970;
+10.Bogduk N,Twomey LT. Clinical anatomy of the lumbar
+10:341-356.
+spine. U. K: Churchill Livingstone, 1991:83-120.
+29.Mayer TG, Kondraske G, Mooney V, Carmichael TW,
+11.Boon K,Hermens H,Van't Westeinde C, Sollie G,Wall-
+Butsch R.Lumbarmyoelectric spectral analysisfor endurance
+inga-deJongeW.The boundary conditions for measurement
+assessment.A comparison of normals with deconditioned pa-
+of the conduction velocity ofmucslefibers with surface EMG.
+tients.Spine1989;14:986--991.
+Electroencephal ClinNeurophysiol 1983;56:S49.
+30. McGill SM, Norman RW.Effects of an anatomically de-
+12.Broman H, Bilotto G, De Luca CJ. Myoelectric signal
+tailed erector spinae model on L4/L5 disc compression and
+conduction velocity and spectral parameters:influence of force
+shear.JBiomech1987;20:591-600.
+andtime.JApplPhysiol1985;58:1428-1437.
+31.Moritani T, Muro M, Nagata A. Intramuscular and sur-
+13. Chapman AE, Troup JDG.Prolonged activity of lumbar
+face electromyogram changes during muscle fatigue. J Appl
+erectores spinae:an electromyographicanddynamometric
+Physiol 1986;60:1179-1185.
+study of the effect of training.AnnPhys Med 1970;10:262--
+32.Mortimer JT,Kerstein MD,Magnusson R,Petersen 1.
+269.
+Muscle blood flow in the human biceps as a function of
+14.Cooper RG,Stokes MJ, Sweet C, Taylor RJ,Jayson MIV.
+developed muscle force.Arch Surg 1971;103:376-377.
+Increased central drive during fatiguing contractions of the
+33. Moxham J, Edwards RHT, Aubier M, De Troyer A,
+paraspinal muscles in patients with chronic low back pain.
+Farkas G,Macklem PT,Roussos C. Changes in EMG power
+Spine 1993;18:610-616.
+spectrum (high-to-low ratio) with force fatigue in humans.
+15. De Luca CJ, Le Fever RS, McCue MP, Xenakis AP. Be-
+J ApplPhysiol 1982;53:1094-1099.
+haviour of human motor units in different muscles during
+34. Petrofsky JS, Lind AR.Frequency analysis of the surface
+linearly varying contractions. J Physiol 1982;329:113-128.
+electromyogram during sustained isometric contractions. Eur J
+16.Dolan P,Adams MA. The relationship between EMG
+ApplPhysiol1980;43:173-182.
+activity and extensormoment generationin the erector spinae
+35.Polgar J,Johnson MA,Weightman D,Appleton D.Data
+muscles during bending and lifting activities.J Biomech 1993;
+on fibre size in thirty-six human muscles.J Neurol Sci 1973;
+26:513-522.
+19:307-318.
+17. Dolan P,Adams MA,Hutton WC.Commonly adopted
+36.Rosenburg R, Seidel H.Electromyography of lumbar erec-
+postures and their effect on the lumbar spine.Spine 1988;13:
+tor spinae muscles-influence of posture, interelectrode dis-
+197-201.
+tance, strength and fatigue.Euro J Appl Physiol 1989;59:
+18.Dolan P,Earley M,Adams MA.Bending and compressive
+104-114.
+stresses acting on thelumbar spine during lifting activities.J
+37.Roy SH, De Luca CJ, Casavant DA.Lumbar muscle fa-
+Biomech 1994;27:1237-48.
+tigue and chronic lower back pain.Spine 1989;14:992-1001.
+19.DolanP,MannionAF,Adams MA.Passive tissues help the
+38.Schweitzer TW,Fitzgerald JW,BowdenJA,Lynne-Davies
+back muscles to generate extensor moments during lifting.
+P. Spectral analysis of human inspiratory diaphragmatic elec-
+J Biomech 1994;27:1077-1085.
+tromyograms.JAppl Physiol 1979;46:152-165.
+20. Edwards RG, Lippold OCJ. The relation between force
+39.Seidel H, Beyer H,Brauer D.Electromyographic evalua-
+tion of back muscle fatigue with repeated sustained contrac-
+1956;132:677-681.
+tions of different strength. EuroJ Appl Physiol 1987;56:592-
+21. Hary D, Belman MJ, Propst J, Lewis S. A statistical anal-
+602.
+ysis of the spectral moments used in EMG tests of endurance.
+40. Seki K, Miyazaki Y, Waternabe M, Nagata A, Narusawa
+J Appl Physioi 1982;53:779-783.
+M. Surface electromyogram spectral characterization and mo-
+
+===== PAGE 11 =====
+
+Frequency Banding of Surface EMG· Dolan et al 159
+tor unit activity during voluntary ramp contraction in men.
+the electromyogram during fatiguing activity in the muscles of
+Euro J Appl Physiol 1991;63:165-172.
+the spine and hips: the analysis of postural stress. Electro-
+41. Sirca A,Kostevc V. The fibre type composition of thoracic
+myogr Clin Neurophysiol 1972;12:347-365.
+and lumbar paravertebral muscles in man.J Anat 1985;141:
+131-137.
+42. Solomonow M, Baten C, Smit J, Baratta R, Hermens H,
+Addressreprintrequeststo
+D'Ambrosia R, Shoji H. Electromyogram power spectra fre-
+quencies associated withmotor unit recruitment strategies.
+P. Dolan, PhD
+ComparativeOrthopaedicResearchUnit
+J Appl Physiol 1990;68:1177-1185.
+43.Stulen FB, De Luca CJ.The relation between the myoelec-
+Department ofAnatomy
+tric signal and physiological properties of constant-force iso-
+University ofBristol
+metric contractions.Electroencephal ClinNeurophysiol 1978;
+Southwell Street
+45:681-698.
+BristolBS28EJ,UnitedKingdom
+44. Troup JDG, Chapman AE. Changes in the waveform of

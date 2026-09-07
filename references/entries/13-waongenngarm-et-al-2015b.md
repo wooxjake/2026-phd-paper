@@ -28,6 +28,7 @@
    > "The EMG signal was sampled at 1,000 Hz band pass-filtered between 20 and 450 Hz."
 
 3. [introduce_copilot.md - 설문과 주관적 지표](../../introduce_copilot.md#초안-설문과-주관적-지표)
+
    > "The participant indicated the level of discomfort at the neck, shoulder, upper back, low back, hip/thigh, and knee based on a scale of 0–10 (where 0 denotes no discomfort and 10 denotes extreme discomfort)."
 
 4. [introduce.md - 앉은 자세 유지 조건](../../introduce.md#앉은-자세-유지-조건)
@@ -45,3 +46,7 @@
 6. [introduce.md - 설문과 주관적 지표](../../introduce.md#설문과-주관적-지표)
 
    > "The participant indicated the level of discomfort at the neck, shoulder, upper back, low back, hip/thigh, and knee based on a scale of 0–10 (where 0 denotes no discomfort and 10 denotes extreme discomfort)."
+
+7. [introduce.md#L59](../../introduce.md#L59)
+
+   > "We retrieved every 10-minute block of EMG data from the 60-minute sitting period (at 0 e10, 10 e20, 20 e30, 30 e40, 40 e50, and 50e60 minutes) for analysis."

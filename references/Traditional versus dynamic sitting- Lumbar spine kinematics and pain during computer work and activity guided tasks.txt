@@ -1,0 +1,1018 @@
+===== PAGE 1 =====
+
+Applied Ergonomics 119 (2024) 104310
+Available online 21 May 2024
+0003-6870/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/).
+Traditional versus dynamic sitting: Lumbar spine kinematics and pain 
+during computer work and activity guided tasks 
+Jessa M. Davidson , Jackie D. Zehr , Paolo B. Dominelli , Jack P. Callaghan
+* 
+Department of Kinesiology and Health Sciences, University of Waterloo, Waterloo, Ontario, Canada   
+ARTICLE INFO  
+Keywords: 
+Active sitting 
+Dynamic seat pan 
+Low back pain 
+ABSTRACT  
+Dynamic sitting may mitigate low back pain during prolonged seated work. The current study compared pelvis 
+and lumbar spine kinematics, pain, and work productivity, in traditional and dynamic sitting. Sixteen partici -
+pants completed three 20-min blocks of computer work and activity guided tasks in a traditional office chair or 
+backless and multiaxial rotating seat pan while kinematics were measured from accelerometers on the low back. 
+Pain ratings were recorded on a visual analogue scale every 10 min. Similar pelvis and lumbar kinematics 
+emerged when performing computer work in traditional and dynamic sitting. Pelvis and lumbar sagittal and 
+frontal plane shifts and fidgets were largest for dynamic sitting in the activity guided tasks. Buttocks pain was 
+higher in dynamic sitting, but low back pain and work productivity were unaffected. Dynamic sitting increased 
+spine movement during activity guided tasks, without negatively impacting lumbar kinematics, low back pain, or 
+productivity during seated computer work.   
+1. Introduction 
+An association between prolonged sitting and low back pain has been 
+observed in both epidemiological ( da Silva et al., 2019 ; Gupta et al., 
+2015 ; Hanna et al., 2019 ; Levangie, 1999 ; Lis et al., 2007 ; Mendelek 
+et al., 2011 ; Park et al., 2018 ; Thorbj ¨ornsson et al., 2000 ; Van Vuuren 
+et al., 2005 ) and laboratory research ( De Carvalho et al., 2020 ; O ’ Keeffe 
+et al., 2013 ; O ’ Sullivan et al., 2013 ; O ’ Sullivan et al., 2006 ; Schinkel-Ivy 
+et al., 2013 ; Sheahan et al., 2016 ; Vergara and Page, 2002 ; Williams 
+et al., 1991 ). Sustained lumbar flexion and decreases in spine movement 
+relative to other activities of daily living are potential mechanisms for 
+sitting-induced low back pain. Sitting situates the spine into flexion, 
+typically between 30% and 80% of the maximum voluntarily lumbar 
+flexion angle (%MaxFlex) ( Beach et al., 2005 ; Callaghan and McGill, 
+2001 ; Dunk and Callaghan, 2005 ; Greene et al., 2019 ). Lumbar flexion 
+may lead to the perception of pain as it alters the spine loading envi -
+ronment such that the posterior passive tissues of the spine are engaged 
+( Callaghan and McGill, 2001) and a greater proportion of the 
+compressive load is supported by the intervertebral disc ( Adams et al., 
+1994 ; Adams and Hutton, 1985 ; 1980 ; Hedman and Fernie, 1997 ; 
+Nachemson, 1966 ). A relative decrease in spine movement while sitting 
+may also contribute to the perception of pain as spine movement is 
+necessary to redistribute loads, fluid, and nutrients throughout the joint 
+( Adams and Hutton, 1985 ; Huang et al., 2014 ; Nachemson, 1966 ; Wilder 
+et al., 1988 ; Wilke et al., 1999 ). Specifically, those with low back pain 
+often exhibit larger and/or more frequent micromovements, indicating 
+that increases in spine movement may be a mechanism to alleviate or 
+combat low back pain ( De Carvalho and Callaghan, 2023a ; Dunk and 
+Callaghan, 2010 ; Vergara and Page, 2002 ). Taken together, in -
+terventions which decrease lumbar flexion and promote movement of 
+the lumbar spine in sitting may assist in reducing the risk of low back 
+pain with sitting. 
+Multiple interventions targeting reduced spine flexion and/or 
+increased spine movement in prolonged sitting have been proposed. 
+Recent popular interventions include whole-body movement or hybrid 
+seating such as taking standing or walking breaks to reduce the time 
+spent sitting. A systematic review noted decreases in worker pain when 
+utilizing a sit-stand workstation compared to sitting only ( Karakolis and 
+Callaghan, 2014 ). Unfortunately, when sit-stand workstations are 
+implemented in the workplace, individuals often do not stand enough, 
+such that sitting time is not significantly reduced ( Graves et al., 2015 ; 
+Pronk et al., 2012 ; Riddell and Callaghan, 2021 ; Robertson et al., 2013 ; 
+Wilks et al., 2006 ). Further, taking a break from sitting (e.g., 2 min of 
+walking every 40 min) only temporarily relieves sitting-induced low 
+back pain ( De Carvalho and Callaghan, 2023a ). As an alternative to 
+sit-stand rotation, hybrid sit-stand chairs have been proposed to avoid 
+* Corresponding author. Canada Research Chair in Spine Biomechanics and Injury Prevention, N2L 3G1, Canada 
+E-mail address: jack.callaghan@uwaterloo.ca (J.P. Callaghan).  
+Contents lists available at ScienceDirect 
+Applied Ergonomics 
+journal homepage: www.elsevi er.com/loc ate/apergo 
+https://doi.org/10.1016/j.apergo.2024.104310 
+Received 14 December 2023; Received in revised form 22 April 2024; Accepted 7 May 2024
+
+===== PAGE 2 =====
+
+Applied Ergonomics 119 (2024) 104310
+2
+end-range spine flexion in sitting ( Antle et al., 2015 ; Chester et al., 2002 ; 
+Ebara et al., 2008 ; Kingston et al., 2016 ; Le and Marras, 2016 ; Sartika 
+and Dawal, 2010 ). However, recommendations for appropriately posi -
+tioning the spine in these hybrid chairs are more recent ( Buchman- -
+Pearle et al., 2023 ; Noguchi et al., 2019 ) and there is little evidence that 
+simply opening up the trunk-thigh angle in hybrid chairs will elicit less 
+spine flexion than a traditional 90-90-90 sitting posture. Unlike hybrid 
+chairs which primarily aim to decrease spine flexion in sitting, ‘dynamic ’ 
+or ‘active ’ chairs aim to decrease spine flexion while also promoting 
+movement. For instance, dynamic chairs use moveable or deformable 
+seat pans which could tilt forward to decrease pelvic tilt and tilt 
+side-to-side to increase lateral pelvis movement. Many dynamic chairs 
+variations exist, such as stability balls, traditional office chairs with a 
+split seat pan, and stools with a multiaxial rotating seat pan. In a 
+multiaxial rotating seat pan without a back support (like that investi -
+gated currently) pelvis, hip, and trunk-thigh angles and trunk muscle 
+activation were not different from a traditional office chair, but buttocks 
+pain was higher ( L ´eger et al., 2022 ). Spine flexion and fidget frequency 
+or amplitude were also not different between dynamic and traditional 
+sitting, but low back pain remained lower in dynamic sitting ( Frey et al., 
+2021 ). Dynamic sitting on a different rotating seat pan also decreased 
+mean lumbar flexion by ~25 %MaxFlex with no differences in lumbar 
+flexion variability or pain ratings compared to a traditional office chair 
+with the seatback removed ( O ’ Sullivan et al., 2012 ). Evaluations 
+comparing the different types of dynamic chairs are limited, but they 
+generally demonstrate similar responses across chair types. Trunk 
+muscle activation was not different between a rotating and split seat pan 
+but the rotating seat pan tended to promote greater pelvis range of 
+motion in the sagittal and frontal plane ( L ´eger et al., 2022 ). Trunk 
+muscle activation was also similar between a stability ball and rotating 
+seat pan when completing core exercises ( Holmes et al., 2015 ). Addi -
+tionally, while buttocks pain increased on both types of dynamic chairs, 
+buttocks pain was higher on the split seat pan design ( L ´eger et al., 2022 ). 
+Collectively, it appears that dynamic sitting, facilitated by a rotating seat 
+pan, has the potential to alter lumbar posture and movement, but the 
+results depend on the chair being assessed. Additionally, despite that 
+some rotating seat pans have the capability to promote movement in 
+both the sagittal and frontal plane (i.e., seat pan tilts forward and 
+backward and side-to-side), studies have not typically assessed kine -
+matic changes in the frontal plane. While the opportunity for lateral tilt 
+of the seat pan may increase spine movement, asymmetry in spine 
+postures could also increase the risk of pain ( Marras et al., 1997 ). 
+However, lateral spine and pelvis kinematics have not been investigated 
+in dynamic sitting contexts. 
+The purpose of this investigation was to evaluate how dynamic 
+sitting altered pelvis and lumbar spine kinematics in the sagittal and 
+frontal plane and perceived pain. Dynamic sitting while performing 
+computer work and activity guided was facilitated by using a chair with 
+a multiaxial rotating seat pan and was compared to traditional sitting. 
+Seated activity guided tasks can provide an opportunity to train in -
+dividuals on how to use a dynamic chair and promote additional 
+movement at the workplace. While active breaks usually involve a more 
+extended period away from the workstation (e.g., 30-min walk), activity 
+guided tasks performed at the workstation could provide supplemental 
+micro or short breaks (e.g., performed as a break or in conjunction with 
+non-visual tasks like a phone call). We hypothesized that compared to 
+traditional sitting, dynamic sitting would demonstrate similar pelvis and 
+lumbar postures and movement in the sagittal plane ( Frey et al., 2021 ); 
+however, increases in frontal plane pelvis and lumbar postures and 
+movement were expected due to the increased lateral mobility of the 
+seat pan compared to a traditional office chair. Additionally, it was 
+hypothesized that buttocks pain would modestly increase during dy -
+namic sitting ( L ´eger et al., 2022 ), but that low back pain would not be 
+different ( Frey et al., 2021 ; O ’ Sullivan et al., 2012 ). Secondary objec -
+tives of this study were to assess differences in trunk-thigh and hip 
+flexion postures between the seats, weight distribution on the lower 
+limbs versus under the seat, and work productivity. 
+2. Methods 
+2.1. Sample population 
+Eight males (age = 25.5 ± 2.5 years; height = 1.82 ± 0.06 m; mass 
+= 80.7 ± 7.1 kg; body mass index = 24.2 ± 1.3 kg/m
+2
+) and eight fe -
+males (age = 23.3 ± 1.2 years; height = 1.73 ± 0.08 m; mass = 69.5 ±
+15.0 kg; body mass index = 23.0 ± 4.1 kg/m
+2
+) participated in this study. 
+A sample size calculation indicated that 16 participants were required 
+for a medium to large effect size with an alpha of 0.05 and beta of 0.8 
+(G*Power, Version 3.1.97, Kiel, Germany). Individuals were excluded if 
+they reported having received medical attention or taken time off work 
+for longer than three days for low back pain or injury within the past 
+year or had a physical disability, particularly those which would affect 
+mobility or dexterity. The University Research Ethics Board approved all 
+experimental procedures, and each participant signed informed consent 
+documentation. 
+2.2. Experimental protocol 
+Testing occurred in a single laboratory session where individuals 
+completed three 20-min blocks of: a) seated computer work in a control 
+condition of a traditional office chair (Traditional; Herman Millar, 
+Aeron, Zeeland, Michigan, USA), b) seated computer work on a dynamic 
+chair (Dynamic; QoR360
+◦
+, Ariel 1.0, Burlington, Vermont, USA), and c) 
+activity guided tasks on the same dynamic chair (Activity; Fig. 1 ). To 
+facilitate dynamic sitting, participants sat on a chair with a multiaxial 
+rotating seat pan which enabled a maximum of ~10
+◦
+tilt to the left and 
+right, ~15
+◦
+forwards, and ~5
+◦
+backwards. Order of blocks a) and b) 
+were randomized with block c) completed last to avoid any potential 
+confounding effects of stretching soft tissues during the activity guided 
+tasks. Between blocks, individuals were permitted to stand up to facili -
+tate switching between the chairs. In blocks a) and b) individuals per -
+formed a standardized data entry task on the computer for the full 20 
+min. The data entry task involved the transfer of product, client, and 
+company information from invoices with a consistent number of entries 
+into a custom developed graphic user interface (i.e., required mousing 
+and typing). In block c) individuals performed two activities from the 
+QOR360 FitterSitter © application (QOR360 FitterSitter, Version 1.3.4, 
+Burlington, Vermont, USA). The FitterSitter © application determines 
+the inclination of the seat pan from the tilt of a phone ’ s accelerometer 
+Fig. 1. The chairs used for computer work in traditional sitting (left) and 
+computer work and activity guided tasks in dynamic sitting (right). 
+J.M. Davidson et al.
+
+===== PAGE 3 =====
+
+Applied Ergonomics 119 (2024) 104310
+3
+which is coupled to a chair ’ s seat pan. Individuals are guided through 
+the activities using real-time feedback of the chair movement from the 
+phone shared to a computer. In this study the phone was attached to the 
+back of the seat pan and the chair ’ s movement was shared to the monitor 
+on the desk. The activities were designed to be performed on a multi -
+axial rotating seat pan, as they were controlled through motion of the 
+pelvis in the sagittal and/or frontal plane. Participants played Pong for 
+the first 5-min, followed by 15-min of Free Play. Pong was the traditional 
+video game requiring the participant to move a paddle left and right to 
+return a moving ball (facilitated motion predominantly in the frontal 
+plane). Free Play involved target tracking in 2D to maintain a ball within 
+a target circle (facilitated motion in the sagittal and frontal plane). 
+Throughout the activities, individuals were instructed to rest their hands 
+on the desk in front of them and achieve the desired motions by pri -
+marily moving their pelvis, with their feet situated on the force plates. 
+Prior to beginning each block, the chair and workstation parameters 
+were adjusted to each individual ’ s anthropometry. The height of the 
+dynamic chair was set to facilitate a trunk-thigh angle between 105
+◦
+and 
+125
+◦
+, as measured by a goniometer. The traditional office chair was set 
+to facilitate a traditional starting position of 90
+◦
+trunk-thigh, knee, and 
+ankle angle (90-90-90). The desk height facilitated a horizontal forearm 
+position with the individuals ’ hands on the keyboard and the top of the 
+monitor was aligned with the individual ’ s horizontal line-of-sight ( CSA 
+Group, 2017 ). To determine the functional range of motion for the dy -
+namic chair for each participant and facilitate calibration of the accel -
+erometer in the phone, and hence the inclination of the seat pan, for the 
+FitterSitter © application, individuals were instructed to tilt the seat pan 
+maximally to the left, right, forward, and backwards while seated in the 
+dynamic chair. Individuals performed all three blocks on three 
+embedded force plates (AMTI, Watertown, MA, USA), in which one force 
+plate was under the chair (Model BP900) and one force plate was under 
+each foot (Model MC12 and ORE6-7). Force data was collected at 250 
+Hz. 
+2.3. Instrumentation 
+Triaxial accelerometers (ADXL 335, Analogue Devices, Norwood, 
+MA) were used as inclinometers to measure pelvis and lumbar spine 
+angles. The accelerometers were affixed to the skin overlaying the first 
+sacral (S1) and lumbar vertebrae (L1). Calibration trials, namely upright 
+standing, maximum standing forward flexion, and maximum lateral 
+bending to the right and left, were performed to normalize the flexion- 
+extension and lateral bending angles with respect to the participants ’ 
+range of motion. Accelerometer data were sampled at 250 Hz. 
+Rigid marker clusters, each containing four infrared markers 
+(Northern Digital Inc., Waterloo, ON) measured trunk-thigh and hip 
+angles. Marker clusters were secured to the skin overlying the sternum 
+and the lateral aspect of the thigh. A separate rigid body cluster was 
+temporarily secured directly on top of the S1 accelerometer during the 
+calibration trials only. A static upright standing calibration trial was 
+recorded, and the proximal and distal ends of segments were digitized 
+and tracked relative to the segments of interest. Functional joint trials 
+were bilaterally performed to identify the position of the hip joint center 
+( Camomilla et al., 2006 ; Schwartz and Rozumalski, 2005 ). The hip joint 
+centers were tracked with the respective thigh segment during the 
+seated conditions to facilitate construction of the pelvis segment ( Zehr 
+et al., 2021 ). Marker position data were sampled at 25 Hz. 
+Individuals completed pain ratings bilaterally for the upper back, 
+low back, buttocks, and thighs using a 100 mm visual analogue scale 
+(VAS) ( Tennant and Lab, 2023 ). A rating of 0 mm indicated “ No Pain ” 
+and a rating of 100 mm indicated “ Worst Pain Imaginable ” . In each 
+20-min block, pain ratings were obtained at: 0, 10, and 20 min. 
+2.4. Data processing 
+All kinematic data were padded ( Howarth and Callaghan, 2009 ) and 
+then smoothed using a dual-pass second order low-pass Butterworth 
+filter with an effective cutoff frequency of 1 Hz ( Buchman-Pearle et al., 
+2021 ; Dunk and Callaghan, 2010 ; Greene et al., 2019 ). Accelerometer 
+voltage data were calibrated to gravitational acceleration (g) and con -
+verted to degrees using standard four-quadrant trigonometric equations. 
+Pelvis anterior-posterior tilt and left and right obliquity were derived 
+from the inclination of the S1 accelerometer. Lumbar flexion-extension 
+and left and right lateral bending were derived from the relative incli -
+nation between the S1 and L1 accelerometers. All angles were expressed 
+relative to the angles from the upright standing trial and the absolute of 
+the lateral angles were calculated. Further, lumbar angles were 
+normalized to maximum flexion and lateral bending range of motion (i. 
+e., mean of the absolute angle from the left and right maximum bending 
+trials). 
+Pelvis anterior-posterior tilt and obliquity and lumbar flexion- 
+extension and lateral bending angles were assessed by an amplitude 
+probability distribution function (APDF) for each 20-min block ( Hao -
+berg and Jonsson, 1975 ). Dependent variables for statistical analyses 
+were angles at the 10%, 50%, and 90% of the APDFs for pelvis 
+anterior-posterior tilt and obliquity and lumbar spine flexion-extension 
+and lateral bending. 
+Movement of the lumbar spine in the sagittal and frontal planes were 
+evaluated by calculating the shift and fidget frequency and amplitude 
+using modified parameters presented by Duarte and Zatsiorsky (1999) , 
+which were later adapted by Dunk and Callaghan (2010) to measure 
+micromovements of the lumbar spine in sitting. Individuals with 
+sitting-aggravated low back pain demonstrated more frequent shifts and 
+larger shifts and fidgets, potentially as mechanism to alleviate their pain 
+( Dunk and Callaghan, 2010 ). Shifts were defined when the difference in 
+the average lumbar angle of two 15-s sliding windows, separated by 3-s, 
+exceeded 5
+◦
+. The shift amplitude was calculated by the average differ -
+ence in the angle of two consecutive windows throughout the whole 
+shift. Fidgets were defined when the lumbar angle at a data frame 
+exceeded 3 standard deviations of the 60-s sliding window centered on 
+that frame, for no longer than 3-s. The fidget amplitude was calculated 
+by the average difference in the angles throughout the whole fidget and 
+the average of the 60-s window. The total number of shifts and fidgets 
+and the mean amplitude of the shifts and fidgets in the sagittal and 
+frontal plane throughout the whole block were calculated. Lumbar 
+flexion-extension and lateral bending shift and fidget frequency (per 20 
+min) and average amplitude were input into statistical analyses. 
+Data acquired from the upright standing trial were used to construct 
+segment-fixed local coordinate systems for the thorax, pelvis, and 
+thighs. Given the obstructed line-of-sight to the pelvis cluster during the 
+seated conditions (i.e., due to the individual ’ s close interface with the 
+seatback and seat pan), a three-dimensional accelerometer-based pelvis 
+was calculated using the angular deviations of the S1 accelerometer and 
+a three-dimensional vector rotation approach ( Zehr et al., 2021 ). 
+Trunk-thigh (thigh relative thorax) and hip (thigh relative to 
+accelerometer-based pelvis) were calculated using a Z-X-Y Cardan 
+sequence ( Wu et al., 2002 ). Average trunk-thigh and right and left hip 
+flexion angles were input into statistical analyses. 
+Force data were padded ( Howarth and Callaghan, 2009 ) and then 
+smoothed using a dual-pass second order low-pass Butterworth filter 
+with an effective cutoff frequency of 10 Hz ( Noguchi et al., 2019 ) and 
+expressed as a percentage of body weight. The force in the vertical and 
+anterior-posterior direction were computed separately to indicate if in -
+dividuals tended to forward brace on their legs. 
+From the VAS, pain ratings for each body region were expressed 
+J.M. Davidson et al.
+
+===== PAGE 4 =====
+
+Applied Ergonomics 119 (2024) 104310
+4
+relative to the values collected at the start of the data collection (i.e., 
+subtract baseline) and an average value was calculated for the left and 
+right side. 
+Productivity was assessed for the data entry task completed in blocks 
+a) and b). Productivity was evaluated based on accuracy (percentage of 
+correct entries) and number of entries per minute spent typing. 
+2.5. Statistical analysis 
+Statistical analyses were performed on the trunk-thigh, hip, pelvis, 
+and lumbar spine kinematics, force, pain, and productivity variables to 
+determine the effects of block (within-subject factor: Traditional, Dy -
+namic, and/or Activity) and sex (between-participant factor: male or 
+female). Sex was investigated as a factor because differences in seated 
+kinematics emerged between males and females ( De Carvalho and 
+Callaghan, 2023a ; Dunk and Callaghan, 2005 ; Gregory et al., 2006 ). 
+When applicable, the effect of time (within-subject factor: pain = 3 in -
+stances in each block) and side (within-subject factor: hip = left and 
+right) were also evaluated. Specifically, mixed model analyses of vari -
+ance (ANOVA) were performed at an alpha level of 0.05. When signif -
+icance was achieved, post hoc pairwise comparisons were performed 
+with a Bonferroni correction. All statistical tests were completed in SPSS 
+(Version 28.0.1, IBM Corporation, Somers, New York, USA). 
+3. Results 
+3.1. Trunk-thigh and hip kinematics 
+A main effect of block was observed for the trunk-thigh and hip 
+flexion angle ( p ≤ 0.001). The average trunk-thigh angle was smaller 
+during traditional sitting, as expected given the different positioning 
+guidelines, compared to dynamic sitting for both the computer work and 
+activity guided tasks ( p
+adj 
+≤ 0.012; Fig. 2 A). The average hip flexion 
+angle was also smaller during traditional sitting compared to dynamic 
+sitting in both tasks ( p
+adj 
+≤ 0.047; Fig. 2 B). No significant effects of sex 
+were observed for hip or trunk-thigh angles ( p ≥ 0.358). 
+3.2. Pelvis and lumbar spine postures 
+For anterior-posterior pelvic tilt, no significant main effects or 
+interactions for sex or block were observed at 10%, 50%, and 90% of the 
+APDF ( p ≥ 0.060). However, throughout the blocks, the pelvis was 
+typically less posteriorly tilted in dynamic sitting during computer work 
+(26.2
+◦
+– 29.3
+◦
+) and the activity guided tasks (26.4
+◦
+– 35.2
+◦
+) compared to 
+traditional sitting (32.4
+◦
+– 35.2
+◦
+; Fig. 3 A). 
+For lumbar flexion-extension angles, no significant main effects or 
+interactions for block or sex were observed at 10%, 50%, and 90% of the 
+APDF ( p ≥ 0.109; Fig. 3 B). Throughout the block, lumbar flexion 
+remained consistent for computer work in traditional sitting (62.3%) 
+and dynamic sitting (62.4%), and the activity guided tasks (68.5%) 
+( Fig. 3 B). 
+For pelvic obliquity, a main effect of block was observed at 10% and 
+90% of the APDF ( p ≤ 0.048). There were no significant differences in 
+pelvic obliquity between traditional and dynamic sitting during the 
+computer work ( p
+adj 
+≥ 0.700). At 10%, pelvic obliquity was marginally 
+smaller during the activity guided tasks (1.4
+◦
+) than the computer work 
+during dynamic sitting (2.7
+◦
+; p
+adj 
+= 0.002). At 90%, pelvic obliquity was 
+larger in the activity guided tasks than during computer work performed 
+on either chair ( p
+adj 
+≤ 0.001; Fig. 4 A). No significant effects of sex were 
+observed for pelvic obliquity at any percent of the APDF ( p ≥ 0.341). 
+For lumbar lateral bending, no significant effects of block were 
+observed at 10% or 50% of the APDF ( p ≥ 0.104), but a main effect of 
+block was observed at 90% ( p ≤ 0.001). There were no significant dif -
+ferences in lateral bending between traditional and dynamic sitting 
+during the computer work ( p
+adj 
+= 1.000), but lateral bending was larger 
+during the activity guided tasks than computer work on either chair ( p
+adj 
+≤ 0.001; Fig. 4 B). No significant effects of sex were observed for lateral 
+bending at any percent of the APDF ( p ≥ 0.090). 
+3.3. Lumbar spine shifts and fidgets 
+There were very limited lumbar shifts present across participants. Of 
+the 16 individuals, flexion-extension shifts were identified for 6 
+(Traditional), 2 (Dynamic), and 9 (Activity) individuals and lateral 
+bending shifts were identified for 2 (Traditional), 0 (Dynamic), and 14 
+(Activity) individuals. There were no significant main effects or in -
+teractions for block or sex on lumbar flexion-extension shift frequency ( p 
+≥ 0.097) or shift amplitude ( p ≥ 0.122; Table 1 ). 
+A main effect of block was observed for lumbar lateral bending shift 
+frequency ( p = 0.050). Yet pairwise comparisons revealed no significant 
+Fig. 2. Mean and (standard deviation) of the trunk-thigh angle (A) and hip flexion (B) angle in each 20-min block. Bars with different capital letters indicate 
+significant differences between block . 
+J.M. Davidson et al.
+
+===== PAGE 5 =====
+
+Applied Ergonomics 119 (2024) 104310
+5
+differences ( p
+adj 
+≥ 0.195; Table 1 ). A main effect of block was observed 
+for lumbar lateral bending shift amplitude ( p ≤ 0.001); however, there 
+was an extremely low incidence of shifts during the computer work 
+compared to the activity guided tasks. Nevertheless, of the shifts 
+observed, the shifts were larger in the activity guided tasks ( p
+adj 
+≤ 0.003; 
+Table 1 ). No significant effects of sex were observed for lateral bending 
+shift frequency or amplitude ( p ≥ 0.195). 
+There were no significant main effects or interactions for block or sex 
+on lumbar flexion fidget frequency ( p ≥ 0.561; Table 1 ). There was a 
+significant block × sex interaction for the lumbar flexion fidget ampli -
+tude ( p = 0.024). Larger fidgets were consistently observed in the ac -
+tivity guided tasks compared to the computer work ( Table 1 ), but the 
+increase in the fidget amplitude was larger for females (Traditional =
+3.4 ± 1.5%, Dynamic = 5.4 ± 4.3%, Activity = 15.2 ± 2.8%) than males 
+(Traditional = 5.2 ± 3.0%, Dynamic = 5.5 ± 2.9%, Activity = 11.6 ±
+5.4%; p
+adj 
+≤ 0.006). 
+A main effect of block was observed for lumbar lateral bending fidget 
+frequency ( p = 0.001). Pairwise comparisons revealed that individuals 
+performed fewer fidgets during the activity guided tasks ( p
+adj 
+≤ 0.012; 
+Table 1 ). A main effect of block was also observed for lumbar lateral 
+bending fidget amplitude ( p ≤ 0.001). Significant differences were 
+observed between all blocks such that traditional sitting demonstrated 
+the smallest fidgets and activity guided tasks demonstrated the largest 
+( p ≤ 0.001; Table 1 ). No significant effects of sex were observed for 
+lateral bending fidget frequency or amplitude ( p ≥ 0.228). 
+Fig. 3. Mean and (standard deviation) of pelvis anterior posterior tilt (A) and lumbar flexion-extension (B) at 10%, 50%, and 90% of the amplitude probability 
+distribution function (APDF). 
+J.M. Davidson et al.
+
+===== PAGE 6 =====
+
+Applied Ergonomics 119 (2024) 104310
+6
+3.4. Ground reaction force 
+There was a main effect of block for the anterior-posterior and ver -
+tical directions ( p ≤ 0.002). The anterior-posterior force was signifi -
+cantly larger during the activity guided tasks ( p
+adj 
+≤ 0.002; Table 2 ). The 
+vertical force under the feet was significantly larger in both dynamic 
+sitting conditions than traditional sitting ( p
+adj 
+< 0.001; Table 2 ). 
+3.5. Pain 
+There were no significant main effects or interactions for block , sex , 
+or time on pain ratings for the upper back ( p ≥ 0.074; Fig. 5 A) or thighs 
+( p ≥ 0.071; Fig. 5 D). No significant main effects or interactions for block 
+or sex were observed for pain ratings for the low back ( p ≥ 0.116), but 
+there was a main effect of time ( p = 0.007). Low back pain was highest at 
+Fig. 4. Mean and (standard deviation) of absolute pelvis obliquity (A) and lumbar lateral bending (B) at 10%, 50%, and 90% of the amplitude probability distri -
+bution function (APDF). Bars with different capital letters indicate significant differences between block . 
+Table 1 
+Mean and (standard deviation) of lumbar flexion and lateral bending shift and fidget frequency in each 20-min block. Values with different capital letters indicate 
+significant differences between block .   
+Frequency (per 20 min) Amplitude (%Max) 
+Traditional Dynamic Activity Traditional Dynamic Activity 
+Shift 
+Sagittal 1.5 (3.5) 1.5 (4.4) 4.0 (5.4) 5.0 (6.8) 2.3 (5.1) 6.2 (5.8) 
+Frontal 0.2 (0.5) 0.0 (0.0) 6.3 (11.8) 3.2 (8.7)
+A 
+0.0 (0.0)
+A 
+22.9 (9.8)
+B 
+Fidget 
+Sagittal 12.9 (7.0) 11.9 (5.8) 13.0 (6.0) 4.3 (2.5) 5.4 (3.6) 13.4 (4.5) 
+Frontal 14.8 (10.9)
+A 
+12.5 (8.0)
+A 
+5.1 (3.9)
+B 
+4.7 (4.4)
+A 
+8.1 (3.7)
+B 
+32.0 (14.5)
+C  
+J.M. Davidson et al.
+
+===== PAGE 7 =====
+
+Applied Ergonomics 119 (2024) 104310
+7
+20-min and significantly different than 0-min and the 10-min midpoint 
+across the blocks ( p
+adj 
+≤ 0.033; Fig. 5 B). Lastly, main effects of time (p =
+0.010) and block (p = 0.048) were observed for the buttock pain ratings. 
+Similar to the low back, pain ratings for the buttocks were highest at 20- 
+min ( p
+adj 
+≤ 0.037; Fig. 5 C). Additionally, buttocks pain was higher 
+during the activity guided tasks ( p
+adj 
+= 0.014; Fig. 5 C) but not different 
+between the traditional and dynamic sitting for computer work. No 
+significant effects of sex were observed for buttocks pain ratings ( p ≥
+0.119). 
+3.6. Productivity 
+There were no significant main effects or interactions for block or sex 
+on measures of productivity, including data entry accuracy ( p ≥ 0.436) 
+and data entry speed ( p ≥ 0.116). Accuracy scores were 92.6 ± 7.2% and 
+92.5 ± 9.0% in traditional and dynamic sitting, respectively. Individuals 
+demonstrated 9.6 ± 2.2 entries/min in traditional sitting and 9.7 ± 2.7 
+entries/min in dynamic sitting. 
+4. Discussion 
+Although lumbar spine kinematics and pain were similar when 
+performing office work in traditional and dynamic sitting, performing 
+activity guided tasks on the dynamic chair increased lumbar spine 
+movement. The first hypothesis was partially supported as dynamic 
+sitting led to changes in pelvis and lumbar spine kinematics primarily in 
+the frontal plane ( Figs. 2 and 3 ; Table 1 ). The second hypothesis was also 
+supported as buttocks pain was higher during dynamic sitting, but no 
+differences in low back pain existed between traditional and dynamic 
+sitting ( Fig. 5 ). Collectively, these findings indicate that compared to 
+Table 2 
+Mean and (standard deviation) for the force under the feet, normalized to 
+percent bodyweight (%BW), in each 20-min block. Values with different capital 
+letters indicate significant differences between block .  
+Direction Traditional Dynamic Activity 
+Anterior ( + )-posterior (%BW) 1.4 (0.8)
+A 
+1.7 (1.2)
+A 
+3.2 (1.1)
+B 
+Vertical (%BW) 13.5 (2.4)
+A 
+22.7 (1.6)
+B 
+21.2 (2.6)
+B  
+Fig. 5. Mean and (standard deviation) of the pain ratings for the upper back (A), low back (B), buttocks (C), and thighs (D) in each 20-min block. Bars with different 
+lower case letters indicate significant differences between time . Bars with different capital letters indicate significant differences between block . 
+J.M. Davidson et al.
+
+===== PAGE 8 =====
+
+Applied Ergonomics 119 (2024) 104310
+8
+sitting in a traditional office chair, dynamic sitting increased lumbar 
+spine movement during the activity guided tasks, without negatively 
+impacting lumbar spine postures, movement, pain, or productivity when 
+performing standardized computer work. 
+Pelvis and lumbar spine postures and movement were typically not 
+different across the chairs and activities. Dynamic sitting resulted in 
+modest decreases in posterior pelvic tilt, yet no differences in lumbar 
+flexion angles were observed. Mean lumbar flexion was 62 %MaxFlex 
+during simulated office work and 69 %MaxFlex during the activity 
+guided tasks ( Fig. 3 ). These findings are consistent with the seat pan 
+being able to tilt anteriorly ( De Carvalho and Callaghan, 2023b ) and are 
+similar to lumbar flexion angles previously observed with dynamic 
+sitting on a multiaxial rotating seat pan ( Frey et al., 2021 ). Additionally, 
+the lack of change in lumbar spine angles is consistent with suggestions 
+that the trunk-thigh angle needs to approach 145
+◦
+in females and 160
+◦
+in 
+males before there are any corresponding decrease in lumbar flexion 
+( Noguchi et al., 2019 ). Pelvic obliquity and lumbar lateral bending were 
+not different between the chairs during the seated computer work, 
+wherein mean lateral bending angles of 16 %MaxBend were observed 
+for each of the three blocks ( Fig. 4 ). These angles correspond with lateral 
+angles during seated computer work ( Davidson et al., 2024 ). Only when 
+performing activity guided tasks on the dynamic chair did increases in 
+peak lateral angles for the pelvis and lumbar spine occur, indicating 
+increases in total lateral range of motion during the activity guided tasks 
+( Fig. 4 ). Taken together, these findings indicate that unless prompted, 
+motion of the pelvis and lumbar spine is similar between traditional and 
+dynamic sitting. Although the dynamic chair provided the opportunity 
+for spine motion in the sagittal and frontal plane, it did not increase 
+lumbar flexion or introduce asymmetrical postures greater than the of -
+fice chair when performing computer work. The lack of differences in 
+lumbar spine flexion and lateral bending angles may represent a positive 
+finding for this type of dynamic chair as awkward or non-neutral spinal 
+postures are associated with an increased risk of spine injury in ergo -
+nomic applications, particularly manual material handling tasks ( Marras 
+et al., 1997 ). Moreover, asymmetrical postures in sitting have been 
+linked to alterations in seat pressure distribution which could contribute 
+to buttocks or low back pain ( Al-Eisa et al., 2013 ; Viggiani et al., 2014 ). 
+On the other hand, this data also indicates that larger forward and 
+backwards rotation of dynamic chairs may be necessary if the goal of the 
+chair is to decrease flexed spine postures. 
+Similar to the findings for lumbar spine postures, lumbar spine 
+movement was largely consistent between traditional and dynamic 
+sitting. The number of shifts and fidgets were not different between 
+traditional and dynamic sitting during computer work, but larger lateral 
+fidgets were observed in dynamic sitting ( Table 1 ). Larger shifts and 
+fidgets were also observed during the activity guided tasks compared to 
+the computer work conditions ( Table 1 ). Surprisingly, the number of 
+shifts and fidgets were not different or less during the activity guided 
+tasks; however, this may be related to the thresholds used in calculating 
+these metrics. The shift and fidget dynamic metrics were initially 
+designed to capture movement in a traditional non-rotating seat pan 
+( Dunk and Callaghan, 2010 ). It is possible that movement in dynamic 
+sitting was not captured by these metrics as the dynamic chair could 
+have facilitated more rapid or smaller movements than those necessary 
+to trigger a fidget or shift. For instance, the fidget movement threshold is 
+based on 3 standard deviations of the movement range and would have 
+been more difficult to achieve on the dynamic chair as there was more 
+variability in participant movement. Greater variability in lumbar 
+movement during the activity guided tasks is supported by the increases 
+in lumber range of motion ( Figs. 3 and 4 ) and large shift and fidget 
+amplitudes ( Table 1 ). Nevertheless, implementing activity guided tasks 
+on a dynamic chair is likely an effective tool for increasing movement at 
+the workplace. Similar to recommendations to rotate between sitting 
+and standing and taking breaks throughout the workday, the current 
+findings indicate that performing activities on a dynamic chair encour -
+ages movement of the spine. Moreover, many individuals report low 
+back pain with prolonged standing ( Gallagher et al., 2011 ; Nelson-Wong 
+and Callaghan, 2014 ), while the current findings, along with other an -
+alyses have not shown significant increases in low back pain develop -
+ment with dynamic sitting ( Frey et al., 2021 ; L ´eger et al., 2022 ; 
+O ’ Sullivan et al., 2012 ). 
+Indeed, pain of the upper back, low back, and thighs remained low in 
+both traditional and dynamic sitting, but buttocks pain was highest for 
+dynamic sitting. Specifically, 6 of 16 participants reported meaningful 
+increases (i.e., > ~10 mm ( Gallagher et al., 2014 ; Gallagher and Call -
+aghan, 2015 ; H ¨agg et al., 2003 ; Nelson-Wong and Callaghan, 2010 ; 
+Schinkel-Ivy et al., 2013 )) in the buttocks (3 females; 1 in Dynamic, 1 in 
+Activity, and 1 in both) or low back (3 males; 1 in Dynamic, 1 in Activity, 
+and 1 in both) during dynamic sitting. Higher reports of buttocks pain 
+were observed for dynamic sitting in general, but significant differences 
+were only observed between traditional sitting and the activity guided 
+tasks ( Fig. 5 ). Buttocks pain in the activity was likely because partici -
+pants were required to apply force to the seat pan to move their pelvis. 
+Additionally, increases in vertical and anterior shear forces in dynamic 
+sitting, particularly during the activity guided tasks ( Table 2 ), also 
+indicate increases in lower limb involvement to resist sliding forward 
+( Noguchi et al., 2019 ). Subsequent friction from the seat pan could have 
+also contributed to buttocks pain. Pain may also be higher during the 
+activity guided tasks as they were always completed last (i.e., a cumu -
+lative total of 40-min on the dynamic chair with only short breaks be -
+tween) and participants were required to complete the activities for 
+20-min to ensure time equalization between the three blocks. In prac -
+tice, the activity guided tasks would be recommended over shorter du -
+rations ( < 10 min) to facilitate training individuals how to use the 
+dynamic chair, for micro or short breaks during the workday, or when 
+performing non-visual tasks like taking a phone call. Completing activity 
+guided tasks at the workstation are not meant to replace active breaks (e. 
+g., going for a walk), but rather provide additional opportunities for 
+movement at the workplace. Further, implementing accommodation 
+training when starting to use a dynamic chair may be effective for 
+mitigating pain over time ( Jackson et al., 2013 ). 
+There are limitations to be acknowledged. First, the activity guided 
+tasks were designed to elicit motion of the pelvis on a dynamic chair and 
+are not possible on a traditional office chair. Without the activity guided 
+tasks on a traditional office chair, a factorial design (i.e., chair × task ) 
+was not possible. Additionally, the applicability of the current findings 
+are limited as a dynamic chair, coupled to a phone, is required to 
+complete these specific activity guided tasks. Second, we assessed 20- 
+min blocks, which is well below what would be typical of an entire 
+workday or would be likely to occur during a single bout of sitting before 
+a break ( Matthews et al., 2008 ; Parry and Straker, 2013 ). It is possible 
+that with more prolonged bouts of seated work, pain ratings could 
+continue to rise ( De Carvalho and Callaghan, 2023a ; Gallagher and 
+Callaghan, 2015 ). However, as indicated by values of approximately 0 
+mm at the start of each block ( Fig. 5 ), pain recovered quickly to those at 
+the start of the collection during the short transitions between the 
+20-min blocks. Lastly, only young and healthy participants, with a small 
+variation in anthropometry were examined. The homogeneity amongst 
+participants may have contributed to the lack of significant differences 
+which existed between males and females. 
+Overall, dynamic sitting, facilitated by a multiaxial rotating seat pan, 
+while performing computer work did not result in large changes to pelvis 
+and lumbar postures and movement or work productivity. Although 
+upper back, low back, and thigh pain remained low during both tradi -
+tional and dynamic sitting, buttocks pain tended to be higher during 
+dynamic sitting, particularly in the activity guided tasks. The current 
+findings indicate that introducing forward/backwards and lateral 
+movement of the seat pan can occur without negatively impacting low 
+back kinematics, pain, or productivity. Further, a dynamic chair facili -
+tates the performance of activity guided tasks which appear to be an 
+effective means of increasing spine movement at a user ’ s workstation. 
+However, accommodation training and performing the activity guided 
+J.M. Davidson et al.
+
+===== PAGE 9 =====
+
+Applied Ergonomics 119 (2024) 104310
+9
+tasks in bouts of less than 10 min may be required to mitigate pain 
+responses. 
+CRediT authorship contribution statement 
+Jessa M. Davidson: Conceptualization, Data curation, Formal 
+analysis, Investigation, Methodology, Visualization, Writing – original 
+draft, Writing – review & editing. Jackie D. Zehr: Conceptualization, 
+Formal analysis, Investigation, Methodology, Writing – review & edit -
+ing. Paolo B. Dominelli: Data curation, Investigation, Supervision, 
+Writing – review & editing. Jack P. Callaghan: Conceptualization, 
+Funding acquisition, Investigation, Methodology, Project administra -
+tion, Resources, Software, Supervision, Writing – review & editing. 
+Acknowledgements 
+The authors acknowledge funding awarded from the Natural Science 
+and Engineering Research Council of Canada. JPC is further supported 
+as the Canada Research Chair in Spine Biomechanics and Injury Pre -
+vention. This work was commissioned and partially supported finan -
+cially by the industrial partner. The study was designed by the 
+investigators and received approval from the industrial partner. The 
+decision to publish any findings, positive or negative, was agreed upon 
+prior to data collection. 
+References 
+Adams, M.A., Green, T.P., Dolan, P., 1994. The strength in anterior bending of lumbar 
+intervertebral discs. Spine 19, 2197 – 2203. https://doi.org/10.1097/00007632- 
+199410000-00014 . 
+Adams, M.A., Hutton, W.C., 1985. The effect of posture on the lumbar spine. J. Bone Jt. 
+Surg. 67, 625 – 629. https://doi.org/10.1302/0301-620x.67b4.4030863 . 
+Adams, M.A., Hutton, W.C., 1980. The effect of posture on the role of the apophysial 
+joints in resisting intervertebral compressive forces. J. Bone Jt. Surg. 62, 358 – 362. 
+https://doi.org/10.1302/0301-620x.62b3.6447702 . 
+Al-Eisa, E., Egan, D., Fenety, A., 2013. Association between lateral pelvic tilt and 
+asymmetry in sitting pressure distribution. J. Man. Manip. Ther. 12, 133 – 142. 
+https://doi.org/10.1179/106698104790825239 . 
+Antle, D.M., V ´ezina, N., C ˆot ´e, J.N., 2015. Comparing standing posture and use of a sit- 
+stand stool: analysis of vascular, muscular and discomfort outcomes during 
+simulated industrial work. Int. J. Ind. Ergon. 45, 98 – 106. https://doi.org/10.1016/J. 
+ERGON.2014.12.009 . 
+Beach, T.A.C., Parkinson, R.J., Stothart, J.P., Callaghan, J.P., 2005. Effects of prolonged 
+sitting on the passive flexion stiffness of the in vivo lumbar spine. Spine J. 5, 
+145 – 154. https://doi.org/10.1016/j.spinee.2004.07.036 . 
+Buchman-Pearle, J.M., Fewster, K.M., Pinto, B.L., Callaghan, J.P., 2021. Moving toward 
+individual-specific automotive seat design: how individual characteristics and time 
+alter the selected lumbar support prominence. Hum. Factors 00 1 – 13. https://doi. 
+org/10.1177/00187208211042776 . 
+Buchman-Pearle, J.M., Gruevski, K.M., Gallagher, K.M., Barrett, J.M., Callaghan, J.P., 
+2023. Defining the lumbar and trunk-thigh neutral zone from the passive stiffness 
+curve: application to hybrid sit-stand postures and chair design. Ergonomics 66, 
+338 – 349. https://doi.org/10.1080/00140139.2022.2084164 . 
+Callaghan, J.P., McGill, S.M., 2001. Low back joint loading and kinematics during 
+standing and unsupported sitting. Ergonomics 44, 280 – 294. https://doi.org/ 
+10.1080/00140130118276 . 
+Camomilla, V., Cereatti, A., Vannozzi, G., Cappozzo, A., 2006. An optimized protocol for 
+hip joint centre determination using the functional method. J. Biomech. 39, 
+1096 – 1106. https://doi.org/10.1016/J.JBIOMECH.2005.02.008 . 
+Chester, M.R., Rys, M.J., Konz, S.A., 2002. Leg swelling, comfort and fatigue when 
+sitting, standing, and sit/standing. Int. J. Ind. Ergon. 29, 289 – 296. https://doi.org/ 
+10.1016/S0169-8141(01)00069-5 . 
+CSA Group, 2017. Canadian Standards Association Standard Z412-17 Office Ergonomics 
+- an Application Standard for Workplace Ergonomics . 
+da Silva, T., Mills, K., Brown, B.T., Pocovi, N., de Campos, T., Maher, C., Hancock, M.J., 
+2019. Recurrence of low back pain is common: a prospective inception cohort study. 
+J. Physiother. 65, 159 – 165. https://doi.org/10.1016/J.JPHYS.2019.04.010 . 
+Davidson, J.M., Zehr, J.D., Noguchi, M., Fok, D.J., Tennant, L.M., Callaghan, J.P., 2024. 
+Lateral pelvis and lumbar motion in seated and standing office work and their 
+association with transient low back pain. Hum. Factors. https://doi.org/10.1177 
+/00187208241249423 . 
+De Carvalho, D.E., Callaghan, J.P., 2023a. Does a break from sitting change 
+biomechanical outcome measures or transient pain? A laboratory-based 
+experimental study. Work 1 – 14. https://doi.org/10.3233/WOR-211266 . 
+De Carvalho, D.E., Callaghan, J.P., 2023b. Effect of office chair design features on lumbar 
+spine posture, muscle activity and perceived pain during prolonged sitting. 
+Ergonomics 66, 1465 – 1476. https://doi.org/10.1080/00140139.2022.2152113 . 
+De Carvalho, D.E., de Luca, K., Funabashi, M., Breen, A., Wong, A.Y.L., Johansson, M.S., 
+Ferreira, M.L., Swab, M., Neil Kawchuk, G., Adams, J., Hartvigsen, J., 2020. 
+Association of exposures to seated postures with immediate increases in back pain: a 
+systematic review of studies with objectively measured sitting time. J. Manip. 
+Physiol. Ther. 43, 1 – 12. https://doi.org/10.1016/J.JMPT.2019.10.001 . 
+Duarte, M., Zatsiorsky, V.M., 1999. Patterns of center of pressure migration during 
+prolonged unconstrained standing. Mot. Control 3, 12 – 27. https://doi.org/10.1123/ 
+MCJ.3.1.12 . 
+Dunk, N.M., Callaghan, J.P., 2010. Lumbar spine movement patterns during prolonged 
+sitting differentiate low back pain developers from matched asymptomatic controls. 
+Work 35, 3 – 14. https://doi.org/10.3233/WOR-2010-0953 . 
+Dunk, N.M., Callaghan, J.P., 2005. Gender-based differences in postural responses to 
+seated exposures. Clin. Biomech. 20, 1101 – 1110. https://doi.org/10.1016/j. 
+clinbiomech.2005.07.004 . 
+Ebara, T., Kubo, T., Inoue, T., Murasaki, G.I., Takeyama, H., Sato, T., Suzumura, H., 
+Niwa, S., Takanishi, T., Tachi, N., Itani, T., 2008. Effects of adjustable sit-stand VDT 
+workstations on workers ’ musculoskeletal discomfort, alertness and performance. 
+Ind. Health 46, 497 – 505. https://doi.org/10.2486/INDHEALTH.46.497 . 
+Frey, M., Barrett, M., De Carvalho, D., 2021. Effect of a dynamic seat pan design on spine 
+biomechanics, calf circumference and perceived pain during prolonged sitting. Appl. 
+Ergon. 97, 103546 https://doi.org/10.1016/J.APERGO.2021.103546 . 
+Gallagher, K.M., Callaghan, J.P., 2015. Early static standing is associated with prolonged 
+standing induced low back pain. Hum. Mov. Sci. 44, 111 – 121 . 
+Gallagher, K.M., Campbell, T., Callaghan, J.P., 2014. The influence of a seated break on 
+prolonged standing induced low back pain development. Ergonomics 57, 555 – 562. 
+https://doi.org/10.1080/00140139.2014.893027 . 
+Gallagher, K.M., Nelson-Wong, E., Callaghan, J.P., 2011. Do individuals who develop 
+transient low back pain exhibit different postural changes than non-pain developers 
+during prolonged standing? Gait Posture 34, 490 – 495. https://doi.org/10.1016/j. 
+gaitpost.2011.06.025 . 
+Graves, L.E.F., Murphy, R.C., Shepherd, S.O., Cabot, J., Hopkins, N.D., 2015. Evaluation 
+of sit-stand workstations in an office setting: a randomised controlled trial. BMC 
+Publ. Health 15, 1145. https://doi.org/10.1186/s12889-015-2469-8 . 
+Greene, R.D., Frey, M., Attarsharghi, S., Snow, J.C., Barrett, M., De Carvalho, D.E., 2019. 
+Transient perceived back pain induced by prolonged sitting in a backless office chair: 
+are biomechanical factors involved? Ergonomics 62, 1415 – 1425. https://doi.org/ 
+10.1080/00140139.2019.1661526 . 
+Gregory, D.E., Dunk, N.M., Callaghan, J.P., 2006. Stability ball versus office chair: 
+comparison of muscle activation and lumbar spine posture during prolonged sitting. 
+Hum. Factors 48, 142 – 153. https://doi.org/10.1518/001872006776412243 . 
+Gupta, N., Christiansen, C.S., Hallman, D.M., Korsh ø j, M., Carneiro, I.G., Holtermann, A., 
+2015. Is objectively measured sitting time associated with low back pain? A cross- 
+sectional investigation in the nomad study. PLoS One 10, e0121159. https://doi.org/ 
+10.1371/JOURNAL.PONE.0121159 . 
+H ¨agg, O., Fritzell, P., Nordwall, A., 2003. The clinical importance of changes in outcome 
+scores after treatment for chronic low back pain. Eur. Spine J. 12, 12 – 20. https:// 
+doi.org/10.1007/s00586-002-0464-0 . 
+Hanna, F., Daas, R.N., El-Shareif, T.J., Al-Marridi, H.H., Al-Rojoub, Z.M., Adegboye, O. 
+A., 2019. The relationship between sedentary behavior, back pain, and psychosocial 
+correlates among university employees. Front. Public Health 7, 1 – 7. https://doi.org/ 
+10.3389/fpubh.2019.00080 . 
+Haoberg, M., Jonsson, B., 1975. The amplitude distribution of the myoelectric signal in 
+an ergonomic study of the deltoid muscle. Ergonomics 18, 311 – 319. https://doi.org/ 
+10.1080/00140137508931464 . 
+Hedman, T., Fernie, G., 1997. Mechanical response of the lumbar spine to seated postural 
+loads. Spine 22, 734 – 743 . 
+Holmes, M.W.R., De Carvalho, D.E., Karakolis, T., Callaghan, J.P., 2015. Evaluating 
+abdominal and lower-back muscle activity while performing core exercises on a 
+stability ball and a dynamic office chair. Hum. Factors 57, 1149 – 1161. https://doi. 
+org/10.1177/0018720815593184 . 
+Howarth, S.J., Callaghan, J.P., 2009. The rule of 1 s for padding kinematic data prior to 
+digital filtering: influence of sampling and filter cutoff frequencies. J. Electromyogr. 
+Kinesiol. 19, 875 – 881. https://doi.org/10.1016/J.JELEKIN.2008.03.010 . 
+Huang, Y.C., Urban, J.P.G., Luk, K.D.K., 2014. Intervertebral disc regeneration: do 
+nutrients lead the way? Nat. Rev. Rheumatol. 10, 561 – 566. https://doi.org/ 
+10.1038/nrrheum.2014.91 . 
+Jackson, J.A., Banerjee-Gu ´enette, P., Gregory, D.E., Callaghan, J.P., 2013. Should we be 
+more on the ball? the efficacy of accommodation training on lumbar spine posture, 
+muscle activity, and perceived discomfort during stability ball sitting. Hum. Factors 
+55, 1064 – 1076. https://doi.org/10.1177/0018720813482326 . 
+Karakolis, T., Callaghan, J.P., 2014. The impact of sit-stand office workstations on 
+worker discomfort and productivity: a review. Appl. Ergon. https://doi.org/ 
+10.1016/j.apergo.2013.10.001 . 
+Kingston, D.C., Riddell, M.F., McKinnon, C.D., Gallagher, K.M., Callaghan, J.P., 2016. 
+Influence of input hardware and work surface angle on upper limb posture in a 
+hybrid computer workstation. Hum. Factors 58, 107 – 119. https://doi.org/10.1177/ 
+0018720815607317 . 
+Le, P., Marras, W.S., 2016. Evaluating the low back biomechanics of three different office 
+workstations: seated, standing, and perching. Appl. Ergon. 56, 170 – 178. https://doi. 
+org/10.1016/j.apergo.2016.04.001 . 
+L ´eger, M.C., Dion, C., Albert, W.J., Cardoso, M.R., 2022. The biomechanical benefits of 
+active sitting. Ergonomics 66, 1072 – 1089. https://doi.org/10.1080/ 
+00140139.2022.2132298 . 
+Levangie, P.K., 1999. Association of low back pain with self-reported risk factors among 
+patients seeking physical therapy services. Phys. Ther. 79, 757 – 766. https://doi.org/ 
+10.1093/PTJ/79.8.757 . 
+J.M. Davidson et al.
+
+===== PAGE 10 =====
+
+Applied Ergonomics 119 (2024) 104310
+10
+Lis, A.M., Black, K.M., Korn, H., Nordin, M., 2007. Association between sitting and 
+occupational LBP. Eur. Spine J. 16, 283 – 298. https://doi.org/10.1007/s00586-006- 
+0143-7 . 
+Marras, W.S., Lavender, S.A., Leurgans, S.E., Fathallah, F.A., Ferguson, S.A., Allread, W. 
+G., Rajulu, S.L., 1997. Biomechanical risk factors for occupationally related low back 
+disorders. Ergonomics 38, 377 – 410. https://doi.org/10.1080/00140139508925111 . 
+Matthews, C.E., Chen, K.Y., Freedson, P.S., Buchowski, M.S., Beech, B.M., Pate, R.R., 
+Troiano, R.P., 2008. Amount of time spent in sedentary behaviors in the United 
+States, 2003-2004. Am. J. Epidemiol. 167, 875 – 881. https://doi.org/10.1093/aje/ 
+kwm390 . 
+Mendelek, F., Kheir, R.B., Caby, I., Thevenon, A., Pelayo, P., 2011. On the quantitative 
+relationships between individual/occupational risk factors and low back pain 
+prevalence using nonparametric approaches. Jt. Bone Spine 78, 619 – 624. https:// 
+doi.org/10.1016/j.jbspin.2011.01.014 . 
+Nachemson, A.L., 1966. The load on lumbar disks in different positions of the body. Clin. 
+Orthop. Relat. Res. 45, 107 – 122 . 
+Nelson-Wong, E., Callaghan, J.P., 2014. Transient low back pain development during 
+standing predicts future clinical low back pain in previously asymptomatic 
+individuals. Spine 39, 379 – 383. https://doi.org/10.1097/BRS.0000000000000191 . 
+Nelson-Wong, E., Callaghan, J.P., 2010. Is muscle co-activation a predisposing factor for 
+low back pain development during standing? A multifactorial approach for early 
+identification of at-risk individuals. J. Electromyogr. Kinesiol. 20, 256 – 263. https:// 
+doi.org/10.1016/j.jelekin.2009.04.009 . 
+Noguchi, M., Glinka, M., Mayberry, G.R., Noguchi, K., Callaghan, J.P., 2019. Are hybrid 
+sit – stand postures a good compromise between sitting and standing? Ergonomics 62, 
+811 – 822. https://doi.org/10.1080/00140139.2019.1577496 . 
+O ’ Keeffe, M., Dankaerts, W., O ’ Sullivan, P.B., O ’ Sullivan, L., O ’ Sullivan, K., 2013. 
+Specific flexion-related low back pain and sitting: comparison of seated discomfort 
+on two different chairs. Ergonomics 56, 650 – 658. https://doi.org/10.1080/ 
+00140139.2012.762462 . 
+O ’ Sullivan, K., Mccarthy, R., White, A., O ’ Sullivan, L., Dankaerts, W., 2012. Lumbar 
+posture and trunk muscle activation during a typing task when sitting on a novel 
+dynamic ergonomic chair. Ergonomics 55, 1586 – 1595. https://doi.org/10.1080/ 
+00140139.2012.721521 . 
+O ’ Sullivan, K., Verschueren, S., Van Hoof, W., Ertanir, F., Martens, L., Dankaerts, W., 
+2013. Lumbar repositioning error in sitting: healthy controls versus people with 
+sitting-related non-specific chronic low back pain (flexion pattern). Man. Ther. 18, 
+526 – 532. https://doi.org/10.1016/J.MATH.2013.05.005 . 
+O ’ Sullivan, P.B., Mitchell, T., Bulich, P., Waller, R., Holte, J., 2006. The relationship 
+beween posture and back muscle endurance in industrial workers with flexion- 
+related low back pain. Man. Ther. 11, 264 – 271. https://doi.org/10.1016/j. 
+math.2005.04.004 . 
+Park, S.M., Kim, H.J., Jeong, H., Kim, H., Chang, B.S., Lee, C.K., Yeom, J.S., 2018. Longer 
+sitting time and low physical activity are closely associated with chronic low back 
+pain in population over 50 years of age: a cross-sectional study using the sixth Korea 
+National Health and Nutrition Examination Survey. Spine J. 18, 2051 – 2058. https:// 
+doi.org/10.1016/J.SPINEE.2018.04.003 . 
+Parry, S., Straker, L., 2013. The contribution of office work to sedentary behaviour 
+associated risk. BMC Publ. Health 13, 1 – 10. https://doi.org/10.1186/1471-2458-13- 
+296 . 
+Pronk, N.P., Katz, A.S., Lowry, M., Payfer, J.R., 2012. Reducing occupational sitting time 
+and improving worker health: the take-a-stand project, 2011. Prev. Chronic Dis. 9 
+https://doi.org/10.5888/pcd9.110323 . 
+Riddell, M.F., Callaghan, J.P., 2021. Ergonomics training coupled with new Sit-Stand 
+workstation implementation influences usage. Ergonomics 64, 582 – 592. https://doi. 
+org/10.1080/00140139.2020.1859138 . 
+Robertson, M.M., Ciriello, V.M., Garabet, A.M., 2013. Office ergonomics training and a 
+sit-stand workstation: effects on musculoskeletal and visual symptoms and 
+performance of office workers. Appl. Ergon. 44, 73 – 85. https://doi.org/10.1016/j. 
+apergo.2012.05.001 . 
+Sartika, S.J., Dawal, S.Z., 2010. A comparison of the effect of using sit/stand stool on 
+prolonged standing task. Proc. Int. MultiConference Eng. Comput. Sci. 2010, IMECS 
+2010, 1958 – 1962 . 
+Schinkel-Ivy, A., Nairn, B.C., Drake, J.D.M., 2013. Investigation of trunk muscle co- 
+contraction and its association with low back pain development during prolonged 
+sitting. J. Electromyogr. Kinesiol. 23, 778 – 786. https://doi.org/10.1016/j. 
+jelekin.2013.02.001 . 
+Schwartz, M.H., Rozumalski, A., 2005. A new method for estimating joint parameters 
+from motion data. J. Biomech. 38, 107 – 116. https://doi.org/10.1016/J. 
+JBIOMECH.2004.03.009 . 
+Sheahan, P.J., Diesbourg, T.L., Fischer, S.L., 2016. The effect of rest break schedule on 
+acute low back pain development in pain and non-pain developers during seated 
+work. Appl. Ergon. 53, 64 – 70. https://doi.org/10.1016/j.apergo.2015.08.013 . 
+Tennant, R., Lab, B., I, P., 2023. eVAS . 
+Thorbj ¨ornsson, C.B., Alfredsson, L., Fredriksson, K., Mich ´elsen, H., Punnett, L., 
+Vingård, E., Torg ´en, M., Kilbom, Å., 2000. Physical and psychosocial factors related 
+to low back pain during a 24- year period: a nested case-control analysis. Spine 25, 
+369 – 375. https://doi.org/10.1097/00007632-200002010-00019 . 
+Van Vuuren, B.J., Becker, P.J., Van Heerden, H.J., Zinzen, E., Meeusen, R., 2005. Lower 
+back problems and occupational risk factors in a South African steel industry. Am. J. 
+Ind. Med. 47, 451 – 457. https://doi.org/10.1002/AJIM.20164 . 
+Vergara, M., Page, 
+´
+A., 2002. Relationship between comfort and back posture and 
+mobility in sitting-posture. Appl. Ergon. 33, 1 – 8. https://doi.org/10.1016/S0003- 
+6870(01)00056-4 . 
+Viggiani, D., Noguchi, M., Gruevski, K.M., De Carvalho, D.E., Callaghan, J.P., 2014. The 
+effect of wallet thickness on spine posture, seat interface pressure, and perceived 
+discomfort during sitting. IIE Trans. Occup. Ergon. Hum. Factors 2, 83 – 93. https:// 
+doi.org/10.1080/21577323.2014.962712 . 
+Wilder, D.G., Pope, M.H., Frymoyer, J.W., 1988. The biomechanics of lumbar disc 
+herniation and the effect of overload and instability. J. Spinal Disord. 1, 16 – 32. 
+https://doi.org/10.1097/00002517-198801000-00004 . 
+Wilke, H.J., Neef, P., Caimi, M., Hoogland, T., Claes, L.E., 1999. New in vivo 
+measurements of pressures in the intervertebral disc in daily life. Spine 24, 755 – 762. 
+https://doi.org/10.1097/00007632-199904150-00005 . 
+Wilks, S., Mortimer, M., Nyl ´en, P., 2006. The introduction of sit-stand worktables; 
+aspects of attitudes, compliance and satisfaction. Appl. Ergon. 37, 359 – 365. https:// 
+doi.org/10.1016/j.apergo.2005.06.007 . 
+Williams, M.M., Hawley, J.A., McKenzie, R.A., Van Wijmen, P.M., 1991. A comparison of 
+the effects of two sitting postures on back and referred pain. Spine 16, 1185 – 1191. 
+https://doi.org/10.1097/00007632-199110000-00010 . 
+Wu, G., Siegler, S., Allard, P., Kirtley, C., Leardini, A., Rosenbaum, D., Whittle, M., 
+D ’ Lima, D.D., Cristofolini, L., Witte, H., Schmid, O., Stokes, I., 2002. ISB 
+recommendation on definitions of joint coordinate system of various joints for the 
+reporting of human joint motion–part I: ankle, hip, and spine. International Society 
+of Biomechanics. J. Biomech. 35, 543 – 548. https://doi.org/10.1016/s0021-9290 
+(01)00222-6 . 
+Zehr, J.D., Tennant, L.M., Buchman-Pearle, J.M., Callaghan, J.P., 2021. Reconstructing 
+an accelerometer-based pelvis segment for three-dimensional kinematic analyses 
+during laboratory simulated tasks with obstructed line-of-sight. J. Biomech. 123, 
+110512 https://doi.org/10.1016/J.JBIOMECH.2021.110512 . 
+J.M. Davidson et al.

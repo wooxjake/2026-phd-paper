@@ -17,7 +17,29 @@
 
 - **원문 텍스트**: [Electromyographical indication of muscular fatigue in occupational field studies.txt](../Electromyographical%20indication%20of%20muscular%20fatigue%20in%20occupational%20field%20studies.txt)
 
-1. [본문 인용 위치 미정]
+1. [3-3-1_피로지표_해석.md - 2. JASA 판정표](../../method/3.%20EMG%20-%20fatigue,RVC/3-3-1_피로지표_해석.md)
+
+   > "(i) For EMG recordings for which a simultaneous increase in EA and MF over time is observed, the concordant statement drawn from the change in amplitude and spectrum is an increase in muscle force. (ii) An increase in EA which occurs together with a decrease in MF can be regarded as the result of muscle fatigue. (iii) Similarly a decrease in EA and an increase in MF points to recovery from previous muscle fatigue. (iv) A decrease in EA accompanied by a decrease in MF can be regarded as a sign of muscle force decrease."
+   >
+   > "muscular fatigue is assumed in cases, only, where an increase in EA as well as a decrease in MF over time was observed."
+
+2. [3-3-1_피로지표_해석.md - 1. 지표 하나만으로는 판정할 수 없는 이유](../../method/3.%20EMG%20-%20fatigue,RVC/3-3-1_피로지표_해석.md)
+
+   > "the methods for fatigue indication are only applicable if EMG sections with identical force production are taken into account. This results in a considerable restriction for use in occupational field studies."
+   >
+   > "In case of fatigue a left shift in the spectral distribution was consistently found."
+   >
+   > "an increase in MF is observed with increasing force up to forces of more than 60% of the maximum voluntary contraction force (MVC)."
+   >
+   > "due to its more uniform behavior the use of MF was preferred in the JASA method for the characterization of the dependency of the EMG spectrum on the force level."
+
+3. [3-3-1_피로지표_해석.md - 4. 사분면 안의 위치는 해석하지 않는다](../../method/3.%20EMG%20-%20fatigue,RVC/3-3-1_피로지표_해석.md)
+
+   > "A systematic analysis of the causation for the different locations of the dots using the data shown in Fig. 6 is not advisable, since the respective EMGs were recorded under field conditions and some supposed influencing factors like body posture or body movements were not controlled with sufficient accuracy."
+   >
+   > "For further interpretations additional studies are necessary."
+
+4. [본문 인용 위치 미정]
    > "Surface electromyography offers a valuable tool for the indication of muscular fatigue in occupational field studies."
    >
    > "For the indication of muscle fatigue, EMGs for situations connected with similar muscle load should only be compared, since the EMG amplitude as well as the spectrum do not only depend upon the fatigue state, but also upon the produced muscle force."

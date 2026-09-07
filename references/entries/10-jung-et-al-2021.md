@@ -10,3 +10,9 @@
 - **측정 방법 및 절차**: 좌식 시작·종료 시 Borg CR-10으로 불편감 측정 → 30분간 정상 속도 타이핑 과제 수행(과도한 자세부담 시 자세전환 허용) → EMG는 첫 5분과 마지막 5분 구간의 중앙주파수 평균을 산출해 초기값 대비 정규화.
 - **측정장비 및 변인**: 표면 EMG(1000Hz, 대역 20–450Hz, 전파정류 후 처리) — 양측 IO/TrA(전상장골극 1cm 내측)·다열근 부착. 변인: 중앙주파수(MDF) 변화율, Borg CR-10. 결과: 집단 간·집단 내 MDF 유의차 없음, LBP군에서 불편감만 유의하게 큼.
 
+## Citation Like
+
+- **원문 텍스트**: [Effects of Prolonged Sitting with Slumped Posture on Trunk Muscular Fatigue in Adolescents with and without Chronic Lower Back Pain.txt](../Effects%20of%20Prolonged%20Sitting%20with%20Slumped%20Posture%20on%20Trunk%20Muscular%20Fatigue%20in%20Adolescents%20with%20and%20without%20Chronic%20Lower%20Back%20Pain.txt)
+
+1. [introduce.md#L59](../../introduce.md#L59)
+   > "The median frequency was obtained from the EMG data analysis of the first and last 5 min. The mean value of the EMG median frequency for the 5-min periods was calculated and normalized to the initial value. The median frequency change was used as the muscle fatigue index [9]."

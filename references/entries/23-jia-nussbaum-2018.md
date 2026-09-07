@@ -34,27 +34,32 @@
    >
    > "Data from the first minute of each 40-min task were discarded, since participants often needed this time to obtain a stable posture."
 
-4. [introduce_copilot.md - 표면근전도 측정과 체간근 변인](../../introduce_copilot.md#초안-표면근전도-측정과-체간근-변인)
+4. [introduce.md#L59](../../introduce.md#L59)
+
+   > "Median power frequency was determined from the raw EMG of each muscle over 1-second windows, from the first five (i.e., 2-6 min) and the last five min. of each task; MPF was calculated using Fast Fourier Transforms as described in van Dieën et al. (1993). Mean values of EMG MPF over these 5-min samples were then obtained, and subsequently normalized to initial values."
+
+5. [introduce_copilot.md - 표면근전도 측정과 체간근 변인](../../introduce_copilot.md#초안-표면근전도-측정과-체간근-변인)
 
    > "Raw EMG signals were sampled at 1000 Hz and then amplified, band-pass filtered (20 - 400 Hz), and root-mean-square converted with a moving window of 50-millisecond duration in hardware."
 
-5. [introduce_copilot.md - IMU 측정과 요추각 변인](../../introduce_copilot.md#초안-imu-측정과-요추각-변인)
+6. [introduce_copilot.md - IMU 측정과 요추각 변인](../../introduce_copilot.md#초안-imu-측정과-요추각-변인)
+
    > "IMUs were sampled at 100 Hz and subsequently low-pass filtered at 4 Hz (4th order Butterworth; bidirectional)."
 
-6. [introduce.md - 연구대상과 집단 구성](../../introduce.md#연구대상과-집단-구성)
+7. [introduce.md - 연구대상과 집단 구성](../../introduce.md#연구대상과-집단-구성)
 
    > "No participants had any self-reported musculoskeletal injuries or neurological diseases within the past year, and individuals with body mass index >30 kg/m2 were excluded due to the potential difficulties in obtaining surface EMG measures and evoking reliable muscle stimulation responses."
 
-7. [introduce.md - 앉은 자세 유지 조건](../../introduce.md#앉은-자세-유지-조건)
+8. [introduce.md - 앉은 자세 유지 조건](../../introduce.md#앉은-자세-유지-조건)
 
    > "Each trial involved participants sitting on a stool with no backrest. Stool height was adjusted prior to the first trial for each participant, so that both thighs were horizontal and with a 90° included knee angle."
    >
    > "Data from the first minute of each 40-min task were discarded, since participants often needed this time to obtain a stable posture."
 
-8. [introduce.md - 표면근전도와 체간근 변인](../../introduce.md#표면근전도와-체간근-변인)
+9. [introduce.md - 표면근전도와 체간근 변인](../../introduce.md#표면근전도와-체간근-변인)
 
    > "Raw EMG signals were sampled at 1000 Hz and then amplified, band-pass filtered (20 - 400 Hz), and root-mean-square converted with a moving window of 50-millisecond duration in hardware."
 
-9. [introduce.md - 관성측정장치와 요추각 변인](../../introduce.md#관성측정장치와-요추각-변인)
+10. [introduce.md - 관성측정장치와 요추각 변인](../../introduce.md#관성측정장치와-요추각-변인)
 
-   > "IMUs were sampled at 100 Hz and subsequently low-pass filtered at 4 Hz (4th order Butterworth; bidirectional)."
+    > "IMUs were sampled at 100 Hz and subsequently low-pass filtered at 4 Hz (4th order Butterworth; bidirectional)."

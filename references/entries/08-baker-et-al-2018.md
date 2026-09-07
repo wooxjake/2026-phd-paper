@@ -27,6 +27,10 @@
 - **원문 텍스트**: [The Short Term Musculoskeletal and Cognitive Effects of Prolonged Sitting During Office Computer Work.txt](../The%20Short%20Term%20Musculoskeletal%20and%20Cognitive%20Effects%20of%20Prolonged%20Sitting%20During%20Office%20Computer%20Work.txt)
 
 1. [introduce.md#L62](../../introduce.md#L62)
+
    > "The current study examined discomfort, cognitive function, muscle fatigue, low back angle, pelvis movement and mental state over two hours of prolonged sitting. Discomfort increased significantly across all body areas with low back rated highest."
    >
    > "There were no effects on muscle fatigue, low back angle or pelvis movement over time."
+
+2. [introduce.md#L59](../../introduce.md#L59)
+   > "Measures of all dependent variables were taken at commencement and repeated at 30 min intervals (ﬁve measures in total)."
