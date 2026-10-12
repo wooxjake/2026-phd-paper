@@ -1,0 +1,756 @@
+===== PAGE 1 =====
+
+Too Much Sitting: The Population-Health Science of Sedentary
+Behavior
+Neville Owen1, Geneviève N Healy1,2, Charles E. Matthews3, and David W. Dunstan2
+1Cancer Prevention Research Centre, School of Population Health, The University of
+Queensland, Queensland, Australia
+2Baker IDI Heart and Diabetes Institute, Victoria, Australia
+3Nutritional Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National
+Cancer Institute, Rockville, MD
+Abstract
+Even when adults meet physical activity guidelines, sitting for prolonged periods can compromise
+metabolic health. TV time and objective-measurement studies show deleterious associations, and
+breaking up sedentary time is beneficial. Sitting time, TV time, and time sitting in automobiles
+increase premature mortality risk. Further evidence from prospective studies, intervention trials,
+and population-based behavioral studies is required.
+Keywords
+environmental and social change; TV time; breaks in sedentary time; accelerometer measurement;
+blood glucose; triglycerides; metabolic health
+INTRODUCTION
+The physical, economic and social environments in which modern humans sit or move
+within the contexts of their daily lives have been changing rapidly, and particularly so since
+the middle of the last century. These changes — in transportation, communications,
+workplace and domestic-entertainment technologies — have been associated with
+significantly-reduced demands for physical activity. However, these reductions in the
+environmental demands for being physically active are associated with another class of
+health-related behaviors.
+Sedentary behaviors (typically in the contexts of TV viewing, computer and game-console
+use, workplace sitting, and time spent in automobiles) have emerged as a new focus for
+research on physical activity and health (18, 27, 31-33). Put simply, the perspective that we
+propose is that too much sitting is distinct from too little exercise. Research findings on
+sedentary behavior and health have proliferated in the 10 years following publication of our
+first Exercise and Sport Sciences Reviews paper on this topic (32). As we will demonstrate,
+initial findings on the metabolic correlates of prolonged TV viewing time (TV time) have
+since been confirmed by recent objective-measurement studies, which also show that
+breaking up sedentary time can be beneficial. Furthermore, we describe recent studies from
+Canada, Australia, and the United States, which show prospective relationships of sedentary
+Corresponding Author Neville Owen, PhD, The University of Queensland, Cancer Prevention Research Centre, School of Population
+Health, Level 3, Public Health Building, Herston Road, Herston QLD 4006, Australia, Phone: +61 7 3365 5528; Fax: +61 7 3365
+5540; n.owen@sph.uq.edu.au.
+NIH Public Access
+Author Manuscript
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+Published in final edited form as:
+Exerc Sport Sci Rev. 2010 July ; 38(3): 105–113. doi:10.1097/JES.0b013e3181e373a2.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 2 =====
+
+behaviors with premature mortality. Importantly, adults can meet public-health guidelines
+on physical activity, but if they sit for prolonged periods of time, their metabolic health is
+compromised. This is a new and challenging area for exercise science, behavioral science,
+and population-health research. However, many scientific questions remain to be answered
+before it can be concluded with a high degree of certainty that these adverse health
+consequences are uniquely due to too much sitting, or if what has been observed so far can
+be accounted for by too little light, moderate, and/or vigorous activity.
+The updated recommendation for adults on Physical Activity and Public Health from the
+American College of Sports Medicine and the American Heart Association (ACSM/AHA)
+“clearly states that the recommended amount of aerobic activity (whether of moderate- or
+vigorous-intensity) is in addition to routine activities of daily living which are of light
+intensity, such as self care, casual walking or grocery shopping, or less than 10 min of
+duration such as walking to the parking lot or taking out the trash” ((20) p. 1426). Logically,
+doing such daily activities differently could involve reductions in sitting time, but sitting per
+se is not addressed specifically in the recommendations. In this context, the key question to
+be asked about the strength of the evidence on sedentary behavior and health that we present
+in this paper is: Would one expect to see a statement on reducing sitting time included in
+future physical activity recommendations?
+Sedentary Behavior
+Sedentary behaviors (from the Latin sedere, “to sit”) include sitting during commuting, in
+the workplace and the domestic environment, and during leisure time. Sedentary behaviors
+such TV viewing, computer use, or sitting in an automobile typically are in the energy-
+expenditure range of 1.0 to 1.5 METs (multiples of the basal metabolic rate)(1). Thus,
+sedentary behaviors are those that involve sitting and low levels of energy expenditure. In
+contrast, moderate-to-vigorous physical activity such as bicycling, swimming, walking, or
+running may be done in a variety of body positions, but require an energy expenditure of 3
+to 8 METs (1). In this perspective, light intensity activity behaviors are those done while
+standing, but that requires expenditure of no more than 2.9 METS.
+Addressing research on the health consequences of sedentary behavior requires some initial
+clarification of terminology. We refer to sedentary behaviors (different activities, for
+different purposes in different contexts; see above). We refer also to sitting time, a generic
+descriptor covering what these sedentary behaviors primarily involve. As we demonstrate
+below, adults spend the majority of their waking hours either sitting, or in light intensity
+activity (predominantly standing with some gentle ambulation).
+Time in sedentary behaviors is significant, if only because it displaces time spent in higher
+intensity physical activity — contributing to a reduction in overall physical activity energy
+expenditure. For example, displacement of two hours per day of light intensity activity (2.5
+METS) by sedentary behaviors (1.5 METS) would be predicted to reduce physical activity
+energy expenditure by about two MET-hrs/d, or approximately the level of expenditure
+associated with walking for 30 min per day (0.5 hrs * 3.5 METs = 1.75 MET-hrs).
+Research on physical activity and health has concentrated largely on quantifying the amount
+of time spent in activities involving levels of energy expenditure of 3 METs or more,
+characterizing those with no participation at this level as “sedentary” (33). However, this
+definition neglects the substantial contribution that light intensity (1.9 to 2.9 METs)
+activities make to overall daily energy expenditure (8), and also the potential health benefits
+of participating in these light-intensity activities, rather than sitting. Furthermore, although
+individuals can be both sedentary and physically inactive, there is also the potential for high
+sedentary time and being physically active to co-exist (the Active Couch Potato
+Owen et al. Page 2
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 3 =====
+
+phenomenon, which we explain below). An example would be an office worker who jogs or
+bikes to and from work, but who then sits all day at a desk and spends several hours
+watching TV in the evening.
+Common behaviors in which humans now spend so much time — TV viewing, computer
+use and electronic games, sitting in automobiles — involve prolonged periods of these low
+levels of metabolic energy expenditure. It is our contention that sedentary behavior is not
+simply the absence of moderate-to-vigorous physical activity, but rather is a unique set of
+behaviors, with unique environmental determinants and a range of potentially-unique health
+consequences (43). Our population-health research perspective is on the distinct role of
+sedentary behavior, as it may influence obesity and other metabolic precursors of major
+chronic diseases (type 2 diabetes, cardiovascular disease, and breast and colon cancer).
+Sedentary Behavior and Health: A Unique Underlying Biology?
+Physiologically, distinct effects are observed between prolonged sedentary time and too
+little physical activity (17). There are broad consistencies between the patterns of findings
+from epidemiologic studies on the cardio-metabolic correlates of prolonged sitting that we
+will describe, and recent evidence on biological mechanisms — “inactivity physiology” —
+identified in animal models. It seems likely that there is a unique physiology of sedentary
+time, within which biological processes that are distinct from traditionally-understood
+exercise physiology are operating. The groundbreaking work of Hamilton and colleagues (3,
+16) provides a compelling body of evidence that the chronic, unbroken periods of muscular
+unloading associated with prolonged sedentary time may have deleterious biological
+consequences. Physiologically, it has been suggested that the loss of local contractile
+stimulation induced through sitting leads to both the suppression of skeletal muscle
+lipoprotein lipase (LPL) activity (which is necessary for triglyceride uptake and HDL-
+cholesterol production) and reduced glucose uptake (3, 16). A detailed account of findings
+and implications from Hamilton’s studies has been provided in recent reviews (17, 18).
+Hamilton’s findings suggest that standing, which involves isometric contraction of the anti-
+gravity (postural) muscles and only low levels of energy expenditure, elicits EMG and
+skeletal muscle LPL changes. However, in the past, this form of standing would be
+construed as a “sedentary behaviour” because of the limited amount of bodily movement
+and energy expenditure entailed. This highlights the need for an evolution of the definitions
+used for sedentary behavior research. Within this perspective, standing would not be a
+sedentary activity and our approach (subject to revision as further findings accumulate) is to
+equate “sedentary” with ”sitting.”
+THE METABOLIC HEALTH CONSEQUENCES OF TOO MUCH SITTING
+TV Viewing Time: The AusDiab Studies
+AusDiab (the Australian Diabetes, Obesity and Lifestyle study) conducted initially in
+1999/2000, of a common leisure-time sedentary behavior — TV viewing time — with
+biomarkers of cardio-metabolic risk. AusDiab recruited a large, population-based sample of
+some 11,000 adults from all Australian states and the Northern Territory. Some of our first
+AusDiab findings were that among adults without known diabetes, self-reported TV viewing
+time was positively associated with undiagnosed abnormal glucose metabolism (12) and the
+metabolic syndrome (11). The strongest relationships were observed in the highest TV time
+category (four hours or more per day). When TV time was considered as a continuous
+measure (10), a detrimental, dose-response association was observed in women between TV
+viewing time and 2-h plasma glucose and fasting insulin. Importantly, all of these
+associations persisted after adjustment for sustained moderate-to-vigorous intensity leisure
+time physical activity and waist circumference. Some of these cross sectional relationships
+Owen et al. Page 3
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 4 =====
+
+have been replicated recently in prospective analyses: increases in TV viewing over five-
+years predicted significant adverse changes in waist circumference for men and women and
+in diastolic blood pressure and a clustered cardio-metabolic risk score for women. These
+associations were independent of baseline television viewing time, baseline physical activity
+and physical activity change, and other potential confounders (48).
+Being Sedentary and Meeting Physical Activity Guidelines: The Active Couch Potato
+We further examined relationships of TV time with continuous metabolic risk in men and
+women who reported at least 150 min a week of moderate-to-vigorous intensity physical
+activity — the generally-accepted public health guidelines for health-enhancing physical
+activity (20). Among these healthy, physically-active adults, significant detrimental dose-
+response associations of TV time were observed with waist circumference, systolic blood
+pressure, and 2-h plasma glucose in both men and women, as well as fasting plasma glucose,
+triglycerides, and HDL-cholesterol in women only (23). This observation — the Active
+Couch Potato phenomenon — is important. The particular metabolic consequences of time
+spent watching TV are adverse, even among those considered to be sufficiently physically
+active to reduce their chronic disease risk. This finding reinforces the potential importance
+of the deleterious health consequences of prolonged sitting time, which may be independent
+of the protective effect of regular moderate-intensity physical activity.
+TV Viewing Time: Associations with Biomarkers for Men and for Women
+One of the striking findings in the AusDiab TV-time studies was that the associations with
+cardio-metabolic biomarkers were stronger for women than for men (10-12, 23). We
+subsequently examined the associations of both TV time and self-reported overall sitting
+time with these biomarkers in the 2004/2005 AusDiab sample (42). The TV time
+relationships for women were replicated, but for self-reported overall sitting time (which is
+inclusive of the TV time component), the associations were similar for men and women. So,
+the question remains as to whether there is a particular relationship of TV time with
+metabolic health for women. There are some testable hypotheses that can be put forward in
+this context: Are there dietary or TV time-related snacking differences between men and
+women? Are women (who have a lower average skeletal muscle mass and a higher average
+fat mass than men) metabolically more susceptible to the adverse influences of prolonged
+sitting, following the typically-large evening meal?
+Although some of our most striking initial findings on the adverse health consequences of
+sedentary behavior have been for TV time, there should be caution in treating this common
+leisure-time sedentary behavior as a marker for overall sedentary time. We have modest
+evidence (39) that for women, TV time is positively correlated with other leisure time
+sedentary behaviors and with being less likely to meet physical activity and health
+guidelines. However, these findings need to be replicated in other populations and with other
+measures. Furthermore, TV viewing is associated with other health-related behaviors (51)
+and those in the highest TV time categories are more likely to eat in front of the TV set (26).
+It is thus plausible that TV time will influence energy balance in two main ways. Most
+people sit to watch TV and it has a lower energy cost than the alternative activities that it
+replaces. Also, high levels of TV time are likely to increase energy intake because of
+prompts from frequent commercials about food and beverages, and unlike for many other
+activities, the hands are free to eat during TV time (51). It is thus a reasonable hypothesis
+that this latter factor may partially explain why higher levels of TV time are associated with
+higher waist circumferences and with adverse blood-glucose and lipid profiles.
+We must emphasize that TV time is one of a number of sedentary behaviors that characterise
+how adults go about their daily lives, and there is potential measurement error associated
+Owen et al. Page 4
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 5 =====
+
+with using the self-report measures that are common to most TV-time studies. However,
+based on our recent systematic review (6), we have some confidence that the TV-time
+measures that we have used are reasonably reliable and valid.
+OBJECTIVE ASSESSMENT OF SEDENTARY TIME: NEW FINDINGS
+Advances in the Objective Measurement of Sedentary Behavior
+These Australian studies summarised above have all relied on self-reported TV time or
+overall sitting time. However, advances in measurement technology now provide
+significantly-enhanced scientific traction, which is helping to deal with the methodological
+limitation of measurement error related to the use of self-report items. Prior to summarising
+findings from our objective-measurement studies with AusDiab study participants, it is
+helpful to consider the new perspectives that emerge when accelerometer data on sedentary
+time and physical activity are examined. Accelerometers (as distinct from pedometers which
+count and display number of steps taken) are small electronic devices worn on the hip,
+which provide an objective record of the volume, intensity, and frequency of activity
+between and within days, which may be downloaded to computer databases and used to
+derive scientifically-meaningful activity variables. Accelerometers have been employed as
+part of the National Health and Nutrition Examination Survey (NHANES), gathering data
+from large population-based samples of adult residents of the United States. Findings
+reported to date suggest that, compared to what has been assumed to be the case from self-
+report surveys, levels of participation in moderate-to-vigorous physical activity are
+extremely low (44), and that some 60% or more of these adults’ waking hours are spent
+sedentary (29).
+Sedentary Behavior during Adults’ Waking Hours
+To illustrate the overall patterns of activity in adults’ daily lives, Figure 1 shows a cluster
+heat map (49). This is a graphical representation from Genevieve Healy, showing
+accelerometer data for one individual over one week, in the manner originally presented by
+Jane Kent-Braun’s group (15). The values taken by the accelerometer counts within each
+minute are represented as colors in the two-dimensional map. The dark blue shading shows
+accelerometer counts that are below the currently used but still debated cut-off of 100 counts
+per minute for sedentary time, and which are taken to be indicative predominantly of sitting
+(a caveat, however, is that some of the minutes shown sedentary will include standing quite
+still). The pale-blue through to yellow colorings indicate light-intensity through to moderate-
+intensity physical activities. The yellow through to red indicate moderate-to-vigorous
+physical activity. From an energy-expenditure perspective, the dark blue translates to very
+low levels of energy expenditure, with the red reflecting high energy expenditure levels.
+What is striking in Figure 1 is the extent to which this person spends his or her time either in
+light-intensity activities (pale blue through to white) and being sedentary (dark blue). While
+we would not contend that this is a totally precise and unambiguous representation of sitting
+time, light intensity, and moderate-vigorous activity, it nevertheless is an informative
+perspective.
+Figure 1 illustrates one of our key messages about the role of sedentary time in the physical
+activity and health equation: it is possible to achieve a level of activity consistent with the
+public-health guidelines for health-related physical activity (30 min of moderate intensity
+physical activity on most days of the week) but to spend the vast majority of waking hours
+involved in sedentary behaviors. In this case, we see that the accumulated moderate-to-
+vigorous physical activity time is 31 min; however, this person spends 71% of their waking
+hours in sedentary time. Thus, it is possible for individuals to be physically active, yet
+Owen et al. Page 5
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 6 =====
+
+highly sedentary — the Active Couch Potato phenomenon identified in the AusDiab TV-
+time studies (24).
+The main scientific caveat for this perspective is that these data show “activity,” which we
+infer is reflective of “behavior.” However, there are scientific devils in the detail of these
+objective-movement data: debate remains about what are the most appropriate activity-count
+cut points to identify sedentary and light intensity time; also, different cut points may be
+appropriate for adults of different ages, race/ethnicity, and adiposity status.
+Objectively-Assessed Sedentary Time: Key Studies
+As well as demonstrating remarkably-low levels of physical activity and high levels of
+sedentary time within contemporary human environments (29, 44), objective measures have
+also demonstrated the adverse impact of prolonged sedentary time on cardio-metabolic
+biomarkers of risk. At least three studies in Europe and Australia have examined the
+associations of objectively-measured sedentary time with continuous cardio-metabolic
+biomarkers: the ProActive trial conducted in the United Kingdom (UK), the European RISC
+study, and the AusDiab study (2, 13, 14, 23, 25). For those in the UK ProActive trial (258
+participants aged 30-50 yr with a family history of type 2 diabetes), sedentary time was
+detrimentally associated with insulin in the cross-sectional analysis (14), but was of
+borderline statistical significance (p=0.07) in the one-year prospective analysis (13).
+Detrimental cross-sectional associations of sedentary time with insulin were also observed in
+participants of the European RISC study (801 participants aged 30-60 yr, healthy adults),
+though the associations were attenuated following adjustment for total activity (2). In the
+AusDiab accelerometer-study sample (169 participants aged 30-87 yr, general population),
+we observed detrimental associations of sedentary time with waist circumference,
+triglycerides, and 2-hr plasma glucose (22, 24). It is important to point out that the
+participants in all of these studies were primarily White adults of European descent (2, 13,
+14, 22, 24). A key next step for this research is to examine whether the associations are
+consistent across different racial/ethnic groups, which is becoming feasible with the public
+availability of large, multi-ethnic population-based datasets, particularly NHANES (29, 44).
+Objectively-Assessed Sedentary Behavior: AusDiab Findings
+We used accelerometers to assess sedentary time in a sub-sample of the AusDiab study
+participants. Sedentary time was defined as accelerometer counts below 100 per minute (see
+above), and was associated with a larger waist circumference, and more-adverse 2-h plasma
+glucose and triglyceride profiles as well as a clustered metabolic risk score (22, 24). The
+associations of sedentary time with these biomarkers (with the exception of triglycerides)
+remained significant, following adjustment for time spent in moderate-to-vigorous intensity
+physical activity (22, 24).
+As logically would be expected, sedentary time and light-intensity activity time were highly
+negatively correlated (r = -0.96): more time spent in light-intensity activity is associated
+with less time spent sedentary. This suggests that it may be a feasible approach to promote
+light intensity activities as a way of ameliorating the deleterious health consequences of
+sedentary time. Our evidence suggests that having a positive light intensity/sedentary time
+balance (that is; spending more time in light-intensity than sedentary time) is desirable, since
+light-intensity activity has an inverse linear relationship with a number of cardio-metabolic
+biomarkers (22, 24).
+Breaks in Sedentary Time: AusDiab Findings
+One of the intriguing findings from our accelerometer-measurement studies is that breaks in
+sedentary time (as distinct from the overall volume of time spent being sedentary) were
+Owen et al. Page 6
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 7 =====
+
+shown to have beneficial associations with metabolic biomarkers (21). Sedentary time was
+considered to be interrupted if accelerometer counts rose up to or above 100 counts per
+minute (21). This can include behaviors that result in a transition from sitting to a standing
+position or from standing still to beginning to walk. Figure 2 is based on data from two of
+our AusDiab accelerometer-study participants, showing a simple contrast between adults
+who have the same total volume of sedentary time, but who break up that time in contrasting
+patterns. The person whose data is shown in the right-hand panel of Figure 2 (the “Breaker”)
+interrupts their sedentary time far more frequently than the person whose data are shown on
+the left panel (the “Prolonger”).
+Independent of total sedentary time, moderate-to-vigorous intensity activity time and mean
+intensity of activity, we found that having a higher number of breaks in sedentary time was
+beneficially associated with waist circumference, body mass index, triglycerides, and 2-h
+plasma glucose (21). Figure 3 shows objectively-measured waist circumference across
+quartiles of breaks in sedentary time. Those in the bottom quarter of the “breaks”
+distribution had, on average, a 6cm larger waist circumference than did those in the top
+quarter of that distribution (21).
+These findings on breaks in sedentary time provide intriguing preliminary evidence on the
+likely metabolic-health benefits of regular interruptions to sitting time, which we would
+argue are additional to the benefits that ought to accrue from reducing overall sedentary
+time. Interestingly, in a recent study (5), patterns of sedentary time accumulation (but not
+total sedentary time) were shown to differ among four groups of adults with various activity
+patterns (healthy group with active occupation; healthy group with sedentary occupation;
+group with chronic back pain; group with chronic fatigue syndrome). As we will go on to
+propose, while we believe that these are strongly-indicative findings, there is the need to
+determine whether these associations can be confirmed in experimental manipulations of
+sitting time in the laboratory, and in intervention studies where sedentary time is reduced or
+broken up in naturalistic settings such as the domestic environment or the workplace.
+Sedentary Behavior and Mortality
+The significance of the evidence on the adverse cardio-metabolic health consequences of
+prolonged sitting time is underscored by findings from a mortality follow-up of participants
+in the Canada Fitness Surveys. Canadians who reported spending the majority of their day
+sitting had significantly poorer long-term mortality outcomes than did those who reported
+that they spent less time sitting. These relationships with mortality were consistent across all
+levels of a self-report measure of overall sitting time. Participants estimated the broad
+fractions of their waking hours that were spent sitting. Importantly, the sitting time-mortality
+relationships were apparent even among those who were physically active, and were
+stronger among those who were overweight or obese (25). In a follow-up of AusDiab study
+participants over 6.5 yr, high levels of TV time were significantly associated with increased
+all-cause and cardiovascular disease mortality (9). Each one hour increment in TV time was
+found to be associated with an 11% and an 18% increased risk of all-cause and
+cardiovascular disease mortality, respectively. Furthermore, relative to those watching less
+TV (< 2 hours/day), there was a 46% increased risk of all-cause and an 80% increased risk
+of cardiovascular disease mortality in those watching four or more hours of TV per day,
+independent of traditional risk factors such as smoking, blood pressure, cholesterol and diet,
+as well as leisure-time physical activity and waist circumference. A recent study from the
+United States (47) examined sedentary behaviors in relation to cardiovascular mortality
+outcomes, based on 21 yr of follow-up of 7744 men. Those who reported spending more
+than 10 h a week sitting in automobiles (compared to less than four hours a week), and more
+than 23 h of combined television time and automobile time (compared to less than 11 hours
+Owen et al. Page 7
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 8 =====
+
+a week) had an 82% and 64% greater risk of dying from cardiovascular disease,
+respectively. TV time alone was not a significant predictor (47).
+RESEARCH DIRECTIONS
+Looking Back through a Sedentary Behavior Lens
+Emerging findings on sedentary behavior suggest a different perspective through which
+findings of earlier physical activity and health research studies may be re-examined (we
+thank William L. Haskell for stimulating these observations). For example, physical activity
+epidemiology studies that have assessed physical activity comprehensively have often
+included measures of sitting time, which has been used mainly to derive overall daily energy
+expenditure estimates. We would predict (perhaps boldly) that if such studies were to be
+revisited, with further analyses being conducted using sitting time as a distinct exposure
+variable, that strong evidence would be found for deleterious effect on subsequent health
+outcomes, independent of those related to physical inactivity.
+Another potentially fruitful area in which the relevance of existing evidence could be re-
+examined, are the NASA zero-gravity studies. Comparing findings of those studies (that
+relate to the metabolic consequences of extreme muscular unloading) with those of the
+recent findings from inactivity physiology (16, 17) may lead yield further insights relating to
+the underlying biology of prolonged sedentary time.
+Research on physical activity and health had its roots in early occupational epidemiological
+studies that assessed workers in jobs that primarily involve sitting as the comparison groups,
+against which the protective benefits of physically-active work were highlighted (4, 17, 18).
+In the perspective of the new evidence that we have highlighted, conducting further
+occupational epidemiology studies using new objective measurement capabilities, and
+examining a range of cardio-metabolic and inflammatory biomarkers as intermediate
+outcomes, could yield valuable insights.
+Sedentary Behavior Research Strategy
+Our population-health research program on sedentary behavior is guided by the behavioral
+epidemiology framework (34, 36). Figure 4 shows six research phases. As we demonstrate
+above, evidence within the first phase (examining the relationships of sedentary behavior to
+cardio-metabolic biomarkers and health outcomes) has strengthened rapidly over the past 10
+yr.
+Prolonged periods of sitting in people’s lives need to be measured precisely (phase ii). Their
+contextual determinants — that is, behavior settings (32, 35) — need to be identified in
+domestic, workplace, transportation and recreation contexts (phase iii). We have argued
+previously for a research focus on the distinct environmental determinants of sedentary
+behaviors, in contexts where they can be amenable to intervention (31, 32, 37, 41). The
+feasibility and efficacy of such interventions need to be tested rigorously (phase iv).
+Importantly, public health policy responses need to be informed by evidence from all of
+these phases. Compared to the challenges for physical activity and public health, sedentary
+behavior may be less of a ”moving target” in this context, and may be shown to be a
+tractable public health objective (4).
+The Population-Health Science of Sedentary Behavior: Research Opportunities
+Different sedentary behaviors and their interactions with physical activity need to be
+examined in a range of contexts. For example, we have demonstrated leisure-time Internet
+and computer use is related to overweight and obesity in Australian adults (45), and that
+Owen et al. Page 8
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 9 =====
+
+habitual active transport reduces the impact of TV time on body mass index (40). Having
+identified these relationships, our program is now broadening the evidence base through
+research with other populations. New studies include work with the large population-based
+dataset from the NHANES from the United States, examining potential racial and ethnic
+differences in the relationships of total sedentary time and breaks in sedentary time with
+cardio-metabolic biomarkers. We have demonstrated significant associations of TV time
+with excess body weight among high school students in regional mainland China (52). In the
+context of the rapid economic development and increasing urbanisation among the
+populations of many developing countries, documenting the health consequences of
+reductions in physical activity and increases sedentary time will be crucial for informing
+preventive-health measures.
+Studies with high-risk groups are also required. For example, we examined accelerometer-
+derived physical activity, sedentary time and obesity in breast cancer survivors, showing
+physical activity to be protective, but no deleterious relationship for sedentary time (28).
+Significant prospective relationships of TV time with weight gain over three years were
+identified in a large, population-based cohort of Australian colorectal-cancer survivors (48).
+More such etiologic research is needed, to examine potential relationships between too much
+sitting and the development of other diseases that have been linked to metabolic risk factors.
+For the second phase of the behavioral epidemiology framework (measurement; see Fig. 4),
+there is the need to identify the reliability and validity of self-report instruments (6).
+Population-based descriptive epidemiology studies using high-quality measures are needed.
+For example, we have shown that Australian adults with lower levels of educational
+attainment and living in rural areas our more likely to be in the highest TV time categories
+(7). We have also demonstrated that, for Australian women, being in the higher categories of
+TV time can be associated with a broader pattern of leisure-time sedentary behavior and
+being less likely to meet physical activity recommendations (39). Using American Cancer
+Society data from a large population-based study, we identified clusters of adults in the four
+hours or more category of TV time who are less-educated, obese, and snack while watching
+TV (26).
+Studies have begun to identify the environmental correlates of sedentary behavior, and
+initial findings appear puzzling. Among urban Australians, lower levels of objectively-
+assessed neighborhood walkability (poorly connected streets, low levels of residential
+density, and limited access to destinations) were found to be associated with higher TV time
+in women (41). However, a recent study in the city of Ghent, Belgium showed higher levels
+of walkability to be associated with higher amounts of accelerometer-assessed sedentary
+time (46). These apparently contradictory outcomes require further research investigation.
+Such findings have potential implications for the emerging area of research on built
+environment/obesity relationships, within which sedentary behavior is likely to have a
+significant role (30).
+Research on sedentary behaviors also needs to be extended beyond the promising initial
+studies of TV time, to understand the potential health consequences of other common
+sedentary behaviors. Evidence on the metabolic correlates of prolonged sitting in motor
+vehicles would be particularly informative, in the light of recent evidence on relationships
+with premature mortality (47). The social and environmental attributes associated with high
+levels of time spent sitting in automobiles also need to be identified.
+The highest priority for the sedentary behavior research agenda is to gather new evidence
+from prospective studies, human experimental work and intervention trials. There is the
+particular need to build on the promising findings on relationships of sedentary time —
+Owen et al. Page 9
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 10 =====
+
+overall sitting time, TV time and time sitting in automobiles — with premature mortality (9,
+25, 47). Controlled experimental studies with humans should also be particularly
+informative. For example, we are currently conducting a laboratory study experimentally
+manipulating different “sedentary break” conditions, and examining associated changes in
+cardio-metabolic biomarkers (focusing on triglycerides, glucose and insulin).
+Field studies are also needed on the feasibility and acceptability of reducing and breaking up
+occupational, transit and domestic sedentary time. For example, in a weight-control
+intervention trial for adults with type 2 diabetes, we are testing the impact of a sedentary
+behavior reduction intervention module and examining behavioral and biomarker changes
+associated with reducing and breaking up sedentary time. There are multiple research
+opportunities that explored through integrating sedentary behavior change intervention into
+physical activity trials. When accelerometer data are gathered from such studies, sedentary
+time measures can be derived (21, 22, 24), and unique hypotheses may readily be tested. It is
+imperative that the field now moves to obtain such evidence through intervention trials,
+which will take the science beyond the inherent logical limitations of cross-sectional
+evidence.
+Eleven Research Questions for a Science of Sedentary Behavior
+1. Can further prospective studies examining incident disease outcomes confirm the
+initial sedentary behavior/mortality findings?
+2. Can sedentary behavior/disease relationships be identified through re-analyses of
+established prospective epidemiological data sets, by treating sitting time as a
+distinct exposure variable?
+3. What are the most valid and reliable self-report and objective measures of sitting
+time for epidemiological, genetic, behavioural, and population-health studies?
+4. Are the TV-time-biomarker relationships for women pointing to important
+biological and/or behavioral gender differences?
+5. What amounts and intensities of activity might be protective, in the context of
+prolonged sitting time?
+6. What genetic variations might underlie predispositions to sit, and greater
+susceptibility to the adverse metabolic correlates?
+7. What is the feasibility of reducing and/or breaking up prolonged sitting time, for
+different groups (older, younger) in different settings (workplace, domestic,
+transit)?
+8. If intervention trials show significant changes in sitting time, are there
+improvements in the relevant biomarkers?
+9. What are the environmental determinants of prolonged sitting time in different
+contexts (neighborhood, workplace, at home)?
+10. What can be learned from the sitting time and sedentary time indices in built-
+environment/physical activity studies?
+11. Can evidence on behavioral, adiposity, and other biomarker changes be gathered
+from “natural experiments” (for example, the introduction of height-adjustable
+workstations or new community transportation infrastructure)?
+Owen et al. Page 10
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 11 =====
+
+PRACTICAL AND POLICY IMPLICATIONS OF A SCIENCE OF SEDENTARY
+BEHAVIOR
+Practical and policy approaches to addressing too much sitting as a population-health issue
+would involve innovations on multiple levels. For example, public information campaigns
+might emphasize reducing sitting time as well as increasing physical activity. There might
+be more widespread use of innovative technologies that can provide more opportunities to
+reduce sitting time (for example, height-adjustable desks) or new regulations in workplaces
+to reduce or break-up extended periods of job-related sitting. Active transport modes could
+be promoted not only as opportunities for walking, but also as alternatives to the prolonged
+periods of time that many people spend sitting in automobiles. Providing non-sitting
+alternatives at community entertainment venues or events might also be considered. If
+evidence on the deleterious health impact of too much sitting continues to accumulate as we
+predict, and if such innovations are implemented, there will be the need for systematic
+evaluations, particularly of approaches that have the potential for broader dissemination.
+Anecdotally, the recent experience in Australia has been that initiatives in the final phase of
+the behavioral epidemiology framework (“using the relevant evidence to inform public-
+health guidelines and policy”) have already begun. This is happening largely on the basis of
+the first-phase evidence presented in Figure 4 (“identifying relationships of sedentary
+behavior with health outcomes”). For example, the Australian National Preventative Health
+Task Force Report includes explicit recommendations to address prolonged sitting in the
+workplace in the context of reducing the burden of overweight and obesity, type 2 diabetes
+and cardiovascular disease. The Western Australian state division of the Heart Foundation
+included reducing sitting time in a 2009 state-wide mass media campaigns for obesity
+prevention. In the state of Queensland, Health Promotion Queensland (a cross-departmental
+body) commissioned an evidence-based review in 2009 on health impacts and interventions
+to reduce workplace sitting, with view to future practical initiatives. Thus, there are growing
+expectations in Australia that too much sitting is a real and substantial risk to health.
+However, it remains to be seen whether the science of sedentary behavior will deliver
+consistent new findings in all of the research areas that are needed to inform such
+innovations (see Fig. 4).
+Given the consistency of research findings reported thus far on sedentary behavior and
+health, we expect that in the near future there will be a stronger body of confirmatory
+evidence from prospective studies and intervention trials. Furthermore, we predict that the
+next iteration of the Physical Activity and Public Health recommendations of ACSM/AHA
+will include a statement on the health benefits of reducing and breaking up prolonged sitting
+time.
+Acknowledgments
+Funding Disclosure: Owen is supported by a Queensland Health Core Research Infrastructure grant and by National
+Health and Medical Research Council Program Grant funding (#301200; #569940). Healy is supported by a
+NHMRC (#569861)/National Heart Foundation of Australia (PH 08B 3905) Postdoctoral Fellowship. Dunstan is
+supported by a Victorian Health Promotion Foundation Public Health Research Fellowship.
+References
+1. Ainsworth BE, Haskell WL, Whitt MC, et al. Compendium of physical activities: an update of
+activity codes and MET intensities. Med Sci Sports Exerc. 2000; 32(9 Suppl):S498–504. [PubMed:
+10993420]
+2. Balkau B, Mhamdi L, Oppert JM, et al. Physical activity and insulin sensitivity: the RISC study.
+Diabetes. 2008; 57(10):2613–8. [PubMed: 18591396]
+Owen et al. Page 11
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 12 =====
+
+3. Bey L, Hamilton MT. Suppression of skeletal muscle lipoprotein lipase activity during physical
+inactivity: a molecular reason to maintain daily low-intensity activity. J Physiol. 2003; 551(Pt 2):
+673–82. [PubMed: 12815182]
+4. Brown WJ, Bauman AE, Owen N. Stand up, sit down, keep moving: turning circles in physical
+activity research? Br J Sports Med. 2009; 43(2):86–8. [PubMed: 19001015]
+5. Chastin SF, Granat MH. Methods for objective measure, quantification and analysis of sedentary
+behavior and inactivity. Gait Posture. 2009 in press.
+6. Clark BK, Sugiyama T, Healy GN, et al. Validity and reliability of measures of television viewing
+time and other non-occupational sedentary behavior of adults: a review. Obes Rev. 2009; 10(1):7–
+16. [PubMed: 18631161]
+7. Clark BK, Sugiyama T, Healy GN, et al. Socio-demographic correlates of prolonged television
+viewing time in Australian men and women: the AusDiab study. J Phys Act Health. in press.
+8. Donahoo WT, Levine JA, Melanson EL. Variability in energy expenditure and its components. Curr
+Opin Clin Nutr Metab Care. 2004; 7(6):599–605. [PubMed: 15534426]
+9. Dunstan DW, Barr ELM, Healy GN, et al. Television viewing time and mortality: The AusDiab
+study. Circulation. 2010; 121:384–391. [PubMed: 20065160]
+10. Dunstan DW, Salmon J, Healy GN, et al. Association of television viewing with fasting and 2-h
+postchallenge plasma glucose levels in adults without diagnosed diabetes. Diabetes Care. 2007;
+30(3):516–22. [PubMed: 17327314]
+11. Dunstan DW, Salmon J, Owen N, et al. Associations of TV viewing and physical activity with the
+metabolic syndrome in Australian adults. Diabetologia. 2005; 48(11):2254–61. [PubMed:
+16211373]
+12. Dunstan DW, Salmon J, Owen N, et al. Physical activity and television viewing in relation to risk
+of undiagnosed abnormal glucose metabolism in adults. Diabetes Care. 2004; 27(11):2603–9.
+[PubMed: 15504993]
+13. Ekelund U, Brage S, Griffin SJ, Wareham NJ. Objectively measured moderate- and vigorous-
+intensity physical activity but not sedentary time predicts insulin resistance in high-risk
+individuals. Diabetes Care. 2009; 32(6):1081–6. [PubMed: 19252168]
+14. Ekelund U, Griffin SJ, Wareham NJ. Physical activity and metabolic risk in individuals with a
+family history of type 2 diabetes. Diabetes Care. 2007; 30(2):337–42. [PubMed: 17259504]
+15. Foulis SA, Larsen RG, Callahan DM, Kent-Braun JA. An accelerometer-based approach for
+measuring physical activity in young and older adults and its relevance to physical function
+measures. Med Sci Sports Exerc. 40(5):S62.
+16. Hamilton MT, Hamilton DG, Zderic TW. Exercise physiology versus inactivity physiology: an
+essential concept for understanding lipoprotein lipase regulation. Exerc Sport Sci Rev. 2004;
+32(4):161–6. [PubMed: 15604935]
+17. Hamilton MT, Hamilton DG, Zderic TW. Role of low energy expenditure and sitting in obesity,
+metabolic syndrome, type 2 diabetes, and cardiovascular disease. Diabetes. 2007; 56(11):2655–67.
+[PubMed: 17827399]
+18. Hamilton MT, Healy GN, Dunstan DW, Zderic TW, Owen N. Too little exercise and too much
+sitting: inactivity physiology and the need for new recommendations on sedentary behavior. Curr
+Cardiovasc Risk Rep. 2008; 2(4):292–8.
+19. Haskell WL, Blair SN, Hill JO. Physical activity: health outcomes and importance for public health
+policy. Prev Med. 2009; 49(4):280–2. [PubMed: 19463850]
+20. Haskell WL, Lee IM, Pate RR, et al. Physical activity and public health: updated recommendation
+for adults from the American College of Sports Medicine and the American Heart Association.
+Med Sci Sports Exerc. 2007; 39(8):1423–34. [PubMed: 17762377]
+21. Healy GN, Dunstan DW, Salmon J, et al. Breaks in sedentary time: Beneficial associations with
+metabolic risk. Diabetes Care. 2008; 31(4):661–6. [PubMed: 18252901]
+22. Healy GN, Dunstan DW, Salmon J, et al. Objectively measured light-intensity physical activity is
+independently associated with 2-h plasma glucose. Diabetes Care. 2007; 30(6):1384–9. [PubMed:
+17473059]
+23. Healy GN, Dunstan DW, Salmon J, et al. Television time and continuous metabolic risk in
+physically active adults. Med Sci Sports Exerc. 2008; 40(4):639–45. [PubMed: 18317383]
+Owen et al. Page 12
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 13 =====
+
+24. Healy GN, Wijndaele K, Dunstan DW, et al. Objectively measured sedentary time, physical
+activity, and metabolic risk: the Australian Diabetes, Obesity and Lifestyle Study (AusDiab).
+Diabetes Care. 2008; 31(2):369–71. [PubMed: 18000181]
+25. Katzmarzyk PT, Church TS, Craig CL, Bouchard C. Sitting time and mortality from all causes,
+cardiovascular disease, and cancer. Med Sci Sports Exerc. 2009; 41(5):998–1005. [PubMed:
+19346988]
+26. King AC, Goldberg JH, Salmon J, et al. Correlates of prolonged television viewing time in U.S.
+adults to inform program development. Am J Prev Med. 2010; 38(1):17–26. [PubMed: 20117553]
+27. Levine JA, Schleusner SJ, Jensen MD. Energy expenditure of nonexercise activity. Am J Clin
+Nutr. 2000; 72(6):1451–4. [PubMed: 11101470]
+28. Lynch BM, Dunstan DW, Healy GN, et al. Objectively measured physical activity and sedentary
+time of breast cancer survivors, and associations with adiposity: findings from NHANES
+(2003-2006). Cancer Causes Control. 2009; 21(2):283–8. [PubMed: 19882359]
+29. Matthews CE, Chen KY, Freedson PS, et al. Amount of time spent in sedentary behaviors in the
+United States, 2003-2004. Am J Epidemiol. 2008; 167(7):875–81. [PubMed: 18303006]
+30. Owen, N. Effects of the build environment on obesity. In: Bouchard, C.; Katzmarczyk, P., editors.
+Physical Activity and Obesity. Champaign, Illinois: Human Kinetics; 2010. p. 199-202.
+31. Owen N, Bauman A, Brown W. Too much sitting: a novel and important predictor of chronic
+disease risk? Br J Sports Med. 2009; 43(2):81–3. [PubMed: 19050003]
+32. Owen N, Leslie E, Salmon J, Fotheringham MJ. Environmental determinants of physical activity
+and sedentary behavior. Exerc Sport Sci Rev. 2000; 28(4):153–8. [PubMed: 11064848]
+33. Pate RR, O’Neill JR, Lobelo F. The evolving definition of “sedentary”. Exerc Sport Sci Rev. 2008;
+36(4):173–8. [PubMed: 18815485]
+34. Sallis, JF.; Owen, N. Physical activity and behavioral medicine. Thousand Oaks, Ca: Sage; 1999.
+35. Sallis, JF.; Owen, N.; Fisher, EB. Ecological models of health behavior. In: Glanz, K.; Rimer, BK.;
+Viswanath, K., editors. Health Behavior and Health Education: Theory, Research, and Practice.
+San Francisco: Jossey-Bass; 2008. p. 465-82.
+36. Sallis JF, Owen N, Fotheringham MJ. Behavioral epidemiology: a systematic framework to
+classify phases of research on health promotion and disease prevention. Ann Behav Med. 2000;
+22(4):294–8. [PubMed: 11253440]
+37. Salmon J, Owen N, Crawford D, Bauman A, Sallis JF. Physical activity and sedentary behavior: a
+population-based study of barriers, enjoyment, and preference. Health Psychol. 2003; 22(2):178–
+88. [PubMed: 12683738]
+38. Spanier PA, Marshall SJ, Faulkner GE. Tackling the obesity pandemic: a call for sedentary
+behavior research. Can J Public Health. 2006; 97(3):255–7. [PubMed: 16827420]
+39. Sugiyama T, Healy GN, Dunstan DW, Salmon J, Owen N. Is television viewing time a marker of a
+broader pattern of sedentary behavior? Ann Behav Med. 2008; 35(2):245–50. [PubMed:
+18357498]
+40. Sugiyama T, Merom D, Leslie E, Reeves M, Owen N. Habitual active transport moderates the
+association of TV viewing time with body mass index. J Phys Act Health. 2010; 7(1):11–16.
+[PubMed: 20231750]
+41. Sugiyama T, Salmon J, Dunstan DW, Bauman AE, Owen N. Neighborhood walkability and TV
+viewing time among Australian adults. Am J Prev Med. 2007; 33(6):444–9. [PubMed: 18022059]
+42. Thorp AA, Healy GN, Owen N, et al. Deleterious associations of sitting time and television
+viewing time with cardio-metabolic risk biomarkers: AusDiab 2004-2005. Diabetes Care. 2010;
+33(2):327–34. [PubMed: 19918003]
+43. Tremblay MS, Esliger DW, Tremblay A, Colley R. Incidental movement, lifestyle-embedded
+activity and sleep: new frontiers in physical activity assessment. Can J Public Health. 2007;
+98(Suppl 2):S208–17. [PubMed: 18213950]
+44. Troiano RP, Berrigan D, Dodd KW, et al. Physical activity in the United States measured by
+accelerometer. Med Sci Sports Exerc. 2008; 40(1):181–8. [PubMed: 18091006]
+45. Vandelanotte C, Sugiyama T, Gardiner P, Owen N. Associations of leisure-time internet and
+computer use with overweight and obesity, physical activity and sedentary behaviors: cross-
+sectional study. J Med Internet Res. 2009; 11(3):e28. [PubMed: 19666455]
+Owen et al. Page 13
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 14 =====
+
+46. Van Dyck D, Cardon G, Deforche B, Owen N, Sallis JF, De Bourdeaudhuij I. Associations of
+neighborhood walkability with sedentary time in Belgian adults. Am J Prev Med. in press.
+47. Warren TY, Barry V, Hooker SP, Sui X, Church T, Blair SN. Sedentary behaviors increase risk of
+cardiovascular disease mortality in men. Med Sci Sports Exerc. in press.
+48. Wijndaele K, Healy GN, Dunstan DW, et al. Increased cardio-metabolic risk is associated with
+increased TV viewing time. Med Sci Sports Exerc. in press.
+49. Wijndaele K, Lynch BM, Owen N, et al. Television viewing time and weight gain in colorectal
+cancer survivors: a prospective population-based study. Cancer Causes Control. 2009; 20(8):1355–
+62. [PubMed: 19449106]
+50. Wilkinson L, Friendly M. The history of the cluster heat map. Am Stat. 2009; 63(2):179–184.
+51. Williams DM, Raynor HA, Ciccolo JT. A review of TV viewing and its association with health
+outcomes in adults. Am J Lifestyle Med. 2008; 2(3):250–259.
+52. Xu F, Li J, Ware RS, Owen N. Associations of television viewing time with excess body weight
+among urban and rural high-school students in regional mainland China. Public Health Nutr. 2008;
+11(9):891–6. [PubMed: 18005491]
+Owen et al. Page 14
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 15 =====
+
+Figure 1.
+Being physically active, but also highly sedentary: one week of accelerometer-count data
+showing, on average, 31 mins/day moderate-to-vigorous activity time (> 1951 counts/min)
+and 71% of waking hours sedentary (< 100 counts/min).
+Owen et al. Page 15
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 16 =====
+
+Figure 2.
+Breaks in sedentary time: same amount of sedentary time, but different ways of
+accumulation. CPM = counts per minute. (Reprinted from Dunstan DW, Healy GM,
+Sugiyama T, Owen N. ‘Too Much Sitting’ and Metabolic Risk – has modern technology
+caught up with us? US Endocrinology. 2009;5(1), 29-33. Copyright © 2009 Touch
+Briefings. Used with permission.)
+Owen et al. Page 16
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 17 =====
+
+Figure 3.
+Associations of breaks in sedentary time with waist circumference (based on data from
+Healy et al. (21)).
+Owen et al. Page 17
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+===== PAGE 18 =====
+
+Figure 4.
+Behavioral epidemiology framework: phases of evidence for a population-health science of
+sedentary behaviour.
+Owen et al. Page 18
+Exerc Sport Sci Rev. Author manuscript; available in PMC 2012 July 25.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript

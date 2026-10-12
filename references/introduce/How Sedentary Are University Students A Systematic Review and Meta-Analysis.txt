@@ -1,0 +1,11 @@
+===== PUBMED XML ABSTRACT =====
+
+How Sedentary Are University Students? A Systematic Review and Meta-Analysis
+
+Castro, O., Bennie, J., Vergeer, I., Bosselut, G., & Biddle, S. J. H.
+Prevention Science. 2020 Apr;21(3):332-343.
+DOI: 10.1007/s11121-020-01093-8
+PMID: 31975312
+
+Abstract
+Accumulating high volumes of sedentary behaviour is a risk factor for multiple negative health-related outcomes. The objective of this review was to synthesise the evidence on the levels of sedentary behaviour in university students. Screened records from 13 databases were included if (i) published after 2007 and (ii) reported on university students' amount of total or domain-specific sedentary behaviour. Sub-group and meta-regression analyses were conducted to investigate potential sources of heterogeneity (moderators). A total of 125 studies met the inclusion criteria. Most studies were cross-sectional (84%) and reported screen time (61%) or total sedentary time (39%). Self-reported data indicated that university students spend 7.29 h per day being sedentary. The levels of total sedentary behaviour were significantly higher when measured with accelerometers (M = 9.82 h per day). Computer use presented significantly higher prevalence over other modalities of screen time. Among the explored factors (i.e. countries' income, age, gender, and study's publication date), only publication date significantly moderated sedentary behaviour. Results suggest that a considerable proportion of university students (i) engage in higher levels of sedentary time compared to the general young adult population and (ii) accumulate levels of sedentary time that have been associated with an increased risk for detrimental health outcomes. In addition, meta-regression analyses suggest that sedentary time has increased over the last 10-year period among university students. These findings may inform future initiatives and policies targeting university students' sedentary behaviour. Further research is needed to identify the factors moderating sedentary behaviour in the university setting.

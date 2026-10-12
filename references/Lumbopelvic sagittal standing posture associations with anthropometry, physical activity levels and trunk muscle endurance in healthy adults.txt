@@ -1,0 +1,971 @@
+===== PAGE 1 =====
+
+Hong Kong Physiotherapy Journal
+https://www.worldscientiﬁc.com/worldscinet/hkpj
+Lumbopelvic sagittal standing posture associations
+with anthropometry, physical activity levels and trunk
+muscle endurance in healthy adults
+George A. Koumantakis 1,2,*, Antonios Malkotsis 2, Stefanos Pappas 2, Maria Manetta 2,
+Timotheos Anastopoulos 2, Apollon Kakouris 2 and Eleutherios Kiourtsidakis 2
+1Department of Physiotherapy, 401 General Army Hospital of Athens
+Panagioti Kanellopoulou 1, Athens, Greece
+2School of Physiotherapy, Faculty of Health Sciences
+Metropolitan College (A±liated to Queen Margaret University, Edinburgh, UK)
+Athens, Greece
+*g.koumantakis2@gmail.com
+Received 3 November 2019; Accepted 6 April 2021; Published 4 May 2021
+Background: Various factors, inherited and acquired, are associated with habitual spinal postures.
+Objective: The purpose of this study was to identify the relationships between trunk muscle endurance,
+anthropometry and physical activity/inactivity and the sagittal standing lumbopelvic posture in pain-free
+young participants.
+Methods: In this study, 112 healthy young adults (66 females), with median (IQR) age of 20 years (18.2 –22
+years), without low back pain, injury or trauma were included. Lumbar curve (LC) and sacral slope (SS)
+angles were measured in standing with a mobile phone application (iHandy level). Anthropometric, physical
+activity/inactivity levels (leisure-time sport involvement and sitting hours/day) and abdominal (plank prone
+bridge test) and paraspinal (Sorensen test) isometric muscle endurance measures were collected.
+Results: LC and SS angles correlated signi¯cantly ( r ¼ 0:80, p < 0:001). Statistically signi¯cant di®erences
+for both LC ( p ¼ 0:023) and SS ( p ¼ 0:013) angles were identi¯ed between the male and female participants.
+A signi¯cant negative correlation was identi¯ed between the abdominal endurance time and LC ( r ¼/C0 0:27,
+p ¼ 0:004); however, the power of this result (56%) was not su±ciently high. The correlation between
+*Corresponding author.
+Copyright@2021, Hong Kong Physiotherapy Association. This is an Open Access article published by World Scienti¯c Publishing
+Company. It is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-
+NC-ND) License which permits use, distribution and reproduction, provided that the original work is properly cited, the use is
+non-commercial and no modi¯cations or adaptations are made.
+Hong Kong Physiotherapy Journal
+Vol. 41, No. 2 (2021) 127 –137
+DOI: 10.1142/S1013702521500128
+127
+Research Paper
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 2 =====
+
+abdominal endurance and SS was non-signi¯cant ( r ¼/C0 0:17, p ¼ 0:08). In addition, no signi¯cant associa-
+tions were identi¯ed between either of the sagittal lumbopelvic angles (LC –SS) in standing and the parti-
+cipants' body mass index (BMI), paraspinal endurance, leisure-time sport involvement or sitting hours/day.
+Conclusion: The potential role of preventive exercise in controlling lumbar lordosis via enhancement of the
+abdominal muscle endurance characteristics requires further con¯rmation. A subsequent study, performed in
+a larger population of more diverse occupational involvement and leisure-time physical activity levels, is
+proposed.
+Keywords: Muscle fatigue; physical activity; abdominal; lumbar; spine.
+Introduction
+Neuromuscular control of spinal postures and
+movements is key, contributing in parallel to load
+minimization and injury or degeneration preven-
+tion of passive spinal structures.
+1 Pelvic and spinal
+alignment in the sagittal plane is crucial for
+maintaining a balanced stance, forming the basis
+for many functional activities. 2 Postural deviations
+are considered to be among the factors progres-
+sively leading to or associated with the presence of
+painful spinal musculoskeletal disorders.
+3–6 and
+degeneration.7 However, this is still a matter of
+debate, as not all relevant studies have clearly
+demonstrated detrimental e®ects on spinal struc-
+tures or symptoms development linked to postural
+deviations.
+8
+Previous studies have substantiated that sagit-
+tal spinal posture is in°uenced by age progression, 9
+sex9,10 and increased body mass index (BMI). 2,11
+Additionally, spinal posture has been signi¯cantly
+associated with the paraspinal muscle endurance
+levels,12–14 although other researches have not
+substantiated such a relationship for the lumbar
+curve (LC), with a signi¯cant relationship only
+demonstrated between abdominal performance
+and pelvic inclination in women.
+15 Furthermore,
+di®erent types of occupational demands, 16 physical
+activity levels for asymptomatic men only 15 and
+speci¯c long-term athletic training 17 may in°uence
+standing posture. However, no associations be-
+tween lumbar lordosis and physical activity levels
+18
+and lifestyle or occupational demands have also
+been reported.
+19 Postural assessment has also been
+studied in adolescent populations, 20,21 as adoles-
+cence may be an opportune time period to in°uence
+improvements in spinal posture via certain pos-
+tural exercise interventions 17,22 and possibly pre-
+vent musculoskeletal pain episodes in the future.
+A predictive role of adolescent spinal non-neutral
+posture at 14 years for back pain development at
+17 years of age in the same population has been
+established, however, among a multitude of other
+factors collectively contributing to the pain expe-
+rience.
+23 On the other hand, apart from environ-
+mental and lifestyle factors, familial predisposition
+seems to be also in°uential, at least for certain
+hyperlordotic postures.
+24
+The \core" muscles are considered to consist of
+transversus abdominis (TrA) and multi¯dus
+(MULT) muscles, providing mainly stability to the
+low back and pelvis, in coordination with the more
+super¯cial trunk musculature. A signi¯cant de-
+crease in thickness measurements of TrA has been
+identi¯ed in 20 healthy adults when assuming a
+swayback compared to a neutral lumbopelvic pos-
+ture, denoting better activation of TrA in the latter
+standing posture.
+25 Similar results of decreased
+activation in the internal oblique/TrA muscles
+have been recently reported in 37 adults, when a
+slouched sitting posture was assumed. 26 The mus-
+cle tone of the deep trunk muscles has been lately
+described as predictive of both positive (TrA) and
+negative (MULT) outcomes among the low back
+pain (LBP) su®erers.
+27 A history of LBP in a
+mostly young mixed-sex cohort has also been
+shown to a®ect the thickness of TrA more than the
+MULT one.28 Therefore, except LBP presence, also
+extreme °exion (°atback) or extension (lordotic)
+lumbar spine postures a®ect the activation of deep
+trunk muscles, rendering the relevant spinal seg-
+ments \unprotected" in the case of prolonged or
+increased spinal loading.
+The purpose of this study was to identify certain
+factors that correlate with standing lumbopelvic
+posture in healthy participants, with the aim to
+focus on those factors that are considered to be
+modi¯able. For instance, advice on BMI reduction
+or adopting more active physical activity lifestyles
+(increasing exercise frequency in general or
+128 G. A. Koumantakis et al.
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 3 =====
+
+increasing trunk-speci¯c exercise) could then be
+proposed as preventive measures against spinal
+pain. Such factors can be targeted by physical
+therapists, to promote the adoption of more opti-
+mal spine standing postures, documented to be less
+frequently related with non-speci¯c LBP episodes.
+Methods
+Study design
+Cross-sectional correlational design is used to ex-
+plore the associations between sagittal lumbopelvic
+posture in standing and anthropometric, leisure-
+time activity/inactivity habits and trunk muscle
+endurance performance variables.
+Participants
+The study took place at Metropolitan College with
+volunteers being students of one of the campuses of
+this institution. The exclusion criteria for the par-
+ticipation of this study were any injury-trauma
+and/or active LBP and menstruation or pregnancy
+(females) to avoid any in°uence of those factors on
+habitual standing posture. Recruitment of partici-
+pants took place from November 2016 to January
+2017 and was achieved via e-mail noti¯cations of
+the purposes of the study, sent to 450 students of
+the School of Health. E-mail noti¯cations were sent
+out twice, in the beginning of November and a
+reminder at the beginning of December 2016. To-
+tally 125 students responded to the research call.
+However, 10 students ¯nally were not able to make
+their assessment appointments and three had a
+fairly recent incident of back pain, therefore were
+excluded. Finally, 112 healthy adults (46 males and
+66 females) participated voluntarily in this re-
+search study. The descriptive statistics of
+participants are presented in Table 1 . A written
+informed consent, presenting the purposes and
+aims of this study and the inclusion –exclusion cri-
+teria, was signed by all participants prior to their
+inclusion to the study. The study protocol was
+approved by the Ethics Committee of Metropoli-
+tan College. All rights of participants were pro-
+tected at all times, according to the Declaration of
+Helsinki.
+Lumbopelvic sagittal standing
+postural assessment
+Lumbar posture can be clinically assessed with the
+Bubble inclinometer which is a device with a good
+reliability and validity or with a wide variety of
+other measurement instruments such as panto-
+graph, kyphometer, °exible curve and lately, the
+smartphones.29 Sagittal lumbopelvic posture in
+standing was assessed in two previous studies with
+the use of a smartphone (iHandy free applica-
+tion).
+29,30 The ¯rst of those studies veri¯ed the
+inter-rater within-day ( ICC ¼ 0:96) and intra-
+rater between-day ( ICC ¼ 0:81, SEM ¼ 3/C14 and
+MDC90% ¼ 7/C14 ) reliabilities of the lumbar curve in
+30 healthy participants, with the smartphone
+measurement displaying comparable accuracy to
+the one with a Bubble inclinometer ( ICC ¼ 0:85,
+SEM ¼ 3/C14 and MDC 90% ¼ 6/C14 ).29 The within-day
+intra-rater reliability of this postural assessment
+method was further con¯rmed, measuring two
+angles in quiet standing posture, the sacral slope
+(SS; ICC
+2;1 ¼ 0:97, SEM ¼ 1:61/C14 and MDC 95% ¼
+4:46/C14 ) and the lumbar curve (ICC 2;1 ¼ 0:96,
+SEM ¼ 2:13/C14 and MDC 95% ¼ 5:9/C14 ), in a larger
+group of asymptomatic participants ( n ¼ 183).30
+The validity of the method to di®erentiate between
+male and female participants' SS and LC angles
+has also been established in the latter study. 30
+Table 1. Descriptive statistics of ratio-type variables (anthropometric, two posture mea-
+sures and two trunk muscle endurance test measures) from all participants ( n ¼ 112).
+Min Max Mean Standard deviation
+Height (cm) 150 198 173 9.5
+Body mass (kg) 45 115 69.7 14.3
+BMI (kg/m 2) 17.6 39.8 23.1 3.5
+Lumbar curve ( /C14 ) 9.9 52.9 24.2 8.1
+Sacral slope ( /C14 ) 5.2 34.5 17.6 6.1
+Plank prone bridge endurance test (s) 16 245 88.6 47.4
+Modi¯ed Sorensen endurance test (s) 34 370 126.3 54.6
+Lumbopelvic sagittal posture associations with anthropometry, activity levels and trunk endurance 129
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 4 =====
+
+Therefore, the use of smartphones as measurement
+tools of spinal angles has adequate evidence-base to
+be used further.
+The iHandy level application was used to mea-
+sure the SS and LC angles in standing ( Table 1 ).
+The angle readings from the smartphone, when
+placed with its upper vertical side at T12 –L1 and
+S1–S2 spinous processes, were recorded ( Fig. 1 ).
+The sacral slope value corresponded to the reading
+from S1 –S2 and the lumbar curve value corre-
+sponded to the sum of the absolute readings from
+T12–L1 and S1 –S2. Additional measurement
+details of SS and LC parameters are presented
+analytically elsewhere.
+29,30
+Trunk muscle endurance
+assessment
+As core stability is linked to a continuous role of
+the trunk muscles in the maintenance of mid-range
+neutral-zone postures, 1 the endurance capacity of
+those is commonly assessed. 13,31
+For the purposes of this study, the timed en-
+durance to complete exhaustion of the abdominal
+muscles was measured via the performance of the
+plank prone bridge test [ Table 1 and Fig. 2 (a)].
+According to a recent study, the application of the
+prone bridge test (plank test) is a valid and highly
+reliable method ( ICC ¼ 0:87 /C0 0:89) for the mea-
+surement of abdominal muscle endurance, 32 al-
+though muscles of the entire anterior aspect of the
+body are activated in this test. The plank test can
+be considered a functional endurance test, as it
+requires simultaneous isometric muscle activation
+of all the anterior chain muscles. 32,33
+Also, the timed endurance to complete exhaus-
+tion of the paraspinal muscles was measured via
+the performance of a modi¯cation of the Sorensen
+test [ Table 1 and Fig. 2(b)]. The Sorensen test is a
+valid and reliable method to evaluate the
+Fig. 1. Lumbar curve and sacral slope measurement technique with the smartphone placed at T12 –L1 and S1 –S2 interspaces.
+Fig. 2. Procedures for (a) plank prone bridge endurance test and (b) modi¯ed Sorensen endurance test to complete
+exhaustion.
+130 G. A. Koumantakis et al.
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 5 =====
+
+endurance capacity of the trunk extensors, with
+the additional posterior chain muscles also active
+(gluteals, hamstrings), during a timed isometric
+activation of those muscles to complete exhaustion
+while maintaining the unsupported upper body in
+the horizontal position, with the buttocks and legs
+¯rmly held by three canvas straps and arms folded
+across the chest. 34,35 The Modi¯ed Trunk Exten-
+sion Testing method (modi¯cation of the Sorensen
+test) follows the same principles as the original
+test, with the only di®erence from the standard
+procedure being the replacement of straps with the
+participation of a clinician who should ¯rmly hold
+the subjects' lower extremities onto the examina-
+tion table. This procedure is also a very reliable
+variation of Sorensen test method.
+31,36
+Anthropometric and self-report
+physical activity/inactivity
+characteristics
+A questionnaire compiled by the research team was
+given to participants to ¯ll in, comprising factors
+that could potentially be associated with their
+lumbopelvic sagittal standing posture. The ques-
+tionnaire included items on sex, anthropometric
+characteristics (age, body mass index), exercise fre-
+quency and intensity characteristics (the Baecke
+Sport Activity subscale),
+37 as well as the time spent
+sitting daily expressed in three categories (less than
+3 h/day, 3–5.9 h/day and more than 6 h/day). 38
+Experimental procedures
+A pilot study was conducted between the members
+of the research team, to familiarize with and ¯-
+nalize all measurement procedures. All participants
+read and completed a form before the beginning of
+measurements concerning the purposes and the
+aims of the study, anthropometric and physical
+activity pattern details. All participants then as-
+sumed the standing position with their lower limbs
+parallel to each other and arms by their side. Three
+measurements were sequentially conducted by two
+members of the team for the measurement of SS
+and LC. One investigator placed the phone in the
+back of participants, according to anatomical
+landmark identi¯cation for the measurement of the
+two angles of interest ( Fig. 1 ) viewing the phone
+from its posterior aspect, without looking at its
+screen, and another noted the angles in a blinded
+fashion to avoid biasing results between the three
+measurements. Additionally, between the three
+measurements of SS and LC, participants were
+requested to relax and walk a short distance (10
+steps) in order to alter their body posture between
+measurements. Moreover, one investigator was in-
+volved with palpation of anatomical landmarks
+and skin-marking and another two investigators
+coordinated the plank test and the Modi¯ed Trunk
+Extension test (modi¯ed Sorensen test) procedures
+(Fig. 2 ). Prior to the beginning of fatigue testing,
+participants performed adequate warm-up, under
+the supervision of the investigators, which included
+stretches and mild spine mobilizing exercises in
+order to avoid any muscle strain injury during fa-
+tigue testing.
+Data analysis
+All statistical analyses were performed using the
+Statistical Package for the Social Sciences (SPSS),
+version 20. The variables collected corresponded to
+di®erent levels of measurement: sex was nominal-
+type measurement, number of hours spent in sit-
+ting/day was ordinal-type measurement and age,
+BMI, the Baecke Sport Index and the abdominal
+and paraspinal muscles endurance tests data cor-
+responded to ratio-type measurements. The corre-
+sponding normality of distribution tests per
+variable were initially performed; sex was assessed
+with the Binomial test, hours spent sitting/day
+were assessed with the chi-square test and all
+variables related to ratio type were assessed with
+the Kolmogorov –Smirnov test.
+The main analysis of this study included unre-
+lated t-tests, Kruskal –Wallis and bivariate corre-
+lations. To explore possible di®erences in LC and
+SS angles between the categories of nominal (sex)
+and ordinal variables (sitting hours/day), unre-
+lated t-tests were run for sex and Kruskal –Wallis
+tests for sitting hours/day. To explore possible
+associations between LC and SS angles and ratio-
+type variables (age, BMI, Baecke Sport Index
+subscale, modi¯ed Sorensen endurance and ab-
+dominal plank endurance tests), Pearson's bivari-
+ate correlations were run. Pearson's correlation
+values that were signi¯cant were considered as
+weak if r < 0:25, fair if 0 :25 < r < 0:50, moderate-
+to-good if 0 :50 < r < 0:75 and good-to-excellent if
+r > 0:75.
+39 The signi¯cance level for all compar-
+isons was initially set at 0.05. However, due to
+several correlation tests performed, the signi¯cance
+Lumbopelvic sagittal posture associations with anthropometry, activity levels and trunk endurance 131
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 6 =====
+
+level was adjusted according to the Holm –Bonfer-
+roni method. 40 A priori sample size estimation
+suggested that for the nine correlations of interest
+(four explanatory variables /C2 two lumbopelvic
+upright standing variables — SS and LC, plus one
+correlation between SS and LC), the adjusted
+a-level would be 0.00625; therefore, to achieve 80%
+power with a fair correlation of R ¼ 0:33 the re-
+quired sample size would be n ¼ 112 participants.
+Also, upon completion of recruitment, an achieved
+power calculation was performed. Should su±cient
+power been not achieved, the sample size in a new
+study required to achieve an 80% power was ad-
+ditionally calculated. An online program for com-
+puting power and sample size for correlational
+designs (https://sample-size.net/correlation-sam-
+ple-size/).41 was utilized to perform all relevant
+calculations.
+Results
+Nearly all variables conformed to a normal distri-
+bution, apart from sitting hours and age. For sit-
+ting hours, the distribution of participants into the
+set categories were: 38 participants for less than
+3 h/day, 60 for 3 –5.9 h/day and 14 for more than
+6 h/day. For age, the median [inter-quartile range
+(IQR)] values were 20 years (18.25 –22 years). Since
+participants were of a rather narrow age range, no
+correlations between age and lumbopelvic sagittal
+posture variables were performed. The descriptive
+statistics of the remaining ratio-type variables are
+analytically presented in Fig. 1 .
+Statistically signi¯cant male –female di®erences
+for both angles were identi¯ed with unrelated
+t-tests; speci¯cally, for LC, the mean (SD) values
+were 25 :6
+/C14 (8:1/C14 ) for females and 22 :1/C14 (7:7/C14 ) for
+males, p ¼ 0:023, and for SS, the mean (SD) values
+were 18 :8/C14 (6/C14 ) for females and 15 :9/C14 (5:8/C14 ) for
+males, p ¼ 0:013. However, there were no statisti-
+cally signi¯cant di®erences either for SS
+(p ¼ 0:056) or for LC ( p ¼ 0:345) between the
+three levels of the \sitting hours/day" variable,
+analyzed with the Kruskal –Wallis non-parametric
+test. Similarly, no signi¯cant associations were
+identi¯ed between BMI or physical activity levels
+(Baecke Sport Index) or paraspinal endurance and
+the lumbopelvic (LC or SS) standing posture
+(Table 2). On the contrary, signi¯cant correlations
+between lumbar curve and sacral slope angles
+(r ¼ 0:80, p < 0:001) and between lumbar curve
+and abdominal isometric endurance ( r ¼/C0 0:27,
+p ¼ 0:004) were identi¯ed ( Table 2 ). To account
+for the multiple correlations performed (nine
+Pearson's correlations in total), adjustment of the
+level of signi¯cance was performed according to the
+Holm–Bonferroni method, with the a-level being
+lowered for the correlation between LC and SS to
+a ¼ 0:0056 and that between LC and abdominal
+endurance to a ¼ 0:00625. Therefore, these two
+latter correlations remained signi¯cant after this
+adjustment.
+For the correlation between LC and abdominal
+endurance ( r ¼/C0 0:27), with a sample size of n ¼
+112 participants and a signi¯cance level of
+a ¼ 0:00625, the statistical power achieved was
+56%. Based on the observed correlation value and
+the adjusted signi¯cance level, a sample size of 170
+participants would have been required to achieve
+an adequate power level of 80%.
+Table 2. Correlations of lumbopelvic angles with ratio-type variables.
+Sacral slope Lumbar curve
+Lumbar curve R 0.80** 1
+Sig. (two-tailed) 0.0001
+BMI R /C0 0:05 0.10
+Sig. (two-tailed) ns ns
+Leisure-time sport activity (Baecke Sport Index) R 0.03 0.02
+Sig. (two-tailed) ns ns
+Plank prone bridge endurance test R /C0 0:17 /C0 0.27**
+Sig. (two-tailed) ns 0.004
+Modi¯ed Sorensen endurance test R 0.04 /C0 0:07
+Sig. (two-tailed) ns ns
+132 G. A. Koumantakis et al.
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 7 =====
+
+Discussion
+Previous studies have reported that extremes of
+posture in either direction may potentially increase
+the prevalence of spinal pain.
+2,21 and lead to rela-
+tively earlier spinal degeneration in the long term. 7
+The purpose of this study was to examine whether
+a list of modi¯able anthropometric, lifestyle and
+muscle physical performance factors were associ-
+ated with sagittal standing lumbopelvic posture
+(LC–SS) and one non-modi¯able factor (sex). To
+this end, the e®ect of sex and an inactivity level
+index (sitting hours/day) on LC –SS, as well as the
+associations between BMI, a leisure-time sport ac-
+tivity index, abdominal and paraspinal muscles
+isometric endurance levels and LC –SS were exam-
+ined in a mixed sample of 112 male –female college
+students.
+Lumbopelvic posture variables (LC and SS)
+have been determined via placement of a smart-
+phone operating the iHandy goniometer applica-
+tion, onto T12 –L1 and S1 –S2 spinous processes,
+under previously validated methodology.
+29,30 The
+surface palpation methods utilized to identify the
+anatomical bony landmarks of interest present a
+limitation of our study, as palpatory methods
+usually have poor reliability and validity due to the
+di±culty in landmark identi¯cation,
+42 as well as
+the reported between-subject anatomical landmark
+di®erences.43
+Participants of this study were mostly between
+18 years and 25 years old ( n ¼ 103, 92%);
+therefore, due to their limited age range the e®ect
+of age on lumbopelvic sagittal alignment was not
+examined. However, BMI did not demonstrate a
+signi¯cant correlation with lumbopelvic posture
+variables in our study and this is a matching
+¯nding only to one previous study. 9 This ¯nding
+is most likely justi¯ed by the inclusion of only
+18 (16%) overweight and ¯ve obese (4.5%) indivi-
+duals in the sample of this study. In contrast,
+several other studies have con¯rmed signi¯cant
+associations between BMI and sagittal standing
+postures in children
+11 and adults. 2,44 In particular,
+a cohort study with adult participants ( n ¼ 489)
+reported a strong relationship between overweight
+and obese participants and the types of non-neu-
+tral postural lumbopelvic variations in the sagittal
+plane, according to the Roussouly four-type
+classi¯cation.2
+Conversely, signi¯cant relationships between
+sex and LC/SS were present. Several previous
+studies in adult 2,9,30 and adolescent 10 populations
+con¯rm this ¯nding; therefore, the natural varia-
+tion in standing posture between male and female
+participants should be taken into account when
+interpreting postural data in the standing position.
+Concerning physical activity/inactivity levels,
+neither inactivity (sitting hours/day) nor leisure-
+time sport activity (Baecke Sport Index) was re-
+lated to lumbopelvic posture in participants of this
+study. These physical activity/inactivity variables
+were based on self-report and therefore inadver-
+tently relying on participants' recall.
+45 Results of
+this study concur with two previous studies con-
+ducted in adults that had reported no association
+between lifestyle
+2,19 or occupational demands on
+lumbar lordosis. 19 In contradistinction, a study of
+older-age industrial workers with °exion-related
+LBP reported that physical inactivity was associ-
+ated with more posterior pelvic tilt.
+6 However,
+participants of this study were younger and pain-
+free individuals, therefore these studies cannot be
+directly compared. Therefore, the e®ect of activi-
+ty/inactivity levels in sagittal lumbopelvic posture
+may require further examination, as these variables
+may be linked to BMI or muscle performance
+state
+13 or prolonged static postures under a variety
+of work-based environments. 45,46
+Finally, only the plank prone bridge test (ab-
+dominal endurance) demonstrated a signi¯cant fair
+negative association with LC ( r ¼/C0 0:27,
+p ¼ 0:004). However, the power achieved for this
+¯nding was 56%, lower to a standard acceptable
+Fig. 3. Scatterplot of lumbar curve angle in upright
+standing against the plank prone bridge endurance test
+performed to complete exhaustion ( n ¼ 112).
+Lumbopelvic sagittal posture associations with anthropometry, activity levels and trunk endurance 133
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 8 =====
+
+level of power (80%). Furthermore, the cause-and-
+e®ect relationship between abdominal endurance
+and LC is not clear. Immediate variations in the
+recruitment of the deep abdominal muscles related
+to postural alterations have been demonstrated in
+studies with healthy participants, 25,26 with more
+mid-range postures favoring better activation of
+the abdominal muscles. Three previous cross-sec-
+tional research studies examining abdominal mus-
+cle performance utilizing other performance tests
+(leg-lowering test or four abdominal endurance
+tests of progressive di±culty from crook lying) to
+the one used in this study (plank test), have
+reported no
+14,47 to very weak relationships 15 with
+lumbopelvic posture in standing. Di®erences in
+testing methods between this and previous studies
+as well as population di®erences may have
+accounted for this variation in results. Further-
+more, in order to monitor whether increased or
+decreased abdominal muscle endurance through
+training/de-training may progressively contain or
+increase LC, studies of prospective rather than
+cross-sectional design may be required.
+The lack of association between lumbopelvic
+posture and trunk extensor endurance (Sorensen
+test) in the sample of this study, consisting mostly of
+young participants, may be due to the fact that the
+majority of subjects did not present with °atback
+and/or posterior pelvic tilt, as veri¯ed by the lumbar
+curve mean (SD) data (Fig. 1). Trunk kyphotic
+13 or
+lumbar lordotic12 angles have been related to lower
+trunk extensor muscle endurance in past studies.
+Also, trunk extensor muscle endurance of adoles-
+cents and young adults has been predicted to a
+rather high percent (14.4%) by their mothers' trunk
+muscle endurance capacity. 48 In addition, a recent
+study examining the cross-sectional area of multi-
+¯dus and erector spinae in relation to lumbopelvic
+posture also reported no correlation between the
+cross-sectional area of those muscles and the angles
+of SS or LC in a group of healthy asymptomatic
+participants.
+49 Finally, according to the phasic and
+tonic muscles' categorization, the lumbar extensor
+muscles tend to develop muscle spasm with fatigue,
+therefore maintaining the position of the lumbo-
+pelvic passive structures, whereas fatigue-prone
+abdominal muscles tend to elongate, therefore not
+able to adequately control the lumbopelvic sagittal
+position.
+There is moderate-quality evidence supporting
+the e®ectiveness of exercise alone or in combination
+with appropriate education in LBP prevention in
+previously asymptomatic populations. 50 Whether
+the positive e®ect of exercise for LBP prevention is
+more general or if it is mediated by maintaining
+more mid-range postures still remains unresolved,
+with some studies demonstrating associations be-
+tween speci¯c postures and LBP development,
+while most prospective studies demonstrating no
+e®ect.8 As far as secondary prevention of back pain
+is concerned, a relevant pilot randomized –con-
+trolled trial has demonstrated that using motion
+sensors technology as biofeedback to improve
+movement and postural patterns in the treatment
+of subacute and chronic LBP was signi¯cantly
+more e®ective than clinical guidelines-based man-
+agement.51 Also, speci¯c exercise may be required
+in contradistinction to more general, to instigate
+the targeted postural improvements. 17
+Among the limitations to this study, our results
+are restricted to only healthy young college stu-
+dents (undergraduate mostly and postgraduate)
+that were measured in a comfortable standing po-
+sition. Additionally, cross-sectional studies, like the
+present one, could be vulnerable to reverse cau-
+sality, with the cause-and-e®ect direction of e®ect
+between posture and all other variables di±cult to
+establish with certainty. 52 Also, signi¯cant di®er-
+ences have been identi¯ed between the average 24-
+h lumbar lordosis measurement and static mea-
+surement in standing, 53 perhaps denoting the non-
+functional nature of static measurements followed
+in this study.
+Future research work in this ¯eld can be per-
+formed in a larger sample of participants with and
+without LBP of working age range (18 –65 years
+old), occupational and leisure-time physical activ-
+ity involvement, to examine further the association
+between trunk muscle performance characteristics
+(endurance, strength and °exibility) and spinal
+posture.
+This study identi¯ed a signi¯cant correlation
+between the lumbar curve in standing and ab-
+dominal endurance, as well as the in°uence of sex
+in standing lumbopelvic posture. The association
+of abdominal endurance with lumbar curve was fair
+and the power achieved was not su±cient, there-
+fore, no clear recommendations can be provided for
+the factors that could act preventively against end-
+range lumbosacral postures. However, better iso-
+metric abdominal endurance was associated with
+less lumbar lordosis curve in young pain-free
+adults. The e®ect of sex in interpreting lumbo-
+pelvic posture should also be taken into account.
+134 G. A. Koumantakis et al.
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 9 =====
+
+Con°ict of Interest
+The authors have no con°ict of interest relevant to
+this paper.
+Funding/Support
+This research did not receive any speci¯c grant
+from funding agencies in the public, commercial or
+not-for-pro¯t sectors.
+Author Contributions
+George A. Koumantakis had an executive role in
+supervising this project, performed the statistical
+analysis and helped to design the manuscript. All
+authors designed and drafted the manuscript, have
+read and approved the ¯nal version of the manu-
+script and agreed with the order of presentation of
+the authors.
+References
+1. Panjabi MM. Clinical spinal instability and low
+back pain. J Electromyogr Kinesiol 2003;13
+(4):371–9.
+2. Araujo F, Lucas R, Alegrete N, Azevedo A, Barros
+H. Individual and contextual characteristics as
+determinants of sagittal standing posture: A pop-
+ulation-based study of adults. Spine J 2014;14
+(10):2373–83.
+3. Dolphens M, Cagnie B, Coorevits P et al. Sagittal
+standing posture and its association with spinal
+pain: A school-based epidemiological study of 1196
+Flemish adolescents before age at peak height ve-
+locity. Spine (Phila Pa 1976) 2012;37(19):1657 –66.
+4. Kim J-Y, Shin J-S, Lim M-S et al. Relationship
+between simultaneous exposure to ergonomic risk
+factors and work-related lower back pain: A cross-
+sectional study based on the fourth Korean working
+conditions survey. Ann Occup Environ Med
+2018;30(1):58.
+5. Amorim AB, Simic M, Pappas E et al. Is occupa-
+tional or leisure physical activity associated with
+low back pain? Insights from a cross-sectional
+study of 1059 participants. Braz J Phys Ther
+2019;23(3):257–65.
+6. O'Sullivan PB, Mitchell T, Bulich P, Waller R,
+Holte J. The relationship beween posture and back
+muscle endurance in industrial workers with
+°exion-related low back pain. Man Ther 2006;
+11(4):264–71.
+7. Murray KJ, Le Grande MR, Ortega de Mues A,
+Azari MF. Characterisation of the correlation
+between standing lordosis and degenerative joint
+disease in the lower lumbar spine in women and
+men: A radiographic study. BMC Musculoskelet
+Disord 2017;18(1):330.
+8. Swain CTV, Pan F, Owen PJ, Schmidt H, Belavy
+DL. No consensus on causality of spine postures or
+physical exposure and low back pain: A systematic
+review of systematic reviews. J Biomech
+2019;102:109312.
+9. Youdas JW, Hollman JH, Krause DA. The e®ects
+of gender, age, and body mass index on standing
+lumbar curvature in persons without current low
+back pain. Physiother Theory Pract 2006;
+22(5):229–37.
+10. Dolphens M, Cagnie B, Vleeming A, Vanderstrae-
+ten G, Danneels L. Gender di®erences in sagittal
+standing alignment before pubertal peak growth:
+The importance of subclassi¯cation and implica-
+tions for spinopelvic loading. J Anat 2013;
+223(6):629–40.
+11. Smith AJ, O'Sullivan PB, Beales DJ, de Klerk N,
+Straker LM. Trajectories of childhood body mass
+index are associated with adolescent sagittal
+standing posture. Int J Pediatr Obes 2011;6(Suppl.
+3):e97–106.
+12. Dejanovic A, Cambridge EDJ, McGill S. Does
+spine posture a®ect isometric torso muscle endur-
+ance pro¯les in adolescent children? Adv Phys
+Educ 2013;3(3):111 –5.
+13. Smith AJ, O'Sullivan PB, Campbell A, Straker L.
+The relationship between back muscle endurance
+and physical, lifestyle, and psychological factors in
+adolescents. J Orthop Sports Phys Ther 2010;
+40(8):517–23.
+14. Mulhearn S, George K. Abdominal muscle endur-
+ance and its association with posture and low back
+pain: An initial investigation in male and female
+/C19elite gymnasts. Physiotherapy 1999;85(4):210 –6.
+15. Youdas JW, Garrett TR, Harmsen S, Suman VJ,
+Carey JR. Lumbar lordosis and pelvic inclination of
+asymptomatic adults. Phys Ther 1996;76(10):
+1066–81.
+16. Messing K, Stock S, Cote J, Tissot F. Is sitting
+worse than static standing? How a gender analysis
+can move us toward understanding determinants
+and e®ects of occupational standing and walking.
+J Occup Environ Hyg 2015;12(3):D11 –7.
+17. Ludwig O, Kelm J, Hammes A, Schmitt E,
+Fr€ohlich M. Targeted athletic training improves
+the neuromuscular performance in terms of body
+posture from adolescence to adulthood — Long-
+term study over 6 years. Front Physiol 2018;9:1620.
+18. Youdas JW, Garrett TR, Egan KS, Therneau TM.
+Lumbar lordosis and pelvic inclination in adults
+with chronic low back pain. Phys Ther 2000;80(3):
+261–75.
+Lumbopelvic sagittal posture associations with anthropometry, activity levels and trunk endurance 135
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 10 =====
+
+19. Arab AM, Nourbakhsh MR. Hamstring muscle
+length and lumbar lordosis in subjects with
+di®erent lifestyle and work setting: Comparison
+between individuals with and without chronic low
+back pain. J Back Musculoskelet Rehabil
+2014;27(1):63–70.
+20. Dolphens M, Cagnie B, Vleeming A, Vanderstrae-
+ten G, Coorevits P, Danneels L. A clinical postural
+model of sagittal alignment in young adolescents
+before age at peak height velocity. Eur Spine J
+2012;21(11):2188–97.
+21. Smith A, O'Sullivan P, Straker L. Classi¯cation of
+sagittal thoraco-lumbo-pelvic alignment of the ad-
+olescent spine in standing and its relationship to
+low back pain. Spine 2008;33(19):2101 –7.
+22. Gonz/C19alez-G/C19alvez N, Marcos-Pardo PJ, Trejo-
+Alfaro H, Vaquero-Crist óbal R. E®ect of 9-month
+Pilates program on sagittal spinal curvatures and
+hamstring extensibility in adolescents: randomised
+controlled trial. Sci Rep 2020;10(1):9977.
+23. Smith A, Beales D, O' Sullivan P, Bear N, Straker
+L. Low back pain with impact at 17 years of age is
+predicted by early adolescent risk factors from
+multiple domains: Analysis of the Western Aus-
+tralian Pregnancy Cohort (Raine) Study. J Orthop
+Sports Phys Ther 2017;47(10):752 –62.
+24. Seah SSH, Briggs AM, O'Sullivan PB, Smith AJ,
+Burnett AF, Straker LM. An exploration of familial
+associations in spinal posture de¯ned using a
+clinical grouping method. Man Ther 2011;16(5):
+501–9.
+25. Reeve A, Dilley A. E®ects of posture on the
+thickness of transversus abdominis in pain-free
+subjects. Man Ther 2009;14(6):679 –84.
+26. Wong AYL, Chan TPM, Chau AWM et al. Do
+di®erent sitting postures a®ect spinal biomechanics
+of asymptomatic individuals? Gait Posture
+2019;67:230–5.
+27. Ford JJ, Richards MC, Surkitt LD et al. Develop-
+ment of a multivariate prognostic model for pain
+and activity limitation in people with low back
+disorders receiving physiotherapy. Arch Phys Med
+Rehabil 2018;99(12):2504 –12.
+28. Sutherlin MA, Gage M, Mangum LC et al. Changes
+in muscle thickness across positions on ultrasound
+imaging in participants with or without a history of
+low back pain. J Athl Train 2018;53(6):553 –9.
+29. Salamh PA, Kolber M. The reliability, minimal
+detectable change and concurrent validity of a
+gravity-based bubble inclinometer and iphone ap-
+plication for measuring standing lumbar lordosis.
+Physiother Theory Pract 2014;30(1):62 –7.
+30. Koumantakis GA, Nikoloudaki M, Thacheth S,
+et al. Reliability and validity measurement of sag-
+ittal lumbosacral quiet standing posture with a
+smartphone application in a mixed population of
+183 college students and personnel. Adv Orthop
+2016;2016:3817270.
+31. Reiman MP, Krier AD, Nelson JA, Rogers MA,
+Stuke ZO, Smith BS. Reliability of alternative
+trunk endurance testing procedures using clinician
+stabilization vs. traditional methods. J Strength
+Cond Res 2010;24(3):730 –6.
+32. De Blaiser C, De Ridder R, Willems T et al.
+Evaluating abdominal core muscle fatigue: Assess-
+ment of the validity and reliability of the prone
+bridging test. Scand J Med Sci Sports 2018;28
+(2):391–9.
+33. Ekstrom RA, Donatelli RA, Carp KC. Electro-
+myographic analysis of core trunk, hip, and thigh
+muscles during 9 rehabilitation exercises. J Orthop
+Sports Phys Ther 2007;37(12):754 –62.
+34. Latimer J, Maher CG, Refshauge K, Colaco I. The
+reliability and validity of the Biering-Sorensen test
+in asymptomatic subjects and subjects reporting
+current or previous nonspeci¯c low back pain.
+Spine 1999;24(20):2085 –89; discussion 90.
+35. Demoulin C, Vanderthommen M, Duysens C,
+Crielaard JM. Spinal muscle evaluation using the
+Sorensen test: A critical appraisal of the literature.
+Joint Bone Spine 2006;73(1):43 –
+50.
+36. Reiman MP, Krier AD, Nelson JA, Rogers MA,
+Stuke ZO, Smith BS. Comparison of di®erent trunk
+endurance testing methods in college-aged indivi-
+duals. Int J Sports Phys Ther 2012;7(5):533 –9.
+37. Baecke JA, Burema J, Frijters JE. A short ques-
+tionnaire for the measurement of habitual physical
+activity in epidemiological studies. Am J Clin Nutr
+1982;36(5):936–42.
+38. Katzmarzyk PT, Lee IM. Sedentary behaviour and
+life expectancy in the USA: A cause-deleted life
+table analysis. BMJ Open 2012;2(4):e000828.
+39. Portney LG, Watkins MP. Foundations of Clinical
+Research: Applications to Practice. 3rd Int. Ed.
+Harlow, Essex, England: Pearson Education Ltd.,
+2014.
+40. Holm S. A simple sequentially rejective multiple
+test procedure. Scand J Stat 1979;6(2):65 –70.
+41. Hulley SB, Cummings SR, Browner WS, Grady
+DG, Newman TB. Designing Clinical Research: An
+Epidemiologic Approach. Fourth Ed. Philadelphia,
+PA: Wolters Kluwer/Lippincott Williams &
+Wilkins, 2013:79.
+42. Mieritz RM, Kawchuk GN. The accuracy of locat-
+ing lumbar vertebrae when using palpation versus
+ultrasonography. J Manip Physiol Ther 2016;
+39(6):387–92.
+43. Feng Q, Zhang L, Zhang M et al. Morphological
+parameters of fourth lumbar spinous process pal-
+pation: A three-dimensional reconstruction
+of computed tomography. J Orthop Surg Res
+2020;15(1):227.
+136 G. A. Koumantakis et al.
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+===== PAGE 11 =====
+
+44. Taheri Tizabi AA, Mahdavinejad R, Azizi A,
+Jafarnejadgero T, Sanjari M. Correlation between
+height, weight, BMI with standing thoracic and
+lumbar curvature in growth ages. World J Sport
+Sci 2012;7(1):54 –6.
+45. Thivel D, Tremblay A, Genin PM, Panahi S,
+Rivière D, Duclos M. Physical activity, inactivity,
+and sedentary behaviors: De¯nitions and implica-
+tions in occupational health. Front Public Health
+2018;6:288.
+46. Gibbs BB, Hergenroeder AL, Katzmarzyk PT, Lee
+IM, Jakicic JM.De¯nition, measurement, and
+health risks associated with sedentary behavior.
+Med Sci Sports Exerc 2015;47(6):1295 –300.
+47. Walker ML, Rothstein JM, Finucane SD, Lamb
+RL. Relationships between lumbar lordosis, pelvic
+tilt, and abdominal muscle performance. Phys Ther
+1987;67(4):512–6.
+48. Campbell AC, Briggs AM, O'Sullivan PB et al. An
+exploration of the relationship between back mus-
+cle endurance and familial, physical, lifestyle, and
+psychosocial factors in adolescents and young
+adults. J Orthop Sports Phys Ther 2011;41(7):
+486–95.
+49. Menezes-Reis R, Bonugli GP, Salmon CEG,
+Mazoroski D, Herrero C, da Silva Herrero CFP,
+Nogueira-Barbosa MH. Relationship of spinal
+alignment with muscular volume and fat in¯ltra-
+tion of lumbar trunk muscles. PloS ONE
+2018;13(7):e0200198.
+50. Ste®ens D, Maher CG, Pereira LS et al. Prevention
+of low back pain: A systematic review and meta-
+analysis. JAMA Intern Med 2016;176(2):199 –208.
+51. Kent P, Laird R, Haines T. The e®ect of changing
+movement and posture using motion-sensor bio-
+feedback, versus guidelines-based care, on the
+clinical outcomes of people with sub-acute or
+chronic low back pain-a multicentre, cluster-ran-
+domised, placebo-controlled, pilot trial. BMC
+Musculoskelet Disord 2015;16:131.
+52. Dolphens M, Vansteelandt S, Cagnie B et al.
+Multivariable modeling of factors associated with
+spinal pain in young adolescence. Eur Spine J
+2016;25(9):2809–21.
+53. Dreischarf M, Pries E, Bashkuev M, Putzier M,
+Schmidt H. Di®erences between clinical \snap-
+shot" and \real-life" assessments of lumbar spine
+alignment and motion — What is the \real"
+lumbar lordosis of a human being? J Biomech
+2016;49(5):638–44.
+Lumbopelvic sagittal posture associations with anthropometry, activity levels and trunk endurance 137
+Hong Kong Physiother. J. 2021.41:127-137. Downloaded from www.worldscientific.com
+by 61.82.91.38 on 09/07/26. Re-use and distribution is strictly not permitted, except for Open Access articles.

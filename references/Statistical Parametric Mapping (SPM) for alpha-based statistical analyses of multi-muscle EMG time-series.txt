@@ -1,0 +1,521 @@
+===== PAGE 1 =====
+
+1 
+ 
+Statistical Parametric Mapping (SPM) for alpha-based statistical 
+analyses of multi-muscle EMG time-series 
+Mark A. Robinsona, Jos Vanrenterghema, Todd C. Patakyb 
+a Research Institute for Sport and Exercise Science, Liverpool John Moores University, UK 
+b Department of Bioengineering, Shinshu University, Japan 
+ 
+Journal of Electromyography and Kinesiology 
+doi:10.1016/j.jelekin.2014.10.018 
+Abstract 
+Multi-muscle EMG time -series are highly correlated and time dependent yet 
+traditional statistical analysis of scalars from an EMG time-series fails to account 
+for such dependencies. This paper promotes the use of SPM vector -field analysis 
+for the generalised analysis of EMG time -series. We reanalysed a publicl y 
+available dataset of Young versus Adult EMG gait data to contrast scalar and 
+SPM vector -field analysis. Independent scalar analyses of EMG data between 
+35-45% stance phase showed no statistical differences between the Young and 
+Adult groups. SPM vector -field analysis did however identify statistical 
+differences within this time period. As scalar analysis failed to consider the 
+multi-muscle and time dependence of the EMG time -series it exhibited Type II 
+error. SPM vector -field analysis on the other hand ac counts for both 
+dependencies whilst tightly controlling for Type I and Type II error making it 
+highly applicable to EMG data analysis. Additionally SPM vector -field analysis 
+is generalizable to linear and non-linear parametric and non-parametric statistical 
+models, allowing its use under constraints that are common to electromyography 
+and kinesiology. 
+Keywords: biomechanics, multivariate statistics, vector-field analysis, random 
+field theory, experimental error. 
+ 
+Corresponding Author:  
+Mark Robinson m.a.robinson@ljmu.ac.uk 
+Tom Reilly Building, Byrom Street Campus, Liverpool, Merseyside, L3 3AF, United 
+Kingdom.
+
+===== PAGE 2 =====
+
+2 
+ 
+1. Introduction 
+EMG waveforms are complex time-series signals that describe localised electrical activity of 
+individual muscles. The synthesis of multi-muscle time-series is common as it provides 
+insight into motor control [Gribble and Ostry, 1998, 1999], clinical pathology [Frigo and 
+Crenna, 2009], sports performance [Trevithick et al., 2007] and musculo-skeletal simulations 
+[Hamner et al., 2010, Thelen et al., 2003]. Often in the above contexts, due to the exploratory 
+nature of biomechanical research, no specific hypotheses are made regarding either individual 
+EMG time-series or their temporal characteristics. Instead, in classical hypothesis testing a 
+“non-directed null hypothesis” [Pataky et al., 2013] such as “there are no differences 
+between Young and Adult EMG time series during gait” is tested. The consequences of such 
+hypotheses require that all EMG signals should be statistically evaluated across the whole 
+time-series (e.g. a gait cycle) as the hypothesis pertains neither to a specific muscle or time 
+point. In contrast to this, classical hypothesis testing of EMG time-series tends to involve the 
+extraction of summarizing scalar parameters of individual muscles [Houck, 2003] and 
+qualitative interpretation [e.g. Bovi et al., 2011, Koshland et al., 2005]. Scalar or qualitative 
+analyses fail to consider the characteristics of inter-muscle dependence or time dependence in 
+EMG time-series. 
+Inter-muscle dependence: Inter-muscle dependence is evidenced by inter-muscle covariance 
+and has been extensively illustrated by the effective management of, for example, inter-
+muscle co-activation [Gribble and Ostry, 1998], net joint moments [Gribble and Ostry, 1999] 
+and multi-muscle synergy [d’Avella et al., 2003]. The independent statistical treatment of scalar 
+values from EMG waveforms is unable to account for the complexity of multi-muscle EMG time-
+series as it fails to consider inter-muscle covariance. Whilst mean single muscle EMG time-series 
+have their own inherent variability, inter-muscle time-series may also co-vary (Figure 1). If 
+single-muscle variance was much larger than inter-muscle (co-) variance for example, it is
+
+===== PAGE 3 =====
+
+3 
+ 
+unlikely that scalar analysis would detect this. Hypothesis testing methods that omit co-
+variance are inherently biased because they fail to consider inter-muscle dependence. 
+Time dependence: The evidence for time dependence is based on coordinated joint 
+movements, which are the consequence of smooth synergistic muscle-tendon forces.  The 
+smoothness of coordinated motion results from the time-dependent activation of individual 
+motor units. The combination of a sequential recruitment of muscle fibers [De Luca et al., 
+1982] and biological elasticity allows smooth muscle forces to be generated. Raw EMG 
+signals themselves are not smooth, so well established signal processing techniques are used 
+to reduce the noise associated with signal acquisition and to better represent underlying 
+muscle forces, although the quality of the representation is influenced by many factors 
+[Disselhorst-Klug et al., 2009]. Time-dependence is therefore manifest in smooth EMG time-
+series which, from a statistical perspective, implies non-random temporal neighborhood 
+covariance. Hypothesis testing of single-instant parameters and integrals are also therefore 
+biased because they disregard time-dependence [Pataky et al., 2013].   
+Qualitative interpretation or scalar extraction are, of course, not exclusive EMG analysis 
+methods. Other more complex analyses of EMG time-series include principal component 
+analysis [Brandon et al., 2013], cross-correlation [Wren et al., 2006] or wavelet transform for 
+time/frequency analysis [von Tscharner, 2000]. These methods may consider inter-muscle 
+and/or time dependence yet these methods do not directly provide the necessary objective 
+statistics with which a non-directed null hypothesis could be rejected.  
+In contrast to qualitative interpretation and scalar extraction, Statistical Parametric Mapping 
+(SPM) [Pataky et al., 2013] regards the multi-muscle EMG signal, subsequently referred to as 
+the EMG vector-field, as the sole unit of observation. This allows both inter-muscle and time 
+dependence to be incorporated directly into statistical testing. Moreover, and in distinction
+
+===== PAGE 4 =====
+
+4 
+ 
+even to other methods, SPM exploits the well-documented probabilistic behaviour of smooth 
+Gaussian continua [Adler & Taylor, 2007], provides tight control of Type I and Type II 
+statistical error, and provides an objective framework for hypothesis evaluation. 
+The purpose of this paper is to provide a statistical solution for the objective classical 
+hypothesis testing of such non-directed null hypotheses in multi-muscle EMG time-series. 
+Through alignment of EMG time-series analysis with SPM by testing the hypothesis “there 
+are no differences between Young and Adult EMG time series during gait”, we intend to show that 
+bias associated with scalar EMG analysis can be mitigated. Using public data, we illustrate 
+that the Gaussian vector-field more appropriately models variance in multi-muscle EMG time 
+series than do scalar summary metrics. We specifically aim to (a) promote a new 
+understanding of the EMG vector-field as the indivisible unit of observation, and (b) describe 
+a new technique for comprehensive, generalized EMG analysis.  
+ 
+2.0 Methods 
+We considered the public dataset of Bovi et al. (2011). This is a comprehensive dataset 
+including 3D multi-joint kinematics, kinetics and EMG for a variety of gait-related tasks from 
+40 healthy subjects subcategorised into 20 “young” (aged 6–17) and 20 “adult” (aged 22–72). 
+Present focus was on mean EMG time-series of the Anterior Tibialis, Soleus, Gastrocnemius 
+Medialis and Peroneus Longus muscles (Figure 2) calculated from their walking trials (as 
+labelled N, XS, S, M, L in their supplementary data file). Four muscles were chosen for 
+brevity. We filtered the data using simple convolution and a relatively narrow Gaussian 
+kernel (FWHM=2.0%, SD= 4.7%). Parameters for this simple filter were selected iteratively, 
+through qualitative visualisation to maximise group trajectory divergence. While simple, 
+post-hoc analyses found qualitative effects of neither filtering parameters nor methods,
+
+===== PAGE 5 =====
+
+5 
+ 
+including more common bandpass filtering methods. While we acknowledge that filtering 
+choices can affect physiological interpretations of EMG data [Hodges and Bui, 1996], the 
+goal of this paper was not to make physiological conclusions but rather to highlight potential 
+problems with using traditional (0-D) hypothesis testing to make inferences regarding general 
+1-D EMG data. 
+2.1 Scalar Analysis 
+To test the null hypothesis we exemplified a qualitative/scalar analysis by selecting ten scalar 
+values from each EMG time-series at 35-45% gait cycle, which was the region where there 
+appeared to be the greatest qualitative difference between groups. These scalar values were 
+then statistically compared using a two-sample t-test with one test for each instance in time 
+and for each muscle separately. To retain a Type I family-wise error rate of α = 0.05 we 
+adopted a Šidák corrected threshold of 0.012 for the comparison of four muscles. We did not 
+correct alpha for the ten time points because we chose ten time points for illustrative purposes; 
+a typical scalar analysis would examine one time point only. 
+2.2 Statistical Parametric Mapping (SPM) 
+We used SPM to test the null hypothesis by statistically examining the whole EMG time-
+series. All SPM analyses were implemented in Python 2.7 using Canopy 1.1 (Enthought Inc., 
+Austin, USA). Conceptually, the SPM analysis process is similar to the calculation and 
+interpretation of a scalar two-sample t-test. Importantly however we employ a SPM 
+Hotelling’s T2 statistic to account for covariance between the EMG time-series (Figure 1),  A 
+SPM Hotelling’s T2 test is the vector-field equivalent to the two-sample t-test [Cao & 
+Worsley, 1999; Pataky et al., 2013]. The EMG time-series were analysed as a four-
+component vector-field I = 4, J = 40, Q = 101, where I, J and Q were the number of vector 
+components, responses and time points respectively.
+
+===== PAGE 6 =====
+
+6 
+ 
+(1)   
+   )()()()()()(}{ 21
+1
+21
+21
+2122 qqqqqJJ
+JJqTTSPM yyWyy    
+ (2)  
+      
+
+
+
+
+  
+
+
+
+
+21
+1
+2222
+1
+1111
+21 2
+1 J
+j
+jj
+J
+j
+jj
+JJ yyyyyyyyW   
+Subscripts “1” and “2” index the two groups and W is the pooled covariance matrix. The 
+domain “(q)” is omitted for readability. 
+The scalar output statistic, SPM{T2}, is calculated separately at each individual time point (q) 
+and is termed a statistical parametric map. At this stage it is worth noting that SPM refers to 
+the overall methodological approach, and SPM{T2} to the scalar trajectory variable. The 
+calculation of SPM{T2} simply indicates the magnitude of the Young-Adult differences, 
+therefore at this stage we do not accept or reject our hypothesis. To test our null hypothesis 
+we next calculated the critical threshold at which only α % (5%) of smooth random curves 
+would be expected to traverse. Like all classical hypothesis testing methods SPM produces 
+Type I error at a rate of alpha, SPM does not prevent Type I error but tightly controls its rate 
+of occurrence. The critical threshold calculation is based upon estimates of trajectory 
+smoothness via temporal gradients [Friston et al., 2007] and, based on that smoothness, 
+Random Field Theory expectations regarding the field-wide maximum [Adler and Taylor, 
+2007]. If any values of SPM{T2} exceed the critical threshold, then the EMG time-series are 
+considered significantly different. Typically, due to waveform smoothness and the inter-
+dependence of neighboring points, multiple adjacent points of the SPM{T2} curve often 
+exceed the critical threshold, we therefore call these “supra-threshold clusters”. SPM then 
+uses Random Field Theory expectations regarding supra-threshold cluster size to calculate 
+cluster specific p-values which indicate the probability with which supra-threshold clusters 
+could have been produced by a random field process with the same temporal smoothness 
+[Adler and Taylor, 2007]. The calculation of cluster specific p-values demonstrates therefore
+
+===== PAGE 7 =====
+
+7 
+ 
+that SPM is sample-rate independent: measuring at 1 kHz or 1 GHz would not change the 
+temporal extent of the supra-threshold cluster with respect to the field size (provided both are 
+above the Nyquist frequency). 
+2.2 Post-hoc scalar field SPM 
+Post-hoc analysis should only take place if the vector-field SPM{T2} result was significant i.e. 
+the critical threshold was exceeded. This is comparable with the hierarchical testing 
+procedure of ANOVA followed by post-hoc t-tests. When overall significance is achieved in 
+the vector-field (y(q)) analysis, individual vector components (yi(q)) may then be compared. 
+In the example dataset, post-hoc analysis was conducted on individual vector component 
+pairs using the two-sample t-test. This test initially calculates the time-varying statistical 
+parametric map SPM{t}, the significance of which is determined in the same way as 
+described in section 2.2. To retain a Type I family-wise error rate of α = 0.05 for these post-
+hoc analyses we adopted a Šidák corrected threshold of 0.012 for four comparisons. 
+ 
+3.0 Results 
+3.1 Scalar Analysis: Two-sample t-test 
+Statistical testing on EMG data at 35-45% gait cycle supported the null hypothesis as no 
+significant differences between Young and Adult EMG magnitudes were observed (table 1).  
+3.2 Statistical Parametric Mapping: Hotelling’s T2 test 
+In contrast to the scalar two-sample t-test results, SPM found a highly significant difference 
+between the Young and Adult groups (p<0.05) (Figure 3). One supra-threshold cluster, which 
+peaked at 43% gait cycle was identified. On this evidence, SPM analysis recommends that
+
+===== PAGE 8 =====
+
+8 
+ 
+the null hypothesis is rejected as significant differences between the Adult and Young groups 
+were observed. As the supra-threshold cluster included times which were not significant in 
+the two-sample t-test analyses, the scalar analysis interpretation therefore resulted in Type II 
+error. The reason for the discrepancy between analyses is due to inter-muscle dependence and 
+this is addressed further in the discussion. As SPM is not restricted to analysing discrete time 
+points, consideration of the EMG time-series as an EMG vector-field allowed SPM to detect 
+statistical differences,  whereas all except the one chosen time point would have been ignored 
+in the scalar analysis. As the vector-field T2 test showed a significant difference between the 
+Young and Adult vector-fields, post-hoc two-sample SPM{t} tests were conducted on 
+individual muscles. No muscles showed a statistical difference between the Young and Adult 
+groups (Figure 4). The discrepancy between vector-field and scalar analysis results can be 
+explained by muscle covariance (see Discussion). 
+ 
+4.0 Discussion 
+Two different statistical approaches (scalar and SPM analysis) were used to test the null 
+hypothesis that Young and Adult EMG time series were identical. The two approaches led to 
+different conclusions; the scalar analysis provided insufficient evidence to reject the null 
+hypothesis whereas the SPM analysis rejected the null hypothesis. The scalar analysis, by 
+failing to consider inter-muscle and time dependence, also led to Type II statistical error. 
+SPM vector-field analysis by contrast considered both inter-muscle and time dependence and 
+whilst maintaining a constant error rate of α. 
+4.1 Experimental (Type I and Type II) errors 
+Type II statistical errors occurred in the scalar analysis where the SPM analysis showed 
+significant group differences. The reason for the discrepancy between the scalar and SPM
+
+===== PAGE 9 =====
+
+9 
+ 
+analyses is due to inter-muscle dependence. In the scalar analysis intra-muscle differences are 
+small with respect to intra-muscle variance, but the inter-muscle (vector) effect is large with 
+respect to inter-muscle covariance. Vector-field analysis considers the maximum difference 
+between the groups using the resultant vector difference between the inter-muscle Young and 
+Adult vector-fields (Figure 5). Considering that the magnitude of the resultant vector 
+difference will always be greater than individual muscle components, vector-field analysis is 
+more robust to Type II error.  
+In the scalar analysis, where typically only one time point is typically selected, failure to test 
+the null hypothesis throughout the time-series meant that significant group differences could 
+be missed at other time points. Even if EMG magnitudes were small at other time points and 
+even if the biomechanical implications may also be small or negligible; testing the null 
+hypothesis of equivalent Young and Adult EMG requires one to report all effects because 
+significant effects refute the null hypothesis. To ignore low-magnitude EMG one must derive 
+a null hypothesis which, based on biomechanical or neuromuscular rationale, justifiably 
+pertains only to the EMG magnitudes of interest. A threshold of 10% max, for example, may 
+or may not be theoretically justified. So although the intra-muscle effects were small, the 
+inter-muscle effects were large enough to produce statistical differences. Simply, SPM finds 
+statistical differences because it considers temporal covariance, as the EMG signals of the 
+gastrocnemius medialis, peroneus longus and soleus in particular are highly time dependent 
+(highly correlated). The difference between the Young and Adult groups was therefore 
+stronger in the EMG vector-field than in each EMG waveform separately. The testing of non-
+directed hypotheses should not assume EMG waveform independence as independent scalar 
+analysis does. 
+In addition to scalar analyses being susceptible to Type II error, Type I error can also be 
+easily demonstrated because single-muscle scalar analyses often focus on particular portions
+
+===== PAGE 10 =====
+
+10 
+ 
+of the time series in an ad hoc manner [Pataky et al., 2013]; this is inconsistent with an a 
+priori null hypothesis of EMG equivalence. More specifically, scalar parameters assume a 
+point-process Gaussian variance model, but Gaussian random field variance [Adler & Taylor, 
+2007] more accurately models variance in smooth time series [Friston et al., 2007; Pataky, 
+2010; Pataky et al., 2013]. SPM, through random field theory [Worsley et al., 2004], 
+therefore retains tighter control over both Type I and Type II statistical error. 
+4.2 Post-hoc testing 
+In this study, given the null hypothesis of no difference between Young and Adult EMG, the 
+vector-field analysis alone sufficiently refutes the null hypothesis. If however the hypothesis 
+pertained to individual components of the vector-field i.e. individual muscle time-series, post-
+hoc scalar trajectory SPM analysis may be justified. The lack of significant differences in the 
+post-hoc two-sample t-tests is not unexpected because the two-sample SPM t-test does not 
+consider muscle covariance. In this case, the SPM post-hoc analysis paralleled the results of 
+the two-sample t-tests which resulted in Type II error. In this case SPM post-hoc analysis 
+provides no additional explanation for the significant vector-field analysis result which 
+indicates that it is not one individual muscle that distinguishes between the Young and Adult 
+groups but a combination of muscles. One may therefore prefer to formulate null hypotheses 
+for which post-hoc data exploration is unimportant or redundant for example, “there is no 
+significant difference between Young and Adult quadriceps EMG”, which is entirely testable 
+by vector-field analysis and needs no further investigation of individual quadriceps muscles. 
+Hypotheses concerning individual muscles are likely better suited to scalar field SPM or 
+would require examination of the resultant vector difference to establish which individual 
+components contributed most to the Hotelling’s T2 statistic.
+
+===== PAGE 11 =====
+
+11 
+ 
+4.3 The generalisability of SPM 
+The applicability of SPM to EMG is vast. SPM fully supports both all linear and non-linear 
+parametric statistical models (regression, ANOVA, MANCOVA, etc.) and their non-
+parametric variants [Friston et al., 2007; Worsley et al., 2004] as well as other statistical 
+concepts such as the False Discovery Rate [Benjamini & Hochberg, 1995] and Bayesian 
+inference. The two-sample analysis within this study fails to describe the applicability of 
+vector-field EMG to the investigation of differences between muscle groups. One example 
+would be the popular comparison of hamstrings versus quadriceps muscle activations for 
+which a paired Hotelling’s T2 test would be suitable. 
+SPM has become the gold standard in neuroimaging [Friston et al., 2007], and it also has the 
+potential to standardize hypothesis testing of time-normalizable EMG waveforms, because in 
+both cases the null hypothesis pertains to null continuum effects. Since SPM generalizes to n-
+D spatiotemporal neural [Friston et al., 2007; Worsley et al., 2004] and biomechanical 
+continua [Pataky, 2010], it may also be able to unify discrete- (0-D) and high-density (2-D) 
+EMG analyses. Grounded in RFT’s expectations of smooth, random continuum behavior, 
+SPM promises to improve our ability to objectively quantify, and therefore understand 
+coordinated muscle activity. 
+ 
+5.0 Conclusions 
+Reanalysis of a public dataset study showed that vector-field SPM more appropriately 
+accounts for inter-muscle dependence and time dependence which are present within EMG 
+continua. Scalar analyses that only consider discrete values are more likely to lead to Type II 
+error. One should therefore consider time-normalized EMG waveforms as an indivisible unit
+
+===== PAGE 12 =====
+
+12 
+ 
+of observation. The applicability of vector-field SPM analysis is broader than is shown in this 
+paper and is proposed for consideration in future EMG analyses.
+
+===== PAGE 13 =====
+
+13 
+ 
+References 
+Adler RJ, Taylor JE. Random Fields and Geometry. New York: Springer –Verlag, 2007. 
+ 
+Benjamini Y, Hochberg Y. Controlling the false discovery rate: A practical and powerful 
+approach to multiple testing. Journal of the Royal Statistical Society. 1995; 57(1):289-300. 
+ 
+Bovi G, Rabuffetti M, Mazzoleni P, Ferrarin M. A multiple-task gait analysis approach: 
+kinematic, kinetic and EMG reference data for healthy young and adult subjects. Gait and 
+Posture. 2011;33:6-13. 
+ 
+Brandon SCE, Graham RB, Almosnino S, Sadler EM, Stevenson JM, Deluzio KJ. 
+Interpreting principal components in biomechanics: Representative extremes and single 
+component reconstruction. Journal of Electromyography and Kinesiology. 2013;23(6):1304-
+10. 
+ 
+Cao J, Worsley KJ. The detection of local shape changes via the geometry of 
+Hotelling's T2 fields. Annals of Statistics. 1999;27(3),925–942. 
+ 
+d'Avella A, Saltiel P, Bizzi E. Combinations of muscle synergies in the construction of a 
+natural motor behavior. Nature neuroscience. 2003;6:300-8. 
+ 
+De Luca CJ, LeFever RS, McCue MP, Xenakis AP. Behaviours of human motor units in 
+different muscles during linearly varying contractions. Journal of Physiology. 1982;329:113-
+28. 
+ 
+Disselhorst-Klug C, Schmitz-Rode T, Rau G. Surface electromyography and muscle force: 
+Limits in sEMG–force relationship and new approaches for applications. Clinical 
+Biomechanics. 2009;24:225–35. 
+ 
+Frigo C, Crenna P. Multichannel SEMG in clinical gait analysis: a review and state -of-the-art. 
+Clinical Biomechanics. 2009;24:236-45. 
+ 
+Friston KJ, Ashburner JT, Kiebel SJ, Nichols TE, Penny WD (2007). Statistical Parametric 
+Mapping: The Analysis of Functional Brain Images. London: Elsevier, 2007. 
+ 
+Gribble PL, Ostry DJ. Independent coactivation of shoulder and elbow muscles. 
+Experimental Brain Research. 1998;123:355-60. 
+ 
+Gribble PL, Ostry DJ. Compensation for Interaction Torques During Single- and Multijoint 
+limb movement. Journal of Neurophysiology. 1999;82:2310-26. 
+ 
+Hamner SR, Seth A, Delp SL. Muscle contributions to propulsion and support during running. 
+Journal of Biomechanics. 2010;43:2709-16. 
+ 
+Hodges PW, Bui BH. A comparison of computer-based methods for the determination of 
+onset of muscle contraction using electromyography. Electroencephalography and clinical 
+Neurophysiology. 1996;101:511-19.
+
+===== PAGE 14 =====
+
+14 
+ 
+Houck J. Muscle activation patterns of selected lower extremity muscles during stepping and 
+cutting tasks. Journal of Electromyography and Kinesiology. 2003;13:545-54. 
+ 
+Koshland GF, Galloway JC, Farley B. Novel muscle patterns for reaching after cervical 
+spinal cord injury: a case for motor redundancy. Experimental Brain Research. 
+2005;164:133-47. 
+ 
+Pataky TC. Generalized n-dimensional biomechanical field analysis using statistical 
+parametric mapping. Journal of Biomechanics. 2010;43(10):1976–82. 
+ 
+Pataky TC, Robinson MA, Vanrenterghem J. Vector field statistical analysis of kinematic and 
+force trajectories. Journal of Biomechanics. 2013;46:2394-401. 
+ 
+Thelen DG, Anderson FC, Delp SL. Generating dynamic simulations of movement using 
+computed muscle control. Journal of Biomechanics. 2003;36:321-8. 
+ 
+Trevithick BA, Ginn KA, Halaki M, Balnave R. Shoulder muscle recruitment patterns during 
+a kayak stroke performed on a paddling ergometer. Journal of Electromyography and 
+Kinesiology. 2007;17:74-9. 
+ 
+Von Tscharner V. Intensity analysis in time-frequency space of surface myoelectric signals 
+by wavelets of specified resolution. Journal of Electromyography and Kinesiology. 
+2000;10(6),433-45. 
+ 
+Worsley KJ, Taylor JE, Tomaiuolo F, Lerch J. Unified univariate and multivariate random 
+field theory. NeuroImage. 2004;23:S189–95. 
+ 
+Wren TAL, Do KP, Rethlefsen SA, Healey B. Cross-correlation as a method for comparing 
+dynamic electromyography signals during gait. Journal of Biomechanics. 2006;39(14):2714-
+18.
+
+===== PAGE 15 =====
+
+15 
+ 
+Tables 
+Table 1. Statistical results from a two-sample t-test comparing the Young and Adult EMG 
+amplitudes at 35-45% gait cycle for four muscles separately. 
+time Gastroc. Medialis Peroneus longus Soleus Tibialis anterior 
+% t-value p-value t-value p-value t-value p-value t-value p-value 
+35 -0.62 0.56 -0.63 0.54 -1.15 0.28 0.53 0.61 
+36 -0.63 0.55 -0.56 0.59 -1.08 0.31 0.43 0.68 
+37 -0.67 0.52 -0.50 0.63 -1.00 0.35 0.40 0.70 
+38 -0.73 0.49 -0.46 0.66 -0.98 0.36 0.43 0.68 
+39 -0.82 0.44 -0.43 0.68 -0.95 0.37 0.52 0.62 
+40 -0.96 0.37 -0.39 0.71 -0.94 0.37 0.64 0.54 
+41 -1.17 0.28 -0.32 0.76 -0.93 0.38 0.78 0.46 
+42 -1.41 0.20 -0.22 0.83 -0.89 0.40 0.92 0.38 
+43 -1.70 0.13 -0.08 0.94 -0.84 0.42 1.10 0.31 
+44 -1.94 0.09 0.08 0.94 -0.81 0.44 1.30 0.23 
+45 -2.09 0.07 0.21 0.84 -0.76 0.47 1.51 0.17
+
+===== PAGE 16 =====
+
+16 
+ 
+Figures
+ 
+Figure 1. Vector-field schematic, depicting a mean two-muscle EMG waveform in blue 
+(Young: gastrocnemius medialis & peroneus longus, Fig.2), along with inter-muscle 
+dependence (EMG1-EMG2 covariance) and time-dependence (TIME-EMG smoothness). 
+Here vertical dotted lines depict the magnitude of standard deviations. Projection of EMG1 
+and EMG2 onto the (EMG1, EMG2) plane results in covariance ellipses, where ellipse 
+orientation indicates the direction of maximum covariance.
+
+===== PAGE 17 =====
+
+17 
+ 
+ 
+ 
+Figure 2. Mean filtered Young (black – dashed) and Adult (blue) gait EMG time-series from 
+Bovi et al. (2011). The shaded standard deviation clouds, although typically assumed to be 
+independent, actually arise from time-dependent inter-muscle covariance (Fig.1).
+
+===== PAGE 18 =====
+
+18 
+ 
+ 
+Figure 3: SPM results (Hotelling’s T2 test statistic trajectory) depicting Young–Adult 
+differences. The critical threshold (red dashed line) was 213.7. One region of the T2 trajectory 
+(a supra-threshold cluster - shaded) exceeded the critical threshold. SPM therefore finds a 
+significant group difference (p<0.05) but scalar analyses did not.
+
+===== PAGE 19 =====
+
+19 
+ 
+ 
+Figure 4. Post-hoc two-sample SPM t-test results comparing Young versus Adult groups for 
+individual muscles. No SPM{t} values reached the critical threshold (dashed line) for 
+significance. Post-hoc tests are provided for example only as the null hypothesis tested is 
+completely answered by the independent Hotelling’s T2 test.
+
+===== PAGE 20 =====
+
+20 
+ 
+ 
+ 
+Figure 5: Example inter-muscle dependence between the gastrocnemius medialis and the 
+peroneus longus at the time of the greatest vector difference (time=43%). Ellipses depict 
+covariance. The small variance in the ΔEMG direction leads to null hypothesis rejection (see 
+Fig.3), but intra-muscle analysis fails to reject the null hypothesis.

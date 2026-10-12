@@ -1,0 +1,424 @@
+===== PAGE 1 =====
+
+1
+Motriz, Rio Claro, v.25, Issue 2, 2019, e101986 DOI: http://dx.doi.org/10.1590/S1980-6574201900020018
+1
+Original Article (short paper)
+Comparison of the effects of different physical activities on 
+laterality and asymmetry values through side bridge test
+Marina Mello Villalba1 , Lucas Caetano Carlos1 , Giovana Duarte Eltz1 , Ana Carolina Panhan2 ,  
+André Luis Couto Boava1 , Adalgiso Coscrato Cardozo1 , Mauro Gonçalves1
+1Universidade Estadual Paulista “Julio de Mesquita Filho”, UNESP, Department of Bioscience, 
+Laboratory of Biomechanics of Unesp, Rio Claro, SP, Brazil; 2Universidade Estadual de Campinas, 
+UNICAMP, Faculdade de Odontologia de Piracicaba, Piraciaba, SP, Brazil
+Abstract –– Aim: To compare the effects of different physical activities on laterality and asymmetry values through 
+the side bridge test. Methods: the assessments were carried out in 45 subjects between 18 and 30 years old, 15 Crossfit-
+trained individuals, 15 weight trained and 15 sedentary. The subjects performed the side bridge test on both sides. After 
+checking the normality and homogeneity of the data, we selected the appropriate statistical analysis for the comparison 
+of the variables, adopting a significance level of α <0.05. Results: there was no statistical difference in the balance ratio; 
+however, significant difference was found in the side bridge test endurance time, in which the Crossfit group obtained 
+longer times on both sides than the other two groups. The side bridge test is a test of simple execution and that in this 
+study the Crossfit group presented better results in the endurance time in the side bridge test. Conclusion: the results of 
+the ratio asymmetry and endurance time are not sufficient to evaluate the resistance of the core muscles but could  be 
+an evaluation tool, the side bridge test can be introduced in postural training programs.
+Keywords: core; weight training; Crossfit; sedentary; ratio.
+Introduction
+According to the American College of Sports Medicine1, one of 
+the most studied types of physical training is the core training, 
+which focuses on the musculoskeletal structure that includes the 
+spine, hip, pelvis and the proximal portion of the lower limbs and 
+works in conjunction with the spine providing stabilization to 
+perform functional movements2. Within this muscular complex, 
+a major importance is given to the abdominal and paravertebral 
+muscles, which have been shown to be essential to maintain the 
+stability of the spine in different circumstances and act in the 
+prevention of injuries in daily and sports activities. Therefore, 
+core training would be of the utmost importance, either for 
+healthy individuals or for those who need rehabilitation2. Several 
+training methods comprise exercises aimed to activate the core – 
+traditional ones, such as weight training; dynamic ones, with the 
+using apparatuses (bench press or extensor chair, for example);  
+stability exercises, with  small amplitude and low load; and 
+free weight exercises, without external load (free squatting, 
+for example), used in functional trainings 3, which has been 
+proven the most efficient to minimize low back pain and improve 
+functionality4. Crossfit® is currently the most widespread type 
+of functional training. 
+Some tests measure core stability 5 to obtain normative 
+parameters for healthy individuals. One of the methods used 
+to assess muscular endurance consists of the measurement of 
+the isometric contraction time of the core muscles6, called side 
+bridge test7. McGill, Childs, Liebenson8 suggest the side bridge 
+test to evaluate or test the musculature of the anterior and lateral 
+trunk wall. The test is performed bilaterally, and muscle balance 
+is compared by assessing contraction time. This procedure 
+contributes to the analysis of laterality imbalance, reported 
+in the literature as an important indicator of the causes of low 
+back pain
+7.
+Parallel position of the core muscles allows the generation 
+of large compression forces, stabilizing the spine 6,8. Besides 
+the active muscular force, intra-abdominal pressure may 
+contribute to the stability of the vertebral spine 9 through 
+internal and external oblique muscles and transverse 
+abdominal muscles 10. Therefore, these structures are of the 
+utmost importance for postural stability. The greater the 
+asymmetries or alterations in muscle activation, the greater the 
+chances of low back pain episodes 8. McGill, Grenier, Kavcic, 
+Cholewicki 11 predicate that the larger the difference between 
+the time of resistance of the lateral flexors (right and left), 
+more chances of problems in this region. Furthermore, McGill, 
+Grenier, Kavcic, Cholewicki 11 proposed that resistance times 
+on the side bridge test should be interpreted using the ratio 
+of the endurance times of the non-dominant and dominant 
+side. According to the formula proposed by Carabello, Reid, 
+Clark, Phillips, Fielding 12, the asymmetry ratio should be as 
+low as possible in order to avoid back pain. Regarding the 
+laterality difference, Evans, Refshauge, Adams, Aliprandi 7 
+found that athletes who presented a difference of more than
+
+===== PAGE 2 =====
+
+2
+Motriz, Rio Claro, v.25, Issue 2, 2019, e101986
+Villalba M. M. & Carlos L. C. & Eltz G. D. & Panham A. C. & Boava A. L. C. & Cardozo A. C. & Gonçalves M.
+12 seconds between the sides presented incidences of low 
+back pain. The hypothesis of this study is that, through the 
+side bridge test, it could be verified that active individuals 
+showed better results in the asymmetry ratio, better muscle 
+balance, and better performances as well. Therefore, the aim 
+of this study is to compare the effect of different physical 
+activities on the symmetry between the non-dominant and 
+dominant sides. Further, we evaluated the laterality values 
+between times using the side bridge test during the test.
+Methods
+Experimental Approach 
+A cross-sectional study was carried out and dependent 
+variables of the core muscles were obtained through the side 
+bridge test: endurance time, asymmetry ratio and laterality 
+difference. The n sample was based on previous studies 13,14,15. 
+In addition, n was for convenience, due to the inclusion criteria 
+and the available population that performed Crossfit
+®. Height 
+and weight were used for descriptive purposes.
+Subjects
+This study enrolled 45 male and female participants, aged 
+between 18 and 30,  divided into three groups: weight training 
+group (WTG), with 15 individuals with mean weight and height 
+of 75.75 ± 16.00 kg and 1.72 ± 0.09 m respectively; Crossfit group 
+(CFG), with 15 individuals with mean weight and height of 71.15 
+± 12.54 kg and 1.71 ± 0.10 m respectively (these individuals 
+practice Crossfit in the Crossfit Rio Claro, which is an official 
+Crossfit affiliate); and sedentary group (SG),  with 15 individuals 
+of mean weight and height of 74.19 ± 16.45 kg and 1.74 ± 0.06 m, 
+respectively. As inclusion criteria for WTG and CFG, participants 
+should have practiced the modality for at least six months, not less 
+than twice a week. The SG group comprised individuals who had 
+not performed regular activities for at least six months. Exclusion 
+criteria were the presence of pain or discomfort at the time of the 
+test. Subjects were informed about the benefits and possible risks 
+before signing an informed consent document approved by the 
+institution to participate of this study. This study was approved 
+by the Ethics and Research Committee (1.537.805)
+Procedures
+The side bridge test consists of maintaining the position 
+as long as possible. In this study, a mat and a timer were used, 
+and the test was performed on both sides with a 5-minute rest 
+interval between them. Prior to testing, the participants received 
+instructions on how to perform the movements.
+The test was interrupted when the volunteer could not 
+maintain the position and the hip touched the ground 13. For 
+laterality difference, we followed the one established by 
+Evans7, in which the endurance time difference between sides 
+in seconds was obtained, and for reason analysis, we used 
+the asymmetry formula proposed by Carabello, Reid, Clark, 
+Phillips, Fielding
+12 (Equation A). Participants did not receive 
+any information or results prior to the conclusion of the study 
+to avoid any influence during the test. All assessment data were 
+collected in the Laboratory of Biomechanics of the Institute of 
+Biosciences of the State University of São Paulo – Rio Claro / SP
+asymetry = |weak side value-strong side value| x 100% strong side value
+EQ. A. Asymmetry formula for ratio calculation, according to 
+Carabello, Reid, Clark,  Phillips, Fielding
+12.
+Statistical Analysis
+Lilliefors test was used to verify data normality and 
+homogeneity, the appropriate statistical analysis for the 
+comparison between the groups was selected, adopting a 
+significance level of α <0.05. Mann-Whitney test was used for 
+the comparison between the dominant and non-dominant sides 
+of the SG, while Student's t-test was used for the groups WTG 
+and CFG. Anova One-Way was used to compare the ratio values 
+between groups, and Kruskal-Wallis test was used to compare the 
+difference between the sides among the three groups. Dominant 
+and non-dominant side were compared using Anova One-Way 
+with Bonferroni post-hoc.
+Results
+A significant difference was found when comparing the 
+results of the dominant side between the groups (P = 0.0001): 
+WTG presented 79.01±19.71 seconds, CFG 114.02±42.13 
+seconds and SG 50.66/±33.99 seconds. In this comparison, 
+the CFG presented significantly longer endurance time for the 
+dominant side (Figure 1). The same behavior occurred for the 
+non-dominant side for all groups (P = 0.0002): WTG showed 
+81.07±20.46 seconds, CFG 117.46±45.31 seconds and SG 
+50.73±30.72 seconds (Figure 2).
+Figure 1. Mean and standard deviation of the of the side bridge test 
+endurance time regarding the dominant side.
+Legend: * p = 0.0001 regarding groups WTG and SG; WTG: weight training 
+group; CFG: crossfit group; SG: sedentary group
+
+===== PAGE 3 =====
+
+3
+Motriz, Rio Claro, v.25, Issue 2, 2019, e101986
+Comparison of different physical activities in core asymmetry and laterality
+Figure 2. Mean and standard deviation of the side bridge test 
+endurance time regarding the non-dominant side.
+Legend: * p = 0.0002 regarding groups WTG and SG; WTG: weight training 
+group; CFG: crossfit group; SG: sedentary group
+No significant difference was found comparing the side bridge 
+test maintenance time between the dominant and non-dominant 
+sides in all groups (Table 1).
+Table 1. Mean values and standard deviation of the weight train -
+ing, crossfit and sedentary groups, dominant and non-dominant side 
+bridge test endurance time (in seconds).
+Side Bridge Test Endurance Time (sec)
+Dominant Side (sec)
+Mean (±SD)
+Non Dominant Side (sec)
+Mean (±SD) p
+WTG 79.00(±19.70) 81.10/±20.45 0.7208
+CFG 114.00/±42.15 117.45/±45.30 0.8298
+SG 50.65/±34.00 50.75/±30.70 0.3186
+WTG: weight training group; CFG: crossfit group; SG: sedentary group
+The asymmetry ratio means are shown in Table 2 and the 
+time difference variable between the non-dominant and dominant 
+sides are presented in Table 3. No significant statistical difference 
+was found when comparing the ratio between all the groups, 
+nor for the difference between the sides.
+Table 2. Mean values and standard deviation of the groups in asym-
+metry ratio.
+Asymmetry Ratio (sec)
+Ratio (sec)
+Mean (±SD) p
+WTG 14.35±11.10
+0.9188CFG 16.35±13.70
+SG 19.65±11.80
+WTG: weight training group; CFG: crossfit group; SG: sedentary group
+Table 3. Mean values and standard deviation of the groups consid-
+ering the difference between the non-dominant and dominant sides. 
+Difference Between Sides (sec)
+Difference Between Sides (sec)
+Mean (±SD)
+p
+WTG 14.20±14.40
+0.3976CFG 20.95 ±19.35
+SG 10. 80 ±10.65
+WTG: weight training group; CFG: crossfit group; SG: sedentary group
+Discussion
+The results showed that the side bridge test endurance time 
+was significantly longer in the Crossfit group, both for the 
+dominant and non-dominant sides, in comparison with weight 
+training and sedentary groups. The long endurance time presented 
+by the CF group can be associated with the fact that this modality 
+comprises functional exercises that work the core muscles, once 
+it provides more trunk instability16. Studies have reported that 
+unstable exercises are efficient to train trunk musculature 17; 
+moreover, Kibler, Press, Sciascia17 stated that the training of this 
+muscle group in high intensity, requires even more muscular 
+activation in this complex. This can also be related to the abilities 
+that Crossfit seeks to work on, such as strength, endurance, 
+flexibility, and balance, as well as characteristics of training 
+power and speed, which may also be related to this significance18. 
+These components, according to Waldhelm and Li 19, are also 
+responsible for core stability.
+When the endurance time data of each group were analyzed, 
+there was no significant difference between the sides in any group, 
+i.e., all groups obtained similar values on both sides. Thus, the 
+results showed that, despite presenting shorter endurance time 
+in comparison with WTG and CFG, the SG had higher levels of 
+muscular balance. Therefore, once the sedentary individuals do 
+not practice any physical activity, their dominant side does not 
+predominate over the non-dominant, which was demonstrated 
+throughout the side bridge test. However, chances of low back 
+pain should not be excluded, once the test alone would not be 
+sufficient to detect low back pain predictors. Muscle weakness20, 
+physical inactivity, flexibility and obesity are closely related to 
+low back pain episodes
+21. 
+Regarding the CFG, no significant difference was found 
+between the sides, probably because this modality does not 
+require side dominance to be performed, unlike most sports 
+modalities, which depend on the dominant side of the athlete, 
+even under training of the non-dominant side
+22.
+Regarding the WTG, although weight training does not 
+present unstable exercises, it comprises exercises for the core, in 
+addition to some exercises that are not specific to this muscle but 
+require stability for the execution, such as the curl and deadlift3. 
+Moreover, the modality does not require the predominance of 
+a dominant side. Weight training is composed of resistance 
+exercises that develop muscle strength and flexibility, favor good 
+posture and better mechanical efficiency in basic movements23. 
+Body movements are results of the action of muscle groups, and 
+for these muscle groups to remain in balance, any imbalance is 
+compensated by muscle spasms, adjusting the body posture
+24. 
+Strength training is an important factor in improving postural 
+parallel position since muscle strengthening and stretching 
+maintains bone structures in the ideal pattern of balance, 
+preventing back pain, postural hernia, and others23.
+In this study, the groups presented very close ratios, indicating 
+symmetry between the sides and consequent balance. Low ratios 
+do not correspond to higher endurance time in the side bridge 
+test, as is the case of the sedentary subjects. The asymmetry 
+ratio variable indicates balance, and not muscular endurance, 
+once the sedentary group had shorter endurance times with
+
+===== PAGE 4 =====
+
+4
+Motriz, Rio Claro, v.25, Issue 2, 2019, e101986
+Villalba M. M. & Carlos L. C. & Eltz G. D. & Panham A. C. & Boava A. L. C. & Cardozo A. C. & Gonçalves M.
+good balance results, while the Crossfit group showed the same 
+balance with the longest endurance time in comparison with the 
+other two groups.
+Studies have reported that results of the muscular balance 
+are important, therefore judging according to the ratios, 
+seems a more reliable method to decide a good core stability 
+status 25. The side bridge test assesses primarily the lateral 
+core muscles. Juker, McGILL, Kropf, Steffen 26 investigated 
+this test with myoelectric equipment and reported it as the 
+most effective way to assess and train the abdominal obliques 
+with little psoas activity. The side bridge test has high intra-
+rater reliability and has been suggested in the literature as an 
+appropriate method to test lateral trunk muscle endurance in 
+clinical environments 25.
+Furthermore, the literature reports that an acute bout of 
+core stabilization exercise does not immediately alter trunk 
+awareness or seated balance ability in any significant way, 
+at least in healthy young populations 27; therefore, in order 
+to work this musculature to reach the ideal ratio, some core 
+training would be necessary, and side bridge test performed 
+once is only related to the evaluation of the involved muscles.
+In this study, the groups did not show significant statistical 
+difference regarding laterality differences (ND-D). Evans, 
+Refshauge, Adams, Aliprandi 7 reported that athletes who 
+present this difference greater than 12 seconds have greater 
+chances of presenting low back pain. Although groups WTG 
+and CFG presented values above 12 seconds, indicating that 
+one side has greater resistance than the other, this may be 
+indicative of possible episodes of low back pain, as well as 
+an asymmetry between the sides of the trunk. For SG, this 
+value of laterality difference was below 12 seconds, but as 
+already mentioned herein, although the values are within 
+appropriate levels, other factors can affect the stability of 
+the core, such as muscle weakness, for example.
+References
+1. Thompson, WR, Gordon, NF, Pescatello, LS. American College of 
+Sports Medicine's guidelines for exercise testing and prescription. 
+Eight edn. Philadelphia: Lippincott Williams & Wilkins, 2010.
+2. Akuthota V , Ferreiro A, Moore T, Fredericson M. Core stability 
+exercise principles. Curr Sports Med Rep. 2008; 7(1): 39-44.
+3. Martuscello JM, Nuzzo JL, Ashley CD, Campbell BI, Orriola JJ, 
+Mayer JM. Systematic review of core muscle activity during physi-
+cal fitness exercises. J Strength Cond Res. 2013; 27(6): 1684-1698.
+4. Wang XQ, Zheng JJ, Yu ZW, Bi X, Lou SJ, Liu J, et al.  A me -
+ta-analysis of core stability exercise versus general exercise for 
+chronic low back pain. PloS one. 2012; 7(12): e52082.
+5. Minick KI, Kiesel KB, Burton L, Taylor A, Plisky P, Butler RJ. 
+Interrater reliability of the functional movement screen. J Strength 
+Cond Res. 2010; 24(2): 479-486.
+6. McGill SM. A revised anatomical model of the abdominal muscu-
+lature for torso flexion efforts. J Biomech. 1996; 29(7): 973-977.
+7. Evans K, Refshauge KM, Adams R, Aliprandi L. Predictors of low 
+back pain in young elite golfers: a preliminary study. Phys Ther 
+Sport. 2005; 6(3): 122-130.
+8. McGill SM, Childs A, Liebenson C. Endurance times for low back 
+stabilization exercises: clinical targets for testing and training from 
+a normal database. Arch Phys Med Rehabil. 1999; 80: 941–944.
+9. Cholewicki J, Vanvliet IV JJ. Relative contribution of trunk muscles 
+to the stability of the lumbar spine during isometric exertions. Clin 
+Biomech. 2002; 17(2): 99-105.
+10. Behm DG, Drinkwater EJ, Willardson JM, Cowley PM. The use of 
+instability to train the core musculature. App Physiol Nutr Metab. 
+2010; 35(1): 91-108.
+11. McGill SM, Grenier S, Kavcic N, Cholewicki J. Coordination of 
+muscle activity to assure stability of the lumbar spine. J Electromyogr 
+Kinesiol. 2003; 13(4): 353-359.
+12. Carabello RJ, Reid KF, Clark DJ, Phillips EM, Fielding RA. Lower 
+extremity strength and power asymmetry assessment in healthy 
+and mobility-limited populations: reliability and association with 
+physical functioning. Aging Clin Exp Res. 2010; 22(4): 324.
+13. Chen LW, Bih LI, Ho CC, Huang MH, Chen CT, Wei TS. Endurance 
+times for trunk-stabilization exercises in healthy women: com -
+paring 3 kinds of trunk-flexor exercises. J Sport Rehabil. 2003; 
+12(3): 199-207.
+14. Granacher U, Lacroix A, Muehlbauer T, Granacher U, Roettger K, 
+Gollhofer A. Effects of core instability strength training on trunk 
+muscle strength, spinal mobility, dynamic balance and functional 
+mobility in older adults. Gerontology. 2013; 59(2): 105-113.
+15. Ozcan KB, Salik SY , Kahraman, T, Kalemci, O. Developing a 
+Reliable Core Stability Assessment Battery for Patients with 
+Nonspecific Low Back Pain. Spine. 2016; 41(14): E844-E850.
+16. Glassman G. 2009a. What is crossfit? http:// www.cross fit.com/
+cf-info/whatcrossfit.html. Accessed in April 12, 2016.
+17. 
+Kibler WB, Press J, Sciascia A. The role of core stability in athletic 
+function. Sports Med. 2006; 36(3): 189-198.
+18. Glassman G. What is fitness. Crossfit Journal, 2002, 1(3): 1-11.
+19. Waldhelm A, Li L. Endurance tests are the most reliable core stability 
+related measurements. J Sport Health Sci. 2012; 1(2): 121-128.
+20. Lee JH, Hoshino Y , Nakamura K, Kariya Y , Saita K, Ito K. Trunk 
+Muscle Weakness as a Risk Factor for Low Back Pain: A 5‐Year 
+Prospective Study. Spine. 1999; 24(1): 54-57.
+21. Polito MD, Neto AMG, Lira V A. Componentes da aptidão física 
+e sua influência sobre a prevalência de lombalgia. Rev Bras Ciênc 
+Mov. 2008; 11(2): 35-40.
+22. 
+Santos JB, Doubard MR, Silmara S, Doubard MA, Leme A, 
+Rodrigues ECF. Alterações posturais de atletas de atletismo de 
+alto rendimento. Rev Bras Fisiol Exerc. 2013; 12(4): 203-12.
+23. Sousa SMA, Morés G. Estudo da relação entre os desvios posturais 
+e a composição corporal de praticantes de treinamento de força. 
+Revista Eletrônica Interdisciplinar. 2015; 2(14).
+24. Baroni BM, Bruscatto CA, Rech RR, Trentin L. Prevalência de 
+alterações posturais em praticantes de musculação. Fisioter Mov. 
+2010; 23(1): 129-39.
+25. 
+Bayraktar D, Özyürek S, Genç A. The relationship between iso -
+metric trunk muscle endurance and physical activity related energy 
+expenditure in healthy young adults. J Back Musculoskelet Rehabil. 
+2015; 28(4): 859-864.
+26. Juker D, McGILL S, Kropf P, Steffen T. Quantitative intramuscular 
+myoelectric activity of lumbar portions of psoas and the abdominal 
+wall during a wide variety of tasks. Med Sci sports Exerc. 1998; 
+30(2): 301-310.
+
+===== PAGE 5 =====
+
+5
+Motriz, Rio Claro, v.25, Issue 2, 2019, e101986
+Comparison of different physical activities in core asymmetry and laterality
+27. Lee JB, Brown SH. Time course of the acute effects of core stabilisa-
+tion exercise on seated postural control. Sports Biomech. 2017; 1-8.
+28. Bliss LS, Teeple P. Core stability: the centerpiece of any training 
+program. Curr Sports Med Rep. 2005; 4(3): 179-183.
+29. Bogduk N, Macintosh JE, Pearcy MJ. A universal model of the 
+lumbar back muscles in the upright position. Spine. 1992; 17(8): 
+897-913.
+30. 
+Reiman MP. Trunk stabilization training: an evidence basis for 
+the current state of affairs. J Back Musculoskelet Rehabil. 2009; 
+22(3): 131-142.
+Corresponding author
+Marina Mello Villalba
+Avenida 24A, 1372, Bela Vista, Rio Claro - SP – Brazil
+Alternative e-mail: marinamvillalba@gmail.com
+Email: marinamvillalba@hotmail.com
+Manuscript received on September 18, 2018 
+Manuscript accepted on February 27, 2019
+Motriz. The Journal of Physical Education. UNESP. Rio Claro, SP, Brazil
+- eISSN: 1980-6574 – under a license Creative Commons - Version 4.0

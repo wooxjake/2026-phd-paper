@@ -1,0 +1,689 @@
+===== PAGE 1 =====
+
+Vol.:(0123456789)
+Sport Sciences for Health (2025) 21:3189–3196 
+https://doi.org/10.1007/s11332-025-01529-0
+RESEARCH
+CrossFit vs. sedentary lifestyle: unveiling the effects on strength, 
+balance and quality of life
+Olga López Ripado1 · Celia Muñoz Fernández1 · Julia Villar Rodríguez2 · Raquel Mayordomo Acevedo1
+Received: 1 July 2025 / Accepted: 12 August 2025 / Published online: 26 September 2025 
+© The Author(s) 2025
+Abstract
+Background CrossFit is a high-intensity training modality that combines functional exercises targeting strength, endurance 
+and flexibility. In contrast to a sedentary lifestyle, CrossFit has been associated with both physical and psychological benefits; 
+however, its impact on biomechanical parameters and quality of life remains to be fully explored.
+Objective To compare gait kinetics, postural balance and quality of life between young adults who practise CrossFit and 
+those with a sedentary lifestyle.
+Methods A cross-sectional observational study was conducted involving 60 participants (30 CrossFit practitioners and 30 
+sedentary individuals), aged between 25 and 35 years (mean age 27.55 ± 3.03). Ground reaction forces during gait and bal-
+ance (Romberg test with eyes open and closed) were assessed using force platforms (Dinascan/IBV® P600). Quality of life 
+was evaluated using the validated SF-36 and WHOQOL-BREF questionnaires.
+Results Although no significant differences were observed in ground reaction forces (p ≥ 0.140), the CrossFit group exhib-
+ited greater walking speed and stance time. During the eyes-open Romberg test, the CrossFit group demonstrated greater 
+anteroposterior sway (p = 0.019). Quality of life scores were significantly higher in the CrossFit group (p  ≤ 0.009).
+Conclusion CrossFit is associated with improvements in perceived quality of life and certain aspects of postural balance, 
+highlighting its potential as an effective tool to promote active and healthy lifestyles in contrast to sedentary behaviour. 
+Further research with greater statistical power is warranted.
+Keywords High-intensity interval training · Sedentary behaviour · Gait analysis · Postural balance · Quality of life
+Introduction
+CrossFit is a high-intensity exercise modality that inte-
+grates elements of weightlifting, gymnastics and metabolic 
+conditioning, designed to develop broad physical capacity 
+through varied and functional routines [1 –3]. It originated 
+in the  1990 s under the direction of Greg Glassman in Cali-
+fornia, with a philosophy grounded in safety, efficiency and 
+efficacy, aiming to optimise physical competence across ten 
+recognised fitness domains. This practice has gained global 
+popularity not only for its benefits in increasing strength, 
+endurance and cardiovascular capacity, but also for its posi-
+tive impact on psychosocial well-being and personal satis-
+faction [3].
+Training sessions, known as the “Workout of the Day” 
+(WODs) [4], are intense and varied, encompassing every -
+thing from Olympic lifts to gymnastic movements and car -
+diovascular endurance exercises [3 , 5]. Despite its grow -
+ing popularity, CrossFit has also sparked debate regarding 
+potential injury risks, owing to the high intensity and tech-
+nical complexity of some movements. Nevertheless, recent 
+evidence suggests that CrossFit can have a favourable influ-
+ence on functional capacity, health behaviours and psycho-
+social well-being, with some studies even reporting gender-
+specific differences amongst athletes [6 ]. These benefits, 
+including improvements in body composition and greater 
+adherence to active lifestyles, make CrossFit an appealing 
+option for maintaining and enhancing public health.
+ * Raquel Mayordomo Acevedo 
+ rmayordo@unex.es
+1 Departamento de Anatomía, Biología Celular y zoología, 
+Centro Universitario de Plasencia Universidad de 
+Extremadura, Avda Virgen del Puerto 2, 10600 Plasencia, 
+Cáceres, España
+2 Department of Nursing, Physiotherapy and Occupational 
+Therapy, Faculty of Health Sciences, University of Castilla 
+La Mancha, Ciudad Real, Spain
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 2 =====
+
+3190 Sport Sciences for Health (2025) 21:3189–3196
+Biomechanical analysis is a key tool for understanding 
+the effects of sports practices such as CrossFit, enabling per-
+formance optimisation and injury prevention. Amongst the 
+kinetic methods used in human movement analysis, force 
+platforms occupy a prominent role. Based on Newton’s 
+third law (the action–reaction principle) [7 ], these devices 
+quantify ground reaction forces and are fundamental in gait 
+analysis, stability tests and jump evaluations [8]. Their appli-
+cations are diverse, ranging from the study of sport tech-
+niques to enhance movement efficiency and reduce injury 
+risk, to the assessment of musculoskeletal and neurological 
+disorders, thus facilitating diagnosis, treatment and reha-
+bilitation [9].
+Despite the growing body of research on CrossFit and 
+the established use of force platforms in biomechanics, a 
+significant gap remains in the scientific literature concern-
+ing a specific and comprehensive biomechanical analysis of 
+CrossFit’s impact on postural balance and dynamic stability. 
+Whilst its influence on functional capacity and well-being 
+has been explored [1–3], detailed knowledge about how this 
+training modality affects stabilometric and gait parameters in 
+athletes is still limited. Existing studies tend to focus on per-
+formance outcomes or injury prevention [9 ], without delv-
+ing into the biomechanical mechanisms underlying balance 
+adaptations. This is particularly relevant given that CrossFit 
+demands a high level of stability and motor control to exe-
+cute complex and varied movements safely and effectively.
+The aim of the present study is to analyse, from a biome-
+chanical perspective and using a force platform, the effects 
+of CrossFit training on postural control and stability in a 
+specific population of practitioners.
+The hypothesis is that individuals who practise CrossFit 
+will exhibit better postural control and greater stability in 
+both static and dynamic balance tests compared to a seden-
+tary control group, due to the neuromuscular and proprio-
+ceptive demands inherent to this discipline.
+Materials and methods
+Study design, approvals and inclusion criteria
+This study employed an exploratory cross-sectional obser -
+vational design. A formal sample size calculation was not 
+performed due to the preliminary and exploratory nature 
+of the research; however, data were collected from a rep-
+resentative number of participants to obtain relevant initial 
+findings. The study was approved by the Bioethics and 
+Biosafety Committee of the University of Extremadura 
+(Spain), under registration number 199/2023, which sup-
+ports its ethical validity.
+The study was conducted with CrossFit athletes from 
+Box Cerasus in Plasencia (Cáceres, Spain), as well as 
+with volunteers from the University Centre of Plasencia, 
+University of Extremadura. Participants were classified as 
+sedentary if they engaged in less than 60 min per week of 
+moderate to vigorous physical activity, according to self-
+reported data based on the National Health Survey [10].
+Convenience sampling was used for both the CrossFit 
+group (recruited from Box Cerasus) and the sedentary 
+group (university students). All participants took part vol-
+untarily after providing written informed consent.
+It is worth noting that Box Cerasus, a specialised Cross-
+Fit training centre from which all participating CrossFit 
+athletes were recruited, demonstrated strong support for 
+the research by allowing us to include their athletes in 
+the study and signing the appropriate informed consent 
+documentation.
+Inclusion criteria were: individuals aged between 25 
+and 35 years; regular CrossFit practitioners with a mini-
+mum of 6 months of training experience and at least two 
+sessions per week; sedentary individuals; no existing 
+injuries or pathologies in the lower limbs; and provi-
+sion of signed informed consent. Individuals practising 
+other types of sports or presenting reduced mobility were 
+excluded from the study.
+Sample description
+The sample consisted of 60 participants, including 30 
+CrossFit athletes and 30 sedentary individuals, aged 
+between 25 and 35 years (27.55 ± 3.03). In the CrossFit 
+group, 33.3% (N  = 10) were men and 66.7% (N = 20) were 
+women. In the sedentary group, 20% (N = 6) were men and 
+80% (N = 24) were women. The descriptive characteristics 
+of the sample are presented in Table  1.
+Table 1  Sociodemographic and 
+anthropometric characteristics 
+of the sample
+SD: standard deviation, kg kilogram, m metre, BMI body mass index
+Variables Total (mean ± SD) CrossFit (mean ± SD) Sedentary (mean ± SD)
+Age (years) 27.55 ± 3.03 29.10 ± 3.28 26.00 ± 1.72
+Weight (kg) 70.99 ± 17.06 69.62 ± 16.12 72.36 ± 18.13
+Height (m) 1.66 ± 0.08 1.68 ± 0.09 1.64 ± 0.07
+BMI (kg/m2) 21.30 ± 4.83 20.62 ± 4.20 21.97 ± 5.36
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 3 =====
+
+3191Sport Sciences for Health (2025) 21:3189–3196 
+Procedure
+Data collection and assessments were conducted at the 
+University Centre of Plasencia, part of the University of 
+Extremadura. Each evaluation was carried out individually 
+and lasted approximately 15 to 20 min.
+First, sociodemographic, anthropometric and sports 
+practice data were collected through anamnesis. Partici-
+pants were then weighed and measured for height. Height 
+was recorded using a wall-mounted measuring tape, with 
+participants standing barefoot, arms extended along the 
+body, and looking straight ahead. Weight was measured 
+using the integrated scale of the force platform (Dinascan/
+IBV® P600, Biomechanics Institute of Valencia, Spain). 
+The body mass index (BMI) was then calculated [11].
+Next, force platform assessments were performed using 
+the Dinascan/IBV® P600 (Fig.  1), developed by the Bio-
+mechanics Institute of Valencia, Spain. This platform fea-
+tures two programmes:
+• NedAMH/IBV®, used to analyse kinetic patterns (the 
+forces applied by the foot on the surface during the stance 
+phase of walking).
+• NedSVE/IBV®, used to assess balance.
+The Dinascan/IBV® P600 platform has prior clinical 
+validation [ 9]. The platform was calibrated before the 
+start of measurements following the standard procedures 
+recommended by the manufacturer. In addition, each test 
+was repeated three times, and the average of the two most 
+consistent measurements was taken as valid, based on the 
+visual assessment of the kinetic pattern and the absence 
+of errors in foot placement.
+The evaluation was divided into two parts: first, ground 
+reaction forces were measured during gait analysis and sec-
+ond, the balance assessment was analysed.
+Ground reaction force assessment
+Participants were first asked to step onto the platform to 
+record their weight. They were then instructed to walk down 
+the platform’s corridor at a normal speed to establish a base-
+line walking speed before measurements. Following these 
+steps, and according to the protocol outlined by Bus et al. 
+[12], participants were directed to initiate walking with a 
+designated foot, completing a total of eight steps (four left 
+and four right). Each participant received detailed instruc-
+tions on the correct foot placement on the platform, and 
+measurements were not recorded until they were familiarised 
+with the system and protocol. The measured variables were: 
+average step speed (ASS); average support time (AST); aver-
+age braking force (ABF); average propulsion force (APF); 
+average take-off force (ATF) and average oscillation force 
+(AOF).
+Balance assessment
+To assess balance, the subject was first asked to step onto the 
+platform to record their body weight. The upcoming test, the 
+Romberg test, was then explained to the subject [13], along 
+with the required posture for its execution: barefoot, with 
+heels together and toes forming a 30º angle, a stance known 
+as the Vertical de Barré position (Fig.  2). Once positioned, 
+the subject was instructed to fix their gaze on a point at eye 
+level and to remain silent whilst performing the Romberg 
+test with eyes open (REO) for 30 s. Immediately afterwards, 
+the subject repeated the same procedure, but this time with 
+eyes closed, thus performing the Romberg test with eyes 
+Fig. 1  Dinascan/IBV® P600 
+Platform. A real photograph 
+taken during the study by the 
+research team 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 4 =====
+
+3192 Sport Sciences for Health (2025) 21:3189–3196
+closed (REC) for another 30 s. The measured variables were: 
+swept area in the Romberg test with eyes open (SAREO), 
+swept area in the Romberg test with eyes closed (SAREC), 
+medio-lateral displacement in the Romberg test with eyes 
+open (MLDREO), medio-lateral displacement in the Romb-
+erg test with eyes closed (MLDREC), anteroposterior dis-
+placement in the Romberg test with eyes open (APDREO), 
+anteroposterior displacement in the Romberg test with eyes 
+closed (APDREC).
+Quality of life assessment
+Participants’ quality of life was assessed using the Short-
+Form Health Survey (SF-36) [14] and the World Health 
+Organisation Quality of Life Questionnaire (WHOQOL-
+BREF) [15]. Both questionnaires lack predetermined cutoff  
+scores, meaning that higher scores indicate a better quality 
+of life.
+Variables and statistical analysis
+A total of 18 variables were analysed: group (CrossFit or 
+sedentary), sociodemographic (sex and age), anthropo-
+metric (weight, height, and BMI), ground reaction forces 
+(average step speed, average support time, braking force, 
+take-off force, propulsion force, and oscillation force), bal-
+ance (swept area, medio-lateral displacement, and anter -
+oposterior displacement) and quality of life (SF-36 and 
+WHOQOL-BREF).
+Amongst these, only “group” and “sex” were considered 
+qualitative variables, whilst the rest were analysed as quan-
+titative variables.
+The statistical analysis was performed using JASP soft-
+ware for Windows, version 0.18.3. Normality was assessed 
+using the Shapiro–Wilk test. Chi-square tests were used to 
+analyse relationships between qualitative variables. T  tests 
+(Student’s T test or Welch’s test) were applied to compare 
+quantitative variables between two groups, depending on 
+Levene’s test for homogeneity of variances. Paired T tests 
+were used for comparisons of paired variables. In addition, 
+Cramer’s V and Cohen’s d were calculated to evaluate the 
+magnitude of the effect.
+Finally, statistical power was estimated using the pwr 
+package in R, version 4.5.1.
+A p value < 0.05 was considered statistically significant 
+for all analyses.
+Results
+Regarding sex distribution across the groups analysed, no 
+statistically significant differences were found (p  = 0.243), 
+with a small effect size (Cramér’s V = 0.151) and low statis-
+tical power (power = 0.216). On the other hand, concerning 
+participants’ age, statistically significant differences were 
+observed between groups, with the CrossFit group being 
+older on average (p = 0.001), and a large effect size (Cohen’s 
+d = 1.182), indicating a substantial practical difference in age 
+between CrossFit and sedentary participants.
+As for anthropometric variables such as weight, height 
+and BMI, no significant differences were found between 
+groups (p  ≥ 0.101). Nevertheless, the effect sizes suggest 
+small to moderate differences in weight (Cohen’s d = 0.160), 
+height (Cohen’s d = 0.430) and BMI (Cohen’s d  = 0.279) 
+(Table 2).
+In the analysis of ground reaction forces, no signifi -
+cant differences were found based on the foot analysed 
+(p ≥ 0.351), with a negligible effect size (Cohen’s d ≥ 0.009) 
+and very low statistical power (power ≥ 0.050); therefore, 
+the right foot was used for subsequent analyses. Descrip-
+tively, the CrossFit group showed higher values in average 
+step speed, average support time and average braking force, 
+whilst the sedentary group exhibited higher values in aver -
+age propulsion force, average take-off force and average 
+oscillation force. The only variable with a p value < 0.05 
+was average support time, which showed a statistically sig-
+nificant difference (p  = 0.040) and a moderate effect size 
+(Cohen’s d = 0.543), indicating a slightly longer contact time 
+in the CrossFit group (Table 3).
+Regarding balance variables, participants in the CrossFit 
+group demonstrated higher values in swept area, medio-lat-
+eral displacement and anteroposterior displacement under 
+Fig. 2  Vertical Barré position for the Romberg TEST. A real photo-
+graph taken during the study by the research team 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 5 =====
+
+3193Sport Sciences for Health (2025) 21:3189–3196 
+the Romberg test with eyes open. Conversely, the seden-
+tary group presented higher values with eyes closed. The 
+anteroposterior displacement in the Romberg test with eyes 
+open (APDREO) variable showed a statistically significant 
+difference (p = 0.019) with a moderate effect size (Cohen’s 
+d = 0.632), being greater in the CrossFit group. The remain-
+ing variables did not show significant differences, although 
+some effect sizes were moderate (Cohen’s d ≈ 0.4) (Table 4).
+Finally, concerning quality of life, statistically significant 
+differences in favour of the CrossFit group were observed 
+(p ≤ 0.009) in both the WHOQOL-BREF and SF-36 ques-
+tionnaires, with a large effect size (Cohen’s d  ≥ 0.701) and 
+high statistical power (power ≥ 0.761). This suggests that 
+physically active participants perceive a better overall qual-
+ity of life.
+Although several comparisons did not reach statistical 
+significance, it should be noted that, with the exception of 
+age (power = 0.99), post hoc power analyses indicated low 
+to moderate values (range: 0.059 to 0.700). This suggests a 
+considerable risk of Type II error, meaning that real differ -
+ences between the groups may not have been detected due to 
+the small sample size. For this reason, effect sizes (Cohen’s 
+d) were also calculated, as they allow for the assessment of 
+whether differences, although not statistically significant, 
+might have practical or clinical relevance.
+Discussion
+The present study explored the effect of CrossFit train-
+ing on gait biomechanics, postural balance and quality of 
+life. Although participants in the CrossFit group showed 
+descriptively higher values in average step speed, average 
+support time and average braking force, these differences 
+were not statistically significant. This lack of significance 
+may be explained by factors such as the small sample size, 
+the heterogeneity of the participants (in terms of experience, 
+Table 2  Relationship between 
+sociodemographic and 
+anthropometric variables by 
+group (Student’s T test and 
+Welch test) 
+Kg kilogram, cm centimetres, m2 square metres, BIM body mass index, 
+*Statistically significant difference
+Variables Group Mean Standard 
+deviation
+p value Cohen’s d Power
+Age (years) Sedentary 26.00 1.72  < 0.001* 1.182 0.994
+CrossFit 29.10 3.28
+Weight (Kg) Sedentary 72.36 18.13 0.539 0.160 0.094
+CrossFit 69.62 16.12
+Height (cm) Sedentary 164.43 7.40 0.101 0.430 0.374
+CrossFit 167.62 8.97
+BMI (Kg/m2) Sedentary 21.97 5.36 0.284 0.279 0.186
+CrossFit 20.62 4.20
+Table 3  Relationship between 
+ground reaction forces by group 
+(Student’s T test and Welch test)
+ASS average step speed, m/s metres per second, s seconds, AST average support time, ABF average braking 
+force, N Newton, APF average propulsion force, ATF average take-off force, AOF average oscillation force
+*Statistically significant difference.
+Variables Group Mean Standard deviation p value Cohen’s d Power
+ASS (m/s) Sedentary 1.12 0.09 0.773 0.075 0.059
+CrossFit 1.13 0.13
+AST (s) Sedentary 0.70 0.05 0.040* 0.543 0.543
+CrossFit 0.73 0.08
+ABF (N) Sedentary 97.29 23.70 0.761 0.079 0.060
+CrossFit 98.17 38.59
+APF (N) Sedentary 128.27 32.20 0.604 0.135 0.081
+CrossFit 125.84 36.93
+ATF (N) Sedentary 772.75 175.41 0.564 0.150 0.088
+CrossFit 763.92 169.03
+AOF (N) Sedentary 574.96 168.40 0.700 0.100 0.067
+CrossFit 555.08 138.77
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 6 =====
+
+3194 Sport Sciences for Health (2025) 21:3189–3196
+frequency, and training intensity) or the insufficient dura-
+tion of stimulus to induce measurable adaptations in these 
+variables.
+These findings are consistent with recent reviews that 
+have critically examined the impact of CrossFit on health 
+and physical performance. Claudino et al. [16] pointed out 
+that most studies on CrossFit suffer from methodological 
+limitations, including cross-sectional designs and small 
+samples, which restrict the external validity of the findings 
+and the ability to draw firm conclusions regarding its physi-
+ological or biomechanical benefits. More recently, Martinho 
+et al. [17] conducted a systematic scoping review including 
+68 original studies on CrossFit in adults and concluded that 
+sport-specific assessments (such as strength and power in 
+functional exercises) are more effective at predicting perfor-
+mance than general variables such as  VO2max. Moreover, 
+they highlighted that most available research lacks a lon-
+gitudinal design, and that a recovery period of at least 48 
+to 72 h is necessary following intense sessions to correctly 
+interpret training responses. This review also identifies gaps 
+in the literature concerning the effects of CrossFit on aspects 
+such as functional stability or gait biomechanics, thereby 
+reinforcing the need for targeted studies in these areas [17].
+Concerning balance, a significantly greater anteroposte-
+rior sway was observed in the CrossFit group during the 
+eyes-open Romberg test. This may reflect muscular adap-
+tations due to the dominance of sagittal-plane movements 
+(e.g. squats, deadlifts, Olympic lifts) in CrossFit training. 
+However, this finding does not necessarily imply improved 
+postural control and should be interpreted cautiously. In 
+the eyes-closed Romberg condition, although the CrossFit 
+group exhibited descriptively better scores, no statistically 
+significant differences were found. These results do not sup-
+port robust proprioceptive advantages, though they could 
+be hypothesised and investigated in future research using 
+dynamic functional tests and tighter control of training 
+variables.
+Regarding quality of life, participants in the CrossFit 
+group reported significantly higher scores compared to the 
+sedentary group. These findings align with previous research 
+documenting the positive impact of CrossFit on psycho-
+logical well-being, motivation and social engagement. For 
+example, Box et al. [18] observed that CrossFit practitioners 
+exhibit elevated levels of intrinsic motivation, enjoyment and 
+social affiliation compared to participants of other modali-
+ties. Similarly, Bycura et al. [19] surveyed over 700 Cross-
+Fit practitioners and found that intrinsic motives, such as 
+enjoyment, challenge and a sense of community, correlated 
+strongly with both frequency and duration of participation, 
+supporting adherence and perceived well-being. In addition, 
+Ficarra et al. [20] showed that combining CrossFit training 
+with a Mediterranean diet led to notable improvements in 
+body composition and physical performance amongst trained 
+adults, suggesting that comprehensive lifestyle interventions 
+may enhance the benefits of functional training. However, 
+the present study did not control for diet or other contextual 
+factors, which limits the direct application of these findings.
+Amongst the main limitations of the present study is its 
+cross-sectional design, which precludes establishing causal 
+relationships between CrossFit practice and the analysed 
+variables. In addition, the sample size was small and unbal-
+anced in terms of sex, age and training experience, limiting 
+Table 4  Relationship between 
+balance variables by group 
+(Student’s T test and Welch test)
+SAREO swept area in the Romberg test with eyes open, mm2 square millimetres, SAREC swept area in the 
+Romberg test with eyes closed, MLDREO medio-lateral displacement in the Romberg test with eyes open, 
+MLDREC medio-lateral displacement in the Romberg test with eyes closed, APDREO anteroposterior dis-
+placement in the Romberg test with eyes open, APDREC anteroposterior displacement in the Romberg test 
+with eyes closed
+*Statistically significant difference.
+Variables Group Mean Standard 
+deviation
+p value Cohen’s d Power
+SAREO  (mm2) Sedentary 42.00 22.55 0.153 0.374 0.297
+CrossFit 52.18 31.17
+SAREC  (mm2) Sedentary 53.71 37.09 0.139 0.387 0.314
+CrossFit 41.87 22.20
+MLDREO (mm) Sedentary 13.81 4.17 0.136 0.392 0.321
+CrossFit 16.07 7.00
+MLDREC (mm) Sedentary 14.36 5.08 0.948 0.017 0.050
+CrossFit 14.28 5.10
+APDREO (mm) Sedentary 17.97 5.50 0.019* 0.632 0.673
+CrossFit 24.47 13.46
+APDREC (mm) Sedentary 22.65 7.60 0.362 0.237 0.147
+CrossFit 20.96 6.64
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 7 =====
+
+3195Sport Sciences for Health (2025) 21:3189–3196 
+the generalisability of the results and reducing the statisti-
+cal power of the analyses. Sample heterogeneity, including 
+differences in training frequency, duration, intensity and 
+general lifestyle, may have contributed to variability in the 
+outcomes. Furthermore, the tests used to assess gait and bal-
+ance were mostly static or linear, which may not adequately 
+capture the complexity of dynamic functional performance 
+that characterises CrossFit. Potentially influential external 
+variables such as diet, sleep or stress levels were not con-
+trolled, introducing possible confounding factors. Finally, 
+participant self-selection may have introduced biases related 
+to motivation or subjective perceptions of quality of life, 
+further limiting the external validity of the study.
+Conclusion
+Although no statistically significant differences were found 
+in most biomechanical variables, individuals who prac-
+tise CrossFit reported a better perceived quality of life 
+and showed trends in postural balance that warrant further 
+attention. Nevertheless, the exploratory nature of this study 
+and its limited statistical power require that these results 
+be interpreted with caution. No solid evidence was found 
+of improvements in gait kinetics. Longitudinal studies with 
+larger and more balanced samples, dynamic functional test-
+ing, and greater control of contextual variables will be nec-
+essary to confirm or refute these potential benefits.
+Acknowledgements The authors would like to thank all the voluntary 
+participants, without whom this study would not have been possible.
+Author contributions O.L.R and R.M.A. wrote the main manuscript 
+text and J.V.R and C.M.F. prepared all figures. All authors reviewed 
+the manuscript.
+Funding Open Access funding provided thanks to the CRUE-CSIC 
+agreement with Springer Nature. This work was carried out within the 
+framework of the pre-doctoral contract funded by the Regional Govern-
+ment of Extremadura through the call approved by DECREE 43/2023, 
+of May 3, which establishes the regulatory bases for granting aid for 
+the recruitment of pre-doctoral research personnel in training within 
+the Extremadura System of Science, Technology, and Innovation, and 
+approves the first call (2023040085). This contract is co-financed by 
+the European Union through the European Social Fund Plus (ESF +), 
+within the operational programme for Extremadura, contributing to 
+the strengthening of Page containing contact details human capital 
+in R&D&I and to the strategic objectives of the European Union for 
+the promotion of scientific excellence and innovation. This study was 
+funded by the Regional Government of Extremadura and the European 
+Regional Development Fund (ERDF) through a grant to the research 
+group [code CTS020, reference GR24135].
+Data availability No datasets were generated or analysed during the 
+current study.
+Declarations 
+Conflict of interest The authors declare no competing interests.
+Informed Consent  The study was approved by the Bioethics and 
+Biosafety Committee of the University of Extremadura (Spain), under 
+registration number 199/2023, which supports its ethical validity Also 
+in line 107 It Talk about informed consent signed by all participants. 
+All included in materials and methods section.
+Open Access  This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article's Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article's Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+References
+ 1. Dominski FH, Matias TS, Serafim TT, Feito Y (2020) Motiva-
+tion to CrossFit training: a narrative review. Sport Sci Health 
+16(2):195–206. https:// doi. org/ 10. 1007/ s11332- 020- 00619-5
+ 2. Meier N, Schlie J, Schmidt A (2023) CrossFit®: ‘Unknowable’ or 
+predictable? A systematic review on predictors of CrossFit® per-
+formance. Sports 11(6):112. https:// doi. org/ 10. 3390/ sport s1106 
+0112
+ 3. Glassman G (2016) Level 1 training guide (3rd ed., pp. 1–258). 
+CrossFit Journal.
+ 4. de Oliveira LA, Heredia-Elvar JR, Maté-Muñoz JL, García-Manso 
+JM, Aragão-Santos JC, Da Silva-Grigoletto ME (2021) Analysis 
+of pacing strategies in AMRAP, EMOM, and FOR TIME training 
+models during “Cross” modalities. Sports 9(11):144. https:// doi. 
+org/ 10. 3390/ sport s9110 144
+ 5. Bellar D, Hatchett A, Judge LW, Breaux ME, Marcus L (2015) 
+The relationship of aerobic capacity, anaerobic peak power, 
+and experience to performance in CrossFit exercise. Biol Sport 
+32(4):315–320. https:// doi. org/ 10. 5604/ 20831 862. 11747 71
+ 6. Amato A, Petrigna L, Di Gregorio L, Musumeci G (2025) Cross-
+Fit® and its influence on health behaviors, functional capacity, 
+and psychosocial outcomes: an explorative study of gender differ-
+ences in athlete perspectives. J Funct Morphol Kinesiol 10(2):196. 
+https:// doi. org/ 10. 3390/ jfmk1 00201 96
+ 7. Hanley B, Bissas A (2016) Ground reaction forces of Olympic and 
+World Championship race walkers. Eur J Sport Sci 16(1):50–56. 
+https:// doi. org/ 10. 1080/ 17461 391. 2014. 984769
+ 8. Bagordo A, Ciletti K, Kemp-Smith K, Simas V, Climstein M, Fur-
+ness J (2020) Isokinetic dynamometry as a tool to predict shoul-
+der injury in an overhead athlete population: a systematic review. 
+Sports 8(9):114. https:// doi. org/ 10. 3390/ sport s8090 124
+ 9. Hoyos JV, Brizuela G (1998) Análisis cinético y cinemático simul-
+táneo mediante la sincronización de Dinascan/IBV y Kinescan/
+IBV. Rev Biomec 18:24–26
+ 10. Ministerio de Sanidad, Consumo y Bienestar Social. Encuesta 
+Nacional de Salud de España 2017. Actividad física, descanso 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 8 =====
+
+3196 Sport Sciences for Health (2025) 21:3189–3196
+y ocio. Madrid: Ministerio de Sanidad, Consumo y Bienestar 
+Social; 2019. 68 p. Available from: https:// www. sanid ad. gob. es/ 
+estad Estud ios/ estad istic as/ encue staNa cional/ encue staNa c2017/ 
+ACTIV IDAD_ FISICA. pdf
+ 11. Quetelet A (1875) Fisica sociale ossia svolgimento delle facoltá 
+dell’uomo. In: Boccardo G (ed) Economia Politica, vol 2. Unione 
+Tipografico-Editrice Torinese, pp 12–35
+ 12. Bus SA, de Lange A (2005) A comparison of the 1-step, 2-step, 
+and 3-step protocols for obtaining barefoot plantar pressure data 
+in the diabetic neuropathic foot. Clin Biomech (Bristol, Avon) 
+20(9):892–899. https:// doi. org/ 10. 1016/j. clinb iomech. 2005. 05. 
+004
+ 13. García-López J, Rodríguez-Marroyo JA (2013) Capítulo 5: Equi-
+librio y estabilidad del cuerpo humano. In: Pérez-Soriano P, Llana 
+Belloch S (eds) Biomecánica básica: aplicada a la actividad física 
+y al deporte. Paidotribo, Barcelona, pp 99–129
+ 14. Vilagut G, Ferrer M, Rajmil L, Rebollo P, Permanyer-Miralda G, 
+Quintana JM, Alonso J (2005) El Cuestionario de Salud SF-36 
+español: una década de experiencia y nuevos desarrollos. Gac 
+Sanit 19:135–150. https:// doi. org/ 10. 1157/ 13074 369
+ 15. The World Health Organization Quality of Life Group (1998) 
+Development of the World Health Organization WHOQOL-BREF 
+quality of life assessment. Psychol Med 28(3):551–558. https://  
+doi. org/ 10. 1017/ S0033 29179 80066 67
+ 16. Claudino JG, Gabbett TJ, Bourgeois F, Souza HS, Miranda RC, 
+Mezêncio B, Soncin R, Cardoso Filho CA, Bottaro M, Hernandez 
+AJ, Amadio AC, Serrão JC (2018) CrossFit overview: systematic 
+review and meta-analysis. Sports Med Open 4(1):11
+ 17. Martinho DV, Rebelo A, Gouveia ER, Field A, Costa R, Ribeiro 
+AS, Casonatto J, Amorim C, Sarmento H (2024) The physical 
+demands and physiological responses to CrossFit®: a scop-
+ing review with evidence gap map and meta-correlation. BMC 
+Sports Sci Med Rehabil 16(1):62. https:// doi. org/ 10. 1186/  
+s13102- 024- 00986-3
+ 18. Box AG, Feito Y, Brown CA, Petruzzello SJ (2019) Individual 
+differences influence exercise behaviour: how personality, motiva-
+tion and behavioural regulation vary among exercise mode pref-
+erences. Heliyon 5(4):e01459. https:// doi. org/ 10. 1016/j. heliy on. 
+2019. e01459
+ 19. Bycura D, Feito Y, Prather C (2017) Motivational factors in Cross-
+Fit® training participation. Health Behav Policy Rev 4(6):539–
+550. https:// doi. org/ 10. 14485/ HBPR.4. 6.4
+ 20. Ficarra S, Di Raimondo D, Navarra GA et al (2022) Effects of 
+a Mediterranean diet combined with CrossFit training on per -
+formance and body composition in trained adults. J Pers Med 
+12(8):1238. https:// doi. org/ 10. 3390/ jpm12 081238
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+
+===== PAGE 9 =====
+
+1.
+2.
+3.
+4.
+5.
+6.
+Terms and Conditions 
+Springer Nature journal content, brought to you courtesy of Springer Nature Customer Service Center GmbH (“Springer Nature”). 
+Springer Nature supports a reasonable amount of sharing of  research papers by authors, subscribers and authorised users (“Users”), for small-
+scale personal, non-commercial use provided that all copyright, trade and service marks and other proprietary notices are maintained. By
+accessing, sharing, receiving or otherwise using the Springer Nature journal content you agree to these terms of use (“Terms”). For these
+purposes, Springer Nature considers academic use (by researchers and students) to be non-commercial. 
+These Terms are supplementary and will apply in addition to any applicable website terms and conditions, a relevant site licence or a personal
+subscription. These Terms will prevail over any conflict or ambiguity with regards to the relevant terms, a site licence or a personal subscription
+(to the extent of the conflict or ambiguity only). For Creative Commons-licensed articles, the terms of the Creative Commons license used will
+apply. 
+We collect and use personal data to provide access to the Springer Nature journal content. We may also use these personal data internally within
+ResearchGate and Springer Nature and as agreed share it, in an anonymised way, for purposes of tracking, analysis and reporting. We will not
+otherwise disclose your personal data outside the ResearchGate or the Springer Nature group of companies unless we have your permission as
+detailed in the Privacy Policy. 
+While Users may use the Springer Nature journal content for small scale, personal non-commercial use, it is important to note that Users may
+not:  
+use such content for the purpose of providing other users with access on a regular or large scale basis or as a means to circumvent access
+control;
+use such content where to do so would be considered a criminal or statutory offence in any jurisdiction, or gives rise to civil liability, or is
+otherwise unlawful;
+falsely or misleadingly imply or suggest endorsement, approval , sponsorship, or association unless explicitly agreed to by Springer Nature in
+writing;
+use bots or other automated methods to access the content or redirect messages
+override any security feature or exclusionary protocol; or
+share the content in order to create substitute for Springer Nature products or services or a systematic database of Springer Nature journal
+content. 
+In line with the restriction against commercial use, Springer Nature does not permit the creation of a product or service that creates revenue,
+royalties, rent or income from our content or its inclusion as part of a paid for service or for other commercial gain. Springer Nature journal
+content cannot be used for inter-library loans and librarians may not upload Springer Nature journal content on a large scale into their, or any
+other, institutional repository. 
+These terms of use are reviewed regularly and may be amended at any time. Springer Nature is not obligated to publish any information or
+content on this website and may remove it or features or functionality at our sole discretion, at any time with or without notice. Springer Nature
+may revoke this licence to you at any time and remove access to any copies of the Springer Nature journal content which have been saved. 
+To the fullest extent permitted by law, Springer Nature makes no warranties, representations or guarantees to Users, either express or implied
+with respect to the Springer nature journal content and all parties disclaim and waive any implied warranties or warranties imposed by law,
+including merchantability or fitness for any particular purpose. 
+Please note that these rights do not automatically extend to content, data or other material published by Springer Nature that may be licensed
+from third parties. 
+If you would like to use or distribute our Springer Nature journal content to a wider audience or on a regular basis or in any other manner not
+expressly permitted by these Terms, please contact Springer Nature at  
+onlineservice@springernature.com

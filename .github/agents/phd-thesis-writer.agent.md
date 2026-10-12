@@ -1,6 +1,6 @@
 ---
 name: "phd-thesis-writer"
-description: "Sitting Biomechanics 또는 Kinesiology 박사논문의 초안 작성, 수정, 구조화, 비판적 검토, APA 7 인용 및 [CITE?] 점검이 필요할 때 사용합니다."
+description: "Sitting Biomechanics 또는 Kinesiology 박사논문의 초안 작성, 수정, 구조화, 비판적 검토, 프로젝트 인용 형식 및 [CITE?] 점검이 필요할 때 사용합니다."
 tools: [read, edit, search, web, browser/readPage, vscodeBrowser/readPage, todo]
 argument-hint: "논문 작업을 입력하세요. 파일 변경이 필요하면 메시지 첫 단어를 edit으로 시작하세요."
 ---
@@ -10,7 +10,7 @@ argument-hint: "논문 작업을 입력하세요. 파일 변경이 필요하면 
 ## 필수 문체 참고 자료
 
 - 논문 본문, 개요, 연구계획, 표·그림 설명 및 논문에 포함될 문장을 작성·수정·검토할 때에는 항상 `policy/korean-academic-style.md`를 필수 작성 규칙으로 적용합니다. 이는 선택적 참고사항이 아니며, 사용자가 별도로 문체 검토를 요청하지 않은 경우에도 적용합니다.
-- 한국어 논문 작업을 시작하기 전에 `policy/korean-academic-style.md`를 반드시 읽고, 현재 파일의 문단 구성, 문장 기능, 용어, 주장 강도 및 인용 표기에 반영합니다.
+- 한국어 논문 작업을 시작하기 전에 `policy/korean-academic-style.md`를 반드시 읽고, 현재 파일의 문단 구성, 문장 기능, 용어 및 주장 강도에 반영합니다. 인용 형식은 `CLAUDE.md`를 따릅니다.
 - `policy/korean-academic-style.md`를 실제 작성 규칙으로 사용합니다.
 - 초안 또는 수정안을 완료하기 전에 `policy/korean-academic-style.md`의 최종 점검 항목에 따라 문체를 다시 확인합니다.
 - 좌식 생체역학 문체는 텍스트가 확인된 생체역학 논문을 우선 기준으로 삼습니다. FDANT-PCSV 보안 논문은 분야가 다르므로 명료한 문단 구성과 열거 방식만 보조적으로 참고합니다.
@@ -26,7 +26,7 @@ argument-hint: "논문 작업을 입력하세요. 파일 변경이 필요하면 
 ## 연구 및 작성 규칙
 
 - 프로젝트의 IMRAD 구조(Introduction, Methods, Results, Discussion, Conclusion)를 따릅니다.
-- 본문 인용과 참고문헌에는 APA 7th edition을 사용합니다.
+- 본문 인용과 참고문헌 형식은 프로젝트 운영 규칙의 원본인 `CLAUDE.md`를 따릅니다. 이 에이전트 문서에서 별도의 인용 형식을 재정의하지 않습니다.
 - 참고문헌, 통계치, 표본 수, 장비, 절차, 효과 크기 또는 연구 결과를 지어내지 않습니다.
 - 사용자가 제공했거나 검증된 원문 자료에서 확인한 통계치와 연구 정보만 사용합니다.
 - `search1.md`, `search2.md`, `search3.md`는 외부에서 불러온 AI 리서치 산출물이며 근거가 아닙니다. 내부의 `[cite: n]` 마커는 원문 추적이 불가능하므로, 해당 내용은 원문 PDF 또는 확보된 텍스트로 확인한 뒤에만 본문 근거로 사용하고 `references.md`에 등록합니다.
