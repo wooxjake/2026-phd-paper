@@ -1,0 +1,184 @@
+1. Med Sci Sports Exerc. 2008 Jun;40(6):1093-100. doi: 
+10.1249/MSS.0b013e3181677530.
+
+A kinematics and kinetic comparison of overground and treadmill running.
+
+Riley PO(1), Dicharry J, Franz J, Della Croce U, Wilder RP, Kerrigan DC.
+
+Author information:
+(1)Department of Physical Medicine and Rehabilitation, University of Virginia, 
+Charlottesville, VA 22908-1004, USA.
+
+PURPOSE: The purpose of this study was to compare the kinematic and kinetic 
+parameters of treadmill running to those of overground running.
+METHODS: Twenty healthy young subjects ran overground at their self-selected 
+moderate running speed. Motion capture and ground reaction force (GRF) data for 
+three strides of each limb were recorded and the subjects' average running speed 
+was evaluated. The subjects then ran on an instrumented treadmill set to their 
+average overground running speed while motion capture and GRF data were 
+recorded. The kinematics (body segment orientations and joint angles) and 
+kinetics (net joint moments and joint powers) for treadmill (15 consecutive gait 
+cycles) and overground running (three cycles each limb) were calculated and 
+compared.
+RESULTS: The features of the kinematic and kinetic trajectories of treadmill 
+gait were similar to those of overground gait. Statistically significant 
+differences in knee kinematics,the peak values of GRF, joint moment, and joint 
+power trajectories were identified.
+DISCUSSION: Parameters measured with an adequate instrumented treadmill are 
+comparable to but not directly equivalent to those measured for overground 
+running. With such an instrument, it is possible to study the mechanics of 
+running under well-controlled and reproducible conditions.
+SIGNIFICANCE: Treadmill-based analysis of running mechanics can be generalized 
+to overground running mechanics, provided the treadmill surface is sufficiently 
+stiff and belt speed is adequately regulated.
+
+DOI: 10.1249/MSS.0b013e3181677530
+PMID: 18460996 [Indexed for MEDLINE]
+
+
+2. Sports Biomech. 2013 Sep;12(3):272-82. doi: 10.1080/14763141.2012.759614.
+
+Three-dimensional kinematic comparison of treadmill and overground running.
+
+Sinclair J(1), Richards J, Taylor PJ, Edmundson CJ, Brooks D, Hobbs SJ.
+
+Author information:
+(1)Division of Sport, Exercise and Nutritional Sciences, Centre for Applied 
+Sport and Exercise Sciences, University of Central Lancashire, Preston, 
+Lancashire PR1 2HE, UK. jsinclair1@uclan.ac.uk
+
+The treadmill is an attractive device for the investigation of human locomotion, 
+yet the extent to which lower limb kinematics differ from overground running 
+remains a controversial topic. This study aimed to provide an extensive 
+three-dimensional kinematic comparison of the lower extremities during 
+overground and treadmill running. Twelve participants ran at 4.0 m/s (+/- 5%) in 
+both treadmill and overground conditions. Angular kinematic parameters of the 
+lower extremities during the stance phase were collected at 250 Hz using an 
+eight-camera motion analysis system. Hip, knee, and ankle joint kinematics were 
+quantified in the sagittal, coronal, and transverse planes, and contrasted using 
+paired t-tests. Of the analysed parameters hip flexion at footstrike and ankle 
+excursion to peak angle were found to be significantly reduced during treadmill 
+running by 12 degrees (p = 0.001) and 6.6 degrees (p = 0.010), respectively. 
+Treadmill running was found to be associated with significantly greater peak 
+ankle eversion (by 6.3 degrees, p = 0.006). It was concluded that the mechanics 
+of treadmill running cannot be generalized to overground running.
+
+DOI: 10.1080/14763141.2012.759614
+PMID: 24245052 [Indexed for MEDLINE]
+
+
+3. Gait Posture. 1998 Jan 1;7(1):26-34. doi: 10.1016/s0966-6362(97)00023-4.
+
+Intra-stride belt-speed variation affects treadmill locomotion.
+
+Savelberg HH(1), Vorstenbosch MA, Kamman EH, van de Weijer JG, Schambardt HC.
+
+Author information:
+(1)Equine Biomechanics Research Group, Faculty of Veterinary Medicine, Utrecht 
+University, PO Box 80157, NL-3508 TD Utrecht, The Netherlands
+
+For overground and treadmill locomotion to be mechanically similar, it is 
+required that the belt speed of the treadmill is constant and the same to that 
+of overground locomotion. Variation of the belt speed during a stride causes 
+exchange of energy between the subject and the treadmill. This might be the 
+cause of different kinematic patterns between overground and treadmill 
+locomotion, which have been reported in literature. The aim of this study was to 
+investigate whether the intra-stride belt-speed is variable, and whether 
+differences in kinematic patterns can be attributed to these variations. Nine 
+subjects walked and ran overground and on two treadmills that were differently 
+susceptible to subjects' braking and accelerating forces. It was found that the 
+speed variations during treadmill locomotion affect the kinematic parameters 
+significantly. The amount of intra-stride belt-speed variation was found to 
+depend on the power of the treadmill and the mass of the subject. Copyright 1998 
+Elsevier Science B.V.
+
+DOI: 10.1016/s0966-6362(97)00023-4
+PMID: 10200372
+
+
+4. Gait Posture. 2007 Jun;26(1):17-24. doi: 10.1016/j.gaitpost.2006.07.003. Epub 
+2006 Aug 14.
+
+A kinematic and kinetic comparison of overground and treadmill walking in 
+healthy subjects.
+
+Riley PO(1), Paolini G, Della Croce U, Paylo KW, Kerrigan DC.
+
+Author information:
+(1)Department of Physical Medicine and Rehabilitation, University of Virginia, 
+Charlottesville, VA, USA. por2n@virginia.edu
+
+INTRODUCTION: Gait evaluation protocols using instrumented treadmills will be 
+increasingly used in the near future. For this reason, it must be shown that 
+using instrumented treadmills will produce measures of the ground reaction force 
+adequate for inverse dynamic analysis, and differences between treadmill and 
+overground gait must be well characterized.
+METHODS: Overground walking kinetics were estimated with the subjects walking at 
+their self-selected comfortable walking speed. For the treadmill gait trials, 
+the subjects walked on two treadmills, such that heel-strike occurred on the 
+forward treadmill and toe-off occurred on the trailing treadmill. The treadmill 
+was set to the average overground walking speed. Overground and treadmill data 
+were evaluated using Vicon Plug-in Gait. The differences between the maxima and 
+minima of kinematic and kinetic parameters for overground and treadmill gait 
+were evaluated.
+RESULTS: The kinematics of treadmill and overground gait were very similar. 
+Twelve of 22 kinematic parameter maxima were statistically significantly 
+different (p<0.05), but the magnitude of the difference was generally less than 
+2 degrees . All GRF maxima were found to be statistically significantly smaller 
+for treadmill versus overground gait (p<0.05) as were 15 of 18 moment, and 3 of 
+6 power maxima. However, the magnitude of the differences was comparable to the 
+variability in normal gait parameters. The sagittal plane ankle moments were not 
+statistically different for treadmill and overground gait.
+DISCUSSION: We have shown that treadmill gait is qualitatively and 
+quantitatively similar to overground gait. Differences in kinematic and kinetic 
+parameters can be detected in matched comparisons, particularly in the case of 
+kinetic parameters. However, the magnitudes of these differences are all within 
+the range of repeatability of measured kinematic parameters. Thus, the mechanics 
+of treadmill and overground gait are very similar.
+CLINICAL SIGNIFICANCE: Having demonstrated the essential equivalence of 
+treadmill and overground gait, it is now possible for clinical movement analysis 
+to take advantage of treadmill-based protocols.
+
+DOI: 10.1016/j.gaitpost.2006.07.003
+PMID: 16905322 [Indexed for MEDLINE]
+
+
+5. Gait Posture. 2009 Jan;29(1):59-64. doi: 10.1016/j.gaitpost.2008.06.010. Epub 
+2008 Aug 27.
+
+A simple method for calibrating force plates and force treadmills using an 
+instrumented pole.
+
+Collins SH(1), Adamczyk PG, Ferris DP, Kuo AD.
+
+Author information:
+(1)Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI, 
+USA. shc@umich.edu
+
+We propose a new method for calibrating force plates to reduce errors in center 
+of pressure locations, forces, and moments. These errors may be caused by 
+imperfect mounting of force plates to the ground or by installation of a 
+treadmill atop a force plate, which may introduce distorting loads. The method, 
+termed the Post-Installation Least-Squares (PILS) calibration, combines features 
+of several previous methods into a simple procedure. It requires a motion 
+capture system and an instrumented pole for applying reference loads. Reference 
+loads may be manually applied to the force plate in arbitrary locations and 
+directions. The instrumented pole measures applied load magnitudes through a 
+single-axis load cell, and load directions through motion capture markers. 
+Reference data and imperfect force plate signals are then combined to form a 
+linear calibration matrix that simultaneously minimizes mean square errors in 
+all forces and moments. We applied the procedure to standard laboratory force 
+plates, as well as a custom-built, split-belt force treadmill. We also collected 
+an independent set of verification data for testing. The proposed calibration 
+procedure was found to reduce force errors by over 20%, and moment errors by 
+over 60%. Center of pressure errors were also reduced by 63% for standard force 
+plates and 91% for the force treadmill. The instrumented pole is advantageous 
+because it allows for fast and arbitrary load application without needing a 
+precise fixture for aligning loads. The linear calibration matrix is simpler 
+than nonlinear correction equations and more compatible with standard data 
+acquisition software, yet it yields error reductions comparable to more complex 
+methods.
+
+DOI: 10.1016/j.gaitpost.2008.06.010
+PMCID: PMC2665306
+PMID: 18755590 [Indexed for MEDLINE]
