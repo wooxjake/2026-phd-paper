@@ -50,3 +50,11 @@
 7. [introduce.md#L59](../../introduce.md#L59)
 
    > "We retrieved every 10-minute block of EMG data from the 60-minute sitting period (at 0 e10, 10 e20, 20 e30, 30 e40, 40 e50, and 50e60 minutes) for analysis."
+
+8. [이론적 배경: 구부정한 자세의 주파수 변화](../../introduce.md#L128)
+
+   > "Only the right and left IO/TrA in the slumped sitting posture was significantly associated with decreased MDF over time"
+
+9. [이론적 배경: 10분 단위 자료 비교](../../introduce.md#L142)
+
+   > "We retrieved every 10-minute block of EMG data from the 60-minute sitting period (at 0 e10, 10 e20, 20 e30, 30 e40, 40 e50, and 50e60 minutes) for analysis."

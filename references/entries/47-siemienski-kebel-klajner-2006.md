@@ -2,10 +2,10 @@
 
 - **영문 제목**: Fatigue Independent Amplitude-Frequency Correlations in EMG Signals
 - **한글 제목**: EMG 신호에서 피로와 무관한 진폭-주파수 상관
-- **저자/출처**: Siemienski, A., Kebel, A., & Klajner, P. (2006). _arXiv_, physics/0611120. (1저자·2저자 소속: Department of Biomechanics, University School of Physical Education in Wrocław / 3저자: Institute of Physics, Wrocław University of Technology) https://arxiv.org/abs/physics/0611120
+- **저자/출처**: Siemienski, A., Kebel, A., & Klajner, P. (2006). Fatigue independent amplitude-frequency correlations in EMG signals. _Zeszyty Naukowe Katedry Mechaniki Stosowanej_, 26, 315–320. Conference: Biomechanics 2006, Zakopane, Poland. Preprint: arXiv:physics/0611120. (1저자·2저자 소속: Department of Biomechanics, University School of Physical Education in Wrocław / 3저자: Institute of Physics, Wrocław University of Technology) https://arxiv.org/abs/physics/0611120
 - **URL**: `html read` https://arxiv.org/abs/physics/0611120 / PDF 원문 `references/Fatigue Independent Amplitude-Frequency Correlations in EMG Signals.pdf`
 - **상태**: candidate
-- **게재 여부 `[확인 필요]`**: arXiv 등록본으로 확보하였다. 학술지 게재본 여부와 서지사항은 확인하지 않았으므로, 본문 인용 전에 게재 정보를 확인한다.
+- **게재 확인**: arXiv 권위 기록의 Journal reference에 _Zeszyty Naukowe Katedry Mechaniki Stosowanej_, 26, 315–320 (2006)로 표시되어 있다. 원문 PDF는 현재 arXiv 등록본으로 보관되어 있으며, 별도의 학술지 PDF는 확보하지 않았다.
 - **연구목표**: 근피로의 영향을 최소화한 조건에서 EMG 진폭 지표와 주파수 지표 사이에 상관이 나타나는지 확인하고, 그 상관이 표본추출속도에 따라 어떻게 달라지는지 평가.
 - **집단 정의 및 피험자 수**: 건강한 남성 자원자 N=19 (브로츠와프 체육대학 학생). 연령 20.29±0.47세, 신장 1.80±0.04m, 체중 74.94±8.01kg.
 - **비교 조건**: 근력 5수준(MVC의 5, 10, 20, 30, 50%) × 증폭계수 5수준(100, 200, 500, 1,000, 2,000배) × 표본추출속도 100수준(5,000Hz 원자료를 정수배 데시메이션하여 50Hz까지 모의). 피로 영향을 줄이기 위해 토크 수준과 증폭계수의 순서를 무작위로 배치하고, 피로를 호소하면 수 분간 휴식을 제공하였다. 세션 종료 시 MVC를 재측정해 피로 발생 여부를 점검하였다.
@@ -18,7 +18,7 @@
 
 - **원문 텍스트**: [원문 텍스트 미확보 — PDF만 확보](../Fatigue%20Independent%20Amplitude-Frequency%20Correlations%20in%20EMG%20Signals.pdf)
 
-1. [3-3-1_피로지표_해석.md - 3.4 표본추출·이득 관련 아티팩트](../../method/3.%20EMG%20-%20fatigue,RVC/3-3-1_피로지표_해석.md)
+1. [3-3-1*피로지표*해석.md - 3.4 표본추출·이득 관련 아티팩트](../../method/3.%20EMG%20-%20fatigue,RVC/3-3-1_피로지표_해석.md)
 
    > "such correlations, found here in an experiment designed to minimize fatigue, could shadow the response of amplitude and frequency measures to fatigue and should therefore be taken into account when monitoring the onset and development of fatigue"
    >

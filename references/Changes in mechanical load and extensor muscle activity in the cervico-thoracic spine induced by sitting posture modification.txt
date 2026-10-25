@@ -1,0 +1,746 @@
+===== PAGE 1 =====
+
+This article was downloaded by: [Universitätsbibliothek Bern]
+On: 26 August 2014, At: 13:24
+Publisher: Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,
+37-41 Mortimer Street, London W1T 3JH, UK
+Ergonomics
+Publication details, including instructions for authors and subscription information:
+http://www.tandfonline.com/loi/terg20
+Changes in mechanical load and extensor muscle
+activity in the cervico-thoracic spine induced by sitting
+posture modification
+Stephen J. Edmondston a , Michael Sharp a , Andew Symes a , Nawaf Alhabib a & Garry T .
+Allison a
+a School of Physiotherapy and Curtin Health Innovation Research Institute , Curtin University
+of Technology , Perth, Western Australia
+Published online: 02 Feb 2011.
+To cite this article: Stephen J. Edmondston , Michael Sharp , Andew Symes , Nawaf Alhabib & Garry T . Allison (2011) Changes
+in mechanical load and extensor muscle activity in the cervico-thoracic spine induced by sitting posture modification,
+Ergonomics, 54:2, 179-186, DOI: 10.1080/00140139.2010.544765
+To link to this article:  http://dx.doi.org/10.1080/00140139.2010.544765
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained
+in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the
+Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and
+should be independently verified with primary sources of information. Taylor and Francis shall not be liable for
+any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever
+or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of
+the Content.
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any
+form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://
+www.tandfonline.com/page/terms-and-conditions
+
+===== PAGE 2 =====
+
+Changes in mechanical load and extensor muscle activity in the cervico-thoracic spine induced by
+sitting posture modiﬁcation
+Stephen J. Edmondston*, Michael Sharp, Andew Symes, Nawaf Alhabib and Garry T. Allison
+School of Physiotherapy and Curtin Health Innovation Research Institute, Curtin University of Technology, Perth, Western
+Australia
+(Received 13 September 2010; ﬁnal version received 16 November 2010 )
+The inﬂuence of whole body sitting posture on cervico-thoracic posture, mechanical load and extensor muscle
+activity was examined in 23 asymptomatic adults. Cervical and upper thoracic extensor muscle activity measured in
+guided slouched and lumbo-pelvic neutral postures was normalised to that measured in a self-selected habitual
+posture. Head and neck posture and gravitational load moment measurements were obtained in each posture.
+Sagittal head translation, upper cervical extension and load moment were signiﬁcantly greater in the slouched
+posture ( p 5 0.001). Contrasting patterns of cervical and thoracic extensor activity were observed in the slouched
+and neutral postures, with cervical extensor activity 40% higher in the slouched posture ( p 5 0.0001). Thoracic
+extensor activity was signiﬁcantly higher in the lumbo-pelvic neutral posture than the habitual posture ( p ¼ 0.002).
+The signiﬁcant changes in extensor muscle activity with postural modiﬁcation appear to be induced by the associated
+change in mechanical load moment of the head.
+Statement of Relevance: More neutral sitting postures reduce the demand on the cervical extensor muscles and modify
+the relative contribution of cervical and thoracic extensors to the control of head and neck posture. Postures that
+promote these patterns of muscular activity may reduce cervical spine loading and the development of posture-related
+neck pain.
+Keywords: cervical spine; cervico-thoracic muscle activity; electromyography; sitting posture
+1. Introduction
+Sustained sitting postures and the related load on the
+cervical spine are important contributors to the high
+prevalence of neck pain in oﬃce workers and individuals
+performing computer-based tasks (Coˆte´et al. 2008). The
+loads transferred to the neck are likely to be inﬂuenced
+by the posture of the head and neck and related levels of
+muscle activity (Choi 2003). Flexed head and neck
+postures are associated with an increase in gravitational
+load moment and cervical extensor muscle activity,
+which may contribute to the higher prevalence of neck
+pain in individuals with this postural habit (Yip et al.
+2008, Strakeret al. 2009). Similarly, correction towards a
+more upright posture tends to decrease cervical extensor
+activity and increase activation of the deep ﬂexor muscles
+(Falla et al. 2007, Caneiro et al. 2010).
+Changes in whole body sitting posture have been
+shown to inﬂuence head and neck posture and levels of
+activity in the neck ﬂexor and extensor muscles (Black
+et al. 1996, McLean 2005, Falla et al. 2007). Sitting
+postures that promote cervico-thoracic ﬂexion are
+associated with greater cervical extensor muscle activity,
+while more upright sitting postures that reduce forward
+head translation and cervical ﬂexion appear to reduce
+the level of cervical extensor activity (Harms-Ringdahl
+et al. 1986, Caneiro et al. 2010). Changes in sitting
+posture inﬂuence the alignment of both the cervical and
+thoracic regions (O’Sullivan et al. 2006, Edmondston
+et al. 2007). The associated changes in cervical extensor
+muscle activity have been previously reported
+(Thuresson et al. 2005), but the associated changes in
+thoracic extensor activity are less clear.
+Cervical spine extensor muscle activity is likely
+to vary according to the load demands induced by
+the position of the head and neck. The loading
+demands increase as the head and neck are more
+ﬂexed, increasing the gravitational load moment
+around the seventh cervical vertebra (Straker et al.
+2009). The inﬂuence of cervical load moment on
+extensor muscle activity in functional postures has
+been examined in only a limited number of studies.
+In helicopter pilots, a 20 8 increase in cervical ﬂexion
+was associated with a three-fold increase in cervical
+load moment, but a very small increase in neck
+extensor muscle activity (Thuresson et al. 2005). The
+limited change in muscle activity was despite the
+*Corresponding author. Email: S.Edmondston@.curtin.edu.au
+Ergonomics
+Vol. 54, No. 2, February 2011, 179–186
+ISSN 0014-0139 print/ISSN 1366-5847 online
+/C2112011 Taylor & Francis
+DOI: 10.1080/00140139.2010.544765
+http://www.informaworld.com
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 3 =====
+
+pilots wearing a helmet and night vision goggles, which
+would increase the load moment relative to that induced
+by the weight of the head alone. However, Harms-
+Ringdahl et al. (1986) reported a similar increase in
+cervical load moment when sitting postures were
+modiﬁed from neutral to end-range ﬂexion. However,
+the associated median extensor muscle activity was 6%
+maximum voluntary contraction (MVC), although
+higher levels (10% MVC) were recorded in some
+subjects. The relationship between cervical load
+moment and extensor muscle activity has not been
+examined with regard to mid-range cervical postures
+and the inﬂuence of whole body postural adjustment.
+Sitting postures are typically associated with levels
+of neck muscle activation of between 2 and 6% of
+MVC and changes in response to postural adjustment
+are similarly small (McLean 2005, Mork and West-
+gaard 2006). Normalisation of neck muscle electro-
+myography (EMG) using a MVC is typically employed
+but MVC can be inﬂuenced by factors such as subject
+motivation and the posture in which the maximal
+contraction is performed (Mathiassen et al. 1995).
+Although postural modiﬁcation has been associated
+with signiﬁcant changes in neck extensor muscle
+activity, the magnitude of this change is commonly
+less than 5% of MVC (McLean 2005, Thuresson et al.
+2005, Caneiro et al. 2010). Therefore, in studies
+examining postural neck muscle activity, EMG nor-
+malisation using a reference posture, has been recom-
+mended (Sommerich et al. 2000). This approach may
+provide a better appreciation of the relative changes in
+cervical and thoracic muscle activity in response to
+postural modiﬁcation. Therefore, the objective of this
+study was to examine the inﬂuence of whole body
+sitting posture on cervico-thoracic posture and the
+gravitational load moment around an axis in the low
+cervical spine induced by the weight of the head. A
+further objective was to measure the posture-related
+changes in cervical and thoracic extensor muscle
+activity, where muscle activity in each posture was
+referenced to that measured in the habitual sitting
+posture.
+2. Methods
+2.1. Subjects
+Altogether, 23 asymptomatic subjects (11 males and 12
+females) with a mean age of 27.7 years (SD 3.5) were
+recruited for the study. Subjects had no history of neck
+pain in the last 3 months and no restriction of cervico-
+thoracic range of motion. Subjects were excluded if
+they had pain or medical conditions aﬀecting cervical
+mobility, neurological symptoms aﬀecting the upper
+limb, arm pain or pain associated with upper limb
+movement, previous neck trauma or were currently
+receiving treatment. All subjects signed a written
+consent form following a detailed explanation of the
+study procedures. Approval for the study was granted
+by the institutional Human Research Ethics
+Committee.
+2.2. Experimental procedure
+A within subjects, repeated measures design was
+employed to examine the inﬂuence of postural change
+on cervico-thoracic load moment and muscle activity
+as measured using surface EMG. Three postures were
+examined, which were modiﬁed from those described
+by Burnett et al. (2009):
+. Habitual posture: Subjects were asked to sit in
+a relaxed position on a treatment couch
+without any speciﬁc instruction as to how they
+should sit (Figure 1a). To facilitate relaxation
+into a habitual posture, subjects were engaged
+in conversation to distract their attention from
+their posture. This position was maintained for
+a minimum of 3 min prior to posture analysis.
+. Lumbo-pelvic neutral posture: Subjects were
+guided into a neutral lumbo-pelvic posture. This
+posture required anterior rotation of the pelvis, a
+neutral lumbar lordosis and positioning of the
+thorax over the pelvis but without excessive
+extension (Figure 1b).
+. Slouched posture: Subjects were guided into a
+position of end-range lumbo-pelvic ﬂexion,
+which induced thoracic ﬂexion and cervical spine
+and head protraction (Figure 1c).
+For all postures examined, subjects sat on a
+treatment couch with no back support. The height of
+the couch was adjusted to accommodate 90 8 of knee
+ﬂexion with the feet positioned on the ﬂoor, shoulder
+width apart. Arms were relaxed with the hands resting
+palm down on the thighs. In all postures, subjects were
+asked to ﬁx their gaze on an adjustable wall marker,
+which was positioned at eye level. The participants
+were guided into the prescribed postures by an
+experienced physiotherapist. Subjects maintained each
+posture for 10 s to allow for posture analysis
+photographs and EMG measurements to be
+completed. Subjects were given 1 min rest between
+postures and each posture was tested in a random
+order.
+3. Measurements
+3.1. Electromyography
+Following skin preparation of shaving and
+alcohol rub, bipolar surface electrodes (3M, Ag/AgCl
+180 S.J. Edmondston et al.
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 4 =====
+
+2248) were placed bilaterally according to
+anatomical location speciﬁc sites, as recommended
+by Sommerich et al. (2000). Electrodes were placed
+bilaterally over the cervical and thoracic erector
+spinae muscles. The cervical electrodes were
+positioned 2 cm lateral to the C4 spinous process
+and the thoracic electrodes positioned 5 cm lateral
+to the T4 spinous process. A reference electrode
+was placed over the acromion process. All inter-
+electrode impedance was less than 20 k O. In each
+posture, 10 s EMG signal was collected at a
+sampling rate of 1 kHz using an Octopus Cable
+Telemetric system (Bortec Electronics Inc., Calgary,
+Canada) with a 16 bit digital acquisition card
+(National Instruments, Austin, TX, USA) and a
+customised software program (LabVIEW V7.0;
+National Instruments).
+All raw EMG signals were pre-ampliﬁed and
+visually inspected for artefacts (heart rate and move-
+ment). For each channel, individual ampliﬁcation
+gains were set to ensure appropriate ampliﬁcation
+without the potential for amplitude clipping. Post-
+processing included demeaning and secondary band-
+pass ﬁltering (fourth order zero lag Butterworth ﬁlter
+20–500 Hz). The EMG signal amplitude for each
+channel was determined using a total root mean square
+(RMS) for each second of the 10 s task duration. EMG
+signals were amplitude normalised (RMS) using a sub-
+maximal reference signal recorded during the habitual
+sitting posture, according to the recommendations for
+examining low levels of neck muscle activation
+(Sommerich et al. 2000). The normalised mean
+amplitude over the 10 s data collection period was
+used in the analysis.
+3.2. Posture measurements
+Reﬂective markers were adhered unilaterally over the
+C7 and T4 spinous processes, tragus of the ear, lateral
+margin of the orbit and sternal notch. An experienced
+physiotherapist identiﬁed the anatomical landmarks
+for marker placement and these were checked by a
+second investigator.
+A digital camera (Sony DCR-SX403; Sony Corp.,
+Tokyo, Japan) was mounted on a tripod and
+positioned 2.5 m to the left side of the subject.
+Photographs (2592 6 1944 pixels) were taken in each
+test position by the same investigator. The images were
+analysed on a personal computer using image analysis
+software (Image J; National Institutes of Health,
+Bethesda, MD, USA). All image analysis was
+performed by one investigator in order to minimise
+image analysis error. The postural measurements were
+the following:
+. Cervico-thoracic angle: The angle formed by the
+intersection of lines connecting the tragus and
+the C7 spinous process, and the C7 spinous
+process and the T4 (Figure 1a).
+. Upper cervical angle: The angle formed by a line
+extending from the tragus to the lateral margin
+of the orbit and the horizontal plane (Figure 1b).
+. Sagittal plane head translation: The horizontal
+distance between the vertical line extending from
+the T4 spinous process and the tragus (Figure 1c).
+3.3. Cervico-thoracic load moment analysis
+The static cervico-thoracic load moment was
+calculated according to the method described by
+Figure 1. The habitual posture with cervico-thoracic angle (a), the lumpo-pelvic neutral posture with upper cervical angle
+(b) and the slouched posture with sagittal head translation (c).
+Ergonomics 181
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 5 =====
+
+Harms-Ringdahl et al. (1986). To calculate the static
+load moment of the head and neck, the motion axis for
+C7/T1 was deﬁned as the mid-point of a line extending
+between the C7 spinous process and the sternal notch.
+A perpendicular line was extended from the tragus
+(representing the line of gravitational force of the
+head) and the distance between this line and the
+motion axis at C7/T1 was calculated. The cervico-
+thoracic load moment was calculated using static
+mechanical analysis as:
+M ¼ FðhÞ/C2 d ð1Þ
+where d is the perpendicular distance from the motion
+axis to the gravitational force of the head and F(h) is
+the weight of the head (deﬁned as 7.9% of body
+weight) (Dempster 1955).
+3.4. Posture measurement reliability
+A reliability study was conducted on all posture
+measurements prior to commencing the study. Five
+images were acquired from one subject in each of the
+three postures. Each image was analysed by one
+investigator who was blinded to the measurement
+results. Coeﬃcients of variation (CV) and standard
+error of measurement (SEM) were calculated for each
+posture. The CV was between 0.44% and 0.54% for
+the cervico-thoracic angle, 0.87% and 3.98% for upper
+cervical angle and 0.30% and 0.70% for anterior
+sagittal translation. The SEM for all postural measure-
+ments was 5 18.
+3.5. Statistical analysis
+Descriptive statistic analysis was performed to
+summarise the posture and load moment measure-
+ments in each of the sitting positions. Since no
+signiﬁcant diﬀerence in EMG amplitude between
+sides was identiﬁed, muscle amplitudes were averaged
+and the mean value used in all comparative analyses.
+The mean EMG amplitude expressed as change in
+amplitude (%) from the reference habitual posture
+amplitude was calculated for each prescribed posture.
+A one-factor repeated measures ANOVA was used
+to test for signiﬁcant diﬀerences in the head and
+neck posture measures, and load moment, between
+the three sitting postures. Post hoc contrast analysis
+was then used to test for pair-wise diﬀerences. For
+the EMG data, a repeated measures ANOVA was
+used to determine if there was a signiﬁcant eﬀect of
+posture and muscle or a posture by muscle interac-
+tion. Post hoc pair-wise comparisons were then
+performed to test for signiﬁcant diﬀerences in
+EMG amplitude between postures and muscles. For
+all analyses, the criterion for statistical signiﬁcance
+was set at p 5 0.05.
+4. Results
+4.1. Postural analysis
+The posture measurements for each of the sitting
+postures are summarised in Table 1. There were no
+signiﬁcant diﬀerences in the posture measures between
+the habitual and lumbo-pelvic neutral postures. The
+slouched posture was associated with a slight increase
+in the cervico-thoracic angle compared with the
+habitual and lumbo-pelvic neutral posture but the
+diﬀerences were not statistically signiﬁcant ( p ¼ 0.17
+and p ¼ 0.13 respectively). Upper cervical extension
+was signiﬁcantly greater in the slouched posture than
+in the habitual ( p 5 0.0001) or neutral ( p ¼ 0.0004)
+postures. Similarly, anterior translation of the head
+was signiﬁcantly greater in the slouched posture than
+in the habitual ( p 5 0.0001) or neutral postures
+(p 5 0.0001).
+4.2. Cervico-thoracic load moment
+The moment arm length and resultant gravitational
+load moment calculated in each posture are
+summarised in Table 1. The load moment in the
+slouched posture was signiﬁcantly greater than in the
+habitual ( p 5 0.0001) and lumbo-pelvic neutral
+(p 5 0.0001) postures. There was no signiﬁcant
+diﬀerence in load moment between the habitual and
+lumbo-pelvic neutral postures. The load moment in the
+slouched posture increased by 57.2% compared with
+the habitual posture. There was a 2.2% decrease in the
+load moment in the lumbo-pelvic neutral posture
+compared with the habitual posture.
+Table 1. Mean (SD) head and neck posture measures,
+moment arm length and load moment for each posture.
+Habitual Slouched
+Lumbo-
+pelvic
+neutral
+Cervico-thoracic
+angle ( 8)
+157.0 (6.1) 159.2 (8.7) 157.0 (6.9)
+Upper cervical
+angle ( 8)
+34.0 (12.9) a 23.8 (12.7) 31.6 (14.3) b
+Sagittal head
+translation
+(mm)
+193 (45)
+a 239 (52) 193 (52) a
+Moment arm
+length (mm)
+57 (22) b 91 (27) 57 (27) b
+Cervical load
+moment (Nm)
+3.1 (1.6) b 4.9 (2.1) 3.1 (1.9) b
+aSigniﬁcantly diﬀerent to slouched ( p 5 0.001).
+bSigniﬁcantly diﬀerent to slouched ( p 5 0.0001).
+182 S.J. Edmondston et al.
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 6 =====
+
+4.3. Cervico-thoracic muscle activity
+There was a signiﬁcant interaction between posture
+and muscle group ( F22,1 ¼ 7.55, p ¼ 0.011). The
+posture-related changes in cervical and thoracic muscle
+activity relative to the habitual posture are illustrated
+in Figure 2. In the slouched posture, there was a
+signiﬁcant increase in cervical extensor muscle activity
+(p 5 0.0001), but little change in the thoracic extensor
+activity. In contrast, there was a signiﬁcant increase in
+thoracic extensor activity in the lumbo-pelvic neutral
+posture compared with the habitual posture
+(p ¼ 0.002), but no change in the cervical extensor
+activity.
+Diﬀerences in cervical and thoracic muscle activity
+in the slouched and lumbo-pelvic neutral postures are
+illustrated in Figure 3. In the slouched posture, cervical
+extensor activity was higher than the thoracic extensor
+activity but the diﬀerence was not signiﬁcant
+(p ¼ 0.07). Conversely, thoracic extensor activity was
+higher than cervical extensor activity in the lumbo-
+pelvic neutral posture but the diﬀerence was not
+signiﬁcant ( p ¼ 0.06).
+5. Discussion
+Guidelines for computer and workstation use recom-
+mend lumbo-pelvic support to assist the maintenance
+of optimal head and neck postures (Cook and Burgess-
+Limerick 2003). This study has shown that modiﬁca-
+tion of the lumbo-pelvic position in unsupported
+sitting has a signiﬁcant inﬂuence on the posture of
+the head and neck. More upright lumbo-pelvic
+postures signiﬁcantly reduce anterior translation of
+the head, and upper cervical extension, which are
+features of the forward-head posture, associated with
+an increased prevalence of neck pain (Aaras et al. 1998,
+Yip et al. 2008). This postural adjustment resulted in a
+signiﬁcant decrease in the gravitational load moment
+around the low cervical spine, induced by the weight of
+the head and neck. While previous studies have
+reported signiﬁcant increases in the load moment
+around the low cervical spine in mid-range and
+extreme neck ﬂexion (Finsen 1999, Thuresson et al.
+2005), the present results demonstrate a similar eﬀect
+of neck protraction, a posture more commonly
+associated with computer use by oﬃce workers (Szeto
+et al. 2002, Yoo and Kim 2010).
+Under low load conditions, posture of the head and
+neck is controlled predominantly by the deep anterior
+and posterior muscles of the neck (Mayoux-Benhamou
+et al. 1997). Changes in neck ﬂexor and extensor
+muscle activity in response to whole body postural
+adjustments in sitting have previously been
+demonstrated (McLean 2005, Falla et al. 2007,
+Caneiro et al. 2010). In the present study, the level of
+activation of the cervical and thoracic extensor muscles
+appeared to be driven by the magnitude of the load
+moment of the head and neck. The higher load
+moment in the slouched posture was associated with
+signiﬁcantly greater cervical extensor muscle activity
+than that associated with the lumbo-pelvic neutral
+posture. Importantly, the activation of the cervical
+extensor muscles in the more protracted head position
+was 40% greater than in the more upright habitual and
+lumbo-pelvic postures. These higher levels of extensor
+muscle activity may disturb the balance between
+Figure 2. The mean electromyographic (EMG) amplitude
+of the cervical and thoracic extensor muscles normalised to
+the habitual posture. Cervical extensor activity was
+signiﬁcantly greater in the slouched posture and thoracic
+extensor activity was signiﬁcantly greater in the lumbo-pelvic
+posture.
+Figure 3. Comparison of cervical and thoracic extensor
+muscle activity in the lumbo-pelvic neutral and slouched
+postures normalised to electromyographic (EMG) activity
+in the same muscles in the habitual posture.
+Ergonomics 183
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 7 =====
+
+extensor and ﬂexor muscle activity, changing the
+optimal patterns and magnitude of load transfer in
+the cervical spine.
+Previous studies examining muscle activity during
+sitting tasks have normalised the EMG measurements
+using maximal contraction in order to compare levels
+of activity in diﬀerent muscles (Harms-Ringdahl et al.
+1986, McLean 2005). The rationale for this is that
+%MVC gives a better indication of the relative
+demand on the muscle and its capacity (Straker et al.
+2009). Given the low muscular demands of static
+sitting postures, the posture-related changes in cervical
+extensor activation relative to the MVC are typically
+very low, making the measurement vulnerable to error
+due to variability in the MVC (Jensen et al. 1996). The
+approach taken in the present study was to use a
+posture-speciﬁc normalisation technique so that EMG
+measurements in the prescribed postures were normal-
+ised to those in the subject’s self-selected (habitual)
+posture (Bauer and Wittig 1998). As a result, cervical
+extensor muscle activity was about 40% greater in the
+slouched posture than in the habitual and lumbo-pelvic
+neutral postures. In previous studies, similar postural
+adjustments have been associated with changes in
+cervical extensor activity of between 1 and 5%MVC
+(McLean 2005, Caneiro et al. 2010). This suggests that
+EMG normalisation to a reference posture may
+provide a better indication of the relative changes in
+cervical muscle activity associated with changes in
+sitting posture.
+While the changes in cervical extensor muscle
+activity associated with changes in head and neck
+posture are well documented, the changes in other
+related muscles are less clear. Contrasting patterns of
+thoracic and cervical extensor muscle activity were an
+unexpected ﬁnding of the present study. Upper
+thoracic extensor activity increased signiﬁcantly in
+the lumbo-pelvic neutral posture compared with that
+in the habitual posture, despite the small changes in
+posture measurements and related load moment. This
+ﬁnding is consistent with that of Harms-Ringdahl et al.
+(1986), who reported a 2%MVC increase in upper
+thoracic extensor activity in a retracted head and neck
+posture, compared with that measured in a neutral
+posture. The cervical and thoracic extensor muscles
+may therefore have diﬀerent roles in maintaining head
+and neck posture and resisting the ﬂexion moments
+induced by the weight of the head. The upper thoracic
+extensors such as semi-spinalis cervicis and splenius
+cervicis may work to control ﬂexion and protraction of
+the upper thoracic and low cervical spine through their
+cervical attachments. This would explain the signiﬁ-
+cantly higher thoracic extensor activity in this muscle
+group in the more upright lumbo-pelvic posture and is
+consistent with the proposed postural role of these
+muscles (Conley et al. 1995). Despite the signiﬁcant
+increase in thoracic muscle activity in the lumbo-
+pelvic neutral posture, there was no signiﬁcant
+change in the posture measurements compared with
+those in the habitual posture. The likely explanation
+for this is that cervico-thoracic angle measurement
+used in this study was not sensitive to these subtle
+postural adjustments.
+The contrasting patterns of cervical and thoracic
+muscle activity observed in this study provide an
+insight into optimal patterns of cervico-thoracic
+extensor muscle activity and how changes associated
+with forward head postures may lead to the
+development of postural neck pain. In the more
+upright lumbo-pelvic neutral posture, the increased
+activity in the upper thoracic extensors maintains a
+more retracted head position and a relatively low level
+of cervical extensor activity. The cervical lordosis
+would be further supported in this posture by increased
+activity in the deep anterior neck muscles (Fountain
+et al. 1966, Falla et al. 2007). In the forward head
+posture, decreased activation of the thoracic extensors
+is associated with a signiﬁcant increase in cervical
+extensor activity. The increased activation in the
+cervical extensors, which have a smaller cross-sectional
+area compared to the extensors with a thoracic origin
+(Elliott et al. 2007), may result in decreased
+oxygenation and decreased force output in the low
+threshold motor units of these muscles (Kallenberg
+et al. 2007, Flodgren et al. 2009). Activation of higher
+threshold motor units may help oﬀ-set this fatigue
+response in the short term (Hodson-Tole and Wakeling
+2009) and may explain the higher levels of muscle
+activity associated with low-load tasks, observed in
+some individuals with posture-related neck pain
+(Johnston et al. 2008). However, the higher levels of
+muscle activity would contribute to elevated levels of
+muscle strain and loading of cervical spine structures,
+increasing the potential for the development of pain.
+Inferences drawn from the results of this study
+should acknowledge that the subjects were young and
+asymptomatic so that the ﬁndings may not be
+transferable to older individuals or those with neck
+pain. The study was conducted in unsupported sitting
+in order to evaluate muscular responses to postural
+change without the inﬂuence of external support.
+Although there was considerable variability in the
+habitual posture, the mean habitual posture used as
+the reference for the two prescribed postures was not
+signiﬁcantly diﬀerent from the lumbo-pelvic neutral
+posture. Subjects were encouraged to relax into their
+preferred posture prior to the photographic analysis.
+However, in some cases, there may have been a
+tendency to adopt a posture that was diﬀerent to their
+true unsupported posture. The short duration of
+184 S.J. Edmondston et al.
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 8 =====
+
+posture analysis limits the extrapolation of these
+results to muscular responses to postures sustained
+over longer periods of time.
+6. Conclusion
+Work-related sitting postures that support the lumbo-
+pelvic region in a neutral position promote greater
+activation of the thoracic extensor muscles and
+signiﬁcantly reduce the levels of cervical extensor
+muscle activity associated with a forward head posture.
+These posture-related changes in extensor muscle
+activity appear to be related to the position of the
+head relative to the trunk and changes in the
+gravitational load moment induced by the weight of
+the head. These observations will further inform the
+development of guidelines for optimal sitting support
+and postural alignment during occupational tasks.
+Acknowledgements
+The authors wish to thank Dr Peter McKinnon, Lecturer and
+Statistician, School of Physiotherapy, Curtin University of
+Technology for his assistance with the statistical analysis of
+this study.
+References
+Aaras, A., et al ., 1998. Musculoskeletal, visual and psycho-
+social stress in VDU operators before and after multi-
+disciplinary ergonomic interventions. Applied Ergonomics,
+29, 335–354.
+Bauer, W. and Wittig, T., 1998. Inﬂuence of screen and copy
+holder positions on head posture, muscle activity and
+user judgement. Applied Ergonomics , 29, 185–192.
+Black, K., McClure, P., and Polansky, M., 1996. The
+inﬂuence of diﬀerent sitting positions on cervical and
+lumbar posture. Spine, 21, 65–70.
+Burnett, A., et al ., 2009. An examination of the ﬂexion-
+relaxation phenomenon in the cervical spine in lumbo-
+pelvic sitting. Journal of Electromyography and Kinesiol-
+ogy, 19, e229–e236.
+Caneiro, J.P., et al ., 2010. The inﬂuence of diﬀerent sitting
+postures on head/neck posture and muscle activity.
+Manual Therapy , 15, 54–60.
+Choi, H., 2003. Quantitative assessment of co-contraction in
+cervical musculature. Medical Engineering & Physics , 25,
+133–140.
+Conley, M.S., et al ., 1995. Non-invasive analysis of human
+neck muscle function. Spine, 20, 2505–2512.
+Cook, C. and Burgess-Limerick, R., 2003. Guidelines
+for computer workstations. Ergonomics Australia , 17,
+19–37.
+Coˆte´,P . , et al ., 2008. The burden and determinants of neck
+pain in workers: results of the Bone and Joint Decade
+2000–2010 Task Force on Neck Pain and Its Associated
+Disorders. Spine, 33 (Suppl. 4), S60–S74.
+Dempster, W.T., 1955. Space requirements of the seated
+operator. Ohio, USA: Wright-Patterson Air Force Base.
+Edmondston, S.J., et al ., 2007. Postural neck pain an
+investigation of habitual sitting posture, perception of
+‘good’ posture and cervicothoracic kinaesthesia. Manual
+Therapy, 12, 363–371.
+Elliott, J.M., et al ., 2007. Magnetic resonance imaging study
+of cross-sectional area of the cervical extensor
+musculature in an asymptomatic cohort. Clinical
+Anatomy, 20, 35–40.
+Falla, D., et al., 2007. Recruitment of the deep cervical ﬂexor
+muscles during a postural-correction exercise performed
+in sitting. Manual Therapy , 12, 139–143.
+Finsen, L., 1999. Biomechanical aspects of occupational neck
+postures during dental work. International Journal of
+Industrial Ergonomics , 23, 397–340.
+Flodgren, G.M., et al ., 2009. Changes in interstitial
+noradrenaline, trapezius muscle activity and oxygen
+saturation during low-load work and recovery. European
+Journal of Applied Physiology , 107, 31–42.
+Fountain, F.P., Minear, W.L., and Allison, R.D., 1966.
+Function of longus colli and longissimus cervicis muscles
+in man. Archives of Physical Medicine and Rehabilitation ,
+47, 665–669.
+Harms-Ringdahl, K., et al ., 1986. Load moments and
+myoelectric activity when the cervical spine is held
+in full ﬂexion and extension. Ergonomics, 29, 1539–
+1552.
+Hodson-Tole, E.F. and Wakeling, J.M., 2009. Motor unit
+recruitment for dynamic tasks: current understanding
+and future directions. Journal of Comparative Physiology
+B, 179, 57–66.
+Jensen, C., Vasseljen, O., and Westgaard, R.H., 1996.
+Estimating maximal EMG amplitude for the trapezius
+muscle: on the optimization of experimental procedure
+and electrode placement for improved reliability and
+increased signal amplitude. Journal of Electromyography
+and Kinesiology , 6, 51–58.
+Johnston, V., et al ., 2008. Neck movement and muscle
+activity characteristics in female oﬃce workers with neck
+pain. Spine, 33, 555–563.
+Kallenberg, L.A.C., et al ., 2007. Myoelectric manifestations
+of fatigue at low contraction levels in subjects with and
+without chronic pain. Journal of Electromyography and
+Kinesiology, 17, 264–274.
+McLean, L., 2005. The eﬀect of postural correction on
+muscle activation amplitudes recorded from the
+cervicobrachial region. Journal of Electromyography and
+Kinesiology, 15, 527–535.
+Mathiassen, S., Winkel, J., and Hagg, G., 1995.
+Normalization of surface EMG amplitude from the
+upper trapezius muscle in ergonomic studies – a review.
+Journal of Electromyography and Kinesiology , 5, 197–
+226.
+Mayoux-Benhamou, M.A., Revel, M., and Vallee, C., 1997.
+Selective electromyography of dorsal neck muscles in
+humans. Experimental Brain Research , 113, 353–360.
+Mork, P.J. and Westgaard, R.H., 2006. Low-amplitude
+trapezius activity in work and leisure and the relation to
+shoulder and neck pain. Journal of Applied Physiology ,
+100, 1142–1149.
+O’Sullivan, P., et al ., 2006. Eﬀect of diﬀerent upright
+sitting postures on spinal pelvic curvature and trunk
+muscle activation in a pain-free population. Spine, 31,
+707–712.
+Sommerich, C., et al ., 2000. Use of electromyography to
+estimate neck muscle activity. Journal of
+Electromyography and Kinesiology , 10, 377–398.
+Straker, L., et al ., 2009. Eﬀect of visual display height on
+modelled upper and lower cervical gravitational moment,
+muscle capacity and relative stain. Ergonomics, 52, 204–
+221.
+Ergonomics 185
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014
+
+===== PAGE 9 =====
+
+Szeto, G.P., Straker, L., and Raine, S., 2002. A ﬁeld
+comparison of neck and shoulder postures in sympto-
+matic and asymptomatic oﬃce workers. Applied Ergo-
+nomics, 33, 75–84.
+Thuresson, M., et al ., 2005. Mechanical load and EMG
+activity in the neck induced by diﬀerent head-worn
+equipment and neck postures. Industrial Ergonomics , 35,
+13–18.
+Yip, C., Chiu, T., and Poon, A., 2008. The relationship
+between head posture and severity and disability of
+patients with neck pain. Manual Therapy , 13, 148–154.
+Yoo, W.G. and Kim, M.H., 2010. Eﬀect of diﬀerent seat
+support characteristics on the neck and trunk muscles
+and forward head posture of visual display terminal
+workers. Work, 36, 3–8.
+186 S.J. Edmondston et al.
+Downloaded by [Universitätsbibliothek Bern] at 13:24 26 August 2014

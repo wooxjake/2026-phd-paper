@@ -1,0 +1,488 @@
+===== PAGE 1 =====
+
+Industrial Health 1997, 35, 330-336
+Sitting Posture and Neck and Shoulder Muscle Activities 
+at Different Screen Height Settings ofthe Visual Display 
+Terminal
+Maria Beatriz G . VILLANUEVAI, Hiroshi JONAI2*, Midori SOTOYAMA2, 
+       Yasuhiro TAKEUCHI3 and Susumu SAIT02
+Naomi HISANAGA2,
+Occupational Health Consultant, 46, Narig Street, Project 7, Quezon City 1105, Philippines 
+2 National Institute of Industrial Health, 6-21-1, Nagao, Tama-ku, Kawasaki 214, Japan 
+3 Department of Hygiene , School of Medicine, Nagoya University, 65, Tsurumai-cho, Showa-ku, Nagoya 466, Japan
+Received April 2, 1997 and accepted May 15, 1997
+Abstract: The effects of the VDT screen height on working posture and electromyographic (EMG) 
+activities of the neck and shoulder muscles were determined in 10 healthy subjects. The subjects 
+performed a mouse-driven interactive task at the screen height settings of 80,100 and 120 cm. 
+Changes in body positions were measured by video image and frame analysis. Surface EMG 
+recordings were done on the neck extensor muscle and the descending part of the trapezius muscle, 
+both on the right side. The results of the postural analysis showed that at higher screen height 
+sittings, the neck became significantly more erect. The subjects also assumed a more backward-
+leaning trunk position at higher screen heights. The EMG activities of the neck and shoulder muscles 
+were related to the neck angle and trunk inclination, respectively. A more flexed neck produced 
+significantly higher neck extensor muscle activities. A backward-leaning trunk was also noted to 
+decrease trapezius muscle activity in some subjects.
+Key words: Visual display terminal (VDT), Screen height, Posture, Neck extensor muscle, Trapezius 
+muscle, Electromyography (EMG)
+Introduction
+ Working with the visual display terminal (VDT) is 
+primarily a visual task. The body movements support the 
+eye position in attaining the optimum viewing angle while 
+performing the VDT work'' 2). Mutually interrelated 
+movements of the body are involved in adapting to the 
+workstation with priority given to the eye3, 4) 
+ The position of the head is the extremely important in 
+setting the preferred viewing angle3' 5). This is more 
+pronounced in VDT work that needs constant visual 
+monitoring of the screen. For interactive work, such as 
+computer-aided design (CAD), which requires attention to
+*To whom correspondence should be addressed .
+the screen in more than 50% of the working time6), postural 
+fixation ensues once the viewing angle has been set4). With 
+the introduction of the mouse as a primary input device for 
+graphical user interfaces, body movements may be 
+concentrated on the hand handling of the mouse, precluding 
+further change in posture. Unvaried, simplified body motions 
+and constrained and awkward postures are produced leading 
+to the static loading of the same muscle groups that can 
+cause pains and fatigue'' 8). 
+ For VDT workers performing keyboard tasks, constrained 
+postures of the neck and shoulder are frequently implicated 
+as significant risk factors in the development of 
+musculoskeletal complaints"). Forward flexion of the neck 
+creates an increased moment of the head weight thai can 
+produce significant contraction of the muscles to achieve
+
+===== PAGE 2 =====
+
+EFFECT OF VDT HEIGHT ON POSTURE AND NECK AND SHOULDER MUSCLE ACTIVITIES 331
+equilibriuml2' 13)The problem of neck discomfort has been 
+shown to occur concurrently with shoulder discomfort in 
+several studies14' 15). These symptoms were found to be 
+similarly experienced by mouse usersl6~. 
+ Some authors have studied how posture can be improved 
+by changing the workstation. Increasing the VDT monitor 
+height resulted in a head that is less bent and a trunk that is 
+more erect4' 17) . This erect posture may produce less muscle 
+tension and lesser load on the spine compared to a flexed 
+upper body2' 1s). 
+ In the present study, manipulation of the workstation was 
+done to determine the changes in the body positions and the 
+electromyographic (EMG) activities of the neck extensor 
+muscle and the descending part of the trapezius muscle. The 
+VDT screen height was modified while performing a non-
+keyboard task. The relationship between posture and muscle 
+activity at the different screen setting was explored.
+Subjects and Method
+Subjects 
+  Ten subjects (8 male and 2 female) participated in the 
+experiment. All subjects are right-handed. The demographic 
+characteristics are shown in Table 1.
+Experimental workstation 
+ The selection of the 3 screen height settings, i.e., 80,100, 
+and 120 cm, used in the experiment was based on the 
+recommended table height of 67 cm19>. The central processing 
+unit (CPU) and the 14-inch CRT monitor placed on top of a 
+67 cm table resulted in a screen height of 100 cm (from the 
+floor to the middle of the screen). Change of screen height 
+was made at 20-cm increments. 
+ The table height upon which the mouse rests was constant 
+for all subjects at 67 cm. The mouse table is detached from 
+the adjustable screen table. 
+ Prior to the start of the experiment, the subjects were asked 
+to adjust the chair until the forearm was parallel to the ground 
+when handling the mouse. The back support was adjusted 
+to desired levels. Thereafter, the chair setting remained 
+unchanged throughout the experiment.
+Task 
+ The subjects were asked to engage in an interactive 
+computer game requiring constant visual monitoring. Only 
+the mouse was used as the input device in this experiment. 
+The subjects performed the VDT task for 20 min at each 
+screen height. The subjects were allowed to adapt to the
+workstation for 5 min. Data for the next 15 min was used 
+for analysis in this study. Posture and muscle activities were 
+recorded intermittently every minute for the duration of the 
+experiment. Rest of 1 hr was introduced in between height 
+changes. The order of the change in screen height was 
+completely randomized.
+Posture analysis 
+ Body positions at different screen height settings were 
+captured by a video camera from the left profile of the subject. 
+Posture was analyzed using a video image analyzer and by 
+frame analysis of the videotape recording4' 20) Posture was 
+recorded intermittently every minute for the duration of the 
+experiment. Five frames were taken per minute. 
+  The neck angle was based on the Reid's line referenced 
+to the horizontal plane. The Reid's line is defined by a line 
+connecting the outer canthus of the eye and the center of 
+the outer canal of the ipsilateral ear (Fig. 1). Earlier findings 
+showed that the Reid's line is approximately 10° above the 
+Frankfurt plane. 
+ Thoracic bending was defined as the angle formed by 
+7th cervical vertebra (C7), angulus inferior scapula and iliac 
+crest. A smaller angle corresponds to a relatively more 
+kyphotic spine. 
+  Trunk inclination was determined using the angle formed
+Table 1. Descriptive statistics on demography and 
+anthropometry of the subjects
+Fig. 1. Measurement of neck angle based on the Reid's line
+
+===== PAGE 3 =====
+
+332 MBG VILLANUEVA et al.
+by C7 and iliac crest referenced against the horizontal plane. 
+Reclining positions would assume a value of more than 90° 
+(Fig. 2).
+Electromyography 
+ Disposable 8 mm AgCI surface electrodes (Blue Sensor, 
+Medicotest A/S, Denmark) were attached on the skin of the 
+subjects. Prior to attachment, the skin was cleaned with 
+70% ethanol. The location of the recording electrodes were 
+as follows: l) at the level of the 2nd or 3rd cervical vertebra 
+(C2-C3), right paravertebral, over the cervical portion of 
+the descending part of the trapezius muscle to record the 
+activity of the neck extensor muscles; and 2) at the midpoint 
+between the right acromion and the spine of the right 7th 
+cervical vertebra (C7), to record the activity of the trapezius 
+pars descendens muscle. Ground electrodes were attached 
+lateral to the recording electrodes. 
+ A portable EMG machine (MEGA ME3000P, Mega 
+Electronics, Ltd., Kuopio, Finland) was used to record the 
+muscle activities. Recording was done intermittently every 
+minute. Sampling of the muscle activity was done at a 
+frequency of 1000 Hz. The recorded activity was downloaded 
+to an EMG analyzer (MEGA ME3000P, Mega Electronics, 
+Ltd., Kuopio, Finland) where full rectification and time 
+averaging every 100 msec for 5 sec was done. The procedure 
+was performed for all subjects doing the VDT task at 3 
+different screen height settings. 
+ To facilitate interindividual comparison, the muscle 
+activity was normalized as percentage of the maximum 
+voluntary contraction (MVC) after data gathering for the 3 
+height settings was completed. Manual resistance was placed 
+over the occiput during attempted neck extension to get the
+MVC of the neck extensor muscles covered by the cervical 
+portion of the m. trapezius, pars descendens. Manual 
+resistance was placed over the shoulder during attempted 
+shoulder elevation to get the MVC of the anterolateral portion 
+of the m. trapezius, pars descendens.
+Statistical analysis 
+ Non-parametric statistical analysis methods were 
+employed because the data gathered were not normally 
+distributed. Friedman's oneway repeated measures analysis 
+of variance on ranks was used to determine the effect of 
+screen height on posture and muscle activity. Results of 
+repeated measures ANOVA were subjected to Student-
+Newman-Keul's method of multiple comparison to determine 
+significant difference between levels of the test variable. 
+Correlation studies were performed using Spearman's rank 
+order and Pearson's correlation analysis methods. Statistical 
+tests with p<0.05 were considered significant.
+Results
+Body posture and screen height 
+  The neck angle and trunk inclination were significantly 
+affected by changes in screen height (Table 2). The neck 
+became more erect at higher screen positions (p<0.001). The 
+trunk was also noted to be more backward-leaning as the screen 
+height was increased (p=0.02). Student-Newman-Keul's 
+multiple comparison studies showed that the neck was 
+becoming significantly more upright from the lowest to the 
+highest screen height (p<0.05). For trunk inclination, however, 
+the difference was not significant between the means at 80 
+and 100 cm.
+Fig. 2. Location of markers and measurement points for the postural angles
+Industrial Health 1997, 35, 330-336
+
+===== PAGE 4 =====
+
+EFFECT OF VDT HEIGHT ON POSTURE AND NECK AND SHOULDER MUSCLE ACTIVITIES 333
+ The degree of thoracic bending showed no significant 
+differences in the mean measurements at the different screen 
+height settings. Nonetheless, a trend of the upper back 
+becoming less bent may be noted with the increase in screen 
+height. 
+  The effect of screen height changes on posture was also 
+analyzed intraindividually (Table 3). Spearman's correlation 
+fmdings showed that all subjects displayed significant positive 
+correlation between screen height and neck orientation 
+referenced against the horizontal (mean coefficient of 
+correlation=0.94). The same positive correlation existed 
+between screen height and trunk inclination in all but 1 subject. 
+In 8 out of 10 subjects, significant correlation was also seen
+between screen height and the angle that defines thoracic 
+bending, i.e., the curvature of the upper body decreased when 
+the height of the screen was increased. 
+  The neck position was classified into 2 levels with 
+reference to the horizontal. This angle corresponds to the 
+Frankfurt plane parallel to the ground and a vertical neck 
+position. Angles less than 10° would correspond to a bent 
+neck posture. Neutral or extended neck positions would 
+assume angles equal or more than 10°. The number of times 
+the postural category was observed per subject was taken. 
+The average for the 10 subjects was computed (Table 4). 
+The results showed that at the screen height of 80 cm, the 
+neck posture of all the subjects was in constant flexion. With 
+the increase in screen height, the frequency of the neck 
+assuming a flexed position decreased markedly. 
+ The trunk position was also classified into 2 levels relative 
+to the vertical plane (Table 4). A forward-leaning trunk would 
+assume angles less than 90°. An erect or backward-leaning 
+trunk inclination would have angle measurements of equal 
+or greater than 90°. The average number of times the postural
+Table 2. Mean values of postural angles and muscle activities at different height settings
+Table 3. Relationship of screen height and postural angles 
+per subject
+Table 4. Mean frequency of neck flexion and trunk inclination at 
+different height settings for 10 subjects
+
+===== PAGE 5 =====
+
+334 MBG VILLANUEVA et al.
+category of trunk inclination was displayed was computed 
+in the same way as for the categories of neck flexion. In 
+this study, a backward-leaning trunk position was increasingly 
+preferred as the screen height was raised. At the height of 
+120 cm, all subjects assumed a reclining position. 
+ Macro-postural classification was done by combining the 
+categories of neck and trunk position as defined earlier (Table 
+5). Again noted is the decreasing frequency of a flexed upper 
+body at higher screen heights.
+Muscle activities and screen height 
+ The normalized EMG activities of the neck extensor 
+muscle and the descending part of the trapezius muscle were 
+compared across the screen height settings tested. The neck 
+extensor muscle activities were significantly decreased as 
+the height of the screen was increased (see Table 2). The
+highest mean EMG activities for the muscles tested were 
+recorded at the screen height of 80 cm. The minimum and 
+maximum levels (3.8% MVC and 18.6% MVC) of neck 
+extensor muscle activity recorded at this screen height were 
+also the highest compared to the other settings. 
+ Shoulder muscle activities did not differ significantly 
+across the different screen height settings but a trend of 
+decreasing EMG activities with the elevation of the monitor 
+placement was observed.
+Relationship of body positions and muscle activities 
+  Correlation analysis of muscle activities for each subject 
+showed a consistently high coefficient of correlation for neck 
+posture and neck extensor muscle activity. The coefficients 
+of correlation ranged from r= - 0.79 to r= -- 0.96. The 
+decrease in neck flexion is invariably associated with the 
+decrease in neck muscle activity (Table 6). 
+ The level of trapezius muscle activity was also correlated 
+with trunk inclination. Though 6 out of 10 subjects displayed 
+significant coefficients of correlation, the direction of the 
+relationship was noted to differ among the subjects. Results 
+in 4 of the 6 subjects showed negative correlation between 
+the degree of trunk inclination and trapezius muscle activity. 
+With the increase in the degree of trunk inclination, a decrease 
+in trapezius muscle activity was noted. The remaining 2 
+subjects showed positive correlation. With the increase in 
+the degree of trunk inclination, the activation of the trapezius 
+muscle increased.
+Discussion
+Screen height and posture 
+ Musculoskeletal loads may be computed based on the
+Table 5. Mean frequency of observed postural classifications at different screen 
+height settings for 10 subjects
+Table 6. 
+subject
+Relationship of postural angles and muscle activities per
+Industrial Health 1997, 35, 330-336
+
+===== PAGE 6 =====
+
+EFFECT OF VDT HEIGHT ON POSTURE AND NECK AND SHOULDER MUSCLE ACTIVITIES 335
+moment of force created by postural angles of joints. Because 
+of this biomechanical principle, posture becomes a useful 
+indicator of work-related musculoskeletal disorders and a 
+valuable tool in evaluating workstation design. 
+ In this study, the height of the screen has been shown to 
+affect significantly the posture of the subjects. As the height 
+was raised, the neck became more vertical and the trunk 
+assumed a more backward-leaning position. At the height 
+of 80 cm, all subjects maintained the neck in a flexed position. 
+When the screen height was adjusted to 100 cm, the subjects' 
+heads were held vertical or in retroflexed position for about 
+50% of the experiment time. At the 120 cm-height, the 
+subjects held their heads above the reference horizontal plane 
+almost all of the time. Biomechanical concepts support that 
+this significant trend of upright neck position will result in 
+a considerable reduction of load on the neck. 
+ According to Colombini et a1.2~ and Andersson and 
+Ortengreen21~, a reclining posture reduces the load on the 
+vertebral disc and back muscles. Hence, lumbar muscle 
+and disc load may be highest at the screen height of 80 cm 
+when the forward-leaning trunk position was held by the 
+subjects for almost 50% of the duration of this experiment. 
+It can be predicted also that the load is significantly reduced 
+at 100 cm when the frequency of forward-leaning trunk 
+position was decreased by half and more so at 120 cm when 
+all the subjects were backward-leaning for the entire duration 
+of the experiment. 
+ With a forward-leaning position and a relatively more 
+kyphotic upper back, the shoulder muscles are adversely 
+affected. Lowering and forward rotation of the shoulder 
+may accompany a stooping posture22~. Even slight degree 
+of non-neutral shoulder position has been associated with 
+increased shoulder muscle load23~. The present study did 
+not measure directly these shoulder positions. Nonetheless, 
+if undesirable trunk and upper back positions have been 
+associated with increased shoulder muscle load, then the 
+improvement in posture as a result of increasing the screen 
+height may decrease the load.
+Screen height, EMG and posture 
+ Electromyography was performed to directly quantify the 
+load on the neck extensor and trapezius pars descendens 
+muscles. The results for the level of muscle activity were 
+also significantly affected by the change in screen height. 
+The decreasing EMG activities of the neck extensor muscles 
+affirm the improvement seen from the postural reactions to 
+the increase in the screen height. 
+ The minimum (3.3% of MVC) and maximum (18.6% of
+MVC) load recorded for the neck extensor muscle was highest 
+at the screen height of 80 cm. These loads were lower at 
+screen heights of 100 cm (minimum: 3.3% of MVC; 
+maximum: 12.9% of MVC) and 120 cm (minimum: 1.6% 
+of MVC; maximum: 8.7% of MVC). If these levels are 
+compared to the acceptable static load for long-term work 
+that is 2-5% of the MVC24~, then muscle fatigue will develop 
+faster and more severely as the screen height is decreased. 
+However, direct comparison with other results must be made 
+with caution. The maneuvers used in this experiment may 
+not be ideal to maximally activate the muscles tested. It 
+may also be of worth to note that visual demands may modify 
+the degree of activation of the muscles. Since the task 
+performed in this experiment required constant visual 
+monitoring, immobility at a flexed neck position may have 
+generated greater muscle tension. Nonetheless, the trend 
+of increasing muscle activity with the degree of adverse 
+posture is consistent with the findings of other authors2, 5,18) 
+ Interindividual differences in the activation of the muscles 
+to changes in posture were shown to exist. The neck extensor 
+muscle for all subjects decreased with the decrease in neck 
+flexion. These results are in agreement with the findings of 
+SchUldt et al.'8, Hamilton5~, Colombini et al.2~ However, 
+the relationship between trunk inclination and trapezius 
+muscle activity is less straightforward. Though in 6 out of 
+10 subjects stooping or forward-leaning was shown to activate 
+the trapezius muscle more than with a backward-leaning 
+trunk, in 2 subjects which showed otherwise a reclining trunk 
+might mean an increase in muscle tension from shoulder 
+flexion reaching for the mouse on the table. This postural 
+adjustment cannot be measured using the methodology 
+employed in the present study.
+Conclusion
+ The placement of the screen is a significant factor effecting 
+changes in the posture. A relatively upright posture results 
+from an increase in the vertical location of the VDT screen. 
+From the biomechanical point of view, the more upright 
+position of the neck may result in the decreased load on the 
+neck extensor muscles. This is manifested by the strong 
+significant correlation between neck flexion and neck 
+extensor muscle activity. On the other hand, shoulder load 
+cannot be accurately predicted by trunk orientation in the 
+frontal plane alone. The motions in the other axes should 
+be considered. Also noted was the presence of interindividual 
+differences in the recorded muscle activities that are greater 
+than in the observed posture.
+
+===== PAGE 7 =====
+
+336
+ The present study emphasized the role of the workstation 
+design in the dictating the postural adjustments to be made 
+and the subsequent level of muscle activation. Nonetheless, 
+the role of other components of the work system should not 
+be ignored.
+References
+1) Laville A (1980) Postural reactions related to activities 
+   on VDU. In: Ergonomic aspects of visual display 
+   terminals. eds. by Grandjean E, Vigliani E, 167-74, 
+   Taylor & Francis, London. 
+2) Colombini D, Occhipinti E, Frigo C, Pedotti A, Grieco 
+   A (1986) Biomechanical, electromyographical and 
+   radiological study of seated postures. In: The 
+   ergonomics of working postures: models, methods and 
+   cases. eds. by Corlett N, Wilson J, Manenica I, 331-
+   44, Taylor & Francis, London. 
+3) Nakaseko M, Morimoto K, Tanaka H (1993) An image 
+   analyzing approach to working postures for screen and 
+   keyboard use of visual display units. In: Work with 
+   display units 92. eds. by Luczak H, Cakir A, Cakir G, 
+   235-9, Elsevier, Amsterdam. 
+4) Villanueva MBGV, Sotoyama M, Jonai H, Takeuchi Y, 
+   Saito S (1996) Adjustments of posture and viewing 
+   parameters of the eye to changes in the screen height of 
+   the visual display terminal. Ergonomics, 39, 933-45. 
+5) Hamilton N (1996) Source document position as it 
+   affects head position and neck muscle tension. 
+   Ergonomics, 39, 593-610. 
+6) Van der Heiden GH, Brauninger U, Grandjean E (1984) 
+   Ergonomic studies on computer aided design. In: 
+   Ergonomics and health in modern offices. ed. by 
+   Grandjean E, 119-28, Taylor & Francis, London. 
+7) Ardnt R (1983) Working posture and musculoskeletal 
+   problems of video display terminal operators-review 
+   and appraisal. Am Ind Hyg Assoc J 44, 437-46. 
+8) Bergqvist U, Wolgast E, Nilsson B, Voss M (1995) 
+   Musculoskeletal disorders among visual display 
+   terminal workers: individual, ergonomic, and work 
+   organizational factors. Ergonomics, 38, 763-76. 
+9) Chaffm DB (1973) Localized muscle fatigue-definition 
+   and measurement. J Occup Med 15, 346-54. 
+10) Hagberg M (1984) Occupational musculoskeletal stress 
+   and disorders of the neck and shoulder: a review of 
+   possible pathophysiology. Int Arch Occup Environ 
+   Health 53, 269-78.
+MBG VILLANUEVA et al.
+0 
+11) Kilbom A, Persson J, Jonsson B (1986) Risk factors 
+   for work-related disorders of the neck and shoulder-
+   with special emphasis on working postures and 
+   movements. In: The ergonomics of working postures: 
+   models, methods and cases. eds. by Corlett N, Wilson 
+   J, Manenica I, 44-53, Taylor & Francis, London. 
+12) Kumar S, Scaife WGS (1979) A precision task, posture 
+   and strain. J Safety Res 11, 28-36. 
+13) Snijders CJ, Hoek van Dijke GA, Roosch ER (1991) 
+   A biomechanical model for the analysis of the cervical 
+   spine in static posture. J Biomechanics 24, 783-92. 
+14) Sauter S, Schleifer L, Knutson S (1991) Work posture, 
+   workstation design and musculoskeletal discomfort in 
+   a VDT data entry task. Human Factors 33,151-67. 
+15) Maeda K (1977) Occupational cervicobrachial disorder 
+   and its causative factors. J Human Ergology 6,193-202. 
+16) Hagberg M (1995) The "mouse-arm" syndrome-
+   concurrence of musculoskeletal symptoms and possible 
+   pathogenesis among VDU operators. In: Work with 
+   display units 95. eds. by Grieco A, Molteni B, Piccoli 
+   B, Occipinti E, 381-5, Elsevier, Amsterdam. 
+17) De Wall M, Van Riel MPJM, Aghina JCFM, Burdorf 
+   A, Snijders CJ (1992) Improving the sitting posture 
+   of CAD/CAM workers by increasing VDU monitor 
+   working height. Ergonomics 35, 427-36. 
+18) Schuldt K, Ekholm J, Harms-Ringdahl K, Nemeth G, 
+   Arborelius U (1986) Effects of changes in sitting work 
+   posture on static neck and shoulder activity. Ergonomics 
+   29,1525-37. 
+19) Japanese Industrial Standard S 1010-1978 (1993) 
+   Standard size for writing desks for office. Japanese 
+   Standards Association, Tokyo. 
+20) Sotoyama M, Villanueva MBG, Jonai H, Saito S (1995) 
+   Ocular surface area as an informative index of visual 
+   ergonomics. Ind Health 33, 43-56. 
+21) Andersson B, Ortengreen R (1974) Lumbar disc 
+   pressure and myoelectric back muscle activity. Scand 
+   J Rehabilitation Med 3,115-21. 
+22) Caillet R (1981) Shoulder pain,. 2nd ed. 38-53, FA 
+   Davis, Philadelphia. 
+23) Jarvholm U, Palmerud G, Karlsson D, Herberts P, 
+   Kadefors R (1990) Intramuscular pressure and 
+   electromyography in four shoulder muscles. J Orthop 
+   Res 9, 609-19. 
+24) Jonsson B (1982) Measurement and evaluation of local 
+   muscular strain in the shoulder during constrained work. 
+   J Human Ergology 11, 73-88.
+Industrial Health 1997, 35, 330-336

@@ -1,0 +1,713 @@
+===== PAGE 1 =====
+
+Posture, muscle activity and muscle fatigue in prolonged VDT
+work at diﬀerent screen height settings
+JAN SEGHERS*, A RNAUD JOCHEM and A RTHUR SPAEPEN
+Laboratory of Ergonomics and Occupational Biomechanics,
+Department of Kinesiology, Katholieke Universiteit Leuven, Tervuursevest 101,
+3001 Leuven
+Keywords: Computer terminals; Electromyography; Muscle fatigue; Neck
+muscles; Shoulder; Posture.
+With the increasing use of video display terminals (VDTs), there is growing
+concern over the corresponding increase in the number of health problems
+reported. Although much research has focused on identifying the optimal screen
+height, there is to date no consensus. This study aimed to investigate the eﬀect of
+prolonged (89 min) VDT work at four diﬀerent screen heights on head – neck
+posture, muscle activity and the development of muscle fatigue. The results show
+that lowering screen height, starting from 15 cm above the baseline (i.e. top of the
+screen level with eye height while sitting), decreased the ear – eye angle, increased
+the viewing angle, increased the viewing angle relative to the ear – eye line, and
+increased the muscle activity of the neck extensor muscles. There were also some
+signiﬁcant time eﬀects on postural angles and muscle activity. In this study there
+were only rare occurrences of muscle fatigue, deﬁned as a simultaneous increase in
+EMG amplitude and a shift of the EMG power spectrum to lower frequencies.
+Muscle activity increased signiﬁcantly in some muscles and for certain screen
+heights.
+1. Introduction
+The use of visual display terminals (VDT) has become an activity in daily work for
+an increasing number of individuals. Although this implies a decrease in traditional
+forms of manual labour and the associated discomforts, new health problems arise.
+Musculoskeletal discomfort, for example, has been found to occur and increase
+during a working day among VDT workers (Hagberg and Sundelin 1986). Another
+health concern is the visual discomfort while working with a computer screen
+(Bergqvist et al . 1995). Much research has focused on identifying the ideal VDT
+screen height considering musculoskeletal problems of the shoulder and neck region
+and visual strain. The requirements to decrease musculoskeletal strain while also
+decreasing visual strain may conflict, and the feasibility of this remains debatable.
+Several authors have studied the effect of screen height and document position on
+musculoskeletal strain. Hamilton (1996) found that the lowest levels of tension in the
+neck muscles were experienced with the smallest deviations in head position.
+Villanueva et al . (1997) found a strong significant correlation between posture
+changes caused by different screen heights and muscle activities. Decrease in neck
+*Author for correspondence. e-mail: jan.seghers@flok.kuleuven.ac.be
+Ergonomics ISSN 0014-0139 print/ISSN 1366-5847 online # 2003 Taylor & Francis Ltd
+http://www.tandf.co.uk/journals
+DOI: 10.1080/0014013031000090107
+ERGONOMICS, 2003, VOL. 46, NO. 7, 714 – 730
+
+===== PAGE 2 =====
+
+flexion caused a decrease in neck muscle activity ( r = 7 0.79 to r = 7 0.96). Turville
+et al . (1998) found that lowering the VDT to increase the viewing angle from 15 8 to
+408 affected the cervical erector spinae muscle significantly, and resulted in higher
+activity levels. Sommerich et al . (2001) also reported an increase in muscle activity
+with a viewing angle of 35 8 for different muscles, although it appeared that monitor
+height had the most influence on the cervical erector spinae muscles. Horikowa
+(2001) measured an increase in trapezius muscle hardness, but several electromyo-
+graphic (EMG) data failed to show an increase in trapezius muscle activity, probably
+due to the support of the forearms (Laursen and Jensen 2000). Trapezius muscle load
+with forearm support was reported to be below 1% maximal voluntary contraction
+(MVC) (Aara˚ s et al. 1997, Aara˚ s and Ro 1997). Many VDT users report a feeling of
+fatigue when working at their screens for several hours (Hagberg and Sundelin
+1986). In general, these authors agree that a higher monitor placement is required to
+reduce musculoskeletal strain. Most studies describe a change in muscle activity, but
+research into muscle fatigue is less common. A longer duration is required to
+produce and identify muscle fatigue, while most authors have only used a 5 – 30 min
+computer task. Turville et al . (1998) used a 2 h reading task, but could not detect a
+significant shift in median frequency (MDF) in the EMG signal, so no fatigue was
+identified for any of the screen heights studied. An exact screen height, which reduces
+muscle fatigue, has not yet been established. Further research is therefore required to
+determine whether the recommendation for musculoskeletal problems and low
+muscle activity can also be applied to reduce muscle fatigue.
+Recommendations for prevention of visual fatigue, however, confuse the issue.
+The resting point of the eyes is considered to be 15 8 below the horizontal when the
+head is upright, so to reduce visual strain a VDT screen placement lower than the
+horizontal line of sight is recommended. Several authors have described the effects of
+a downward gaze and a downward viewing angle on eye comfort. Sotoyama et al .
+(1997) reported a higher tear volume while gazing 30 8 downwards than in the 0 and
+158 positions. The proposed cause was a decrease in ocular surface. Larger ocular
+surface has been found to increase visual strain due to increased tear evaporation.
+Other variables that affect eye discomfort are vertical gaze inclination and viewing
+distance (Lie et al . 1997). Villanueva et al . (1996) reported a correlation between
+neck angle and screen height and suggested that the neck seems to be the most
+important component in adjusting the position of the head to find the preferred
+viewing angle. In their study, significant changes of viewing angle and vertical gaze
+direction were found for different screen heights. Lower monitor settings gave larger
+viewing angles and larger vertical gaze directions. Generally it was found that high
+monitor placement caused more visual strain than lower monitor placement
+(Villanueva et al . 1996, Saito and Sotoyama et al . 1997, Sotoyama et al . 1997,
+Burgess-Limerick et al. 1998, Psihogios et al. 2001). Jaschinski et al. (1998) reported
+that high monitor placement could provoke eye discomfort, especially when the
+monitor was placed closer to the eyes than the subject’s preferred distance. However,
+viewing distance and gaze inclination did not change significantly with the time of
+day (Jaschinski et al. 1998). Jaschinski et al. (1997) reported that during close vision,
+the ocular muscles are loaded to a lesser extent when vertical gaze is directed
+downwards. Ankrum (1997) also reported that screen-tilt influences eye discomfort.
+This study showed that a monitor with the top tipped forward caused more postural
+and visual discomfort. Taking all factors into consideration these studies seem to
+recommend a VDT screen height lower than the horizontal. Postural changes with
+715Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 3 =====
+
+screen heights during a certain time period have been studied less often. Turville et
+al. (1998) did find a significant increase in postural shifts in a 2 h computer task, but
+change in head tilt was not examined in their study. More research is needed on this
+issue to find how working time influences changes in head and body posture.
+The effect of different screen sizes on posture was studied by Villenueva et al .
+(1996). They suggested that the use of larger computer screens might induce an
+upward gaze and a more erect posture. Burgess-Limerick et al . (1998) questioned
+whether the results for normal sized monitors found in their study would hold for
+different monitor sizes. Sommerich et al. (2001) reported lower activity in all muscles
+using a larger monitor, though for some muscles there was a restriction on this effect,
+for which no clear explanation was apparent. Previous research has aimed to
+examine the effects of changing screen height, but in several studies muscle fatigue
+was not detected. Most authors compared means and did not look for time effects
+within one specific screen height setting.
+Considering the findings described on musculoskeletal and visual strain, the study
+presented here was designed to compare signs of fatigue in both musculoskeletal and
+visual aspects for different screen height settings. The main aim was to determine the
+onset and degree of muscle fatigue within a certain time period while working at a
+specific screen height, and then to compare these for different screen heights. This
+same method was also used to examine time effects in postural and visual changes.
+2. Method
+2.1. Subject details
+Sixteen subjects (eight male and eight female; 14 right-handed and two left-handed)
+gave their informed consent to participate in this study. No exclusion criteria were
+used. The subjects were asked to complete a form providing information of possible
+relevance to the study results. Seven subjects had a history of musculoskeletal neck
+and shoulder symptoms during VDT work, and the remaining nine reported no
+problems. Glasses or contact lenses were used by 10 of the subjects, none of whom
+used bifocals. The subjects formed a rather heterogeneous group, for whom the
+demographic data are presented in table 1.
+2.2. Materials
+The VDT workplace was fully adaptable to each individual subject, comprising a
+table with adjustable height, an adjustable office chair, and a monitor arm. A 17-inch
+cathode ray tube (CRT) screen was set up at three screen heights, and a 15-inch Thin
+Film Transistor (TFT) flat panel display for a laptop computer was used for the
+lowest placement. A keyboard and mouse were used at all screen heights. EMG data
+were gathered with a telemetric EMG-device (model ME3000P8, Mega Electronics
+Ltd., Kuopia, Finland). The pre-amplified EMG signal (analogue differential
+amplifier) was measured at a sample rate of 1000 Hz. The signal bandwidths of the
+high- and low pass filters were 8 and 500 Hz respectively. Posture was analysed with
+a Sony Hi 8 video camera, which digitized the data to measure several angles
+between reflective markers placed on the subjects.
+2.3. Task
+All subjects worked for about 89 min at each of the four different VDT screen
+heights. The test sessions were spread over 2 days due to the length of each session.
+Subjects had to work at two screen heights in 1 day and were asked to return 1 week
+716 J. Seghers et al .
+
+===== PAGE 4 =====
+
+later, on the same day and at the same time. Between screen heights, subjects rested
+for at least 45 min. To neutralize the effect of the sequence of the different test
+situations, the order of the change in screen height was completely randomized. The
+work task included an experimental part (E) and an Internet based search task (I). A
+schematic representation of the experimental protocol is shown in figure 1. During
+the experimental part of the task, the subjects played a standardized keyboard
+computer game for 5 min. The game required visual monitoring and control of the
+arrow keys on the keyboard, using the right hand only. Subjects rested their left hand
+on the table. During this part, the raw EMG signal and video images were recorded
+and subjects were asked to make no abrupt movements. The Internet based search
+task lasted 9 min and subjects were allowed to reposition themselves in the chair and
+to move neck and shoulders if they preferred to do so. During this part of the
+experiment, the subjects used the keyboard and computer mouse. The intention was
+to create a situation similar to their normal VDT working practices.
+2.4. Experimental procedure
+Following some reference voluntary contractions (RVCs), the subject sat at an
+adjustable workstation. Firstly, the workplace (office chair and table height) was
+adjusted to the subject’s personal anthropometrics. Seat base height was adjusted
+Table 1. Demographic subject information and experimental workstation measurements.
+Variables Mean + SD Minimum Maximum
+Age (years) 24.0 + 4.7 19 39
+Height (cm) 176.6 + 10.5 160.0 192.0
+Weight (kg) 68.9 + 9.2 54.0 82.0
+Chair height from floor surface (cm) 49.9 + 2.9 45.0 54.5
+Table height from floor surface (cm) 70.4 + 4.0 65.0 79.0
+Keyboard distance from the edge of the table (cm) 12.4 + 3.8 6.5 18.0
+VDT – Baseline screen height above table surface (cm) 54.7 + 3.5 50.0 63.0
+Mean duration of VDT work per day in normal work
+conditions (h) 3.6 + 2.7 0.5 8.0
+Figure 1. Schematic representation of experimental protocol.
+717Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 5 =====
+
+so that the subject’s thighs were horizontal, lower legs vertical, and feet flat on
+the floor. The height of the armrest was adjusted and permitted an elbow angle
+of 90 8. The keyboard was situated at elbow height, so that with upper arms
+vertical, elbow bent 90 8, and fingers comfortably extended, the subject’s fingertips
+reached the numeric row (see figure 2). The VDT screen was then raised until the
+top of the screen was exactly level with the subject’s eyes. This height is referred
+to as the baseline screen height, and was measured from the table surface to the
+top of the screen. For the high placement, the screen was positioned 15 cm above
+the baseline, and for the low placement the screen was positioned 15 cm below.
+This adapted the conditions to the individual and the VDT screen could be
+positioned in a circle around each subject.
+Straker et al . (1997) found that subjects using laptop computers instead of
+desktop computers had increased neck flexion and head tilt. They also reported
+a clear trend, although not significant ( p = 0.08), for greater discomfort after
+laptop use than when using a desktop computer. Villanueva et al . (1996) showed
+that the use of laptop computers placed on the table surface caused not only
+more musculoskeletal, but also visual discomfort and increased neck extensor
+muscle activity. Because of these findings the height of a laptop monitor placed
+on the table surface (laptop position) was included in this study to allow
+comparison between the three desktop monitor heights and a flat panel display,
+as often used in office situations. The height of the top of the laptop screen
+above the table surface was about 27 cm. The laptop was placed behind the
+Figure 2. Subject seated at test workstation with the highest screen position.
+718 J. Seghers et al .
+
+===== PAGE 6 =====
+
+keyboard required for the task. Horizontal distance between the eyes and the
+middle of the screen was standardized at 60 cm, except for the laptop screen
+height, which varied because of differences in subjects’ height. All 16 subjects
+performed an 89-min task at each of the previously described screen heights.
+Three types of data were collected: electromyography, video images and
+subjective scores of fatigue.
+2.4.1. Electromyographic analyses : The raw EMG signal was recorded with a
+portable EMG device (model ME3000P8, Mega Electronics Ltd., Kuopia, Finland)
+for 5 min, seven times within the 89 min of each session. Bipolar Silver-Silver
+Chloride surface electrodes (Nikomed, Denmark) were placed on eight muscles (see
+table 2) situated around the neck – shoulder region. The inter-electrode distance was
+20 mm and placement of the electrodes conformed to Seniam recommendations
+(Hermens et al . 1999) and recommendations by De Luca (1997).
+Two EMG parameters were extracted from the raw EMG signal. The averaged
+rectified EMG (AEMG) was calculated (time window = 0.5 s) to quantify the
+muscle activity. Myoelectrical signs of muscle fatigue are characterized by a
+simultaneous increase in AEMG and decrease in MDF (Luttmann et al . 2000).
+Therefore, the median frequency (MDF) was calculated using a Fast Fourier
+Transformation (FFT). The slopes (% change per time unit) of the EMG
+parameters, determined using linear regression techniques, quantified the EMG
+changes over time.
+Comparison between subjects and test sessions was possible by normalizing all
+EMG parameters as a percentage of the RVC. The RVC activity for the trapezius
+muscle (TRP) was a 90 8 abduction of the arm with a 1 kg weight in the hand of
+the arm being tested. The RVC activity for the deltoid muscle (DLT) was a 90 8
+flexion of the arm in the sagittal plane with a 1 kg weight in the hand of the arm
+being tested. The RVCs for the sternocleidomastoı ¨ deus muscles (SCM) and the
+neck extensor muscles (NXT, splenius capitus) were tested with the subjects lying
+on a treatment couch in supine and prone positions respectively, with the neck
+and head extending beyond the end of the couch, and therefore supported by the
+neck muscles alone. In this way the weight of the head acted as an external load
+for the neck muscles. All RVC tests were taken before the sessions, and
+measurements were recorded for 5 s for each test. The RVC tests for the TRP
+and DLT muscles were separate, so that each arm could be tested separately,
+while the SCM and NXT muscles were tested in one 5-s test session.
+Table 2. EMG measured muscles.
+Muscle Code
+Right m. trapezius pars descendens TRPr
+Right m. deltoı ¨ deus pars anterior DLTr
+Right m. splenius capitis NXTr
+Right m. sternocleideomastoı ¨ deus SCMr
+Left m. trapezius pars descendens TRPl
+Left m. deltoı ¨ deus pars anterior DLTl
+Left m. splenius capitis NXTl
+Left m. sternocleideomastoı ¨ deus SCMl
+719Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 7 =====
+
+2.4.2. Posture analyses with video images : During EMG measurement, posture and
+workstation settings were captured by a video camera (Sony Hi 8 video camera).
+These images were taken on the ﬁrst, fourth and seventh 5-minute EMG
+measurement period and digitized on the 30th, and 150th and 270th second within
+the 5-minute period (300 s), a method used previously by Turville et al . (1998).
+Diﬀerences between screen heights were tested by taking the data from the 4th EMG
+measurement on the 45th minute of each session.
+The following angles were analysed (see figure 3):
+. the Ear – Eye Angle (EEA), between the horizontal and a line joining the outer
+cantus of the eye and the trages of the ear;
+. the Viewing Angle (VA), between the horizontal and a line joining the outer
+cantus of the eye and the middle of the computer screen;
+. the Viewing Angle relative to the Ear – Eye line (VArel).
+Angles below the horizontal plane are indicated with a minus sign.
+Repeated digitizing of the same captured video image, revealed variations in VA,
+EEA and VArel of about 0.4 8,3 8 and 3 8 respectively depending on the distance
+between the markers. The use of more precise instruments might lead to more
+accurate measurements. The results presented in 3.2 show that the method was
+sufficiently accurate to detect the influence of VDT screen height on the calculated
+angles.
+2.4.3. Measurements of subjective feelings of discomfort : To give an indication of
+the subjective feelings of discomfort of the eyes, the neck and both shoulders, the
+Borg CR-10 rating scale (Borg 1982) was used. This scale has ratio properties using
+numbers and verbal expressions. The Borg scale has been used by several authors to
+describe both discomfort and fatigue (Hagberg and Sundelin 1986, Sundelin and
+Hagberg 1992, Hermans and Spaepen 1995, Swanson et al . 1997, Liao and Drury
+Figure 3. Postural and viewing angles relative to the horizontal shown in the baseline
+workstation arrangement (top of the screen level with eye height while sitting).
+720 J. Seghers et al .
+
+===== PAGE 8 =====
+
+2000, Psihogios et al . 2001). Immediately before starting the session, the subjects
+were asked to rate their subjective feelings of discomfort in the eyes, the neck, and
+the shoulders. During the experiment this rating was repeated every 5 min to see
+whether discomfort changed with time and to evaluate whether the end score varied
+for the diﬀerent screen heights.
+2.4.4. Statistical analyses : Pearson correlation and Student’s t-tests were used to
+examine the relationship between the diﬀerent anthropometric and medical data of
+the sample. EMG data were analysed using One-Way ANOVA with a Repeated
+Measures design. If signiﬁcant, a Tukey HSD post hoc test was used to determine
+speciﬁc diﬀerences between test heights. In addition to ANOVA, a Linear Regression
+Technique was used to detect time eﬀects. The postural changes were also analysed
+using One-Way Repeated Measures ANOVA. The diﬀerences in Borg scale ratings
+were tested using a Friedman ANOVA test for non-parametric data. The level of
+signiﬁcance was chosen as p 4 0.05 for all statistical tests. Unless otherwise stated,
+all data are expressed as the mean + SD.
+3. Results
+3.1. Subjects
+Study of the subjects showed that the group with a history of shoulder or neck
+problems had worked for a significantly longer period behind VDT screens than the
+group with no complaints ( p 5 0.01). In this sample there was an obvious
+correlation between age and time spent behind the computer per day ( r = 0.69,
+p 5 0.01), probably because the subjects above 24 years of age had computer-task
+related jobs.
+3.2. Posture
+Table 3 shows the mean + SD values of postural angles with the different screen
+heights. Change in screen height significantly affected Viewing Angle (VA), Ear –
+Eye Angle (EEA) and Viewing Angle relative to the Ear – Eye line (VArel). In
+particular, the VA decreased when the VDT screen was in a higher position
+( p 5 0.01) and the eyes needed to be directed more upwards. There was a greater
+EEA with higher screen heights ( p 5 0.01), so the head was more erect. The VArel
+also showed significant differences between the different heights, being larger for
+lower monitor height settings ( p 5 0.01).
+Table 3. Mean + SD values of postural angles at diﬀerent screen heights after 45 min of
+VDT work
+Screen Height
+Viewing Angle
+(VA8)
+Ear – Eye Angle
+(EEA8)
+Viewing Angle
+relative to
+Ear – Eye Line
+(VArel8)
+BASELINE + 15 cm 3.91 + 1.18 22.53 + 7.03 18.61 + 6.45
+BASELINE 7 7.56 + 1.66 14.64 + 5.99 22.19 + 5.93
+BASELINE 7 15 cm 7 16.54 + 1.63 9.07 + 8.64 25.61 + 7.83
+LAPTOP 7 23.50 + 2.00 3.98 + 8.16 27.48 + 7.20
+One-Way ANOVA Significance level p 5 0.01 p 5 0.01 p 5 0.01
+Note: Angles below the horizontal are indicated with a minus sign.
+721Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 9 =====
+
+In addition to differences in heights influencing the angles, time also had an
+influence. Figure 4 shows the VA (mean + SD) at the beginning, middle and end of
+the test session for the different screen heights. During the 89-min test period the VA
+increased significantly ( p 5 0.01), except for the laptop condition. The EEA only
+increased significantly from (mean + SD) 21 8+ 6t o2 4 8+ 6 above the horizontal
+plane in the high VDT screen condition ( p 4 0.05). The VArel did not change
+significantly with time.
+3.3. Muscle load at the diﬀerent screen heights
+Table 4 presents the mean normalized muscle activities at the different screen heights
+during the 4th EMG measurement. Muscle activity only changed significantly in the
+right and left NXT muscles ( p 5 0.01). The activities of the other registered muscles
+were rather low and not affected by screen height. Muscle activity differed
+significantly between the right and left trapezius ( p 4 0.05). Table 4 shows that the
+right trapezius muscle was consistently more activated than the left, at all screen
+heights.
+3.4. EMG changes over time
+In this study there were only rare occurrences of muscle fatigue, defined as a
+simultaneous increase in EMG amplitude and a shift of the EMG power spectrum to
+lower frequencies. On the other hand, an increase in muscle activity, quantified by
+the temporal changes in AEMG, during the 89-min test session occurred for some
+muscles and screen heights. Table 5 shows the muscles and the corresponding screen
+heights in which the relative slope of the AEMG parameter was significantly
+( p 4 0.05) or almost significantly ( p 4 0.10) different from zero. Prolonged work at
+Figure 4. Mean + SD viewing angle (VA 8) after 5 minutes (Beginning), 45 minutes (Middle)
+and 90 minutes (End) of VDT work at diﬀerent screen heights ( *p 5 0.01).
+722 J. Seghers et al .
+
+===== PAGE 10 =====
+
+Table 4. Mean + SD normalized muscle activity (% RVC) of the registered muscles at diﬀerent screen heights during the fourth EMG measurement
+(after 45 min).
+ScreenHeight TRPr TRPl DLTr DLTl NXTr NXTl SCMr SCMl
+Baseline + 15cm 18.03 + 23.09 10.54 + 11.85 1.45 + 1.17 1.58 + 0.97 29.35 + 14.17 26.14 + 11.19 3.92 + 2.43 3.63 + 1.81
+Baseline 13.98 + 10.35 8.29 + 6.19 1.52 + 1.22 1.42 + 0.67 31.47 + 14.6 29.28 + 11.6 4.12 + 3.23 3.16 + 2.87
+Baseline – 15cm 19.76 + 21.25 13.22 + 14.80 1.19 + 0.83 1.94 + 1.25 37.95 + 14.41 37.24 + 15.41ab 3.97 + 1.9 3.76 + 2.03
+Laptop 13.26 + 11.03 7.69 + 7.38 1.88 + 1.65 2.19 + 2.4 44.47 + 11.02ab 38.06 + 9.53ab 4.93 + 3.99 4.25 + 3.11
+One-Way ANOVA
+Significance level NS NS NS NS p 5 0.01 p 5 0.01 NS NS
+aSigniﬁcantly diﬀerent ( p 5 0.05) compared to the Baseline + 15 cm condition. bSigniﬁcantly diﬀerent ( p 5 0.05) compared to the Baseline condition
+723Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 11 =====
+
+the highest screen height (baseline + 15 cm) seems to have the most significant effect
+on the increase in muscle activity.
+3.5. Subjective rating of discomfort
+The end scores on the Borg rating scale (Borg 1982) for discomfort in the eyes and
+neck – shoulder region varied between 0.5 (very, very weak) and 5 (strong). In all
+four tests, the subjects reported the most discomfort in the neck region (see figure 5).
+However, these were only trends with no statistically significant differences between
+screen heights.
+Table 5. Muscles and screen heights for which the relative slope of the AEMG parameter
+diﬀered signiﬁcantly ( p 4 0.05) or almost signiﬁcantly ( p 4 0.10) from zero.
+Muscle Screen height
+Mean % change per measurement
+period (min – max)
+p-value (linear
+regression analysis)
+TRPr BASELINE + 15 cm 0.92 ( – 1.7 – 5.57) p = 0.07
+BASELINE 0.57 ( – 1.84 – 2.16) p = 0.09
+BASELINE – 15 cm 0.85 ( – 1.11 – 2.16) p = 0.10
+LAPTOP 0.54 ( – 0.94 – 3.86) p = 0.05
+NXTr BASELINE + 15 cm 0.57 ( – 1.39 – 2.4) p = 0.04
+BASELINE 0.50 ( – 2.89 – 2.16) p = 0.09
+LAPTOP 0.40 ( – 1.96 – 3.57) p = 0.09
+SCMr BASELINE + 15 cm 0.11 ( – 0.011 – 0.50) p = 0.03
+BASELINE 7 15 cm 0.08 ( – 0.28 – 0.55) p = 0.02
+NXTl BASELINE + 15 cm 0.48 ( – 2.01 – 9.82) p = 0.07
+Figure 5. Mean end scores (after 89 min VDT work) from the Borg rating scale for
+discomfort in the eyes, neck and shoulders with diﬀerent screen heights.
+724 J. Seghers et al .
+
+===== PAGE 12 =====
+
+4. Discussion
+The heterogeneous sample in this study could make external validity rather high,
+taking into account the fact that the test group was small ( n = 16) and mean age was
+24 years.
+4.1. Posture
+The observed mean postural angles were similar to those reported in previous
+studies. The EEA determined by Jampel and Shi (1992) was 15 8 above the horizontal
+line of the eyes. Grey et al . (1966) found an EEA of 14.5 8 in erect posture. In the
+present study a similar 14.6 8 EEA was determined. The results show a significant
+change in posture when screen height was altered. The VA, EEA and VArel differed
+significantly between all screen height settings. VA and VArel increased with lower
+monitor positions while EEA decreased with the VDT screen in the low placement,
+confirming previous research (Villanueva et al . 1996, 1997, Burgess-Limerick et al .
+1998, 2000, Psihogios et al . 2001, Sommerich et al . 2001). Time affected posture in
+VA and EEA (Table 3). VA significantly decreased with time in the high, baseline
+and low VDT screen positions. There was no difference in the laptop condition. EEA
+increased only in the high monitor position (21 8 –2 48). The time effects in VA could
+not be attributed to a change in head tilt in the sagittal plane, because EEA did not
+change significantly with time for the other screen heights. Therefore, the change in
+VA was probably due to subjects slouching in their chairs during the 89-min test
+sessions. This slouching would cause the eyes to be positioned at a lower level,
+relative to the VDT screen, so VA appeared to decrease. In the highest screen
+condition the EEA did change significantly with time because the eyes could not
+compensate in the high screen placement. This possibility is logical, as upward gaze
+is not recommended (Sotoyama et al . 1997).
+A fourth angle, which could not be measured in this study, is the gaze angle. Gaze
+angle is defined by the position of the eyes and can be determined by measuring the
+ocular surface (Villanueva 1996). However, only part of the changes in VA can be
+attributed to gaze angle changes, because EEA does not fully account for the
+changes in VA (Villaneuva et al . 1996, Burgess-Limerick et al . 1998). Sommerich et
+al. (2001) found a 13 8 compensation for gaze angle in a total 35 8 change of VA. In
+our study a total gaze angle compensation of 9 8 was found within a 27 8 change of
+VA. Although significance between screen heights was not tested, the highest
+contribution (38%) of gaze angle to the change in VA was found between baseline
+and low VDT screen heights. Between the low VDT screen height and laptop
+monitor height the contribution of the gaze angle was only 27% while between the
+highest and baseline position 31% was found. This means more flexion of the neck
+was required, and less change in gaze angle was used below a VA of 7 178. These
+results for low monitor placement confirm research by Sommerich et al . (2001).
+Since screen heights higher than the baseline were examined in this study, it is
+concluded that more head tilt and less change in gaze angle (31%) are used when
+working with VDT screens above baseline, and this is consistent with the resulting
+time effects on posture described above.
+4.2. Muscular load
+Muscle activity was affected by screen height, but this influence was only significant
+in the NXT muscles ( p 5 0.01). With the lowering of the computer screen from
+15 cm above baseline to table height, there was a 50% increase in NXT muscle
+725Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 13 =====
+
+activity, mainly caused by the increase in neck flexion. Already in the condition with
+the lowest EMG activity of the NXT muscle, the subjects used 25 – 30% of the
+amount of muscle activity required to hold the weight of the head (in the RVC test
+described in 2.4.1). Post hoc tests identified which heights showed significant
+differences (see table 4). The highest and the baseline screen heights showed a
+significantly lower activity in the right NXT muscle compared to the laptop
+condition ( p 5 0.01). The left NXT muscle showed significantly lower muscle
+activity between the highest screen height and the low and the laptop conditions
+( p 5 0.01), and in the baseline screen height compared to the low and the laptop
+conditions ( p 4 0.05). Comparable effects were reported by Hamilton (1996),
+Villanueva et al . (1997), Turville et al . (1998) and Sommerich et al . (2001). The
+differences with the three VDT screen heights and the laptop screen height were also
+comparable to results on NXT muscle activity found by Villanueva et al . (1998).
+However, it was not the aim of the present study to make a comparison between
+CRT and flat panel displays, but to determine how muscle activity was affected when
+a laptop was placed on the table surface, as often practiced in many work
+environments. In conclusion, the highest level of NXT muscle activity occurred in
+the laptop condition, particularly caused by the extreme flexion in the neck.
+There was much variation in the activity of the other muscles (see table 4), so that
+a clear trend could not be identified, possibly explained by the low activity levels that
+were measured. In particular the very low activity in the anterior deltoid muscle is
+remarkable but understandable, since it is the muscle that is expected to be the least
+affected by changes in screen height. This muscle was included in the study because it
+has rarely been investigated elsewhere, and it was of interest to know whether
+prolonged use of the keyboard and mouse would affect its activity level. However,
+deltoid muscle activity was hardly affected in this study. Another reason for the low
+levels of muscle activity could be the fact that the workstation was customised to the
+subjects to ensure good support and comfort. In this study, the adjustment of the
+arm rests of the office chair and the set up of the table height provided a full support
+for the forearm (see figure 2). This argument is supported by Aara ˚ s et al. (1997) who
+reported that trapezius muscle activity was significantly lower when forearm support
+was provided. Laursen and Jensen (2000) also reported that the lack of significance
+in their study was probably due to the low trapezius muscle activity caused by
+forearm support. Nevertheless, a significantly higher level of trapezius muscle
+activity was detected in the right trapezius muscle compared to the left muscle
+( p 4 0.05), probably attributable to the right-handed control of the cursor keys
+during the experimental part of the study.
+4.3. EMG changes over time
+The myoelectrical signs of muscle fatigue are characterized by a simultaneous
+increase in AEMG and decrease in MDF (De Luca 1997, Clarys 2000, Luttmann et
+al. 2000). These indications of muscle fatigue were hardly apparent for any of the
+muscles and screen heights and can probably only be detected with longer test
+periods. Turville et al . (1998) even suggested recording the EMG signal during a
+whole working day. Nevertheless, a significant increase in muscle activity over the
+course of the test session, quantified by the slope in AEMG, could be detected for
+some muscles and screen heights. However, an increase in EMG amplitude can be
+caused by several factors including an increase in the force production of the muscle,
+postural changes or muscle fatigue (Luttmann et al . 2000). Muscle fatigue based on
+726 J. Seghers et al .
+
+===== PAGE 14 =====
+
+an increase of the EMG amplitude is only possible when the force production during
+the task is kept constant in combination with minor changes in working posture. In
+this study EMG parameters were extracted from the measurements where the
+subjects played a standardized computer game, to ensure a comparable workload of
+the task during each of the seven measurement periods. Additionally, the time-
+dependent changes in the position of the head were minimal. This is reflected in the
+absence of time effects in the EEA, except for the highest VDT placement condition.
+For this condition, it is doubtful whether the increase in AEMG can be seen as an
+indication of muscle fatigue. Table 5 shows the muscles for which the electrical
+activity (AEMG) changed with time. The largest increase in muscle activity was in
+the highest monitor position (baseline + 15 cm). At this screen height, AEMG
+showed a significant ( p 4 0.05) or almost significant ( p 4 0.10) increase during the
+89-minute test session for four of the eight recorded muscles (right TRP, right NXT,
+left NXT and right SCM). Irrespective of the screen height, the most remarkable
+increase in electrical activity occurred in the TRPr muscle. After 89 min of VDT
+work, the muscle activity of the TRPr muscle increased by about 5%. If this increase
+continued linearly over an 8-h working day, a quarter more muscle activity would be
+required to perform the same task at the end of the day. This finding reinforces the
+work of Hermans and Spaepen (1995), who also found an increased EMG activity of
+the trapezius muscle at the end of the working day. Although no postural changes of
+the shoulder were analysed in the present study, elevating the right shoulder while
+manipulating the cursor keys with the right hand during the computer game may
+have caused the detected increase over time.
+The simultaneous increase in muscle activity of the right NXT and SCM muscle is
+also noteworthy. The increase in both muscles might be explained by the increase in
+EEA with time. Adjustments of the office chair prevented subjects from being able to
+lean backwards. The centre of gravity of the head may therefore have been
+positioned in front of the rotation axis. Based on this possibility, it could be assumed
+that neck extension was caused by a contraction of right and left NXT muscles (see
+table 4). The increase in muscle activity of the right SCM could be due to co-
+contraction. Therefore, prolonged VDT work at this high monitor position might be
+harmful.
+4.5. Visual discomfort
+Although not statistically significant, a tendency towards more eyestrain was found
+in the laptop condition. More eye discomfort being reported while working in the
+laptop condition could be related to a combination of several factors. Firstly, the size
+of the laptop screen was somewhat smaller than the CRT monitor (Villanueva et al.
+1998). However, the visible diagonal size of a CRT monitor is always smaller than
+the tube’s actual diagonal size. A 17-inch CRT monitor has an edge area and the
+visible diagonal is approximately 16-inches. TFT monitors do not have an edge area,
+which means that a 15-inch TFT monitor is almost the same as the 17-inch CRT
+monitor. Secondly, a lower brightness of TFT monitors was noticed but the
+resolution was kept constant. Additionally, the absence of flickering, geometry and
+convergence errors due to the technical nature of TFT displays might even improve
+the visual comfort for the user. Finally, a greater horizontal distance from the eyes to
+the middle of the screen in the laptop condition (mean + SD distance = 76 + 5 cm),
+compared to the 60 cm with the other screen heights, may have contributed to the
+reports of more eye discomfort.
+727Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 15 =====
+
+5. Conclusions
+From this study, we can conclude that the height of the VDT screen has an influence
+on VA, EEA, and VArel and muscle activity of the left and right NXT muscles. In
+addition, the most remarkable increase in muscle activity over the course of the 89-
+minute test session was with the highest screen height (baseline + 15 cm). Despite
+the occurrence of some postural changes with time at this screen height position, the
+EMG activity increase is interpreted as a sign of muscle fatigue, although further
+research is needed to clarify this.
+Finally, with respect to physical and visual comfort, a VA between 8 8 and 16 8
+below the horizontal plane is recommended from the results. These recommenda-
+tions should be generalized with care. Results from this study, using larger VDT
+screen sizes ( 4 15 inches), are comparable to previous findings using 14-inch or 15-
+inch monitors, although less significance was found in the other muscles tested in the
+study. This can be attributed to the careful arrangement of the workplace according
+to the subject’s individual anthropometry.
+In future studies longer test periods, sensitive EMG equipment and postural
+control may be needed to detect muscle fatigue during VDT work. However, it
+is not possible to regulate all the confounding factors. From a practical point of
+view, it is may be better not to disturb people’s working practices. It is possible
+that VDT users even try to alleviate musculoskeletal discomfort and/or prevent
+fatigue by making non-work related body movements (Karwowski et al . 1994).
+The myoelectric signs of muscle fatigue in low-level, long duration contractions
+are also still unclear. Individual differences in fiber type distributions and/or
+force control strategies might make a per son more or less sensitive to
+musculoskeletal disorders.
+Muscle activity, muscle fatigue, physical and visual comfort should all be taken
+into account in recommending a general screen height for a group of VDT workers,
+and workstations need to be adjusted to the needs of each individual to regulate
+musculoskeletal and visual discomfort.
+References
+AARA˚ S, A., F OSTERVOLD, K. I., R O, O., T HORESEN, M. and L ARSEN, S. 1997, Postural load during
+VDU work: a comparison between various postures, Ergonomics, 40, 1255 – 1268.
+AARA˚ S, A. and R O, O. 1997, Supporting the forearms on the table top when doing VDU work.
+A laboratory and ﬁeld study, In P. Seppa ¨ la¨ , T. Luopaja ¨ rvi, C.H. Nyga ˚ rd and M.
+Mattila (eds), Proceedings of 13th Triennial Congress of the International Ergonomics
+Association (Helsinki: Finnish Institute of Occupational Health), 5, 29 – 31.
+ANKRUM, D. R. 1997, A Challenge to eye-level, perpendicular-to-gaze, monitor placement, In
+P. Seppa¨ la¨ , T. Luopaja ¨ rvi, C.H. Nyga ˚ rd and M. Mattila (eds), Proceedings of 13th
+Triennial Congress of the International Ergonomics Association (Helsinki: Finnish
+Institute of Occupational Health), 5, 35 – 37.
+BERGQVIST, U., W OLGAST, E., N ILSSON, B. and V OSS, M. 1995, Musculoskeletal disorders among
+visual display terminal workers: individual, ergonomic, and work organizational
+factors, Ergonomics, 38, 763 – 776.
+BORG, G. A. V. 1982, Psychophysical bases of perceived exertion, Medicine and Science and
+Sports and Exercise , 14, 337 – 381.
+BURGESS-LIMERICK, R., P LOOY, A. and A NKRUM, D. R. 1998, The eﬀect of imposed and self-
+selected computer monitor height on posture and gaze angle, Clinical Biomechanics, 13,
+584 – 592.
+BURGESS-LIMERICK, R., M ON-WILLIAMS, M. and C OPPARD, V. L. 2000, Visual Display Height,
+Human Factors , 42, 140 – 150.
+728 J. Seghers et al .
+
+===== PAGE 16 =====
+
+CLARYS, J. P. 2000, Electromyography in sports and occupational settings: an update of its
+limits and possibilities, Ergonomics, 43, 1750 – 1762.
+DE LUCA, C. J. 1997, The Use of Surface Electromyography in Biomechanics, Journal of
+Applied Biomechanics , 13, 135 – 163.
+GREY, F. E., H ANSON, J. A. and J ONES, F. P. 1966, Postural Aspects of Neck Muscle Tension,
+Ergonomics, 9, 245 – 256.
+HAGBERG, M. and S UNDELIN, G. 1986, Discomfort and load on the upper trapezius muscle
+when operating a word processor, Ergonomics, 29, 1637 – 1645.
+HAMILTON, N. 1996, Source document position as it aﬀects head position and neck muscle
+tension, Ergonomics, 39, 593 – 610.
+HERMANS, V. and S PAEPEN, A. J. 1995, Perceived Discomfort and Electromyographic Activity
+of the Upper Trapezius While Working at a VDT Station International Journal of
+Occupational Safety and Ergonomics , 1, 208 – 214.
+HERMENS, H. J., F RERIKS, B., M ERLETTI, R., S TEGEMAN, D., B LOK, J., R AU, G., D ISSELHORST-
+KLUG, C. and H a¨ GG, G. 1999, European Recommendations for Surface Electromyo-
+graphy, Results of the Seniam project , The Seniam E.C. Project (Enschede: Roessingh
+Research and Development).
+HORIKAWA, M. 2001, Eﬀect of visual display terminal height on the trapezius muscle hardness:
+quantitative evaluation by a newly developed muscle hardness meter, Applied
+Ergonomics, 32, 473 – 478.
+JAMPEL, R. S. and S HI, D. X. 1992, The Primary position of the eyes, the resetting saccade, and
+the transverse visual head plane, Investigative Ophthalmology and Visual Science , 33,
+2501 – 2510.
+JASCHINSKI, W., H EUER, H., K YLIAN, H. and K OITCHEVA, V. 1997, Visual comfort at the VDU
+workplace and oculomotor parameters as a function of vertical inclination of gaze
+direction, In P. Seppa¨ la¨ , T. Luopaja¨ rvi, C. H. Nyga˚ rd and M. Mattila (eds), Proceedings
+of 13th Triennial Congress of the International Ergonomics Association (Helsinki: Finnish
+Institute of Occupational Health), 5, 44 – 46.
+JASCHINSKI, W., H EUER, H. and K YLIAN, H. 1998, Preferred position of visual displays relative
+to the eyes: a ﬁeld study of visual strain and individual diﬀerences, Ergonomics, 41,
+1034 – 1049.
+KARWOWSKI, W., E BERTS, R., S ALVENDY, G. and N OLAND, S. 1994, The eﬀects of computer
+interface design on human postural dynamics, Ergonomics, 37, 703 – 724.
+LAURSEN, B. and J ENSEN, B. A. 2000, Shoulder muscle activity in young and older people
+during a computer mouse task, Clinical Biomechanics , 15 (suppl. 1) , S30 – S33.
+LIAO, M. H. and D RURY, C. G. 2000, Posture, discomfort and performance in a VDT task,
+Ergonomics, 43, 345 – 359.
+LIE, I., F OSTERVOLD, K. I., A ARA˚ S, A. and L ARSEN, S. 1997, Gaze inclination and health in
+VDU-operators, In P. Seppa ¨ la¨ , T. Luopaja ¨ rvi, C. H. Nyga ˚ rd and M. Mattila (eds),
+Proceedings of 13th Triennial Congress of the International Ergonomics Association
+(Helsinki: Finnish Institute of Occupational Health), 5, 50 – 52.
+LUTTMANN, A., J a¨ GER, M. and L AURIG, W. 2000, Electromyographical indication of muscular
+fatigue in occupational ﬁeld studies, International journal of Industrial Ergonomics , 25,
+645 – 660.
+PSIHOGIOS, J. P., S OMMERICH, C. M., M IRKA,G .A .a n dM OON, M. D. 2001, A ﬁeld evaluation in
+monitor placement eﬀects in VDT users, Applied Ergonomics , 32, 313 – 325.
+SAITO, S. and S OTOYAMA, M. 1997, Visual ergonomics problems in VDT workplaces and
+analysis of vertical gaze direction, In P. Seppa ¨ la¨ , T. Luopaja¨ rvi, C. H. Nyga˚ rd and M.
+Mattila (eds), Proceedings of 13th Triennial Congress of the International Ergonomics
+Association (Helsinki: Finnish Institute of Occupational Health), 5, 56 – 58.
+SOMMERICH, C. M., J OINES,S .M .B .a n dP SIHOGIOS, J. P. 2001, Eﬀect of Computer Monitor
+Viewing Angle and Related Factors on Strain, Performance, and Preference Outcomes,
+Human Factors , 43, 39 – 55.
+SOTOYAMA, M., A BE, S., J ONAI, H., V ILLANUEVA, M. B. G. and S AITO, S. 1997, Improvement on
+visual comfort of VDT workers from the aspects of vertical gaze direction and tear
+volume, In P. Seppa¨ la¨ , T. Luopaja¨ rvi, C. H. Nyga˚ rd and M. Mattila (eds), Proceedings
+of 13th Triennial Congress of the International Ergonomics Association (Helsinki: Finnish
+Institute of Occupational Health), 5, 59 – 61.
+729Posture, muscle activity and fatigue in prolonged VDT work
+
+===== PAGE 17 =====
+
+STRAKER, L., J ONES,K .J .a n dM ILLER, J. 1997, A comparison of the postures assumed when
+using laptop computers and desktop computers, Applied Ergonomics , 28, 263 – 268.
+SUNDELIN, G. and H AGBERG, M. 1992, Electromyographic signs of shoulder muscle fatigue in
+repetitive arm work paced by the Method-Time-Measurement system, Scand. J. Work
+Environ Health , 18, 262 – 268.
+SWANSON, N. G., G ALINSKY, T. L., C OLE, L. L., P AN, C. S. and S AUTER, S. L. 1997, The impact of
+keyboard design on comfort and productivity in a text-entry task, Applied Ergonomics ,
+28, 9 – 16.
+TURVILLE, K. L., P SIHOGIOS, J. P., U LMER, T. R. and M IRKA, G. A. 1998, The eﬀects of video
+display terminal height on the operator: a comparison of the 15 8 and 40 8
+recommendations, Applied Ergonomics , 29, 239 – 246.
+VILLANUEVA, M. B. G., S OTOYAMA, M., JONAI, H., TAKEUCHI, Y. and S AITO, S. 1996, Adjustments
+of posture and viewing parameters of the eye to changes in the screen height of the
+visual display terminal, Ergonomics, 39, 933 – 945.
+VILLANUEVA, M. B. G., J ONAI, H., S OTOYAMA, M., H ISANAGA, N., T AKEUCHI, Y. and S AITO,S .
+1997, Sitting Posture and Neck and Shoulder Muscle Activities at Diﬀerent Screen
+Height of the Visual Display Terminal, Industrial Health , 35, 330 – 336.
+VILLANUEVA, M. B. G., J ONAI, H. and S AITO, S. 1998, Ergonomic Aspects of Portable Personal
+Computers with Flat Panel Displays (PC-FPDs): Evaluation of Posture, Muscle
+Activities, Discomfort and Performance, Industrial Health , 36, 282 – 289.
+730 J. Seghers et al .

@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "type": "command",
+        "command": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File .github/hooks/add-reference-copilot.ps1",
+        "cwd": "${workspaceFolder}",
+        "timeout": 180
+      }
+    ]
+  }
+}

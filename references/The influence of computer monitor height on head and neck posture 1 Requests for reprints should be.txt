@@ -1,0 +1,577 @@
+===== PAGE 1 =====
+
+*Corresponding author. E-mail: robin@hms.uq.edu.au.
+/p16Requests for reprints should be sent to Robin Burgess-Lim-
+erick, Department of Human Movement Studies, The Univer-
+sity of Queensland, 4072, Australia.
+International Journal of Industrial Ergonomics 23 (1999) 171—179
+The inﬂuence of computer monitor height on head
+and neck posture/p16
+R. Burgess-Limerick/p0/p11*, A. Plooy/p0, K. Fraser/p0, D.R. Ankrum/p1
+/p0Department of Human Movement Studies, The University of Queensland, Brisbane QLD 4072, Australia
+/p1Nova Solutions Inc., USA
+Received 5 December 1996; received in revised form 17 January 1997; accepted 11 March 1997
+Abstract
+This research describes the inﬂuence of “eye level”and“low”monitor locations on the head and neck posture of
+subjects performing a word processing task. Lowering the monitor to a position 18°below eye level had no signiﬁcant
+eﬀect on the position of the neck relative to the trunk, while the mean ﬂexion of the head relative to the neck increased by
+5°(p"0.024). In the“eye level”condition the mean gaze angle was 17°below the ear-eye line, and in the“low”condition
+the average gaze angle was 25°below the ear-eye line. Lowering the monitor thus allows gaze angles closer to that
+preferred (somewhere between 35°and 44°below the ear-eye line) to be adopted. An examination of head and neck
+biomechanics suggests that recommendations of the“top of monitor at eye height”type must be questioned.
+Relevance to industry
+Current recommendations regarding the appropriate height of computer monitors are based more on intuition than
+empirical evidence. Lower computer monitor placements may be beneﬁcial. /p71999 Elsevier Science B.V. All rights
+reserved.
+Keywords:VDT; Posture; Head and Neck
+The head and neck comprise a complex neuro-
+muscular system which is not well understood. This
+complexity, combined with the complexity of the
+visual system, has contributed to controversy re-
+garding the appropriate location of visual display
+terminals. The conventional view is that the moni-
+tor should be located at, or just below, eye level.
+For example, the Australian Occupational Health
+and Safety Commission (NOHSC) suggests in
+a guidance note that“when sitting tall and looking
+straight ahead, the keyboard user should be look-
+ing at the top edge of the screen”(NOHSC, 1989;
+p. 14). Similar recommendations are prevalent in-
+ternationally.
+Although evidence to the contrary has been
+gradually accumulating (Kroemer and Hill, 1986;
+0169-8141/99/$—see front matter/p71999 Elsevier Science B.V. All rights reserved.
+PII: S 0 1 6 9 - 8 1 4 1 ( 9 7 ) 0 0 0 3 3 - 4
+
+===== PAGE 2 =====
+
+Hsiao and Keyserling, 1991; Kumar, 1994), it has
+only been relatively recently that the“top of moni-
+tor at eye level”recommendation has been chal-
+lenged in literature destined for the user. In
+particular, Ankrum and Nemeth (1995) have ar-
+gued that monitors should be located at least 15 °
+below horizontal eye level (see also Leavitt, 1995).
+The argument involves inference from the obser-
+vation that the preferred angle of gaze is quite
+steeply downwards. Kroemer and Hill (1986) deter-
+mined the preferred gaze angle to be 35°below the
+ear-eye line for visual targets at 1 m, and 44 degrees
+below the ear-eye line for targets at 0.5 m. From
+these observations, the reasonable conclusion is
+that locating video monitors at the conventional
+position requires users to either compromise their
+preferred gaze angle, or to adopt postures in which
+one or more of the cervical or atlanto-occipital
+joints are relatively extended. Ankrum and Nemeth
+(1995) suggest that adopting postures involving
+relatively extended head or neck for prolonged
+periods is likely to lead to discomfort; and that,
+consequently, lowering the monitor increases the
+range of comfortable head and neck postures which
+can be adopted while allowing gaze angles which
+are comfortable for the visual system.
+While consistent with epidemiological research
+which has found an association between“eye level”
+monitor heights and neck discomfort (Bergquist
+et al., 1995), two aspects of this suggestion require
+further examination. The ﬁrst is the question of
+what the consequences of lowering the monitor
+actually are in terms of the head and neck postures
+adopted. Kumar (1994) reported head and neck
+posture, surface electromyography, and subjective
+discomfort measures of bi-focal wearers using dif-
+ferent monitor height placements. For this group of
+users, head and neck inclination increased with
+lower monitor placement, while the amplitude of
+trapezius electromyography and subjective discom-
+fort measures were reduced. One aim of the re-
+search reported here is to address this question
+further by describing the inﬂuence of“top of screen
+at eye level”and“low”monitor locations on the
+head and neck posture of non-bifocal wearers per-
+forming a word processing task.
+The second question which requires further
+examination is the more diﬃcult one of what the
+consequences of these postures are for discomfort
+and subsequent injury (assuming that a link be-
+tween discomfort and injury exists). While there has
+been considerable work undertaken to assess the
+biomechanical, electromyographic, and subjective
+consequences of diﬀerent degrees of neck ﬂexion
+(e.g., Chaﬃn, 1973; Kumar and Scaife, 1979; Mo-
+roney et al., 1988), with the exception of some
+limited work on the electromyographic conse-
+quences of extreme postures (Harms-Ringdahl et
+al., 1986; Schuldt et al., 1986), postures involving
+head or neck extension have received little atten-
+tion. There is little understanding of the possible
+mechanisms involved in causing discomfort, or in-
+deed, the speciﬁc postures which are likely to result
+in discomfort. While a deﬁnitive response is not
+possible at this time, the issues involved will be
+considered in light of the results reported here.
+1. Method
+1.1. Subjects
+Twelve staﬀ and students from a university
+population (aged 21—30) volunteered to participate.
+All were familiar with keyboard/monitor work-
+stations and possessed some word processing
+experience.
+1.2. Procedure
+Each subject was provided with a chair, desk,
+document holder, keyboard, and monitor. The
+chair, document holder, and monitor were adjust-
+able in height and tilt, and the desk was adjustable
+in height only. Each subject participated in two
+experimental conditions which diﬀered only in the
+location of the computer monitor. In one condition
+(the“eye level”condition) the monitor was placed
+such that the screen was vertical, the horizontal
+distance from the eye to monitor was 0.58 m, and
+the top of the screen was level with the eyes when
+sitting in an upright posture. In the other condition
+(the“low”condition) a monitor location similar to
+that suggested by Ankrum and Nemeth (1995) was
+imposed. In this condition the monitor was inclined
+backwards by 30°, the distance between the eye and
+172 R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179
+
+===== PAGE 3 =====
+
+Fig. 1. Workstation layout in“Eye level”and“Low”monitor
+conditions.
+monitor increased to 0.7 m, and the top of the
+screen lowered to 18°below eye level (see Fig. 1 for
+illustrations of these conditions). All other dimen-
+sions were self-selected by each subject. The posture
+adopted by subjects was necessarily unconstrained
+and a small amount of variability of actual screen
+to eye distance and gaze angle relative to the hori-
+zontal existed across the duration of the trials. The
+order of presentation of conditions was randomised
+and balanced.
+Instruction in the mechanisms of adjustment
+were provided in a 10 min familiarisation session.
+After the familiarisation session, spherical reﬂective
+markers were attached to the outer canthus of the
+eye, the mastoid process on a line joining the tragus
+and outer canthus, the spinous process of the
+seventh cervical vertebra, and the greater trochan-
+ter. These markers were used to deﬁne head and
+neck angles (Fig. 2) which describe the position of
+the head and neck modelled as three rigid links
+articulated at pin joints located at the level of
+atlanto-occipital joint and between C7-T1. The
+position of the head with respect to the external
+environment was described by calculating the posi-
+tion of the ear-eye line with respect to the horizon-
+tal (Fig. 2).
+During the experimental sessions, the reﬂective
+markers were illuminated by a 1000 W light placed
+behind the camera, and the movement of these
+markers recorded on a Panasonic AG-6300 VHS
+recorder using a NEC TI-23A CCD camera. The
+two-dimensional joint angular kinematics were
+subsequently obtained via automated digitisation
+(at 30 Hz) of these markers. The tape was replayed
+through a video processor (VP110, MotionAnalysis
+Corporation, California, USA) which identiﬁes
+the pixel coordinates at which transitions occur
+between light and dark regions and relays these
+coordinates to PC-based FLEXTRAK software
+(MotionAnalysis Corporation, California, USA).
+The two-dimensional coordinates of each marker
+were obtained by calculating the centroid of each
+marker outline for each digitised video frame. Stan-
+dard FLEXTRAK software was used to generate
+two-dimensional spatial paths as a function of time
+for each of the four markers.
+A 5 min adjustment phase was provided during
+which subjects were instructed to select a worksta-
+tion conﬁguration (seat height, back-rest inclina-
+tion, keyboard position, document holder position
+and inclination, and desk height) in a manner
+which felt most comfortable to them. These work-
+station dimensions were recorded and the conﬁg-
+uration maintained for the duration of the work
+session.
+After the adjustment phase, subjects completed
+a 30 min work phase in which they made correc-
+tions to a document displayed on the monitor from
+R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179 173
+
+===== PAGE 4 =====
+
+Fig. 2. Placement of markers and deﬁnitions of joint angles: OC"outer canthus of the eye, MP"mastoid process on a line joining
+tragus and outer canthus, C7"cervical spinous process VII, and GT"greater trochanter. Ear-eye position is deﬁned as the anterior
+angle subtended between the ear-eye line (a line joining MP and OC markers) and the horizontal. Head angle is deﬁned as the anterior
+angle subtended by lines joining C7, MP, and OC markers. Neck angle is deﬁned as the anterior included angle subtended between lines
+joining GT, C7, and MP markers. All angles are deﬁned according to a counterclockwise positive convention, and consequently,
+increased with neck and head extension. Ear-eye line above the horizontal is positive, and an ear-eye line below the horizontal is
+negative.
+marked hardcopy (font"14 point Helvetica in
+both cases). Six, 50 s samples were collected from
+each 30 min testing period. These samples were
+extracted during minutes 4—5, 9—10, 14—15, 19—20,
+24—25, and 29—30. The position of the ear-eye line
+with respect to the horizontal, and head and neck
+angles were calculated for each point, and the data
+then reduced by extracting every tenth frame yield-
+ing an eﬀective frame rate of 3 Hz.
+1.3. Analysis
+The mean, minimum, and maximum values of
+each angle were calculated for the 150 data points
+in each sampled time period. Modal values of each
+angle for each sample were calculated from a fre-
+quency distribution using 2°bin widths. The eﬀect
+of monitor location on posture was assessed by
+submitting the average of these values for each
+subject in each monitor location condition to sep-
+arate one-way Analysis of Variance (ANOVA).
+2. Results
+Examination of the summary statistics (Table 1)
+reveals reliable diﬀerences between the“eye height”
+and“low”monitor conditions in terms of the pos-
+tures adopted to perform the word processing task.
+The positions of the neck relative to the trunk did
+not diﬀer; however, greater ﬂexion of the atlanto-
+occipital and upper cervical joints was observed in
+the“low”monitor condition. Speciﬁcally, while the
+“low”monitor was associated with an increase in
+174 R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179
+
+===== PAGE 5 =====
+
+Table 1
+Summary statistics for measures describing posture as a function of monitor location
+Measure “Eye level”condition
+Mean (sd)
+“Low”condition
+Mean (sd) Fp
+Neck angle mean (deg) 120.5 (7.0) 118.7 (5.1) 4.59 "0.058
+Neck angle maximum (deg) 129.8 (7.7) 126.2 (5.3) 12.7 "0.005
+Neck angle minimum (deg) 111.8 (7.6) 109.5 (6.1) 1.02 "0.336
+Neck angle mode (deg) 121.8 (7.6) 119.3 (5.8) 2.339 "0.157
+Head angle mean (deg) 147.8 (8.2) 142.8 (9.2) 7.04 "0.024
+Head angle maximum (deg) 159.5 (8.8) 155.8 (11.1) 1.75 "0.215
+Head angle minimum (deg) 132.5 (8.8) 131.0 (9.1) 0.88 "0.370
+Head angle mode (deg) 148.8 (8.8) 140.2 (10.4) 12.5 "0.005
+Ear-eye position mean (deg) 6.9 (7.4) !0.8 (7.0) 27.1 (0.001
+Ear-eye position maximum (deg) 18.5 (6.7) 7.9 (8.8) 41.5 (0.001
+Ear-eye position minimum (deg) !7.5 (9.7) !10.9 (7.5) 2.29 "0.160
+Ear-eye position mode (deg) 9.0 (8.2) !0.8 (7.3) 31.94 (0.001
+Note: All degrees of freedom for ANOVA (1,10).
+the average maximum ﬂexion of the neck relative to
+the trunk of 4°(p"0.005), the eﬀect of monitor
+location on mean, minimum, and modal neck posi-
+tion was smaller and not-signiﬁcant. The extremes
+of head position relative to the neck (maximum and
+minimum head angles) were not signiﬁcantly in-
+ﬂuenced by changes in monitor location; however,
+signiﬁcant changes in the mean and modal values
+indicate that the distribution of positions within
+these extremes was altered. Lowering the monitor
+increased the mean ﬂexion of the head relative to
+the neck by 5°(p"0.024), and the average modal
+value 9°(p"0.005).
+These alterations in joint position were reﬂected
+in changes in the orientation of the head with
+respect to the external environment (Table 1).
+Lowering the monitor reduced the average max-
+imum and modal gaze angle value by 10°and the
+mean gaze angle by 8°. Combining these values for
+ear-eye inclination with respect to the horizontal
+with the location of the centre of the monitor in
+each condition, allows an estimate of the range of
+gaze angles relative to the ear-eye line (Fig. 3). In
+the“eye level”monitor condition, the average gaze
+angle below the ear-eye line to the centre of the
+monitor was 17°(10°#6.9°) below the ear-eye line,
+with an average range from 2.5°above the ear-eye
+line to 28.5°below. In the“low”condition, the
+average gaze angle was 25°below the ear-eye line
+(26°!0.8°), and the average range from 15 to 32°
+below the ear-eye line. Comparison of these values
+with the preferred gaze angles determined in pre-
+vious research (between 35°and 44°below the
+ear-eye line; Kroemer and Hill, 1986) reveals that in
+both conditions subjects typically adopted a pos-
+ture which compromised their preferred gaze angle,
+but in the“low”condition the gaze angle was closer
+to a preferred angle (by an average of 8°).
+3. Discussion
+Lowering the monitor did not cause changes in
+the posture of the neck relative to the trunk, but did
+increase the ﬂexion of the head relative to the neck.
+Subjects did not adopt postures in either condition
+which approximated the previously reported pre-
+ferred gaze angles, although the gaze angles ad-
+opted in the“low”condition were closer.
+It is not clear what the functional consequen-
+ces of the observed postural changes might be.
+Increases in ﬂexor moment are an inevitable
+R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179 175
+
+===== PAGE 6 =====
+
+Fig. 3. Average postures adopted in“eye level”and“low”monitor conditions.
+consequence of increased head inclination, and
+hence greater muscle activity might be expected in
+the extensor musculature. However Kumar (1994)
+found that while head and neck inclination and
+ﬂexor moments were increased by lower monitors,
+the amplitude of trapezius electromyography,
+and subjective ratings of discomfort, were de-
+creased. An understanding of this previous ﬁnding,
+and of the functional consequences of the postural
+changes reported here, requires a more detailed
+consideration of the biomechanics of the head and
+neck.
+The head and neck system comprises a rigid
+mass of about 4—5 kg (the head) located above
+a ﬂexible cervical spine. Flexion and extension are
+possible at the atlanto-occipital and cervical joints.
+The ligaments and joint capsules are elastic, espe-
+cially within the mid range, and a large range of
+movement is possible without signiﬁcant contribu-
+tion from passive tissues (Goel et al., 1988).
+The centres of mass of the head, and the head
+and neck combined, are anterior to the neck. Con-
+sequently, when the trunk is vertical extensor
+muscular activity is required to maintain static
+equilibrium. A large number of muscles with di-
+verse sizes, characteristics, and attachments are
+capable of contributing to an extensor torque
+about atlanto-occipital and cervical joints. The
+suboccipital muscles, which take origin on C1 and
+C2 and insert on the occiput, are capable of provid-
+ing extensor torque about the atlanto-occipital
+joint only; others (such as semispinalis capitis and
+cervicus) provide extensor torque about cervical as
+well as atlanto-occipital joints; while others (such
+as iliocostalis cervicus) provide extensor torque
+about cervical vertebrae only (Smith et al., 1996).
+While the sternocleidomastoids have been pro-
+posed as extensors of the atlanto-occipital joint and
+ﬂexors of the cervical spine (Worth, 1994), their
+attachments on the mastoid processes are very
+176 R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179
+
+===== PAGE 7 =====
+
+close to the axis of rotation, and consequently,
+sternocleidomastoid provides no signiﬁcant exten-
+sion torque about the atlanto-occipital joint
+(Winters and Peles, 1990).
+Increased ﬂexion at the atlanto-occipital joint
+increases the horizontal distance of the centre of
+mass of the head from its axis of rotation (level with
+the mastoid process). Similarly, with the trunk in
+a vertical position, an increase in ﬂexion of the
+cervical spine increases the horizontal distance of
+the centre of mass of the head and neck combined
+from the axes of rotation in the vertebral column
+(and also, all else remaining the same, the horizon-
+tal distance of the head from its axis of rotation).
+Hence, with the trunk in an upright position, both
+atlanto-occipital and cervical ﬂexion increases the
+torque required of the extensor musculature to
+maintain static equilibrium.
+Increases in neck ﬂexion beyond 30°are asso-
+ciated with decreased time to fatigue when held
+isometrically (Chaﬃn, 1973), presumably a conse-
+quence of the increased load moment. According to
+one model (Snijders et al., 1991), neckextensionof
+30°places the centres of mass approximately over
+the axes of rotation and reduces the external ﬂexor
+moment required to resist gravitational acceler-
+ation to zero. In contrast to the suggestion made by
+Ankrum and Nemeth (1995), this logic prompted de
+Wall et al. (1992) to suggestincreasingthe height of
+visual targets, such as computer monitors, in order
+to increase neck extension and (it was assumed)
+reduce the muscular eﬀort required to maintain this
+posture.
+A number of critical elements are missing from
+the argument that computer monitors should be
+located at, or above, eye level to promote a posture
+involving a relatively extended head and neck, and,
+hence, reduced muscular eﬀort. The ﬁrst missing
+element is a recognition that ﬂexion —extension
+motion can occur about axes of rotation at diﬀerent
+levels, from movement at one level only, to combi-
+nations of rotation at diﬀerent levels of the cervical
+spine (Worth, 1994). Indeed, ﬂexion may occur at
+one level, say, about an axis in the lower cervical
+vertebra while extension occurs at another, say, the
+atlanto-occipital joint.
+The second missing element is a recognition of
+the inherent instability of the head and neck sys-
+tem, especially in the upright position (Winters and
+Peles, 1990). The neck muscles must do more
+than just balance the external forces acting on
+the system. For the system to be stable, additional
+co-contraction is required to increase the stiﬀness
+of the cervical spine and prevent local buckling.
+The consequence is that signiﬁcant muscular activ-
+ity is probably still required even if the head and
+neck are positioned such that the ﬂexor torque
+imposed by gravitational acceleration is minimised.
+Further, the necessity for muscle activity to
+stabilise the cervical spine is likely to be greater
+when it is relatively extended (Winters and Peles,
+1990).
+The third and fourth missing elements are know-
+ledge of the eﬀect of changes in posture at the
+atlanto-occipital and cervical joints on both the
+moment arm, and the average ﬁbre length, of
+muscles active to provide both the required exten-
+sor torque and stiﬀness. While accurate estimates of
+moment arm and ﬁbre length changes are available
+for few of the more than 40 muscles of the neck, it is
+clear that muscle ﬁbres which produce extensor
+torque will be shortened to some extent by in-
+creased extension of the head and neck. What is
+open to speculation is the gradient of the
+length/tension relationship at this point.
+The above elements contribute to an argument
+that postures involving a combination of ﬂexion
+at cervical joints and extension at the atlanto-
+occipital joints (a forward head posture, e.g.,
+Cailliet, 1991) may result in discomfort and sub-
+sequent injury. While not well quantiﬁed (see eg.,
+Dalton and Coutts, 1994), such postures have at-
+tracted the ire of therapists, and have previously
+been associated with physical complaints such as
+headaches (Watson, 1994).
+Maintenance of a forward head posture places
+the centre of mass of both head, and head and neck
+combined, anterior to the respective centres of rota-
+tion, thus requiring extensor moments about both
+atlanto-occipital and cervical joints. Such a posture
+involves a reduction in the average ﬁbre length of
+the muscles contributing to the necessary extensor
+torque about the atlanto-occipital joint, and pos-
+sibly the average ﬁbre lengths of some of the muscle
+facsicles contributing to the co-contraction neces-
+sary to stabilise the cervical spine in this position.
+R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179 177
+
+===== PAGE 8 =====
+
+While the length/tension characteristics of indi-
+vidual fascicles are unknown, it is possible that
+this shortening reduces the tension-generating cap-
+abilities of these muscles. The requirement for
+cervical ﬂexion reduces the possible contribution
+to atlanto-occipital extensor moment by muscles
+which extend the cervical vertebrae and, conse-
+quently, a contribution to atlanto-occipital exten-
+sion moment is required of suboccipital muscles.
+These muscles are relatively short, and even a small
+change in average ﬁbre length caused by extension
+of the atlanto-occipital joint is likely to cause signif-
+icant decrement in their tension generating capabil-
+ities. Yet it is precisely these muscles which appear
+to be primarily responsible for vertical movements
+about axes high in the cervical spine (Winters and
+Peles, 1990).
+In the light of this line of reasoning, the ﬁnding
+that a“low”monitor location is associated with
+little change in the position of the neck with respect
+to the trunk, but is associated with a reduction in
+the extension of the atlanto-occipital and upper
+cervical spine, may take on additional signiﬁcance.
+The postures observed may well be the conse-
+quence of attempting to reach a compromise be-
+tween the visual discomfort caused by gaze angles
+higher than preferred, and the musculo —skeletal
+discomfort caused by maintaining postures involv-
+ing lower cervical ﬂexion and upper cervical and
+atlanto-occipital extension.
+When the above arguments and the data pres-
+ented here are considered in conjunction with the
+characteristics of the visual system and epi-
+demiological data, the weight of evidence is such
+that recommendations of the“top of monitor at eye
+height”type must be questioned. Indeed, monitor
+locations lower than the one investigated in this
+study may allow the user to achieve preferred gaze
+angles while adopting a range of postures which do
+not involve relatively extended upper cervical and
+atlanto-occipital joints.
+References
+Ankrum, D.R., Nemeth, K.J., 1995. Posture, comfort, and moni-
+tor placement. Ergonomics in Design 3(2), 7—9.
+Bergquist, U., Wolgast, E., Nilsson, B., Voss, M., 1995. Mus-
+culoskeletal disorders among visual display terminal
+workers: Individual, ergonomic, and work organizational
+factors. Ergonomics 38, 763—776.
+Cailliet, R., 1991. Neck and Arm Pain. 3rd ed., F.A. Davis,
+Philadelphia.
+Chaﬃn, D.B., 1973. Localized muscle fatigue: deﬁnition and
+measurement. Journal of Occupational Medicine 15,
+346—354.
+Dalton, M., Coutts, A., 1994. The eﬀect of age on cervical post-
+ure in a normal population. In: Boyling, J.D., Palastanga,
+N. (Eds.), Grieves Modern Manual Therapy. Churchill
+Livingstone, Edinburgh, pp. 361—370.
+de Wall, M., Van Riel, M.P.J.M., Aghina, J.C.F.M., Burdorf, A.,
+Snijders, C.J., 1992. Improving the sitting posture of
+CAD/CAM workers by increasing VDU monitor working
+height. Ergonomics 35, 427—436.
+Goel, V.K., Clark, C.R., Gallaes, K., King Liu, Y., 1988. Mo-
+ment-rotation relationships of the ligamentous occipito-
+atlanto-axial complex. Journal of Biomechanics 21, 673—680.
+Harms-Ringdahl, K., Ekholm, J., Schuldt, K., Nemeth, G.,
+Arborelius, U.P., 1986. Load moments and myoelectric ac-
+tivity when the cervical spine is held in full ﬂexion and
+extension. Ergonomics 29, 1539—1552.
+Hsiao, H., Keyserling, W.M., 1991. Evaluating posture behavior
+during seated tasks. International Journal of Industrial
+Ergonomics 8, 313—334.
+Kroemer, K.H.E., Hill, S.G., 1986. Preferred line of sight angle.
+Ergonomics 29, 1129—1134.
+Kumar, S., Scaife, W.G.S., 1979. A precision task, posture and
+strain. Journal of Safety Research 11, 28—36.
+Kumar, S., 1994. A computer desk for bifocal wearers, with
+special emphasis on selected telecommunication tasks. Ergo-
+nomics 37, 1669—1678.
+Leavitt, S.B., 1995. Vision comfort at VDTs. Leavitt Medical
+Communications, Glenview, Ill.
+Moroney, S.P., Schultz, A.B., Miller, J.A.A., 1988. Analysis and
+measurement of neck loads. Journal of Orthopaedic Re-
+search 6, 713—720.
+National Occupational Health and Safety Commission
+(1989). Guidance note for the prevention of occupational
+overuse syndrome in keyboard employment. AGPS, Can-
+berra.
+Schuldt, K., Ekholm, J., Harms-Ringdahl, K., Nemeth, G.,
+Arborelius, U.P., 1986. Eﬀects of changes in sitting work
+posture on neck and shoulder muscle activity. Ergonomics
+29, 1525—1537.
+Smith, L.K., Weiss, E.L., Lehmkuhl, L.D., 1996. Brunnstroms
+Clinical kinesiology. 5th ed, F.A. Davis, Philadelphia.
+Snijders, C.J., Hoek van Dijke, G.A., Roosch, E.R., 1991. A
+biomechanical model for the analysis of the cervical spine in
+static posture. Journal of Biomechanics 24, 783—792.
+Watson, D.H., 1994. Cervical headache: and investigation of
+natural head posture and upper cervical ﬂexor muscle per-
+formance. In: Boyling, J.D., Palastanga, N. (Eds.), Grieves
+Modern Manual Therapy. Churchill Livingstone, Edin-
+burgh, pp. 349—359.
+178 R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179
+
+===== PAGE 9 =====
+
+Winters, J.M., Peles, J.D., 1990. Neck muscle activity and 3-D
+head kinematics during quasi-static and dynamic tracking
+movements. In: Winters, J.M., Woo, S.L.-Y. (Eds.), Multiple
+Muscle Systems: Biomechanics and Movement Organisa-
+tion. Springer, New York, pp. 461—480.
+Worth, D.R., 1994. Movements of the head and neck. In:
+Boyling, J.D., Palastanga, N. (Eds.), Grieve’s Modern
+Manual Therapy. Churchill Livingstone, Edinburgh,
+pp. 53—68.
+R. Burgess-Limerick et al./International Journal of Industrial Ergonomics 23 (1999) 171—179 179

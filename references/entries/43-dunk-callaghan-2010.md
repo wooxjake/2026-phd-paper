@@ -18,22 +18,32 @@
 - **원문 텍스트**: [Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers from matched asymptomatic controls.txt](../Lumbar%20spine%20movement%20patterns%20during%20prolonged%20sitting%20differentiate%20low%20back%20pain%20developers%20from%20matched%20asymptomatic%20controls.txt)
 
 1. [introduce.md#L56](../../introduce.md#L56)
+
    > "The purpose of this study was to examine the postural responses and pain scores of low back pain sufferers compared with asymptomatic individuals during prolonged sitting in order to understand the biomechanical factors that may be associated with sitting induced low back pain."
    >
    > "Tri-axial accelerometers were used to monitor lumbar spine angles during 90 minutes of seated computer work. Lumbar spine postures were examined using a movement pattern analysis of two types of postural adjustments, termed shifts (step-like adjustments larger than 5◦) and fidgets (small change and return to approximately the same position)."
    >
    > "Every participant in the current study demonstrated a fidgeting movement pattern, where a fidget occurred on average every 40 to 50 seconds. However, only the LBP sufferers demonstrated a significant increase in the number of shifts over 90 minutes of seated work."
    >
-   > "There was also a significant LBP*Time interaction (P = 0.04) whereby the LBP group shifted more times than the asymptomatic group in the last three 15-minute time blocks (Fig. 5)."
+   > "There was also a significant LBP\*Time interaction (P = 0.04) whereby the LBP group shifted more times than the asymptomatic group in the last three 15-minute time blocks (Fig. 5)."
 
 2. [introduce.md#L133](../../introduce.md#L133)
+
    > "This study lacks information regarding muscular activity during prolonged sitting, which may have helped explain the impact of the movement patterns and subsequent post-exposure response seen in the different groups."
 
 3. [introduce.md#L238](../../introduce.md#L238) — III. 연구방법, 자세조정 사건의 판정 기준
+
    > "The average values were computed on a point-by-point basis for two 15-second moving windows (W1 and W2), each centered on a point (x1i and x2i) and separated by Ws (3 seconds). Any two consecutive windows being offset by a change greater than five degrees were classified as a shift." (Fig. 1 설명)
    >
    > "The shift duration was determined as the length of time Eq. (1) was consecutively satisfied, as long as the shift duration was greater than Ws."
    >
    > "The average and standard deviation values (x̄Wi and SDWi) of a moving window (W), centered on a point (xi) were computed. The length of W was 60 seconds."
    >
-   > "The fidget amplitude threshold value was set as 3*SDWi and the fidget duration, WF, was selected as less than 3 seconds in order to distinguish it from a shift Eq. (3)."
+   > "The fidget amplitude threshold value was set as 3\*SDWi and the fidget duration, WF, was selected as less than 3 seconds in order to distinguish it from a shift Eq. (3)."
+
+4. [이론적 배경: 요추 움직임의 유형](../../introduce.md#L122)
+
+   > "Lumbar spine postures were examined using a movement pattern analysis of two types of postural adjustments, termed shifts (step-like adjustments larger than 5°) and fidgets (small change and return to approximately the same position)."
+
+5. [이론적 배경: 요통군과 무증상군의 시간 변화](../../introduce.md#L124)
+   > "However, only the LBP sufferers demonstrated a significant increase in the number of shifts over 90 minutes of seated work."

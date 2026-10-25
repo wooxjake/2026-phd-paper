@@ -1,0 +1,999 @@
+===== PAGE 1 =====
+
+Applied Ergonomics 32 (2001) 313–325
+A ﬁeld evaluation of monitor placement eﬀects in VDTusers
+Jennie P. Psihogiosa, Carolyn M. Sommerichb,*, Gary A. Mirkab, Samuel D. Moonc
+aNCR Corporation, Atlanta, GA, USA
+bDepartment of Industrial Engineering, Box 7906, NorthCarolina State University, Raleigh, NC 27695-7906, USA
+cDuke University Medical Center, Durham, NC, USA
+Received 27 May 1999; accepted 8 February 2001
+Abstract
+Appropriate visual display terminal (VDT) location is a subject of ongoing debate. Generally, visual strain is associated with
+higher placement, and musculoskeletal strain is associated with lower placement. Seeking resolution of the debate, this paper
+provides a comparison of results from previous lab-based monitor placement studies to recommendations and outcomes from
+viewing preference and neutral posture studies. The paper then presents results from a ﬁeld study that addressed two outstanding
+issues:Doesmonitorplacementinaworkplaceelicitposturesanddiscomfortresponsessimilartothoseseeninlaboratorysettings?
+Resultsshowedplacementsintheworkplaceelicitedposturessimilartothoseinlabstudies.Additionally,preferredVDTlocation
+generallycorrespondedtothelocationinwhichlessneckdiscomfortwasreported,thoughthattrendrequiresfurtherinvestigation.
+Overall,thereseemstobeconsistentevidencetosupportmid-levelorsomewhathigherplacement,asarule-of-thumb,considering
+preferred gaze angle and musculoskeletal concerns. However, optimal placement may be lower for some individuals or tasks.
+# 2001 Elsevier Science Ltd. All rights reserved.
+Keywords:Visual display terminal; Cervical; Monitor
+1. Introduction
+Visual discomfort and musculoskeletal discomfort,
+particularlyintheneckandshoulders,areoccupational
+health concerns for people who work with computers
+(Bergqvist and Knave, 1994; Bergqvist et al., 1995;
+H.untingetal.,1981).Computermonitorplacementisa
+key facet of workstation design. Although it is a factor
+thathasbeenlinkedtoworkerdiscomfort,disagreement
+seemstopersistregardingoptimalplacement.Standards
+only seem to rule out extreme locations, while more
+speciﬁc recommendations can conﬂict when based
+exclusively on concern for visual strain or musculoske-
+letal strain.
+1.1. Placement standards
+TheUSAstandardforvisual display terminal (VDT)
+workstations,whichcitesearlystudiesofuserpreference
+(MillerandSuther,1981;Grandjeanetal.,1983;Weber
+et al., 1984), requires only that the entire monitor be
+placedwithinanenvelopeof0to/C060 8(thatis,eyelevel
+to608beloweyelevel;ANSI,1988).ISOandAustralian
+standards have a similar requirement (ISO, 1992; AS,
+1990), although the latter also deﬁnes an optimum
+viewing zone from –15 to/C0458.
+1.2. Researchﬁndings
+Epidemiologicalresearch,lab-basedexperiments,and
+longertermﬁeldstudieshavebeenconductedtoexplore
+visualandmusculoskeletaleﬀectsofmonitorplacement
+on computer users. In the aggregate, these studies seem
+to indicate some trade-oﬀ between visual strain and
+musculoskeletal strain with regards to optimal place-
+ment.
+1.2.1. Epidemiological research
+Higher monitor placement has been associated with
+visualstress(BergqvistandKnave,1994;0to/C0208)and
+musculoskeletal stress (Bergqvist et al., 1995), though
+the latter is more often associated with lower monitor
+placement(H.untingetal.,1981;Griecoetal.,1982).At
+leasttwostudies,however,haveshownnolinkbetween
+*Corresponding author. Tel.: +1-919-515-8614; fax: +1-919-515-
+5281.
+E-mail address:sommeric@eos.ncsu.edu (C.M. Sommerich).
+0003-6870/01/$-see front matter#2001 Elsevier Science Ltd. All rights reserved.
+PII: S0003-6870(01)00014-X
+
+===== PAGE 2 =====
+
+musculoskeletal discomfort and monitor placement
+(Faucett and Rempel, 1994; Sauter et al., 1991).
+1.2.2. Experimentation
+Empirical placement recommendations range from
+458 below the Frankfurt plane (Lie and Fostervold,
+1994)toeyelevel(deWalletal.,1992;BauerandWittig,
+1998). In theory, the former reduces visual strain, the
+lattermusculoskeletalstrain.Suchdisparaterecommen-
+dations may occur because studies generally do not
+investigate both areas of concern simultaneously. It
+follows that recommendations from such studies would
+minimize the targeted strain, even at the expense of the
+other.
+1.2.2.1. Studies ofvisual strain. Beneﬁtstoalowergaze
+angleincludereductionsinocularsurfacearea(Sotoya-
+ma et al., 1996) and perceived viewing exertion
+(vergence eﬀort) (Menozzi et al., 1994; Tyrrell and
+Leibowitz, 1990; Jaschinski et al., 1998). Results from
+several visual preference studies are summarized in
+Table 1. Except for the work by Hill and Kroemer
+(1986), mean preferences seem to be exhibited for gaze
+angles about 23–348 below the eye–ear line (GA-EEL),
+and centered about 9–108 below horizontal (GA-h).
+These studies tend to report wide ranges of results,
+reﬂecting extensive individual diﬀerences in visual
+capabilities.
+1.2.2.2. Studies of musculoskeletal strain. Musculoske-
+letalstraincanbeobjectivelyassessedthroughmeasure-
+ments of posture or muscle activity, and subjectively
+through reports of preference or discomfort. Tables 2
+and 3 present results from several lab-based studies of
+the eﬀects of monitor placement on those outcomes.
+These studies consistently show signiﬁcant increases in
+activity of the cervical and thoracic extensor muscles
+with lower VDTplacement (T able 2). Increased muscle
+activity is a concern, because localized muscle fatigue
+associated with continuous activation of low force/low
+threshold muscle ﬁbers is thought to be a primary
+contributor to development of tension neck syndrome
+and myofascial pain in VDTworkers and others who
+perform semi-static tasks (Hagberg et al., 1995;
+Sj/C28gaard and S/C28gaard, 1998). The studies in Table 2
+found discomfort tended to be greater for lower
+placement, though not signiﬁcantly so. Apparently
+many subjects do not experience discomfort while
+working at the computer, at least during the short
+exposures that are typical of lab studies. Subjects
+seemed to favor a mid-level location over lower
+locations. This is consistent with the visual ﬁeld
+Table 1
+Sampleofviewinganglepreferencereports.Anglesarerelativetohorizontalreferenceifnototherwisespeciﬁed.EELreferstotheeye–earline.FP
+refers to Frankfurt plane. The EEL and FP are reported to diﬀer by about 118 (Jampel and Shi, 1992; Menozzi et al., 1994)
+Reference VDT-based study design Non-VDT-based study design Viewing preference
+Grandjean et al. (1983),
+68 subjects
+Field: work was text
+entry, data entry, or
+conversational (interactive)
+/C098 to center of screen (SD=4.5;
+range=+28 to/C026 8); 76cm
+distance pref
+Jaschinski et al. (1998),
+22 subjects
+Field: Telephone directory
+assistance oﬃce
+/C08.68 to focal pt of screen
+(SD=3.9;range=/C03.1to/C015.38);
+78.9cm distance pref
+Burgess-Limerick et al.
+(1998), 12 subjects
+Lab
+Task: mousing game, visual
+focus on screen
+/C038 to –228to center of screen,
+with corresponding/C022 to/C027 8
+angle relative to EEL
+Hill and Kroemer (1986),
+32 subjects
+Lab
+Targets: Landholt rings and
+black print text on white paper
+/C0338to/C0388 to target relative
+to FP, at 50cm;/C024 8 to/C0318
+at 100cm
+Menozzi et al. (1994),
+74 subjects
+Lab
+Target: red light-emitting
+diodes
+/C012.38relative to FP
+(range=+108 to/C0258), similar
+for distances 0.33, 0.5, and 1.0m
+Mon-Williams et al. (1999),
+Experiment 1, 12 subjects
+Lab
+Target: 12 pt text
+subtending 16arc/min,
+media not described
+/C026.758relativetoEEL(SD=4.9),
+for 65cm distance
+Mon-Williams et al. (1999),
+Experiment 2, 6 subjects
+Target: 12 pt black text
+subtending 16arc/min on
+white background, media
+not described
+/C034.338relativetoEEL(SD=3.1),
+for 50cm distance,/C027.48
+(SD=2.1) at 100cm
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325314
+
+===== PAGE 3 =====
+
+studies cited previously (Jaschinski et al., 1998;
+Grandjeanet al., 1983), andthe monitor locationstudy
+by Burgess-Limerick et al. (1998). With the goal of
+reducing musculoskeletal strain, these results tend to
+support a mid-level or higher location, rather than
+placement below mid-level.
+Table3showsconsistencyininducedposturesamong
+the studies (postures are depicted in Fig.1). The data
+also show that there is some variability in the resultant
+postures, even for the same researchers working with
+diﬀerent groups of subjects in diﬀerent studies. Table 3
+showsthatmid-levelplacementconsistentlyelicitedgaze
+angles in the preferred range (GA-EEL in Table 1),
+while only about half the eye-level and moderate-low
+placements led to preferred GA-EEL. Mid-level place-
+ment also coincided with preferred GA-h. Evaluating
+the remaining data in Table 3 requires knowledge of
+neutral body postures, if it is assumed that strain
+expresses a diﬀerence from neutral.
+A few studies have sought to deﬁne normal (neutral)
+head and neck postures, though Cailliet (1991) empha-
+sized the distinction between correct posture and those
+that feel normal, but are structurally faulty; Gray et al.
+(1966) reported marked diﬀerences of 10–158 between
+‘‘comfortable’’ and ‘‘best’’ measured postures. Never-
+theless, some neutral head and neck posture data are
+presented in Table 4. Comparing that information with
+data in Table 3 suggests that neutral head posture is
+achieved at mid-level or moderate-low placements.
+Neutral neck postures seem to be attainable with all
+placements, but each placement can also result in
+pronounced neck ﬂexion relative to vertical, that is
+relative to gravitational forces which the neck extensor
+muscles work against to maintain head and neck
+posture. The data in Table 3 suggest, then, that low
+placement would result in both visual and musculoske-
+letal strain, while the mid-level location seems to
+minimize postural and visual strain. Eye level and
+Table 2
+Sample of lab-based studies that assessed musculoskeletal strain as a function of monitor location. Summary results for EMG, discomfort, and
+preference assessments are presented in this table. Table 3 contains postural assessment results. All studies required subjects to focus on a screen
+(computer monitor or video/TV)
+Study Task Time on task EMG Discomfort Preference
+Villanueva et al. (1996);
+10 subjects
+Computer game
+with mousing
+3min per
+condition
+Villanueva et al. (1997);
+10 subjects
+Computer game
+with mousing
+20min per
+condition
+Mean EMG
+increased with
+lowering of monitor
+Burgess-Limerick et al. (1998);
+12 subjects
+Computer game
+with mousing
+5min per
+condition
+Bauer and Wittig (1998);
+8 subjects
+Read text on VDT5min per
+condition
+Mean EMG
+increased with
+lowering of monitor
+No diﬀerences
+Mon-Williams et al. (1999),
+Part 3; 12 subjects
+View text on
+small TV,
+Stroop eﬀect task
+1min per
+condition, 3
+repetitions
+Burgess-Limerick et al. (2000);
+12 subjects
+View cartoon on
+video monitor
+1min per
+condition
+Straker and Mekhora (2000);
+20 subjects
+Computer game with
+limited keying
+20min per
+condition
+Mean EMG from
+cervical and
+thoracic locations
+was greater for the
+lower location
+Trend towards greater
+discomfort with lower
+placement, in those S
+that noted a diﬀerence
+12 preferred
+mid,
+a7 low, 1
+had no preference
+Sommerich et al. (accepted);
+16 subjects
+Discrete reading
+and mousing
+computer tasks
+30min per
+task
+Static and median
+EMG from cervical
+and thoracic
+locations increased
+as monitor
+was lowered
+Trend towards less
+discomfort at mid-
+level placement
+Order of preference
+was mid, high, low
+aThe study’s authors labelled the placement (/C010 8) as ‘‘high’’, but in this analysis of these placement studies, the location falls into the mid
+category.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 315
+
+===== PAGE 4 =====
+
+Table 3
+Posture outcomes from a sample of lab-based studies that assessed musculoskeletal strain as a function of monitor locationa(see Table 2 for other strain assessment outcomes: muscle activity,
+discomfort,andpreference).Onlyresultsforcomparablelocationsarepresented.Unitsforposturearedeg;valuesinparenthesesarestandarddeviations.‘‘/C24’’indicatesvaluesareestimatesfrom
+graphs or merged averages from multiple groups. Refer to Fig.1 for depiction of angles
+Study Target location GA-EEL EEL-h Head angle Neckangle-b|NA-v Trunk angle
+Villanueva et al. (1996) 120cm, GA-h of/C027.9 27.3 105.9
+/C00.68 (10) (9.4) (6.4) (34.3)
+Villanueva et al. (1997) 120cm 21.3 103.9
+(5.8) (10.8)
+Burgess-Limerick et al. (1998) High, GA-h of/C021 19 152 117|44 109
+/C028 (1) (5) (4) (3) (4) (3)
+Bauer and Wittig (1998) GA-h of 08
+Mon-Williams et al. (1999) GA-h of 08 /C24/C020 /C2420 /C24150 /C24122|39 /C24109
+Burgess-Limerick et al. (2000) GA-h of 08 /C24/C026 /C2427 /C24158 /C24127|43 100
+/C24119|41 110
+Sommerich et al. (accepted) GA-h of 08 /C24/C029 /C2429 /C24155 /C24133|36 101
+Eye level: range of means 0 to –2 /C020 to/C029 19–29 150–158 117–133 |36–44 101–109
+Villanueva et al. (1996) 100cm, GA-h of/C032.7 15.5 113.0
+/C017.28 (11.5) (7.2) (7.9) (7.5)
+Villanueva et al. (1997) 100cm 8.9 97.2
+(6.3) (6.8)
+Burgess-Limerick et al. (1998) Mid, GA-h of/C025 9 149 115|50 105
+/C0158 (1) (5) (5) (7) (4) (6)
+Bauer and Wittig (1998) GA-h of 8.2 8 below 08 GA-h (3.3)
+/C017.58
+Mon-Williams et al. (1999) GA-h of/C24/C032 /C2416 /C24146 /C24121|40 /C24109
+/C0158
+Burgess-Limerick et al. (2000) GA-h of/C24/C033 /C2419 /C24151 /C24125|45 100
+/C0158 /C24118|42 110
+Straker and Mekhora (2000) High, GA-h of/C24/C022.5 12.5 138.1 133.8|36.6 99.6
+/C010 8 (4.9) (11.3) (8.3) (8.7)
+Sommerich et al. (accepted) GA-h of/C24/C036.5 /C2419 /C24147 /C24131|38 101
+/C017.58
+Mid-level: range of means/C010 to/C017.5 /C022.5 to/C036.5 8.9–19 138.1–151 115–133.8|36.6–50 97.2–113
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325316
+
+===== PAGE 5 =====
+
+Villanueva et al. (1996) 90cm, GA-h of/C039.0 11.5 99.9
+/C027.58 (10.9) (8.2) (8.2) (12.6)
+Burgess-Limerick et al. (1998) Low, GA-h of/C030 1 145 113|54 103
+/C0298 (2) (5) (4) (6) (6) (9)
+Mon-Williams et al. (1999) GA-h of/C0308 /C24/C040 /C2410 /C24142.5 /C24120|41 /C24109
+Burgess-Limerick et al. (2000) GA-h of/C0308 /C24/C039 /C2411 /C24146 /C24120|50 100
+/C24115|45 110
+Straker and Mekhora (2000) Low, GA-h of/C0308 /C24/C028.8 /C01.2 133.2 128.2|44.6 97.2
+(6.5) (10.0) (7.6) (8.9)
+Moderate-low: range of means/C027.5 to/C030 /C028.8 to/C040 /C01.2–11.5 133.2–146 113–128.2 |41–54 97.2–110
+Villanueva et al. (1996) 80cm, GH-h of/C043.2 4.7 99.4
+/C038.58 (12.2) (9.9) (9.1) (10.3)
+Villanueva et al. (1997) 80cm /C02.0 93.3
+(5.6) (8.4)
+Bauer and Wittig (1998) GA-h of/C0358 13.98 below 08 GA-h (4.4)
+Sommerich et al. (accepted) GA-h of/C0358 /C24/C042 /C247 /C24139 /C24127|42 101
+Low: range of means /C035 to/C038.5 /C042 to/C043.2 /C02 to 7 139 127|42 93.3–101
+aResearchers presented posture data using various combinations of the six angles in this table. No study presented all of the angles. Where suﬃcient information was presented in the original
+paper, angles that were not originally calculated could be and are included in this table to aid comparisons among studies.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 317
+
+===== PAGE 6 =====
+
+moderate-low locations each seem to provide some
+advantages and disadvantages.
+What is lacking in this analysis is veriﬁcation
+of the eﬀects of monitor placement on posture in
+a workplace setting. An extended ﬁeld study might
+also yield statistically signiﬁcant information on
+visual and musculoskeletal discomfort, something
+that lab studies have not done. Additionally, such a
+study could provide preference data based on ex-
+perience and context rather than ﬁrst impressions.
+A ﬁeld study was designed to address this void.
+Mid-level and eye level placements were studied,
+because those seemed likely to simultaneously induce
+lessvisualandmusculoskeletalstrain,basedonthecited
+literature.
+The primary questions of the study were:
+(1) Do ﬁeld results verify lab results, in terms of
+induced postures and subjective preferences, for
+eye level and mid-level monitor locations?
+(2) Are visual and musculoskeletal discomfort
+outcomes diﬀerent between the lab and
+ﬁeld, given the longer exposure time in the ﬁeld
+study?
+Fig.1. Posture angles assessed in various monitor placement studies.
+Table 4
+Neutralpostureestimatesforhealthysubjects.Valuesareindegrees,withstandarddeviationsinparentheses.RefertoFig.1fordepictionofangles
+Study Subject instruction EEL-h Head angle Neck angle-b | NA-v Trunk angle
+Mon-Williams et al. (1999) (a) ‘‘adopt a relaxed posture’’ while
+listening to music
+16.2
+(6.5)
+148
+(9.5)
+120.6 | 40.8
+(6.9)
+108.6
+(6.3)
+(b) Type while blindfolded 12.4 145.3 120.8 | 41.6 107.6
+(8.9) (6.9) (8.4) (5.1)
+Raine and Twomey (1997) ‘‘Comfortable erect standing’’ 8.9
+a | 41.1
+Watson and Trott (1993) ‘‘Most comfortably balanced position’’
+while seated
+| 40.9b
+Kendall and McCreary (1983) Instruction not provided; depiction was
+of ‘‘ideal skeletal alignment’’, involving
+a ‘‘minimal amount of stress and strain’’
+/C249c |/C2434c
+aMeatus and fold below eye deﬁned EEL.
+bAverage NA-v was 45.58for subjects who experienced recurring headaches.
+cValues were estimated from diagram and photograph.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325318
+
+===== PAGE 7 =====
+
+2. Methods
+2.1. Participants
+Twentysoftwarecompanyemployeesvolunteeredfor
+the study (8 women, 12 men; 11 software developers, 5
+quality assurance analysts, 3 managers, and one
+technical support person). Averages for age, height,
+and weight were 36.6yr (/C68.9), 173.3cm (/C66.8), and
+70.1kg (/C612.6), respectively. No participants wore
+bifocals. All looked primarily at the VDTduring work,
+usingfewornosourcedocuments.VDTuseaveragedat
+least 6h/day. Monitors were either 43 or 48cm in size
+(17 or 19in, for 2 and 18 subjects, respectively).
+Employees were invited to participate in the study if
+their monitors and keyboards were aligned with the
+mid-sagittal plane of their trunks, and if gaze angle
+(GA-h) as they normally worked approximated either
+eye level (08) or mid-level (/C017.58). This normal GA-h
+would have been a function of anthropometry, work-
+station design, and/or personal preference, as their
+employer readily accommodated requests for work-
+station adjustments.
+Participants were evenly dichotomized, based on
+normal GA-h. Subject grouping and experimental
+manipulation are depicted in Fig.2. All participants
+workedwiththeirmonitorspositionednormallyforthe
+ﬁrsttwoweeks ofthe study. Forthesecondtwoweeks,
+two participants in each group continued to work with
+their monitors positioned normally (these two sub-
+groupsofcontrolsubjectswerelabeledHi–HiandMid–
+Mid), while the remaining 16 participants had their
+monitors relocated so that they would experience the
+alternatemonitorlocationfortwoweeks(thesetwosub-
+groups of test subjects were labeled Hi–Mid and Mid–
+Hi). Screen heights were changed by either adding or
+removing risers beneath the monitors, the typical
+customized intervention the employer normally pro-
+vided. During data analysis, one participant from each
+test group was excluded because viewing angles mea-
+sured during the ﬁrst two weeks of the study were not
+consistent with screening measurements made prior to
+the start of the study.
+2.2. Experimental design
+A quasi-experimental, within-subjects, counterba-
+lanced design (Campbell and Stanley, 1963) was used
+totesteﬀectsofmonitorlocationonuserposture,visual
+andmusculoskeletaldiscomfort,andpreference.Posture
+measures included eye–ear line relative to horizontal
+(EEL-h), neck angle relative to vertical (NA-v), trunk
+angle (TA), thoracic bending (TB), and gaze angle
+relativetohorizontal(GA-h;seeFig.1).Thesemeasures
+were directly comparable to those in Sommerich et al.
+(accepted). Screen tilt and distance were self-selected.
+Duetothelargenumberofreportslinkingpsychosocial
+workfactorswithvisualandmusculoskeletaldiscomfort
+(BergqvistandKnave,1994;FaucettandRempel,1994;
+Smithetal.,1981),thejobcontentquestionnaire(JCQ)
+(Karasek et al., 1985) was administered to participants,
+toaccountforpotentialconfoundingfromwork-related
+stress. Work organization factors, including hours
+worked per week, were also assessed.
+2.2.1. Posture assessment
+A video camera was placed orthogonal to the
+participant’s workstation at a height matching the
+center of rotation of the shoulder. Reﬂective markers
+were placed at the canthus, tragus, C7, inferior wing of
+the scapula, and center of rotation of the hip (Fig.1).
+Marker location and camera height and distance were
+measuredtoensureconsistentplacementoneachﬁlming
+day. No restrictions were placed on the participants;
+they were free to meet with visitors, answer the phone,
+or leave their oﬃces as needed.
+2.2.2. Subjective assessments
+At the end of each videotaping day, participants
+completedasurveythatincludedquestionsonbodypart
+Fig.2. Timeline for ﬁeld study.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 319
+
+===== PAGE 8 =====
+
+discomfort, headache, visual discomfort, frequency of
+rest breaks, and workstation preferences. To describe
+body part and headache discomfort at the end of that
+workday,participantsusedtheBorgCR-10scale(Borg,
+1982). Visual discomfort was indicated by presence or
+absence of each of seven symptoms (burning, itching,
+aching, watering, blurring, tired, or dry). Rest break
+frequency was assessed to determine any association
+with monitor location. This was the average length of
+timethattheparticipantworkedbeforeneedingabreak
+from the computer. Workstation preferences were
+surveyed to identify likes and dislikes of the setup,
+including the monitor as located that day. On the ﬁnal
+taping day, participants were asked to comment on
+advantagesanddisadvantagesofeachmonitorlocation.
+They were also asked where they would choose to put
+themonitor(HiorMid),andweretoldthatthemonitor
+wouldbemoved,ifneeded,tothatpreferredlocation,so
+thattheycoulduseitinthatpreferredlocationafterthe
+study was concluded.
+2.3. Procedure
+The study was conducted over four consecutive
+weeks. Each participant was observed and videotaped
+one day each week, for a period of one hour in the
+morning and one hour in the afternoon, for a total of
+eightdatacollectionsessions(samedayoftheweekand
+same a.m. and p.m. hours of the day for a given
+individual throughout the study; four taping sessions
+withthemonitorinthenormallocation,thenfourinthe
+alternate location). During the ﬁrst session, the partici-
+pant provided informed consent to participate, com-
+pleted a questionnaire on typing expertise, health
+history, previous workstation changes, as well as a
+discomfort survey, and the JCQ. Anthropometry was
+also collected. During the ﬁrst two weeks, participants
+worked with their VDTs in their normal locations
+(Fig.2). After the fourth session, on Day 2 of Week 2,
+test subjects’ monitors were moved to the alternate
+locations. Participants worked for the latter two weeks
+of the study with monitors in the alternate locations.
+2.4. Data analysis and statistical testing
+Videotapedatawereusedforpostureassessmentand
+work sampling analysis; videotapes were sampled once
+per minute, providing 60 data points per subject
+per session (240 data points per subject per monitor
+location).Todeterminetheeﬀectofmonitorlocationon
+posture, angles were only quantiﬁed when participants
+wereseatedorthogonaltothecameraandlookingatthe
+monitor. Tapes were manually digitized, using a touch
+screen and stylus. To reduce variability, one analyst
+digitized all the video data.
+Preliminaryt-testscomparingmorningandafternoon
+posturaldatarevealednosigniﬁcantdiﬀerence,sothese
+data sets were combined before performing ANOVA
+tests.Thestatisticalmodeltestedmaineﬀectsofmonitor
+Location(HiorMid),Day(1or2),andGroup(Hi–Mid
+or Mid–Hi), as well as appropriate interactions. 50th
+percentile posture variables, body part discomfort, and
+headache discomfort were analyzed with this model.
+Contingencyanalysiswasperformedonrestbreak data
+andoccurrence ofvisual discomfortsymptoms.Muscu-
+loskeletal discomfort was further analyzed with the
+Mann–Whitney test to evaluate associations between
+discomfort and monitor location preference.
+3. Results and discussion
+The participants and conditions in which they
+normally worked were favorable for the purposes of
+this study. Participants were a homogenous group, all
+professionals, most with graduate degrees. They per-
+formed similar types of work and worked similarhours
+per week (35–40h, considered full-time and average for
+the company). Rest break occurrence was found to be
+similar among participants, throughout the study.
+Results from the JCQ showed that participants experi-
+enced high job control and low psychosocial stress,
+typical of other previously studied computer program-
+mersintheUSA.Thisreducesthelikelihoodthatvisual
+or musculoskeletal strain would be due to psychosocial
+stress,andmorelikelythatstrain,ifwork-related,might
+be due to workstation set-up.
+3.1. Posture
+Based on work sampling analysis of the video tapes,
+60–80% of the time participants were videotaped was
+spent viewing the computer monitor, with developers
+spendingthegreaterpercentageandmanagersthelesser.
+Fifty-two to seventy percent of the time that they were
+videotaped, participants viewed the computer while
+sittingorthogonaltothecamera.Posturemeasurements
+were made during those conditions. Results from
+ANOVA testing showed a signiﬁcant main eﬀect of
+monitor location on EEL-h and GA-h (Table 5). Both
+showedsigniﬁcantdecreasesfromHitoMidplacement.
+Other terms in the model (group, day) did not aﬀect
+posture outcomes. Control subjects’ postures were
+similar to those of test subjects, and were consistent
+throughout the study. Except for thoracic bend, inter-
+nal-referent measures were not part of the original
+analysis, but are provided here to complete the
+discussion of the posture data. Derived averages for
+GA–EEL, HA, and NA-b for the Hi location were
+/C029.78,159.78,128.28,respectively;fortheMidlocation
+they were/C034.08, 152.78, and 125.18, respectively.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325320
+
+===== PAGE 9 =====
+
+Posture outcomes in the ﬁeld study were similar in
+signiﬁcancetothoseinpreviouslab-basedstudies(refer
+to Table 3). In this and most previous studies, head
+postures and gaze angles were aﬀected by monitor
+location, while neck and trunk postures were not.
+Posture outcomes were also similar in value and
+magnitudeofchangetooutcomesinpreviouslab-based
+studies. GA–EEL tended towards the middle of the
+preferred range (Table 1) for the Hi location, and
+towardsthelowerendfortheMidlocation.EEL-hwas
+closertoreportedneutralpostures(Table4)fortheMid
+location. Similar to previous studies, this ﬁeld study
+showed that posture changes do not fully compensate
+for changes in monitor location. Although average
+monitor location change was 13.48, body adjustments
+totaled only 9.18. Change in eye position (GA–EEL)
+made up the diﬀerence of 4.38, or 32% of the monitor
+location change. With the exception of an 80%
+contribution found by Mon-Williams et al. (1999), in
+previous studies average percentage contributions from
+eyeadjustmentrangefrom30%to50%betweenHiand
+Mid locations (based on data in Table 3). In summary,
+theﬁeldstudypostureoutcomesveriﬁedoutcomesfrom
+previous lab-based investigations.
+3.2. Discomfort
+Theneckreceivedmorediscomfortreportsthanother
+body parts, though the low back was a close second,
+followedbythemidandupperback,theshoulders,and
+the wrists. Average intensity ratings of discomfort
+tended to be low, ranging from 0 to 2.3 on a scale of
+0–10. The neck received the highest average discomfort
+ratings:1.9forHiand2.3forMid,andthesetwovalues
+were not signiﬁcantly diﬀerent. In fact, no analyses of
+body part discomfort reached signiﬁcance, either
+assessed by part, or as a sum total of discomfort.
+Discomfortincontrolsubjectseitherremainedconstant
+orimprovedslightlyduringthestudy.Theseﬁndingsare
+consistent with epidemiological research, in terms of
+body parts that are common sources of discomfort for
+VDTusers. Results are also consistent with the lab-
+based studies, in terms of ﬁnding no statistically
+signiﬁcant direct relationship between these monitor
+locations and body part discomfort.
+There was no diﬀerence in headache reporting
+between conditions. Mean intensity ratings were 0.7
+and 0.5 for Hi and Mid, respectively. The quantities of
+visual discomfort symptoms reported for the two
+monitor locations were equally low. No diﬀerences
+between test conditions or trends within participants
+were found. Forty-ﬁve percent of the test subjects
+reported no visual discomfort across all four test days,
+asdidthreeofthefourcontrols.Jaschinskietal.(1998)
+also found comparable mean levels of eyestrain for
+Table 5
+Results of analysis of variance for ﬁeld study postural data
+Posture angle Monitor
+location
+Mean,
+deg (SD)
+Type III
+SS
+Fvalue Signiﬁcance Eﬀect size
+(diﬀerence
+between means,
+relative to SD)
+95% conﬁdence
+interval for
+diﬀerence
+between means
+Eye–ear line relative
+to horizontal (EEL-h)
+Hi 28.6 (6.3) 1164.8064 51.29 p50.0001 1.6 (4.6, 13.6)
+Mid 19.5 (5.3)
+Gaze angle relative
+to horizontal (GA-h)
+Hi /C01.1 (2.8) 2328.5574 184.81 p50.0001 4.2 (6.8, 20.0)
+Mid /C014.5 (3.6)
+Neck angle relative
+to vertical (NA-v)
+Hi 41.1 (7.9) 62.7944 3.08 p50.1045 0.2 (0.9, 3.3)
+Mid 43.2 (10.5)
+Thoracic bend (TB) Hi 137.2 (5.2) 20.1057 0.97p50.3448 0.2 ( /C01.2, 3.4)
+Mid 136.1 (5.9)
+Trunk angle (TA) Hi 100.7 (6.4) 13.2114 1.83 p50.2013 0.1 ( /C00.5, 2.5)
+Mid 101.7 (7.2)
+Table 6
+Comparison of original location of VDT, prior to the study and
+continuedfortheﬁrsttwoweeksofthestudy,andﬁnalpreferredVDT
+location
+Original location Final preference
+Hi Mid Between
+Hi 4 2 1
+Mid 4 3 0
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 321
+
+===== PAGE 10 =====
+
+Table 7
+Individual responses to preferred monitor position.aUnits in degrees
+Subject Order Preference GA-h GA-EELb EEL-h HA b NA-bb NA-v Trunk Preference comments made at end of study
+1-1 Mid/Hi Hi 1.1 /C019.0 20.1 162.7 124.9 52.7 92.5 No reason stated, although initially she noted if she could change
+the placement of the monitor height, she would like it somewhat
+higher (1–3
+00)
+14-8 Mid/Hi Hi 0.8 /C029.7 30.5 165.7 122.5 45.2 102.3 ReHi:Ireallylikethemonitorsetup,Ifeelclosertomywork,cit’s
+more comfortable looking more straight ahead
+16-10 Hi/Mid Hi /C06.7 /C037.2 30.5 156.4 134.3 35.9 99.9 Re Mid: No real perceived diﬀerence...will put it back to its
+original (noted he prefers it somewhat higher 1–300)
+18-11 Hi/Mid Hi /C04.5 /C023.2 18.8 150.6 128.2 41.9 100.0 Re Mid: need to look down at my monitor, tends to make me
+slouch in my chair to get to eye level
+20-12 Hi/Mid Hi /C01.3 /C033.1 31.8 164.5 125.0 42.7 102.4 Re Mid: it’s much too low; I’m either looking down at it or
+slouching so that I don’t have to look down
+2-2 Mid/Hi Hi /C00.9 /C032.2 31.4 156.0 134.3 34.6 101.2 ReHi:Can’ttelladiﬀerencesohewillleaveituntil/unlessitcauses
+pain (history of hand/forearm pain; also mentioned regular neck
+and shoulder ache although this is not reﬂected by in discomfort
+survey data collected each videotaping day).
+25-14 Mid/Hi Hi /C02.1 /C024.3 22.2 161.0 130.5 48.9 90.7 ReHi:Ilikehavingthemonitor ateyelevel, noeye stressandless
+neck pain
+6-3 Hi/Mid Hi 1.0 /C020.3 21.2 164.5 125.6 53.3 91.1 Re Mid: Too low; uncomfortable, more physical strain
+Average Hi: /C01.6 /C027.4 25.8 160.2 128.1 44.4 97.5
+Stdev: 2.8 6.6 5.7 5.3 4.5 7.0 5.1
+12-6 Mid/Hi Mid /C014.1 /C033.3 19.2 145.8 135.7 36.6 97.7 Doesn’tlikeHighpositionbecause‘‘Ihavetolookupanddowna
+greater distance to type’’ (look at ﬁngers)
+13-7 Hi/Mid Mid /C012.3 /C038.4 26.2 159.5 125.7 43.3 101.0 ReMid:IfeellikeIcanseemyscreensbetter-haveseveralwindows
+open at one time (caveat- my posture seems to be bending over
+more)
+15-9 Mid/Hi Mid /C019.4 /C037.9 18.5 162.8 108.5 54.3 107.3 Re Mid: likes original height best
+8-4 Mid/Hi Mid /C011.0 /C032.1 21.1 161.3 118.8 50.2 101.0 Re Hi: I keep moving closer to the screen; prefers it much lower
+(>3
+00)
+9-5 Hi/Mid Mid /C013.4 /C037.2 23.8 155.6 122.5 41.8 105.8 ReMid:Don’thavetokeepmyheadupsohigh,seemstoworkwell
+forme;screenisjustalittlefurtherawayeventhoughIamlooking
+down, this feels more ‘‘level’’
+Average Mid:/C014.0 /C035.7 21.7 157.0 122.2 45.2 102.6
+Stdev: 3.2 2.9 3.2 6.8 9.9 7.0 3.9
+aData for participant who preferred to have the monitor placed in between Hi and Mid is not included in this table.
+bThese values were not measured directly from the vidoe tapes, but were derived from the other measures at a later point in the data analysis process.
+cThe monitor distance was not changed for any subjects.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325322
+
+===== PAGE 11 =====
+
+monitorslocatedatHiorMidlocations.However,they
+identiﬁed an interaction between monitor distance
+and viewing angle, suggesting eyestrain was greater for
+theirsubjectswhenworkingwithamonitorlocatednear
+and Hi.
+3.3. Location preference
+At the end of the study, participants were asked to
+identifyaﬁnalpreferredlocationforthemonitor.Eight
+chose the Hi location, ﬁve chose the Mid location, and
+onechoseinbetween(Table6).Thisresultedinagroup
+mean preferred GA-h of/C06.58 (/C66.7), similar to ﬁeld
+studies by Grandjean et al. (1983) and Jaschinski et al.
+(1998). Follow-up at two weeks and at two months
+revealed no changes to these selections.
+A number of factors are likely to inﬂuence a VDT
+user’s viewing angle preference. One hypothesis regard-
+ing preference is that users choose a viewing angle that
+allows them to achieve reasonably low levels of visual
+and musculoskeletal strain, simultaneously, while not
+interfering with job performance, and within the
+physicalconstraintsoftheworkstation.Table7contains
+subjective preference comments from each participant,
+which, in their variety, provide some support for this
+hypothesis. A number of factors that could have
+inﬂuenced the participantsinthis study wereexamined,
+and are discussed below.
+3.3.1. Visual strain
+A preference for lower targets to be placed nearer
+than higher targets is consistent with much of the gaze
+anglepreferenceliterature,thoughMenozzietal.(1994)
+found no correlation between perceived visual exertion
+and viewing distance. In the current study, however,
+gaze angle (GA-h) did not correlate with viewing
+distance to the center of the screen, either at the
+beginning (normal location) or end of the study
+(preferred location). Viewing distances for the Hi and
+Mid locations were 56.8cm (/C67.5) and 57.1cm
+(/C67.9), respectively. Viewing distances to the top and
+bottomofthescreenarediﬀerentiallyaﬀectedbyscreen
+tilt. When tilt is less than the GA-h, the bottom of the
+screenisfurtherawaythanthetop.Thismightbemore
+likely to occur for a Mid (or lower) placement, in an
+attempt to avoid glare from overhead lighting. In the
+current study, however, self-selected screen tilt for the
+Hi location averaged 3.18 (/C64.5) tilted back from
+vertical, and was 10.18 (/C65.0) for the Mid location,
+both similar to their respective GA-h. Screen tilt
+averaged 108 in the Mid location, both for those who
+preferred that location and for those who chose the Hi
+location.
+Glare from windows or overhead lights can cause
+problemsforVDTusers.Inthecurrentstudy,however,
+there was no pattern between the presence, absence, or
+location of an oﬃce window and monitor placement
+preference.Theonlytwotestsubjectswhoworkedwith
+overhead lighting both preferred the Hi placement,
+along with six of the twelve who worked without
+overheadlighting;oneHi–HicontrolandoneMid–Mid
+control also worked with overhead lighting. No
+participants commented on the inﬂuence of lighting on
+their choice. In summary, then, no patterns were
+identiﬁed regarding the workstation factors viewing
+distance, screen tilt, or glare that would demonstrate a
+trend with regards to placement preference. It may be
+the case, then, that monitor placement preference in
+these participants reﬂected, in part, individual diﬀer-
+ences in viewing angle preference. This is supported by
+some of the subjective comments in Table 7, as well as
+the individual and average GA–EELs in that table.
+3.3.2. Musculoskeletal strain
+Mann–Whitney tests were performed to examine the
+inﬂuence of body part discomfort on gaze angle
+preference. Only those body partsfor whichdiscomfort
+wasmorefrequentlyregisteredweretested,andofthose
+tested only the test of neck discomfort approached
+signiﬁcance (p50.1). The test showed that the partici-
+pant’slocationpreferencegenerallycorrespondedtothe
+location in which he or she experienced less neck
+discomfort (Table 8).
+With the possible exceptions of the trends in neck
+discomfort and GA–EEL, no group-level explanations
+for monitor preference appeared in this data set. This
+ﬁnding supports the hypothesis presented earlier,
+describing preference as inﬂuenced by a number of
+factors,particularlywhennoegregiousconditionsexist.
+Inthepresenceofanegregiouscondition,itislikelythat
+preference within a group would be homogenous.
+However, when a number of factors exercise inﬂuence,
+yet none dominate, a heterogeneous response is more
+likely to result, as in this study. Several authors have
+concluded that optimal monitor location is that which
+meets the needs of the individual user (Tyrrell and
+Leibowitz, 1990; Jaschinski et al., 1998; Mon-Williams
+et al., 1999; Burgess-Limerick et al., 1998; Sommerich
+et al., accepted). This conclusion suggests a need for
+employee training in ergonomics which includes
+recognition of individual responses to visual and
+Table 8
+Correspondence between neck discomfort and ﬁnal preferred VDT
+location
+VDTlocation associated with less
+neck discomfort
+Final preference
+Hi Mid Between
+Hi 4 1 0
+Mid 1 3 1
+No diﬀerence 3 1 0
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 323
+
+===== PAGE 12 =====
+
+musculoskeletal stressors,means foreasy adjustmentof
+workstations,andtraininginworkstationadjustmentto
+meet individual needs.
+4. Conclusions
+When considered jointly, this study and previous
+research in the areas of gaze angle preference and
+monitorplacementsupportlocationofthecenterofthe
+monitor at mid-level or somewhat above, rather than
+below, as a reasonable starting location, based on
+objective and subjective research outcomes. However,
+individual diﬀerences in visual capabilities (such as the
+use of bifocals), physical make-up, work tasks, and
+otherworkstationdesignelementssignalthatﬁnetuning
+of placement is required to meet individual needs. As
+such,optimalplacementforsomeindividualsmayoccur
+below mid-level.
+Acknowledgements
+This research was supported, in part, by a gift from
+the Oﬃce Ergonomics Research Committee.
+References
+AS, 1990. Screen-based workstations, Part 2: Workstation furniture
+(AS 3590.2-1990). Standards Australia.
+Bauer, W., Wittig, T., 1998. Inﬂuence of screen and copy holder
+positions on head posture, muscle activity and user judgement.
+Appl. Ergon. 29, 185–192.
+Bergqvist, U.O., Knave, B.G., 1994. Eye discomfort and work
+with visual display terminals. Scand. J. Work Environ. Health
+20, 27–33.
+Bergqvist, U., Wolgast, E., Nilsson, B., Voss, M., 1995. Musculoske-
+letal disorders among visual display terminal workers: individual,
+ergonomic, and work organizational factors. Ergonomics 38,
+763–776.
+Borg,G.A.V.,1982.Psychophysicalbasesofperceivedexertion.Med.
+Sci. Sports Exercise 14, 377–381.
+Burgess-Limerick,R.,Mon-Williams,M.,Coppard,V.L.,2000.Visual
+display height. Human Factors 42 (1), 140–150.
+Burgess-Limerick, R., Plooy, A., Ankrum, D.R., 1998. The eﬀect of
+imposed and self-selected computer monitor height on posture and
+gaze angle. Clin. Biomech. 13, 584–592.
+Cailliet, R., 1991. Neck and Arm Pain, 3rd Edition. FA Davis
+Company, Philadelphia.
+Campbell, D.T., Stanley, J.C., 1963. Experimental and Quasi-
+Experimental Designs for Research. Houghton-Miﬄin, Boston.
+de Wall, M., van Riel, M.P.J.M., Aghina, J.C.F.M., Burdorf, A.,
+Snijders, C.J., 1992. Improving the sitting posture of CAD/CAM
+workers by increasing VDU monitor working height. Ergonomics
+35, 427–436.
+Faucett, J., Rempel, D., 1994. VDT-related musculoskeletal symp-
+toms: interactions between work posture and psychosocial work
+factors. Am. J. Ind. Med. 26, 597–612.
+Grandjean,E.,H.unting,W.,Pidermann,M.,1983.VDTworkstation
+design: preferred settings and their eﬀects. Human Factors 25,
+161–175.
+Gray, F.E., Hanson, J.A., Jones, F.P., 1966. Postural aspects of neck
+muscle tension. Ergonomics 9, 245–255.
+Grieco, A., Molteni, G., Piccoli, B., Perris, R., 1982. Field study in
+newspaperprinting:asystematicapproachtoVDUoperatorstrain.
+In:Grandjean,E.,Vigliani,E.(Eds.),ErgonomicAspectsofVisual
+Display Terminals. Taylor & Francis, London, pp. 185–194.
+Hagberg,M.,Silverstein,B.,Wells,R.,Smith,M.J.,Hendrick,H.W.,
+Carayon, P., Perusse, M., 1995. Work Related Musculoskeletal
+Disorders (WMSDs): A Reference Book for Prevention. Taylor &
+Francis, London.
+Hill,S.G.,Kroemer,K.H.E.,1986.Preferreddeclinationofthelineof
+sight. Human Factors 28, 127–134.
+H.unting, W., Laubli, T., Grandjean, E., 1981. Postural and visual
+loadsatVDTworkplaces.I. Constrainedpostures.Ergonomics 24,
+917–931.
+ISO,1992.Ergonomicrequirementsforoﬃceworkwithvisualdisplay
+terminals (VDTs)} Workplace requirements (ISO 9241-3). Inter-
+national Standards Organization.
+Jampel, R.S., Shi, D.X., 1992. The primary position of the eyes, the
+resettingsaccade,andthetransversevisualheadplane.Investigative
+Ophthalmol. Visual Sci. 33, 2501–2510.
+Jaschinski, W., Heuer, H., Kylian, H., 1998. Preferred position of
+visualdisplaysrelativetotheeyes:aﬁeldstudyof visualstrainand
+individual diﬀerences. Ergonomics 41, 1034–1049.
+Karasek, R.A., Pieper, C., Schwartz, J., 1985. Job Content Ques-
+tionnaire and User’s Guide (Revision 1.12 ed.). Columbia
+University, New York.
+Kendall,F.P.,McCreary,E.K.,1983.Muscles,TestingandFunction,
+3rd Edition. Waverly Press, Inc., Baltimore.
+Lie, I., Fostervold, K.I., 1994. VDT-work with diﬀerent gaze
+inclinations. Proceedings of the WWDU, pp. D40–D42.
+Menozzi, M., v. Buol, A., Krueger, H., Mi"ege, C., 1994. Direction of
+gaze and comfort: discovering the relation for the ergonomic
+optimization of visual tasks. Ophthal. Physiol. Opt. 14, 393–399.
+Miller, I., Suther, T.W., 1981. Preferred height and angle settings
+ofCRTandkeyboardfordisplaystationinputtask.Proceedingsof
+the Human Factors Society 25th Annual Meeting, Santa Monica,
+CA:TheHumanFactorsSociety,SantaMonica,CA,pp. 492–496.
+Mon-Williams, M., Burgess-Limerick, R., Plooy, A., Wann, J., 1999.
+Verticalgazedirectionandposturaladjustment:anextensionofthe
+Heuer model. J. Exp. Psychol. Appl. 5, 35–53.
+Raine,S.,Twomey,L.T.,1997.Headandshoulderposturevariations
+in 160 asymptomatic women and men. Arch. Phys. Med.
+Rehabilitation 78, 1215–1223.
+Sauter, S.L., Schleifer, L.M., Knutson, S.J., 1991. Work posture,
+workstation design,and musculoskeletal discomfort ina VDTdata
+entry task. Human Factors 33, 151–167.
+Sj/C28gaard, G., S/C28gaard, K., 1998. Muscle injury in repetitive motion
+disorders. Clin. Orthop. Relat. Res. (351), 21–31.
+Smith,M.J.,Cohen,B.G.F.,StammerjohnJr.,L.W.,Happ,A.,1981.
+Aninvestigationofhealthcomplaintsandjobstressinvideodisplay
+operations. Human Factors 23, 387–400.
+Sommerich,C.M.,Joines,S.M.B.,Psihogios,J.P.Eﬀectsof computer
+monitor viewing angle and related factors on strain, performance,
+and preference outcomes. Human Factors, accepted.
+Sotoyama,M.,Jonai,H.,Saito,S.,1996.Analysisofocularsurfacearea
+for comfortable VDTworkstationlayout. Ergonomics39, 877–884.
+Straker, L., Mekhora, K., 2000. An evaluation of visual display unit
+placement by electromyography, posture, discomfort and prefer-
+ence. Inte. J. Ind. Ergon. 26 (3), 389–398.
+Tyrrell,R.A.,Leibowitz,H.W.,1990.Therelationofvergenceeﬀortto
+reports of visual fatigue following prolonged near work. Human
+Factors 32, 341–357.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325324
+
+===== PAGE 13 =====
+
+Villanueva, M.B., Jonai, H., Sotoyama, M., Hisanaga, N., Takeuchi,
+Y., Saito, S., 1997. Sitting posture and neck and shoulder muscle
+activities at diﬀerent screen height settings of the visual display
+terminal. Ind. Health 35, 330–336.
+Villanueva, M.B., Sotoyama, M., Jonai, H., Takeuchi, Y., Saito, S.,
+1996. Adjustments of posture and viewing parameters of the eye to
+changes in the screen height of the visual display terminal.
+Ergonomics 39, 933–945.
+Watson, D.H., Trott, P.H., 1993. Cervical headache: an investigation
+of natural head posture and upper cervical ﬂexor muscle perfor-
+mance. Cephalgia 13, 272–284.
+Weber, A., Sancin, E., Grandjean, E., 1984. The eﬀects of various
+keyboardheightsonEMGandphysicaldiscomfort.In:Grandjean,
+E. (Ed.), Ergonomics and Health in Modern Oﬃces. Taylor &
+Francis, London, pp. 477–483.
+J.P. Psihogios et al. / Applied Ergonomics 32 (2001) 313–325 325

@@ -1,0 +1,1455 @@
+===== PAGE 1 =====
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=hihc20
+International Journal of Human–Computer Interaction
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/hihc20
+The Effect of Adjusting Screen Height and
+Keyboard Placement on Neck and Back
+Discomfort, Posture, and Muscle Activities during
+Laptop Work
+Mohammad Yadegaripour , Malihe Hadadnezhad , Ali Abbasi , Fereshteh
+Eftekhari & Afshin Samani
+To cite this article: Mohammad Yadegaripour , Malihe Hadadnezhad , Ali Abbasi , Fereshteh
+Eftekhari & Afshin Samani (2021) The Effect of Adjusting Screen Height and Keyboard Placement
+on Neck and Back Discomfort, Posture, and Muscle Activities during Laptop Work, International
+Journal of Human–Computer Interaction, 37:5, 459-469, DOI: 10.1080/10447318.2020.1825204
+To link to this article:  https://doi.org/10.1080/10447318.2020.1825204
+Published online: 04 Oct 2020.
+Submit your article to this journal 
+Article views: 140
+View related articles 
+View Crossmark data
+
+===== PAGE 2 =====
+
+The Effect of Adjusting Screen Height and Keyboard Placement on Neck and Back 
+Discomfort, Posture, and Muscle Activities during Laptop Work
+Mohammad Yadegaripour
+a
+, Malihe Hadadnezhad
+b
+, Ali Abbasi
+c
+, Fereshteh Eftekhari
+d
+, and Afshin Samani
+e
+a
+Corrective Exercise and Sports Injuries, Faculty of Physical Education and Sports Sciences, Kharazmi University, Tehran, Iran; 
+b
+Corrective Exercise 
+and Sports Injuries, Faculty of Physical Education and Sports Sciences, Kharazmi University, Tehran, Iran; 
+c
+Sports Biomechanics, Faculty of Physical 
+Education and Sports Sciences, Kharazmi University, Tehran, Iran; 
+d
+Sports Biomechanics, Department of Sports Sciences, School of Education and 
+Psychology, Shiraz University, Shiraz, Iran; 
+e
+Laboratory for Ergonomics and Work-related Disorders, Sports Sciences- Performance and Technology, 
+Department of Health Science and Technology, Aalborg University, Aalborg East, Denmark
+ABSTRACT
+Laptop work may increase risks of neck and back injuries in the long term due to awkward postures and 
+increased mechanical loads on cervical and lumbar spine. This study was intended to compare the 
+muscle activities and postural changes as well as discomfort of the neck and back resulted from the 
+laptop work in a conventional and adjusted setup. 20 young healthy males performed two 8-min 
+sessions of computer-mouse work and typing in a conventional setup and in an ergonomically adjusted 
+setup during laptop work. In the adjusted setup, the screen height was individually adjusted by a riser 
+and the keyboard was externally connected. The posture of the cervical, thoracic, lumbar spines, and 
+shoulder, as well as electromyographic activity of cervical and lumbar erector spinae, multifidus, upper 
+trapezius and anterior deltoid muscles, were recorded during the first and last 2 min of each computer 
+work session. Having completed the computer work session, furthermore, the participants scored their 
+neck, back, and general discomfort. The very research findings implied that adjusting the screen height 
+and keyboard placement was effective during laptop work in reducing the cervical (−4.53 deg) and 
+thoracic flexion angles (−3.14 deg) as well as the cervical erector spinae (−10.31%) and multifidus 
+(−15.57%) muscle activities, and resulted in lower discomfort. The typing task was associated with 
+higher muscle activity and awkward posture compared with the mouse work. As for workstation 
+setup, simple modifications may reduce risk factors of musculoskeletal complaints.
+1. Introduction
+Using laptop has become very popular owing to its portability 
+and light weight (Osama et al., 2018 ; Straker et al., 1997a ; 
+Woo et al., 2016 ). Many people, including students, have 
+a sedentary work pattern over long periods, especially as 
+working with electronic devices like laptops and tablets 
+(Ryan et al., 2011 ; Straker et al., 2018 ). Based on several 
+studies, the continuous use of a laptop has been found out 
+to be associated with increased risks of musculoskeletal com -
+plaints, specifically discomfort and pain in the neck, shoulder, 
+and back regions (Allafan et al., 2018 ; Arshad et al., 2020 ; 
+Hafeez et al., 2013 ; Janneck et al., 2018 ; Osama et al., 2018 ; 
+Werth & Babski-Reeves, 2014 ; Woo et al., 2016 ). Apart from 
+short- and long-term adverse effects caused by musculoskele -
+tal disorders (MSD) on individual’ quality of life and perfor -
+mance (Suka & Yoshida, 2008 ), MSD can result in a huge 
+economic burden (Stewart et al., 2003 ). Thus, studying possi -
+ble risk factors of neck and back discomfort, associated with 
+working with a laptop, can be effective to prevent and manage 
+such a device-related musculoskeletal complaints. As com -
+pared to desktop computers, previous studies have shown 
+that laptop work is associated with a greater neck flexion 
+(Reinert et al., 2018 ; Straker et al., 1997a ; Yu et al., 2018 ) 
+and discomfort (Bubric & Hedge, 2016 ; Straker et al., 1997a ). 
+A reason for this awkward working posture and increased 
+discomfort can be related to the attachment of the keyboard 
+to the screen in the design of the laptop, which does not allow 
+for fitting such computer components to the users’ anthropo -
+metrics parameters (Arshad et al., 2020 ; Werth & Babski- 
+Reeves, 2014 ). As the laptop screen and keyboard are attached 
+to each other, the proper screen height is purposely deemed 
+lower than the recommended one for computer work (Asundi 
+et al., 2012 ; Seghers et al., 2003 ). Placing the laptop on 
+a higher workstation surface may spontaneously adjust the 
+screen height, but this can increase an awkward posture risk 
+in shoulder, forearm and wrist as the keyboard placement 
+does, then, not follow the recommended ergonomic guide -
+lines (G. G. Simoneau & Marklin, 2001 ; Zhu & Shin, 2012 ). 
+Previous studies have indicated that an elevated keyboard 
+height might increase shoulder abduction and flexion angles 
+as well as shoulder and neck extensor muscle activities 
+(Erdelyil et al., 1988 ; Life & Pheasant, 1984 ; Zhu & Shin, 
+2012 ). Particularly, increased shoulder flexion and abduction 
+may result in increased the trapezius tonic activity (Aarås 
+et al., 2000 ; Aarås & Westgaard, 1987 ; Chiu et al., 2015 ; Life 
+& Pheasant, 1984 ). The elevated keyboard height can 
+CONTACT Mohammad Yadegaripour 
+ Myli1364@yahoo.com 
+ Sports Biomechanics and Sport Injuries, Kharazmi University, Tehran, Iran
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+2021, VOL. 37, NO. 5, 459–469
+https://doi.org/10.1080/10447318.2020.1825204
+© 2020 Taylor & Francis Group, LLC
+
+===== PAGE 3 =====
+
+subsequently cause the shoulder, neck, and whole body dis -
+comfort (Balliett et al., 1996 ; Bergqvist et al., 1995b ; Erdelyil 
+et al., 1988 ; Price & Dowell, 1998 ; Wu & Yang, 2005 ; Zhu & 
+Shin, 2012 ). In order to prevent such awkward forearm and 
+shoulder postures, along with raising the level of the laptop, 
+an external keyboard is also recommended (Arshad et al., 
+2020 ; Berkhout et al., 2004 ).
+Several studies have been conducted to explore using lap -
+top risers and external keyboard during laptop work. 
+However, these studies have rarely addressed the load distri -
+bution on the neck, shoulder and back muscles objectively 
+(Asundi et al., 2012 ; Berkhout et al., 2004 ; Sommerich et al., 
+2002 ). Asundi et al. ( 2012 ) compared postural changes while 
+using a simple inclined stand under the laptop, as well as 
+a commercially available riser with an external mouse and 
+a keyboard. Their study showed that using a keyboard, riser, 
+and a separate mouse reduced neck flexion. However, no 
+information was observed in their findings about the level of 
+neck, back, and shoulder muscle activities. Having simulta -
+neously evaluated muscle activities and postural changes, 
+further insight would be provided into the biomechanical 
+loads associated with the workstation setup (Asundi et al., 
+2012 ; Szeto & Lee, 2002 ). Berkhout et al. ( 2004 ) have demon -
+strated that the discomfort and the mechanical load is reduced 
+on the neck by increasing the laptop height and using an 
+external keyboard. Additionally, the user performance (the 
+number of correct typed entries in a unit of time) has been 
+improved (Berkhout et al., 2004 ). However, this investigation 
+has been limited to assess the discomfort and the torque 
+around the neck, and the load distribution on the neck and 
+back muscles has not been assessed. Low back pain has often 
+been reported to be associated with sitting and working with 
+computers or laptop (Anuar et al., 2016 ; Hafeez et al., 2013 ; 
+Janneck et al., 2018 ; Ren et al., 2019 ; Stewart et al., 2003 ). 
+Furthermore, the back position affects the posture and muscle 
+load in the neck and shoulder (Aarås et al., 2000 ). Similarly, 
+back muscle activities are affected by the shoulder/neck and 
+upper back postures (Kamil & Dawal, 2015 ; Keyserling et al., 
+2005 ; Lee et al., 2017 ). Therefore, it is important to evaluate 
+the full picture of neck, shoulder, and back posture and 
+muscle activities during laptop work. Although computer 
+mouse work and typing on a keyboard are reckoned very 
+typical computer tasks, both tasks have been shown to impose 
+quite different demands in terms of neck and shoulder pos -
+ture and muscle activities (Aarås et al., 2000 ; Szeto et al., 2009 ; 
+Won et al., 2009 ). In addition, previous studies reported 
+somewhat contradictory findings as comparing mouse work 
+and typing task in terms of difference of neck and shoulder 
+posture and muscle activities (Cooper & Straker, 1998 ; 
+J. Dennerlein et al., 2002 ; Szeto et al., 2009 ; Yang & Cho, 
+2012 ). Thus, studying the load distribution in these two tasks 
+and the workstation setup effect on the load distribution 
+seems mostly relevant.
+As outlined above, to the best of our knowledge, no study 
+has simultaneously investigated the workstation setup effect 
+on the activity of neck, shoulder, and back muscles as well as 
+the postural changes during laptop work. In particular, pre -
+vious studies have not compared the workstation setup effect 
+on back muscle activities during laptop work. Thus, this study 
+was purposed to compare the muscle activities, postural 
+changes, and discomfort of the neck and back during the 
+laptop work in both conventional and adjusted setups (adjust -
+ing screen height and keyboard placement). Even though the 
+muscle activity level is often quantified by the amplitude of 
+EMG signals, i.e., EMG RMS, the direct measure relevance of 
+EMG amplitude has been debated in predicting the muscu -
+loskeletal disorder risk in low load tasks (Hansson, Balogh, 
+et al., 2000 ). As an alternative relative rest time (RRT) has 
+been suggested to be effective in reflecting the muscular 
+loading risk in such tasks, and it is less sensitive to inter- 
+subject variability (Hansson, Nordander, et al., 2000 ). 
+Previous studies have demonstrated that the low degree of 
+RRT in neck/shoulder muscles has been being deemed a risk 
+factor to develop work-related musculoskeletal disorders 
+(Thorn et al., 2007 ; Veiersted et al., 1993 ). Thus, the RRT 
+analysis along with the muscle activity level and postural 
+change can be useful to compare laptop work in both con -
+ventional and adjusted setups. It was hypothesized that the 
+neck, shoulder, and lumbar flexion angles, the neck and 
+shoulder muscle activities and the neck and back discomfort 
+would be lower (but relative rest time of the neck and 
+shoulder muscles would be higher) during the laptop work 
+in the adjusted setup compared with the conventional one.
+2. Materials & methods
+2.1. Participants and ethical consideration
+Twenty healthy male university students (age: 27.05 ± 
+3.5 years, height: 176.9 ± 5.5 cm, weight: 71 ± 11.8 kg, BMI: 
+22.4 ± 3.0) participated voluntarily in this study. The partici -
+pants have been frequently using computer or laptop with 
+5.6 ± 3.1 hours a day. The physical activity readiness ques -
+tionnaire (PAR-Q) (Cardinal & Cardinal, 1995 ) and the mod -
+ified Standardized Nordic Questionnaires (Dawson et al., 
+2009 ) were adopted to verify the participant healthiness. 
+Histories of neurological-cardiovascular problems, significant 
+back and neck pains (in the past 6 months) resulted in greater 
+than 3 days off work or school, current neck, or low back 
+pains at the time of the research were included in the study 
+exclusion criteria. All the procedures and experimental pro -
+tocols performed, including Ethics for human participants, 
+were approved by the Institutional Review Board of Human 
+Subjects at Kharazmi University, Tehran, Iran. The partici -
+pants have been thoroughly provided with instructions so as 
+to explain the study purpose and procedures, and they signed 
+a consent form following highly informed.
+2.2. Experimental protocol
+Initially, the participants were introduced to the experimental 
+procedure, and familiarized with the experimental computer 
+task (as described below). Then, the skin surface preparation 
+(i.e., shaving and rinsing with alcohol) was carried out to put 
+the EMG electrodes according to the SENIAM guidelines 
+(Hermens et al., 2000 ). Having placed the electrode, inertial 
+motion sensors were located based on the manufacturer’s 
+recommendations (Noraxon U.S.A. Inc, 2014 ) to assess 
+460
+ M. YADEGARIPOUR ET AL.
+
+===== PAGE 4 =====
+
+posture. Finally, the workstation was set up. The tasks file and 
+the word files related to performing the typing and mouse 
+work tasks were prepared on the desktop to the participant, 
+and the chair height was adjusted for each individual so that 
+the feet were placed on the ground, and the knee angle would 
+be 90°.
+The participants sat on a chair without backrest and armrests 
+to reduce motion artifact caused by physical contact on the 
+electrode surface. They performed a computer task with two 
+workstation setups, namely, the conventional and the adjusted 
+ones. The laptop was placed on a desk, and the desk height was 
+adjusted to be 5 cm above the elbow level corresponding to the 
+requirements supposed for light precision tasks (Sanders & 
+McCormick, 1998 ; Simoneau & Marklin, 2001 ). In the conven -
+tional setup, the laptop was placed so that its keyboard (spacebar 
+key) was some 10 cm away from the near edge of the desk 
+(Kroemer & Grandjean, 1997 ). In the adjusted setup, the screen 
+height was specifically adjusted to each individual and the key -
+board was externally connected. A commercially available height 
+adjustable riser (Cooling Pad, 638 (A), china; a maximum of 
+18 cm in five steps) was placed underneath the laptop, and the 
+screen height was adjusted so that the top edge of the laptop 
+screen was at the level of the participants’ eye. The distance 
+deemed between the riser and the table edge was some 22 cm. 
+An external keyboard (XP -product, XP-8004, China; keyboard 
+dimension: 38.7 × 12.2 × 2.3 cm) was located 10 cm away from 
+the table edge (to get the same distance between keyboard and 
+the table edge in both setups), and was used by the individual in 
+the adjusted setup ( Figure 1. (A,B )).
+Prior to the laptop work, EMG was recorded from the 
+muscles (as mentioned in the next section) over an instructed 
+10-s period rest (a reference-sitting posture) where 
+participants sat in a relaxed position with their hands resting 
+on the laps. Each muscle activity was used during the refer -
+ence sitting in order to calculate a resting threshold to be used 
+in computing the relative rest time of each muscle (Samani 
+et al., 2009a ).
+As for in each setup (i.e., conventional and adjusted), the 
+computer tasks contained two 8-min segments with an 
+1–2 min in-between break to score discomfort and save 
+EMG and posture data in a computer. One of the segments 
+involved computer mouse work, and the other included 
+typing on the laptop ( Figure 1. C). In the typing task, the 
+participant typed a text about body discomfort and sitting 
+posture (McGill et al., 2003 ; Messing et al., 2008 ; Woo et al., 
+2016 ) displayed in the upper part of the screen (as a pdf file 
+on the desktop) for 8 minutes with a self-selected pace. 
+Throughout the typing task, the participants were not 
+allowed to use the mouse or to return the written words 
+to correct them (Xie et al., 2015 ). As with the mouse work 
+tasks, the participants copied a certain section of the text 
+(about body discomfort and sitting posture) contained in 
+the word file on the desktop screen, and pasted into a word 
+table already prepared for this task. The text piece to copy 
+and paste was highlighted green, and numbered to indicate 
+the pasting location in the table. In each cell of the table, 
+they received a textual command to change the font size, 
+weight, and color or highlight the text. The participants 
+were required to make changes only with the mouse. They 
+placed their inactive arm on the desk, and were not allowed 
+to lean on the inactive arm during the mouse work tasks. As 
+for both tasks, no limitation was imposed on trunk move -
+ments and leg splay but the participants were not allowed to 
+cross their legs or change their sitting position on the seat 
+pan. The orders of performing the mouse work and the 
+typing task in each setup, and of adjusting the setups were 
+randomly chosen and counter-balanced across the partici -
+pants. There were five-minute breaks between the two 
+setups.
+2.3. Data recordings
+The unilateral electromyographic (EMG) activities of cervical 
+erector spinae (CES), anterior deltoid (AD), upper trapezius 
+(UT), lumbar erector spinae (LES) and multifidus (MF) mus -
+cles as well as angular displacements of cervical, thoracic and 
+lumbar spines and shoulder joint in sagittal plane were 
+recorded in the first and last 2 minutes of each segment but 
+the participants were not informed of the recording initiation. 
+The recording operations were initiated following the 
+first minute to provide the participants with a minute to be 
+acclimated. Having immediately completed each task, the 
+participants scored their level of neck, back, and general 
+discomfort on a 0–10 scale. Discomfort was rated using an 
+adapted body map and discomfort scale with end-point 
+anchors of ‘no discomfort: 0' and 'unbearable discomfort: 10' 
+(Antle et al., 2015 ; Messing et al., 2008 ). Having completed 
+the laptop work in both setups, furthermore, the participants 
+were asked to indicate which the workstation setup was gen -
+erally more comfortable (as participants' setup preference to 
+Figure 1. A & B. Laptop workstation setups. A: The conventional setup (laptop 
+work while the laptop was on the desk). B: The adjusted setup (laptop work 
+while use the riser and the external keyboard on the desk). C: A block diagram of 
+the experimental procedures and data recording periods.The electromyography 
+and posture data were recorded (black color) for 120 second at the beginning 
+(2–3 minutes) and at the end of each task (7–8 minutes). Participants scored 
+body discomfort after completing of each task (gray color). Further, The EMG 
+data was recorded during instructed rest.
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+ 461
+
+===== PAGE 5 =====
+
+use laptop) and which of these setups was more comfortable 
+for their back and neck.
+A wireless surface EMG Noraxon DTS system (Noraxon 
+Inc., USA) was used to collect electromyographic activities of 
+CES, AD, UT, LES and MF muscles. Self-adhesive, pregelled, 
+surface disposable Ag/AgCl electrodes (F-RG1, Skintact, 
+Austria) were used for the signal collection. Inter electrode 
+distance was set to 2 cm. Electrodes were then connected to 
+wireless EMG sensors (DTS EMG sensors; Noraxon) by EMG 
+pinch lead wires (CMRR > 100 dB, Gain: 500). The signals 
+were transmitted to a 16-bit analogue to digital (A/D) con -
+verter receiver (Noraxon DTS receiver), and saved to 
+a computer at a rate of 1500 Hz using the MR3 software 
+(Version 3.10, Noraxon). The same investigator placed the 
+electrodes on all the participants. The placement over the 
+CES was approximately 1 cm to the right side of the C5 
+vertebra. Specifically, the electrodes were placed for UT at 
+the midpoint between C7 and the acromion. As for AD, the 
+electrodes were located at 2 cm distal and anterior to the 
+acromion, and as for LES, the electrodes were placed at 
+4 cm lateral from the L1 spinous process. As with MF, the 
+electrodes were aligned with a line from posterior superior 
+iliac spine to the interspace between L1 and L2, and they were 
+placed at the L5 spinous process level (i.e. about 2– 3 cm from 
+the midline) (Basmajian & Blumenstein, 1980 ; Hermens & 
+Freriks, 2017 ).
+The angular displacement was captured by Noraxon’s 3D 
+MyoMotion analysis system consisting of a set of (1 to 16) 
+sensors using Inertial Sensor technology (MyoMotion 
+Clinical, Noraxon U.S.A. Inc.). In the present study, five 
+motion sensors were located on the bony landmarks of the 
+external occipital protuberance, C7, T12, the bony area of 
+the sacrum, and distal section of upper arm according to the 
+manufacturer’s recommendations to measure cervical, thor -
+acic, lumbar, and shoulder angular displacements. The pro -
+cedure details of angular displacement measurement have 
+been described (Noraxon U.S.A. Inc, 2014 ; Xie et al., 2018 ). 
+Each sensor could provide a quaternion indicating its own 
+spatial orientation. As a further matter, Noraxon’s MR3 
+Software automatically converts the quaternion data into 
+angular displacement using a rigid body model with the 
+joint segments having a sensor attachment. The angular 
+displacement corresponded to shoulder, cervical, thoracic 
+and lumbar flexion/extension was measured. Prior to the 
+experiment start, a resting trial was recorded as the partici -
+pant standing upright and looking straight ahead to capture 
+reference (null) positions of the sensors.
+2.4. Data analysis
+EMG signals were digitally band-pass filtered (Butterworth, 
+4th order, 20–500 Hz). Furthermore, a second order 
+Butterworth digital filter of 30 Hz (high pass) was applied to 
+remove the cardiac signal (Montes et al., 2017 ). To avoid any 
+transient effect, the first and last 10 seconds of mouse work 
+and typing tasks were removed before processing. Thus, 
+a 100-second EMG recording was used to analyze the dis -
+cussed tasks.
+Root mean square (RMS) was computed across 500-ms 
+non-overlapping epochs on EMG signals from each muscle, 
+and then the RMS values were averaged across the epochs (St- 
+Onge et al., 2017 ). As a further matter, relative rest time 
+(RRT) was computed across 10-second non-overlapping 
+epochs, and averaged across the epochs. RRT is reckoned 
+a value between 0 and 100% representing the percent time 
+that the RMS of the EMG computed over a 100 ms was below 
+a set threshold for a minimum of 250 ms (Hermens & 
+Vollenbroek-Hutten, 2004 ; Samani et al., 2009a ). The resting 
+threshold was obtained based on signals recorded during the 
+reference sitting, and adjusted with increase or decrease in 5% 
+steps such that RRT was at least 99% in the rest period (St- 
+Onge et al., 2017 ). The mean (average) cervical, thoracic, 
+lumbar, and shoulder flexion/extension angles were calculated 
+across 100 seconds of the posture recording at the beginning 
+(2–3 minutes) and at the end of each task (7–8 minutes) to 
+assess the postural configuration during the tasks (Straker 
+et al., 1997a ; Yang & Cho, 2012 ; Yu et al., 2018 ).
+2.5. Statistical analysis
+SPSS version 23.0 (IBM, USA) was used to conduct the 
+statistical analysis. A linear-mixed model (LMM) was applied 
+to fit the outcome measures, i.e., RMS, RRT, posture and 
+discomfort score (West et al., 2014 ). To find the most parsi -
+monious and the best fit model, a “top-down” modeling 
+strategy (West et al., 2014 ) was applied. Moreover, worksta -
+tion setup (conventional and adjusted), tasks (mouse work 
+and typing) and time (beginning and end) for RMS, RRT and 
+average postural angles as well as workstation setup (conven -
+tional and adjusted) and tasks (mouse work and typing) for 
+the discomfort rate were introduced as within-subject factors 
+of the LMM. Having found out the fitting model, the residual 
+of the model was checked to verify its normality. When 
+a significant interactive effect was indicated, a Bonferroni 
+adjustment was performed to compare the stratified dataset. 
+In all the tests, significance was assumed at P < .05. In order 
+to better compare the significant interaction results of setup × 
+task, the percentage difference was calculated in RMS/RRT/ 
+postural angles of the same task (mouse work or typing) 
+between conventional and adjusted setups according to the 
+following formula: 
+[(RMS 
+of type 
+in adjusted setup- RMS 
+of type 
+in  
+conventional setup)/RMS 
+of type 
+in conventional setup] ×100.
+3. Results
+3.1. Muscle activities
+The workstation setup had a significant effect on the RMS of 
+CES and MF muscles ( Table 1 ). In the adjusted setup, the 
+RMS of CES and MF was significantly lower as compared to 
+the conventional one, but the LES indicated a tendency 
+toward a slight higher RMS in the adjusted setup ( Table 1 
+and Figure 2 ). Additionally, the task type significantly affected 
+the RMS of all muscles ( Table 1 ). RMS of all muscles was 
+deemed significantly higher in the typing task as compared 
+462
+ M. YADEGARIPOUR ET AL.
+
+===== PAGE 6 =====
+
+with the mouse work task ( Figure 2 ). Interaction of setup × 
+task had a significant effect on the AD ( Table 1 ). RMS of 
+the AD was much less in adjusted setup than the conventional 
+setup during typing [−21.11%]. However, it did not have any 
+marked sign of a difference [5.02%] in the mouse work task 
+( Figure 2 ).
+RRT was significantly higher for the CES in the adjusted setup 
+compared with the conventional one ( Table 1 and Figure 3 ). As 
+for all muscles, RRT was significantly reckoned lower in the type 
+task as compared with the mouse work one ( Table 1 and Figure 3 ). 
+Interaction of setup × task indicated a significant effect on RRT of 
+the CES and AD muscles ( Table 1 ). RRT was reckoned much 
+more in the CES during typing in adjusted setup as compared 
+with the conventional [118.84%], but this difference was modest 
+in the mouse work task [59.26%] ( Figure 3 ). Finally, RRT was 
+reckoned much more for the AD in the adjusted setup compared 
+with the conventional setup [24.68%] during typing. However, 
+this difference was insignificant in the mouse work task [−8.87%] 
+( Figure 3 ).
+3.2. Posture
+The workstation setup indicated a significant effect on the cervi -
+cal and thoracic flexion angles ( Table 2 ). Furthermore, the task 
+type was demonstrated to have a significant effect on the 
+shoulder, neck, thoracic and lumbar flexion angles ( Table 2 ). 
+The absolute posture difference between workstation setups 
+(conventional-adjusted) and tasks (typing-mouse work) has 
+been shown in Figure 4 . As with the adjusted setup, the cervical 
+and thoracic segments of the spine were positioned in a less 
+flexed posture compared with the conventional setup ( Table 2 
+and Figure 4 , A). The cervical, thoracic, and shoulder flexion was 
+significantly reckoned more in the type task as compared with 
+the mouse work one. However, the lumbar flexion was less in the 
+type task ( Table 2 and Figure 4 , B). Interaction of setup × task 
+had a significant effect on the cervical, thoracic, and shoulder 
+flexion ( Table 2 ). The cervical and thoracic flexion was reckoned 
+much more in the conventional setup than the adjusted setup 
+[6.80 and 4.75 deg, respectively] during mouse work task. 
+However, this very difference was modest in the typing task 
+[2.27 and 1.52 deg, respectively]. During typing, the shoulder 
+flexion was much more in the conventional setup as compared 
+with the adjusted one [4.66 deg] whereas it did not have any 
+marked sign of a difference [0.52 deg] in the mouse work task.
+3.3. Discomfort
+Laptop work has increased discomfort in the neck and back in 
+both workstation setups. Nonetheless, the neck discomfort 
+tended to be lower in the adjusted setup compared with the 
+conventional setup ( Table 3 and Figure 5 ). Further, 84% of the 
+participants reported that the adjusted setup was generally 
+more comfortable, and they preferred this setup for work 
+Table 1. The results of the statistical analysis performed to analyze the RMS and RRT of muscles during laptop work.
+FACTOR CES UT AD LES MF
+RMS setup F
+1, 54 
+= 8.28; P =.01 F
+1, 55.69 
+= 1.39; P =.24 F
+1, 17.99 
+=.63; P =.44 F
+1, 78.34 
+= 3.70; P =.06 F1, 70.36 = 5.61; P =.02
+task F
+1, 54 
+=90.25; P < .01 F
+1, 55.69 
+= 62.01; P < .01 F
+1, 19.05 
+= 15.98; P < .01 F
+1, 25.03 
+= 52.0; P < .01 F1, 26.52 = 62.05; P <.01
+time F
+1, 54 
+=.01; P =.97 F
+1, 55.69 
+=.01; P =.97 F
+1, 16.87 
+= 1.64; P =.22 F
+1, 67.05 
+= 3.69; P =.06 F1, 94.79 =.12; P =.73
+setup × task F
+1, 72 
+= 2.53; P =.12 F
+1, 58.63 
+= 33; P =.57 F
+1, 40.81 
+= 5.36; P =.03 F
+1, 91.46 
+=.09; P =.76 F1, 107.94 = 1.11; P =.29
+setup × time F
+1, 72 
+= 1.24; P =.27 F
+1, 58.63 
+=.15; P =.70 F
+1, 77.32 
+=.18; P =.67 F
+1, 56.50 
+= 3.80; P =.06 F1, 109.31 =.74; P =.39
+task × time F
+1, 72 
+=.04; P =.85 F
+1, 58.63 
+=.01; P =.92 F
+1, 61.08 
+= 3.95; P =.05 F
+1, 91.29 
+= 1.44; P =.23 F1, 107.86 =.17; P =.68
+Setup × task × time F
+1, 72 
+= 1.86; P =.18 F
+1, 58.63 
+=.95; P =.33 F
+1, 72.00 
+=.65; P =.42 F
+1, 91.14 
+=.46; P =.50 F1, 94.51 = 2.84; P =.09
+RRT setup F
+1, 26.67 
+= 8.61; P =.01 F
+1, 57 
+=.67; P =.42 F
+1, 57 
+=.01; P =.93 F
+1, 19 
+=.93; P =.35 F1, 133 =.65; P =.42
+task F
+1, 18.88 
+= 24.91; P <.01 F
+1, 57 
+= 34.13; P < .01 F
+1, 57 
+= 30.72; P =.01 F
+1, 19 
+= 25.02; P < .01 F1, 133 = 91.46; P <.01
+time F
+1, 32.18 
+=.12; P =.73 F
+1, 57 
+=.01; P =.90 F
+1, 57 
+=.86; P =.36 F
+1, 19 
+=.83; P =.37 F1, 133 =.79; P =.37
+setup × task F
+1, 36.52 
+= 7.92; P =.01 F
+1, 76 
+=.01; P =.91 F
+1, 76 
+= 6.23; P =.01 F
+1, 76 
+= 3.54; P =.06 F1, 133 =.12; P =.73
+setup × time F
+1, 36.52 
+=.06; P =.80 F
+1, 76 
+=.03; P =.86 F
+1, 76 
+=.33; P =.57 F
+1, 76 
+=.37; P =.54 F1, 133 =.60; P =.44
+task × time F
+1, 36.52 
+=.07; P =.80 F
+1, 76 
+=.06; P =.80 F
+1, 76 
+= 1.22; P =.27 F
+1, 76 
+= 2.22; P =.14 F1, 133 =.05; P =.81
+Setup × task × time F
+1, 36.52 
+=.03; P =.85 F
+1, 76 
+=.40; P =.53 F
+1, 76 
+=.00; P =.99 F
+1, 76 
+=.42; P =.52 F1, 133 = 2.92; P =.09
+Note. RMS: root mean squared, RRT: relative resting time, CES: cervical erector spinae, UT: upper trapezius, AD: anterior deltoid, LES: lumbar erector spinae, MF: 
+multifidus. 
+Figure 2. The mean and standard error of root mean square (RMS) of muscles 
+during laptop work.
+CES: cervical erector spinae, UT: upper trapezius, AD: anterior deltoid, LES: 
+lumbar erector spinae, MF: multifidus. * = Significant differences between work -
+station setups (
+*
+- - -) and tasks (
+*
+—), p < .05. 
+Figure 3. The mean and standard error of relative rest time (RRT) of muscles 
+during laptop work.
+CES: cervical erector spinae, UT: upper trapezius, AD: anterior deltoid, LES: 
+lumbar erector spinae, MF: multifidus. * = Significant differences between work -
+station setups (–*–) and tasks (–*), p < .05. 
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+ 463
+
+===== PAGE 7 =====
+
+with laptops. Also, some 67% of them reported that it was 
+specifically less discomforting for their neck and back.
+4. Discussion
+As compared with the conventional setup, the results indicated 
+that the activity level of CES and MF muscles as well as the cervical 
+and thoracic flexion angles were lower (and CES resting was 
+higher) during the laptop work in the adjusted setup, but its LES 
+indicated a slightly higher activity level. As for all the muscles, the 
+activity level as well as the cervical, thoracic, and shoulder flexion 
+was reckoned higher (and RRT of all muscles was deemed lower). 
+However, the lumbar flexion was lower in the typing task as 
+compared with the mouse work. In the adjusted setup, neck 
+discomfort tended to be lower compared with the conventional 
+setup, and adjusted setup was generally less discomforting to 
+participants’ neck and back.
+For supporting the hypothesis and according to Villanueva 
+et al. ( 1997 ) findings, the higher activity level (and lower 
+resting) of CES is concomitant with the higher neck flexion 
+angle in the conventional setup as compared with the adjusted 
+setup. Villanueva et al. ( 1997 ) examined the influence of 
+adjusting screen height in video display terminals. They 
+found lower neck and shoulder muscle activities with 
+increased screen height during mouse work. They have also 
+reported a high correlation coefficient between the extent of 
+neck flexion and the neck extensor muscle activities. Further, 
+Yu et al. ( 2018 ) have shown that, compared to the desktop 
+computer, using tablet, and laptop resulted in increased neck 
+flexion and shoulder elevation. Hence, it seems that prolonged 
+laptop work may further increase the risk of developing neck 
+disorders in the conventional setup, as the participants experi -
+enced a more flexed neck and an increase in the mechanical 
+load imposed on the neck (Kleine et al., 1999 ; Kusumawati & 
+Muslim, 2019 ; Reinert et al., 2018 ; Sommerich et al., 2002 ; 
+Szeto & Lee, 2002 ; Yu et al., 2018 ).
+One of the important and interesting findings obtained as 
+a result of the present study was that MF muscle activities were 
+lower but LES muscle activities tended to be slightly higher in the 
+adjusted setup as compared with the conventional one. 
+Nevertheless, no significant difference was found out in the lum -
+bar flexion angle between the conventional and adjusted setups. 
+However, the thoracic flexion angle was reckoned higher in the 
+conventional setup compared with the adjusted setup ( Figure 3 ). 
+Therefore, it appears that the discrepancy between the trend of 
+MF and LES muscle activities can be attributed, across the work -
+station setups, to the difference of the thoracic posture in work -
+station setups (Aarås et al., 2000 ; Kamil & Dawal, 2015 ; Keyserling 
+et al., 2005 ) and likely the functional role of these muscles. Even 
+Table 2. The results of the statistical analysis performed to analyze the mean flexion angles of cervical, thoracic, lumbar spine and shoulder during laptop work.
+FACTOR CERVICAL THORACIC LUMBAR SHOULDER
+setup F
+1, 54.44 
+= 11.43; P < .01 F
+1, 17 
+= 16.04; P < .01 F
+1, 56.86 
+=.01; P =.91 F
+1, 51.52 
+= 2.05; P =.16
+task F
+1, 54.44 
+= 36.09; P < .01 F
+1, 17 
+= 24.79; P < .01 F
+1, 56.86 
+= 21.44; P < .01 F
+1, 51.42 
+= 6.57; P =.01
+time F
+1, 54.19 
+=.08; P =.77 F
+1, 17 
+=.01; P =.88 F
+1, 56.73 
+=.38; P =.54 F
+1, 51.42 
+=.33; P =.57
+setup × task F
+1, 71.70 
+= 20.92; P < .01 F
+1, 68 
+= 36.43; P < .01 F
+1, 63.61 
+=.22; P =.64 F
+1, 67.94 
+= 9.19; P < .01
+setup × time F
+1, 70.51 
+=.28; P =.60 F
+1, 68 
+= 4.18; P =.04 F
+1, 62.56 
+=.36; P =.55 F
+1, 66.61 
+= 2.09; P =.15
+task × time F
+1, 70.51 
+=.01; P =.95 F
+1, 68 
+=.76; P =.39 F
+1, 62.56 
+=.11; P =.74 F
+1, 66.61 
+= 2.84; P =.10
+Setup × task × time F
+1, 70.51 
+=.74; P =.39 F
+1, 68 
+=.14; P =.71 F
+1, 62.56 
+=.70; P =.40 F
+1, 66.61 
+=.18; P =.68
+Figure 4. The mean of the differences in posture (flexion/extension angles) of 
+cervical, thoracic, lumbar spines and shoulder between workstation setups (A: 
+conventional setup- adjusted setup) and tasks (B: type task- mouse task) during 
+laptop work.
+* = Significant differences between workstation setups and tasks, p < .05. 
+Positive differences indicates higher flexion angles in the conventional setup/ 
+type task whereas negative differences indicates higher flexion angles in the 
+adjusted setup/mouse task. 
+Table 3. The results of the statistical analysis performed to analyze body discomfort during laptop work.
+FACTOR NECK DISCOMFORT BACK DISCOMFORT GENERAL DISCOMFORT
+setup F
+1, 40 
+= 3.09; P =.09 F
+1, 41.96 
+= 1.50; P =.23 F
+1, 20 
+=.27; P =.61
+task F
+1, 40 
+=.31; P =.58 F
+1, 41.96 
+=.41; P =.53 F
+1, 20 
+=.14; P =.71
+setup × task F
+1, 20 
+=.00; P = 1.00 F
+1, 20.54 
+=.18; P =.67 F
+1, 20 
+= 1.12; P =.30
+Figure 5. The mean and standard error of discomfort during laptop work.
+464
+ M. YADEGARIPOUR ET AL.
+
+===== PAGE 8 =====
+
+though LES and MF synergistically counter-act the spinal flexion, 
+MF has the most advantageous lever arm for posterior sagittal 
+rotation as it mainly inserts at the spinous processes whereas LES 
+inserts at the transverse processes. Thus, it is expected that MF 
+plays a more active role in holding the flexed trunk (Mork & 
+Westgaard, 2009 ). A study conducted by Kamil and Dawal ( 2015 ), 
+indicated that a significant correlation was observed among the 
+pelvic, trunk angles and back muscles activities. Also, the findings 
+revealed that the participants demonstrated the least level of MF 
+muscle activities when sitting with an extended upper trunk 
+posture (Kamil & Dawal, 2015 ). As compared with adjusted 
+setup, the observed longer period of postures with increased 
+thoracic spine flexion in the conventional setup may have 
+a negative effect on the thoracic spine musculoskeletal structures 
+and other related structures such as shoulder joint (Briggs et al., 
+2007 ; Clark & Lucett, 2010 ; Kleine et al., 1999 ; Klussmann et al., 
+2008 ). Also, Excessive lumbar spine flexion may increase the 
+tension in the lumbar passive structures during sitting, and it 
+may result in back pain in the long term (Jia & Nussbaum, 
+2018 ; Mork & Westgaard, 2009 ; Mörl & Bradl, 2013 ). Thus, 
+considering the improvement in ergonomic workplace (Janneck 
+et al., 2018 ; Kaliniene et al., 2016 ; Klussmann et al., 2008 ), using 
+appropriate interventions are required to reduce thoracic and 
+lumbar spine flexion during laptop work. Although the adjusted 
+setup reduced the thoracic flexion and decreased MF muscle 
+activities, this setup has not significantly affected the lumbar 
+spine posture. Observing a flexed lumbar spine in both work -
+station setups may be due to the participants’ a motor habit in 
+performing computer work, rendering workstation setup adjust -
+ment ineffective in altering the lumbar spine posture.
+The activity level of all muscles was reckoned higher (and 
+muscle resting of all muscles was lower) in the typing task as 
+compared with the mouse work task in both setups. As 
+expected, the higher shoulder flexion was concomitant with 
+a higher activity of the AD muscle during the typing task 
+compared with the mouse work task (Hermans et al., 1998 ). 
+During typing task, the neck was more flexed and lumbar 
+flexion was lower than the mouse work task. This can likely 
+be due to the fact that the participants typed with both hands, 
+but they did the mouse work with one hand; this may likely be 
+because of the higher shoulder flexion during typing task. In 
+addition, the activity of the CES, LES and MF muscles might be 
+enhanced to stabilize the spine and counteract the torque 
+created by hand movements (Borghuis et al., 2008 ; McGill 
+et al., 2003 ). As for the mouse task time period, it is worth 
+noting that holding the full arm supporting on the work surface 
+may have further highlighted the difference between the two 
+tasks. During the typing task compared with mouse work task, 
+higher activity level of CES and UT muscles is consistent with 
+the findings of Sommerich et al. ( 2001 ) and Szeto et al. ( 2009 ) 
+studies. In the study conducted by Sommerich et al. ( 2001 ), 
+neck flexion as well as left levator scapulae, left and right 
+sternocleidomastoid, trapezius and neck extensor muscle activ -
+ities were higher during typing compared with mouse work 
+task (Sommerich et al., 2001 ). Yang and Cho ( 2012 ) have also 
+reported higher neck and shoulder flexion and upper trapezius 
+muscle activities during typing task compared with mouse 
+work task (Yang & Cho, 2012 ). Unlike the present study, in 
+a study conducted by Dennerlein et al. ( 2002 ), shoulder posture 
+was deemed the most neutral for Keyboard-intensive tasks 
+whereas the shoulder was flexed, abducted, and externally 
+rotated during the mouse-intensive task in order to reach out 
+and interact with the mouse. In a pilot study, Cooper and 
+Straker ( 1998 ) have reported a higher activity of the upper 
+trapezius and lower activity of the anterior deltoid during key -
+board task compared to mouse task. That study also showed 
+individual differences between muscle activity for mouse and 
+keyboard task (Cooper & Straker, 1998 ). The discrepancies 
+between the present study results and the abovementioned 
+studies may be due to differences in content of task, typing 
+style, and the location of the keyboard and mouse 
+(J. T. Dennerlein & Johnson, 2006 ). Even though the neck 
+and shoulder posture and muscle activities can be affected by 
+the type of tasks, trunk posture, workstation setup including 
+the position of the mouse and dimension of keyboards and 
+other computer components, typing style, as well as anthropo -
+metric characteristics of participants affect the posture and 
+muscle activity (Arne Aarås et al., 2000 ; Cooper & Straker, 
+1998 ; J. Dennerlein et al., 2002 ; J. T. Dennerlein & Johnson, 
+2006 ; Otto et al., 2018 ; Sommerich et al., 2002 ; Won et al., 2009 ; 
+Yang & Cho, 2012 ). Therefore, it seems that typing task, parti -
+cularly in the conventional setup, may be associated with 
+higher physical exposure, and may increase the likelihood of 
+associated adverse effects of physical exposure on shoulder. 
+Thus, the attempts to redesign the tasks are deemed important 
+to reduce the required duration of typing in computer 
+workstation.
+The significant interactive effect of setup and task implies 
+that flexion of the cervical and thoracic spine was much 
+higher in the conventional setup during mouse work task 
+than the adjusted setup. However, this difference was modest 
+in the typing task. Due to the difference reckoned in the 
+screen height in two workstation setups, the cervical and 
+thoracic spine was positioned in a less flexed posture during 
+the mouse work. Nonetheless, the role of screen height may 
+not probably be influential during typing task because the 
+participants may have frequently kept their gazing eye on 
+the keyboard (Kamil & Dawal, 2015 ; Schüldt, 1988 ). 
+Therefore, it seems that adjusting the workstation ergonomi -
+cally may be more effective in improving the neck and thor -
+acic posture during mouse work than typing. The CES muscle 
+resting (RRT of the CES) was much higher during typing in 
+the adjusted setup than the conventional setup. But this dif -
+ference was reckoned modest in the mouse work task. This 
+was likely due to frequent flexion and extension of the neck to 
+shift the gaze between the screen and the keyboard in the 
+typing task whereas the gaze would likely be kept on the 
+screen during the mouse work. As for the typing task, the 
+observed higher neck flexion would also support this explana -
+tion. Also, the AD muscle resting was much higher during the 
+typing task in the adjusted setup (as well as the activity level 
+was much lower) as compared with the conventional setup. 
+However, such the difference was modest in the mouse work 
+task. Further, shoulder flexion angle during typing in the 
+adjusted setup was much lower than the conventional setup, 
+but this difference seemed modest in the mouse work task. 
+These observations are most likely related to the need for 
+hand movements over the entire keyboard surface. As 
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+ 465
+
+===== PAGE 9 =====
+
+compared with the adjusted setup, thus, typing task may be 
+associated with higher physical exposure in the conventional 
+setup, and may increase the likelihood of associated adverse 
+effects on shoulder and neck in the long run (Chiu et al., 2015 ; 
+Lale & Korhan, 2015 ; Sommerich et al., 2002 ; Straker et al., 
+1997b ).
+Neck discomfort tended to be lower in the adjusted setup 
+as compare with the conventional setup. This difference is 
+deemed to be due to a higher CES muscle resting and less 
+cervical and thoracic flexion in the adjusted setup compared 
+with the conventional one (Berkhout et al., 2004 ; Chiou et al., 
+2012 ; Villanueva et al., 1997 ; Yu et al., 2018 ). Based on 
+biomechanical principles, one may assume that an upright 
+neck position will result in less mechanical load on the neck. 
+Furthermore, a more flexed neck results in higher activity of 
+the cervical extensor muscles in the conventional setup 
+(Seghers et al., 2003 ; Villanueva et al., 1997 ). Berkhout et al. 
+( 2004 ) have shown that, during continuous laptop work, the 
+access to adjusting screen height, distance, and the use of an 
+external keyboard and mouse will improve user comfort and 
+productivity, and reduce the mechanical load on the neck. 
+Moreover, greater increase in the neck flexion, head tilt, and 
+neck discomfort were reported during laptop work as com -
+pared with working on a desktop computer (Bubric & Hedge, 
+2016 ; Straker et al., 1997a ; Yu et al., 2018 ). Thus, prolonged 
+laptop use has a greater potential to lead to over-exert the 
+neck musculature in the conventional setup.
+One of the limitations faced in this study was the use of the 
+chair without backrest. Considering that the lumbar erector 
+spinae and multifidus muscles sensors were placed on the back 
+and regarding the participants were not able to lean on the 
+backrest, a chair without backrest was used in this experiment 
+as it has also been used in previous studies (Callaghan & 
+McGILL, 2001 ; Jia & Nussbaum, 2018 ; Waongenngarm et al., 
+2016 ). As a further matter, the external keyboard was placed in 
+front of the laptop in the adjusted setup. Thus, the distance 
+between the laptop screen and the edge of the table was slightly 
+more than the conventional setup. Although this may affect the 
+interface between the user and the laptop, it is not expected to 
+cause a bias in reduced estimation of physical exposure in favor 
+of the adjusted setup. In the present study, only male students 
+were recruited, and female students were not included. This was 
+firstly to keep the subject pool homogenous in this study, and it 
+was secondly caused due to legal prohibition of the engagement 
+of male researchers in physical contacts with female participants 
+in our country. Noting that the incidence of neck and shoulder 
+complaints are more frequent among females than males, one 
+should be cautious about generalizing our results to a female 
+population (Heidari et al., 2019 ; Won et al., 2009 ; Yang & Cho, 
+2012 ), and further researches are necessary to verify whether the 
+result will be reproduced in females. Any information was not 
+collected on the participants’ history of laptop use as compared 
+to desktop computer use, even though most of them were 
+frequent laptop users. It is conceivable that the participants’ 
+history of computer use would affect their response to the 
+given task, and might affect how they perceive the level of 
+discomfort. In spite of this limitation, our study is concerned 
+with within-subject changes across the two conditions, and is not 
+particularly sensitive to inter-subject variability.
+We opted for a fixed-size workstation setup across all the 
+participants to only change the studied characteristic of the 
+workstation setup (i.e., screen height), and keep the rest of 
+variables controlled and identical across the conditions. 
+However, it cannot be denied the advantage of tailoring the 
+workstation setup for each individual even though it could 
+have made the implementation more time consuming and 
+open for further discussions about the proper choice of set 
+limits. Another important consideration when adjusting the 
+height of a laptop screen during laptop work in the adjusted 
+setup was the allowance of trunk movements. The screen 
+height was initially adjusted in an upright seating posture. 
+But the screen height may have been placed above the level 
+of the participants’ eye due to the trunk flexion throughout 
+the task, and it may have led to non-neutral posterior head 
+tilt. Despite such a limitation, subtle trunk movement may 
+also preclude postural fixity as a positive effect during the 
+task. However, the influence extent of such subtle postural 
+variation is difficult in long term to precisely be assessed.
+Our results do not suggest that improving the workstation 
+setup may alone alter the extent of lumbar flexion during 
+laptop work. Thus, a cognitive and physical training protocol 
+may be useful to change the motor habits of sitting in 
+a specific position (Dockrell et al., 2010 ; Kaliniene et al., 
+2016 ).
+5. Conclusion
+The results of this study indicated that the use of the ergonomi -
+cally adjusted setup (using a riser under the laptop and external 
+keyboard) compared with the conventional setup, reduced the 
+cervical, thoracic, and shoulder flexion angles as well as the 
+activity level of cervical erector spinae and multifidus muscles. 
+Cervical erector spinae muscle resting also increased in the 
+adjusted setup. Further, the adjusted setup was generally less 
+discomforting for participants’ neck and back. The activity level 
+of all muscles as well as the cervical, thoracic, and shoulder 
+flexion was higher in the typing task compared with the mouse 
+work task in both setups. These findings emphasize the impor -
+tance of matching the ergonomic design of the laptops to match 
+with anthropometric scales of individuals. Given the prevalence 
+of laptops and the high rate of laptop use, it is recommended that 
+users who use laptop in a long-term and sedentary positions 
+should use a riser and external keyboard as using the laptop to 
+improve the neck and back condition, and reduce the likelihood 
+of musculoskeletal problems. In addition, these findings imply 
+that manufacturers and industrial designers of the laptops should 
+consider designing laptops with adjustable screen height and 
+keyboard placement. The typing task may be associated with 
+higher physical exposure, and it may increase the likelihood of 
+associated adverse effects of physical exposure on shoulder and 
+neck in the long run. Thus, it is advisable to reduce the extent of 
+typing task in the construct of computer tasks. Although the 
+adjusted setup reduced the thoracic flexion and decreased MF 
+muscle activities, this setup alone did not alter the lumbar flexion. 
+A cognitive and physical training protocol may be useful along 
+with improving the workstation setup to change the motor habits 
+of sitting in a specific position.
+466
+ M. YADEGARIPOUR ET AL.
+
+===== PAGE 10 =====
+
+Acknowledgments
+The authors would like to acknowledge the students who participated in this 
+research as well as all those who helped us during performing this research.
+Funding
+No funding was received for performing the present study.
+ORCID
+Mohammad Yadegaripour 
+ http://orcid.org/0000-0001-9560-5034
+Malihe Hadadnezhad 
+ http://orcid.org/0000-0001-8485-6364
+Ali Abbasi 
+ http://orcid.org/0000-0001-9733-6501
+Fereshteh Eftekhari 
+ http://orcid.org/0000-0002-5231-2538
+Afshin Samani 
+ http://orcid.org/0000-0001-6119-8231
+References
+Aarås, A., Horgen, G., & Ro, O. ( 2000 ). Work with the visual display 
+unit: Health consequences. International Journal of Human-computer 
+Interaction , 12 (1), 107–134. https://doi.org/10.1207/ 
+S15327590IJHC1201_5
+Aarås, A., & Westgaard, R. ( 1987 ). Further studies of postural load and 
+musculo-skeletal injuries of workers at an electro-mechanical assem -
+bly plant. Applied Ergonomics , 18 (3), 211–219. https://doi.org/10.1016/ 
+0003-6870(87)90006-8
+Allafan, N., Shahrbanian, S., Rajabi, R., Minoonejad, H., & Bayati, M. 
+( 2018 ). Comparison of perceived musculoskeletal discomfort among 
+six common postures for laptop use in female students. Physical 
+Treatments-Specific Physical Therapy Journal , 8 (1), 37–44. https:// 
+doi.org/10.32598/ptj.8.1.37
+Antle, D. M., Vézina, N., & Côté, J. N. ( 2015 ). Comparing standing 
+posture and use of a sit-stand stool: Analysis of vascular, muscular 
+and discomfort outcomes during simulated industrial work. 
+International Journal of Industrial Ergonomics , 45 , 98–106. https:// 
+doi.org/10.1016/j.ergon.2014.12.009
+Anuar, N. F. M., Rasdi, I., Saliluddin, S. M., & Abidin, E. Z. ( 2016 ). Work task 
+and job satisfaction predicting low back pain among secondary school 
+teachers in Putrajaya. Iranian Journal of Public Health , 45 (Supple 1), 
+85–92. https://ijph.tums.ac.ir/index.php/ijph/article/view/6158
+Arshad, M. A., Shamsudin, M. Z., & Mustafa, M. J. A. ( 2020 ). Laptop use 
+and upper extremities musculoskeletal disorders among higher learn -
+ing students: ergonomic and musculoskeletal. MAEH Journal of 
+Environmental Health , 1 (1), 1–4. http://maeh4u.org.my/journal/ 
+index.php/maeh/article/view/17
+Asundi, K., Odell, D., & Luce, A. ( 2012 ). Changes in posture through the 
+use of simple inclines with notebook computers placed on a standard 
+desk. Applied Ergonomics , 43 (2), 400–407. https://doi.org/10.1016/j. 
+apergo.2011.06.013
+Balliett, J. A., Dainoff, M. J., & Mark, L. S. ( 1996 ). The effect of degree of 
+upper arm flexion on shoulder-neck discomfort at the VDT. 
+International Journal of Human-Computer Interaction , 8 (4), 
+385–399. https://doi.org/10.1080/10447319609526160
+Basmajian, J., & Blumenstein, R. ( 1980 ). Electrode placement in EMG 
+biofeedback . Williams & Wilkins.
+Bergqvist, U., Wolgast, E., Nilsson, B., & Voss, M. ( 1995b ). Musculoskeletal 
+disorders among visual display terminal workers: Individual, ergonomic, 
+and work organizational factors. Ergonomics , 38 (4), 763–776. https://doi. 
+org/10.1080/00140139508925148
+Berkhout, A., Hendriksson-Larsen, K., & Bongers, P. ( 2004 ). The effect of 
+using a laptopstation compared to using a standard laptop PC on the 
+cervical spine torque, perceived strain and productivity. Applied 
+Ergonomics , 35 (2), 147–152. https://doi.org/10.1016/j.apergo.2003.11.008
+Borghuis, J., Hof, A. L., & Lemmink, K. A. ( 2008 ). The importance of 
+sensory-motor control in providing core stability. Sports Medicine , 
+38 (11), 893–916. https://doi.org/10.2165/00007256-200838110- 
+00002
+Briggs, A. M., van Dieën, J. H., Wrigley, T. V., Greig, A. M., Phillips, B., 
+Lo, S. K., & Bennell, K. L. ( 2007 ). Thoracic kyphosis affects spinal 
+loads and trunk muscle force. Physical Therapy , 87 (5), 595–607. 
+https://doi.org/10.2522/ptj.20060119
+Bubric, K., & Hedge, A. ( 2016 ). Differential patterns of laptop use and 
+associated musculoskeletal discomfort in male and female college 
+students. Work , 55 (3), 663–671. https://doi.org/10.3233/WOR-162419
+Callaghan, J. P., & McGILL, S. M. ( 2001 ). Low back joint loading and 
+kinematics during standing and unsupported sitting. Ergonomics , 44 
+(3), 280–294. https://doi.org/10.1080/00140130118276
+Cardinal, B., & Cardinal, M. ( 1995 ). Screening efficiency of the revised physical 
+activity readiness questionnaire in older adults. Journal of Aging and 
+Physical Activity , 3 (3), 299–308. https://doi.org/10.1123/japa.3.3.299
+Chiou, W., Chou, W., & Chen, B. ( 2012 ). Notebook computer use with 
+different monitor tilt angle: Effects on posture, muscle activity and 
+discomfort of neck pain users. Work , 41 (Suppl. 1), 2591–2595. https:// 
+doi.org/10.3233/WOR-2012-0504-2591
+Chiu, H.-P., Tu, C.-N., Wu, S.-K., & Chien-Hsiou, L. ( 2015 ). Muscle 
+activity and comfort perception on neck, shoulder, and forearm while 
+using a tablet computer at various tilt angles. International Journal of 
+Human-computer Interaction , 31 (11), 769–776. https://doi.org/10. 
+1080/10447318.2015.1064639
+Clark, M., & Lucett, S. ( 2010 ). NASM essentials of corrective exercise 
+training . (M. Alizadeh, M. Mirkarimpour, M. Fllahmohammadi, 
+T. M. Clark, & S. Lucett, Eds.). Lippincott Williams & Wilkins.
+Cooper, A., & Straker, L. ( 1998 ). Mouse versus keyboard use: A comparison 
+of shoulder muscle load. International Journal of Industrial Ergonomics , 
+22 (4–5), 351–357. https://doi.org/10.1016/S0169-8141(97)00088-7
+Dawson, A. P., Steele, E. J., Hodges, P. W., & Stewart, S. ( 2009 ). 
+Development and test–retest reliability of an extended version of the 
+Nordic Musculoskeletal Questionnaire (NMQ-E): A screening instru -
+ment for musculoskeletal pain. The Journal of Pain , 10 (5), 517–526. 
+https://doi.org/10.1016/j.jpain.2008.11.008
+Dennerlein, J., DiMarino, M.-H., Becker, T., & Johnson, P. ( 2002 ). Wrist 
+and shoulder muscle activity changes across computer tasks . Paper 
+presented at the Proceedings of the Human Factors and Ergonomics 
+Society Annual Meeting ., 46(13), 1129–1132. https://doi.org/10.1177/ 
+154193120204601326
+Dennerlein, J. T., & Johnson, P. W. ( 2006 ). Changes in upper extremity 
+biomechanics across different mouse positions in a computer 
+workstation. Ergonomics , 49 (14), 1456–1469. https://doi.org/10.1080/ 
+00140130600811620
+Dockrell, S., Earle, D., & Galvin, R. ( 2010 ). Computer-related posture 
+and discomfort in primary school children: The effects of a 
+school-based ergonomic intervention. Computers & Education , 55 (1), 
+276–284. https://doi.org/10.1016/j.compedu.2010.01.013
+Erdelyil, A., Sihvonen, T., Helin, P., & Hänninen, O. ( 1988 ). Shoulder strain in 
+keyboard workers and its alleviation by arm supports. International 
+Archives of Occupational and Environmental Health , 60 (2), 119–124. 
+https://doi.org/10.1007/BF00381492
+Hafeez, K., Memon, A. A., Jawaid, M., Usman, S., Usman, S., & 
+Haroon, S. ( 2013 ). Back pain–are health care undergraduates at risk? 
+Iranian Journal of Public Health , 42 (8), 819. https://ijph.tums.ac.ir/ 
+index.php/ijph/article/view/4440
+Hansson, G.-Å., Balogh, I., Ohlsson, K., Pålsson, B., Rylander, L., & 
+Skerfving, S. ( 2000 ). Impact of physical exposure on neck and upper 
+limb disorders in female workers. Applied Ergonomics , 31 (3), 301–310. 
+https://doi.org/10.1016/S0003-6870(99)00047-2
+Hansson, G.-Å., Nordander, C., Asterland, P., Ohlsson, K., Strömberg, U., 
+Skerfving, S., & Rempel, D. ( 2000 ). Sensitivity of trapezius electromyogra -
+phy to differences between work tasks—influence of gap definition and 
+normalisation methods. Journal of Electromyography and Kinesiology , 10 
+(2), 103–115. https://doi.org/10.1016/S1050-6411(99)00030-9
+Heidari, H., Arsang, S., Mahmoodi, M., & Ramezani, F. ( 2019 ). Ergonomic 
+analysis of the neck posture in computer users and identifying the related 
+risk factors. Archives of Occupational Health , 3 (4), 430–437. http://aoh.ssu. 
+ac.ir/article-1-190-en.html
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+ 467
+
+===== PAGE 11 =====
+
+Hermans, V., Hautekiet, M., & Spaepen, A. ( 1998 ). Relation between 
+posture and neck-shoulder muscular effort . (S. Kumar, Ed.). Advances 
+in occupational ergonomics and safety. IOS Pr.
+Hermens, H., & Freriks, B. ( 2017 ). Surface electromyography for the 
+non-invasive assessment of muscles . Roessingh Research and 
+Development.Retrieved from April 20, 2017 , http://www.seniam.org
+Hermens, H., Freriks, B., Disselhorst-Klug, C., & Rau, G. ( 2000 ). 
+Development of recommendations for SEMG sensors and sensor 
+placement procedures. Journal of Electromyography and Kinesiology , 
+10 (5), 361–374. https://doi.org/10.1016/S1050-6411(00)00027-4
+Hermens, H., & Vollenbroek-Hutten, M. ( 2004 ). Effects of electrode dis -
+location on electromyographic activity and relative rest time: 
+Effectiveness of compensation by a normalisation procedure. Medical 
+& Biological Engineering & Computing , 42 (4), 502–508. https://doi.org/ 
+10.1007/BF02350991
+Janneck, M., Jent, S., Weber, P., & Nissen, H. ( 2018 ). Ergonomics to go: 
+Designing the mobile workspace. International Journal of Human– 
+Computer Interaction , 34 (11), 1052–1062. https://doi.org/10.1080/ 
+10447318.2017.1413057
+Jia, B., & Nussbaum, M. A. ( 2018 ). Influences of continuous sitting and 
+psychosocial stress on low back kinematics, kinetics, discomfort, and 
+localized muscle fatigue during unsupported sitting activities. 
+Ergonomics , 61 (5), 1–14. https://doi.org/10.1080/00140139.2017.1401671
+Kaliniene, G., Ustinaviciene, R., Skemiene, L., Vaiciulis, V., & 
+Vasilavicius, P. ( 2016 ). Associations between musculoskeletal pain 
+and work-related factors among public service sector computer work -
+ers in Kaunas County, Lithuania. BMC Musculoskeletal Disorders , 17 
+(1), 420. https://doi.org/10.1186/s12891-016-1281-7
+Kamil, N., & Dawal, S. ( 2015 ). Effect of postural angle on back muscle 
+activities in aging female workers performing computer tasks. Journal 
+of Physical Therapy Science , 27 (6), 1967–1970. https://doi.org/10.1589/ 
+jpts.27.1967
+Keyserling, W. M., Sudarsan, S., Martin, B., Haig, A., & Armstrong, T. 
+( 2005 ). Effects of low back disability status on lower back discomfort 
+during sustained and cyclical trunk flexion. Ergonomics , 48 (3), 
+219–233. https://doi.org/10.1080/0014013042000327689
+Kleine, B., Schumann, N., Bradl, I., Grieshaber, R., & Scholle, H. ( 1999 ). 
+Surface EMG of shoulder and back muscles and posture analysis in 
+secretaries typing at visual display units. International Archives of 
+Occupational and Environmental Health , 72 (6), 387–394. https://doi. 
+org/10.1007/s004200050390
+Klussmann, A., Gebhardt, H., Liebers, F., & Rieger, M. A. ( 2008 ). 
+Musculoskeletal symptoms of the upper extremities and the neck: 
+A cross-sectional study on prevalence and symptom-predicting 
+factors at visual display terminal (VDT) workstations. BMC 
+Musculoskeletal Disorders , 9 (1), 96. https://doi.org/10.1186/1471- 
+2474-9-96
+Kroemer, K. H. E., & Grandjean, E. ( 1997 ). Fitting the Task to the Human: 
+A Textbook of Occupational Ergonomics (5 ed.). Taylor and Francis.
+Kusumawati, R. E., & Muslim, E. ( 2019 ). Evaluation of muscle activity, 
+comfort, posture, and efficiency on using notebook with simple 
+inclines. AIP Conference Proceedings , 2193 (1), 050009. https://doi. 
+org/10.1063/1.5139382
+Lale, K., & Korhan, O. ( 2015 ). Reducing perceived musculoskeletal dis -
+comfort in office employees through anthropometric computer work -
+station design. The Anthropologist , 21 (1,2), 39–45. https://doi.org/10. 
+1080/09720073.2015.11891791
+Lee, S., Lee, Y., & Chung, Y. ( 2017 ). Effect of changes in head postures 
+during use of laptops on muscle activity of the neck and trunk. 
+Physical Therapy Rehabilitation Science , 6 (1), 33–38. https://doi.org/ 
+10.14474/ptrs.2017.6.1.33
+Life, M. A., & Pheasant, S. ( 1984 ). An integrated approach to the study of 
+posture in keyboard operation. Applied Ergonomics , 15 (2), 83–90. 
+https://doi.org/10.1016/0003-6870(84)90277-1
+McGill, S. M., Grenier, S., Kavcic, N., & Cholewicki, J. ( 2003 ). 
+Coordination of muscle activity to assure stability of the lumbar 
+spine. Journal of Electromyography and Kinesiology , 13 (4), 353–359. 
+https://doi.org/10.1016/S1050-6411(03)00043-9
+Messing, K., Vézina, N., Ève, M., Ouellet, S., Tissot, F., Couture, V., & Riel, J. 
+( 2008 ). Body maps: An indicator of physical pain for worker-oriented 
+ergonomic interventions. Policy and Practice in Health and Safety , 6 (2), 
+31–49. https://doi.org/10.1080/14774003.2008.11667722
+Montes, A., Gouveia, S., Crasto, C., de Melo, C., Carvalho, P., Santos, R., 
+& Vilas-Boas, J. ( 2017 ). Abdominal muscle activity during breathing 
+in different postural sets in healthy subjects. Journal of Bodywork and 
+Movement Therapies , 21 (2), 354–361. https://doi.org/10.1016/j.jbmt. 
+2016.09.004
+Mork, P. J., & Westgaard, R. H. ( 2009 ). Back posture and low back 
+muscle activity in female computer workers: A field study. Clinical 
+Biomechanics , 24 (2), 169–175. https://doi.org/10.1016/j.clinbiomech. 
+2008.11.001
+Mörl, F., & Bradl, I. ( 2013 ). Lumbar posture and muscular activity while 
+sitting during office work. Journal of Electromyography and Kinesiology , 
+23 (2), 362–368. https://doi.org/10.1016/j.jelekin.2012.10.002
+Noraxon U.S.A. Inc. 2014 . MyoMotion User Guide. v 3.6. . N. U. S. A. Inc. 
+Ed..
+Osama, M., Ali, S., & Malik, R. J. ( 2018 ). Posture related musculoskeletal 
+discomfort and its association with computer use among university 
+students. JPMA. The Journal of the Pakistan Medical Association , 68 
+(4), 639–641.
+Otto, A., Emery, K., & Côté, J. N. ( 2018 ). Differences in muscular and 
+perceptual responses to a neck/shoulder fatiguing task between 
+women and men. Journal of Electromyography and Kinesiology , 43 , 
+140–147. https://doi.org/10.1016/j.jelekin.2018.09.010
+Price, J., & Dowell, W. ( 1998 ). Laptop configurations in offices: Effects 
+on posture and discomfort. In: Paper presented at the Proceedings of 
+the Human Factors and Ergonomics Society 42nd Annual Meeting , 
+Chicago, Illinois.
+Reinert, F., Caselli, R. P., Moro, A. R. P., Gontijo, L. A., & 
+Ferreira, M. G. G. ( 2018 ). Human Factors Related to the Use of 
+Personal Computer: A Case Study. In: Bagnara S., Tartaglia R., 
+Albolino S., Alexander T., Fujita Y. (eds) Proceedings of the 20th 
+Congress of the International Ergonomics Association (IEA 2018). 
+IEA 2018. Advances in Intelligent Systems and Computing, vol 820. 
+Springer, Cham. https://doi.org/10.1007/978-3-319-96083-8_36
+Ren, X., Yu, B., Lu, Y., Chen, Y., & Pu, P. ( 2019 ). HealthSit: Designing 
+posture-based interaction to promote exercise during fitness breaks. 
+International Journal of Human–Computer Interaction , 35 (10), 
+870–885. https://doi.org/10.1080/10447318.2018.1506641
+Ryan, C., Dall, P., Granat, M., & Grant, P. ( 2011 ). Sitting patterns at 
+work: Objective measurement of adherence to current 
+recommendations. Ergonomics , 54 (6), 531–538. https://doi.org/10. 
+1080/00140139.2011.570458
+Samani, A., Holtermann, A., Sogaard, K., & Adeleine, P. ( 2009a ). Active 
+pauses induce more variable electromyographic pattern of the trape -
+zius muscle activity during computer work. Journal of 
+Electromyography and Kinesiology , 19 (6), e430–437e. https://doi.org/ 
+10.1016/j.jelekin.2008.11.011
+Sanders, M., & McCormick, E. ( 1998 ). Human Factors In Engineering 
+and Design (7 ed.). McGraw-Hill.
+Schüldt, K. ( 1988 ). On neck muscle activity and load reduction in sitting 
+postures. An electromyographic and biomechanical study with appli -
+cations in ergonomics and rehabilitation. Scandinavian Journal of 
+Rehabilitation Medicine. Supplement , 19 , 11–49.
+Seghers, J., Jochem, A., & Spaepen, A. ( 2003 ). Posture, muscle activity 
+and muscle fatigue in prolonged VDT work at different screen 
+height settings. Ergonomics , 46 (7), 714–730. https://doi.org/10. 
+1080/0014013031000090107
+Sommerich, C. M., Joines, S. M. B., & Psihogios, J. P ( 2001 ). Effects of 
+Computer Monitor Viewing Angle and Related Factors on Strain, 
+Performance, and Preference Outcomes. Human Factors, 43 (1), 
+39–55. https://doi.org/10.1518/001872001775992480
+Simoneau, G. G., Marklin, R. W. ( 2001 ). Effect of computer keyboard 
+slope and height on wrist extension angle. Human Factors: The 
+Journal of the Human Factors and Ergonomics Society , 43 (2), 
+287–298. https://doi.org/10.1518/001872001775900940
+Sommerich, C., Starr, H., Smith, C., & Shivers, C. ( 2002 ). Effects of notebook 
+computer configuration and task on user biomechanics, productivity, 
+and comfort. International Journal of Industrial Ergonomics , 30 (1), 7–31. 
+https://doi.org/10.1016/S0169-8141(02)00075-6
+468
+ M. YADEGARIPOUR ET AL.
+
+===== PAGE 12 =====
+
+Stewart, W., Ricci, J., Chee, E., Morganstein, D., & Lipton, R. ( 2003 ). Lost 
+productive time and cost due to common pain conditions in the US 
+workforce. Jama , 290 (18), 2443–2454. https://doi.org/10.1001/jama.290. 
+18.2443
+St-Onge, N., Samani, A., & Madeleine, P. ( 2017 ). Integration of active 
+pauses and pattern of muscular activity during computer work. 
+Ergonomics , 60 (9), 1228–1239. https://doi.org/10.1080/00140139. 
+2017.1303086
+Straker, L., Harris, C., Joosten, J., & Howie, E. ( 2018 ). Mobile technology 
+dominates school children’s IT use in an advantaged school community 
+and is associated with musculoskeletal and visual symptoms. Ergonomics , 
+61 (5), 658–669. https://doi.org/10.1080/00140139.2017.1401671
+Straker, L., Jones, K., & Miller, J. ( 1997a ). A comparison of the postures 
+assumed when using laptop computers and desktop computers. Applied 
+Ergonomics , 28 (4), 263–268. https://doi.org/10.1016/S0003-6870(96) 
+00073-7
+Straker, L., Pollock, C., & Mangharam, J. ( 1997b ). The effect of 
+shoulder posture on performance, discomfort and muscle fatigue 
+whilst working on a visual display unit. International Journal of 
+Industrial Ergonomics , 20 (1), 1-0. https://doi.org/10.1016/S0169-8141 
+(96)00027-3
+Suka, M., & Yoshida, K. ( 2008 ). Low back pain deprives the Japanese 
+adult population of their quality of life: A questionnaire survey at 
+five healthcare facilities in Japan. Environmental Health and 
+Preventive Medicine , 13 (2), 109–115. https://doi.org/10.1007/ 
+s12199-007-0011-z
+Szeto, G., & Lee, R. ( 2002 ). An ergonomic evaluation comparing desktop, 
+notebook, and subnotebook computers. Archives of Physical Medicine and 
+Rehabilitation , 83 (4), 527–532. https://doi.org/10.1053/apmr.2002.30627
+Szeto, G., Straker, L., & O’Sullivan, P. ( 2009 ). Examining the low, high 
+and range measures of muscle activity amplitudes in symptomatic and 
+asymptomatic computer users performing typing and mousing tasks. 
+European Journal of Applied Physiology , 106 (2), 243–251. https://doi. 
+org/10.1007/s00421-009-1019-4
+Thorn, S., Søgaard, K., Kallenberg, L., Sandsjö, L., Sjøgaard, G., 
+Hermens, H. J., … Forsman, M. ( 2007 ). Trapezius muscle rest time during 
+standardised computer work–a comparison of female computer users with 
+and without self-reported neck/shoulder complaints. Journal of 
+Electromyography and Kinesiology , 17 (4), 420–427. https://doi.org/10. 
+1016/j.jelekin.2006.04.010
+Veiersted, K. B., Westgaard, R. H., & Andersen, P. ( 1993 ). 
+Electromyographic evaluation of muscular work pattern as 
+a predictor of trapezius myalgia. Scandinavian Journal of Work, 
+Environment & Health , 19(4), 284–290. https://doi.org/10.5271/ 
+sjweh.1472
+Villanueva, M., Beatriz, G., Hiroshi, J., Midori, S., Naomi, H., 
+Yasuhiro, T., & Susumu, S. ( 1997 ). Sitting posture and neck and 
+shoulder muscle activities at different screen height settings of the 
+visual display terminal. Industrial Health , 35 (3), 330–336. https://doi. 
+org/10.2486/indhealth.35.330
+Waongenngarm, P., Rajaratnam, B. S., & Janwantanakul, P. ( 2016 ). Internal 
+oblique and transversus abdominis muscle fatigue induced by slumped 
+sitting posture after 1 hour of sitting in office workers. Safety and Health 
+at Work , 7 (1), 49–54. https://doi.org/10.1016/j.shaw.2015.08.001
+Werth, A., & Babski-Reeves, K. ( 2014 ). Effects of portable computing devices 
+on posture, muscle activation levels and efficiency. Applied Ergonomics , 45 
+(6), 1603–1609. https://doi.org/10.1016/j.apergo.2014.05.008
+West, B., Welch, K., & Galecki, A. ( 2014 ). Linear mixed models : 
+a practical guide using statistical software:. Chapman and Hall/CRC.
+Won, E. J., Johnson, P. W., Punnett, L., & Dennerlein, J. T. ( 2009 ). Upper 
+extremity biomechanics in computer tasks differ by gender. Journal of 
+Electromyography and Kinesiology , 19 (3), 428–436. https://doi.org/10. 
+1016/j.jelekin.2007.11.012
+Woo, E., White, P., & Lai, C. ( 2016 ). Musculoskeletal impact of the use of 
+various types of electronic devices on university students in Hong Kong: 
+An evaluation by means of self-reported questionnaire. Manual Therapy , 
+26 , 47–53. https://doi.org/10.1016/j.math.2016.07.004
+Wu, S.-P., & Yang, C.-H. ( 2005 ). Effect of VDT keyboard height and 
+inclination on musculoskeletal discomfort for wheelchair users. 
+Perceptual and Motor Skills , 100 (2), 535–542. https://doi.org/10. 
+2466/pms.100.2.535-542
+Xie, Y., Szeto, G., Madeleine, P., & Tsang, S. ( 2018 ). Spinal kinematics 
+during smartphone texting – A comparison between young adults 
+with and without chronic neck-shoulder pain. Applied Ergonomics , 
+30 (68), 160–168. https://doi.org/10.1016/j.apergo.2017.10.018
+Xie, Y., Szeto, G. P. Y., Dai, J., & Madeleine, P. ( 2015 ). A comparison of 
+muscle activity in using touchscreen smartphone among young people 
+with and without chronic neck–shoulder pain. Ergonomics , 59 (1), 
+61–72. https://doi.org/10.1080/00140139.2015.1056237
+Yang, J.-F., & Cho, C.-Y. ( 2012 ). Comparison of posture and muscle 
+control pattern between male and female computer users with mus -
+culoskeletal symptoms. Applied Ergonomics , 43 (4), 785–791. https:// 
+doi.org/10.1016/j.apergo.2011.11.013
+Yu, Z., James, C., Edwards, S., & Snodgrass, S. ( 2018 ). Differences in 
+posture kinematics between using a tablet, a laptop, and a desktop 
+computer in sitting and in standing. Work , 61 (2), 257–266. https://doi. 
+org/10.3233/WOR-182796
+Zhu, X., & Shin, G. ( 2012 ). Shoulder and neck muscle activities during 
+typing with articulating forearm support at different heights. 
+Ergonomics , 55 (11), 1412–1419. http://dx.doi.org/10.1080/00140139. 
+2012.709541
+About the Authors
+Mohammad Yadgaripour received the PhD degree in corrective exer -
+cise and sports injuries from Kharazmi University of Tehran, Iran, in 
+2019. He is a Teacher and Adjunct Professor in Farhangian 
+University – pardis of Allameh Tabatabai of Khorramabad, Iran. His 
+research interests include exercise therapy, core stability, and work- 
+related musculoskeletal problems.
+Malihe Hadadnezhad holds a BSc in physical therapy from Shahid 
+Beheshti University, MA and PhD in corrective exercise and sports 
+injuries from Tehran University and is Assistant professor in 
+Department of Biomechanics and sport injuries in Kharazmi 
+University. Her researches focus on exercise therapy, rehabilitation 
+and corrective exercises.
+Ali Abbasi is an Assistant Professor in Sports Biomechanics at Kharazmi 
+University. He focuses his research on the Nonlinear Dynamic Analysis 
+in Sports Biomechanics, coordination, coordination variability in repeti -
+tive human movements, Neuromechanics and Gait analysis.
+Fereshteh Eftekhari holds a PhD in sports biomechanics from 
+Kharazmi University of Tehran. She is an assistant professor at Shiraz 
+University. Her current research focuses on neuromuscular control and 
+biomechanical analysis of sport and basic movement.
+Afshin Samani received the PhD degree in biomedical engineering 
+and science from Aalborg University, Denmark, in 2010. He is cur -
+rently an Associate Professor in sports science and ergonomics. His 
+research interests include the methods of quantification of work 
+exposure in relation to musculoskeletal disorders.
+INTERNATIONAL JOURNAL OF HUMAN–COMPUTER INTERACTION
+ 469

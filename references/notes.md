@@ -4,7 +4,7 @@
 
 2026-08-13에 `references/`와 하위 폴더를 대조하였다.
 
-- `references/Cited Papers/`에는 현재 안내용 `README.md`만 있으며, `cited` 상태 문헌의 원문 PDF는 아직 주로 `references/` 루트에 보관되어 있다. 본문 인용 상태는 이 문서의 `cited` 표기를 기준으로 판단하며, PDF의 `Cited Papers/` 이전은 별도 정리 작업이 필요하다.
+- 문헌별 상세정보는 `references/entries/`에 저장하며, `references.md`에는 상태와 상세 카드 링크만 기록한다. cited 상태는 본문 실제 인용 여부로 판단하고 PDF 보관 위치와 연결하지 않는다.
 - `references/introduce/`에는 아직 이 문서에 등록하지 않은 PDF가 있다. 아래 자료는 원문 PDF만 확보된 상태이며, 저자·연도·저널·표본·절차·장비·URL을 원문에서 검증한 뒤 `candidate` 항목으로 등록한다.
   - `Evidence for sitting time standard guidelines a narrative review of sedentary behavior.pdf` — 2026-08-13 텍스트 추출 시도 결과 12쪽 전부 이미지 스캔본이어서 본문을 읽을 수 없다. 등록하려면 OCR 또는 KCI 원문(https://doi.org/10.21797/ksme.2020.22.4.001) 확보가 필요하다. 서지사항은 조정환, 송금주 (2020). 좌식행동 가이드라인 기준 개발을 위한 기초연구. 한국체육측정평가학회지, 22(4), 1-12로 확인되며, 원저가 아니라 내러티브 리뷰이므로 좌식시간 수치의 근거가 아니라 지표·패턴 논의의 인용으로만 사용한다.
   - `Global, regional, and national burden of low back pain, 1990–2020, its attributable risk factors, and projections to 2050 a systematic analysis of the Global Burden of Disease.pdf`

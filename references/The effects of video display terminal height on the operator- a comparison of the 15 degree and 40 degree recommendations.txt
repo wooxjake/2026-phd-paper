@@ -1,0 +1,870 @@
+===== PAGE 1 =====
+
+*Lead co-authors.
+PII: S0003Ð6870(97)00048-3 Applied Ergonomics Vol. 29, No. 4, pp. 239Ð246, 1998
+( 1998 Elsevier Science Ltd
+All rights reserved. Printed in Great Britain
+0003Ð6870/98 $19.00#0.00
+The e¤ects of video display terminal
+height on the operator: a comparison
+of the 15¡ and 40¡ recommendations
+Kristine L. Turville*, Jennie P. Psihogios*, Tom R. Ulmer and
+Gary A. Mirka
+„he Ergonomics ‚aboratory, Department of Industrial Engineering, Box 7906,
+North Carolina State ”niversity, Raleigh, NC 27695, ”SA
+(Received 20 August 1997; in re vised form 9 June 1997)
+Prolonged use of video display terminals (VDTs) has been shown to be a risk factor for musculo-
+skeletal and visual discomfort. A standard workplace design recommendation is to position the
+centre of the VDT 15¡ below horizontal eye level. Recently a viewing angle of 40¡ below horizontal
+has been suggested based on studies that have indicated that this is the preferred viewing angle for
+visually intensive tasks. The goal of this study was to investigate the e¤ects of these two VDT
+positions on muscular activity, muscular fatigue, head/neck posture, visual acuity, operator perfor-
+mance (productivity and quality), heart rate and operator subjective assessment. The experimental
+task consisted of reading text from a computer screen and answering reading comprehension
+questions using a mouse and a keyboard. Each experimental session lasted 2 h. The 40 ¡ VDT
+position showed signiÞcantly greater head tilt angles and higher muscle activity levels for six of the
+10 neck, shoulder and back muscles sampled. No signiÞcant di¤erences in visual acuity, operator
+performance or heart rate were detected as a result of monitor location. Seven of the 12 subjects
+preferred the 15¡ monitor position. ( 1998 Elsevier Science Ltd. All rights reserved.
+Keywords: VDT, biomechanics, working posture, muscular activity
+Introduction
+By the end of 1993, 74 million computers were being used
+in the United States, making up 43% of the world-wide
+computer market (Juliussen and Petska-Juliussen, 1994).
+The widespread use of computers and video display ter-
+minals (VDTs) has resulted in an increasing concern for
+the physical well-being of the user, speciÞcally the mus-
+culoskeletal and visual systems. Accordingly, consider-
+able research on positioning the VDT to minimize
+discomfort and fatigue has been undertaken (Arndt,
+1983; Jaschinski-Kruza, 1988, 1991; Krueger, 1984;
+Pickett and Lees, 1991; Sauter et al, 1991; Villanueva et
+al, 1996) Despite this e¤ort, 10 million cases of VDT-
+related eyestrain and physical discomfort are reported to
+the American Optometric Association each year (Leavitt,
+1995). Though many of these complaints arise from
+workstations that are incorrectly adjusted for the indi-
+vidual, Arndt (1983) found that complaints may still arise
+from individuals working with properly adjusted
+workstations.
+Leavitt (1995) reported that eyestrain symptoms may
+occur in up to 75% of all VDT users, while Pickett and
+Lees (1991) found the percentage reporting eyestrain to
+be as high as 85%. Tyrrell and Leibowitz (1990) de-
+scribed eyestrain as a Ôvague discomfort which may be
+localized in the head or eyesÕ, and included eyestrain in
+a larger category termed visual fatigue. Visual fatigue can
+be described as any subjective visual symptom or distress
+resulting from the use of ones eyes (Tyrrell and
+Leibowitz, 1990). Visual fatigue during VDT use is often
+caused by prolonged visual activity performed during
+near-work. Near-work causes the eyes to converge and
+the lens to accommodate in order to focus, forcing the
+extraocular and ciliary muscles of the eye to contract and
+maintain contraction. According to Jaschinski-Kruza
+(1988, 1991), this extraocular and ciliary muscle work
+leads to eye strain and visual fatigue. Thus, as long as
+VDT work causes the eyes to converge, complaints of eye
+fatigue can be expected to continue.
+Musculoskeletal discomfort of VDT users most com-
+monly includes pain in the back, neck, and shoulders
+(Arndt, 1983). Sauter et al (1991) reported that musculo-
+skeletal discomfort was ÔcommonplaceÕ during VDT
+work, Þnding 33% of 539 data entry VDT users reported
+239
+
+===== PAGE 2 =====
+
+Figure 1 Workstation conÞguration
+discomfort in the lower back area, 27% reported discomfort
+in the neck and buttocks, and 15% reported pain
+in the right shoulder. Pickett and Lees (1991) found even
+higher complaint rates among 78 female VDT workers
+while Þnding no evidence that the presence of adjustable
+workstations o¤ered protection against physical com-
+plaints.
+VDT users often perform prolonged seated tasks that
+can cause static loading of the muscles of the neck and
+upper back. Awkward, static postures tend to reduce
+blood circulation to the muscles, decreasing the ßow of
+nutrients and removal of wastes, which can lead to
+muscle fatigue and pain (Arndt, 1983). Static postures can
+also lead to elevated heart rate (Sanders and McCormick,
+1993) and cause chronic problems in joints and tendons
+(Grandjean, 1980). While VDT users are often advised to
+take frequent breaks that include movement and stretch-
+ing, most operators do not strictly follow these guide-
+lines, but instead, simply alter their seated posture (either
+consciously or subconsciously) by shifting around in
+their chair. The postures resulting from these attempts to
+alleviate static loading are often awkward and have the
+potential to cause as much discomfort as the original
+static posture (Watson and Trott, 1993; Kilbom et al
+1986; Kumar, 1994). One basic VDT workplace design
+principle is to position the monitor such that the posture
+that the operator assumes will not require signiÞcant
+static muscle forces that will result in a reduction of
+blood ßow.
+An often encountered recommendation for VDT
+placement is to place the topmost line of the viewing
+monitor at or slightly below eye level (OSHA, 1991; US
+Department of Labor, 1995). This positioning strategy
+places the centre of the monitor approximately 15¡ below
+horizontal eye level and has been recommended because
+it allows the operator to assume a comfortable and
+natural posture, as the normal line of sight is actually 15¡
+below horizontal (Sanders and McCormick, 1993; East-
+man Kodak Human Factors Section, 1983).
+Eye gaze angle and visual convergence have been
+shown to be two important areas of research in VDT
+workplace design. Eye gaze angle has been reported to be
+dependent on head inclination angle, as eye gaze angle
+can be adjusted by varying the head angle and/or the
+inclination of the eye (Heuer and Owens, 1989). Previous
+research studies have found that eyes tend to diverge as
+they are elevated and converge as they are lowered (Her-
+ing, 1977; Hemholtz, 1962; Heuer and Owens, 1989). The
+results of these previous studies showed that natural
+near-distance convergence occurs when the gaze angle is
+below horizontal while divergence is found with elevated
+gaze angles. Both of the monitor placement angles tested
+within this current study allow for natural near-distance
+convergence by positioning the centre of the monitor at
+or below the natural line of sight.
+Due to the large numbers of visual, postural and mus-
+culoskeletal complaints still surrounding VDT worksta-
+tions, new ideas concerning workstation design are
+beginning to surface. One workstation modiÞcation is to
+lower the VDT to a position beyond 15 ¡ so that the
+centre of the monitor is actually below the work surface.
+It has been suggested that 40 ¡ is the preferred viewing
+angle for seated work (Eastman Kodak Human Factors
+Section, 1983) and for visual tasks such as VDT use
+(Kroemer and Hill, 1986). The lower position may aid
+vision by improving eye moisture. Sotoyamaet al (1996)
+reported that downward gaze angles decrease the surface
+area of the eye exposed to the atmosphere, thus reducing
+dry eye problems that arise during VDT use. Other
+research reports blink rate as a reliable indicator of dry
+eyes and visual discomfort (Villanueva et al, 1996). Be-
+yond visual recommendations, Ankrum and Nemeth
+(1995) postulated that the user is able to adopt a wider
+range of head tilt angles while viewing the monitor at 40¡,
+thereby reducing static loading of the muscles of the neck,
+shoulder and back. Conversely, as the monitor is placed
+below the work surface, deviated neck postures and re-
+sulting elevated muscle activity are a concern. Fatigue
+may also become a problem if head tilt angles associated
+with use of lower monitors remain moderately static over
+the course of VDT use.
+Although some theoretical exploration supports the
+idea of lowering the monitor, limited research has actual-
+ly investigated the e¤ects of a 40¡ position. The goals of
+the present study are to examine the biomechanical,
+performance, physiological and visual e¤ects on the user
+of a 40¡ and a 15¡ monitor position.
+Methods
+Subjects
+Subjects were recruited from North Carolina State Uni-
+versity and surrounding populations. Only individuals
+who had no history of a signiÞcant back, neck or shoul-
+der injury were considered as potential subjects. An in-
+jury was considered signiÞcant when it required lost time
+from work, school or regular activities. Five male and
+seven female subjects participated in the study. The aver-
+age age, height and weight of the subjects were 26.1
+(SD"4.4) yr, 174.1 (SD"8.7) cm, 77.9 (SD"18.2) kg,
+respectively. Seven of the subjects had uncorrected vision
+and Þve of the subjects required single-vision contacts.
+The experiment was performed in two sessions with a to-
+tal duration of approximately 5 and 12
+h.
+Apparatus
+The experiment was conducted at a fully adjustable VDT
+workstation, see Figure 1. The seat height, table height,
+monitor height and monitor angle were all positioned
+according to each subjectÕs anthropometric measure-
+ments. Seat height was calculated by adding two cen-
+timeters to the subjectÕs popliteal height to allow for seat
+compression (Bendix, 1987). However, once the subject
+240 E¤ects of »D„ height on operator: K. ‚. „urville et al.
+
+===== PAGE 3 =====
+
+Figure 2 Electrode placement locations
+was seated, slight seat height adjustments were made to
+ensure the subjectÕs comfort and to maintain a 90¡ knee
+ßexion angle as suggested by Cha¦n and Andersson
+(1991). Keyboard support surface was adjusted for each
+subject so that the elbow angle was approximately 90¡.
+(Cha¦n and Andersson, 1991; Sanders and McCormick,
+1993). The monitor height and tilt angle di¤ered for each
+subject depending on monitor placement condition, 15 or
+40¡. Monitor height, the distance from the ßoor to the
+centre of the screen, was based on the seated eye height of
+the subject. A 30Ð32 in viewing distance for both condi-
+tions was chosen to reduce eye convergence and accom-
+modation in an e¤ort to alleviate visual fatigue (Krueger,
+1984; Jaschinski-Kruza, 1991). The tilt angle of the moni-
+tor was set such that the line of sight was perpendicular
+to the screen surface.
+The workstation was located in a room that controlled
+for all types of glare. The windows were covered by
+closed blinds and the room was illuminated with ßuor-
+escent lamps that were not located directly over the
+workstation. No visible direct or reßected glare was
+found on the screen at any time. In both conditions,
+ambient illumination was approximately 475 lx and was
+measured at table height, which is within the recommen-
+ded ANSI (1988) standard range of 200Ð500 lx for VDT
+working areas.
+Each condition for each subject was videotaped on two
+orthogonally placed video cameras. A camera placed 3 m
+behind the subject recorded all movements in the coronal
+plane, while the camera positioned 2 m to the right of the
+subject recorded all movements in the sagittal plane.
+A background grid was placed in front of and to the left
+of the subject to provide permanent landmarks during
+analysis.
+Myoelectric activity was collected using 21 bipolar
+surface electrodes. The Ag ÐAg/Cl electrodes (model
+E22x, InVivo Metric, Healdsburg, CA) had an inner
+diameter of 4 mm. The speciÞc collection sites for the 10
+muscles were determined using submaximal exertions
+and palpation. The collection sites were located over
+the belly of the muscle or on a site where the muscle
+was most superÞcial. The 10 electrode pairs, with a
+2 cm inter-electrode distance, were positioned in line
+with the muscle Þbres. A ground electrode was placed
+on the acromion process of the subjectÕs right
+shoulder.
+The pre-ampliÞed signal was carried via shielded
+cables to the electromyographic (EMG) system (Data
+Design, Inc., Columbus, Ohio). The EMG signal was
+Þltered so that signals above 2000 Hz were eliminated.
+This Þltered signal was then rectiÞed and smoothed using
+an integration constant of 50 ms. The integrated signal
+was converted from analog-to-digital form using a con-
+verter running on an IBM compatible 486DX personal
+computer. The raw signal, bypassing the rectiÞcation and
+smoothing operations, was also collected.
+For maximum voluntary contractions and sub-maxi-
+mal experimental test contractions, a Kin Com isokinetic
+dynamometer was used (Chattecx Corporation, Chat-
+tanooga, TN). The dynamometer provided the ability to
+position the joint of interest in the appropriate postures
+in order to measure the maximum forces produced. Dur-
+ing the submaximal exertions the subjects utilized the
+visual feedback capabilities of the apparatus to control
+their force output. These techniques will be described in
+greater detail in the Procedure section.
+Experimental task
+The task consisted of reading text of 12 pt. Arial font,
+black letters on white background, presented on a 13 in
+VDT. The character height provided the preferred range
+of 20 Ð22 min of arc, optimizing both readability and
+legibility (ANSI/HFS 100-1988). The reading text,
+…uthering Heights by Emily Bronte, was selected for its
+moderate reading level (Flesch Reading Ease Score of
+54.7) and interest factor for the average college student.
+Speed of text presentation was controlled by the subject
+with mouse or keyboard and at the end of each chapter
+two questions were presented that required short answers
+or multiple choice selection. A program recorded the
+time spent reading each chapter and answering the cor-
+responding questions for measures of performance. The
+task was designed with minimal typing and mousing to
+reduce muscle and postural contributions arising from
+task related movement.
+Experimental design
+Independent variable . Two monitor placements were
+used for this study, 15¡ and 40¡ below the horizontal line
+of sight. Two 2 h sessions, each utilizing one monitor
+height, were scheduled for each subject using a counter-
+balanced design in which half of the subjects worked at
+the 15¡ monitor position Þrst, while the other half began
+with the 40¡ position.
+Dependent variables . Dependent variables are listed
+below:
+(1) Muscle activity. Integrated EMG data were used to
+quantify the activity of the sampled muscles. In order to
+compare activity within and across subjects, these integ-
+rated EMG data were normalized with respect to maxi-
+mal voluntary contraction EMG levels which were
+collected at the beginning of the experiment. The 10
+muscles sampled were: the right trapezius (RTRAP), left
+trapezius (LTRAP), right cervical erector spinae
+(RCERV), left cervical erector spinae (LCERV), right
+thoracic erector spinae (RTHOR), left thoracic erector
+spinae (LTHOR), right sternocleidomastoid (RSTERNO),
+left sternocleidomastoid (LSTERNO), right levator scap-
+ulae (RLEV), left levator scapulae (LLEV). A ground
+electrode was placed on the acromion process of the
+right scapula. The sampling locations are illustrated in
+Figure 2. Muscle activity was sampled at 5 min in-
+crements throughout the task.
+E¤ects of »D„ height on operator: K. ‚. „urville et al. 241
+
+===== PAGE 4 =====
+
+Figure 3 Head tilt angle diagram
+(2) Muscle fatigue One second test contractions, equal-
+ing 20% of the subjectÕs maximum voluntary contrac-
+tion, were performed every 15 min throughout the 2 h
+task. A Fast Fourier Transform (FFT) algorithm was
+employed to analyse the raw EMG data and calculate
+median frequencies of the raw EMG signal as a function
+of time. Any downward shift in median frequencies was
+explored as a possible indicator of fatigue.
+(3) Posture. Fluorescent dots were placed at seven loca-
+tions on the subject: centre of back of head (occiput),
+right shoulder and left shoulders (acromion processes),
+base of neck (C7), upper back (T6), canthus of right eye,
+and tragus of right ear. Head tilt and number of postural
+shifts (anteriorÐposterior and lateral) were evaluated by
+use of video analysis at three time points during the task
+(5, 65, 110 min). Head tilt was calculated by measuring
+the angle between the horizontal and the earÐeye line and
+then subtracting 15¡, which is the natural postural devi-
+ation (Jampel and Shi, 1992) (Figure 3).
+(4) Blink rate. The number of blinks per session were
+recorded while viewing the video of the subjectÕs session.
+These were sampled in 5 min intervals, three di¤erent
+times throughout the experiment at 5 Ð10, 65 Ð70 and
+110Ð115 min.
+(5) »isual acuity . SubjectsÕs visual acuity was tested
+upon completion of each session using a Titmus Vision
+Tester (Model OV-7M) and a Landholt rings test.
+(6) Performance. Performance was assessed along two
+dimensions: quality and productivity. The percentage of
+correct answers was considered a measure of quality of
+work, while productivity considered the time involved
+with reading each chapter and answering the respective
+questions.
+(7) Heart rate. Heart rate was monitored using a heart
+rate monitor (Polar) and was sampled at 15 min intervals
+throughout the experiment.
+(8) Subjective assessment /discomfort questionnaire .A t
+the conclusion of the experiment the subjects were asked
+to complete a questionnaire pertaining to workstation
+conÞguration preferences and discomforts encountered
+during the experiment. The questionnaire consisted of
+four questions pertaining to workstation design prefer-
+ences followed by a table of body parts and a rating scale
+[1 (barely noticeable) to 5 (painful)] to aid subjects in
+accurately describing any discomfort felt during the ex-
+periment. The subject was also asked to discriminate
+between new, aggravated or existing pain or discomfort.
+Procedure
+The subjects participated in two experimental sessions
+which included preparatory information, measurement
+of anthropometry (Session d1 only), electrode place-
+ment, maximal voluntary contractions, the 2 h experi-
+mental reading task, and concluding questions.
+Session d1. The subject was informed of the require-
+ments of the experiment and asked to carefully read and
+sign a consent form. Basic anthropometric measures were
+taken. Using the subjectÕs anthropometric measure-
+ments, workstation dimensions were calculated. The sub-
+jectÕs neck and upper back were then prepared for elec-
+trode placement, using established guidelines (Marras,
+1990), and the electrodes were a¦xed to the subjectÕs
+skin.
+A battery of seven di¤erent maximal isometric exer-
+tions were performed by each subject. The subjects were
+seated in the task chair and instructed to keep both feet
+ßat on the ßoor while concentrating on using only the
+neck and upper back muscles to exert maximum force.
+Verbal encouragement was given to the subjects for mo-
+tivation. The Þrst exertion required the subject to extend
+the neck and head against the resistant arm of the Kin
+Com contacting at the subjectÕs occipital bone, using
+only the neck and upper back muscles (Schu¬ ldt, 1988).
+This cervical spine extension was useful in generating
+a maximum exertion from the cervical erector spinae.
+The next contractions involved lateral ßexion of the head
+to the right and left sides with resistance at the level of the
+temples (Schu¬ ldt, 1988). Forward pushing of the head,
+with resistance against the forehead, generated maximum
+activity from the sternocleidomastoid (Schu¬ ldt, 1988). In
+order to generate maximum contractions from the tra-
+pezius muscles two maximum exertions were performed.
+In the Þrst trial the subjects attempted to abduct their
+arm against resistance while their arm was in a 90 ¡
+abducted posture (Ha¬g get al, 1987). The second method,
+shoulder elevation, was achieved by having the subjects
+pull up on two inextensible straps that were secured to
+a platform on which the subject stood (Glasscocket al,i n
+review).
+After the maximum exertions, the subject was taken to
+the experimental VDT workstation. The monitor was
+placed at either 15¡ or 40¡ below the horizontal plane of
+the eye. The subject was positioned in the workstation
+and asked to perform a 2 h reading comprehension task.
+A script of basic instructions was read to each subject,
+describing in detail how to perform the task and instruct-
+ing the subject to refrain from leaning on the workstation
+but to move head and neck freely as desired. Although no
+explicit instructions concerning trunk posture were pro-
+vided, subjects were observed to remain resting against
+the backrest, which was Þxed at 95¡ (slightly tilted back).
+Performance was measured by grading the answers given
+by subjects at the end of each chapter. Subjects were
+unable to return to any previously read section; therefore,
+percentage of correct answers provided a reliable task
+comparison between the two sessions. Pace was also
+calculated on all subjects by recording the time required
+to read each chapter and to complete each question and
+answer section.
+At 5 min intervals during the reading task muscle
+EMG was sampled for 1 s at a frequency of 1024 Hz. If
+the operator happened to be using the mouse or the
+keyboard at the time of data collection, the experimenter
+waited until he or she had completed that activity before
+collecting EMG data. All EMG data from the 10 muscles
+were visually inspected on-line after each collection to
+assure data quality.
+242 E¤ects of »D„ height on operator: K. ‚. „urville et al.
+
+===== PAGE 5 =====
+
+Table 1 Mean values from normalized EMG results
+Muscle REGWF
+Group
+Mean EMG
+(% of MVC)
+Condition SigniÞcance
+(p< )
+RSTERNO A 3.9 40 0.0001
+B 2.7 15
+LSTERNO A 3.0 15 0.5844
+A 2.9 40
+RLEV A 2.9 40 0.0001
+B 2.4 15
+LLEV A 3.5 40 0.4473
+A 3.4 15
+RTRAP A 2.1 40 0.1716
+A 1.9 15
+LTRAP A 2.5 15 0.0001
+B 1.9 40
+RCERV A 6.0 40 0.0001
+B 3.5 15
+LCERV A 5.8 40 0.0001
+B 3.6 15
+RTHOR A 5.0 40 0.0001
+B 3.4 15
+LTHOR A 6.8 40 0.0001
+B 3.3 15
+Submaximal test contractions were performed every
+15 min in order to detect the onset of fatigue in the
+muscles. The test contraction consisted of a 1 s, non-
+fatiguing static exertion that interrupted the experi-
+mental task for approximately 30 s. The test was conduc-
+ted with both upper arms abducted 90 ¡, the forearms
+horizontal and 90¡ of ßexion in the elbows (Ha ¬ gget al,
+1987). A weight equaling 20% of the subjectÕs maximum
+voluntary force was suspended from each arm, by a sling
+located just proximal to each elbow. At the same time,
+the subject exerted 20% of his or her maximum volunt-
+ary head extension force with resistance from the Kin
+Com at the occiput. When the subject reached steady
+state (usually within 3 s), with the head extension force at
+20% and both arms in the correct position, EMG at
+a frequency of 1024 Hz was collected for 1 s. The weights
+were then removed from the arms and the subject im-
+mediately returned to the task.
+A video tape of the subject was used to record postural
+changes of the subject throughout the session. From this
+tape, head tilt was sampled at three di¤erent times in the
+experiment (5, 65, 110 min). Each sample was recorded at
+three time points, 30 s before the sample time, at the
+sample time and 30 s after the sample time. All time
+points were then averaged to obtain the mean ear Ðeye
+line angle for each subject at each condition. The number
+of posture shifts, horizontal movements, and the blink
+rate were also measured from the video tapes and sam-
+pled for a period of 5 min at three times (5 Ð10, 65Ð70,
+110Ð115 min) into the experiment.
+At the completion of the 2 h reading task, the subjectÕs
+visual acuity was immediately tested using the Landholt
+rings test. The battery of seven maximum voluntary
+contractions were repeated. Finally, the subjects were
+asked to complete the subjective assessment/discomfort
+questionnaire.
+Session d2. Session d2 was performed with the moni-
+tor in the alternate position. The subject was again pro-
+vided with the consent form for review and signature. All
+of the activities performed in Session d1 were repeated
+with the exception of taking anthropometric measure-
+ments. Upon conclusion the subject was asked to com-
+plete Part II of the questionnaire. This questionnaire was
+formatted identically to Part I but with the addition of
+a question asking which of the monitor positions the
+subject preferred.
+Data analysis
+C programs were developed and utilized to process each
+subjectÕs integrated EMG data and calculate normalized
+EMG signals. Fast Fourier transform programs written
+in MatLab software were used to evaluate raw EMG
+data. MANOVA and ANOVA techniques compared
+muscle activation and fatigue levels as a function of
+monitor height.
+The video tapes of each session for each subject were
+evaluated using video analysis. From this analysis blink
+rate, postural shifts (anteriorÐposterior and lateral) and
+sagittal head tilt angle were acquired. Subjective assess-
+ment/discomfort, performance rating variables, visual
+acuity and heart rate were all taken directly from the
+associated test. All dependent variables were statistically
+analysed and compared as a function of monitor height.
+Analyses of variance were used to detect signiÞcant
+e¤ects of the independent variable and the interac-
+tions with each of the dependent variables. The
+RyanÐEinotÐGabrielÐWelsch MultipleF Test (REGWF)
+was used to identify the e¤ects that were found to be
+signiÞcant.
+Results
+Normalized EMG variables
+The mean normalized EMG values for all muscles sam-
+pled from all subjects during both experimental condi-
+tions are summarized in Table 1 . Analysis of variance
+results showed that the monitor placement condition had
+a signiÞcant e¤ect ( p(0.01) on several of the muscles.
+A REGWF Test was performed on the data after the
+ANOVA in order to group the means as equal or signiÞ-
+cantly di¤erent. The 40¡ condition showed signiÞcantly
+higher mean muscle activity for RSTERNO, RLEV,
+RCERV, LCERV, RTHOR, and LTHOR. Figure 4
+shows the response of the cervical and thoracic erector
+spinae muscles. In the 15 ¡ condition, only the LTRAP
+was signiÞcantly higher. No signiÞcant di¤erence occur-
+red between the 15 ¡ and 40 ¡ condition for the
+LSTERNO, LLEV or RTRAP.
+Correlation analysis was performed on the data, and
+no two muscles demonstrated a high correlation coe¦c-
+ient. This demonstrates su¦cient isolation of electrode
+sampling of EMG data.
+Muscle fatigue
+Raw electromyography data were analysed in the fre-
+quency range of 1Ð512 Hz using a FFT algorithm per-
+formed on 1024 data points. These data points were
+collected during the test contractions over a period of 1 s.
+The 59Ð61 Hz frequency bands were removed from the
+frequency range before analysis. Median frequencies were
+generated for each muscle, subject and test contraction.
+Median frequency shift analysis was performed by aver-
+aging the initial two-test contraction median values and
+the Þnal two-test contraction median values. ANOVA
+E¤ects of »D„ height on operator: K. ‚. „urville et al. 243
+
+===== PAGE 6 =====
+
+Figure 4 Normalized EMG for cervical and thoracic erector spinae muscles
+Table 2 Mean number of postural shifts over time for each condition
+Time 1 Time 2 Time 3
+Condition Mean SD Mean SD Mean SD
+15¡ 2.9 3.2 3.7 3.0 5.8 2.8
+40¡ 3.4 3.4 4.4 2.1 4.0 2.9
+results showed no signiÞcant shift in median frequency
+over the course of the testing session and no signiÞcant
+interaction of time and monitor condition. No signiÞcant
+fatigue measures were found for either monitor position
+using this methodology.
+Heart rate
+The mean heart rate values at each collection period were
+compared between the two monitor placement condi-
+tions. No signiÞcant di¤erence was noted between the 40¡
+and 15¡ placement. Further, no trends over time were
+apparent in the data, disclosing that heart rate was not
+a¤ected by monitor position or length of time on task.
+Posture variables
+At the 15¡ monitor condition the average head tilt was
+found to be 3.1¡ (SD"5.76) below horizontal. This head
+tilt was signiÞcantly di¤erent (p(0.0001) from the 21.3¡
+(SD"7.93) head tilt obtained at the 40¡ condition. Thus
+on average, subjects tilted their heads more than 18 ¡
+further at the 40¡ condition than the 15¡ condition.
+The number of posture shifts, also measured from the
+video, did not signiÞcantly di¤er across the two condi-
+tions at any of the three times, nor did they di¤er between
+conditions when averaged across time. However, posture
+shifts did signiÞcantly increase over time ( p(0.05) for
+each condition. Further analysis showed that posture
+shifts in Time 1 di¤ered from posture shifts in Time 3.
+Posture shifts at Time 2 did not signiÞcantly di¤er from
+the other two times, though the number of movements
+fell between those at Time 1 and Time 3. Average number
+of movements at the three times are displayed inTable 2.
+Blink rate
+Blink rate (blinks/min) was analysed for nine subjects at
+three di¤erent times during both sessions. The rates were
+then compared across monitor heights and over time. No
+signiÞcant di¤erences were found between the two moni-
+tor conditions. Results also did not di¤er signiÞcantly
+over time. Use of contact lenses was also taken into
+account; however, no signiÞcant di¤erences existed be-
+tween blink rates of contact wearers and non-wearers.
+Visual acuity
+Visual acuity scores were measured on nine subjects
+following each session. No signiÞcant di¤erence was
+found between scores at the two monitor heights. There
+was also no signiÞcant di¤erence in scores of four contact
+lens wearers with the Þve non-wearers. None of the
+subjects wore glasses.
+Performance variables
+Performance indices of reading performance and pace for
+10 subjects were evaluated for both the 15 and 40¡ moni-
+tor heights. No signiÞcant di¤erence in either perfor-
+mance measure was found to exist between the two
+monitor heights, suggesting that monitor height had no
+e¤ect on subjectsÕ ability or ease in reading and under-
+standing the material.
+Subjective comments and opinions
+Seven of the 12 subjects preferred the 15¡ position. Two
+of these subjects preferred it because they were more
+accustomed to the monitor in this position, while two
+subjects felt the 15¡ position was more comfortable. One
+subject cited less visual fatigue at the 15¡ position and the
+remaining two subjects did not state the reason why they
+preferred the 15¡ position. Of the Þve subjects that prefer-
+red the 40¡ position, two reported that it allowed their
+244 E¤ects of »D„ height on operator: K. ‚. „urville et al.
+
+===== PAGE 7 =====
+
+Table 3 Summary of subjective complaints
+Body part Condition d Complaints Average complaint
+rating
+Lower back 15 6 2.83
+Lower back 40 6 2.17
+Neck 15 5 2.00
+Neck 40 5 3.00
+Shoulder 15 5 3.00
+Shoulder 40 5 2.20
+Eye 15 5 1.80
+Eye 40 3 2.00
+Hips/thighs 15 4 3.25
+Hips/thighs 40 3 3.00
+Upper back 15 1 3.00
+Upper back 40 3 2.67
+Knees/feet 15 3 1.67
+Knees/feet 40 2 2.50
+Wrist/arm 15 2 3.00
+Wrist/arm 40 0 0.00
+Head 15 1 1.00
+Head 40 1 1.00
+necks to be more relaxed, two felt it was easier to read
+and the other subject preferred the 40¡ position because
+she felt it was further away, though viewing distance was
+the same for both monitor positions. Responses to the
+open-ended questions concerning preference and discom-
+fort revealed eight subjects in each condition reporting
+discomfort and muscular fatigue in the upper legs and
+buttocks from sitting for 2 h.
+A total of 60 subjective complaints of pain and discom-
+fort were reported by subjects on the discomfort survey
+ranging from 1 (barely noticeable) to 5 (painful). The
+lower back received six complaints for each condition
+and was the most commonly reported body part on the
+survey. Discomfort in the hips and thighs received the
+highest rating among subjects with an average complaint
+rating of 3.25 in the 15 ¡ condition and 3.00 in the 40 ¡
+condition. Complaint frequency, average rating per com-
+plaint, and body part/condition are displayed inTable 3.
+No signiÞcance was found for any subjective variable as
+a function of monitor position, yet these results reßect the
+large number of complaints usually encountered when
+investigating VDT stations.
+Discussion
+The results of the normalized EMG analysis showed
+signiÞcantly higher muscle activity in the 40 ¡ monitor
+condition for the cervical and thoracic erector spinae.
+The magnitude of EMG activity doubled from 3% max-
+imum voluntary contraction (MVC) in the 15¡ condition
+to 6% MVC in the 40¡ condition (Figure 4). According to
+Jonsson (1978) static load level should not exceed 5%
+MVC for work tasks of long duration. Additionally,
+Sj+gaard et al(1986) found that static contractions of 5%
+MVC sustained for 1 h induced muscle fatigue as in-
+dicated by intramuscular pressure. Although subjects
+were allowed to move throughout the experiment, oper-
+ating a VDT is deÞned as a static task. The FFT analysis
+of muscle fatigue did not show onset of fatigue for either
+condition. This may be due to the relatively short dura-
+tion of the sessions, 2 h, versus a typical 8 h work day.
+The left trapezius was the only muscle that showed
+higher activity at the 15 ¡ condition. The magnitude of
+EMG activity for both conditions was substantially less
+than the 5% MVC level shown to induce fatigue. The 15¡
+condition exhibited a 2.5% MVC while the 40¡ condition
+was at 1.9%. This activity could be a result of the posture
+assumed between the two conditions. At the 15¡ condi-
+tion, most subjects were sitting more erect, while at the
+40¡ position, the shoulders tended to relax forward. The
+right trapezius muscle activity levels were comparable,
+possibly resulting from the use of the right arm for
+scrolling through the text in both conditions.
+Analysis of the video tapes for each session revealed
+a signiÞcant increase ( p(0.05) over time in all body
+movements for both conditions. Between the two moni-
+tor placement conditions however, no signiÞcant di¤er-
+ence was found in the total number of movements
+throughout the experiment. These results contradict
+Ankrum and Nemeth (1995) who suggested that a lower
+monitor placement would encourage movement as users
+could assume a wider variety of postures without sacriÞ-
+cing visual acuity. Instead, our results reveal the in-
+creased desire to shift postures in both conditions over
+the duration of the task, thus reßecting the discomfort
+reported in subjective questioning.
+Video analysis further allowed for quantiÞcation of
+head tilt. The average head tilt, measured below the
+horizontal, at the 40¡ condition was !21.3 (SD"8.7)¡
+and 3.1 (SD"6.8)¡ during the 15 ¡ condition. The 40 ¡
+condition was found to necessitate a signiÞcantly greater
+head tilt than the 15¡ condition. A lower monitor height
+is recommended for its ßexibility in allowing the user to
+assume either a lower gaze angle or greater head tilt
+(Ankrum and Nemeth, 1995). Our Þndings indicate that
+subjects at the lower monitor condition are not shifting
+between the postures that are theoretically available and
+are instead assuming a relatively static deviated posture.
+In a previous study, Cha¦n (1973) found no musculo-
+skeletal problems when the head tilt was less than 15 ¡,
+but when the head tilt increased to 30 ¡, fatigue was
+apparent. However, there has been insu¦cient evidence
+of fatigue within the range of 15¡ and 30¡ of head tilt. The
+21.3¡ of average head tilt found at the 40¡ condition falls
+into this range. Although fatigue was not present in the
+FFT analysis, the signiÞcantly elevated muscle activity in
+the erector spinae indicates that the muscles were work-
+ing harder to maintain the deviated head position. Fu-
+ture work that includes a more realistic 8 h work day
+may be necessary to elicit the longer term e¤ects of
+muscular fatigue, visual fatigue, degraded operator per-
+formance and distinct changes in operator physiology.
+Conclusions
+As the use of VDTs increases in the home, school and
+workplace, the number of related physical discomfort
+complaints is likely to increase. Many have suggested
+alternate workstation conÞgurations in an attempt to
+alleviate physical factors promoting discomfort. One
+such suggestion is lowering the height of the video dis-
+play terminal, which has been argued to reduce visual
+fatigue, allow the user to assume a wider variety of
+postures and reduce static loading. In this study we
+compared a 15¡ and 40¡ below horizontal monitor place-
+ment and investigated the correlating physical di¤erences
+during an experimental session. The expressed advant-
+ages of the lower monitor were not found in this 2 h
+E¤ects of »D„ height on operator: K. ‚. „urville et al. 245
+
+===== PAGE 8 =====
+
+experiment. Subjects did not shift their postures more
+with either monitor condition nor was blink rate or
+visual acuity found to be signiÞcantly di¤erent between
+the conditions. Greater muscle activity for six of the ten
+muscles investigated was found during the 40¡ position.
+Although corresponding muscular fatigue was not detec-
+ted, the activity of six muscles of the neck and back was
+found to double for the 40¡ condition compared to the
+15¡ condition. Therefore, the results of this 2 h reading
+comprehension study found no evidence in any of the
+dependent measures to indicate that switching from a 15¡
+below horizontal monitor placement to a 40 ¡ monitor
+position would improve the health and safety of the
+operator.
+References
+Ankrum, D. R. and Nemeth, K. J.(1995) Posture, comfort, and monitor
+placement Ergonomics in Design April, 7Ð9
+ANSI/HFS Standard No. 100-1988, The Human Factors Society, Santa
+Monica, CA
+Arndt, R. (1983) Working posture and musculoskeletal problems of
+video display terminal operatorsÐreview and reappraisal Am Ind
+Hyg Assoc J 44 (6) 437Ð446
+Bendix, T. (1987) Adjustment of the Seated …orkplaceÐ…ith Special
+Reference to Heights and Inclinations of Seat and„able. Laegeforenin-
+gens Forlag, Copenhagen
+Cha¦n, D. B.(1973) ÔLocalized muscle fatigueÐdeÞnition and measure-
+ment J Occup Med 15, 346Ð354
+Cha¦n, D. B. and Andersson, G. B. J.(1991) Occupational Biomechanics,
+2nd edn. Wiley, New York
+Eastman Kodak Human Factors Section (1983) Ergonomic Design
+for People at …ork, Vol 1. Lifetime Learning Publications,
+Belmont, CA
+Glasscock, N., Turville, K., Joines, S. and Mirka, G.in review E¤ect of
+personality type on muscle coactivation during elbow ßexionHuman
+Factors
+Grandjean, E. (1980) Fitting the „ask to the Man , 3rd Edn. Taylor
+& Francis, London
+Ha¬ gg, G. M., Suurku¬ la, J., and Liew, M. (1987) A worksite method
+for shoulder muscle fatigue measurements using EMG, test con-
+tractions and zero crossing technique Ergonomics 30(11),
+1541Ð1551
+Hemholtz, H. (1962) Physiological Optics, Vol 3. Dover, New York
+Hering, E. (1977) „he „heory of Binocular »ision. Plenum, New York
+Heuer, H. and Owens, D.(1989) Vertical gaze direction and the resting
+posture of the eyes Perception 18 363Ð377
+Jampel, R. S. and Shi, D. X.(1992) The primary position of the eyes, the
+resetting saccade, and the transverse visual head plane Invest Oph-
+thalmol »isual Sci 33(8) 2501Ð2510
+Jaschinski-Kruza, W. (1988) Visual strain during VDU work: the e¤ect
+of viewing distance and dark focus Ergonomics 31(10) 1449Ð1465
+Jaschinski-Kruza, W.(1991) Eyestrain in VDU users: viewing distances
+and the resting position of the ocular muscles Human Factors 33,
+69Ð83
+Jonsson, B. (1978) Kinesiology. With special reference to electromyo-
+graphic kinesiology inContemporary Clinical Neurophysiology(EEG
+Suppl. 34), 417Ð428
+Juliussen, E. and Petska-Juliussen, K.(1994) „he 7th Annual Computer
+Industry Almanac. Computer Industry, Almanac, Dallas, TX
+Kilbom, A., Persson, J. and Jonsson, B. (1986) Risk factors for work-
+related disorders of the neck and shoulderÐWith special emphasis
+on working postures and movements (44Ð53) in Corlett, N., Wilson,
+J. and Manenica I.(eds.) „he Ergonomics of…orking PosturesTaylor
+& Francis, London
+Kroemer, K. H. E. and Hill, S. G. (1986) Preferred line of sight angle.
+Ergonomics, 29(9) 1129Ð1134
+Krueger, H.(1984) Visual functions in o¦ceÐincluding VDUs introduc-
+tory paper in Ergonomics and Health in Modern O¦ces . Taylor
+& Francis, London
+Kumar, S.(1994) A computer desk for bifocal lens wearers, with special
+emphasis on selected telecommunication tasks Ergonomics 37(10)
+1669Ð1678
+Leavitt, S. B. (1995) Lower your VDT monitor…orkplace Ergonomics
+July/August, 32Ð35
+Marras, W. (1990) Guidelines: industrial electromyographyInt. J. Ind.
+Ergonomics 6,8 9Ð93
+Occupational Safety and Health Administration (1991) …orking Safely
+with»ideo Display„erminals. US Department of Labor, Washington,
+DC
+Pickett, C. W. L. and Lees, R. E. M. (1991) A cross-sectional study of
+health complaints among 79 data entry operators using video display
+terminals Occup Med 41, 113Ð116
+Sanders, M. S. and McCormick, E. J.(1993) Human Factors in Engineer-
+ing Design, 7th edn. McGraw-Hill, New York
+Sauter, S. L., Schliefer, L. M. and Knutson, S. J.(1991) Work posture,
+workstation design, and musculoskeletal discomfort in a VDT data
+entry task Human Factors 33, 151Ð167
+Schu¬ ldt, K.(1988) On neck muscle activity and load reduction in sitting
+postures Scand J Rehabil Med (supplement No. 19)
+Sjùgaard, G., Kiens, B., Jùrgensen, K. and Saltin, B.(1986) Intramuscu-
+lar pressure, EMG and blood ßow during low-level prolonged static
+contraction in man Acta Physiologica Scand 128, 475Ð484
+Sotoyama, M., Jonai, H., Saito, S. and Villanueva, M. B. G. (1996)
+Analysis of ocular surface area for comfortable VDT workstation
+layout Ergonomics 39(6) 877Ð884
+Tyrrell, R. A. and Leibowitz, H. W.(1990) The relation of vergence e¤ort
+to reports of visual fatigue following near work Human Factors 32,
+341Ð357
+U.S. Department of Labor. (1995) Safety with video display terminals,
+Fact Sheet 95-24
+Villanueva, M. B. G., Sotoyama, M., Jonai, H., Takeuchi, Y. and Saitu,
+S. (1996) Adjustments of posture and viewing parameters of the eye to
+changes in the screen height of the visual display terminalErgonomics
+39(7) 933Ð945
+Watson, D. H. and Trott, P. H.(1993) Cervical headache: an investiga-
+tion of natural head posture and upper cervical ßexor muscle perfor-
+mance Cephalalgia 13, 272Ð284
+246 E¤ects of »D„ height on operator: K. ‚. „urville et al.

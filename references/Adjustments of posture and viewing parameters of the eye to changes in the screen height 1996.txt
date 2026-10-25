@@ -1,0 +1,627 @@
+This article was downloaded by: [University of Sydney]
+On: 02 April 2013, At: 00:17
+Publisher: Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,
+37-41 Mortimer Street, London W1T 3JH, UK
+
+                            Ergonomics
+
+                                             Publication details, including instructions for authors and subscription information:
+                                             http://www.tandfonline.com/loi/terg20
+
+                            Adjustments of posture and viewing parameters of
+                            the eye to changes in the screen height of the visual
+                            display terminal
+
+                                             MARIA BEATRIZ G. VILLANUEVA a , MIDORI SOTOYAMA b , HIROSHI JONAI b , YASUHIRO
+                                             TAKEUCHI a & SUSUMU SAITO b
+                                             a Department of Hygiene, School of Medicine, Nagoya University, 65 Tsurumai-cho, Showa-
+                                             ku, Nagoya, 466, Japan
+                                             b National Institute of Industrial Health, 6-21-1 Nagao, Tama-ku, Kawasaki, 214, Japan
+                                             Version of record first published: 31 May 2007.
+
+To cite this article: MARIA BEATRIZ G. VILLANUEVA , MIDORI SOTOYAMA , HIROSHI JONAI , YASUHIRO TAKEUCHI & SUSUMU
+SAITO (1996): Adjustments of posture and viewing parameters of the eye to changes in the screen height of the visual display
+terminal, Ergonomics, 39:7, 933-945
+
+To link to this article: http://dx.doi.org/10.1080/00140139608964515
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Full terms and conditions of use: http://www.tandfonline.com/page/terms-and-conditions
+
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to
+anyone is expressly forbidden.
+
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae, and drug doses should
+be independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims,
+proceedings, demand, or costs or damages whatsoever or howsoever caused arising directly or indirectly in
+connection with or arising out of the use of this material.
+Downloaded by [University of Sydney] at 00:17 02 April 2013        Adjustments of posture and viewing parameters of the eye to
+                                                                     changes in the screen height of the visual display terminal
+
+                                                                    MARIABEATRIGZ. VILLANUEVMAI,D~ORSIOTOYAMHAI,R~OSHJIONAI,$*
+                                                                                      YASUHIRTOAKEUCHanId~ S u s u ~ uS ~ r r o t
+
+                                                                             ' ~ e ~ a r t m eonftHygiene, School of Medicine, Nagoya University,
+                                                                                       65 Tsurumai-cho, Showa-ku, Nagoya 466, Japan
+
+                                                                             ' ~ a t i o n a lInstitute of Industrial Health, 6-21-1 Nagao, Tama-ku,
+                                                                                                        Kawasaki 214, Japan
+
+                                                                     Keywords: Visual display terminal (VDT); Screen height; Posture; Eye position;
+                                                                                                   Ocular surface area (OSA).
+
+                                                                    To understand the motions caused by the interaction among the different body
+                                                                    parts, adjustments of both eye position and body posture to screen height settings
+                                                                    of 80, 90, 100, 110 and 120cm were determined in 10 subjects. The subjects
+                                                                    engaged in a non-keyboard, interactive computer game requiring constant visual
+                                                                    monitoring. Changes in body positions were determined by video image analysis
+                                                                    for the posture parameters and by video frame analysis for the eye parameters.
+                                                                    Analysis of variance and correlation analysis showed that neck angle, thoracic
+                                                                    bending and vertical eye position were significantly affected by changes in the
+                                                                    screen height of the VDT. The study of the interrelationship of eye position and
+                                                                    body posture suggested that changes in body positions sewed to complement the
+                                                                    eye position in attaining a better view of the visual target. Viewing angle was
+                                                                    observed to be decided mainly by inclination of the neck and the eye. Thoracic
+                                                                    bending was also noted to contribute in setting the viewing angle, although to a
+                                                                    lesser extent. On the other hand, viewing distance and trunk inclination showed
+                                                                    significant correlation.
+
+                                                                                                     1. Introduction
+                                                             The introduction of visual display terminals (VDT) in the workplace has led to
+                                                             numerous reports of health disorders from its use. The disorders are predominantly
+                                                             referable to the eye and the musculoskeletal system (Hiinting el al. 1981, Ardnt 1983,
+                                                             Knave et al. 1985, Gobba et al. 1988, Bergqvist et al. 1995). Factors believed to ,
+                                                             contribute to the development of these disorders include static position assumed
+                                                             during work, increased work intensity and improper workstation design. As a
+                                                             consequence, the spawning of many guidelines aimed at preventing adverse effects
+                                                             in workers using visual display terminals were observed.
+
+                                                                 Recommendations for visual comfort favour a downward eye inclination thereby
+                                                             advocating workstation setting below the level of the eye (Kroemer and Hill 1986,
+                                                             Heuer et al. 1991, Taptagaporn and Saito 1993). Workstation designs were proposed
+                                                             to offset musculoskeletal problems (Grandjean 1984, Cakir el al. 1980). These
+                                                             guidelines, however, apply to conventional VDT workstations where the CRT
+                                                             screen is used in an office setting or in the performance of a desktop task.
+
+                                                                 The increasing popularity of various screen sizes and height locations compounds
+                                                             the dilemma of posture and eye position during work. The recent advent of large-size
+
+                                                                 *To whom all correspondence may be addressed.
+
+                                                                                           0014-0139196 S12.00 01996 Taylor & Francis Ltd
+                                                             934  M . B. G . Villanueva et al.
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013  monitors for convenient use of graphic user interfaces (GUI), such as icons and
+                                                             symbols, may induce an upward gaze and a more erect body posture. Similar body
+                                                             positions of workers may be noted in traffic control centres and nuclear power
+                                                             facilities because of the upward location of the screen. The use of flat panel displays
+                                                             (FPD), on the other hand, may bring about a downward gaze and a bent posture.
+
+                                                                 The integration of the VDT in many workplaces creates a new dimension to the
+                                                             increasing number of ergonomic concerns with VDT use. Constrained postures are
+                                                             imposed among VDT users performing tasks that require sustained visual monitoring
+                                                             (Hiinting et al. 1980)such as in vigilance tasks observed in air traffic controls, medical
+                                                             and industrial monitoring, and military target spotting (Craig and Davies 1991). The
+                                                             introduction of various non-keyboard input devices, e.g. mice, pucks and joysticks, in
+                                                             workstations for graphic and engineering designs and programming may further
+                                                             restrict free movement among VDT users. Further, VDT tasks, while using these non-
+                                                             keyboard input devices such as pointing, dragging and selection, require more
+                                                             concentrated fixation of the operator's eyes on the screen that would often result in
+                                                             constrained postures.
+
+                                                                 To better understand the outcomes of VDT use, it is vital to comprehend how the
+                                                             different body parts adapt to a complex problem. It is the aim of this study to
+                                                             determine the ergonomic problems in VDT work with non-keyboard input devices.
+                                                             Postural reaction to changes in the height of the screen while performing a non-
+                                                             keyboard task was determined. Body and eye positions affected by screen height
+                                                             modifications were ascertained. Mutually related body and eye movements were also
+                                                             identified.
+
+                                                                                               2. Subjects and method
+
+                                                             2.1. Subjects
+                                                             Ten subjects (8 male and 2 female) participated in the experiment. Mean age was
+                                                             36.1 f 8.8 years. Mean height was 168.8 f 5.5cm.
+
+                                                             2.2. Experimental workstation
+                                                             The selection of the five screen height settings, i.e., 80,90, 100, 110and 120cm, used in
+                                                             the experiment was based on the recommended table height of 67cm (Japanese
+                                                             Industrial Standard S1010-1978 1993). The most prevalent CRT size of 14in. was
+                                                             selected for the experiment. The central processing unit (CPU) and the CRT monitor
+                                                             placed on top of a table of height 67cm resulted in a screen height of 100cm (from the
+                                                             floor to the middle of the screen). Change of screen height was made at 10-cm
+                                                             increments.
+
+                                                                 To better evaluate the interaction between the screen and the operator, the
+                                                             mouse table height was fixed. The table height upon which the mouse rests was
+                                                             constant for all subjects at 67cm. The mouse table is detached from the adjustable
+                                                             screen table.
+
+                                                                 Prior to the start of the experiment, the subjects were asked to adjust the chair
+                                                             until the forearm was parallel to the ground when handling the mouse. This forearm
+                                                             position prevents extreme hand and arm posture responsible for local musculoskeletal
+                                                             discomfort (Chaffin and Andersson 1991, Hagberg et al. 1995).The back support was
+                                                             adjusted to desired levels. Thereafter, the chair setting remained unchanged through-
+                                                             out the experiment. These experimental conditions are considered to be similar to the
+                                                             actual VDT workstations where larger or smaller sizes of screens were used on
+                                                             traditional desks.
+                                                             VDTs and health disorders                                               935
+
+                                                                 The illumination levelswere 230 lx on the mouse table and 120lx on the CRT. The
+                                                             luminance level of the brightest area of the screen was 79cd/m2 while that of the
+                                                             darkest area was. 11cd/m2.
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013  2.3. Task
+                                                             The subjects were asked to engage in an interactive computer game. The game
+                                                             required constant visual monitoring-similar to a vigilance task-to detect signals
+                                                             that would determine the operator's next action. T o purely extract the effects of the
+                                                             screen height on posture and eye position and to highlight human-screen interaction,
+                                                             only the mouse was used as the input device in this experiment. Moreover, keyboard
+                                                             operation sometimes requires human-keyboard interaction that may confound the
+                                                             analysis.
+
+                                                                 The subjects performed the VDT task for 3 min at each screen height to allow
+                                                             adaptation to the workstation. Posture and eye position were evaluated at the end of
+                                                             the allotted time.
+
+                                                                 Results of long duration posture evaluation of 4 out of the 10 subjects provided a
+                                                             basis for the observation period in this experiment. Under the same experimental
+                                                             conditions as in the present study, the posture of the subjects was observed while
+                                                             performing the task for 50 min (Japan Industrial Safety and Health Association 1985)
+                                                             at the different screen height settings. The body positions measured were the same as
+                                                             those described in 82.4. The mean coefficient of variation of the different body
+                                                             positions evaluated during the long duration experiment was 3.1% (SD = 2.4%;
+                                                             range = 0.7-9%).
+
+                                                                 Rest was introduced in between height changes. The subjects were also asked to
+                                                             stand away from the experimental workstation in between height changes.
+
+                                                             2.4. Posture analysis
+                                                             2.4.1. Body parameters: Five markers were put on the subjects, the location of which
+
+                                                             FOREHEAD
+
+                                                                       7th CERVICAL VERTEBRA
+                                                                           ANGULUS INFERIOR
+
+                                                             Figure 1. Location of markers and measurement points for body posture.
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                    M . B. G . Villanuevaet al.
+
+                                                                                 Figure 2. Angles measured in determining eye position.
+
+                                                             were the following: (I) forehead; (2) seventh cervical vertebra (C7); (3) inferior angle
+                                                             of the scapula; (4) iliac crest; and (5) knee joint. One marker was placed a t the middle
+                                                             of the screen (figure 1). Body positions at different screen height settings were
+                                                             captured by a video camera from the left profile of the subject. Posture was analysed
+                                                             using a video image analyser and by frame analysis of the videotape recording.
+
+                                                                 The following angles were measured:
+                                                                 1. Neck angle: based on the Reid's line referenced to the horizontal plane. The
+
+                                                                     Reid's line is defined by a line connecting the outer canthus of the eye and
+                                                                     the centre of the outer canal of the ipsilateral ear (figure 2). This study used the
+                                                                     Reid's line because it is easier to measure from the video image than the
+                                                                     Frankfurt plane-defined by the horizontal plane at the level of the upper edge
+                                                                     of the opening of the external auditory meatus and the lower border of the
+                                                                     orbital margin (IS0 1995). The Frankfurt plane is defined anatomically, thus
+                                                                     making its determination by video image difficult. Earlier findings showed that
+                                                                     the Reid's line is approximately 10" above the Frankfurt plane.
+                                                                 2. Thoracic bending: angle formed by C7, angulus inferior scapula and iliac crest.
+                                                                    A smaller angle corresponds to a relatively more kyphotic spine.
+                                                                 3. Trunk inclination: angle formed by C7 and iliac crest referenced against the
+                                                                     horizontal plane. Reclining positions would assume a value of more than 90".
+                                                                 4. Pelvic angle: angle formed by C7, iliac crest and knee joint. The angle
+                                                                     corresponds to the degree of hip flexion.
+
+                                                             2.4.2. Viewingparameters ofrhe eye: Vertical gaze direction and ocular surface area
+                                                             (Sotoyama el al. 1995)were estimated by measuring the palpebral fissure width from
+                                                             the video image of the eye. Correlation between palpebral fissure width and both
+                                                             vertical gaze direction and ocular surface area have been established to be strong with
+                                                             correlation coefficients greater than 0.95. The viewing angle is defined as the angle
+                                                             formed by the horizontal plane and the line between the eye and the visual target.
+                                                             Contributions of both neck inclination and eye inclination were taken into account to
+                                                             determine the viewing angle (figure 2). Viewing distance was determined by measuring
+                                                             the distance between the marker at the level of the middle of the screen and that on the
+                                                             forehead.
+
+                                                             2.5. Statistical analysis
+                                                             Correlation analysis, one-way ANOVA and paired t-test were used to evaluate the
+
+                                                             results. Statistical tests with p < .05 were considered to be significant.
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                     VDTs and health disorders
+
+                                                                                                         3. Results
+                                                             3.1. Body posture and screen height
+                                                             Results showed that neck angle and thoracic bending were significantly affected by
+                                                             changes in screen height (table 1). Mean levels of neck angle at different screen heights
+                                                             demonstrated that the neck became more erect as the screen position became higher.
+                                                             The trend in the bending of the trunk similarly showed that the back straightened as
+                                                             the screen height was raised.
+
+                                                                 Trunk inclination and the pelvic angle did not significantlychange with the change
+                                                             in the screen height. None the less, it is interesting to note that the mean trunk
+                                                             inclination at all screen height settings showed that the subjects preferred a backward-
+                                                             leaning position. A schematic representation was made to understand better the
+                                                             interaction of the body positions and viewing angle at different height settings
+                                                             (figure 3). The results of the changes in viewing angle will be discussed in the next
+                                                             section.
+
+                                                                 Comparison of the correlation coefficients suggested a stronger correlation
+                                                             between neck angle and screen height (r = 0.740; slope = 0.566) than between the
+                                                             latter and thoracic bending ( r = 0-568; slope = 0.162) (figures 4 and 5). The neck
+                                                             moved more and was seemingly more vulnerable as the screen height was changed.
+
+                                                             3.2. Viewingparameters of the eye and screen height
+                                                             Changes in the screen height induced significant changes in the vertical gaze direction,
+                                                             ocular surface area and viewing angle (table 2). The eye followed the change in the
+
+                                                                            Table 1 . Mean levels of bodv ~ositionsat different screen heiehts.
+
+                                                                                               Parameters (Mean f SD)
+
+                                                             S- c- re~~ en        Neck angle Thoracic bending Trunk inclination Pelvic angle
+                                                             height
+                                                             (n = 10)               ("1        ("1                     C)                        C)
+
+                                                              80 cm               * 4.7 f9.1   1 16.8f4.2
+                                                              90 cm                            1 17.4 f3.4
+                                                             100 cm               1 1.5 8.2    121.4f 1.6
+                                                             ll0cm                15.5 f 7.9   120.2 f2.2
+                                                             120 cm               22.9 f6.3    123-5f4-3
+                                                                                  27.3 zt 6.4  119.9 f4.1
+                                                             For 50 observations  16.4k 10.9    p<.OOI
+                                                             ANOVA                 p<.OO1
+
+                                                             tKruskal-Wallis test.
+
+                                                             Figure 3. Schematic representation of body posture at different screen heights.
+                                                                                     M . B. G . Villanueva et al.
+
+                                                                       Neck angle (deg) = -40.22 + 0.566 x screen height (cm)
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                    SCREEN aEIGHT (cm)
+                                                                       Figure 4. Relationship between screen height and neck angle.
+
+                                                                       Table 2. Mean Levels of eye parameters at different screen heights.
+
+                                                                                              Parameters (Mean fSD)
+
+                                                             Screen               Viewing distance Ocular surface Vertical gaze Viewing angle
+                                                             height
+                                                             (n = 10)             (cm)        area (cm2) direction (")                      ("1
+
+                                                              80 an               60.6 f7.5   1.6 f0.2     -43.2 3z 9.9              -38.5 -f 12.2
+                                                              90 cm               56.0 f6.7   1.8 f 0.1    -39.0 f8.2                -27.5 zk 10.9
+                                                             100 cm               54.6 f8.0   2.1 f 0.1    -32.7f7.2                 -17.2411.5
+                                                             1 lOcm               54.7 f 7.2               -33-0 f 10.4              -10.1 f 10.2
+                                                             120 cm               55.0 f7.6   2.1 5 0.1    -27.9 f9.4                 -0.6 f 12.1
+                                                             For 50 observations  56.2 f 7.5               -35.1 f 10.3              -18.8 f 17.3
+                                                             ANOVA                 p = .34    2.3 z t 0.2
+                                                                                              2.0 f0.4       p < .01                  p < .001
+                                                                                              p < .01
+
+                                                             height of the screen. The elevation of both gaze direction and viewing angle and
+                                                             the increase in the ocular surface area were noted as the height of screen was
+                                                             raised.
+
+                                                                 The viewing distance was maintained as the height of the screen was altered. The
+                                                             longest distance was noted, though, at the screen height of 80 cm.
+
+                                                             3.3. Relationship of body positions and viewing parameters of the eye
+                                                             Correlation analysis showed that the relationship among the different body and eye
+                                                             positions may be grouped according to the plane of movement as shown in table 3. All
+                                                             parameters moving along the vertical plane in the table, the neck angle and thoracic
+                                                             bending correlated significantly with the vertical gaze direction and viewing angle.
+                                                             Similarly, parameters moving along the horizontal plane, i.e. viewing distance, trunk
+                                                             inclination and pelvic angle, demonstrated significant correlation.
+                                     Downloaded by [University of Sydney] at 00:17 02 April 2013
+
+                                             Table 3. Interrelationship of body and eye parameters.
+
+Correlation              Neck angle Thoracic bending Trunk        Pelvic angle Viewing distance Ocular surface Vertical gaze Viewing angle
+matrix
+                         ("1         0           inclination (D)  (0)       (=I area (cm2) direction (")                                                                                                     (O)
+Neck angle
+                         1 .OOO      -           -                -                                                                                                                     -          -         -
+(7                                                                                                                                                                                   A
+
+Thoracic bending         0.358       1.OOO       -                -         -                                                                                                           -          -         -      2
+
+("1                      -0.123      -0,006      1.000            -         -                                                                                                           -          -         -      f3:
+
+Trunk inclination        -0.184      -0.216                       1 .000    -                                                                                                           -          -         -      k
+(")                      -0.2 12     -0.146
+Pelvic angle                                     0,534***                   1 .ooo                                                                                                      -          -         A      PP .
+                           0-327      0.657***   0.500***
+0                          0.327       0.657***  0.256            0~5005**  -0.269                                                                                                      1.ooo      -         -      Sr
+                                      0.655***   0.254            0,036
+Viewing distance           0.828***              0.073                                                                                                                                                              $
+                                                                  0.036     -0.270                                                                                                      1.000      1.OOO     -
+(m)                                                                                                                                                                                                                 0
+Ocular surface area
+(m2)                                                                                                                                                                                                                i$
+Vertical gaze direction
+                                                                                                                                                                                                                    2
+(O)
+Viewing angle                                                     -0.096    -0.295                                                                                                      0.801 ***            1-000
+
+("1                                                                                                                                                                                                0.801***
+
+2-tailed significance: **p < .01; ***p < .001.
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                    M . B. G. Villanueva et al.
+                                                                               Thoracic bending (deg) = 103.656+ 0.162x screen height (em)
+
+                                                                                                     SCREENEEIGET (un)
+                                                                          Figure 5. Relationship between screen height and thoracic bending.
+
+                                                             The relationship between neck angle and viewing angle is invariably linear. As the
+                                                             viewing angle became lower, neck flexion was increased. This is not surprising
+                                                             considering that the eyes are housed in the head and are in close proximity to all
+                                                             the pivot points for head and neck movement. The bending of the thorax also
+                                                             changed, although not of the same magnitude as the neck movement, when the eye
+                                                             position changed. The angle defined as thoracic bending became more acute,
+                                                             suggesting a more kyphotic thoracic spine, as vertical gaze direction and viewing
+                                                             angle were lowered.'The inclination of the trunk and the pelvic angle correlated
+                                                             significantly with the viewing distance. The viewing distance seemed to be stabilized
+                                                             by the trunk to have a better view of the visual target. However, there appears to be
+                                                             no correlation between neck and trunk movement among the subjects in this
+                                                             experiment.
+
+                                                                 The relationship between neck movement and vertical gaze direction is rendered
+                                                             more distinct when considering the corresponding movement each made with respect
+                                                             to the horizontal in determining the viewing angle at each screen height setting. The
+                                                             ratio of changes in the neck angle with respect to the horizontal and changes in the eye
+                                                             inclination also with respect to the horizontal was taken at each screen height setting.
+                                                             Contribution of each parameter to produce the viewing angle was determined from
+                                                             this ratio. Mean ratio of neck angle and eye inclination significantly changed as the
+                                                             screen height was modified. The trend showed that the mean ratio increased as the
+                                                             screen height was raised (table 4). Less movement for one parameter meant more
+                                                             movement for the other. At higher screen height settings, the neck inclination was
+                                                             bigger than eye inclination. At lower screen height settings, eye inclination was more
+                                                             than neck inclination in producing the corresponding viewing angle (figure 6).
+                                                             Vertical gaze direction seemed to be limited a t higher screen heights. Paired t-test
+                                                             VDTs and healch disorders                                                           94 1
+
+                                                             Table 4. Mean ratio of neck angle and vertical gaze at different screen heights.
+
+                                                             Screen height        INeck angle1 : [Vertical gaze17
+                                                             (n = 10)                      (Mean fSD)
+
+                                                              80 cm               0.19 k 0.15
+                                                              90 cm               0.33 zt 0.21
+                                                             100cm                0.51 f0.29
+                                                             1lOcm                0.74 zk 0.26
+                                                             120m                 1.15i0.66
+                                                             For 50 observations  0.58 0.49
+                                                             Kruskal-Wallis        p < ,001
+
+                                                             tAbsolute deviation of neck angle and vertical gaze direction from the horizontal.
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                     SCREENHEIGHT (cm)
+
+                                                                         a Ratio of the absolute deviation of neck angle from the horizontal
+                                                                            and absolute deviation of vertical gaze direction from the horizontal
+
+                                                                  Figure 6. Relationship between neck angle to vertical gaze ratio and screen height.
+
+                                                             showed that changes in the eye inclination from 100to 110cm and from 1 10 to 120cm
+                                                             were not statistically significant (figure 7). This is in contrast with the changes in
+                                                             neck angle, which have been noted to be significant across all screen height settings
+                                                             (figure 8).
+
+                                                                                                       4. Discussion
+                                                             The adaptation of individuals to changes in the workstation dimension will involve
+                                                             multiple movement of the anatomical elements. Lowering of the screen height of the
+                                                             VDT has brought about the lowering of the vertical gaze direction, decrease in ocular
+                                                             surface area and increase in neck flexion. The appropriate degree of downward eye
+                                                             position may seem favourable from the viewpoint of eye comfort. Yaginuma et al.
+                                                             (1990) and Tsubota and Nakamori (1993) reported that elevated viewing angle in
+                                                             VDT work resulted in reduced blinking rate and that the widening of the ocular
+                                                             942      M.B. G. Villanuevaet al.
+
+                                                                  -                                                                    -
+
+                                                                  -                                                                    -
+
+                                                                                                --
+
+                                                                      1 li+**y*?b1~ #-
+Downloaded by [University of Sydney] at 00:17 02 April 2013       -u                                                                   -
+
+                                                                      paired t-test:**p<0.01;+p<0.05;ns-notsignificant
+
+                                                                  Figure 7. Mean vertical gaze direction at different screen heights.
+
+                                                                  h.
+
+                                                                  - *** paired t-test:p<0.001                                          -
+
+                                                                  -   -*n ** -*n ** -                                                  -
+
+                                                                  -                                                                    -
+                                                                  -
+                                                                                                                                       -
+
+                                                                  .                                                                    -
+
+                                                                  -                                                                    -
+
+                                                                                            SCREENHEIGHT (cm)
+
+                                                                                  Figure 8. Mean neck angle at different screen heights.
+
+                                                             surface area would consequently produce drying of the eyes and increased eye
+                                                             discomfort. Epidemiological findings of Bergqvist and Knave (1994) also showed
+                                                             that an elevated viewing angle was associated with eye discomfort. However,
+                                                             depression of gaze direction is invariably followed by increase in neck flexion.
+                                                             Many authors will contend that the flexed position of the neck may bring about
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                    VDTs and health disorders
+
+                                                             unwanted consequences. Stress on the cervical spine is found to be higher in a flexed
+                                                             head as compared to a head assuming a more vertical position (Colombini et al. 1986,
+                                                             Schiildt et al. 1986). Fatigue also ensues earlier as the neck increases flexion (Chaffin
+                                                             1973).
+
+                                                                 The relationship between the screen height and the trunk posture is also evident.
+                                                             The thoracic bending increased as the screen height was lowered. Throughout the
+                                                             experiment, the subjects were observed to assume a backward-leaning of the trunk.
+                                                             The meaning of these results, however, is not clear in view of an obscured relationship
+                                                             between back posture and discomfort. An erect sitting posture was associated with
+                                                             decreased discomfort (Sauter et al. 1991). .On the other hand, EMG studies of the
+                                                             erector spinae muscle of the back showed that muscle activity was greater in an erect
+                                                             spine, suggesting more stress, than in a bent spine (Colombini et al. 1986). Moreover,
+                                                             a reclining posture is considered to reduce strain on the vertebral disc and back
+                                                             muscles (Andersson and Ortengreen 1974).
+
+                                                                 Direct comparison of parameters measured in this study to those measured by
+                                                             other authors cannot be made considering the differences in methodology. None the
+                                                             less, the relationship of the variables in this experiment is clear. The position of the eye
+                                                             is inevitably associated with a change in the neck angle and thoracic bending.
+                                                             Proponents of guidelines for downward vertical gaze direction will have to consider
+                                                             the potential burden on the neck and on the spine.
+
+                                                                 The trunk position maintained a backward-leaning position as the screen height
+                                                             was varied. The pelvic angle, likewise, was noted to remain almost unchanged. The
+                                                             seemingly immobile trunk and pelvis were also observed during VDT work in both
+                                                             experimental and actual work setting (Nakaseko et al. 1993, Miyamoto et al. 1995).
+                                                             Several factors may account for this constrained posture. The mouse table height and
+                                                             chair height were fixed for the duration of the experiment thereby imposing a constant
+                                                             work environment for the lower body. Another factor is the nature of the task. The
+                                                             game required constant visual monitoring by the subjects to be able to respond
+                                                             appropriately to the signal given by the computer. Further, the mouse was the only
+                                                             tool used as an input device of the computer. Handling of the mouse relied solely on
+                                                             tactile and spatial perception that eliminated the need to look down towards the
+                                                             mouse table. These factors present in this experimental situation may have produced
+                                                             visual fixation towards the screen. Body movements were simplified and concentrated
+                                                             only on the right hand, precluding the need to alter trunk and pelvic positions. Hence,
+                                                             after the preferred viewing angle has been decided and the corresponding neck
+                                                             position has been assumed, the posture of the trunk and pelvis were held almost
+                                                             constant.
+
+                                                                 The correlation matrix gave an important perspective concerning the relationship
+                                                             of body parts as they move when the workstation dimension is changed. From the
+                                                             results, posture is apparently decided by the demand on the visual system. Although
+                                                             no correlation between trunk inclination and screen height exists, an understanding of
+                                                             how the trunk functions to stabilize the viewing distance is evident. The neck appears
+                                                             to be the most susceptible and most important in adjusting its position to find the
+                                                             preferred viewing angle. The outcome of the experiment suggests that the neck
+                                                             inclination supports eye inclination especially at higher screen heights. Studies on eye
+                                                             physiology have demonstrated that the downward gaze leads to visual comfort during
+                                                             VDT work. The limited upward gaze a t screen height greater than 100cm, as seen in
+                                                             this study, may be taken as a way of preventing visual discomfort.
+
+                                                                 Ultimately, the accomplishment of work involving visual display terminals rests
+                                                             944  M.B. G. ViIlanueva et al.
+
+                                                             heavily on the human's visual system. Other movements of the body seem secondary
+
+                                                             and function to support the activities of the eye during work (Laville 1980,~ o l o m b i n i
+                                                             et al. 1986). The information pointing to priority given to eye position by the other
+
+                                                             body parts may provide direction in the amendment of existing guidelines.
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013                                            References
+
+                                                             ANDERSSOBN.,and ORTENGREERN. 1, 974, Lumbar disc pressure and myoelectric back muscle
+                                                                    activity. Scandinavian Journal of Rehabiliration Medicine, 3, 115-12 1.
+
+                                                             ARDNTR, . 1983, Working posture and musculoskeletal problems of video display terminal
+                                                                    operators-review and appraisal, American Industrial Hygiene Association Journal, 44,
+
+                                                                    437-446.
+                                                             BERGQVISUT., and KNAVEB,. 1994, Eye discomfort and work with visual display terminals,
+
+                                                                    Scandinavian Journal of Work, Environment and Health, 20, 27-33.
+                                                             BERGQVISUT., WOLGASET.,, NILSSONB,. and Voss, M. 1995, Musculoskeletal disorders among
+
+                                                                    visual display terminal workers: individual, ergonomic, and work organizational factors,
+                                                                    Ergonomics, 38, 763-776.
+
+                                                             CAKIRA, ., HARTD, . J. and STEWART,. F.M. 1980, Visual Display Terminals (John Wiley,
+
+                                                                    New York).
+                                                             CHAFFIND, . B. 1973, Localized muscle fatigue-definition and measurement, Journal of
+
+                                                                    Occupational Medicine, 15, 346-354.
+                                                             CHAFFIND, . B. and ANDERSSOGN., B. J. 1991, Occupational Biomechanics, 2nd edn (John
+
+                                                                    Wiley, New York).
+
+                                                             COLOMBIMD.,, OCCHIPINTE.I,,FRIGOC, ., P E D O ~AI., and GRIECOA, . 1986, Biomechanical,
+                                                                   electromyographical and radiological study of seated postures, in N.Corlett, J. Wilson
+
+                                                                    and I. Manenica (eds) The Ergonomics of Working Postures: Models, Methods and Cases
+                                                                    (Taylor & Francis, London), 33 1-344.
+                                                             CRAIGA, . and DAVIESD, . R. 1991, Vigilance: sustained visual monitoring and attention, in
+                                                                    J. A. J. Roufs (ed.), The Man-Machine Interface: Vision and Visual Dysfunction, Vol. 15
+                                                                    (CRC Press, Boca Raton), 83-98.
+                                                             GOBBAF,., BROGLIA,., SARTIR, ., LUBERTFO.,and CAVALLEARI.,1988,Visual fatigue in video
+                                                                    display terminal operators: objective measure and relation to environmental conditions,
+                                                                    International Archives of Occupational and Environmental Health, 60, 81-87.
+                                                             GRANDJEAEN.,1984, Postural problems at office machine work stations (introductory paper),
+                                                                    in E. Grandjean (ed.), Ergonomics and Health in Modern Ofices (Taylor & Francis,
+                                                                    London), 445-455.
+                                                             HAGBERGM,., SILVERSTEBIN.,, WELLS,R., SMITHM, . J., HENDRICKH,. W., CARAYONP.,
+                                                                    and PERUSSE,M. 1995, Work Related Musculoskeletal Disorders ( WMSDs): A
+                                                                    Reference Book for Prevention, (Edited by 1. Kuorinka and L. Forcier) (Taylor &
+                                                                    Francis, London).
+                                                             HEUERH, ., B R ~ E RM.,, ROMERT, ., K R ~ E RH., and KNAPPH, . 1991, Preferred vertical gaze
+                                                                    direction and observation distance, Ergonomics, 34, 379-392.
+                                                             HUNTINGW, ., LKUBLTI,H.and GRANDJEAEN. ,1980, Constrained postures of VDU operators,
+                                                                    in E. Grandjean and E. Vigliani (eds), Ergonomic Aspects of Visual Display Terminals
+                                                                    (Taylor & Francis, London), 175-1 84.
+                                                             HUNTINGW, ., LAUBLTI,H.and GRANDJEAEN. ,1981, Postural and visual loads in workplaces: I.
+                                                                    Constrained postures, Ergonomics, 24, 917-931.
+                                                             IS0 1995, Basic list of definitions of human body measurements for technical design, Reference
+                                                                    no. I S 0 7250: 1995, International Organization for Standardization, Geneva.
+                                                             JAPANINDUSTRIAL SAFEITAND HEALTHASSOCIATIO19N85, Guidelines to occupational health in
+                                                                    VDT operation, Japan Industrial Safety and Health Association, Tokyo.
+                                                             JAPANESINEDUSTRISATLANDARSD1010-1978 1993, Standard size for writing desks for offices,
+                                                                    Japanese Standards Association, Tokyo.
+
+                                                             KNAVEB,. G., WIBOMR,.I., VOSSM, ., HEDSTROML,. D.and BERGQV~SUT.,1985, Work with
+
+                                                                    video display terminals among office employees: I. Subjectivesymptoms and discomfort,
+                                                                    Scandinavian Journal of Work, Environment and Health, 11,457-466.
+                                                             KROEMEKR,. and HILLS, . 1986, Preferred line of sight angle, Ergonomics, 29, 1129-1 134.
+                                                             VDTs and health disorders                     945
+
+Downloaded by [University of Sydney] at 00:17 02 April 2013  LAVILLEA,. 1980, Postural reactions related to activities on VDU, in E. Grandjean and
+                                                                    E. Vigliani (eds), Ergonomic Aspects of Visual Display Terminals (Taylor & Francis,
+                                                                    London), 167- 174.
+
+                                                             MIYAMOTHO.,, WU,C-S. and NOROK, . 1995,Evaluation of seated posture in VDT works, in A.
+                                                                    Grieco, G. Molteni, B. Piccoli and E. Occhipinti (eds), Work Wirh Display Units 94
+
+                                                                    (Elsevier, Amsterdam), 289-292.
+                                                             NAKASEKMO,., MORIMOTKO., and TANAKAH,. 1993,An image analyzing approach to working
+
+                                                                    postures for screen and keyboard use of visual display units, in H. Luczak, A. Cakir and
+                                                                    G. Cakir (eds), Work With Display Units 92 (Elsevier, Amsterdam), 235-239.
+                                                             SAUTERS,., SCHLEIFERL,. and K m o ~ S,. 1991, Work posture, workstation design and
+                                                                    musculoskeletal discomfort in a VDT data entry task, Human Factors, 33, 151-167.
+                                                             SCHOLDTK,., EKHOLMJ., HARMS-RINGDHKA.,LN, EMETHG, . and ARBORELIUS. ,1986, Effects
+                                                                    of changes in sitting work posture on static neck and shoulder activity, Ergonomics, 29,
+
+                                                                    1525-1 537.
+                                                             SOTOYAMMA., VILLANUEVMA.,B. G., JONAIH, . and SAITOS, . 1995, Ocular surface area as an
+
+                                                                    informative index of visual ergonomics, Industrial Health, 33,43-56.
+                                                             TAPTAGAWRSN. ,and SAITOS, . 1993, Visual comfort in VDT operation: physiological resting
+
+                                                                    states of the eye, Industrial Health, 31, 13-28.
+                                                             TSUBOTAK,. and NAKAMORKI,. 1993, Dry eyes and visual display terminals, New England
+
+                                                                    Journal of Medicine, 328, 584.
+
+                                                             YAGINUMYA., YAMADAH., and NAGAIH, . 1990, Study of the relationship between lacrimation '
+
+                                                                    and blink in VDT work, Ergonomics, 33,799-809.
+
+                                                             Manuscript received 8 April 1995.
+                                                             Revised manuscript accepted 20 October 1995.
+

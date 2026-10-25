@@ -1,0 +1,937 @@
+===== PAGE 1 =====
+
+Work 79 (2024) 1925–1937
+DOI:10.3233/WOR-230719
+IOS Press
+1925
+Effects of laptop screen height on neck and
+shoulder muscle fatigue and spine loading
+for ofﬁce workers
+Zenghui Guoa, Zhiyuan Chena, Junjun Paib, Bin Fanga,b,c,∗, Wenhao Lianga, Guosheng Sua,c and
+Feng Zhenga,c
+aSchool of Mechanical Engineering, Qilu University of Technology (Shandong Academy of Sciences), Jinan,
+China
+bShandong Key Laboratory of Advanced Aluminum Materials and Technology, Binzhou Institute of Technology,
+Binzhou, China
+cShandong Institute of Mechanical Design and Research, Jinan, China
+Received 12 December 2023
+Accepted 18 June 2024
+Abstract.
+BACKGROUND: Due to the unfavourable neck-shoulder muscle loads caused by poor posture, the people who use the
+laptop for a long time may face the risk of neck and shoulder injuries.
+OBJECTIVE: The purpose of this study investigates the impact of the screen height on the muscle activation of head ﬂexion,
+neck and shoulder, and the cervical spine torque to provide the favorite screen height for laptop user.
+METHODS: Twelve healthy young participants completed a 15-minute task of the reading at the four different screen heights.
+sEMG signals of the splenius capitis (SC) and upper trapezius (UT) were measured and calculated the root mean square
+(RMS) and mean power frequency (MPF) to determine muscle fatigue. The different height of laptop users was simulated
+and the forces on the spine of users at different screen heights were analyzed by Jack.
+RESULTS: Adjusting the height of the laptop screen can effectively reduce head ﬂexion and muscle activity of SC and UT,
+and has a positive effect on reducing fatigue of SC, but has no signiﬁcant effect on UT.
+CONCLUSIONS: Adjusting the height of the laptop screen can delay the occurrence of SC muscle fatigue to a certain
+extent. The joint analysis of sEMG spectrum and amplitude reports that the screen heights of D15 and D45 have the highest
+and the lowest frequency of fatigue, respectively. At the same time, the moment of spineT1/T2 and spineL4/L5 decrease with
+the increase of screen height.
+Keywords: Posture, occupational health, ergonomics, electromyography, muscle fatigue, neck pain, shoulder pain
+1. Introduction
+Nowadays, using computers for ofﬁce work has
+become a common thing in life and is taken for
+granted by the student population [1, 2]. The major-
+ity of individuals, particularly students, maintain a
+stationary posture for prolonged periods while using
+∗Address for correspondence: Bin Fang. E-mail: fb@qlu.
+edu.cn.
+electronic devices like laptops and tablet comput-
+ers to work or study [3, 4]. According to a study,
+the majority of students utilize computers for more
+than eight hours per day, and a signiﬁcant number
+of female university students reported experiencing
+musculoskeletal discomfort during or after computer
+usage [5]. Prolonged laptop usage results in extended
+tension in the posterior neck muscles, signiﬁcantly
+heightening the chance of developing musculoskele-
+tal disorders [6–9].
+ISSN 1051-9815/$35.00 © 2024 – IOS Press. All rights reserved.
+
+===== PAGE 2 =====
+
+1926 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+According to recent ﬁndings, over 53.4% of
+students have encountered computer-related muscu-
+loskeletal symptoms in their upper limbs [10], with
+the neck being one of the most susceptible sites for
+musculoskeletal disorders (MSD) in computer users
+[11], and the incidence of musculoskeletal disorders
+of the neck has been reported to be 65%–75% [12],
+with a tendency to be at a younger age. There has
+been a notable rise in the prevalence of neck muscu-
+loskeletal disorders (MSD) among individuals under
+30 years, with jumping from 26% in 1996 to 37%
+in 2016 [13]. MSD pose not only physical challenges
+[14], but also result in substantial economic costs [15,
+16].
+Therefore, investigating the potential risk factors
+for neck and shoulder discomfort associated with
+laptop could be effective in preventing and reducing
+the occurrence of associated musculoskeletal disor-
+ders. Studies have shown that working with laptops is
+more likely to result in neck hyperﬂexion compared
+to desktop computers [17–19]. This ﬂexion may be
+caused by the low position of the laptop screen, which
+requires the user to look down at the screen. This poor
+working posture and discomfort [18, 20] may be due
+to the interconnected screen and keyboard of laptop
+computers, which are designed in such a way as to
+improve the compactness and portability of the laptop
+at the expense of the user’s comfort and health while
+using it [21] and the screen height setting of the lap-
+top computers is also well below the recommended
+working height [22, 23].
+Some studies have attempted to improve the dis-
+comfort caused by working on a laptop from an
+ergonomic perspective by changing the screen height.
+Berkhout et al. [24] found that using an assistive
+device to increase the height of the laptop screen
+can reduce neck discomfort and mechanical load.
+Asundi et al. [22] compared the head and neck pos-
+ture of using a laptop with a non-tilt bracket, a 12
+◦
+tilt bracket, and a 25◦ tilt bracket. The results showed
+that using a tilt bracket can reduce head forward
+tilt and neck bending. Straker et al. [25] compared
+the 3D head, neck, and upper limb postures of 18
+young men and 18 young women working at dif-
+ferent screen heights, and found that lower screen
+heights increased the degree of head and neck bend-
+ing. Therefore, increasing the height of the laptop
+screen can improve the posture of the head and neck.
+Some studies have also used electromyography, a
+biometric technique, to analyze the neck and shoul-
+der muscle activity of laptop users at different screen
+heights, and objectively evaluate the effect of chang-
+ing the screen height on muscle activity. Yadegaripour
+et al. [26] compared 8 minutes of work on a tradi-
+tional laptop screen height and a laptop with a higher
+screen height, and found that adjusting the laptop
+screen height can effectively reduce the cervical (–
+4.53
+◦) and thoracic (–3.14 ◦) ﬂexion angles, as well
+as the muscle activity of the cervical pinch muscle (–
+10.31%) and multiﬁdus muscle (–15.57%). Lee and
+Liu [27] collected the activities of the sternocleido-
+mastoid muscle, trapezius muscle, clavicular muscle,
+and erector spinae muscle after watching the screen
+for 1 minute at 5 viewing angles (+40
+◦, +20◦,0 ◦,–
+20◦, –40◦). The results showed that the neck and chest
+ﬂexion angles increased with the increase of the view-
+ing angle, increased activity of trapezius and erector
+spinae at higher or lower screen heights, and the
+activities of the cervical pinch muscle decreased with
+the increase of the viewing angle. Maria et al. [28]
+collected the electromyogram of neck and shoulder
+muscles of 10 healthy subjects while they performed
+mouse-driven interactive tasks at screen heights of 80,
+100, and 120 cm respectively. They found that with
+the increase of screen height, the neck became signif-
+icantly more upright, and the muscle activity of the
+cervical muscles was signiﬁcantly reduced. The sub-
+jects showed a more backward-tilted trunk position,
+and the trapezius muscle activity of some subjects
+gradually decreased.
+However, the above study only showed that
+increasing the height of the laptop screen could
+improve the posture of the head and neck and reduce
+the muscle activity of the cervical muscles, but did
+not further explore the impact of changing the screen
+height on neck and shoulder muscle fatigue by mon-
+itoring the muscle state of neck and shoulder and not
+given the favorable height of laptop screen for allevi-
+ation of the muscle fatigue. In addition, laptop users
+are of different heights, and their sitting posture and
+eye height are also different. Each laptop user should
+have their own reasonable screen height. Therefore,
+this study investigated the impact of changing the
+screen height on neck and shoulder muscle fatigue
+through electromyography, and provided reasonable
+screen height recommendations for laptop users of
+different heights.
+2. Experimental methods
+The hybrid system for neck and shoulder com-
+fort evaluation mainly includes both real and virtual
+experimental environments, and the ﬂow is shown in
+
+===== PAGE 3 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1927
+Fig. 1. Hybrid system ﬂow for neck and shoulder comfort evaluation.
+Fig. 1. Among them, the real environment consists
+of surface electromyographic (sEMG) signal acqui-
+sition, through which real muscle response results can
+be obtained from the real experimental environment.
+The virtual experimental environment is analyzed by
+Jack to determine the forces on the thoracic and lum-
+bar vertebrae of users of different heights at different
+screen heights.
+2.1. Participants and equipment
+2.1.1. Participant
+The subjects are 12 postgraduate students, includ-
+ing 8 males and 4 females. The mean age was
+25.6 ± 1.3 years, height 175.1 ± 6.3 cm, and weight
+65.7 ± 12.1 kg (Table 1). Subjects with any chronic
+pain or injuries in the back or neck within the last 12
+months were excluded, and those who had not partic-
+ipated in strenuous exercise within 72 hours prior to
+the experiment were included to ensure good muscle
+condition. All subjects were mentally ﬁt and had no
+signs of sleep deprivation or depression. The com-
+puter mouse was operated by the subjects’ right hand
+during daily use.
+2.1.2. Equipment
+A 12-channel sEMG device (Core Future, Wuxi,
+Jiangsu, China) was used to measure the sEMG sig-
+nals of the left and right splenius capitis (SC) and the
+left and right upper trapezius (UT), and the sampling
+rate of the sEMG device was 1000 Hz. Silver-silver
+Table 1
+General information of subjects
+Variables Mean ± SD (n = 12)
+Age (years) 25.6 ± 1.3
+Weight (kg) 65.7 ± 12.1
+Height (cm) 175.1 ± 6.3
+Sitting eye height (cm) 80.42 ± 3.48
+Duration of laptop use per day (hours/day) 7.23 ± 2.84
+chloride (Ag-AgCl) electrodes were used for this
+experiment, and the distance between the center of
+the electrodes was 20 mm. Use Jack to analyze the
+forces on the thoracic and lumbar vertebrae of users
+of different heights at different screen heights.
+2.2. Experimental design
+The four screen height settings were used in the
+experiment i.e. 15 cm, 25 cm, 35 cm, 45 cm (D15,
+D25, D35, D45), the screen height is the distance
+from the table top to the center of the screen, and
+the screen height is varied in increments of 10 cm.
+The table has a height of 75 cm, and the chair fea-
+tured a backrest and a seat height of 45 cm, as shown
+in Fig. 2. Participants completed a 15-minute task
+reading literature at the four different screen heights,
+with the order of heights randomized. An external
+keyboard and mouse served as the input devices for
+the experiment, and participants rested for at least
+20 minutes between tests to allow their neck and
+shoulder muscles to return to baseline.
+
+===== PAGE 4 =====
+
+1928 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+Fig. 2. Laptop workstation setup (with external keyboard and external mouse). (a): Conventional setup, laptop ﬂat on the desktop with a
+screen height of 15 cm (D15); (b): Screen height raised to 25 cm (D25); (c): Screen raised to 35 cm (D35); (d): Screen raised to 45 cm (D45).
+Then, the laptop user model and ofﬁce scenario
+model were established in the Jack software. Accord-
+ing to different screen heights, the digital human was
+analyzed using the Static Strength Prediction mod-
+ule. The variation trends of the moment between the
+ﬁrst and second thoracic vertebrae (spineT1/T2 M)
+and the moment between the fourth and ﬁfth lumbar
+vertebrae (spineL4/L5 M) were obtained.
+2.3. Experimental process
+Participants were shown the experimental tasks
+and then positioned in front of the testing appara-
+tus, as given in Fig. 2, and freely become familiar
+with the experimental setting. The 75% concentra-
+tion medical alcohol were used to repeatedly wipe
+the subjects’ neck and shoulder where the electrode
+sheet was pasted and eliminate any sweat stains, dead
+skin, and cuticle from the skin surface. If required, a
+razor was employed to remove surface hair. After the
+alcohol on the skin surface had dried, the disposable
+electrode sheet was placed along the direction of mus-
+cle ﬁbers for the measurement of the sEMG signals of
+the SC and UT [29]. The electrodes were positioned
+parallel to the spine on both sides of 1 cm apart from
+the C5 spine to measure the SC. At the same time,
+the electrodes were placed at the midpoint between
+C7 and the acromion to measure the UT, as given in
+
+===== PAGE 5 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1929
+Fig. 3. Schematic diagram of patch position and maximal voluntary muscle contraction test. (a) Schematic diagram of electrode positions
+for the SC and UT; (b) Schematic diagram of movements for the maximal voluntary contraction test of the SC and UT.
+Fig. 4. Mannequin in Jack.
+Fig. 3(a). The electrodes were secured using medical
+tape [26]. To measure head posture, a postural mea-
+surement sensor was positioned at the top of the head
+where the coronal suture meets the sagittal suture, as
+well as on the C7 spinous process, recording the angle
+of head bend in the sagittal plane.
+During the experiment, the subjects maintained a
+seated position and engaged in a literature reading
+task for 15 minutes at a randomly assigned screen
+height. sEMG signals from the SC and UT of the sub-
+jects at 51st-60th s per minute were collected using an
+sEMG device, which yielded 15 segments of sEMG
+data. Furthermore, participants were instructed to
+refrain from any unnecessary actions during the
+experiment, including talking, nodding, body move-
+ments, and leg swinging.
+The human body models of male P
+1,P 5,P 50,P 95
+and P99 laptop users were established in Jack soft-
+ware, as shown in Fig. 4. The heights of laptop users
+are different. As shown in Table 2, 50% of females are
+taller than 154 cm. Therefore, the human body mod-
+els of male P
+1,P 5,P 50,P 95 and P99 were selected in
+this model, which can cover the height dimensions
+of more than 50% of female ofﬁce workers and 99%
+of male ofﬁce workers (human body dimensions are
+from GB/T 1000-1988 Chinese Adult Human Body
+Dimensions).
+During the experiment, the digital human was
+placed on a 45 cm high chair, with the upper body
+always kept upright, the sternum 15 cm away from
+the edge of the table, and the hands ﬂat on the 75 cm
+high table as shown in Fig. 5. In order to simulate the
+force on the human spine when the laptop was placed
+at different heights, the digital humans’ eyes were set
+to follow the change of the center point position of the
+screen in the Jack software, thus realizing the change
+
+===== PAGE 6 =====
+
+1930 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+Table 2
+Human size parameters at different percentiles
+Percentile (%) Male height
+(cm)
+Sitting eye
+height (cm)
+Female height
+(cm)
+Sitting eye
+height (cm)
+1 154.3 72.9 144.9 67.8
+5 158.3 74.9 148.4 69.5
+50 167.8 79.8 157.0 73.9
+95 177.5 84.7 165.9 78.3
+99 181.4 86.8 169.7 80.3
+Fig. 5. Simulation model of ofﬁce scene.
+Table 3
+The vertical height and horizontal distance of the center of the
+laptop screen
+d(cm) h(cm)
+49 15, 20, 25, 30, 35, 40, 45, 50, 55, 60
+of the torque of the spinal joint. The vertical height
+(h) and horizontal distance (d) of the center height
+of the laptop screen in the experiment are shown in
+Table 3.
+2.4. Data processing
+Each subject was tested 4 times, each test lasted
+15 min to obtain 15 segments of sEMG signals, and
+the duration of each segment of sEMG signals was
+10s. Each segment of the acquired sEMG signals was
+pre-processed using custom written code in MAT-
+LAB. A trap ﬁlter was used to remove contamination
+from 50 Hz industrial frequency noise, and a fourth
+order Butterworth ﬁlter was used to bandpass ﬁlter
+the acquired sEMG signals at 15–350 Hz to remove
+ECG noise and motion artefacts. The maximum vol-
+untary contraction (MVC) of the SC and UT was
+obtained by performing the three tests of the speciﬁed
+action as shown in Fig. 3(b), and the sEMG signals
+obtained from the MVC test were pre-processed in
+the same way, and the average was taken as the MVC
+of the SC and UT. The MVC was used to normal-
+ized the muscle activity of each subject in order to
+reduce the variability between replicates of a sin-
+gle subject or the variability between experimental
+results of multiple subjects [30, 31]. The time and
+frequency domain features were extracted for muscle
+fatigue assessment, and the pre-processed data were
+then smoothed by full-wave rectiﬁcation and low-
+pass ﬁltering at 6 Hz to obtain the root mean square
+(RMS) value of the time-domain eigenvalues, and the
+frequency-domain eigenvalues were used to calcu-
+late the mean power frequency (MPF) by performing
+a fast Fourier transform of the pre-processed data.
+The time-domain eigenvalue RMS and the frequency-
+domain eigenvalue MPF were linearly ﬁtted and the
+respective slopes were obtained, and the joint analysis
+of sEMG spectrum and amplitude (JASA) proposed
+by H¨agg et al. [32] was used to investigate the fatigue
+state of the muscles. The main relationships between
+sEMG amplitude and spectrum and muscle condition
+are then plotted in an intuitive four-quadrant plot [33],
+JASA can effectively discriminate the changes in the
+sEMG signals, such as determining whether muscle
+strength is increasing, decreasing or muscle fatigue
+is occurring.
+A one-way repeated measures ANOV A was used to
+determine the effect of screen height on head ﬂexion,
+muscle force, and joint torque. Paired t-tests were
+performed on the left and right sEMG signals to ﬁnd
+if there was a signiﬁcant difference between the left
+and right sEMG signals. IBM SPSS Statistics 26 was
+employed for performing statistical analyses. Results
+with p < 0.05 were treated as statistically signiﬁcant.
+
+===== PAGE 7 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1931
+3. Results
+3.1. Experimental results
+3.1.1. Head posture
+Figure 6 illustrates the angles of ﬂexion of the
+head and viewing at different screen heights. It is
+evident that the neck is more upright with increased
+screen height, and there is a consequential decrease
+in head ﬂexion. Table 4 is a signiﬁcant relation-
+ship between screen height and head ﬂexion change
+(p < 0.001). Figure 6(a) is the head ﬂexion at the four
+screen heights. The head reaches its maximum ﬂexion
+state (25.5 ± 1.1
+◦) at D15 and its minimum ﬂexion
+state (17.0 ± 0.5◦) at D45. The head’s ﬂexion falls
+between 21.1 ± 1.4◦ and 18.6 ± 0.6◦ under D25 and
+D35, respectively. In comparison with D15, the D25,
+D35 and D45 condition decrease 4.1
+◦, 6.6◦ and 8.1◦
+in head ﬂexion, respectively. The alteration in screen
+height also has a signiﬁcant effect on the alteration in
+the viewing angle (p < 0.001) (Table 4). Figure 6(b)
+is the alteration in the viewing angle with an increase
+in height, the viewing angle gradually descending
+as the screen height increased, from 27.8 ± 2.5
+◦ in
+D15 to –1.2± 2.9◦ in D45 a negative angle indicates
+that the viewing angle is above the horizontal plane).
+D15 resulted in a greater increase in head forward
+and viewing angle when compared to other screen
+heights.
+3.1.2. Muscle activities
+Figure 7 displays the normolized sEMG activ-
+ity of the splenius capitis (SC) and upper trapezius
+(UT) for four different screen heights. The results
+showed a signiﬁcant effect of screen height on the
+muscle activities of the left splenius capitis (LSC) and
+right splenius capitis (RSC) (p = 0.005, p = 0.006) in
+Table 4. However, there was no signiﬁcant effect of
+screen height on the muscle activity of the left upper
+trapezius (LUT) and right upper trapezius (RUT)
+(p = 0.603, p = 0.064). It can be found from Fig. 7
+that the muscle activity of RSC and RUT is higher
+than that of LSC and LUT. However, a paired t-test
+on both left and right sides muscle activity of SC
+and UT indicated that this difference was not statis-
+tically signiﬁcant ( P > 0.05). As shown in Fig. 7(a),
+the muscle activity of the LSC and RSC gradually
+declines with the increase of the screen height of the
+laptop from 15 cm to 45 cm. These ﬁndings corrob-
+orate those of Lee and Liu [27]. In particular, the
+greatest muscle activity of the SC (LSC 12.4% MVC,
+RSC 13.0% MVC) was observed in the D15 condi-
+tion, while the lowest muscle activity (LSC 9.19%
+MVC, RSC 10.15% MVC) was recorded for the D45
+condition. The muscle activity of LSC decreases by
+1.08%, 1.66%, and 3.24%MVC for the D25, D35,
+and D45 conditions, respectively, when compared to
+D15. Similarly, the RSC exhibited a decrease in mus-
+cle activity by 0.98%, 1.69%, and 2.89%MVC for
+the D25, D35, and D45 conditions, respectively. The
+decrease in muscle activity of the left and right upper
+trapezius (LUT and RUT) as the height of the lap-
+top screen increases is also found from Fig. 7(b). The
+decline in muscle activity of the UT was notably less
+than that of the SC.
+3.1.3. Muscle fatigue
+Results of the joint analysis of sEMG spectrum and
+amplitude are given in Fig. 8. The point which lies
+in the fourth quadrant implies that the muscle is in
+a fatigued state. It is found from Fig. 8(a) that the
+regression coefﬁcients of the paired values of RMS
+Fig. 6. Head ﬂexion angle and viewing angle at different screen heights. (a) Variation of head ﬂexion with height; (b) Variation of viewing
+angle with height.
+
+===== PAGE 8 =====
+
+1932 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+Table 4
+One-way repeated measures ANOV A and pairwise comparison results for head ﬂexion, muscle activity and C3-C7 joint torques
+Measure Part RM ANOV A D15 vs. D25 D15 vs. D35 D15 vs. D45 D25 vs. D35 D25 vs. D45 D35 vs. D45
+Head ﬂexion < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗
+Gaze angle < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗
+LSC 0.005 ∗∗ 0.009∗∗ 0.001∗∗ 0.001∗∗ 0.007∗∗ 0.002∗∗ 0.018∗
+RSC 0.006 ∗∗ 0.008∗∗ 0.01∗ 0.002∗∗ 0.196 0.011 ∗ 0.028∗
+LUT 0.603 ––––––
+RUT 0.064 ––––––
+C2C3 < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗
+C3C4 < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗
+C4C5 < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ 0.005∗∗ < 0.001∗∗ 0.011∗
+C5C6 < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ 0.009∗∗ < 0.001∗∗ 0.007∗∗
+C6C7 < 0.001 ∗∗ < 0.001∗∗ < 0.001∗∗ < 0.001∗∗ 0.004∗∗ < 0.001∗∗ 0.038∗
+∗Indicates a signiﬁcant difference at p < 0.05; ∗∗Indicates a signiﬁcant difference at p < 0.01.
+Fig. 7. Muscle activity diagram. (a) Muscle activity of LSC and RSC; (b) Muscle activity of LUT and RUT. %MVC is percentage maximum
+voluntary contraction.
+and MPF for the SC are mainly in the second quad-
+rant, which indicates that the muscle is in a normal
+state. The highest number of fatigue occurs in the
+SC in the D15 condition, and the lowest number of
+fatigue occurs in the SC in the D45 condition. At the
+same time, the regression coefﬁcients for the paired
+values of RMS and MPF for the UT are also pre-
+dominantly distributed in the second quadrant, with
+a small part in the fourth quadrant from Fig. 8(b). The
+D15 condition had the highest number of UT fatigue
+occurrences, while the D25 and D45 conditions had
+the lowest number of occurrences (Fig. 8(b)).
+3.2. Simulation results
+Figure 9 shows the changes of spineT1/T2 M and
+spineL4/L5 M with the same horizontal distance of
+the laptop and only changing the screen height. It
+can be seen from Fig. 9 that the spineT1/T2 M and
+spineL4/L5 M of different heights decrease with the
+increase of screen height, and the decrease trend
+of each digital person is divided into two parts,
+the ﬁrst part is greater than the second part, and
+the decrease trend is basically linear. The decrease
+trend of spineT1/T2 M and spineL4/L5 M of P
+95
+and P99 changes at h = 40 cm, the decrease trend of
+spineT1/T2 M and spineL4/L5 M of P 50 changes at
+h = 35 cm, and the decrease trend of spineT1/T2 M
+and spineL4/L5 M of P
+1 and P5 changes at h = 30 cm.
+The larger the percentile is, the greater the moment
+of spineT1/T2 and spineL4/L5 is, and the greater the
+rate of decrease is. This shows that when using a com-
+puter at the same screen height, the higher the height
+of the person, the greater the moment of the cervical
+spine and lumbar spine is.
+4. Discussion
+The display height was gradually increased from
+the conventional screen height setting to 45 cm with
+a gradient of 10 cm, resulting in the head ﬂexion and
+angle of view changed by 8.1
+◦ and 29.0◦ respectively.
+The head ﬂexion and angle of view were the largest
+
+===== PAGE 9 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1933
+Fig. 8. The JASA results for SC and UT. (a) The JASA diagram for SC; (b) The JASA diagram for UT. The blue symbol represents in the ﬁrst
+quadrant (force increase); the black symbol represents in the second quadrant (recovery); the green symbol represents in the third quadrant
+(force decrease); ﬁnally, the red symbol represents in the fourth quadrant(fatigue). KRMS= the slope of the regression line of the RMS vs
+time. KMPF= the slope of the regression line of the MPF vs time.
+
+===== PAGE 10 =====
+
+1934 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+Fig. 9. Changes of spineT1/T2 M and spineL4/L5 M at different vertical distances. (a) Changes in spineT1/T2 M; (b) Changes in
+spineL4/L5 M.
+under the conventional laptop screen height setting
+(D15), and the head ﬂexion and angle of view were
+the smallest when the screen height was 45 cm (D45).
+The relationship between Laptop placement, head
+ﬂexion and viewing angle is consistent with previous
+ﬁndings, that is, with the increase of screen height,
+head ﬂexion and viewing angle gradually decrease
+[25, 34]. Lee and Liu’s research has proved that there
+is a strong relationship between the angle of view
+and the angle of head bending, and the change of the
+angle of view is adjusted by the change of the angle of
+head bending [27]. The results of this study conform
+to this rule, and the change trend of head ﬂexion is
+consistent with the change trend of visual angle.
+Villanueva et al. [35] reported that increasing
+screen height during mouse work resulted in the
+decrease of neck and shoulder muscle activity and
+a high correlation between the degree of neck ﬂexion
+and SC muscle activity. Excessive head ﬂexion causes
+to increase SC stretching, resulting in the highest SC
+muscle activity at the normal laptop screen height. In
+comparison to the conventional screen height (D15),
+SC muscle activity decreased by 1.03% MVC when
+raised by 10 cm (D25), decreased by 1.68% MVC
+when raised by 20 cm (D35), and decreased by 3.07%
+MVC when raised by 30 cm (D45). We were sur-
+prised to ﬁnd no signiﬁcant differences in UT muscle
+activity at varying display heights (LUT p = 0.603,
+RUT p = 0.064), and SC muscle activity was only
+slightly reduced by 0.89% in the natural head pos-
+ture, compared to the standard screen height setting.
+It is worth noting that many authors have reported no
+signiﬁcant difference in UT muscle activity at differ-
+ent display heights [35–37]. The study revealed that
+muscle activity in the RSC and RUT was higher than
+that in the LSC and LUT at varying display heights.
+This may be attributed to the exclusively right-handed
+participants who used the right hand for mouse move-
+ments, resulting in greater muscle activity in the right
+muscles compared to the left muscles.
+There are some concerns about the increase in mus-
+cle activity in SC, especially when the screen is placed
+low, because the continuous muscle contraction may
+lead to musculoskeletal discomfort or injury [36]. In
+traditional settings, working on a laptop for a long
+time seems to further increase the risk of neck dis-
+eases, as users experience more neck bending and an
+increase in mechanical load on the neck [38]. Accord-
+ing to the results of SC and UT fatigue analysis, the
+regression coefﬁcients of RMS and MPF pairs of SC
+are mainly distributed in the second quadrant, indi-
+cating that the muscle is in a normal state, and only
+a small part is distributed in the fourth quadrant rep-
+resenting fatigue. In addition, with the increase of
+screen height, the occurrence of SC fatigue gradu-
+ally decreases. The occurrence of SC fatigue is the
+most frequent under the traditional screen height set-
+ting, so increasing the screen height can slow down
+the occurrence of SC fatigue to a certain extent. As
+expected, UT activity does not change signiﬁcantly
+under different screen heights, and the number of UT
+fatigue does not change signiﬁcantly either. There-
+fore, the impact of changing screen height on UT
+fatigue seems to be not obvious. Relevant investiga-
+tions indicate that prolonged head bowing can result
+in excessive pressure on the cervical spine, thus lead-
+ing to neck disorders and symptoms such as soreness
+of the neck muscles accompanied by damage to soft
+
+===== PAGE 11 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1935
+tissues surrounding the neck [26]. Ding et al. [39]
+recorded the sEMG activity of the upper trapezius
+and latissimus dorsi during 2 hours of seated work,
+and found that the muscles were most susceptible to
+fatigue at 40–50 minutes. Waongenngarm et al. [30]
+reported a statistically signiﬁcant rise in discomfort in
+the neck, shoulders, upper back, lower back, and but-
+tocks after one hour of sitting regardless of posture.
+Therefore, while working for extended periods with
+computers, modifying screen height may postpone
+the onset of fatigue.
+The simulation results show that the higher the
+height of a person, the greater the torque on the tho-
+racic and lumbar vertebrae when using a laptop in a
+seated position. According to biomechanical princi-
+ples, an upright neck position could potentially lessen
+the mechanical burden on the neck. Sun et al. [40] and
+Silva et al. [41] constructed cervical spine model for
+ﬁnite element analysis and found that the vertebral
+body rotates forwards during ﬂexion (positive torque)
+and backwards during extension (negative torque),
+and that the intervertebral joint torque decreases as
+the vertebral ﬂexion angle decreases. Consistent with
+the expected results, with the increase of screen
+height, the torque of spineT1/T2 and spineL4/L5
+gradually decreases. In addition, the results also show
+that the decrease trend is divided into two stages, and
+the decrease rate of the ﬁrst stage is greater than that
+of the second stage. Therefore, it is recommended that
+the height of the computer screen center should not
+be less than the height value at the inﬂection point,
+as shown in Fig. 9 (a) and (b). That is, the lowest
+center height of the computer screen should belong
+to 30 cm for people below 158.3 cm in height; the
+lowest center height of the computer screen should
+belong to 30–35 cm for people between 158.3 cm and
+167.8 cm in height; the lowest center height of the
+computer screen should belong to 35–40 cm for peo-
+ple between 167.8 cm and 177.5 cm in height; and the
+lowest center height of the computer screen should
+belong to 40 cm for people taller than 177.5 cm in
+height. Based on the simulation results, a mathemat-
+ical model is built for the minimum screen height of
+laptop users between 154 cm and 181 cm in height
+when using laptops in a sitting position, as follows:
+y =
+⎧
+⎪⎨
+⎪⎩
+60 − a + b 73 ≤ x< 75
+x − a + b − 15 75 ≤ x ≤ 85
+70 − a + b 85 <x ≤ 87
+Where y is the minimum screen height (cm), x is
+the sitting eye height (cm),a is the table height (cm),
+and b is the height of chair seat (cm). Users can sub-
+stitute their own sitting eye height, table height, and
+height chair seat into the formula to get the minimum
+screen height suitable for them. Of course, users can
+also make appropriate adjustments on this basis. By
+adjusting the height of the laptop screen properly, it
+can greatly relieve the fatigue and pain symptoms
+of the neck, lower back and waist, and reduce the
+damage to the body.
+Finally, it should be noted that although this study
+revealed some effects of laptop screen height on head
+posture angle and muscle fatigue, and provided rec-
+ommendations for the minimum screen height for
+laptop users of different heights, the subjects were
+healthy Asian laptop users, which may weaken and
+limit the generalizability of the results and cannot be
+generalized to other symptomatic groups.
+5. Conclusion
+sEMG signals of the SC and UT were scaled by
+twelve healthy young participants performing a15-
+minute task of the reading at the four different screen
+heights and gained its the root mean square and mean
+power frequency to determine muscle fatigue. The
+ﬁndings show that adjusting the height of the laptop
+screen can signiﬁcantly reduce the cervical ﬂexion
+angle and the activity level of SC. The following
+results were obtained:
+(1) There is a signiﬁcant relationship between
+screen height and head ﬂexion change.
+The head has its maximum ﬂexion state
+(25.5 ± 1.1
+◦) and its minimum ﬂexion state
+(17.0 ± 0.5◦) at D15 and D45, respectively.
+(2) The joint analysis of sEMG spectrum and
+amplitude shows that the highest and the low-
+est frequency of fatigue occurs in the SC on
+the condition of D15 and D45.
+(3) It can be concluded from the simulation results
+with Jack that the spineT1/T2 moment and
+spineL4/L5 moment decrease with the increase
+of screen height, especially, the moment is the
+sharp decline at the ﬁrst stage. The lowest
+center height of the computer screen should
+belong to 30 cm, 30–35 cm, 35–40 cm, 40 cm
+for people with the height of below158.3 cm,
+158.3 cm–167.8 cm, 167.8–177.5 and above
+177.5, respectively.
+
+===== PAGE 12 =====
+
+1936 Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue
+Ethical approval
+Not applicable.
+Informed consent
+All participants agreed to participate in the study
+and signed a consent form.
+Conﬂict of interest
+No potential conﬂict of interest was reported by
+the authors.
+Acknowledgments
+We would like to thank the students who partici-
+pated in this study and all those who helped us during
+this study.
+Funding
+This work was supported by Agricultural Key
+Applied Project of China (No. SD2019NJ015) and
+National Natural Science Foundation of China
+(projects No. 52075275).
+References
+[1] Kobus MBW, Rietveld P, van Ommeren JN. Ownership
+versus on-campus use of mobile IT devices by university
+students. Comput Educ. 2013;68:29-41.
+[2] Dockrell S, Bennett K, Culleton-Quinn E. Computer use and
+musculoskeletal symptoms among undergraduate university
+students. Comput Educ. 2015;85:102-9.
+[3] Straker L, Harris C, Joosten J, Howie EK. Mobile technol-
+ogy dominates school children’s IT use in an advantaged
+school community and is associated with musculoskeletal
+and visual symptoms. Ergonomics. 2018;61:658-69.
+[4] Ryan CG, Dall PM, Granat MH, Grant PM. Sitting patterns
+at work: objective measurement of adherence to current
+recommendations. Ergonomics. 2011;54:531-8.
+[5] Pattath P, Webb L. Computer-usage and associated muscu-
+loskeletal discomfort in college students. Work (Reading,
+Mass.). 2022;73:327-34.
+[6] Allafan N, Shahrbanian S, Rajabi R, Minoonejad H, Bayati
+M. Comparison of Perceived Musculoskeletal Discomfort
+Among Six Common Postures for Laptop Use in Female
+Students. Physical Treatments: Speciﬁc Physical Therapy
+Journal. 2018;8:37-44.
+[7] Janneck M, Jent S, Weber P, Nissen H. Ergonomics
+To Go: Designing The Mobile Workspace. Interna-
+tional Journal of Human–Computer Interaction. 2018;34:
+1052-62.
+[8] Tsang S, Cheing G, Lam A, Siu A, Pang P, Yip K,
+Jensen M. Excessive use of electronic devices among chil-
+dren and adolescents is associated with musculoskeletal
+symptoms, visual symptoms, psychosocial health, and qual-
+ity of life: a cross-sectional study. Front Public Health.
+2023;11:1178769.
+[9] Woo EHC, White P, Lai CWK. Musculoskeletal impact
+of the use of various types of electronic devices on uni-
+versity students in Hong Kong: An evaluation by means
+of self-reported questionnaire. Manual Therapy. 2016;26:
+47-53.
+[10] Katz JN, Amick BC, Carroll BB, Hollis C, Fossel AH, Coley
+CM. Prevalence of upper extremity musculoskeletal disor-
+ders in college students. The American Journal of Medicine.
+2000;109:586-8.
+[11] Cagnie B, Danneels L, Van Tiggelen D, De Loose V , Cam-
+bier D. Individual and work related risk factors for neck pain
+among ofﬁce workers: a cross sectional study. Eur Spine J.
+2007;16:679-86.
+[12] Cho C, Hwang Y , Cherng R. Musculoskeletal Symptoms
+and Associated Risk Factors Among Ofﬁce Workers With
+High Workload Computer Use. J Manip Physiol Ther.
+2012;35:534-40.
+[13] Bai J, Yu K, Sun Y , Kong L, Shen Y . Prevalence of and
+risk factors for Modic change in patients with symptomatic
+cervical spondylosis: an observational study. J Pain Res.
+2018;11:355-60.
+[14] Suka M, Yoshida K. Low back pain deprives the Japanese
+adult population of their quality of life: a questionnaire sur-
+vey at ﬁve healthcare facilities in Japan. Environ Health
+Prev. 2008;13:109-15.
+[15] Kerns RD, Brandt CA, Peduzzi P, Collaboratory FTNP.
+NIH-DoD-V A Pain Management Collaboratory. Pain Med.
+2019;20:2336-45.
+[16] Stewart W, Ricci J, Chee E, Morganstein D, Lipton R. Lost
+Productive Time and Cost Due to Common Pain Conditions
+in the US Workforce. Jama: The Journal of the American
+Medical Association. 2003;290:2443-54.
+[17] Reinert F, Caselli RP, Moro ARP, Gontijo LA, Ferreira
+MGG. Human factors related to the use of a personal com-
+puter: A case study. Work. 2020;65:225-30.
+[18] Straker L, Jones KJ, Miller J. A comparison of the pos-
+tures assumed when using laptop computers and desktop
+computers. Appl Ergon. 1997;28:263-8.
+[19] Yu Z, James C, Edwards S, Snodgrass SJ. Differences
+in posture kinematics between using a tablet, a laptop,
+and a desktop computer in sitting and in standing. Work.
+2018;61:257-66.
+[20] Bubric K, Hedge A. Differential patterns of laptop use and
+associated musculoskeletal discomfort in male and female
+college students. Work. 2016;55:663-71.
+[21] Werth A, Babski-Reeves K. Effects of portable computing
+devices on posture, muscle activation levels and efﬁciency.
+Appl Ergon. 2014;45:1603-9.
+[22] Asundi K, Odell D, Luce A, Dennerlein JT. Changes
+in posture through the use of simple inclines with note-
+book computers placed on a standard desk. Appl Ergon.
+2012;43:400-7.
+[23] Seghers J, Jochem A, Spaepen A. Posture, muscle activ-
+ity and muscle fatigue in prolonged VDT work at different
+screen height settings. Ergonomics. 2003;46:714-30.
+
+===== PAGE 13 =====
+
+Z. Guo et al. / Effects of laptop screen height on neck and shoulder muscle fatigue 1937
+[24] Berkhout AL, Hendriksson-Lars ´en K, Bongers P. The effect
+of using a laptopstation compared to using a standard lap-
+top PC on the cervical spine torque, perceived strain and
+productivity. Appl Ergon. 2004;35:147-52.
+[25] Straker L, Burgess-Limerick R, Pollock C, Maslen B. The
+inﬂuence of desk and display design on posture and muscle
+activity variability whilst performing information technol-
+ogy tasks. Appl Ergon. 2009;40:852-9.
+[26] Yadegaripour M, Hadadnezhad M, Abbasi A, Eftekhari F,
+Samani A. The Effect of Adjusting Screen Height and Key-
+board Placement on Neck and Back Discomfort, Posture,
+and Muscle Activities during Laptop Work. International
+Journal of Human–Computer Interaction. 2021;37:459-69.
+[27] Lee T, Liu T. Postural and Muscular Responses While View-
+ing Different Heights of Screen. Int J Occup Saf Ergo.
+2013;19:251-8.
+[28] Villanueva MBG, Jonai H, Sotoyama M, Hisanaga N,
+Takeuchi Y , Saito S. Sitting posture and neck and shoul-
+der muscle activities at different screen height settings
+of the visual display terminal. Ind Health. 1997;35(3):
+330-6.
+[29] Waongenngarm P, Rajaratnam BS, Janwantanakul P. Inter-
+nal Oblique and Transversus Abdominis Muscle Fatigue
+Induced by Slumped Sitting Posture after 1 Hour of Sitting
+in Ofﬁce Workers. Saf Health Work-Kr. 2016;7:49-54.
+[30] Areeudomwong P, Oapdunsalam K, Havicha Y , Tantai S,
+Buttagat V . Effects of Shoulder Taping on Discomfort and
+Electromyographic Responses of the Neck While Texting
+on a Touchscreen Smartphone. Safety and Health at Work.
+2018;9:319-25.
+[31] Yoon T, Kim K, Cynn H. Slow expiration reduces sternoclei-
+domastoid activity and increases transversus abdominis and
+internal oblique muscle activity during abdominal curl-up.
+J Electromyogr Kines. 2014;24:228-32.
+[32] H ¨agg GM, Luttmann A, J ¨ager M. Methodologies for
+evaluating electromyographic ﬁeld data in ergonomics. J
+Electromyogr Kines. 2000;10:301-12.
+[33] Dufaug A, Barthod C, Goujon L, Marechal L. New joint
+analysis of electromyography spectrum and amplitude-
+based methods towards real-time muscular fatigue evalua-
+tion during a simulated surgical procedure: A pilot analysis
+on the statistical signiﬁcance. Med Eng Phys. 2020;79:1-9.
+[34] Pollock C, Straker L. Excerpts from CybErg. 1999 dis-
+cussion on computer display height. Int J Ind Ergonom.
+2003;31:207-14.
+[35] Villanueva MB, Jonai H, Sotoyama M, Hisanaga N,
+Takeuchi Y , Saito S. Sitting posture and neck and shoul-
+der muscle activities at different screen height settings of
+the visual display terminal. Ind Health. 1997;35:330-6.
+[36] Straker LM, Burgess-Limerick RJ, Pollock C, Coleman J,
+Skoss R, Maslen B. Childrens’ Posture and Muscle Activity
+at Different Computer Display Heights and During Paper
+Information Technology Use. Human Factors: The Journal
+of Human Factors and Ergonomic Society. 2008;50:49-61.
+[37] Fostervold KI, Aar ˚as A, Lie I. Work with visual display
+units: Long-term health effects of high and downward line-
+of-sight in ordinary ofﬁce environments. Int J Ind Ergonom.
+2006;36:331-43.
+[38] Sommerich CM, Starr H, Smith CA, Shivers C. Effects of
+notebook computer conﬁguration and task on user biome-
+chanics, productivity, and comfort. Int J Ind Ergonom.
+2002;30:7-31.
+[39] Ding Y , Cao Y , Duffy VG, Zhang X. It is Time to Have Rest:
+How do Break Types Affect Muscular Activity and Per-
+ceived Discomfort During Prolonged Sitting Work. Safety
+and Health at Work. 2020;11:207-14.
+[40] Sun Z, Lu T, Li J, Liu J, Hu Y , Mi C. A ﬁnite element study
+on the effects of follower load on the continuous biome-
+chanical responses of subaxial cervical spine. Comput Biol
+Med. 2022;145:105475.
+[41] Silva AJC, de Sousa RJA, Fernandes FAO, Ptak M, Dymek
+M, Parente MPL. Improvement and validation of a female
+ﬁnite element model of the cervical spine. J Mech Behav
+Biomed. 2023;142:105797.
+
+===== PAGE 14 =====
+
+Copyright
+of
+Work
+is
+the
+property
+of
+IOS
+Press
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

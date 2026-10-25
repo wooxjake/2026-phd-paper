@@ -63,3 +63,11 @@
 10. [introduce.md - 관성측정장치와 요추각 변인](../../introduce.md#관성측정장치와-요추각-변인)
 
     > "IMUs were sampled at 100 Hz and subsequently low-pass filtered at 4 Hz (4th order Butterworth; bidirectional)."
+
+11. [이론적 배경: 앉은 자세 유지 중 체간 굴곡](../../introduce.md#L124)
+
+> "There were significant increases in trunk flexion angles at the end of both tasks."
+
+12. [이론적 배경: 체간근 주파수 변화](../../introduce.md#L128)
+
+> "Continuous sitting resulted in significant decreases in stimulated responses and declines in EMG MPF for several flexor and extensor muscles at the end of the 40-min periods in both psychosocial stress conditions."

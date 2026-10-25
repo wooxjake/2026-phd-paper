@@ -15,4 +15,8 @@
 - **원문 텍스트**: [Effects of Prolonged Sitting with Slumped Posture on Trunk Muscular Fatigue in Adolescents with and without Chronic Lower Back Pain.txt](../Effects%20of%20Prolonged%20Sitting%20with%20Slumped%20Posture%20on%20Trunk%20Muscular%20Fatigue%20in%20Adolescents%20with%20and%20without%20Chronic%20Lower%20Back%20Pain.txt)
 
 1. [introduce.md#L59](../../introduce.md#L59)
+
    > "The median frequency was obtained from the EMG data analysis of the first and last 5 min. The mean value of the EMG median frequency for the 5-min periods was calculated and normalized to the initial value. The median frequency change was used as the muscle fatigue index [9]."
+
+2. [이론적 배경: 첫·마지막 구간 비교](../../introduce.md#L142)
+   > "The median frequency was obtained from the EMG data analysis of the first and last 5 min."

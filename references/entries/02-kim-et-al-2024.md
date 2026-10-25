@@ -20,6 +20,7 @@
 - **원문 텍스트**: [Assessing the Preservation of Lumbar Lordotic Curvature in Everyday Sitting Conditions Assessed with an Inertial Measurement System.txt](../Assessing%20the%20Preservation%20of%20Lumbar%20Lordotic%20Curvature%20in%20Everyday%20Sitting%20Conditions%20Assessed%20with%20an%20Inertial%20Measurement%20System.txt)
 
 1. [introduce_copilot.md - IMU 측정과 요추각 변인](../../introduce_copilot.md#초안-imu-측정과-요추각-변인)
+
    > "Using medical tape, two IMU sensors were affixed on the skin over the spinous process of the 12th thoracic vertebra, palpated along the 12th rib, and over the 2nd sacral vertebra at the midpoint between the posterior superior iliac spines."
    >
    > "Data from the sensors were sampled at a rate of 40 Hz and wirelessly transmitted to a data-processing computer."
@@ -32,12 +33,20 @@
 
 2. [introduce.md - 관성측정장치와 요추각 변인](../../introduce.md#관성측정장치와-요추각-변인)
 
-  > "Using medical tape, two IMU sensors were affixed on the skin over the spinous process of the 12th thoracic vertebra, palpated along the 12th rib, and over the 2nd sacral vertebra at the midpoint between the posterior superior iliac spines."
-  >
-  > "Data from the sensors were sampled at a rate of 40 Hz and wirelessly transmitted to a data-processing computer."
-  >
-  > "Lumbar posture was determined by subtracting the angles between the thoracic sensor (T12) and the sacral sensor (S2) along each of these axes."
-  >
-  > "LLAavg was computed by dividing SumLLA by the test duration, where SumLLA represents a time-weighted integration of LLA obtained using the trapezoidal rule."
-  >
-  > "LLAdev was defined as the deviation from LLAstart, the initial LLA value at the start of the test."
+> "Using medical tape, two IMU sensors were affixed on the skin over the spinous process of the 12th thoracic vertebra, palpated along the 12th rib, and over the 2nd sacral vertebra at the midpoint between the posterior superior iliac spines."
+>
+> "Data from the sensors were sampled at a rate of 40 Hz and wirelessly transmitted to a data-processing computer."
+>
+> "Lumbar posture was determined by subtracting the angles between the thoracic sensor (T12) and the sacral sensor (S2) along each of these axes."
+>
+> "LLAavg was computed by dividing SumLLA by the test duration, where SumLLA represents a time-weighted integration of LLA obtained using the trapezoidal rule."
+>
+> "LLAdev was defined as the deviation from LLAstart, the initial LLA value at the start of the test."
+
+3. [이론적 배경: 요추 상대각과 평균·기준 대비 변화](../../introduce.md#L136)
+
+> "Lumbar posture was determined by subtracting the angles between the thoracic sensor (T12) and the sacral sensor (S2) along each of these axes."
+>
+> "LLAavg was computed by dividing SumLLA by the test duration, where SumLLA represents a time-weighted integration of LLA obtained using the trapezoidal rule."
+>
+> "LLAdev was defined as the deviation from LLAstart, the initial LLA value at the start of the test."

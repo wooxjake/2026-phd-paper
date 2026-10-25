@@ -33,4 +33,14 @@
    > "There were no effects on muscle fatigue, low back angle or pelvis movement over time."
 
 2. [introduce.md#L59](../../introduce.md#L59)
+
+   > "Measures of all dependent variables were taken at commencement and repeated at 30 min intervals (ﬁve measures in total)."
+
+3. [이론적 배경: 근전도와 불편감의 상이한 반응](../../introduce.md#L128)
+
+   > "There were no effects on muscle fatigue, low back angle or pelvis movement over time."
+   >
+   > "Discomfort increased significantly across all body areas with low back rated highest."
+
+4. [이론적 배경: 일정 간격의 측정](../../introduce.md#L142)
    > "Measures of all dependent variables were taken at commencement and repeated at 30 min intervals (ﬁve measures in total)."

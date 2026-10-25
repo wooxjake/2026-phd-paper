@@ -13,8 +13,8 @@
               "-File",
               "${CLAUDE_PROJECT_DIR}/.claude/hooks/add-reference.ps1"
             ],
-            "timeout": 15,
-            "statusMessage": "Checking reference records"
+            "timeout": 180,
+            "statusMessage": "Checking references and extracting source text"
           }
         ]
       }

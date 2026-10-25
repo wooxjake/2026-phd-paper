@@ -66,6 +66,21 @@ function Get-RelativePath {
     return $Path.Substring($ProjectRoot.Length).TrimStart('\', '/') -replace '\\', '/'
 }
 
+function Test-NonEmptyText {
+    param([string]$Path)
+
+    if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) {
+        return $false
+    }
+
+    try {
+        $text = Get-Content -LiteralPath $Path -Raw -Encoding UTF8
+        return -not [string]::IsNullOrWhiteSpace($text)
+    } catch {
+        return $false
+    }
+}
+
 try {
     $hookInput = [Console]::In.ReadToEnd() | ConvertFrom-Json
     $prompt = [string]$hookInput.prompt
@@ -86,6 +101,8 @@ try {
         Write-HookContext 'Reference-add request: no paper title was supplied after /add. Ask for the exact title and do not change files.'
         exit 0
     }
+
+    $requestedTitle = $requestedTitle -replace '^#+\s*', ''
 
     $projectRoot = if ($env:CLAUDE_PROJECT_DIR) { $env:CLAUDE_PROJECT_DIR } else { [string]$hookInput.cwd }
     $projectRoot = (Resolve-Path -LiteralPath $projectRoot).Path
@@ -147,7 +164,7 @@ No local candidate reached the 55% title-similarity threshold.
 Nearest local titles:
 $suggestions
 
-Required follow-up: treat these titles only as search hints. Locate and verify the requested paper's title, authors, year, and DOI/PMID from an authoritative record before creating any files. Do not modify introduce.md. Do not create a cited record, invent bibliographic data, or treat search1.md, search2.md, or search3.md as evidence.
+Required follow-up: treat these titles only as search hints. Locate and verify the requested paper's title, authors, year, and DOI/PMID from an authoritative record before creating any files. If an authorized original PDF is later placed in references/, run references/extract_pdf_text.py before completing the reference card. If extraction reports no text, mark OCR as required and do not invent an original-text citation. Do not modify introduce.md. Do not create a cited record, invent bibliographic data, or treat search1.md, search2.md, or search3.md as evidence.
 "@
         exit 0
     }
@@ -156,11 +173,58 @@ Required follow-up: treat these titles only as search hints. Locate and verify t
     $pdfPaths = @($candidate.Paths | Where-Object { [System.IO.Path]::GetExtension($_) -ieq '.pdf' })
     $sourceTextPaths = @($candidate.Paths | Where-Object {
         [System.IO.Path]::GetExtension($_) -ieq '.txt' -and
-        [System.IO.Path]::GetFileNameWithoutExtension($_) -notmatch '번역|translation|translated'
+        [System.IO.Path]::GetFileNameWithoutExtension($_) -notmatch '번역|translation|translated' -and
+        Test-NonEmptyText -Path $_
     })
     $translationPaths = @($candidate.Paths | Where-Object {
         $_ -match '논문_번역|번역|translation|translated'
     })
+    $extractionMessages = @()
+
+    if ($pdfPaths.Count -gt 0 -and $sourceTextPaths.Count -eq 0) {
+        $pdfPath = $pdfPaths | Select-Object -First 1
+        $extractorPath = Join-Path $projectRoot 'references\extract_pdf_text.py'
+        $pythonPath = Join-Path $projectRoot '.venv\Scripts\python.exe'
+
+        if (-not (Test-Path -LiteralPath $pythonPath)) {
+            $pythonCommand = Get-Command python.exe -ErrorAction SilentlyContinue
+            if ($null -ne $pythonCommand) {
+                $pythonPath = $pythonCommand.Source
+            }
+        }
+
+        if ((Test-Path -LiteralPath $extractorPath) -and (Test-Path -LiteralPath $pythonPath)) {
+            $expectedTextPath = [System.IO.Path]::ChangeExtension($pdfPath, '.txt')
+            try {
+                $extractOutput = (& $pythonPath $extractorPath $pdfPath 2>&1 | Out-String).Trim()
+                $extractExitCode = $LASTEXITCODE
+
+                if ($extractExitCode -eq 0 -and (Test-NonEmptyText -Path $expectedTextPath)) {
+                    $sourceTextPaths = @($expectedTextPath)
+                    $extractionMessages += "Original text extraction: completed ($((Get-RelativePath -Path $expectedTextPath -ProjectRoot $projectRoot)))"
+                    if ($extractOutput) {
+                        $extractionMessages += "Extraction report:`n$extractOutput"
+                    }
+                } elseif ($extractExitCode -eq 0 -and (Test-Path -LiteralPath $expectedTextPath -PathType Leaf)) {
+                    $extractionMessages += 'Original text extraction: completed, but no text was extracted; OCR may be required.'
+                    if ($extractOutput) {
+                        $extractionMessages += "Extraction report:`n$extractOutput"
+                    }
+                } else {
+                    $extractionMessages += "Original text extraction: failed (exit code $extractExitCode)."
+                    if ($extractOutput) {
+                        $extractionMessages += "Extraction report:`n$extractOutput"
+                    }
+                }
+            } catch {
+                $extractionMessages += "Original text extraction: failed ($($_.Exception.Message))"
+            }
+        } else {
+            $extractionMessages += 'Original text extraction: unavailable because the extractor or Python executable was not found.'
+        }
+    } elseif ($sourceTextPaths.Count -gt 0) {
+        $extractionMessages += 'Original text extraction: skipped because a non-translation .txt already exists.'
+    }
 
     $indexText = if (Test-Path -LiteralPath $indexPath) { Get-Content -LiteralPath $indexPath -Raw } else { '' }
     $registeredInIndex = $indexText.IndexOf($candidate.Title, [System.StringComparison]::OrdinalIgnoreCase) -ge 0
@@ -183,6 +247,7 @@ Required follow-up: treat these titles only as search hints. Locate and verify t
     $translationState = if ($translationPaths.Count -gt 0) { "available ($($translationPaths.Count))" } else { 'missing' }
     $indexState = if ($registeredInIndex) { 'registered' } else { 'missing' }
     $entryState = if ($entryPaths.Count -gt 0) { "registered ($($entryPaths.Count))" } else { 'missing' }
+    $extractionState = if ($extractionMessages.Count -gt 0) { $extractionMessages -join "`n" } else { 'Original text extraction: skipped because no source PDF was found.' }
 
     Write-HookContext @"
 Reference-add state report (generated locally)
@@ -198,8 +263,9 @@ Non-translation original text (.txt): $textState
 Translation file: $translationState
 references.md index: $indexState
 references/entries card: $entryState
+$extractionState
 
-Required follow-up: verify that the selected candidate and requested title are the same paper using title, authors, year, and DOI/PMID from the original text or another authoritative record. If verified, extract a text file from an available original PDF only when non-translation original text is missing. Then create only the missing references.md index entry and references/entries card, using candidate status unless the paper is already cited in the thesis. If the identity cannot be verified or no original source is available, report the missing evidence instead of fabricating metadata. Do not modify introduce.md. Keep any generated translation in review-required status.
+Required follow-up: verify that the selected candidate and requested title are the same paper using title, authors, year, and DOI/PMID from the original text or another authoritative record. The Hook has attempted extraction whenever a local PDF existed and the original TXT was missing or empty. Use the extraction report above; if no text was extracted, mark OCR as required and do not invent quotations. Then create only the missing references.md index entry and references/entries card, using candidate status unless the paper is already cited in the thesis. If the identity cannot be verified or no original source is available, report the missing evidence instead of fabricating metadata. Do not modify introduce.md. Keep any generated translation in review-required status.
 "@
 } catch {
     Write-HookContext "Reference-add hook could not inspect the local reference state: $($_.Exception.Message). Continue with manual verification; do not make unverified reference changes."

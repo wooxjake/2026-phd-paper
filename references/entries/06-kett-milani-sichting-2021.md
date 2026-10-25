@@ -3,7 +3,7 @@
 - **영문 제목**: Sitting for Too Long, Moving Too Little: Regular Muscle Contractions Can Reduce Muscle Stiffness During Prolonged Periods of Chair-Sitting
 - **한글 제목**: 너무 오래 앉고 너무 적게 움직이다 — 규칙적 근수축이 장시간 착석 중 근강직도를 감소시킬 수 있다
 - **저자/출처**: Kett, A.R., Milani, T.L., & Sichting, F. (2021). _Frontiers in Sports and Active Living_, 3:760533. https://doi.org/10.3389/fspor.2021.760533
-- **상태**: cited
+- **상태**: candidate
 - **연구목표**: 4.5시간 장시간 착석 동안 신경근전기자극(NMES)으로 유발한 규칙적 근수축이 요추부·흉추부 방척추근의 수동적 근강직도(passive muscle stiffness) 증가를 억제하는지 검증.
 - **집단 정의 및 피험자 수**: 건강한 성인 N=15(여 7, 남 8), 평균 연령 28.9±5.0세. 현재 부상·전기자극 금기질환 없는 자, NMES 관련 근피로 방지를 위해 사전 휴지기간 준수.
 - **비교 조건**: 피험자 내 반복측정, 10일 내 3회의 4.5시간 착석 세션(조건 순서 무작위화). CONTROL(자극 없이 착석) vs. NMESSENSOR(감각역치 수준 저강도 자극, 위약통제) vs. NMESMOTOR(운동역치 수준 자극으로 실제 근수축 유발). 자극은 착석 15분 후부터 5분씩 시행.

@@ -22,7 +22,7 @@
 에이전트를 지정하지 않은 채 Chat을 열어도 이 규칙은 적용된다.
 
 - 현재 사용자 메시지의 첫 단어가 대소문자와 관계없이 `edit`일 때만 파일 생성·수정·이름 변경·이동·삭제를 실행한다.
-- 예외로 Claude Code의 `UserPromptSubmit` 훅이 참조 상태를 제공한 현재 입력이 정확히 `/add <논문명>` 형식이면, 이 명령은 참고문헌 관리 작업의 수정 승인으로 간주한다. 수정 범위는 `references/`, `references/entries/`, `references.md`로 한정하며, `introduce.md`와 그 밖의 본문·정책 파일은 수정하지 않는다. 원문 또는 권위 있는 서지 기록으로 제목·저자·연도·DOI/PMID를 확인하기 전에는 파일을 등록하거나 상태를 `cited`로 변경하지 않는다.
+- 예외로 Claude Code의 `UserPromptSubmit` Hook 또는 Copilot의 `.github/hooks/` `UserPromptSubmit` Hook이 참조 상태를 제공한 현재 입력이 정확히 `/add <논문명>` 형식이면, 이 명령은 참고문헌 관리 작업의 수정 승인으로 간주한다. 수정 범위는 `references/`, `references/entries/`, `references.md`로 한정하며, `introduce.md`와 그 밖의 본문·정책 파일은 수정하지 않는다. 원문 또는 권위 있는 서지 기록으로 제목·저자·연도·DOI/PMID를 확인하기 전에는 파일을 등록하거나 상태를 `cited`로 변경하지 않는다.
 - `edit`으로 시작하지 않으면 읽기·분석·제안만 하고, `이 작업을 실행하려면 메시지를 edit으로 시작해주세요.`라고 안내한 뒤 대기한다.
 - 승인은 현재 메시지에만 적용된다. 이전 메시지의 `edit`을 근거로 삼지 않는다.
 

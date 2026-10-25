@@ -1,0 +1,963 @@
+===== PAGE 1 =====
+
+100 J Occup Health, Vol. 57, 2015
+speciﬁc. Perceived muscular tension is hypothesized 
+t
+o be an early sign of musculoskeletal symptoms.
+(J Occup Health 2015; 57: 100–109)
+Key words:  Biopsychosocial, Neck pain, Ofﬁce worker, 
+Path analysis, Predictors
+Neck pain is common among workers, affecting 
+13−48% of workers annually 1,2).  Office workers, 
+defined as those working in an office environment 
+with their main tasks involving computer use, partici-
+pation in meetings, presentations, reading, and making 
+and receiving telephone calls 3), are among those with 
+the highest frequency of neck pain 4).  Previous studies 
+showed that between 42 and 69% of office workers 
+experienced neck pain in the preceding 12 months 5−8) 
+and that about 34 to 49% of office workers reported 
+a new onset of neck pain during a one-year follow-
+up9−11).  Neck pain is viewed as an episodic occur-
+rence over a lifetime with variable recovery between 
+episodes12).  It has been found to increase the risk for 
+future long-term sickness absence among white-collar 
+workers13).  Consequently, neck pain in effect consti-
+tutes a great socioeconomic burden on patients and 
+society14, 15).
+Nonspecific neck pain is neck pain (with or 
+without radiation) without any specific systematic 
+disease being detected as the underlying cause of the 
+complaint16).  The etiology of musculoskeletal disor-
+ders is widely accepted to be multifactorial, including 
+individual, physical, and psychosocial factors 14, 17−19).  
+Different occupations are exposed to different work-
+ing conditions, and the nature of the work influences 
+the health of workers 14, 20−22) .  Predisposing factors 
+for neck pain are likely to be population specific.  A 
+recent systematic review of prospective cohort studies 
+identified several risk factors for neck pain in office 
+workers, including female gender, history of neck 
+complaints, pain initially felt after an accident, irregu-
+lar head and body posture, duration of employment 
+in same job <1 year (for males only), poor computer 
+Abstract:  Contribution of biopsychosocial risk 
+factors to nonspeciﬁc neck pain in ofﬁce workers: 
+A path analysis model: Arpalak P AKSAICHOL, et al . 
+Department of Physical Therapy, Faculty of Allied 
+Health Sciences, Chulalongkorn University, Thai-
+land—Objective:  The etiology of nonspeciﬁc neck pain 
+is widely accepted to be multifactorial. Each risk factor 
+has not only direct effects on neck pain but may also 
+exert effects indirectly through other risk factors. This 
+study aimed to test this hypothesized model in ofﬁce 
+workers.  Methods:  A one-year prospective cohort 
+study of 559 healthy ofﬁce workers was conducted. At 
+baseline, a self-administered questionnaire and stan-
+dardized physical examination were employed to gather 
+biopsychosocial data. Follow-up data were collected 
+every month for the incidence of neck pain. A regression 
+model was built to analyze factors predicting the onset 
+of neck pain. Path analysis was performed to examine 
+direct and indirect associations between identiﬁed risk 
+factors and neck pain.  Results:  The onset of neck pain 
+was predicted by female gender, having a history of 
+neck pain, monitor position not being level with the eyes, 
+and frequently perceived muscular tension, of which 
+perceived muscular tension was the strongest effector 
+on the onset of neck pain. Gender, history of neck pain, 
+and monitor height had indirect effects on neck pain that 
+were mediated through perceived muscular tension. 
+History of neck pain was the most inﬂuential effector on 
+perceived muscular tension.  Conclusions:  The results 
+of this study support the hypothesis that each risk factors 
+may contribute to the development of neck pain both 
+directly and indirectly. The combination of risk factors 
+necessary to cause neck pain is likely occupation 
+Contribution of biopsychosocial risk factors to nonspeciﬁc neck 
+pain in ofﬁce w
+orkers: A path analysis model
+Arpalak PAKSAICHOL1, Chaipat LAWSIRIRAT2 and Prawit JANW ANTANAKUL1
+1Department of Physical Therapy, Faculty of Allied Health Sciences, Chulalongkorn University, Thailand and 
+2Faculty of Sports Science, Chulalongkorn University, Thailand
+J Occup Health 2015; 57: 100–109 J ournal of
+Occupational Health
+Received May 30, 2014; Accepted Oct 31, 2014
+Published online in J-ST
+AGE Dec 4, 2014
+Correspondence to: P . Janwantanakul, Department of Physical 
+Therapy, Faculty of Allied Health Sciences, Chulalongkorn 
+University, Bangkok, 10330, Thailand (e-mail: prawit.j@chula.
+ac.th)
+Type of contribution: Arpalak PAKSAICHOL conducted the experiment 
+and wrote the manuscript. Chaipat LAWSIRIRAT provided the concept 
+and critically revised the manuscript. Prawit JANWANTANAKUL provided 
+the concept and drafted the manuscript.
+
+===== PAGE 2 =====
+
+101Arpalak PAKSAICHOL, et al.: Risk factor s for neck pain in ofﬁce workers
+skills (for males only), distance of the keyboard from 
+the 
+edge of the table <15 cm, high task difficulty, low 
+influence at work (for female subjects only) and high 
+muscular tension 17).
+To understand the etiology of neck pain, a model 
+to conceptualize the process involved in the develop-
+ment of neck pain among workers is required.  Côté 
+et al .14) proposed that, rather than each risk factor 
+only having direct effects on neck pain and the risk 
+factors not themselves being outcomes of antecedent 
+risk factors, neck pain is likely caused by multiple 
+serial exposures.  For example, several risk factors 
+relating to demographic, ethnic, and cultural character-
+istics may have direct effects on neck pain.  However, 
+they may also exert their effects indirectly through 
+health behaviors, occupation, workplace physical and 
+psychological exposures and how a worker copes 
+with stress at work.  On the other hand, risk factors 
+related to the workplace can modify the direct effects 
+of other workplace-related risk factors on the onset 
+of neck pain, and the effects of risk factors related to 
+the workplace on neck pain are mediated by workers’ 
+ability to cope with stress at work.  
+An analytical approach, such as path analysis, is a 
+useful tool to test a causal pathway for the develop-
+ment of disease.  Path analysis, which is an extension 
+of multiple regression, can predict more than one 
+dependent variable and assess the relationships among 
+independent variables as well as dependent variables 
+within that model 23, 24).  It shows a theoretical, direc-
+tional relationship (both direct and indirect) between 
+variables, and offers a causal model of relationships 25).  
+The purpose of this study was to test a hypothesized 
+model of the direct and indirect effects of various risk 
+factors involved in the development of nonspecific 
+neck pain in a sample of office workers using path 
+analysis.
+Materials and Methods
+Participants and procedure
+A prospective cohort study with a one-year follow 
+up was conducted in a convenience sample of 3,809 
+office workers recruited from four large-scale work-
+places in Bangkok, Thailand.  The enterprises partici-
+pating in this study were a public university and 
+the head offices of three ministries.  The study was 
+approved by the Chulalongkorn University Human 
+Ethics Committee.  Individuals were included in the 
+study if they were 18−55 years of age and working 
+full-time.  Subjects were excluded if they had report-
+ed neck pain in the previous three months, reported 
+pregnancy or had planned to become pregnant in the 
+next 12 months, had a history of trauma or accidents 
+or surgery in the neck region, had been diagnosed 
+with fibromyalgia, carpal tunnel syndrome, cervical 
+radiculopathy, systemic illness or connective tissue 
+disorders, or planned to be on vacation more than 9 
+consecutive days in the next 12 months.  Neck pain 
+was defined as any neck pain lasting >24 hours with a 
+pain intensity greater than 30 mm on a 100-mm visual 
+analog scale (V AS).
+Office workers were approached and invited to 
+participate in this study.  They were informed of 
+the objectives and details of the research and asked 
+to provide informed consent upon agreement to 
+participate.  At baseline, subjects completed a self-
+administered questionnaire and underwent a physical 
+examination conducted by trained physical therapists 
+according to a standardized protocol (Fig. 1).  Subjects 
+then received a self-administrated diary to record the 
+incidence of neck pain monthly, and the researcher 
+returned to collect the diaries from the participants 
+every month over a 12-month period.
+Outcome measures
+To assess onset of neck pain during the previous 
+month, a picture of the body from the standardized 
+Nordic questionnaire 26) and the question “Have you 
+experienced any neck pain lasting >24 hours in the 
+previous four weeks?” were included in the diary 
+Lost to follow-up (n=24) 
+•
+Pregnancy (n=3) 
+• Transfer (n=15) 
+• Early retirement (n=3) 
+• Withdraw (n=3) 
+12-month follow-up
+Excluded (1,285) 
+•
+Incomplete data (n=367) 
+• Reported pain with VAS more than 30 
+mm (n=744) 
+• Had been diagnosed with serious diseases 
+(n=124) 
+• Had a history of trauma or accidents in the 
+neck (n=13) 
+• Reported pregnancy or had planned to 
+become pregnant (n=13) 
+• Had planned to vacation more than 9 days 
+(n=24)
+Replied (n=1,967) 
+Signed consent (n=559) 
+(
+82%) 
+Invited for the study 
+(
+n=3,809)
+Completed (n=535) 
+(
+96%) 
+• No participation (123) 
+Included (n=682) 
+No response (n=1,842)
+Fig. 1.   Flo w chart of participants.
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 3 =====
+
+102 J Occup Health, Vol. 57, 2015
+given to the participants.  If they answered “Yes”, 
+follo
+w-up questions were asked regarding pain inten-
+sity measured by a V AS and the presence of weakness 
+or numbness in the upper limbs.  In this study, partic-
+ipants were identified as cases if they answered “Yes” 
+to the question “Have you experienced any neck pain 
+lasting >24 hours in the previous four weeks?” report-
+ed a pain intensity greater than 30 millimeters (mm) 
+on a 100-mm V AS and had no weakness or numbness 
+in the upper limbs.  Participants were followed until 
+they became symptomatic, withdrew from the study or 
+completed the 12-month follow-up.
+Biopsychosocial risk factors
+A self-administered questionnaire and physi-
+cal examination were employed to collect potential 
+biopsychosocial risk factors.  The self-administered 
+questionnaire consisted of three sections in order to 
+gather data on individual, work-related physical, and 
+work-related psychosocial factors.  
+Individual factors included gender, age, hand domi-
+nance, marital status, education level, chronic diseases, 
+frequency of weekly exercise sessions, smoking habits, 
+and history of neck and low back pain.
+Work-related physical factors included job position, 
+years of working experience, average number of work-
+ing hours a day and frequency of computer use and 
+sitting >4 h a day as well as rest breaks.  Information 
+about typing style and habitual neck posture while 
+using a computer was also requested.  The question-
+naire asked participants, based on their own percep-
+tions, to rate the ergonomics of their workstations (i.e., 
+height of their desk and chair, adjustability of their 
+chair and positions of their computer screen, keyboard 
+and mouse) and work environment conditions (i.e., 
+ambient temperature, light intensity, noise level, air 
+circulation).
+Work-related psychosocial factors  were assessed 
+with the Job Content Questionnaire, which consists 
+of a set questions covering a total of 54-items in 
+the following six areas: decision latitude (11 items), 
+psychological demand (12 items), physical job demand 
+(6 items), social support (8 items), job security (5 
+items) and work hazards (12 items).  Each item had a 
+response set of a four-point Likert scale ranging from 1, 
+strongly disagree, to 4, strongly agree 27).  Participants 
+were also required to answer the question “Have you, 
+during the past month, experienced muscular tension 
+during work?” (never, a few times, a few times per 
+week, one time per day or several times per day).  
+Self-rated perceived muscular tension was scaled into 
+three groups: high tension (a few times per week, 
+one time per day or several times per day), medium 
+tension (a few times) or low tension (never) 11).
+The physical examination included in the study was 
+selected based on the theoretical effect of prolonged 
+computer use on body parts, which may lead to 
+forward head posture, rounded shoulders and kyphotic 
+upper thoracic spine 28).  Previous studies showed that 
+patients with neck pain had significantly lower ranges 
+of neck movement and neck muscle endurance than 
+those without neck pain 5,29).  The physical examination 
+took a single 30-minute session to complete.
+• Body weight and height were measured by digital 
+scale and a wall-mounted standiometer, respectively.
+• Neck range of motion assessments looked at the 
+active range of motion for neck flexion, exten-
+sion, rotation and lateral rotation using the cervi-
+cal range of motion device (CROM) 30).  Subjects 
+sat on a chair with their feet on the floor.  Each 
+subject looked directly forward with his/her neck 
+in a neutral position.  The subject was then asked 
+to move his/her head towards each direction as far 
+as possible, and the degree of neck motion in each 
+direction was recorded.
+• Neck extensor and flexor endurance were assessed 
+according to the procedures described by Ljungquist 
+et al .31) and Harris et al .32), respectively.  For the 
+neck extensor muscles endurance, the subject 
+lay prone on a plinth with their head and neck 
+supported by the examiner’s hands.  A Velcro 
+band was strapped around the subject’s head with 
+an inclinometer attached to the band immediately 
+above the tip of the right ear.  A 2-kg weight (for 
+females) or 4-kg weight (for males) was suspended 
+from the headband.  The subject was instructed to 
+hold his/her the head steady in a horizontal posi-
+tion, and this was monitored with an inclinometer.  
+The test was discontinued if the subject was not 
+able to hold the position because of fatigue or pain 
+or if the subject moved >5 degrees from the posi-
+tion.  The examiner recorded the muscle perfor-
+mance in seconds 31).  For neck flexor muscle endur-
+ance, the participant assumed a crook-lying position 
+with their chin maximally retracted and maintained 
+isometrically.  The subject then lifted his/her head 
+and neck until the head was approximately 2.5  cm 
+above the plinth.  The length of time the subject 
+was able to hold this position without deviation was 
+recorded in seconds by the examiner 32).
+• Pressure pain threshold (PPT), which is the minimal 
+amount of pressure where the sensation of pressure 
+first changes to pain, at the right upper trapezius 
+was measured using an electronic algometer 33).  The 
+pressure was applied at a rate of 30  kPa/s.  All 
+participants were instructed to press a switch when 
+the sensation changed from pressure to pain.  The 
+mean of three trials was calculated and used for 
+the main analysis.  A 30-second resting period was 
+allowed between each measurement.
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 4 =====
+
+103Arpalak PAKSAICHOL, et al.: Risk factor s for neck pain in ofﬁce workers
+Before data collection, the repeatability of data 
+f
+rom the self-administered questionnaire and physi-
+cal examination outcomes was assessed on 20 office 
+workers.  Each subject was tested twice on two sepa-
+rate days with a week between the measurements for 
+the questionnaire and one day for the physical exami-
+nation.
+Statistical analyses
+For the reliability study, the intraclass correlation 
+coefficient (ICC [3,1]) was calculated for continuous 
+data and Phi coefficient was calculated for nominal 
+data.  The ICC (3,1) was calculated for intra-rater 
+reliability.
+Characteristics of subjects were described using 
+means or proportions.  The percentages of missing 
+data for the individual, work-related physical and 
+work-related psychosocial factor categories were 0.1%, 
+1.1% and 0.5%, respectively.  To retain the statistical 
+power of the database, missing data were handled by 
+the “hot-deck imputation” procedure.  A respondent 
+was selected at random from the total sample of the 
+study, and the value for that person was assigned to 
+the case in which information was missing.  This 
+procedure was conducted repeatedly for each missing 
+value until the dataset was complete 34).  The baseline 
+and 12-month follow-up characteristics of the study 
+population were compared using Chi-square analysis 
+and the independent t-test.
+Descriptive analysis and multiple regression were 
+performed using SPSS for Windows Version 17.0, and 
+path analysis was performed using LISREL V ersion 8.5.  
+To test the hypothesized model, a three-step process 
+analysis was undertaken.  First, univariate logis-
+tic regression analysis was carried out to determine 
+significant differences in the onset of neck pain with 
+various biopsychosocial characteristics.  Any factors 
+with a p-value ≤0.2 in the univariate logistic regression 
+analysis were eligible for addition into multivariate 
+analysis.  Second, multivariate logistic regression was 
+conducted to determine whether baseline measures 
+of biopsychosocial risk factors were associated with 
+incident neck pain.  Third, path analysis was used to 
+examine the relationships among various factors with 
+incident neck pain based on the model proposed by 
+Côté et al. 14).  The overall model fit was assessed by 
+establishing fit indexes: the chi-square significance 
+test (
+χ 2), the root mean square error of approxima-
+tion (RMSEA), the comparative fit index (CFI) and 
+the goodness-of-fit index (GFI).  The 
+χ 2 statistic was 
+used where a nonsignificant test indicates that the 
+model and data were consistent.  The RMSEA is an 
+index of the amount of mis-specification of the model 
+per degree of freedom, where values less than 0.05 
+indicate a good fit, values between of 0.05 and 0.08 
+indicate a marginal fit, and values greater than 0.1 
+indicate an unacceptable fit.  Fit index values more 
+than 0.95 are considered to indicate acceptable fit of a 
+model to data 35).
+Results
+Test-retest reliability
+The test-retest reliability results demonstrated 
+moderate (0.71) to good (0.91) reliability for self-
+administered questionnaire outcomes. Intra-rater 
+reliability for physical examination outcomes were 
+moderate (0.72) to good (0.91).
+Demographic characteristics of study population
+Of the total 3,809 office workers who received a 
+letter inviting them to participate in the study, 1,967 
+responded (52%). Of these, 682 were eligible and 
+559 agreed to participate at baseline measurement. A 
+total of 535 office workers were followed for 1 year, 
+and 24 (5%) subjects were lost during the follow-up 
+period due to pregnancy (n=3), job transfer (n=15), 
+early retirement (n=3) and withdrawal (n=3). Table 1 
+shows the baseline and 12-month follow-up charac-
+teristics of the study population. No significant differ-
+ence in subject characteristics between the baseline 
+and 12-month follow-up data was detected ( p>0.05). 
+Over the 12 months of follow-up, 28% (151/535) of 
+participants reported the incidence of neck pain with a 
+mean (SD) V AS score of 42 (14) mm.
+A conceptual model for the onset of nonspecific neck 
+pain in office workers
+Because there were significantly different numbers 
+of female (n=429) and male office workers (n=106) 
+participating in the study, multiple regression and path 
+analysis were separately conducted for each gender. 
+However, a model of the direct and indirect effects 
+of various risk factors involved in the development of 
+neck pain in female office workers was not signifi-
+cantly different from that of their male counterparts. 
+Thus, data from females and males were combined 
+for further multiple regression and path analysis.
+When performing univariate logistic regression 
+analyses, the variables showing a p-value ≤0.2 were 
+gender, history of neck pain and back pain, neck flex-
+or endurance, desk and monitor height, typing style, 
+perceived muscular tension, and physical job demand. 
+Thus, these factors were selected for further analy-
+sis. Multivariate logistic regression analyses revealed 
+that gender, history of neck pain, monitor height, and 
+perceived muscular tension were associated with onset 
+neck pain (Table 2). 
+The causal relationships of gender, history of neck 
+pain, monitor height and perceived muscular tension 
+with onset of neck pain were examined by path 
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 5 =====
+
+104 J Occup Health, Vol. 57, 2015
+Table 1.   Descripti ve summary of subject characteristics 
+Characteristics
+Baseline
+(n=559)
+12-month follo
+w-up 
+(n=535) p
+N (%) Mean (SD) N (%) Mean (SD)
+General characteristics
+Gender 0.711*
+Male 113 (20.2) 106 (19.8)
+Female 446 (79.8) 429 (80.2)
+Age (years) 39.1 (9.1) 39.2 (9.0) 0.848**
+20−29 105 (18.8) 26.6 (1.8)  97 (18.1) 26.6 (1.8) 0.945**
+30−39 195 (34.9) 34.8 (2.8) 186 (34.8) 34.8 (1.9) 0.889**
+40−49 161 (28.8) 44.2 (2.9) 157 (29.3) 44.2 (2.9) 0.959**
+50−59  98 (17.5) 53 (2.5)  95 (17.8) 52.7 (1.9) 0.821**
+Height  1.6 (0.1)  1.6 (0.1) 0.809**
+Body weight 61.1 (14.3) 61.3 (14.4) 0.932**
+Body mass index (kg/m2) 0.747*
+<18.5 kg/m2  34 (6.1) 17.7 (0.6)  31 (5.8) 17.7 (0.6) 0.917**
+18.5−24.9 kg/m2 347 (62.1) 21.7 (1.7) 331 (61.9) 21.7 (1.7) 0.984**
+25−29.9 kg/m2 112 (20.0) 27.2 (1.3) 110 (20.6) 27.3 (1.4) 0.890**
+>30 kg/m2  66 (11.8) 34.7 (5.4)  63 (11.8) 34.3 (3.8) 0.853**
+Marital status 0.971*
+Single 316 (56.5) 300 (56.1)
+Married 219 (39.2) 212 (39.6)
+Divorced/widowed/separated  24 (4.3)  23 (4.3)
+Level of education 0.928*
+Primary school   8 (1.4)   8 (1.5)
+Secondary school  13 (2.3)  13 (2.4)
+College  70 (12.5)  69 (12.9)
+Bachelor’s degree 372 (66.5) 354 (66.2)
+Higher than Bachelor’s degree  96 (17.2)  91 (17)
+Frequency of weekly exercise sessions 0.985*
+No 155 (27.7) 147 (27.5)
+Sometimes 341 (61.0) 326 (60.9)
+Always  59 (10.6)  58 (10.8)
+Not sure   4 (0.7)   4 (0.8)
+History of neck pain 0.814*
+Yes 284 (50.8) 262 (49)
+No 275 (49.2) 273 (51)
+History of back pain 0.792*
+Yes 352 (63) 335 (62.6)
+No 207 (37) 200 (37.4)
+History of illness 0.996*
+Yes  99 (17.7)  97 (18.2)
+No 460 (82.3) 438 (81.8)
+Work-related physical characteristics
+Duration of employment (years) 13.5 (9.2) 13.8 (9.3) 0.816**
+Working days per week (days per week)  5.0 (0.2)  5.0 (0.3) 0.872**
+Working hours per day (hours per day)  8.0 (1.0)  8.0 (1.0) 0.989**
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 6 =====
+
+105Arpalak PAKSAICHOL, et al.: Risk factor s for neck pain in ofﬁce workers
+Characteristics
+Baseline
+(n=559)
+12-month follo
+w-up 
+(n=535) p
+N (%) Mean (SD) N (%) Mean (SD)
+Adjustable chair 0.963*
+Yes 456 (81.6) 340 (63.6)
+No 103 (18.4) 195 (36.4)
+Monitor height at a level horizontal with the eyes 0.999*
+Yes 322 (57.6) 306 (57.2)
+No 237 (42.4) 229 (42.8)
+Suitable desk height 0.958*
+Yes 495 (88.6) 475 (88.8)
+No  64 (11.4)  60 (11.2)
+Typing 0.787*
+Touch typing 294 (52.6) 278 (52)
+Non-touch typing 265 (47.4) 257 (48)
+Forward head posture while using a computer 0.998*
+Often 210 (37.6) 195 (36.4)
+Sometimes 219 (39.2) 214 (40)
+Seldom 130 (23.3) 126 (23.6)
+Work-related psychosocial characteristics
+Job control  35.2 (5.0)  35.2 (5.0) 0.968**
+Psychosocial job demand  32.6 (4.5)  32.7 (4.5) 0.973**
+Physical job demand  13.5 (2.8)  13.5 (2.8) 0.987**
+Job security  16.5 (1.5)  16.5 (1.5) 0.984**
+Social support  30.1 (4.8)  29.7 (6.0) 0.895**
+Hazard at work  16.7 (3.6)  16.7 (3.6) 0.874**
+Perceived muscular tension 0.897*
+Low 173 (30.9) 166 (31)
+Medium 297 (53.1) 284 (53.1)
+High  89 (15.9)  85 (15.9)
+Physical characteristics
+Cervical flexion (degrees)  61 (9)  61 (9) 0.911**
+Cervical extension (degrees)  65 (11)  65 (11) 0.764**
+Cervical rotation (degrees)
+Right  72 (7)  72 (7) 0.979**
+Left  72 (7)  72 (7) 0.947**
+Cervical lateral flexion (degrees)
+Right  42 (7)  42 (7) 0.758**
+Left  44 (7)  44 (7) 0.950**
+Neck flexor endurance (seconds)  30.7 (21.9)  30.2 (21.2) 0.830**
+Neck extensor endurance (seconds) 177.0 (106.9) 176.6 (106.3) 0.779**
+Pressure pain threshold (kPa) 
+Right 299.8 (184.6) 300.0 (184.5) 0.890**
+Left 258.4 (158.3) 258.0 (158.1) 0.641**
+*Using the Chi-square test for a comparison between baseline and 12-month follow-up data. **Using the independent t-test for a 
+comparison between baseline and 12-month follow-up data.
+Table 1.   Descriptive summary of subject characteristics (Continued)
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 7 =====
+
+106 J Occup Health, Vol. 57, 2015
+analysis (Fig. 2). All factors had a direct effect on 
+the 
+onset of nonspecific neck pain in office workers. 
+The most influential factor causing neck pain was 
+perceived muscular tension (
+β =0.19), followed by 
+history of neck pain ( β =0.12), gender ( β =0.11), and 
+monitor height ( β=0.10), respectively. Factors mostly 
+influencing perceived muscular tension were history 
+of neck pain (
+β =0.35), followed by gender ( β =0.07) 
+and monitor height ( β =0.05), respectively. Based on 
+the fit indices of path analysis, this model provided a 
+good fit for the data (Chi-square=0.00, p-value=1.00, 
+RMSEA<0.001, GFI=0.985, CFI=0.993).
+Discussion
+The one-year incidence of neck pain in our sample 
+of office workers was 28%. Previous epidemiological 
+studies reported the annual incidence of neck pain in 
+office workers to be in the range of 34−49% 9−11). In 
+this study, apart from having pain lasting more than 
+one day, participants were required to report pain 
+greater than 30 mm on a 100-mm visual analogue 
+scale and no weakness or numbness in the upper 
+limbs in order to be identified as cases. Korhonen et 
+al.9) defined incident cases as those who reported local 
+neck pain or radiating neck pain for at least eight 
+days during the preceding 12 months, whereas Hush 
+et al. 10) defined an episode of neck pain as a period of 
+neck pain lasting longer than 24 hours. Consequently, 
+the discrepancy between our study and previous stud-
+ies may be due to the difference in the definition of a 
+symptomatic case.
+Côté et al .14) suggested that most neck pain in 
+workers is nontraumatic and that its etiology is multi-
+faceted, meaning that neck pain is not caused by a 
+single risk factor but rather is caused by a combina-
+tion of risk factors. The specific combinations of risk 
+factors necessary to cause an episode of neck pain 
+likely vary between workers. The authors further elab-
+orated about the complex relationships between indi-
+vidual, work-related physical and psychosocial factors 
+for the development of neck pain by stating that each 
+risk factor has both direct and indirect effects on the 
+development of neck pain. Some risk factors may 
+exert their effects indirectly through other risk factors 
+as a mediator.
+The results of the present study indicate that the 
+onset of neck pain in office workers was predicted 
+by gender, history of neck pain, monitor height, and 
+perceived muscular tension. As proposed by Côté et 
+al.14), each risk factor had direct and indirect effects on 
+the development of nonspecific neck pain in a sample 
+Table 2.   Incidence, 
+β coefficient and adjusted odds ratio (OR adj) with 95% confidence interval (95% CI) for nonspecific neck pain 
+with respect to factors in the final modelinga (n=535)
+Factors N Incidence (%) β coefficient ORadj 95% CI p value
+Gender
+Female 429 131 (30.5) 0.536 1.71 1.01−2.95 0.05
+Male 106  20 (18.9) 1.00
+History of neck pain
+Yes 262  95 (36.3) 0.493 1.64 1.08−2.49 0.02
+No 273  56 (20.5) 1.00
+Perceived muscular tension
+High 85  41 (48.2) 1.317 3.73 1.98−7.03 <0.001
+Medium 284  84 (29.6) 0.629 1.88 1.13−3.13 0.016
+Low 166  26 (15.7) 1.00
+Monitor height at a level horizontal with the eyes
+Yes 306  74 (24.2) 1.00
+No 229  77 (33.6) 0.41 1.51 1.02−2.23 0.041
+aFactors included in the statistical modelling were gender, history of neck pain and back pain, neck flexor endurance, desk and 
+monitor height, typing style, perceived muscular tension, and physical job demand.
+Gender 
+History of  
+neck pain
+ 
+Monitor height 
+Neck pain 
+0
+.07*
+0.11**
+0.05*
+0.19**
+0.10**
+0.12**
+0.35** Perceived 
+m
+uscular 
+tension
+Fig. 2.   P ath analysis of factors predicting onset of neck pain 
+in office workers with standardized regression coeffi-
+cients (*p<0.05, **p<0.01).
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 8 =====
+
+107Arpalak PAKSAICHOL, et al.: Risk factor s for neck pain in ofﬁce workers
+of office workers. The model showed that female 
+gender
+, having history of neck pain, monitor position 
+not being level with the eyes and frequently perceived 
+muscular tension directly caused neck pain and that 
+perceived muscular tension had the strongest effect 
+on the onset of neck pain. A recent systematic review 
+of prospective cohort studies showed strong evidence 
+for the history of neck complaints and female gender 
+as risk factors of the onset of neck pain in office 
+workers17). Computer screen position not being level 
+with the eyes was also previously reported to be a 
+predictor for the onset of neck pain in undergraduate 
+students36). Several studies have reported an associa-
+tion between perceived muscular tension and the onset 
+of neck pain 11, 37, 38). Wahlström et al .11) demonstrated 
+that perceived muscular tension was significantly asso-
+ciated with an increased risk of developing neck pain 
+among computer users. .Huysmans et al .38) found that 
+perceived muscular tension was a strong predictor of 
+future neck-shoulder symptoms in symptom-free office 
+workers.
+Apart from having a direct effect on the develop-
+ment of neck pain, gender, history of neck pain, and 
+monitor height had indirect effects on neck pain that 
+were mediated through perceived muscular tension. 
+Female gender, having history of neck pain, and 
+monitor position not being level with the eyes were 
+related to frequently perceived muscular tension. The 
+results also pointed out that history of neck pain had 
+the most influential effect on perceived muscular 
+tension. 
+The conceptual model for the onset of nonspe-
+cific neck pain in office workers proposed in this 
+study is in line with an existing model of musculo-
+skeletal disorders and computer work proposed by 
+Wahlström 39), who hypothesized that work technol-
+ogy and organization have a direct path to physical 
+demands. Both physical demands from work and 
+mental stress may increase the physical load, which in 
+turn has a direct path to perceived muscular tension. 
+Individual factors are hypothesized to be effect modi-
+fiers for the association between physical demands 
+and physical load as well as the association between 
+work organization and mental stress. Perceived 
+muscular tension, along with perceptions of comfort 
+and exertion, is hypothesized to be an early sign of 
+musculoskeletal symptoms that arises as a result of 
+work organizational and psychosocial factors as well 
+as physical load and individual factors. Interventions 
+to prevent musculoskeletal disorders due to computer 
+work should be directed at more than one factor, 
+i.e., physical, work organizational, and psychosocial 
+factors.
+From the findings of the current study, the preven-
+tion of nonspecific neck pain among office work-
+ers should at least focus on developing strategies or 
+interventions to rectify monitor height and to allevi-
+ate perceived muscular tension. For the other two 
+non-modifiable risk factors (i.e., gender and history 
+of neck complaints), this information is useful for 
+clinicians to identify office workers at risk, which 
+would result in enhancement of resource allocation to 
+those most in need and most likely to benefit from it. 
+Otherwise, a large number of people would receive 
+interventions, which would likely compromise their 
+effectiveness17).
+Strengths and limitations of the study
+A major strength of this study is its prospective 
+design and the evaluation of a broad range of biopsy-
+chosocial factors for their contribution to neck pain. 
+In addition, homogenous participants, in terms of 
+working characteristics, were selected for the present 
+study because different occupations are exposed to 
+different working conditions and the nature of work 
+influences the health of workers 14). Consequently, 
+predisposing factors for neck pain are likely to be 
+population-specific. However, the current study has 
+three methodological limitations. First, in this study, 
+subjects were identified as cases if they reported pain 
+lasting more than 1 day, pain greater than 30 mm on 
+a 100-mm visual analog scale and no weakness or 
+numbness in the upper limbs. Different results may 
+emerge with different definitions of symptomatic 
+cases. Second, the nature of several biopsychosocial 
+factors and the diagnosis of neck pain were subjec-
+tive, which may have led to data inaccuracy. The 
+important drawback of self-reported data is the risk of 
+overestimation of exposure 40). Also, some workers may 
+be more sensitive to any somatic disturbance than 
+others. As a result, there is a risk of under- or over-
+reporting of incidence. Future studies should consider 
+the inclusion of objective information from a physical 
+examination to increase data accuracy. Third, monitor 
+height, which was one of the risk factors identified in 
+this study, was categorized into only two groups; that 
+is, the monitor was or was not positioned at a level 
+horizontal with the eyes. Thus, the effect of a monitor 
+height above or below eye level on the onset of neck 
+pain could not be examined in this study. A further 
+study should investigate this issue to enhance under-
+standing regarding the relationship between monitor 
+height and nonspecific neck pain in office workers.
+Conclusion
+We found that gender, history of neck pain, monitor 
+height, and perceived muscular tension were predictors 
+for nonspecific neck pain in office workers. A concep-
+tual model for the development of neck pain was 
+developed using path analysis. Female gender, having 
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 9 =====
+
+108 J Occup Health, Vol. 57, 2015
+history of neck pain, monitor position not being level 
+w
+ith the eyes, and frequently perceived muscular 
+tension directly caused neck pain, with perceived 
+muscular tension having the strongest effect on neck 
+pain. Also, gender, history of neck pain, and moni-
+tor height had indirect effects on neck pain that were 
+mediated through perceived muscular tension, with 
+history of neck pain having the most influential effect 
+on perceived muscular tension. Interventions aimed at 
+preventing the occurrence of nonspecific neck pain in 
+the office environment should address these factors.
+Acknowledgment : This work was funded by the 
+Thai Health Foundation and Chulalongkorn University 
+Centenary Academic Development Project (#12).
+Conflict of interests: No commercial party having a 
+direct financial interest in the results of the research 
+supporting this article has or will confer a benefit 
+upon the author(s) or upon any organization with 
+which the author(s) is/are associated.
+References
+ 1) Guo HR, Chang YC, Yeh WY , Chen CW, Guo YL. 
+Prevalence of musculoskeletal disorder among work-
+ers in Taiwan: a nationwide study. J Occup Health 
+2004; 46: 26−36.
+ 2) Leroux I, Dionne CE, Bourbonnais R, Brisson C. 
+Prevalence of musculoskeletal pain and associated 
+factors in the Quebec working population. Int Arch 
+Occup Environ Health 2005; 78: 379−86.
+ 3) IJmker S, Blatter BM, van der Beek AJ, van 
+Mechelen W, Bongers PM. Prospective research 
+on musculoskeletal disorders in office workers 
+(PROMO): study protocol. BMC Musculoskelet 
+Disord 2006; 7: 55.
+ 4) Côté P, van der Velde G, Cassidy JD, et al. The 
+burden and determinants of neck pain in work-
+ers. results of the bone and joint decade 2000−
+2010 Task Force on Neck Pain and Its Associated 
+Disorders. Eur Spine J 2008; 17: S60−74.
+ 5) Cagnie B, Danneels L, Van Tiggelen D, De Loose 
+V, Cambier D. Individual and work related risk 
+factors for neck pain among office workers: a cross 
+sectional study. Eur Spine J 2007; 16: 679−86.
+ 6) De Loose V , Burnotte F, Cagnie B, Stevens V , Van 
+Tiggelen D. Prevalence and risk factors of neck 
+pain in military office workers. Mil Med 2008; 173: 
+474−79.
+ 7) Janwantanakul P, Pensri P, Jiamjarasrangsri W, 
+Sinsongsook T. Prevalence of self-reported muscu-
+loskeletal symptoms among office workers. Occup 
+Med (Lond) 2008; 58: 436−8.
+ 8) Sillanpää J, Huikko S, Nyberg M, Kivi P , Laippala P , 
+Uitti J. Effect of work with visual display units on 
+musculo-skeletal disorders in the office environment. 
+Occup Med (Lond) 2003; 53: 443−51.
+ 9) Korhonen T, Ketola R, Toivonen R, Luukkonen R, 
+Häkkänen M, Viikari-Juntura E. Work related and 
+individual predictors for incident neck pain among 
+office employees working with video display units. 
+Occup Environ Med 2003; 60: 475−82.
+10) Hush JM, Michaleff Z, Maher CG, Refshauge K. 
+Individual, physical and psychological risk factors 
+for neck pain in Australian office workers: a 1 year 
+longitudinal study. Eur Spine J 2009; 18: 1532−40.
+11) Wahlström J, Hagberg M, Toomingas A, Wigaeus 
+Tornqvist E. Perceived muscular tension, job strain, 
+physical exposure, and associations with neck pain 
+among VDU users; a prospective cohort study. 
+Occup Environ Med 2004; 61: 523−8.
+12) Guzman J, Haldeman S, Carroll LJ, et al. Clinical 
+practice implications of the bone and joint decade 
+2000−2010 task force on neck pain and its asso-
+ciated disorders: from concepts and findings to 
+recommendations. J Manip physiol Ther 2009; 32: 
+S227−43.
+13) Andersen LL, Mortensen OS, Hansen JV , Burr H. 
+A prospective cohort study on severe pain as a risk 
+factor for long-term sickness absence in blue- and 
+white-collar workers. Occup Environ Med 2011; 68: 
+590−2.
+14) Côté P, van der Velde G, Cassidy JD, et al. The 
+burden and determinants of neck pain in workers. 
+results of the bone and joint decade 2000−2010 task 
+force on neck pain and its associated disorders. J 
+Manipulative Physiol Ther 2009; 32: S70−86.
+15) Borghouts JA, Koes BW, V ondeling H, Bouter LM. 
+Cost-of-illness of neck pain in The Netherlands in 
+1996. Pain 1999; 80: 629−36.
+16) Borghouts JA, Koes BW, Bouter LM. The clinical 
+course and prognostic factors of non-specific neck 
+pain: a systematic review. Pain 1998; 77: 1−13.
+17) Paksaichol A, Janwantanakul P, Purepong N, Pensri 
+P, van der Beek AJ. Office workers’ risk factors 
+for the development of non-specific neck pain: a 
+systematic review of prospective cohort studies. 
+Occup Environ Med 2012; 69: 610−8.
+18) Waersted M, Hanvold TN, Veiersted KB. Computer 
+work and musculoskeletal disorders of the neck 
+and upper extremity: a systematic review. BMC 
+Musculoskelet Disord 2011; 11: 79.
+19) Mayer J, Kraus T, Ochsmann E.  Longitudinal 
+evidence for the association between work-related 
+physical exposures and neck and/or shoulder 
+complaints: a systematic review. Int Arch Occup 
+Environ Health 2012; 85: 587−603.
+20) Sterud T, Johannessen HA, Tynes T. Work-related 
+psychosocial and mechanical risk factors for neck/
+shoulder pain: a 3-year follow-up study of the 
+general working population in Norway. Int Arch 
+Occup Environ Health 2014; 87: 471−81.
+21) Lindegård A, Larsman P, Hadzibajramovic E, 
+Ahlborg G Jr. The influence of perceived stress 
+and musculoskeletal pain on work performance and 
+work ability in Swedish health care workers. Int 
+Arch Occup Environ Health 2014; 87: 373−9.
+22) Van den Oord MH1, Sluiter JK, Frings-Dresen MH. 
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 10 =====
+
+109Arpalak PAKSAICHOL, et al.: Risk factor s for neck pain in ofﬁce workers
+Differences in physical workload between military 
+h
+elicopter pilots and cabin crew. Int Arch Occup 
+Environ Health 2014; 87: 381−6.
+23) Beran TN, Violato C. Structural equation modeling 
+in medical research: a primer. BMC Research Notes 
+2010; 3: 267−76.
+24) Davis ME. Structural equation models in occupa-
+tional health: an application to exposure modeling. 
+Occup Environ Med 2011; 24: 1−7.
+25) Norris AE. Path analysis. In: Munro BH, ed. 
+Statistical methods for health care research. 
+Philadelphia (PA): Lippincott; 1997.
+26) Kuorinka I, Jonsson B, Kilbom A, et al. 
+Standardised Nordic questionnaires for the analysis 
+of musculoskeletal symptoms. Appl Ergon 1987; 18: 
+233−7.
+27) Phakthongsuk P, Pakupakul N. Psychometric proper-
+ties of the Thai version of the 22-item and 45-item 
+Karasek job content questionnaire. Int J Occup Med 
+Environ Health 2008; 21: 331−44.
+28) Ming Z, Narhi M, Siivola J. Neck and shoulder 
+pain related to computer use. Pathophysiology 2004; 
+11: 51−6.
+29) Vogt L, Segieth C, Banzer W, Himmelreich H. 
+Movement behaviour in patients with chronic neck 
+pain. Physiother Res Int 2007; 12: 206−12.
+30) Youdas JW, Carey JR, Garrett TR. Reliability of 
+measurements of cervical spine range of motion 
+comparison of three methods. Phys Ther 1991; 71: 
+98−106.
+31) Ljungquist T, Harms-Ringdahl K, Nygren Å, Jensen 
+I. Intra- and inter-rater reliability of an 11-test pack-
+age for assessing dysfunction due to back or neck 
+pain. Physiother Res Int 1999; 4: 214−32.
+32) Harris KD, Heer DM, Roy TC, Santos DM, 
+Whitman JM, Wainner RS. Reliability of a measure-
+ment of neck flexor muscle endurance. Phys Ther 
+2005; 85: 1349−55.
+33) Javanshir K, Ortega-Santiago R, Mohseni-Bandpei 
+MA, Miangolarra-Page JC, Fernández-de-Las-Peñas 
+C. Exploration of somatosensory impairements in 
+subjects with mechanical idiopathic neck pain: a 
+preliminary study. J Manipulative Physiol Ther 
+2010; 33: 493−9.
+34) Aday LA. Designing & Conducting Health Surveys. 
+2 edition. San Francisco: Jossey-Bass Publishers; 
+1996.
+35) Schreiber JB, Nora A, Stage FK. Reporting structur-
+al equation modeling and confirmatory factor analy-
+sis results: a review. J Educ Res 2006; 99: 323−37.
+36) Kanchanomai S, Janwantanakul P, Pensri P, 
+Jiamjarasrangsri W.  Risk factors for the onset and 
+persistence of neck pain in undergraduate students: 
+1-year prospective cohort study. BMC Public Health 
+2011; 11: 566−73.
+37) Griffiths KL, Mackey MG, Adamson BJ. Behavioral 
+and psychophysiological responses to job demands 
+and association with musculoskeletal symptoms in 
+computer work. J Occup Rehabil 2011; 21: 482−92.
+38) Huysmans MA, Blatter BM, van der Beek AJ. 
+Perceived muscular tension predicts future neck-
+shoulder and arm-wrist-hand symptoms. Occup 
+Environ Med 2012; 69: 261−7.
+39) Wahlström J. Ergonomics, musculoskeletal disorders 
+and computer work. Occup Environ Med 2005; 55: 
+168−76.
+40) van den Heuvel SG, van der Beek AJ, Blatter BM, 
+Hoogendoorn WE, Bongers PM. Psychosocial work 
+characteristics in relation to neck and upper limb 
+symptoms. Pain 2005; 114: 47−53.
+ 13489585, 2015, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1539/joh.14-0124-OA, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

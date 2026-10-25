@@ -16,6 +16,7 @@
 - **원문 텍스트**: [Effects of handicraft sitting postures on lower trunk muscle fatigue.txt](../Effects%20of%20handicraft%20sitting%20postures%20on%20lower%20trunk%20muscle%20fatigue.txt)
 
 1. [introduce_copilot.md - 표면근전도 측정과 체간근 변인](../../introduce_copilot.md#초안-표면근전도-측정과-체간근-변인)
+
    > "For the LM muscle, this was a location at the level of the L5 vertebrae, parallel to an imaginary line between the posterior superior iliac spine and the L1–L2 interspinous space."
    >
    > "For the IO muscle, this was a location 1 cm from the anterior superior iliac spine towards the median plane."
@@ -29,3 +30,7 @@
    > "For the IO muscle, this was a location 1 cm from the anterior superior iliac spine towards the median plane."
    >
    > "A Fast Fourier Transform (FFT) was applied with 1-s data epochs (including 1000 data points) and used to calculate the signal spectrum."
+
+3. [이론적 배경: 주파수 변화 기울기](../../introduce.md#L142)
+
+   > "Linear regression analysis was applied to the normalised MF observations (1800) during each 30-min sitting period in order to determine the normalised MF slope (NMF slope)."

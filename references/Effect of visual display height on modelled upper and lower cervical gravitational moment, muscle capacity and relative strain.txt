@@ -1,0 +1,1412 @@
+===== PAGE 1 =====
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=terg20
+Download by: [Universite Laval] Date: 05 November 2015, At: 15:43
+Ergonomics
+ISSN: 0014-0139 (Print) 1366-5847 (Online) Journal homepage: http://www.tandfonline.com/loi/terg20
+Effect of visual display height on modelled upper
+and lower cervical gravitational moment, muscle
+capacity and relative strain
+L. Straker , R. Skoss , A. Burnett & R. Burgess-Limerick
+To cite this article: L. Straker , R. Skoss , A. Burnett & R. Burgess-Limerick (2009) Effect of visual
+display height on modelled upper and lower cervical gravitational moment, muscle capacity
+and relative strain, Ergonomics, 52:2, 204-221, DOI: 10.1080/00140130802331609
+To link to this article:  http://dx.doi.org/10.1080/00140130802331609
+Published online: 23 Apr 2009.
+Submit your article to this journal 
+Article views: 267
+View related articles 
+Citing articles: 13 View citing articles
+
+===== PAGE 2 =====
+
+Eﬀect of visual display height on modelled upper and lower cervical gravitational moment, muscle
+capacity and relative strain
+L. Straker a*, R. Skoss a, A. Burnett b and R. Burgess-Limerick c
+aSchool of Physiotherapy, Curtin University of Technology, Perth, Australia; bSchool of Exercise, Biomedical and Health Sciences,
+Edith Cowan University, Perth, Australia; cSchool of Human Movement Studies, The University of Queensland, Brisbane, Australia
+Head and neck posture is an important factor in neck pain related to computer use; however, the evidence for an
+optimal posture is unconvincing. This study measured the 3-D postures of 36 young adults during use of three
+diﬀerent display heights. Cervical extensor muscle strain was estimated using modelled gravitational load moments
+and muscle capacities. The inﬂuence of more or less upper vs. lower cervical movement was also explored across
+a broad range of potential postures. Overall cervical extensor muscle capacity diminished away from a neutral
+posture whilst gravity moment increased with ﬂexion. Overall cervical extensor muscle strain increased with
+head ﬂexion but remained stable into head extension. Individual diﬀerences in the amount of upper and lower
+cervical movement had an important eﬀect on strain, particularly for some muscles. Computer display height
+guidelines are an important component of ergonomics practice, yet the relative strain on neck extensor muscles as
+a function of display height has not been examined. The current ﬁndings provide more detailed biomechanical
+evidence that ergonomists can incorporate with usability and other evidence to determine appropriate display height
+recommendations.
+Keywords: computer; biomechanics; musculoskeletal disorder; posture
+1. Introduction
+Neck pain is a common problem within the community
+with point prevalence rates of 10–20% (Walker-Bone
+et al . 2003) and annual prevalence rates of 31–48%
+(e.g. Hill et al . 2004). Sustained computer use is
+thought to be a risk factor for neck pain, with
+increased exposure associated with increased neck
+pain prevalence (Palmer et al . 2001, Gerr et al . 2002).
+Population exposure to computer use has increased
+both at work and at home. In the workplace, 55% of
+the USA workforce use computers in their job (United
+States Department of Labor 2005); whilst in the home,
+67% of Australians have computer access (Australian
+Bureau of Statistics 2005), conﬁrming the importance
+of this risk factor.
+Computer use typically requires sustained low force
+demand on the neck and shoulder region and pain
+syndromes such as trapezius myalgia, tension neck
+syndrome and cervicalgia are a relatively common
+consequence (Juul-Kristensen et al . 2006). Recent
+research has found that by increasing muscle strength
+via a dynamic resistance training programme (and
+therefore increasing ‘muscle capacity’) neck/shoulder
+pain perception is markedly reduced in female oﬃce
+workers (Sjogaard et al. 2007). This may have been due
+to the so-called ‘work demand’ being similar and
+therefore the strain on neck/shoulder muscles
+consequently being decreased. This sustained decrease
+in muscular strain may relate to factors such as
+decreased muscle fatigue and improved muscle
+oxygenation and metabolic response (Sogaard 2007). It
+is this examination of the relationship between
+demand, muscle capacity and relative muscular strain
+that provides an attractive avenue of research with
+reference to computer use.
+Furthermore, habitual head and neck postures,
+such as forward head posture, are thought to be
+important risk factors for neck pain (e.g. McAviney
+et al. 2005). Also, there has been evidence of increased
+neck pain being associated with both increased head
+extension (Aaras et al . 1998, Marcus et al . 2002) and
+increased head ﬂexion (Hunting et al. 1981, Starr et al.
+1985, Ariens et al. 2001) during computer use. Thus, it
+seems logical that head and neck posture would be an
+important factor to examine with regard to the
+computer use–neck pain relationship.
+Guidelines for computer use have been developed
+to encourage appropriate head and neck postures in
+order to minimise musculoskeletal disorders (e.g.
+Standards Australia 1990, National Institute for
+Occupational Safety and Health 1999). Most
+guidelines recommend the top of the computer display
+*Corresponding author. Email: L.Straker@curtin.edu.au
+Ergonomics
+Vol. 52, No. 2, February 2009, 204–221
+ISSN 0014-0139 print/ISSN 1366-5847 online
+/C2112009 Taylor & Francis
+DOI: 10.1080/00140130802331609
+http://www.informaworld.com
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 3 =====
+
+be set around eye height when seated upright to
+promote a gaze angle (angle from eye to visual target)
+slightly below the horizontal (see Psihogios et al .
+2001, Straker et al . 2008b for reviews). However,
+much lower (Ankrum and Nemeth 2000) and much
+higher (de Wall et al. 1992) display positions have also
+been recommended. Part of the reason for the diversity
+of recommendations is that evidence has come from
+both the visual system and musculoskeletal system
+perspectives. An increased prevalence of visual system
+symptoms (e.g. eye strain) has been consistently
+linked with higher displays (Izquierdo et al . 2004,
+Blehm et al . 2005) and a number of mechanisms
+have been proposed to explain this (Psihogios et al .
+2001). However, the musculoskeletal evidence, which
+includes preferred head/neck postures, estimates of
+gravitational load moments and estimates of muscle
+activity, is less consistent. These factors are discussed
+below in turn. Following this, the concepts of
+musculoskeletal demand, capacity and strain are
+introduced and a section on how mechanical load
+may be distributed amongst the various structures of
+the cervical spine in diﬀerent head/neck postures is
+presented.
+1.1. Preferred head/neck postures
+From previous laboratory studies, a gaze angle
+moderately below the horizontal has been usually
+preferred to gaze angles at eye level or substantially
+below eye level (Turville et al . 1998, Sommerich et al .
+2001). In contrast, de Wall et al . (1992) found a
+preference for an expected gaze angle 15 8 above the
+horizontal when compared to 15 8 below. It should be
+noted, however, that these experiments constrained
+subjects to a choice of two or three possible positions.
+Allowing subjects to self-select the display height
+resulted in preferred gaze angles ranging between 6 8
+above to 42 8 below horizontal (Burgess-Limerick et al.
+1998). Evidence from ﬁeld studies suggests a mean
+preferred gaze angle of *7–98 below the horizontal
+(Grandjean et al. 1983, Jaschinski et al. 1998, Psihogios
+et al . 2001).
+1.2. Estimated gravitational load moments
+The underlying biomechanical concept behind this
+evidence is that load on the structures of the neck
+increases as the degree of neck ﬂexion and lateral
+bending increases (Kilbom et al . 1986). Evidence to
+support recommendations for a more upright head
+posture has come from a number of studies. For
+example, de Wall et al . (1991) and Freudenthal et al .
+(1991) estimated that reduced neck moments (calcu-
+lated about the seventh cervical vertebra, C7) were
+achieved via reduced head ﬂexion as a result of using
+an inclined desk. However, moderate changes in
+computer display height have been shown to have little
+impact on neck ﬂexion moments (Kietrys et al . 1998).
+A limitation with this evidence is that these
+gravitational moment calculations were only
+concerned with moments about the lower cervical
+spine in the sagittal plane.
+The amount of available ﬂexion of the cervical
+spine is not consistent across all levels with important
+regional diﬀerences existing between the upper and
+lower cervical spine (Bogduk and Mercer 2000).
+Therefore, more detailed gravitational models have
+examined the eﬀects at both the upper and lower
+cervical spine regions. In manually assisted extreme
+head/neck postures, Harms-Ringdahl et al . (1986)
+found a marked eﬀect in the resulting moment
+calculations on the moment calculated about C7, but
+not at the upper cervical spine (occiput-ﬁrst cervical
+vertebra, OC1). Similarly, working in a highly ﬂexed
+head/neck position in dentistry has been shown to
+result in increased moments about C7, but not OC1,
+when compared to a moderately ﬂexed position
+(Finsen 1999).
+When considering the magnitude of the moment
+arm in relation to the biomechanics of the cervical
+spine, it would be considered that the ﬂexion moment
+is minimised when the centre of mass (COM) of the
+head/neck is located directly above the joint axes of
+rotation. Snijders et al . (1991) calculated the force
+requirements of neck extensors, via a 13 muscle, ﬁve
+joint model and found that the joint reaction force at
+C7 was minimised at a head position with a gaze angle
+of 15 8 above the horizontal. In this posture, the centre
+of gravity was considered to be vertically projected
+through C7. However, the position of the head where
+the COM passes through OC1 was reported to be at a
+gaze angle of 40 8
+above the horizontal (Snijders et al .
+1991).
+A further consideration for gravity moment
+calculation is the individual diﬀerences in upper and
+lower cervical posture to view the same computer
+display set-up. For example, Burgess-Limerick et al .
+(1998) and Straker and Mekhora (2000) found
+diﬀerent ratios of head, neck and trunk ﬂexion
+responses to display height changes.
+1.3. Estimated muscle activation
+Further evidence to support computer display height
+guidelines has been provided by measures of
+activation of the cervical musculature. If the net
+gravitational moment is increased with head ﬂexion,
+there should be an increased resistive extension
+moment generated by muscle, unless passive
+Ergonomics 205
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 4 =====
+
+structures such as the posterior disc and ligaments are
+being exposed to tensile loading. A number of
+laboratory studies have consistently shown an
+increase in cervical erector spinae muscle activity
+with increased head ﬂexion across moderate ranges
+(e.g. Turville et al . 1998, Straker and Mekhora 2000,
+Sommerich et al . 2001, Straker et al . 2008a).
+However, at end range ﬂexed positions, muscle
+activity can be lower than in the mid-range
+positions (Harms-Ringdahl 1986, Schuldt 1988)
+suggesting loading of passive structures via a
+ﬂexion–relaxation phenomena (Meyer et al . 1993).
+The eﬀect of head and neck posture on a number
+of other cervical muscles, including trapezius, levator
+scapulae, thoracic erector spinae/rhomboids and
+sterno-cleido-mastoid, is less clear (e.g. Harms-Ring-
+dahl et al . 1986, Schuldt 1988, Straker et al . 2008a).
+In a review of available studies, Straker et al . (2008a)
+found no overall relationship between upper trapezius
+muscle activity and head/neck ﬂexion, which may
+suggest that diﬀerent muscles may have diﬀerent
+roles.
+A signiﬁcant limitation of the current evidence
+relating to cervical muscle activation is that most
+studies utilise surface electromyography (EMG) meth-
+ods and few muscles are considered. Whilst surface
+EMG may have the potential to reﬂect activation of
+the deep musculature (Joines et al . 2006), ﬁne wire
+EMG is required to accurately assess their activity (e.g.
+Mayoux-Benhamou et al . 1995). Fine-wire EMG
+evidence is available for some cervical extensor
+muscles, for example, semispinalis capitus and splenius
+capitus (Burnett et al . 2007), but its application to the
+study of computer postures is limited due to its
+invasiveness.
+1.4. Musculoskeletal demand, capacity and strain
+The mechanical demand placed on musculoskeletal
+structures of the cervical spine created by viewing a
+computer display may vary with display height.
+However, the amount of strain this actually places on
+the user’s cervical spine depends on the capacity of the
+system and it is the level of strain that has been
+associated with musculoskeletal disorder development
+in most theories (Karsh 2006).
+Muscle activity is regularly reported relative to an
+individual’s maximum voluntary exertion (%MVE,
+alternatively called maximum voluntary isometric
+contraction) to allow comparison between studies,
+individuals, muscles and testing days. Whilst there are
+issues with MVE varying with position (Joines et al .
+2006), reporting muscle activity as %MVE gives a
+clearer indication of the ratio between demand and
+capacity and thus strain.
+In contrast, gravitational load moments are
+absolute ﬁgures that are usually reported as a demand
+only, without consideration for diﬀerences in the
+muscle capacity to cope with those demands between
+people and postures. From the calculation of
+gravitational moments, the evidence shows that the
+moment demand varies with head and neck position
+and this moment gets larger with increasing amounts
+of ﬂexion. However, the capacity of muscles to cope
+with this demand is also known to vary. For example,
+females tend to have less neck extensor strength than
+males (Garces et al . 2002) and neck extensor strength
+decreases with age (Garces et al . 2002). The strength
+capacity of neck extensor muscles also varies with
+posture (Suryanarayana and Kumar 2005) and is at a
+maximum in a neutral position, whilst strength
+decreases with increasing ﬂexion. However, there has
+been limited work relating moment demand to
+capacity (Finsen 1999).
+1.5. Partitioning cervical extensor muscle loads across
+potential head postures
+Maximal strength capacity is a result of the summed
+activation of a number of muscles with consideration
+of their individual torque-producing capability.
+However, partitioning of external load, such as that
+produced with head/neck ﬂexion, to individual muscles
+is diﬃcult. It is generally accepted that semispinalis
+capatis and splenius capitus contribute most to neck
+extension strength (Vasavada et al . 1998) but deep
+upper cervical muscles have been suggested to play an
+important role (Burgess-Limerick et al . 1998). While
+many muscles maintain about 80% of their peak force-
+generating capacity throughout their range of motion,
+the capacity of muscles such as splenius capitus with
+large moment arms and/or short fascicles can vary
+substantially with head posture (Vasavada et al. 1998).
+The most advanced cervical spine musculoskeletal
+models (e.g. Snijders et al . 1991, Vasavada et al . 1998)
+allow for individual muscle morphology and
+architecture, e.g. muscle-speciﬁc cross-sectional areas,
+ﬁbre lengths and orientation. Further, these models
+allow changes to the length–tension relationships of
+muscle with changes in postures. Speciﬁcally, software
+for interactive musculoskeletal modelling (SIMM)
+(Delp and Loan 1995) uses a graphical representation
+of bones and muscles of the cervical spine (Vasavada
+et al . 1998) in combination with speciﬁc anatomical
+data (Kamibayashi and Richmond 1998). This model
+utilises a Hill-type muscle model and allows calculation
+of neck muscle forces and moment-generating
+capacities.
+Advances in muscle modelling such as that made
+with SIMM (Delp and Loan 1995) have provided an
+206 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 5 =====
+
+opportunity to investigate the moment-generating
+capacity of cervical musculature at the level of
+muscle groups and individual muscles, as well as
+determine the extensor capacity of lateral ﬂexors.
+However, the sensitivity of the model to changes in
+model constraints, in particular the number of joints
+modelled, is not known for the cervical spine.
+In summary, despite some evidence being available
+pertaining to preferred postures, gravitational loads
+moments and activation of the cervical musculature,
+there is insuﬃcient evidence to determine whether an
+optimal head and neck posture, about which some
+variation would be encouraged, for computer use
+exists. Guidelines for computer display height are
+currently based on limited preferred posture data,
+modelled net gravitational moment estimates, which
+have generally not been separated into upper and
+lower cervical estimates and have usually been limited
+to the sagittal plane only, and muscle activation data
+that has been collected from the superﬁcial extensors
+only. In addition, there is little information regarding
+the relative contributions of deep cervical muscles
+across a range of potential head postures and how the
+gravitational load relates to muscle capacity. Hence,
+there is a clear need for further investigation into
+optimal head and neck posture in computer use using
+biomechanical modelling in order to address the
+limitations of the current evidence.
+Therefore, the primary aim of this study was to
+elucidate the current conﬂict between biomechanical
+and epidemiological evidence regarding optimal
+display height by examining the capacity of superﬁcial
+and deep cervical extensor muscles relative to gravity
+imposed moments. A secondary aim was to investigate
+the eﬀect of ﬂexing the neck using predominantly
+upper or lower cervical spine ﬂexion strategies on
+cervical extensor muscle capacity. A subsidiary aim
+was to examine whether constraining the model to two
+cervical joints greatly aﬀected the model output.
+2. Method
+The study was conducted in eight parts as represented
+in Figure 1 and described below.
+(1) Collection of kinematic data from subjects
+working with diﬀerent display heights (high,
+mid and book).
+Figure 1. Flow diagram of modelling inputs, models and outputs (numbers relate to method part number). Model rectangles
+are shaded white for gravitational model, light grey for modiﬁed Vasavada et al . (1988) model and dark grey for original
+Vasavada et al . (1988) model. SIMM ¼ software for interactive musculoskeletal modelling.
+Ergonomics 207
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 6 =====
+
+(2) Using the kinematic data collected in part 1 as
+input to calculate gravitational load moments
+about OC1 and C7 in the sagittal and frontal
+planes.
+(3) Using the kinematic data collected in part 1 as
+input into a graphically based isometric mus-
+culoskeletal model of the cervical spine (Vasa-
+vada et al . 1998) to estimate the moment-
+generating capacities of selected cervical
+muscles.
+(4) Deriving estimates of muscle strain based on
+the gravitational moments demand (part 2) and
+the cervical muscle extension moment-generat-
+ing capacity (part 3) for each posture examined
+in part 1.
+(5) Determining the gravitational moment and
+muscle moment-generating capacity across a
+theoretical range of possible head and neck
+postures in the sagittal plane.
+(6) Modelling the eﬀect of diﬀerent postural
+strategies (either predominantly upper cervical
+spine movement or predominantly lower cervi-
+cal movement) on overall muscle capacity.
+(7) Modelling the eﬀect that diﬀerent postural
+strategies have on individual muscle moment
+generating capacity.
+(8) Comparing outputs of a two-joint (6 degrees of
+freedom (df) modiﬁed from Vasavada et al .
+1998) model with those of an eight-joint (24 df
+unmodiﬁed Vasavada et al . 1998) model.
+2.1. Part 1 – Kinematic data collection
+A total of 36 young adult participants (18 male
+(20.4 + 2.1 years; 179.5 + 6.9 cm; 74.8 + 10.6 kg),
+18 female (20.8 + 2.4 years; 164.8 + 5.6 cm;
+61.7 + 10.6 kg)) were recruited through notices in
+community newspapers and local universities. Subjects
+had no history of signiﬁcant chronic musculoskeletal
+disorders in the neck or upper limbs, no current pain
+and normal vision. The study was approved by the
+Human Research Ethics Committee of Curtin Uni-
+versity of Technology.
+Subjects completed a task for 10 min in each of the
+three display conditions: 1) high – top of computer
+display set at participant’s eye height (mean gaze angle
+measured was 77.88); 2) mid – bottom of computer
+display set at desk height (mean gaze angle ¼ 730.88);
+3) book – paper on desk (mean gaze angle ¼ 769.48).
+The desk was a traditional straight desk set at 3 cm
+below the subject’s elbow height, with 0 8 shoulder
+ﬂexion and forearms unsupported. A standard oﬃce
+chair set to subject popliteal height and upright
+backrest was used. The task was a general history
+knowledge task that required reading from an
+electronic (with navigation by mouse) or paper
+encyclopaedia and completing an activity sheet using
+keyboard and mouse for the computer conditions and
+pen and paper for the book condition.
+3-D head and neck postures during each of these
+conditions were determined from bilateral markers
+placed on the outer canthi, external auditory meatus
+and acromion process, with an additional marker on
+C7. Skin markers were manually identiﬁed and
+automatically digitised at 50 Hz using PEAK Motus
+V8.2 data acquisition software (PEAK Performance
+Technologies Inc, Centennial, CO, USA). The direct
+linear transformation method was used to obtain 3-D
+coordinates of the markers and these data were
+smoothed using a low pass fourth order Butterworth
+digital ﬁlter set at 4 Hz.
+The angles determined with regard to the vertical
+were head ﬂexion/extension, head lateral bending, neck
+ﬂexion/extension and neck lateral bending, while head
+rotation was determined with regard to the trunk. The
+average angles over the ﬁnal 2 min of the task were
+used as input for parts 2–3 of the study. Two virtual
+markers were created to allow angle estimation:
+OC1 – mid-point external auditory meati, and
+Cyclops – mid-point canthi. The deﬁnitions of angles
+used were as follows:
+. Head ﬂexion/extension (HF): Sagittal plane
+angle between Cyclops, OC1 and vertical axis.
+Looking straight ahead is approximately 65 8
+with this deﬁnition. This deﬁnition was used in
+preference to a horizontal axis reference as
+gravity is related to the vertical (Straker et al .
+2008a).
+. Head lateral bending (HLB): Frontal plane angle
+between right external auditory meatus, OC1 and
+vertical axis (negative to the left).
+. Head rotation (HR): Transverse plane angle
+between Cyclops, OC1 and anterior–posterior
+axis (negative to the left).
+. Neck ﬂexion (NF): Sagittal angle between OC1,
+C7 and vertical axis.
+. Neck lateral bending (NLB): Frontal plane angle
+between OC1, C7 and vertical axis.
+Further details of the kinematic data from the
+study have previously been reported in Straker et al .
+(2008b).
+2.2. Part 2 – Estimation of the gravitational moment in
+the sagittal and frontal planes
+The gravitational load moments of the head (about
+OC1) and head/neck (about C7) were calculated using
+the kinematic data obtained in part 1 and existing
+208 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 7 =====
+
+segmental inertia parameters. The head and neck
+complex was considered as a lumped-mass rigid-link
+system with a 3 df joint (ﬂexion/extension, lateral
+bending, rotation) at OC1 and a 2 df (ﬂexion/
+extension, lateral bending) joint at C7. The locations
+of the COM of the head and head/neck were taken as
+9 mm anterior and 23 mm superior to auditory meatus
+for the head (Camacho 1999) and 10 mm anterior to
+tragus, for the head/neck (Dempster 1955) with the
+head in a neutral posture. The relative mass of the head
+(W
+H) and head/neck (W HN) was considered to be 6.2
+and 8.4% of body weight respectively (Pheasant 1986).
+Further details of the process to calculate gravitational
+load moments are presented in Appendix 1.
+2.3. Part 3 – Modelling the maximum moment
+capacity of cervical musculature using a two joint model
+The posture-speciﬁc maximum moment-generating
+capacities of those muscles included in the model
+were calculated using a graphically based isometric
+musculoskeletal model of the cervical spine (Vasava-
+da et al . 1998). To estimate maximum capacity, no
+experimentally determined EMG data were used to
+drive this model as the muscle activation for all
+muscles in the model was considered to be 100%.
+The model included 21 muscle groups of the cervical
+spine and shoulder (Kamibayashi and Richmond
+1998). For the purposes of the present study, these
+muscles were functionally grouped into ﬂexors,
+lateral ﬂexors and four subgroups of extensors (see
+Table 1).
+The original Vasavada et al . (1998) model appor-
+tioned movement at each cervical level. To enable
+comparison with part 2 estimates of moment around
+OC1 and C7, the SIMM model was modiﬁed to
+constrain movement in the cervical spine to occur only
+at the OC1 and C7 joints. The mean HF and NF
+values for the subjects measured in part 1 (i.e. HF:
+OC1 ¼ 27.3%; C7 ¼ 72.7%) were used to apportion
+the relative contribution from the upper and lower
+cervical joint segments to the overall head posture.
+SIMM deﬁned head angle relative to a neutral
+position. The subject-speciﬁc head positions (HF,
+HLB, HR) obtained in each experimental condition in
+part 1 were therefore converted by transformation of
+the subject-speciﬁc neutral position (head upright and
+eyes straight ahead) to the neutral position deﬁned by
+SIMM (HF ¼ 658). The extension moment-generating
+capacity of the upper superﬁcial extensor, lower
+superﬁcial extensor, upper deep extensor, lower deep
+extensor, lateral ﬂexor and ﬂexor groups were then
+determined. Likewise, the lateral ﬂexion moment-
+generating capacity of extensors, lateral ﬂexors and
+ﬂexor groupings were also calculated.
+2.4. Part 4 – Estimation of muscle strain
+The ratio of task demand to muscle capacity (termed
+‘strain’) was calculated from the gravitational load
+moments obtained from part 2 of the study and the
+modelled extensor muscle capacities from part 3. This
+was calculated for net muscle capacity, as well as for
+upper (upper superﬁcial and upper deep compared
+with gravity moment about OC1) and lower (lower
+superﬁcial and lower deep compared with gravity
+moment about C7) muscle groups listed in Table 1.
+2.5. Part 5 – Calculation of gravitational moments and
+muscle capacities across a wide range of head ﬂexion
+postures using a two-joint model
+To examine head postures other than those
+investigated in the experimental study (part 1) and to
+determine the capacity of muscles to generate moments
+in the sagittal plane, gravitational ﬂexion moments and
+extensor muscle capacities were simulated across a
+range of HF (5–115 8, where 65 8 is neutral, looking
+straight ahead posture). This range of postures was the
+full range available using the SIMM model and this
+range was similar to the maximum range of movement
+measured in the experimental study. Head/neck lateral
+bending and head rotation were set at 0 8 (no deviation
+from neutral) for this part of the study. The
+Table 1. Grouping of muscles in Vasavada et al . (1998) cervical model.
+Group Name Muscles
+Flexors sternocleidomastoid, longus capitus, longus colli
+Lateral ﬂexors levator scapulae, scalenus anterior, scalenus medius, scalenus posterior
+Extensors
+upper deep obliquus capitus inferior, obliquus capitus superior, rectus capitus posterior major, rectus capitus
+posterior minor
+upper superﬁcial longissimus capitus, semispinalis capitus, splenius capitus
+lower deep iliocostalis capitus, longissimus cervicus, semispinalis cervicus
+lower superﬁcial semispinalis capitus, splenius capitus, splenius cervicus, trapezius (acromion and clavicular
+compartments)
+Ergonomics 209
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 8 =====
+
+gravitational ﬂexion estimates were calculated using
+the same formula as part 2 using group mean data for
+moment arms and head/neck masses. The muscle
+capacity estimates were calculated using the same
+two-joint model used in part 3. The relationship
+between HF and NF across the range of HF postures
+was determined with a regression equation based on
+experimental data in part 1, where:
+NF ¼ 0:65HF þ 6:24 R
+2 ¼ 0:76 ð1Þ
+2.6. Part 6 – Examining the eﬀect of diﬀerent posture
+strategies on extensor muscle capacity using a two-joint
+model
+The relative contribution to head position from
+movement at diﬀerent cervical vertebral joints is
+known to not be consistent over the range of move-
+ment (Bogduk and Mercer 2000) and individuals
+(Burgess-Limerick et al . 1998, Straker and Mekhora
+2000). To allow for known diﬀerences in HF to NF
+movement ratios, the modelling approach utilised in
+part 5 was repeated using four more datasets. These
+datasets were based on the subject variation in head
+and neck ﬂexion data from part 1 and included two
+datasets representing people with a tendency to
+respond to display height diﬀerences mostly at their
+upper cervical spine (mean 71 SD and mean 72 SD)
+and two datasets representing people with a tendency
+for more movement in their lower cervical spine
+(mean þ1 SD and mean þ2 SD). The majority of the
+population ( *70%) is expected to lie within the plus
+and minus 1 SD, whilst the plus and minus 2 SD
+represent the 2nd and 98th percentiles respectively.
+2.7. Part 7 – Examining the eﬀect of diﬀerent posture
+strategies on individual muscle capacities using a
+two-joint model
+A modelling approach was also used to estimate the
+moment capacity, moment arm length and force
+generation capacity of particular cervical muscles
+(trapezius (cleido); semispinalis capitus; splenius
+capitus; splenius cervicus; rectus capitus posterior
+major; rectus capitus posterior minor). Thus, the
+individual contribution of the chosen muscles was
+assessed across the 5–115 8 given range of motion
+using the two-joint model using mean +1S Da n d
+mean +2 SD.
+2.8. Part 8 – Comparing the two-joint (6 df) model
+with the original eight-joint (24 df) model
+An assessment of the sensitivity of the simpliﬁed
+two-joint model was also conducted by comparing
+the results of the two-joint (OC1 and C7 joints)
+model with the original SIMM eight joint
+(each cervical level) model when using the same
+dataset.
+2.9. Statistical analysis
+Results for parts 1–5 were analysed statistically using a
+repeated measures analysis of variance (RANOVA) to
+determine if there was any signiﬁcant diﬀerence
+between display heights, p 5 0.01. Where Mauchley’s
+sphericity could not be assumed, the Huynh-Feldt
+correction was used.
+3. Results
+3.1. Part 1 – Kinematic data
+Signiﬁcant diﬀerences were found in head/neck
+postures between the high, mid and book conditions
+(see Table 2). Head ﬂexion increased 13.6 8 (1.5) in
+the mid condition compared to the high condition
+and increased a further 18.6 8 (1.4) in the book
+condition. A similar pattern was found for neck
+ﬂexion with a 5.7 8 (2.1) increase in the mid condition
+compared to the high condition and a further 18.3 8
+(1.9) increase in the book condition. In the book
+condition, subjects also displayed a greater degree of
+lateral bending.
+Table 2. Mean ( +SD) 3-D head/neck position ( 8) for three display heights.
+Posture High Mid Book
+RANOVA
+F(2) p
+Head ﬂexion 75.8 (7.3) a 89.4 (8.4) b 108.0 (12.1) c 163.8 50.001
+lateral bending 70.7 (4.6) a 71.6 (5.6) a 2.4 (7.9) b 5.6 0.012
+rotation 73.1 (5.6) 71.0 (5.7) 74.3 (12.7) 1.4 0.247
+Neck ﬂexion 55.3 (5.6) a 61.1 (12.6) b 79.4 (9.7) c 89.9 50.001
+lateral bending 70.5 (3.7) a 0.6 (3.8) a 73.4 (5.9) b 12.9 50.001
+RANOVA ¼ repeated measures analysis of variance.
+a,b,cDiﬀerent superscript letters denote signiﬁcant pairwise diﬀerences.
+210 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 9 =====
+
+3.2. Part 2 – Estimated gravitational moment in the
+sagittal and frontal planes
+In general, sagittal and frontal gravitational ﬂexor
+moments about OC1 and C7 increased from high to
+mid to book conditions (Table 3). Gravitational
+moments about OC1 were small, with approximate
+values being 0.7 Nm in the sagittal plane and 0.08 Nm
+in the frontal plane, reﬂecting the small moment arm
+and minimal lateral bending and rotation of the head.
+Gravitational moments about C7 were around 7.7 Nm
+in the sagittal plane and 0.20 Nm in the frontal plane,
+reﬂecting the larger moment arm.
+3.3. Part 3 – Modelled maximum moment capacity of
+cervical musculature using a two-joint model
+In general, the capacity for production of extensor
+moment decreased from high to mid to book condi-
+tions (Table 3). Further, the total modelled muscle
+capacity was approximately 29 Nm. When considered
+fully activated, superﬁcial muscles contributed the
+majority of total extensor capacity (upper *27–30%,
+lower *39–43%) with a smaller contribution from
+deep (upper *5–6%, lower *12–13%) and lateral
+ﬂexor ( *10–12%) muscles. Upper cervical deep
+muscle capacity marginally increased as a proportion
+of total capacity with increasing neck ﬂexion, but
+remained fairly constant in magnitude across
+conditions.
+3.4. Part 4 – Estimated relative muscle strain
+In general, muscle strain increased from high to mid to
+book conditions (Table 3). Total extensor strain was
+estimated to be approximately 26%. Upper cervical
+strain was small ( *3–11%) compared with lower
+cervical strain ( *39–61%); however, strain of the deep
+muscles of the upper cervical spine was greater (33–
+57%).
+3.5. Part 5 – Calculated gravitational moments and
+muscle capacities across a wide range of head ﬂexion
+postures using a two-joint model
+Figures 2 and 3 show the modelled muscle capacities
+across a full range of head ﬂexion (5–115 8 with 65 8
+considered as neutral), for upper and lower, deep and
+superﬁcial extensor groups as absolute and relative
+contributions. Figure 2 also shows the modelled
+gravitational moment around C7 and the three (part 1)
+experimental conditions are shown for comparison. In
+absolute terms, modelled extensor capacity was
+greatest near the neutral head position with some
+reduction in capacity into full ﬂexion (115 8)a n d
+marked reduction into full extension (5 8). In relative
+Table 3. Mean ( +SD) gravitational moments, muscle capacities (from two-joint modiﬁed Vasavada model) and strain
+(demand/capacity) for muscle groups across the high, mid and book display height conditions.
+High Mid Book
+RANOVA
+F(2) p
+Gravitational Moments (Nm)
+OC1 Sagittal* 0.5 (0.1) a 0.7 (0.1) b 0.8 (0.1) c 120.8 50.001
+Frontal* 0.01 (0.05) a 70.02 (0.1) b 0.11 (0.17) c 7.2 0.008
+Frontal (Abs)* 0.04 (0.04) a 0.07 (0.07) b 0.15 (0.12) c 18.8 50.001
+C7 Sagittal 7.1 (1.9) a 7.7 (2.0) b 8.4 (2.1) c 155.0 50.001
+Frontal 0.0 (0.4) a 0.04 (0.2) b 70.1 (0.2) a 3.5 0.037
+Frontal (Abs) 0.3 (0.3) a 0.2 (0.1) a 0.1 (0.1) b 7.6 0.001
+Extensor Muscle Capacities (Nm)
+Total extensor 32.1 (1.3) a 29.2 (2.2) b 25.3 (2.0) c 188.2 50.001
+Upper superﬁcial 8.7 (0.1) a 8.4 (0.3) b 7.6 (0.4) c 174.5 50.001
+deep 1.54 (0.03) a 1.56 (0.02) b 1.49 (0.05) c 41.5 50.001
+Lower superﬁcial 13.9 (1.0) a 11.7 (1.5) b 9.9 (1.1) c 120.1 50.001
+deep* 4.15 (0.02) a 4.09 (0.08) b 3.86 (0.14) c 134.4 50.001
+Lateral ﬂexors 3.8 (0.1) a 3.4 (0.4) b 2.5 (0.5) c 171.1 50.001
+Relative Strain (%gravitational moment/muscle capacity)
+OC1/upper* 3.0 (0.7) a 4.5 (1.1) b 11.3 (1.9) c 588.6 50.001
+OC1/upper deep* 32.6 (6.4) a 44.0 (6.3) b 56.9 (8.4) c 141.1 50.001
+C7/lower 39.5 (11.9) a 49.6 (15.0) b 61.4 (17.3) c 171.6 50.001
+C7/total ext 22.2 (6.4) a 26.7 (7.8) b 33.3 (9.2) c 208.2 50.001
+RANOVA ¼ repeated measures analysis of variance; OC1 ¼ occiput-ﬁrst cervical vertebra; Abs ¼ lateral bending in either direction.
+a,b,cDiﬀerent superscript letters denote signiﬁcant pairwise diﬀerences.
+*Denotes Mauchley’s sphericity not assumed and Huynh-Feldt correction used.
+Ergonomics 211
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 10 =====
+
+terms, the contribution of each group of extensor
+muscles was quite consistent from maximum head
+ﬂexion (115 8) to mid extension (30 8), where the
+relative contribution of low superﬁcial muscles
+increases due to a decrease in the actual moment
+capacity in the other groups. Figure 4 shows the
+relative muscle strain from the moment calculated
+about C7 and highlights the gradual increase in
+strain with increased ﬂexion past a neutral head
+position (65 8).
+Figure 2. Modelled capacity of cervical subgroup musculature across the postural range. UD ¼ upper deep; US ¼ upper
+superﬁcial; LD ¼ lower deep; LS ¼ lower superﬁcial. Experimental head ﬂexion positions (H ¼ high; M ¼ mid; B ¼ book)
+and modelled gravity moment about C7 are also shown.
+Figure 3. Relative contribution of cervical sub-group musculature to total extensor torque capacity across the postural range.
+UD ¼ upper deep; US ¼ upper superﬁcial; LD ¼ lower deep; LS ¼ lower superﬁcial. Experimental head ﬂexion positions
+(H ¼ high; M ¼ mid; B ¼ book) are also shown.
+212 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 11 =====
+
+3.6. Part 6 – The eﬀect of diﬀerent posture strategies
+on extensor muscle capacity using a two-joint model
+Figure 5 shows the total extension capacity around C7,
+using the two-joint model based on the variation in
+head ﬂexion/neck ﬂexion strategies measured in part 1.
+The diﬀerent strategies clearly inﬂuence the extension
+capacity, with typical diﬀerences of *15% in the range
+of usual computer display heights. Increasing the
+relative contribution of the lower cervical segment
+(i.e. þSD) reduces the capacity for developing extensor
+torque across neutral and ﬂexion postures. Figure 6
+shows that the diﬀerent strategies have an important,
+yet varied, eﬀect on each subgroup’s capacity.
+3.7. Part 7 – The eﬀect of diﬀerent posture strategies
+on individual muscle capacities using a two-joint model
+Figure 7a,b,c shows the extension moment, moment
+arm and force capacity of selected muscles. For
+Figure 4. Estimated cervical relative strain (moment demand due to gravity around C7/lower extensor muscle capacity) across
+the postural range. Experimental head ﬂexion positions (H ¼ high; M ¼ mid; B ¼ book) are also shown.
+Figure 5. Inﬂuence of head/neck variation in posture on modelled cervical extensor muscle capacity across the postural
+range. Mean head/neck relative movement and a larger (plus) and smaller (minus) contribution from lower cervical segment.
+Original eight-joint model mean estimates are also shown.
+Ergonomics 213
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 12 =====
+
+trapezius, it can be seen that diﬀerent postures have
+little eﬀect on force-generating capacity, but because of
+changes to moment arms there is a large eﬀect on
+moment capacity, with greatest capacity in head
+extension. For semispinalis capitus there is a rapid
+loss of force capacity above some extension (40 8),
+which, combined with a slight loss of moment arm,
+creates a substantial decrease in moment capacity.
+Splenius capitus and splenius cervicus also show
+reduced force capacity with extreme head extension
+and an increase in moment arm is insuﬃcient to oﬀset
+this, resulting in an overall decrease in moment.
+Semispinalis capitus and splenius capitus show
+increased loss of extensor capacity when movement is
+mainly at the upper cervical spine (the 72S D
+condition). Rectus capitus posterior major and minor
+show marked reductions in extension for force,
+moment arm (major only) and moment into extension.
+3.8. Part 8 – Comparison of the two-joint (6 df) model
+with the original eight-joint (24 df) model
+As shown in Figure 5, the total extensor capacity
+across a wide range of head ﬂexion as estimated from
+the original eight-joint model shows a very similar
+pattern to the revised two-joint model, with capacity
+greatest in the 40–70 8 range and reducing with more
+extreme extension and ﬂexion. Compared with the
+original model, the two-joint model overestimated the
+extensor capacity when the head was in an extended
+posture, but underestimated capacity in neutral and
+ﬂexed postures. Comparisons of the original model
+Figure 6. Inﬂuence of head/neck variation in posture on modelled cervical extensor muscle sub-group capacity and relative
+contribution to total capacity across the postural range. UD ¼ upper deep; US ¼ upper superﬁcial; LD ¼ lower deep;
+LS ¼ lower superﬁcial. Mean head/neck relative movement and a larger (plus) and smaller (minus) contribution from lower
+cervical segment. Original eight-joint model mean estimates are also shown.
+214 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 13 =====
+
+and the two-joint model estimates for cervical muscle
+subgroups (Figure 6) and individual muscles (Figure 7)
+show a similar pattern.
+4. Discussion
+The data in the present study provide the most
+comprehensive investigation of the eﬀects of head
+and neck posture on modelled net gravity moments
+and cervical muscle capacities in an asymptomatic
+population. It therefore provides unique evidence to
+inform guidelines for posture during computer use.
+4.1. Why is an ultra high display position not routinely
+recommended and used?
+The net gravitational moments found in the present
+study conﬁrm and expand prior reports (Harms-
+Ringdahl 1986, Finsen 1999), suggesting that net
+moment demand is reduced with head/neck extension
+and is increased with head/neck ﬂexion. The muscle
+capacity data suggest that capacity is greatest across
+mid-range to extended postures and is reduced with
+head/neck ﬂexion. Combining moment demand and
+muscle capacity, as undertaken in this study, has
+provided novel muscle strain data, which has shown an
+increase in strain with increasing head/neck ﬂexion.
+Thus, the moment, capacity and strain data are
+consistent with previous surface cervical erector spinae
+EMG data (see review Straker et al . 2008a), which
+suggest that increasing head/neck ﬂexion represents a
+greater stress to the musculoskeletal system and is
+therefore likely to represent a greater risk for neck pain
+disorders.
+However, this is not consistent with evidence from
+ﬁeld studies, nor is it consistent with observations of
+computer users. Marcus et al . (2002) found that
+increased head ﬂexion was associated with a reduced
+risk of neck and shoulder symptoms and disorders.
+Further, if the modelling data truly captures risk, then
+why don’t people prefer display positions that
+minimise head ﬂexion? Indeed the gravity moment and
+strain evidence suggests that more head extension is
+better, with the muscle capacity data suggesting head
+Figure 7. Inﬂuence of head/neck variation in posture on modelled cervical extensor muscle moment capacity, moment arm
+and force capacity across the postural range for upper trapezius and semispinalis capitus (a), splenius capitus and splenius
+cervicus (b) and rectus capitus posterior major and minor (c). Mean head/neck relative movement and a larger (plus) and smaller
+(minus) contribution from lower cervical segment. Original eight-joint model mean estimates are also shown.
+Ergonomics 215
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 14 =====
+
+extension above ‘80 8’ and as much as ‘50 8’ is optimal.
+However, this suggestion appears nonsensical as a
+direct translation of these results into workplaces
+would result in computer displays being placed
+almost overhead for each worker.
+Guidelines to date have generally recommended
+computer displays below eye height. de Wall et al .
+(1992) determined that biomechanical modelling sug-
+gested a gaze angle at around 15 8 above the horizontal
+would be appropriate. However, following their logic
+consistently would require recommendations for even
+higher displays, as the net gravity moment, muscle
+capacity and muscle activity continues to decrease
+above 15 8. Interestingly, the CAD workers in de Wall
+et al.’s study made postural adjustments such that their
+actual gaze angle was close to horizontal.
+Given the very consistent prior biomechanical
+evidence, why don’t guidelines recommend ultra high
+display positions and why don’t computer users
+regularly place their display in an ultra high position
+to create head extension? The current authors suggest
+this inconsistency is because current evidence does not
+adequately capture postural risk and also that other
+factors may be important for neck pain development
+and usability.
+4.2. The importance of deep sub-capital muscles
+Prior suggestions for why ultra high displays are not
+widely used have included the notion that it may not be
+the overall moment, capacity and strain, but rather the
+speciﬁc strain on particular structures. Burgess-
+Limerick et al . (1998) suggested that deep sub-capital
+extensors may be particularly sensitive to head
+extension postures. The modelled muscle force and
+moment arm data presented in part 7 lend support to
+this hypothesis. The modelling of the deep sub-capital
+extensors revealed a reduced force-generating capacity
+of the muscles in more extended head positions,
+resulting in a reduced moment-generating capacity
+when the moment arm remains relatively constant (in
+the case of rectus capitus major) or when the moment
+arm is reduced (in the case of rectus capitus minor).
+The potential need for deep muscle activity to provide
+Figure 7. ( Continued).
+216 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 15 =====
+
+stabilisation in low-load tasks such as computer use to
+prevent local buckling of the neck, especially in
+extended postures (Winters and Peles 1990), suggests
+these muscles may be of importance.
+4.3. Other possible reasons for conﬂict between
+biomechanical and other criteria
+The muscle capacity estimates in this paper were only
+based on muscle extensor strength, with no examina-
+tion of forces to passive connective tissue such as
+bone, disc and ligament. However, at extreme ﬂexion,
+muscle activity has been shown to be less than in mid-
+range positions (Harms-Ringdahl 1986, Schuldt 1988)
+suggesting that the passive structures are being
+loaded.
+Only estimating strain on muscles (as done in the
+present study) assumes they are the only structures that
+provide resistive torque and that they are the sole
+source of neck pain. Whilst neck muscles may be an
+important source of pain (e.g. Szeto et al . 2005), there
+are many other cervical tissues with nociception such
+as ligaments and joint capsules, which may be the
+source of neck pain related to computer use. Therefore,
+the current gravitational moment and muscle capacity
+evidence may not adequately capture postural risk.
+The present data show that muscle capacity is
+reduced quickly as the head is placed into increasing
+degrees of extension – yet not more rapidly than the
+decline in net gravity moment. This resulted in a
+relatively constant level of strain in extension postures.
+However, the current model has many limitations (see
+below) and inaccuracies in the model may have
+underestimated the decline in capacity with extension.
+If this was the case, strain would have increased with
+head extension, rather than remaining relatively
+constant, as suggested by current modelling.
+Other potential mechanisms for ultra high display
+positions contributing to neck pain include eye
+position/neck muscle activity coupling, vestibular
+discomfort/disorientation and visual system
+discomfort.
+The development of neck pain related to computer
+use may not be from only mechanical loading, but may
+be due to cognitive and psycho-social factors (e.g.
+Larsson et al . 2007). The modelling evidence in this
+study also does not take account of usability issues.
+For example, a ceiling-mounted computer display may
+Figure 7. ( Continued).
+Ergonomics 217
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 16 =====
+
+inhibit usability of pen and paper when interspersed
+with computer display interaction.
+4.4. The importance of individual variation in upper vs.
+lower cervical strategies
+The results obtained in part 7 of the study clearly
+demonstrate the sensitivity of cervical muscles to
+diﬀerent strategies for head and neck ﬂexion. This
+suggests that, for some computer users, a signiﬁcant
+alteration of display height would not make a
+signiﬁcant diﬀerence to upper or lower cervical strain.
+However, it also suggests that, for some computer
+users, fairly small changes in display height could lead
+to signiﬁcant diﬀerences in cervical muscle strain. This
+may be a factor to help explain why within a group of
+workers performing similar tasks with similar work-
+station set-up, some develop neck/shoulders symptoms
+and some do not. Szeto et al . (2005) have also found
+diﬀerences in muscle activation between symptomatic
+and asymptomatic computer users and suggested that
+motor control diﬀerences may be an important
+aetiological factor.
+4.5. Implications for guidelines
+Ultra high display positions (display above eye height,
+gaze angles above horizontal) are likely to create
+excessive strain on deep upper cervical extensor
+muscles. Based on this evidence from part 7 of the
+current study, prior epidemiological evidence and
+usability considerations, ultra high display positions
+should therefore not be recommended. Ultra low
+display positions (gaze angles over 45 8 below horizon-
+tal) are likely to create increased strain on neck
+extensors. Based on this evidence from part 4 of the
+current study and on current and prior research
+examining estimated gravitational load moments and
+extensor muscle activity, ultra low display positions
+should not be recommended. Moderate display posi-
+tions around eye height are likely to match maximum
+net extensor muscle capacity, as shown in part 3 of the
+current study. However, parts 6 and 7 of the current
+study provide clear evidence that the optimal posture
+between the ultra high and ultra low extremes is likely
+to vary between individuals.
+Given the increasing exposure to computer use,
+minimising associated musculoskeletal risks is clearly
+important. Computer display height guidelines aim to
+encourage suitable head and neck postures and thereby
+reduce the risk of neck pain. The current study has
+provided clearer evidence to support guidelines sug-
+gesting computer displays should be positioned to suit
+the individual, within a moderate height range close to
+slightly below eye height.
+4.6. Modelling limitations
+Whilst the cervical biomechanical models used were
+the most advanced available, they were still vastly
+simpliﬁed when compared to real cervical spines. The
+primary limitation of the gravitational moment model
+was the assumption of where the COM of the head
+and head/neck lies relative to OC1 and C7
+respectively. As with prior studies, this relied upon
+2-D cadaver data from Dempster (1955). Although
+the SIMM model has shown great advances in neck
+modelling, the model was also limited in some
+respects. For example, the Vasavada et al . (1998)
+model obtained the isometric force-generating
+properties of individual muscles by scaling a generic
+model of muscle from Zajac (1989). Some of the
+architectural data for muscle were estimated from
+available data or were determined from the optimal
+fascicle length, pennation angle and cross-sectional
+area of neck muscles from cadavers. This may
+underestimate the moment-generating capacity of
+healthy young individuals (Kamibayashi and
+Richmond 1998). Another limitation of the muscle
+model is that the EMG is assumed to have a linear
+relationship with force generation, but this is not
+necessarily the case (Sommerich et al . 2000). This
+model only considered muscle loads with no loading
+of passive tissues, which is a major limitation
+considering the potential role for these tissues in pain
+development. Even the muscle capacities modelled
+should be considered relative, rather than absolute.
+The estimated extensor muscle capacity was
+approximately half of strength levels reported in some
+studies, although it was similar to those found by
+Choi (2003), who measured and modelled moments
+about C4/5. Whilst these muscle model limitations
+suggest areas for future reﬁnement, they were unlikely
+to result in a diﬀerent pattern of response when
+comparing the eﬀects of display heights.
+5. Conclusion
+This study provides the ﬁrst estimates of muscle strain
+at the upper and lower cervical regions with head and
+neck postures associated with computer displays by
+comparing estimates of gravitational load moments
+with modelled cervical extensor muscle capacity. The
+study also examined the eﬀect of individual diﬀerences
+in the amount of movement at the upper or lower
+cervical spine on muscle strain. The evidence provides
+a clearer understanding of the potential role of deep
+upper cervical muscles and the importance of
+individual diﬀerences and that these factors may be
+responsible for the apparent conﬂict between prior
+biomechanical and epidemiological evidence. It
+218 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 17 =====
+
+therefore considerably expands the evidence base for
+computer display height guidelines. It also provides a
+basis for future attempts at more detailed
+biomechanical modelling, which may include more
+accurate anatomy and the inclusion of passive
+connective tissues.
+Acknowledgements
+The authors acknowledge funding from the Australian
+National Health and Medical Research Council (project
+229011) and data collection and manuscript preparation
+assistance from Jemma Coleman.
+References
+Aaras, A., et al ., 1998. Musculoskeletal, visual and psy-
+chosocial stress in VDU operators before and after
+multidisciplinary ergonomic interventions. Applied Ergo-
+nomics, 29, 335–354.
+Ankrum, D.R. and Nemeth, K.J., 2000. Head and neck
+posture at computer workstations – what’s neutral?
+Proceedings of the 14th triennial congress of the Interna-
+tional Ergonomics Association. Santa Monica, CA:
+Human Factors and Ergonomics Society, 5.565–5.568.
+Ariens, G., et al ., 2001. Are neck ﬂexion, neck rotation, and
+sitting at work risk factors for neck pain? Results of a
+prospective cohort study. Occupational & Environmental
+Medicine, 58, 200–207.
+Australian Bureau of Statistics, 2005. Household use of
+information technology . Canberra: ACT, Australian
+Bureau of Statistics.
+Blehm, C., et al., 2005. Computer vision syndrome: a review.
+Survey of Ophthalmology , 50, 253–262.
+Bogduk, N. and Mercer, S., 2000. Biomechanics of the
+cervical spine. I: Normal kinematics. Clinical Biomecha-
+nics, 15, 633–648.
+Burgess-Limerick, R., Plooy, A., and Ankrum, D.R., 1998.
+The eﬀect of imposed and self-selected computer monitor
+height on posture and gaze angle. Clinical Biomechanics ,
+13, 584–582.
+Burnett, A., et al., 2007. Examination of EMG normalisation
+methods for the study of the posterior and posterolateral
+neck muscles in healthy controls. Journal of Electromyo-
+graphy and Kinesiology , 17, 635–641.
+Camacho, D.L., 1999. Surface friction in near-vertex head
+and neck impact increases risk of injury. Journal of
+Biomechanics, 32, 293–301.
+Choi, H., 2003. Quantitative assessment of co-contraction in
+cervical musculature. Medical Engineering & Physics , 25,
+133–140.
+Craig, J.J., 1989. Introduction to robotics: Mechanics and
+control. New York: Addison-Wesley Publishing Com-
+pany, Inc.
+de Wall, M., Van Riel, M.P.J.M., and Snijders, C.J., 1991. The
+eﬀect on sitting posture of a desk with a 10 degree inclination
+for reading and writing.Ergonomics, 34, 575–584.
+de Wall, M., et al ., 1992. Improving the sitting posture of
+CAD/CAM workers by increasing VDU monitor work-
+ing height. Ergonomics, 35, 427–436.
+Delp, S.L. and Loan, J.P., 1995. A graphics-based software
+system to develop and analyze models of musculoskeletal
+structures. Computers in Biology and Medicine , 25, 21–34.
+Dempster, W.T., 1955. Space requirements of the seated
+operator. Ohio, USA: Wright-Patterson Air Force Base.
+Feipel, V., et al ., 1999. Normal global motion of the cervical
+spine: an electromyographic study. Clinical
+Biomechanics, 14, 462–470.
+Finsen, L., 1999. Biomechanical aspects of occupational neck
+postures during dental work. International Journal of
+Industrial Ergonomics , 23, 397–406.
+Freudenthal, A., et al., 1991. The eﬀect on sitting posture of a
+desk with a ten-degree inclination using an adjustable
+chair and table. Applied Ergonomics , 22, 329–336.
+Garces, G.L.,
+et al ., 2002. Normative database of isometric
+cervical strength in a healthy population. Medicine &
+Science in Sports and Exercise , 34, 464–470.
+Gerr, F., et al., 2002. A prospective study of computer users:
+I. study design and incidence of musculoskeletal
+symptoms and disorders. American Journal of Industrial
+Medicine, 41, 221–235.
+Grandjean, E., Hunting, W., and Pidermann, M., 1983. VDT
+work station design: Preferred settings and their eﬀects.
+Human Factors , 25, 161–175.
+Harms-Ringdahl, K., 1986. On assessment of shoulder
+exercise and load-elicited pain in the cervical spine .
+Stockholm: Karolinska Institute, Department of Physical
+Medicine and Rehabilitation.
+Harms-Ringdahl, K., et al ., 1986. Load moments and
+myoelectric activity when the cervical spine is held in full
+ﬂexion and extension. Ergonomics, 29, 1539–1552.
+Hill, J., et al., 2004. Predicting persistent neck pain: A 1-year
+follow-up of a population cohort. Spine, 29, 1648–1654.
+Hof, A.L., Koerhuis, C.L., and Winters, J.C., 2001. ‘Coupled
+motions’ in cervical spine rotation can be misleading.
+Clinical Biomechanics , 16, 455–458. Comment on Feipel
+et al . (1999).
+Hunting, W., Laubli, T.H., and Grandjean, E., 1981.
+Postural and visual loads at VDT workplaces I.
+Constrained postures. Ergonomics, 24, 917–931.
+Izquierdo, J.C., et al., 2004. Factors leading to the computer
+vision syndrome: an issue at the contemporary
+workplace. Boletı´n de la Asociacio ´nM e´dica de Puerto
+Rico, 96, 103–110.
+Jaschinski, W., Heuer, H., and Kylian, H., 1998. Preferred
+position of visual displays relative to the eyes: a ﬁeld
+study of visual strain and individual diﬀerences.
+Ergonomics, 41, 1034–1049.
+Joines, S.M.B., et al ., 2006. Low-level exertions of the neck
+musculature: A study of research methods. Journal of
+Electromyography & Kinesiology , 16, 485–497.
+Juul-Kristensen, B., et al ., 2006. Clinical signs and physical
+function in neck and upper extremities among elderly
+female computer users: the NEW study. European
+Journal of Applied Physiology , 96, 136–145.
+Kamibayashi, L.K. and Richmond, F.J., 1998.
+Morphometry of human neck muscles. Spine, 23, 1314–
+1323.
+Karsh, B.-T., 2006. Theories of work-related musculoskeletal
+disorders: implications for ergonomic interventions.
+Theoretical Issues in Ergonomics Science , 7, 71–88.
+Kietrys, D.M., McClure, P.W., and Fitzgerald, G.K., 1998.
+The relationship between head and neck posture and
+VDT screen height in keyboard operators. Physical
+Therapy, 78, 395–403.
+Kilbom, A., Persson, J., and Jonnson, B., 1986. Risk factors
+for work-related disorders of the neck and shoulder with
+special emphasis on working postures and movements.
+In: E.N. Corlett, J. Wilson, and I. Manenica, eds. The
+ergonomics of working postures . London: Taylor &
+Francis.
+Ergonomics 219
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 18 =====
+
+Larsson, B., Sogaard, K., and Rosendal, L., 2007. Work-
+related neck-shoulder pain: A review on magnitude, risk
+factors, biochemical characteristics, clinical picture and
+preventative interventions. Best Practice and Research
+Clinical Rheumatology , 21, 447–463.
+McAviney, J., et al ., 2005. Determining the relationship
+between cervical lordosis and neck complaints. Journal of
+Manipulative and Physiological Therapeutics , 28, 187–
+193.
+Marcus, M., et al ., 2002. A prospective study of computer
+users: II. Postural risk factors for musculoskeletal
+symptoms and disorders. American Journal of Industrial
+Medicine, 41, 236–249.
+Mayoux-Benhamou, M.A., Revel, M., and Vallee, C., 1995.
+Surface electrodes are not appropriate to record selective
+myoelectric activity of splenius capitis muscle in humans.
+Experimental Brain Research , 105, 432–438.
+Meyer, J.J., Berk, R.J., and Anderson, A.V., 1993. Recruit-
+ment patterns in the cervical paraspinal muscles during
+cervical forward ﬂexion: evidence of cervical ﬂexion-
+relaxation. Electromyography and Clinical Neurophysiol-
+ogy, 33, 217–223.
+National Institute for Occupational Safety and Health, 1999.
+NIOSH publications on video display terminals . Washing-
+ton, DC: US Department of Health and Human Services.
+Palmer, K.T., et al ., 2001. Prevalence and occupational
+associations of neck pain in the British population.
+Scandinavian Journal of Work, Environment & Health , 27,
+49–56.
+Pheasant, S., 1986. Bodyspace: anthropometry, ergonomics
+and design . London: Taylor & Francis.
+Psihogios, J.P., et al ., 2001. A ﬁeld evaluation of monitor
+placement eﬀects in VDT users. Applied Ergonomics , 32,
+313–325.
+Schuldt, K., 1988. On neck muscle activity and load
+reduction in sitting posture: an electromyographic and
+biomechanical study with applications in ergonomics and
+rehabilitation. Scandinavian Journal of Rehabilitation
+Medicine, 19, 1–49.
+Sjogaard, G., et al ., 2007. Changes in shoulder muscle
+recruitment, oxygenation, and pain development during
+repetitive work in workers with myalgia – Before and
+after enrolment in work site physical activity programs.
+In: R. Huiskes and F. Guilak, eds. Proceedings of the XXI
+congress, International Society of Biomechanics , 1–5 July,
+Taipei, Taiwan. (CDROM). Amsterdam: Elsevier.
+Snijders, C.J., van Dijke, G.A.H., and Roosch, E.R., 1991. A
+biomechanical model for the analysis of the cervical spine
+in static postures. Journal of Biomechanics , 24, 783–792.
+Sogaard, K., 2007. Occupational biomechanics of the upper
+extremities: a search for the cause and prevention of
+musculoskeletal disorders. Journal of Biomechanics ,4 0
+(Supp. 2), s12–s13.
+Sommerich, C.M., et al ., 2000. Use of surface electromyo-
+graphy to estimate neck muscle activity. Journal of
+Electromyography & Kinesiology , 10, 377–398.
+Sommerich, C.M., Joines, S.M.B., and Psihogios, J.P., 2001.
+Eﬀects of computer monitor viewing angle and related
+factors on strain, performance, and preference outcomes.
+Human Factors , 43, 39–55.
+Standards Australia, 1990. Australian standard: screen-based
+workstations. Part 2: Workstation furniture . Sydney:
+Standards Australia.
+Starr, S.J., Shute, S.J., and Thompson, C.R., 1985. Relating
+posture to discomfort in VDT use. Journal of Occupa-
+tional Medicine , 27, 269–271.
+Straker, L. and Mekhora, K., 2000. An evaluation of visual
+display unit placement by electromyography, posture,
+discomfort and preference. International Journal of
+Industrial Ergonomics , 26, 389–398.
+Straker, L., et al ., in press. The impact of computer display
+height and desk design on muscle activity during IT work
+by young adults. Journal of Electromyography and
+Kinesiology, 18, 606–617.
+Straker, L., et al ., 2008. The impact of computer display
+height and desk design on 3D posture during IT work by
+young adults. Journal of Electromyography and
+Kinesiology, 18, 336–349.
+Suryanarayana, L. and Kumar, S., 2005. Quantiﬁcation of
+isometric cervical strength at diﬀerent ranges of ﬂexion
+and extension. Clinical Biomechanics , 20, 138–144.
+Szeto, G.P.Y., Straker, L.M., and O’Sullivan, P.B., 2005. A
+comparison of symptomatic and asymptomatic oﬃce
+workers performing monotonous keyboard work – 1:
+Neck and shoulder muscle recruitment patterns. Manual
+Therapy, 10, 270–280.
+Turville, K.L., et al ., 1998. The eﬀects of video display
+terminal height on the operator: a comparison of the 15
+degree and 40 degree recommendations. Applied
+Ergonomics, 29, 239–246.
+United States Department of Labor, 2005. Computer and
+internet use at work in 2003. Report number USDL
+05–1457. Washington, DC: US Department of Labor.
+Vasavada, A.N., Li, S., and Delp, S.L., 1998. Inﬂuence of
+muscle morphometry and moment arms on the
+moment-generating capacity of human neck muscles.
+Spine, 23, 412–422.
+Walker-Bone, K.E., et al ., 2003. Soft-tissue rheumatic
+disorders of the neck and upper limb: prevalence and risk
+factors. Seminars in Arthritis and Rheumatism , 33, 185–
+203.
+Winters, J.M. and Peles, J.D., 1990. Neck muscle activity and
+3-D head kinematics during quasi-static and dynamic
+tracking movements. In: J.M. Winters and S.L.-Y. Woo,
+eds. Multiple muscle systems: Biomechanics and movement
+organization. New York: Springer-Verlag.
+Zajac, F.E., 1989. Muscle and tendon: properties, models,
+scaling, and application to biomechanics and motor
+control. Critical Reviews in Biomedical Engineering , 17,
+359–411.
+Appendix 1. Gravitational moment model
+The relative location of the centre of mass (COM) from
+occiput-ﬁrst cervical vertebra (OC1) in the measured posture
+was calculated via cardan angles (Craig 1989), with order of
+rotation XYZ, denoting head ﬂexion/extension (HF), head
+lateral bending (HLB), head rotation (HR) (Hof et al . 2001)
+from the COM location in neutral posture.
+COM
+x
+0
+COMy
+0
+COMz
+0
+2
+4
+3
+5 ¼ RzðHRÞ/C1 RyðHLBÞ/C1 RxðHFÞ/C1
+COMx
+COMy
+COMz
+2
+4
+3
+5
+ðA1Þ
+The vertical component of neck length (between OC1
+and C7) in the neutral position was determined using a
+regression equation based on the height of six subjects,
+R
+2 ¼ 0.8. (Data from only six subjects were used because the
+220 L. Straker et al.
+Downloaded by [Universite Laval] at 15:43 05 November 2015
+
+===== PAGE 19 =====
+
+acquisition of these data was time-consuming and the high
+R2 gave conﬁdence that the error in group estimates was
+small. Both genders were equally represented.)
+NLV ¼ 0:0576 /C1 H þ 0:0101 ðA2Þ
+Neck length was then calculated using the measured
+neutral neck ﬂexion (NF):
+NL ¼ NLV /C4 cos ðNFÞð A3Þ
+Sagittal ( S) plane distance between OC1 and C7 was
+determined by:
+NLs ¼ NL /C1 cos 90 /C0 NFðÞ ð A4Þ
+Frontal ( F) plane distance between OC1 and C7 was
+determined by:
+NLF ¼ NL /C1 sin NLBðÞ /C1 cos ðNFÞð A5Þ
+Frontal and sagittal plane projections of neck length
+were checked using the cardan angle rotation order XYZ.
+The gravitational moments about OC1 were calculated
+as follows:
+OC1GMS ¼ COMy
+0
+/C1 WH ðA6Þ
+OC1GMF ¼ COMx
+0
+/C1 WH ðA7Þ
+The gravitational moments about C7 were calculated
+as follows:
+C7GMS ¼ COMy
+0
+þ NLS
+/C16/C17
+/C1 WHN ðA8Þ
+C7GMF ¼ COMx
+0
+þ NLF
+/C16/C17
+/C1 WHN ðA9Þ
+Ergonomics 221
+Downloaded by [Universite Laval] at 15:43 05 November 2015
