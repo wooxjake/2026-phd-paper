@@ -1,0 +1,538 @@
+===== PAGE 1 =====
+
+INTRODUCTION
+Musculoskeletal discomfort among VDT users
+Musculoskeletal problems among office workers have become subject of growing concern with
+the ever-increasing use of the video display terminals (VDTs), representing a wide array of condi-
+tions commonly referred to as cumulative trauma disorders (CTDs) or repetitive strain injuries
+(RSIs). Research shows that computer work and design of the workstation can interact to amplify the
+risks of musculoskeletal disorders. Statistics illustrate increasing number of carpal tunnel syndrome
+and RSIs in both the United States and the United Kingdom for keyboarding activities (Mallory and
+Bradford, 1989; Hill, 1989). In general, musculoskeletal problems among VDT users have been dis-
+cussed with respect to three main factors; repetitive motions due to keyboard typing (Ferguson,
+1984), incorrect posture (excessive bending of the neck, changes in the lumbar curvature when sit-
+ting, wrong elbow angle, etc.) and immobilization (National Research Council, 1983).
+A comprehensive study of workstation design and musculoskeletal discomfort among VDT data
+entry operators was conducted by Sauter et al. (1991) which attempted to clarify the contribution of
+J. Human Ergol., 33: 29-43, 2004
+Received for publication August 30, 2001
+EFFECTS OF VDT MONITOR PLACEMENT AND SINGLE VERSUS
+BIFOCAL GLASSES ON SOMATIC DISCOMFORT AND 
+POSTURAL PROFILES IN DATA ENTRY TASKS
+FAISAL BASRAI AND FEREYDOUN AGHAZADEH*
+Department of Industrial Engineering, Louisiana State University,
+Baton Rouge, LA 70803 U.S.A./*Email: aghazadeh@lsu.edu
+A study was conducted to determine the effects of VDT monitor positions and the use of
+single vision versus bifocal glasses on somatic elements in the data entry task. Eight male
+subjects performed data entry using a word processor in eight half-hour sessions with the
+four different monitor placements, i.e. “eye-level”, “shoulder-level-front”, “shoulder-level-
+side”, and “sunken-level”, wearing the two types of glasses. A subjective discomfort rating
+questionnaire covering 12 somatic elements was completed by the subject after each ses-
+sion. The head inclination and angle of gaze to the monitor were measured with a goniome-
+ter. The results revealed that the somatic elements which were affected significantly by the
+placement of the VDT monitor and the type of glasses were discomfort in the neck and
+back regions and eyestrain, respectively. The neck-back discomfort scores were highest at
+the “eye-level”, lowest at the “sunken-level”, and intermediate at the “shoulder-level-side”
+position. The “shoulder-level-front” position was not significantly different in the discom-
+fort from other three positions. The eyestrain was significantly greater with the bifocal than
+with the single vision glasses. The lower the monitor was placed, the more forward was the
+head and gaze inclined. The head was inclined less forward, or even more backward, and
+the gaze was inclined more forward, with the bifocal than with the single vision glasses. As
+a conclusion, the VDT operators were advised to avoid the “eye-level” and “shoulder-
+level-side” positions and to prefer the “sunken-level” and “shoulder-level-front” positions
+as the first and second best choices, respectively. The preference becomes more critical for
+the wearers of bifocal glasses that suffer from postural constraints in viewing.
+Key Words: single vision glasses, bifocal glasses, VDT, musculoskeletal discomfort, moni-
+tor placement
+
+===== PAGE 2 =====
+
+workplace ergonomic factors to musculoskeletal problems. The study objective had special signifi-
+cance given the statistical evidence pointing to the increased incidence of musculoskeletal disorders
+in upper extremities, the hand and the wrist in particular, among VDT workers in the United States
+(Eisen and LeGrande, 1989; Pasternak, 1989; NIOSH, 1991). What these disorders appear to have in
+common is a work environment characterized by awkward positions, localized pressure, holding a
+static position without movement, excessive use of force, and repetition without rest breaks (Herman
+Miller Research and Design, 1991). Some of the suggestions for environment and workstation design
+include low placement of the keyboard, avoidance of low seats to prevent leg discomfort, preference
+for an erect sitting posture and backrest height adjustments, physical exercise during work, and fre-
+quent rest breaks.
+Visual complaints among VDT users
+Eye and visual discomforts associated with VDT use is a common and growing health problem
+in the workplace. When doing visual near work, a person's ciliary muscle of accommodation changes
+the optical power of the lens of the eye to form a sharp image on the retina, and the horizontal
+extraocular muscles converge the axes of the eyes to fuse the two retinal images. These oculomotor
+mechanisms of accommodation and convergence are increasingly strained as the viewing distance
+shortens. A study conducted by the American Optometric Associations (AOA) found more than 10
+million Americans experience visual discomfort and related symptoms due to operating VDTs
+(Leavitt, 1995). In another survey conducted by the same association, eyestrain, headaches, and
+blurred vision were ranked as the top three vision complaints associated with the use of VDTs
+(Sheedy, 1992). 
+Aged adults working with VDTs face a different problem; the loss of eye focusing that invari-
+ably accompanies advancing age, presbyopia or far-sightedness, requires special prescription lenses
+for the adult population (Sheedy, 1992). Presbyopia is usually corrected by bifocals, trifocals or sin-
+gle vision glasses. In a survey, 30 % of all VDT patients received prescriptions for bifocals and 19 %
+for trifocals (Sheedy, 1992). Bifocal and trifocal users may experience neck and back problems in
+addition to vision complaints as they attempt to accommodate two or three visual focal points. 
+The American Optometric Association estimates that among the 70 million eye exams a year, 10
+million patients require eye exams because of problems with VDTs (Sheedy, 1992). Thirty-seven
+percent of these complaints are attributed to environmental visual factors such as lighting, poor
+screen resolution, and glare. Neck- and backaches are also reported together with these vision com-
+plaints due to high VDT placement. 
+Corrective lenses among VDT users
+A study conducted by Hagberg and Sundelin (1986) on single vision lens wearers reported dis-
+comfort and load on the shoulder muscle when operating a word processor. On the other hand,
+Vassilieff and Dain (1986) evaluated potential problems with the operation of a VDT workstation by
+people wearing bifocal glasses. From a theoretical analysis of the optical problems of presbyopic
+operators, the authors concluded that (a) bifocal lens wearers up to 50 years of age should be able to
+use a VDT successfully, (b) bifocal lens wearers over the age of 55 years will experience problems
+when using a VDT, and (c) bifocal lens wearers between 50 and 55 years may have problems, the
+extent of which will depend on the amplitude of accommodation. 
+Similar presumptions were outlined by Chackman and Guest (1983) who attributed the unsuit-
+ability of presbyopic corrections for VDT usage to the higher angle of gaze and the longer viewing
+distances required for reading the screen. Suggestions for the solution of these problems were that the
+reading segment of the bifocal glasses be raised closer to the pupil, or the workplace be adjusted to
+allow reading glasses to be used. A contradictory clinical opinion suggested that there should be no
+particular problems associated with the use of bifocal glasses while using a VDT workstation (Cole,
+1979).
+In another study using presbyopic subjects with bifocal correction lenses, between the age group
+30 F. BASRAI and F. AGHAZADEH
+
+===== PAGE 3 =====
+
+of 47 and 58, a substantial postural change and adaptation was required to view the keyboard and
+screen, as the head tended to move two or three times more among bifocal lens wearers than among
+single vision lens wearers (Martin and Dain, 1988). Kumar (1994), in his study on bifocal lens wear-
+ers, evaluated three different VDT monitor placements, namely, (a) sunken and inclined backward by
+35 degrees (b) placed on desk top level and horizontal, and (c) placed horizontally but raised by CPU
+beneath it. The study concluded that the sunken position was the most appropriate based on the elimi-
+nation of postural stress and need for significant movements of the head and neck, and bringing the
+keyboard and monitor into a single vision zone.
+The primary objective of the present study was to compare the four different monitor positions
+in terms of the associated somatic discomfort and postural profiles in VDT tasks wearing single
+vision or bifocal glasses. Specifically, the research aimed at determining the optimal workstation set-
+up for single vision and bifocal lens users with respect to the four positions of the display terminal,
+that is, when the top of the display terminal is: (a) in line with the eye-level, (b) in line with the
+shoulder-level in the front, (c) in line with the shoulder-level on the left side at an angle of 30
+degrees, and (d) sunken below the table surface. 
+METHODS
+Subjects and eyeglasses
+To accomplish the research objectives, the experiment was performed with four different moni-
+tor positions, each comprising of two sessions, one with single vision glasses and the other with bifo-
+cal glasses. 
+The experimental subjects consisted of eight healthy male students with normal vision. The
+mean age, weight and height were 24.5 years, 161 lbs (73.2kg) and 69" (175cm). The subjects were
+experienced in word-processing and had keyboarding skill ranging from 30 to 40 words per minute.
+All subjects were informed about the purpose of the experimental protocol and were asked to notify
+any record or history of neck- and backaches.
+Since the experiment employed young students who did not wear bifocal glasses and thus to
+simulate an actual bifocal lens wearer performing data entry task, the top part of the lens was covered
+with an opaque tape so that the participant was able to see only from the bottom part. The eyeglasses
+used for this study were of zero dioptre. Participants who wore prescribed glasses were allowed to
+use their own eyeglasses and an opaque strip was fixed to replicate bifocal setting. The glass cover-
+age was approximately 2/3 of the glass area and had an “executive” type of a viewing configuration
+where the bifocal lenses were placed horizontally on the bottom part of the frame (Jalie, 1977).
+Monitor positions 
+Experiments were conducted with four different VDT monitor placements with respect to the
+vertical position and horizontal direction of the monitor. The distance between the eyes and VDT
+screen was kept between a range of 50 – 55 cm. The monitor placements were: a) The top of the
+VDT screen was placed in front of the subject in level with the eye, that is, when the person per-
+formed the data entry task, the monitor and eye were positioned in a straight line horizontally
+(Figures 1 and 2). This was termed as the “eye-level” position. b) The top of the VDT screen was
+placed in front of the subject in level with the shoulder, that is, the monitor and the shoulder of the
+participant were positioned in a straight line horizontally (Figures 3 and 4). This was termed as the
+“shoulder-level-front” position. c) The top of the VDT screen was set in level with the shoulder of the
+subject but the screen was placed at the left side of the subject with an angle of 30 degrees from the
+mid-sagittal line (Figures 5 and 6). This was termed as the “shoulder-level-side” position; d) The
+monitor screen was sunken mid-way below the surface of the computer desk (Figures 7 and 8). A dis-
+tance of approximately 50-cm was maintained from the center of the screen to the eye. An inclination
+thereby made by the VDT was between 40 to 45 degrees. This position was termed as “sunken-
+MONITOR POSITIONS AND GLASSES IN VDT TASK 31
+
+===== PAGE 4 =====
+
+32 F. BASRAI and F. AGHAZADEH
+Fig. 1 A subject performing data entry wearing single vision glassses with the monitor placed
+at “eye-level”.
+Fig. 2 A subject performing data entry wearing bifocal glassses with the monitor placed at
+“eye-level”.
+
+===== PAGE 5 =====
+
+MONITOR POSITIONS AND GLASSES IN VDT TASK 33
+Fig. 3  A subject performing data entry wearing single vision glassses with the monitor
+placed at “shoulder-level-front”.
+Fig. 4 A subject performing data entry wearing bifocal glassses with the monitor placed at
+“shoulder-level-front”.
+
+===== PAGE 6 =====
+
+34 F. BASRAI and F. AGHAZADEH
+Fig. 5  A subject performing data entry wearing single vision glassses with the monitor
+placed at “shoulder-level-side”.
+Fig. 6 A subject performing data entry wearing bifocal glassses with the monitor placed at
+“shoulder-level-side”.
+
+===== PAGE 7 =====
+
+MONITOR POSITIONS AND GLASSES IN VDT TASK 35
+Fig. 7 A subject performing data entry wearing single vision glassses with the monitor placed
+at “sunken level”.
+Fig. 8 A subject performing data entry wearing bifocal glasses with the monitor placed at
+“sunken-level”.
+
+===== PAGE 8 =====
+
+level.”
+The monitors were different for each of the four positions but had the same screen resolution of
+800 x 600 pixels and were 15 inches in size.
+Two different computer desks were used for the experiment. For the “eye-level”, “shoulder-
+level-front” and “shoulder-level-side” positions, a “standard desk” having dimensions of 28" (70cm
+length) x 58" (150cm breadth) x 27" (68cm height) was used. No special arrangement was present for
+placing the keyboards. For the “sunken-level” position, a specially designed computer desk by Nova,
+The Natural Solution
+TM (Austin, Texas) of 36" (91cm length) x 30" (76cm breadth) x 30" (76cm
+height) with a center slot of 18" (46cm length) x 20" (50cm breadth) to accommodate the monitor,
+was used. The monitor was sunken midway and inclined so that a distance from the center of the
+screen to the subject’s eye was 50 cm. The desk had an adjustable surface for the keyboard.
+Experimental protocol
+The subjects were asked to perform data entry task, sitting in a supported relaxed erect middle
+posture spine, wherein the center of mass is directly above the ischial tuberosities and the floor sup-
+ports about 25% of the body weight (Chaffin and Andersson, 1991). The support was provided by the
+adjustable backrest of the chair. 
+The data entry task lasted half an hour (Kumar 1994) for each of the four monitor positions with
+different eyeglasses, cumulating to 4 hours. The 4 x 2 experimental conditions were randomized
+within each subject. The subjects performed data entry in a word processor (MS-Word) from continu-
+ous text handed to them prior to the experiment. To maintain consistency, all participants entered
+data in 12-size font - Times New Roman and single-spaced. The text used by the subjects was “docu-
+ment with meaning”, different across the four monitor positions, but same within each position,
+placed on the left-hand side of each subject on top of the desk. Accuracy of the data entry was calcu-
+lated by computing the percentage of correctly typed words to the total number of words typed dur-
+ing each half-hour session.
+Measurements of head inclination and gaze angle
+Based on the review of prior research and various guidelines for VDT workstation design (Cakir
+et al., 1980; Human Factors Society, 1988; Kroemer and Hill, 1986), the angle of head inclination
+and the angle of gaze to the screen were measured. The angle of head inclination is defined as the dif-
+ference between “angle I” and “angle J” as shown in Figure 9 (Sauter et al., 1991). The “angle I” was
+defined as an angle made by the ear-eye line and the vertical line when the subject is viewing the
+VDT. The “angle J” was defined as an angle made by the ear-eye line and the vertical line when the
+subject was looking straight ahead without the glasses for all eight sessions.
+36 F. BASRAI and F. AGHAZADEH
+Fig. 9 Measuremen of the head inclination as difference between
+“angle I” and “angle J”. For explanation, see text.
+
+===== PAGE 9 =====
+
+The angle of gaze to the monitor as illustrated in Figure 10 was defined as an angle between the
+ear-eye line and the line of sight to the center of the screen (Kroemer and Grandjean, 1997).
+A goniometer was used to measure the angle of the head inclination and the angle of gaze to the
+monitor. The instrument has two long arms, one longer relative to the other. The shorter of the arm is
+used as a reference to the horizontal or the vertical plane whereas the longer arm measures the angle. 
+Somatic discomfort measures
+A participative discomfort rating form was completed by each subject after each experimental
+session. Employing the method of Corlett and Bishop (1976), the form was designed to include mus-
+culoskeletal discomfort in body areas displayed in Figure 11, as well as tiredness, eyestrain, and
+drowsiness. The discomfort rating was recorded on a zero to 10 scale; zero being no discomfort and
+10 the most serious discomfort (Turville et al., 1998). 
+Statistical analyses
+The experiment is a “two-factorial randomized block design” with the subjects being blocked to
+avoid any confounding effect that may have arisen during the experimentation. Within the block, the
+order of the subjects performing the experiments was completely randomized. Also all the set-ups
+were randomized. This statistical model assumed the interaction between block and treatments as
+negligible. Multivariate analysis of variance (MANOVA) was followed by the analysis of variance
+(ANOVA). Duncan’s multiple range test was used to compare the pairs of means. The significance
+level was fixed at p=0.05 for the experiment.
+MONITOR POSITIONS AND GLASSES IN VDT TASK 37
+Fig. 10 Measurement of the angle of gaze as an angle between the ear-eye line
+and the line of sight to the center of the monitor or keyboard. For details, see text.
+Fig. 11  Pictograph used for rating subjective musculoskeletal discomfort.
+
+===== PAGE 10 =====
+
+RESULTS
+Analysis of subjective discomfort ratings 
+Table 1 compares the subjective discomfort rating with the single vision glasses for the different
+monitor placements. The neck discomfort has the highest average in the “shoulder-level-side” moni-
+tor position, and the upper- and lower back show peak average scores when the monitor is in the
+“eye-level”. It is noted that almost all average ratings of the “sunken-level” positions are close to or
+lower than those of the other three monitor positions studied. Except for the neck, the “shoulder-
+level-side” position also yields relatively low scores in somatic discomfort. 
+Table 2 illustrates the discomfort scores with bifocal glasses. The “sunken-level” position has
+the lowest discomfort average for several elements including the neck. Here, too, the upper and lower
+back scores are fairy high when the monitor is placed at “eye-level”. 
+Comparing the discomfort between the single vision and bifocal glasses, the scores appear to be
+generally higher if wearing the bifocal glasses. It is particularly noticeable that the eyestrain with the
+bifocal glasses is fairy high irrespective of the monitor positions; the strain at the “eye-level” with the
+bifocal glasses is almost two times as high as that with single vision glasses. Table 3 shows the
+results of ANOVA for the effect of corrective lenses (single vision vs. bifocal) and monitor positions
+on the somatic discomfort. The effects of corrective lenses and monitor positions are statistically sig-
+nificant only for the upper back discomfort (p<0.05) and eyestrain (p<0.001), respectively. 
+Table 4 summarizes the results of Duncan's multiple range test for the mean somatic discomfort
+scores with the different glasses. The mean discomfort scores are not significantly different between
+the glasses except for the eyestrain, which is 75 % less with single vision than with bifocal glasses. In
+Table 5 are shown the results of Duncan's multiple range test with respect to the monitor positions.
+While the positions have significant effects ( p<0.05) on the neck, upper back, and lower back dis-
+comfort, the positional effects are not significant on the tiredness and eyestrain. More specifically,
+significant differences are identified between the following comparisons; “shoulder-level-
+side”>“sunken-level” for the neck; “eye-level”>“sunken-level” and “eye-level”>“shoulder-level-
+side” for the upper back; “eye-level”>“shoulder-level-side” for the lower back. 
+38 F. BASRAI and F. AGHAZADEH
+Table 1. Mean and SD of somatic discomfort ratings and postural profiles under four VDT monitor positions
+with single vision glasses.
+Monitor positions
+Somatic elements Eye-level Shoulder-level-front Shoulder-level-side Sunken-level
+Mean SD Mean SD Mean SD Mean SD
+Somatic discomfort 
+Neck 2.81 1.07 2.81 1.16 4.19 2.00 2.63 1.27
+Shoulder 3.13 1.25 3.41 1.73 2.44 1.05 2.44 1.45
+Upper Arm 2.13 1.55 2.31 2.43 2.00 1.34 1.56 1.29
+Forearm/Elbow 2.81 2.51 3.56 3.32 1.81 1.36 2.38 2.25
+Wrist 3.63 1.48 3.78 3.28 2.63 1.69 2.88 1.38
+Thigh 1.88 2.10 1.13 2.10 1.13 1.36 1.19 1.56
+Lower leg 1.75 1.75 0.75 1.75 1.00 1.51 1.13 1.55
+Upper back 3.75 1.04 3.06 1.43 3.00 1.41 3.25 1.39
+Lower back 4.00 2.33 3.69 2.76 3.13 1.64 3.00 1.51
+Tiredness 2.75 1.67 2.25 1.98 2.75 2.25 2.75 1.28
+Eye strain 2.75 2.05 3.44 2.69 3.00 2.00 2.25 1.39
+Drowsiness 2.13 1.89 2.00 2.20 2.00 2.20 2.00 2.00
+Postural profiles
+Head inclination 16.9 3.5 21.0 3.5 22.3 2.9 26.9 8.6
+Angle of gaze 3.2 1.5 5.9 1.0 7.2 2.6 6.7 3.8
+
+===== PAGE 11 =====
+
+MONITOR POSITIONS AND GLASSES IN VDT TASK 39
+Table 2. Mean and SD of somatic discomfort ratings and postural profiles under four VDT monitor positions
+with bifocal glasses.
+Monitor positions
+Somatic elements Eye-level Shoulder-level-front Shoulder-level-side Sunken-level
+Mean SD Mean SD Mean SD Mean SD
+Somatic discomfort 
+Neck 3.88 2.60 3.56 1.80 3.69 1.51 2.94 1.88
+Shoulder 3.06 2.60 2.69 1.31 2.75 1.36 2.50 2.12
+Upper arm 2.69 1.83 3.00 2.35 1.94 0.94 1.44 1.55
+Forearm/Elbow 2.56 1.70 3.44 2.83 2.88 2.46 2.59 2.16
+Wrist 3.25 2.19 3.44 2.16 4.06 1.70 2.63 1.75
+Thigh 2.00 2.20 1.63 2.39 1.31 1.49 1.25 2.31
+Lower leg 2.88 2.70 1.13 1.89 1.44 1.40 1.44 2.23
+Upper back 4.38 2.45 3.63 1.69 2.75 1.39 2.69 1.87
+Lower back 4.38 2.83 3.75 1.98 2.75 1.04 3.56 2.16
+Tiredness 3.50 3.16 3.50 2.20 3.38 2.20 2.75 2.49
+Eyestrain 5.38 2.50 5.13 2.30 4.88 2.20 4.38 2.90
+Drowsiness 3.13 3.09 2.88 2.59 3.13 2.90 2.75 2.82
+Postural profiles
+Head inclination -1.9 3.5 7.3 4.8 10.3 4.7 17.5 5.6
+Angle of gaze 10.1 2.0 11.9 2.3 12.5 2.3 14.3 3.8
+Table 3. F statistics for the effects of corrective lenses and monitor positions on the somatic discom-
+fort ratings and postural profiles.
+Somatic elements Test criteria Lens Monitor positions
+Somatic discomfort 
+Neck F value 0.88 1.23
+P 0.3518 0.3078
+Shoulder F value 0.06 0.57
+P 0.8098 0.6396
+Upper arm F value 0.38 1.38
+P 0.5414 0.2571
+Forearm/Elbow F value 0.14 0.75
+P 0.7065 0.5293
+Wrist F value 0.05 0.54
+P 0.8186 0.6574
+Thigh F value 0.20 0.48
+P 0.6594 0.6989
+Lower leg F value 1.42 1.62
+P 0.2389 0.1941
+Upper back F value 0.05 1.75
+P 0.8190 0.0317
+Lower back F value 0.09 1.05
+P 0.7684 0.3766
+Tiredness F value 1.40 0.10
+P 0.2415 0.9617
+Eyestrain F value 13.11 0.33
+P 0.0006 0.8003
+Drowsiness F value 2.26 0.03
+P 0.1387 0.9917
+Postural profiles
+Head inclination F value 137.80 28.07
+P 0.0001 0.0001
+Angle of gaze F value 84.95 9.63
+P 0.0001 0.0001
+
+===== PAGE 12 =====
+
+40 F. BASRAI and F. AGHAZADEH
+Table 4. Duncan's multiple range test for the effect of corrective lenses
+on the somatic discomfort. Means corresponding to different letters in
+grouping are significantly different at p< 0.05.
+Somatic discomfort Lens Mean Grouping
+Single 3.516 ANeck Bifocal 3.109 A
+Single 3.359 AUpper Back Bifocal 3.266 A
+Single 3.609 ALower Back Bifocal 3.453 A
+Single 3.281 ATiredness Bifocal 2.625 A
+Single 4.938 AEye Strain Bifocal 2.859 B
+Table 5. Duncan's multiple range test for the effect of VDT monitor positions on the somat-
+ic discomfort. Means corresponding to different letters in grouping are significantly differ-
+ent at p< 0.05.
+Somatic discomfort Monitor positions Mean Grouping
+Shoulder-level-side 3.938 A
+Eye-level 3.344 B  ANeck Shoulder-level-front 3.188 B A
+Sunken-level 2.781 B
+Eye-level 4.063 A
+Shoulder-level-front 3.344 B AUpper back Shoulder-level-side 2.969 B    
+Sunken-level 2.875 B    
+Eye-level 4.188 A
+Shoulder-level-front 3.719 B ALower back Sunken-level 3.281 B A
+Shoulder-level-side 2.938 B    
+Eye-level 3.125 A
+Shoulder-level-side 3.063 ATiredness Shoulder-level-front 2.875 A
+Sunken-level 2.750 A
+Shoulder-level-front 4.281 A
+Eye-level 4.063 AEyestrain Shoulder-level-side 3.688 A
+Sunken-level 3.563 A
+Analysis of angular measurements 
+The angular measurements under different monitor positions with the single vision and bifocal
+glasses are presented in Tables 1 and 2, respectively. For each type of glasses, the head inclination
+and gaze angle tend to increase in correspondence to the height of the monitor, from the “eye-level”
+to the “sunken-level”. While the head inclination is larger with the single vision glasses, gaze angle is
+larger if wearing the bifocal glasses. Variability of the head inclination according to the monitor posi-
+tion appears different between the glasses; the angular range in terms of mean score between the
+“eye-level” and “sunken-level” is 10 degrees for the single vision glasses and nearly 20 degrees for
+the bifocal glasses.
+
+===== PAGE 13 =====
+
+Results of ANOVA applied to angular measurements are presented in Table 3. The effects of
+corrective lenses and monitor positions each are statistically significant for both the head inclination
+(p<0.001) and gaze angle ( p<0.001). In Tables 6 and Table 7 are illustrated the results of Duncan’s
+multiple range test for the effect of glasses and monitor positions on angular measurements, respec-
+tively. It is obvious that the type of glasses have significant effect (p<0.05) on both of the head incli-
+nation and gaze angle. Besides, these angular measurements are significantly affected ( p<0.05) by a
+number of monitor positions, the “eye-level” and “sunken-level” in particular. More specifically, sig-
+nificant differences in the angles are identified between the following comparisons; “shoulder-level-
+side”>“eye-level”, “shoulder-level-front”>“eye-level”, “sunken-level”>“eye-level”, “sunken-
+level”>“shoulder-level-front”, and “sunken-level”>“shoulder-level-side”. 
+DISCUSSION
+Our experiments revealed that the somatic elements which were affected significantly by the
+placement of the VDT monitor and the type of glasses were, respectively, the neck-back discomfort
+and eyestrain. The discomfort in the neck and back regions during the data entry task varied with the
+monitor positions. Generally, the discomfort scores were highest at the “eye-level”, lowest at the
+“sunken-level”, and intermediate at the “shoulder-level-side”, with the mutual differences statistically
+significant. The “shoulder-level-front” position was not significantly different in the discomfort score
+from other three positions. The discomfort, however, was not affected significantly by the type of
+glasses. 
+We also showed that the head posture and gaze direction both differed significantly between the
+glasses-types and monitor positions. The lower the monitor was placed, the more forward was the
+head inclined. The head was inclined less forward, or even more backward, with the bifocal than with
+the single vision glasses. The gaze angle was greater with the monitor placed lower than higher as
+well as with the bifocal than with the single vision glasses. The alteration of the head posture and
+gaze angle as above are naturally predicted if one consider the positional relation between the head
+MONITOR POSITIONS AND GLASSES IN VDT TASK 41
+Table 6. Duncan's multiple range test for the effect of corrective lenses on
+the postural profiles. Means corresponding to different letters in grouping
+are significantly different at p< 0.05.
+Postural profile Lens Mean Grouping
+Single 21.766 AHead inclination Bifocal 8.281 B
+Single 6.234 AGaze angle Bifocal 12.203 B
+Postural profile Monitor positions Mean Grouping
+Sunken-level 22.219 A
+Shoulder-level-side 16.250 BHead inclination Shoulder-level-front 14.156 B
+Eye-level 7.469 C
+Sunken-level 11.469 A
+Shoulder-level-side 9.844 BGaze angle Shoulder-level-front 8.906 B
+Eye-level 6.656 C
+Table 7: Duncan's multiple range test for the effect of monitor positions on the postural pro-
+files. Means corresponding to different letters in grouping are significantly different at p< 0.05.
+
+===== PAGE 14 =====
+
+and the monitor, and between the visual axis and visible area in the bifocal lens.
+Knave et al. (1985) found, among VDT operators, that as the time spent in front of the VDT
+monitor increased, significant risk factors for neck pain proportionally rose. Therefore appropriate
+monitor placements are required for data entry operators who spend almost the entire day in front of
+the monitor. The dependence of the neck-back discomfort on the monitor positions mentioned earlier,
+i.e. the incidence of discomfort was higher at the “eye-level” and “shoulder-level-side” positions but
+reduced at the “sunken-level” position, can be attributed to the posture assumed at each position,
+including turning of the head sideways, which may cause static loading on the muscles in the neck
+and back region. 
+In general, if the VDT monitor is placed onto the casing of a personal computer, the center of
+the screen is about 40 cm above the table. Assuming a table height of 72 cm (which is recommended
+for none-adjustable tables), gaze direction is horizontal, or even elevated, for all subjects with an eye
+level above the floor of 112 cm or less. Thus, placement of a VDT monitor onto the personal comput-
+er casing on a conventional table may result in an adverse condition for many operators. The condi-
+tion may turn worse if the operator wears bifocal glasses, since he/she has to lift the head to view the
+screen.
+With improved designs of computers, the monitors are designed to tilt backward and forward. In
+our experiment, the monitor was lowered by sinking and tilting it backward in the table top and the
+head was inclined forward by 26.9° for single vision and 17.5° for bifocal glasses in average, causing
+the least neck-back discomfort. The present state of knowledge suggests that the head and neck
+should not be bent forward by more than 30 ° when the trunk is erect, otherwise fatigue and troubles
+are likely to occur (Chaffin et al., 1999). It may follow then that the “sunken-level” monitor place-
+ment should be evaluated as the optimum position for data entry workers. 
+The degree of eyestrain, in contrast with the musculoskeletal discomfort, was dependent upon
+the type of glasses and independent of the monitor positions. The eyestrain was significantly larger
+with the bifocal than with the single vision glasses. Our results, however, differ from the clinical
+opinion proposed by Cole (1979) that there should not be any particular problems associated with the
+use of bifocal glasses among VDT users. Also different are the conclusions of Vassilieff and Dain
+(1986) that bifocal wearers up to the age of 50 years will not experience problems while viewing the
+VDT monitor. The reason for these discrepancies are not clear, but may partly be owing to the fact
+that our experimental subjects were young and had no experience of wearing the bifocal glasses.
+For the bifocal glasses, the eyestrain was greatest at the “eye-level” and reduced with lowering
+of the monitor position, although the trend of dependence on the monitor position was statistically
+not significant. This lack of significance may possibly be due to the moderate number of our subjects
+employed. If this is the case, the higher incidence of eyestrain with the bifocal glasses may have aris-
+en, as cited by Weston (1962), as a consequence of discomfort in the neck region caused by the pos-
+tural change due to wearing bifocal glasses. 
+As conclusions drawn from the foregoing discussion, we recommend the data entry workers to
+adjust placement of the VDT monitor; the “eye-level” and “shoulder-level-side” positions should be
+avoided while the “sunken-level” and “shoulder-level-front” positions are the first and second best
+choices, respectively. The placement becomes more critical for the wearers of bifocal glasses that
+suffer from postural constraints in viewing near objects.
+We wish to extend our thanks to Mr. Dennis Ankrum of Nova Solutions Inc. for providing the specially built computer desks.
+REFERENCES
+Cakir, A, Hart, DJ, and Stewart, TFM (1980) Visual Display Terminal. John Wiley, Chichester.
+Chackman, J and Guest, DJ (1983) Vision and the visual display unit: A review. Austr. J. Optometrists, 66: 125-137.
+Chaffin, DB and Andersson, GBJ (1991) Occupational Biomechanics, 2nd Ed., John Wiley, New York, pp.337-338.
+Chaffin, DB, Andersson, GBJ, and Martin, BJ (1999). Occupational Biomechanics, 3rd Ed. John Wiley, New York.
+42 F. BASRAI and F. AGHAZADEH
+
+===== PAGE 15 =====
+
+Cole, BL (1979) Visual problems associated with visual display units. In: Ergonomics and Display Units, cited by Turner
+(1982). 
+Corlett, E and Bishop, R (1976) A technique for assessing postural discomfort. Ergonomics, 19: 175-182.
+Eisen, DJ and LeGrande, D (1989) Repetitive strain injury in three U.S. communications-industry offices. Paper presented at
+2nd Int. Sci. Conf. Work with Display Units, Montreal, Canada.
+Ferguson, D (1984) The ‘new’ industrial epidemic. Med. J. of Australia, 17: 318-319.
+Hagberg, M and Sundelin, G (1986) Discomfort and load on the upper trapezius muscle when operating a word processor.
+Ergonomics, 29: 1637-1645.
+Herman Miller Research and Design (1991) Cumulative trauma disorders. Issue paper, Herman Miller Inc., Zealand,
+Michigan.
+Hill, C (1989) Getting to grips with repetitive strain injuries. Personnel Management (UK)March: 32-35. 
+Human Factors Society (1988) American National Standard for Human Factors Engineering of Visual Display Terminal
+Workstations (ANSI/HFS 100-1988), Santa Monica, CA.
+Jalie, M (1977) The Principles of Ophthalmic Lenses, 3rd Ed. Association of Disp. Ophthalmic, London.
+Knave, BG, Wibom, RI, Voss, M, Hedstrom, LD, and Bergqvist, UO (1985) Work with video display terminals among office
+employees: Subjective symptoms and discomfort. Scand. J. Work Envir. Health, 11: 457- 466.
+Kroemer, KHE and Hill, SG (1986) Preferred line of sight angle, Ergonomics, 29: 1129-1134.
+Kroemer, KHE and Grandjean, E (1997) Fitting the Task to the Human, 5th Ed. Taylor & Francis, London, pp.63-66. 
+Kumar, S (1994) A computer desk for bifocal lens wearers with special telecommunication tasks. Ergonomics, 37: 1669-1678.
+Leavitt, SB (1995) Lower your VDT monitor. Workplace Ergonomics, Jul/Aug: 32-35.
+Mallory, M and Bradford, H (1989) An invisible workplace hazard gets harder to ignore. Business Week, Industrial
+Technology Edition: 92-93. 
+Martin, DK and Dain, SJ (1988) Postural modification of VDU operators wearing bifocal spectacles. Applied Ergonomics, 19:
+293-300.
+National Research Council (1983) Panel on Impact of Video Viewing on Vision of Workers: Video Displays, Work and
+Vision. National Academy Press, Washington, DC.
+NIOSH (1991) Publications on video display terminals. HHS, Public Health Service, Centers for Disease Control, National
+Institute for Occupational Safety and Health, Division of Standards Development and Technology Transfer, Cincinnati,
+Ohio.
+Pasternak, J (1989) Computeritis. Los Angeles Times Magazine:19-22, 42-44.
+Sauter, SL, Schleifer, LM, and Knutson, SJ (1991) Work posture, workstation design and musculoskeletal discomfort in a
+VDT data entry task. Human Factors, 33: 151-167.
+Sheedy, JE (1992) VDTs and vision complaints: A survey. Information Display, 4: 20-23.
+Turner, P. (1982) Visual requirements for VDU operators. Australian J. Optometrists, 65: 58-64.
+Turville, K, Psihogios J, Ulmer T, and Mirka G (1998) The effects of video display terminal height on the operator: A compar-
+ison of the 15° and 40° recommendations. Applied Ergonomics, 29: 239-246.
+Vassilieff, A and Dain, S (1986) Bifocal wearing and VDU operation: A review and graphic analysis. Applied Ergonomics, 17:
+82-86.
+Weston, H (1962) Sight, Light and Work, 2nd Ed. H.K. Lewis, London.
+MONITOR POSITIONS AND GLASSES IN VDT TASK 43

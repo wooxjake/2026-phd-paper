@@ -1,0 +1,269 @@
+﻿guswo
+
+박 사 학 위 논 문
+
+
+컴퓨터 모니터 높이에 따른 경추 및 요추의 자세조절 전략과 근활성 패턴 분석: 
+SPM 분석기법 적용
+
+우 정 현
+
+부산대학교 일반대학원
+
+체육학과
+
+2026년 10월
+
+
+
+
+
+컴퓨터 모니터 높이에 따른 경추 및 요추의 자세조절 전략과 근활성 패턴 분석: 
+SPM 분석기법 적용
+
+
+
+
+우 정 현
+
+부산대학교 일반대학원
+
+체육학과
+
+지 도 교 수   한 기 훈
+
+
+
+2026년  10월
+
+
+
+
+
+
+
+목  차
+I. 서 론  	1
+1. 연구의 필요성	1
+2. 연구가설	4
+3. 용어의 정의	5
+4. 연구의 제한점	6
+II. 이론적 배경	7
+1. 모니터 높이와 목·요추 자세	7
+2. 앉은 자세 유지 중 자세와 근육 반응	8
+3. 연속 측정 자료의 해석	9
+III. 연구방법	10
+1. 연구대상	10
+2. 연구절차 및 프로토콜	12
+3. 연구장비	14
+4. 데이터수집 및 전처리	15
+5. 자료분석	16
+6. 통계처리	19
+IV. 기대되는 효과	19
+참고문헌	21
+
+
+그림 목차
+Figure 1. Ergonomic monitor viewing angle guidelines from South Korea (MOEL, A), USA (OSHA, B), and Canada (CCOHS, C)	1
+Figure 2. Procedures of this study	12
+Figure 3.  Noraxon Ultium System (Noraxon, USA)	15
+Figure 4. Locations of IMU(square markers) sensors and EMG(circle markers) electrodes 	15
+Figure 5. IMU sensor placement and calculation of the CA(cervical angle) and  LLA(lumbar lordotic angle) in the sagittal plane 	17
+
+
+
+I. 서 론  
+1. 연구의 필요성
+모니터 높이는 컴퓨터 작업 중 시선의 방향과 머리·목 자세에 영향을 미치는 작업환경 요인이다(Villanueva et al., 1996). 눈높이와 일치하지 않는 모니터 위치는 목 통증의 신규 발생을 예측하는 요인으로 보고되었다(Paksaichol et al., 2015). 국내 지침은 화면 상단이 눈높이와 일치할 정도로 시선을 두고 작업 화면상의 시야가 수평선 아래 10°에서 15°에 오도록 규정한다(고용노동부, 2020). 국외 지침도 화면 중심을 수평선 아래 15°에서 20°에 두도록 하거나(Occupational Safety and Health Administration, n.d.) 수평선 아래 약 15° 또는 그보다 낮은 위치에 두도록 권고한다(Canadian Centre for Occupational Health and Safety, 2022).
+
+A
+B
+C
+Figure . Ergonomic monitor viewing angle guidelines from South Korea (MOEL, A), USA (OSHA, B), and Canada (CCOHS, C)
+권장 범위보다 낮은 화면에서는 머리 굴곡과 목 근육의 활성이 컸다. 화면 중심을 수평선 아래 40°에 둔 조건은 15°에 둔 조건보다 머리 기울기가 크고 목, 어깨 및 등 근육의 절반 이상에서 활성이 높았으며(Turville et al., 1998), 화면이 낮을수록 목 신전근과 상부승모근의 활성이 증가하였다(Seghers et al., 2003; Guo et al., 2024). 화면을 높은 위치에서 낮은 위치로 옮겼을 때 머리 기울기의 증가는 환추후두관절(atlanto-occipital joint)과 경추의 굴곡뿐 아니라 몸통 경사의 증가로도 나누어 나타났다(Burgess-Limerick et al., 1998).
+권장 범위보다 높은 경우 인체에 미치는 영향은 주로 눈의 피로와 관련되었다(Psihogios et al., 2001). 목에 관해서는 국외 지침이 화면이 지나치게 높으면 머리와 목이 뒤로 젖혀진 자세로 작업하게 되어 머리를 지지하는 근육이 피로해진다고 경고하지만(OSHA, n.d.), 화면을 높인 실험에서는 목 신전근의 활성이 감소하였고 몸통은 뒤로 기울었다(Villanueva et al., 1997). 화면 중심을 눈높이에 둔 현장 조건에서도 목과 허리를 포함한 신체 부위 불편감은 수평선 아래 17.5°에 둔 조건과 유의한 차이가 없었다(Psihogios et al., 2001). 지침의 경고와 달리, 권장 범위보다 높은 화면에서 근골격계 부담이 커진다는 근거는 제한적이다.
+컴퓨터 작업은 주로 앉은 자세로 이루어지며, 이때 몸통이 구부정한 정도는 목과 허리의 부담과 관련있다. 구부정하게 앉은 자세에서는 곧게 앉은 자세보다 목 신전근의 활성이 높고(Caneiro et al., 2010; Edmondston et al., 2011), 요추가 굴곡되어 추간판 내압이 높아진다고 보고되었다(Pynt et al., 2001). 이 자세를 장시간 유지하는 동안에는 허리의 불편감이 증가하였고(Jung et al., 2021), 내복사근과 복횡근에서 근피로와 관련된 근전도 중앙주파수의 감소가 나타났다(Waongenngarm et al., 2015b).
+그러나 모니터 높이에 관한 지침은 시선과 머리의 자세를 기준으로 하며(고용노동부, 2020), 화면 높이를 달리한 선행연구도 허리보다 목·어깨의 자세와 근활성을 주로 측정하였다(Seghers et al., 2003; Villanueva et al., 1997). 화면 높이에 따라 몸통 경사가 달라졌다는 보고가 있는 반면(Burgess-Limerick et al., 1998; Villanueva et al., 1997), 유의한 차이가 나타나지 않은 연구도 있다(Villanueva et al., 1996). 몸통 경사는 요추각과 다른 변인이므로, 이 결과만으로 화면 높이에 따른 요추 자세의 변화를 판단할 수 없다.
+요추각과 체간 근활성을 측정한 연구에서는 노트북 화면을 높이고 외장 키보드를 사용한 조건에서 경추 굴곡각과 다열근의 활성이 감소하였으나 요추 굴곡각은 달라지지 않았다(Yadegaripour et al., 2021). 인체모델 시뮬레이션에서는 화면이 높을수록 제4요추와 제5요추 사이의 모멘트가 감소하였으나(Guo et al., 2024), 요추각과 체간 근활성을 측정한 결과는 아니다. 화면 높이만 달리하여 지침의 범위와 그보다 높거나 낮은 화면에서 요추각과 체간 근활성을 비교한 연구는 제한적이다.
+목과 허리의 자세 및 근활성은 작업 시간에 따라서도 달라질 수 있다. 장시간의 컴퓨터 작업에서는 자세 각도와 일부 근육의 근활성이 시간에 따라 달라졌고(Seghers et al., 2003), 등받이 없는 의자에 앉은 자세를 유지하는 동안 몸통 굴곡각은 시간에 따라 증가하였다(Jia & Nussbaum, 2018). 요추에서는 계단 형태로 자세가 바뀌는 자세 전환도 나타났으며, 그 횟수는 앉은 자세에서 요통이 유발되는 집단에서만 시간에 따라 증가하였다(Dunk & Callaghan, 2010). 이처럼 작업 중 변화는 한 시점이나 구간의 대표값보다 작업 동안 연속으로 측정한 자료에서 더욱 명확하게 관찰할 수 있다.
+요추각은 임상에서 주로 방사선 영상으로 평가되어 왔으나, 방사선 촬영은 시공간적 제약과 방사선 노출로 인해 장시간에 걸친 활동에 반복해서 적용하기 어렵다(Kim et al., 2024). 관성측정장치(inertial measurement unit: IMU)는 척추의 서로 다른 두 위치에 부착한 센서의 상대각으로 요추 자세를 연속적으로 산출하며, 기존의 기준 측정에 견주어 타당성이 보고되었다(Kim et al., 2024). 이러한 특성으로 IMU는 앉은 자세를 유지하는 동안의 요추각 변화를 측정하는 데 사용되었고(Wong et al., 2018), 실험실 밖 환경에서 장시간 자세를 측정하는 데에도 적용되었다(Alshehri et al., 2025). 근활성은 표면근전도(surface electromyography: EMG)의 진폭으로, 근피로 관련 양상은 주파수의 변화로 탐색한다(Areeudomwong et al., 2012; Jia & Nussbaum, 2018; Waongenngarm et al., 2015b).
+기존 연구에서는 의자에 앉은 자세를 유지하는 동안 수집한 EMG 자료를 첫 구간과 마지막 구간, 일정한 시간 간격의 측정값 또는 일정 구간의 평균값으로 요약하여 비교하였으며(Jung et al., 2021; Baker et al., 2018; Waongenngarm et al., 2015b; Jia & Nussbaum, 2018), 화면 높이를 조정한 연구도 작업의 처음과 마지막 구간에서만 측정한 자세 각도와 EMG를 비교하였다(Yadegaripour et al., 2021). 이러한 요약 방식은 시점이나 구간 간 차이를 보여주지만, 목·체간의 자세와 근육 반응이 작업 시간에 따라 달라지는 양상을 제시하는 데에는 제한이 있다. 시계열의 일부 값을 추출한 분석과 전체 파형을 대상으로 한 분석은 서로 다른 결과를 제시할 수 있으며(Robinson et al., 2015; Papi et al., 2020), 요추각의 평균 변화량과 같은 요약값과 함께 전체 시간 파형(time-series waveform)을 비교하면 조건 간 차이가 나타나는 시점과 지속 구간을 확인할 수 있다. 통계적 모수 매핑(statistical parametric mapping: SPM)은 연속 자료 전체를 대상으로 검정하여 차이가 나타난 구간을 검출하는 방법으로(Pataky, 2012), 시간 파형의 조건 간 비교에 적용할 수 있다.
+화면 높이에 따른 요추 자세와 체간 근육의 반응, 그리고 작업 시간에 따른 변화를 함께 비교한 연구는 제한적이다. 이를 비교하려면 화면 높이별로 목과 요추의 자세 및 근활성을 작업 동안 연속으로 측정하여 시간 파형을 비교해야 한다. 따라서 본 연구의 목적은 건강한 성인을 대상으로 화면 중심의 시선각을 국내외 지침이 제시한 각도 범위에 포함되는 15°와 그보다 높은 0° 및 낮은 40°로 설정한 세 조건에서 30분간 컴퓨터 작업을 수행하는 동안 경추각과 요추각, 목·체간 근활성 및 피로 관련 지표의 시간 파형과 요추각의 평균 변화량을 비교하는 데 있다. 이러한 비교는 시선과 머리·목을 기준으로 제시된 모니터 높이 범위에서 목과 요추의 자세 조정 양상과 체간 근육의 반응을 확인하는 기초자료가 될 수 있다.
+
+2. 연구가설
+본 연구의 목적에 따라 다음과 같은 연구가설을 설정하였다. 각 연구가설은 참여자가 등받이 없는 의자에 곧은 자세로 앉은 뒤 30분간 컴퓨터 과제를 수행하는 동안 수집한 자료로 검증한다.
+(1) 모니터 높이가 낮을수록 기준각 대비 IMU 기반 경추각의 시간 파형은 차이가 있을 것이다.
+(2) 기준각 대비 IMU 기반 요추각의 시간 파형은 모니터 높이에 따라 차이가 있을 것이다.
+(3) 모니터 높이가 낮을수록 좌측 판상근의 정규화된 근전도 진폭 시간 파형은 차이가 있을 것이다.
+(4) 상부승모근의 정규화된 근전도 진폭 시간 파형은 모니터 높이에 따라 차이가 있을 것이다.
+(5) 요추기립근, 다열근 및 내복사근/복횡근의 정규화된 근전도 진폭 시간 파형은 모니터 높이에 따라 차이가 있을 것이다.
+(6) 목·체간 근육의 중앙주파수 시간 파형은 모니터 높이에 따라 차이가 있을 것이다.
+(7) 기준각 대비 IMU 기반 요추각의 평균 변화량은 모니터 높이에 따라 차이가 있을 것이다.
+
+3. 용어의 정의
+1) 기준 자세와 기준각
+기준 자세는 작업 시작 전에 표준화된 구두 지시에 따라 등받이 없는 의자에 곧게 앉은 자세를 말한다. 기준각은 기준 자세가 안정된 뒤 유지한 구간의 마지막 10초 동안 산출한 개인별 IMU 기반 목 각도와 요추각의 평균이다. 기준각은 방문마다 작업 전에 측정하며, 각 각도의 시간별 변화량은 같은 방문에서 측정한 해당 각도의 기준각을 빼서 산출한다.
+2) 시선각과 모니터 높이
+시선각은 기준 자세에서 눈과 화면 중심을 잇는 선이 눈높이를 지나는 수평선과 이루는 각도로, 화면 중심이 수평선 아래에 있을 때를 양수로 표시한다. 본 연구의 화면 중심이 눈높이와 같은 0°, 수평선 아래 15° 및 40°인 세 조건을 각각 높은 화면, 권장 화면 및 낮은 화면 조건으로 표기한다.
+3) 목·체간 근육
+목 근육은 좌측 판상근(Left Splenius Capitis)과 상부승모근(Upper Trapezius, UT)을, 체간 근육은 요추기립근(Lumbar Erector Spinae, LES), 다열근(Lumbar Multifidus, LM) 및 내복사근/복횡근(Internal Oblique / Transversus Abdominis, IO/TrA)을 말한다.
+4) 시간별 중앙주파수
+시간별 중앙주파수는 근전도 원신호의 각 분석창에서 파워스펙트럼 면적을 절반으로 나누는 주파수인 중앙주파수(median frequency: MDF)의 기준 대비 변화율이다. 기준 자세 구간의 MDF 평균을 방문별 기준값으로 정하고, 각 시점의 MDF에서 기준값을 뺀 뒤 기준값으로 나누어 백분율로 나타낸다. 본 연구에서 피로 관련 지표는 시간별 중앙주파수를 말한다.
+
+4. 연구의 제한점
+본 연구의 실행에 있어 다음과 같은 제한점을 두었다.
+(1) 책상 높이를 참여자의 신체 치수에 맞추어 조절하지 못한다.
+(2) 등받이 없는 의자 한 가지 조건에서만 측정하여 다른 의자 조건에서의 반응을 확인하지 못한다.
+(3) 관찰시간을 30분으로 제한하여 더 긴 작업에서 나타나는 반응을 확인하지 못한다.
+(4) 눈의 움직임을 측정하거나 통제하지 못한다.
+(5) 같은 참여자가 서로 다른 날 세 조건을 반복 수행하여 반복 방문에 따른 자세 인식과 행동의 변화를 통제하지 못한다.
+(6) 방문마다 센서와 전극을 다시 부착하여 부착 위치 차이에 따른 미세한 측정 오차를 통제하지 못한다.
+II. 이론적 배경
+1. 모니터 높이와 목·요추 자세
+화면 높이는 시각 목표의 위치를 바꾸지만, 화면을 바라보는 자세를 눈이나 목의 움직임 하나로 설명할 수는 없다. 화면 높이를 달리한 연구에서는 시선 방향과 경추각뿐 아니라 흉추의 굽힘도 달라졌으나, 몸통 전체의 경사는 높이에 따라 유의하게 달라지지 않았다(Villanueva et al., 1996). 화면을 낮추면 머리 굴곡과 목 신전근 활성이 커지는 결과가 보고되었고(Seghers et al., 2003; Guo et al., 2024), 화면을 높인 조건에서는 목 신전근 활성이 감소하고 몸통은 뒤로 기울었다(Villanueva et al., 1997). 요추각과 체간 근전도를 측정한 연구에서는 화면 높이와 키보드 위치를 함께 조정하여 경추 굴곡과 다열근 활성은 감소하였으나 요추 굴곡각의 유의한 차이는 나타나지 않았다(Yadegaripour et al., 2021). 이 연구에서는 두 작업환경 설정을 비교했으므로 요추 반응을 화면 높이 변화만의 결과로 분리할 수 없다.
+
+2. 앉은 자세 유지 중 자세와 근육 반응
+1) 요추 자세의 시간적 변화
+앉은 자세를 유지하는 동안 요추각은 일정하게 유지되지 않을 수 있다. 연속 측정 연구에서는 요추 움직임을 새로운 자세가 일정 시간 지속되는 자세 전환과, 짧은 변화 뒤 이전 수준으로 돌아오는 미세 움직임으로 구분하였다(Dunk & Callaghan, 2010). 요추각 평균이 비슷하더라도 변화의 경과는 다를 수 있으므로, 평균값과 시간에 따른 각도 변화를 서로 다른 정보로 해석해야 한다.
+자세 전환의 시간적 변화는 관찰 대상에 따라 달랐다. 컴퓨터 작업 중 자세 전환 빈도가 증가한 결과는 앉은 자세에서 요통이 유발되는 집단에서 나타났고, 무증상 대조군에는 같은 시간 효과가 보고되지 않았다(Dunk & Callaghan, 2010). 따라서 이 결과는 요추 움직임의 시간적 형태를 구분할 근거이지만, 건강한 성인이 30분간 작업할 때에도 자세 전환이 증가한다고 예측하는 근거는 아니다. 등받이 없는 의자에서 작업한 연구에서는 체간 굴곡각이 시간에 따라 증가하였으나(Jia & Nussbaum, 2018), 체간 굴곡각 역시 요추각 자체와 동일하지 않다.
+
+2) 목·체간 근전도 반응
+EMG의 진폭은 근육에서 기록한 신호의 크기를, 주파수 지표는 신호의 주파수 분포를 나타낸다. 화면 높이에 따른 판상근 활성 변화는 머리 굴곡의 변화와 함께 보고되었지만(Guo et al., 2024), 체간 근육에 대해서는 자세와 관찰시간에 따른 반응을 구분해야 한다. 구부정한 자세에서 내복사근·복횡근의 중앙주파수(MDF)가 감소한 반면 다른 앉은 자세 조건에서는 같은 변화가 나타나지 않았다(Waongenngarm et al., 2015b). 일정 간격으로 평가한 컴퓨터 작업 연구에서는 근전도 진폭과 주파수 지표에 유의한 시간 변화가 나타나지 않았지만 불편감은 증가하였다(Baker et al., 2018).
+
+3. 연속 측정 자료의 해석
+1) 척추 각도의 연속 측정
+IMU를 이용하면 서로 다른 위치에 부착한 센서의 시상면 상대각으로 두 위치 사이의 자세 변화를 연속적으로 나타낼 수 있다. 제12흉추와 제2천추의 센서 상대각으로 요추 자세를 산출한 선행연구는 평균 요추각과 시작 자세에서 벗어난 정도를 서로 다른 지표로 제시하였다(Kim et al., 2024). 평균은 관찰 구간의 전반적 수준을, 기준각 대비 변화량은 시작 자세에 비해 각도가 이동한 방향과 크기를 나타낸다. 센서 상대각은 해당 분절의 지표이므로 골반이나 몸통 전체의 기울기와 동일하게 해석하지 않는다.
+
+2) 요약값과 전체 시간 파형
+연속 수집한 자료를 어떻게 요약하는지에 따라 답할 수 있는 질문이 달라진다. 근전도를 첫 구간과 마지막 구간 또는 일정 간격의 블록으로 비교한 연구와(Jung et al., 2021; Waongenngarm et al., 2015b; Baker et al., 2018), 30분 자료의 주파수 변화 기울기를 산출한 연구가 있다(Areeudomwong et al., 2012). 화면 높이와 키보드 배치를 함께 조정한 연구에서도 작업의 처음과 마지막 구간을 비교하였다(Yadegaripour et al., 2021). 구간 평균과 변화 기울기는 작업 전반의 차이나 방향을 설명하지만, 조건 간 차이가 나타나는 특정 시간대와 그 지속 구간을 그대로 보여주지는 않는다.
+전체 시간 파형을 비교하면 사전에 정한 시점만이 아니라 작업 구간 전체에서 조건 간 차이가 나타나는 위치를 검정할 수 있다. SPM은 연속 자료에 대한 통계 검정으로 조건 간 차이가 나타난 구간을 확인하는 방법이다(Robinson et al., 2015). 이 분석은 각 시점의 조건 간 차이를 평가하는 것이며, 시간의 경과 자체가 차이를 발생시켰다는 인과관계나 자세 변화가 근전도 변화를 일으켰다는 기전을 검증하지 않는다. 요추각의 평균 변화량과 시간 파형을 함께 제시하면 작업 구간 전체의 평균적 변화와 조건 간 차이가 나타난 구간을 구분하여 보고할 수 있다.
+
+III. 연구방법
+1. 연구대상
+본 연구의 대상자는 일상적으로 컴퓨터 작업을 수행하는 건강한 성인을 대상으로 모집할 것이다. 표본크기는 G*Power 3.1.9.7(Faul, Erdfelder, Lang, & Buchner, 2007)을 이용하여 산출한다. 반복측정 분산분석(집단 내 요인)을 기준으로 유의수준 .05, 검정력 .80, 측정 횟수 3회, 반복측정 간 상관 0.7을 적용하였고 효과크기는 f=0.30으로 설정하였다. 이에 따른 최소 표본은 13명으로 나타났으며, 중도 탈락과 신호 제외에 따른 탈락률을 고려하여 총 18명을 모집할 것이다.
+구체적인 선정 기준은 다음과 같다:
+(1) 만 19세 이상 39세 이하의 성인.
+(2) 데스크톱 또는 노트북 컴퓨터를 하루 4시간 이상 사용하는 자.
+(3) 교정시력을 포함하여 화면의 글자를 읽는 데 어려움이 없는 자.
+제외 기준은 최근 12개월 이내의 만성 또는 재발성 목·허리 통증이 있는 자, 최근 통증 관련 진료·치료·약물 복용 이력이 있는 자, 척추 수술력이 있는 자, 경추·요추부 또는 하지 근골격계 질환이나 척추측만증이 있는 자, 그리고 누진다초점 또는 이중초점 안경을 착용하는 자로 설정할 것이다. 모든 대상자에게 각 방문 전 24시간 동안 고강도 신체활동을 제한하도록 안내할 것이다(Zarnegar et al., 2026).
+연구 대상자의 동의를 얻기 위해 연구 내용이 기재된 설명서를 제시하고 충분히 설명할 것이며, 모든 대상자는 서면 동의서를 작성한 뒤 연구에 참여할 것이다. 본 연구의 모든 방법과 절차는 부산대학교 기관생명윤리위원회의 심의를 거쳐 승인을 받은 뒤 진행할 것이다.
+
+2. 연구절차 및 프로토콜
+
+Paper plan & References collection
+⇩
+Participant Recruitment and Screening
+Adults without current or recent neck or low back pain
+⇩
+Study Participants (n = 18)
+Single group, within-subject repeated-measures design
+⇩
+Pre-Experimental Assessment & Equipment Setup Log
+Informed consent, demographic and computer-use questionnaireanthropometric measurements, eligibility screening
+Record optimal chair height
+Record monitor height at assigned gaze angles (0°/15°/40°) aligned to screen center
+⇩
+Sensor Placement and System Preparation
+IMU sensors at the head, C7, T12 and S2
+Surface EMG electrodes on the left splenius, upper trapezius
+lumbar erector spinae, multifidus and IO/TrA
+
+30-Min Sitting Task
+ Standardized upright sitting posture at reference measurements
+Sitting on a backless chair with a standardized keyboard and mouse computer task
+Continuous synchronized collection of IMU and EMG signals
+⇩
+Post-Experimental Assessment
+Participant debriefing and reconfirmation of data use
+⇩
+Data Processing
+⇩
+Statistical Analysis
+SPM one-way repeated-measures ANOVA on time waveforms
+One-way repeated-measures ANOVA
+⇩
+Writing paper
+Figure . Procedures of this study
+
+1) 준비단계
+첫 방문 전 온라인 설문으로 일반적 특성과 일일 컴퓨터 사용시간을 조사하여 선정기준과 제외기준의 충족 여부를 확인할 것이다. 첫 방문에서는 실험 절차를 상세히 설명하고 서면 동의를 받은 뒤 신장과 체중을 측정할 것이다. 피험자가 자세를 측정한다는 사실을 인식하면 자세 행동이 달라질 수 있기 때문에(Claus et al., 2016), 연구 목적은 사전에 알리지 않고 마지막 방문이 끝난 뒤에 설명할 것이다.
+높은 화면(시선각 0°), 권장 화면(시선각 15°) 및 낮은 화면(시선각 40°)의 세 조건은 서로 다른 날 같은 시간대에 1회씩 측정하며, 조건 순서는 6가지 순서로 균형 배치할 것이다. 첫 방문에서는 고관절과 슬관절이 90°가 되는 피험자별 의자 높이를 정하여 기록하고, 이 의자에 곧게 앉은 기준 자세에서 책상으로부터 눈까지의 높이를 측정할 것이다. 모니터 높이는 측정한 눈높이와 시거리를 이용하여 화면 중심이 각 조건의 시선각에 놓이도록 조건별로 산출하여 기록할 것이다. 이후 모든 방문에서는 기록한 의자 높이와 해당 조건의 모니터 높이를 같게 적용할 것이다.
+
+2) 측정 준비
+IMU는 부착 전에 센서를 나란히 놓고 초기화하여 센서 간 각도차가 0에 가까운지 확인한 뒤, 머리와 제7경추(C7), 제12흉추(T12) 및 제2천추(S2) 극돌기 위 피부에 부착할 것이다(Kim et al., 2024). EMG 전극은 좌측 판상근(splenius capitis), 상부승모근(upper trapezius), 요추기립근(lumbar erector spinae), 다열근(lumbar multifidus) 및 내복사근/복횡근(internal oblique/transversus abdominis)에 근섬유 방향과 평행하게 부착할 것이다.
+의자 및 모니터는 첫 방문에서 산출한 해당 조건의 높이로 설정하며, 눈과 화면 중심 사이의 거리, 화면 크기와 기울기, 책상과 키보드의 높이는 세 조건에서 같게 유지할 것이다. 피험자에게 앉은 자세에 대해 교육한 뒤, 검사자는 표준화된 구두 지시로 곧게 앉아 정면을 수평으로 바라보는 기준 자세를 취하게 할 것이다. 자세가 안정되면 곧은 자세를 유지한 구간의 마지막 10초 평균으로 목 각도와 요추각의 기준각을 산출하고, 같은 자세에서 근전도 정규화를 위한 기준 신호를 30초간 기록할 것이다.
+
+3) 30분 앉은 자세 측정
+피험자는 등받이 없는 의자에서 30분간 앉은 자세를 유지하며 키보드와 마우스를 함께 사용하는 표준화된 컴퓨터 과제를 수행할 것이다(Kim et al., 2024). 세션이 시작되면 검사자는 자세를 교정하거나 자세에 관한 언어적·시각적 피드백을 제공하지 않을 것이다. 피험자는 큰 범위의 움직임과 대화를 피하되 불편감을 줄이기 위한 자발적인 자세 변화는 할 수 있으며, 세션 중 의자에서 일어나는 것은 허용하지 않을 것이다. IMU와 EMG신호는 30분 세션 전체에서 동시에 수집할 것이다. 세션을 마치면 장비를 제거하고, 세 번째 방문을 마친 뒤 화면 높이에 따른 목과 허리의 자세 및 근활성을 비교한다는 연구 목적을 설명하고 실험을 종료할 것이다.
+
+3. 
+Figure .  Noraxon Ultium System (Noraxon, USA)
+연구장비
+IMU와 EMG는 Noraxon Ultium 무선 시스템(Noraxon, USA)의 센서로 측정한다(Figure 3). 이 시스템은 하나의 소프트웨어에서 두 신호를 동시에 수집하여 공통 시간축을 부여하므로 별도의 동기화 장비를 사용하지 않는다.
+
+
+4. 데이터수집 및 전처리
+
+Figure . Locations of IMU(square markers) sensorsand EMG(circle markers) electrodes 
+IMU는 부착 전에 센서를 나란히 놓고 초기화하여 센서 간 각도차가 0에 가까운지 확인한 뒤, 머리 후두부(Head)와 제7경추(C7), 제12흉추(T12) 및 제2천추(S2) 극돌기 위 피부에 부착할 것이다(Figure 4)(Kim et al., 2024). 각 센서의 시상면 방향각은 100 Hz의 샘플링레이트로 수집하며, 머리와 C7 센서의 상대각으로 목 각도를, T12와 S2 센서의 상대각으로 요추각을 산출할 것이다. 수집한 신호에는 4 Hz 차단주파수의 4차 Butterworth 저역통과필터를 적용할 것이다(Jia & Nussbaum, 2018).
+EMG 전극은 피부를 정리한 뒤 좌측 판상근(splenius capitis), 상부승모근(upper trapezius), 요추기립근(lumbar erector spinae), 다열근(lumbar multifidus) 및 내복사근/복횡근(internal oblique/transversus abdominis: IO/TrA)에 근섬유 방향과 평행하게 부착할 것이다(Waongenngarm et al., 2015b). 내복사근과 복횡근은 서로 다른 층에 위치하지만 표면근전도로는 두 근육의 신호를 분리하기 어렵고 신호 중첩(cross-talk)이 발생할 수 있으므로, 두 근육을 하나의 복합체로 측정하고 분석할 것이다. EMG 원신호는 1,000 Hz의 샘플링레이트로 수집하고 20–450 Hz 대역의 4차 Butterworth 대역통과필터를 적용할 것이다.
+
+5. 자료분석
+1) 경추각과 요추각 변인 산출
+각 센서의 기울기 θ는 센서 장축이 몸 앞쪽 수평선과 이루는 시상면 각도로 산출한다(Figure 5). 시간별 IMU 기반 요추 절대각(lumbar lordotic angle: LLA) LLA_ang(t)는 T12 센서와 S2 센서의 장축이 이루는 안쪽 각으로, 두 센서 기울기의 차이(Kim et al., 2024)를 180°에서 뺀 값이며, 값이 클수록 굴곡(후만) 방향을 나타낸다. 개인별 기준각 LLA_ref는 작업 전에 곧은 자세를 유지한 구간의 마지막 10초 평균으로 산출한다. 요추각 LLA_ang(t)와 기준각 대비 시간별 요추각 변화량 ΔLLA(t)는 다음과 같이 계산한다.
+
+ΔLLA(t)의 양수는 기준각보다 굴곡(후만) 방향으로 이동한 것을, 음수는 전만 방향으로 이동한 것을 의미한다.
+시간별 IMU 기반 경추각(cervical angle: CA) CA_ang(t)는 머리 센서와 C7 센서의 장축이 이루는 안쪽 각으로, 두 센서 기울기의 차이를 180°에서 뺀 값이며, 요추각과 같이 값이 클수록 굴곡 방향을 나타낸다. 개인별 기준각 CA_ref는 요추각과 같은 구간에서 산출하며, 경추각 CA_ang(t)와 기준각 대비 시간별 경추각 변화량 ΔCA(t)는 다음과 같이 계산한다.
+
+
+Figure . IMU sensor placement and calculation of the CA(cervical angle) and LLA(lumbar lordotic angle) in the sagittal plane 
+ΔCA(t)의 양수는 기준각보다 굴곡 방향으로 이동한 것을, 음수는 신전 방향으로 이동한 것을 의미한다. ΔLLA(t)와 ΔCA(t)는 10초 간격으로 평균하여 30분간 총 180개의 시간 파형 자료를 산출하며, 작업 시간 동안의 ΔLLA(t) 평균을 요추각의 평균 변화량으로 산출한다. 
+
+2) 근전도 변인 산출
+근전도 진폭은 필터를 적용한 신호를 0.5초 단위의 겹치지 않는 구간으로 나누어 제곱평균제곱근(root mean square: RMS)으로 산출하고, 작업 세션과 분리하여 기준 자세에서 기록한 기준 구간의 값에 대한 백분율로 정규화하여 시간별 정규화 근전도 진폭 RMS_normalized(t)를 구한다(Yadegaripour et al., 2021). 정규화 기준값은 방문마다 작업 전에 기준 자세에서 기록한 30초 RMS의 평균으로 정하며, 10초 간격으로 평균한 RMS_normalized(t)로 30분간 총 180개의 시간 파형 자료를 산출한다.
+피로 관련 주파수 지표로는 중앙주파수(median frequency: MDF)를 산출한다. 필터를 적용한 신호를 1초 단위의 분석창으로 나누고, 각 분석창에 고속푸리에변환(fast Fourier transform: FFT)을 적용하여 얻은 파워스펙트럼에서 전체 면적을 절반으로 나누는 주파수를 MDF로 정의한다. 기준 자세 구간에 포함된 분석창의 MDF 평균을 방문별 기준값 MDF_ref로 정의하고, 각 시점의 MDF를 기준값 대비 변화율로 정규화하여 시간별 중앙주파수 MDF(t)를 산출한다(Areeudomwong et al., 2012).
+
+MDF(t) = [MDF_raw(t) − MDF_ref] / MDF_ref × 100
+음수는 기준값보다 중앙주파수가 감소하였음을 의미하며, MDF(t)도 10초 간격으로 평균하여 30분간 총 180개의 시간 파형 자료를 산출한다.
+
+6. 통계처리
+본 연구에서 측정한 모든 자료는 Python(V.3.12.10)을 이용하여 처리하고 분석할 것이다. 시간 파형의 SPM 분석에는 Python의 라이브러리인 spm1d(V.0.4.54)를, 요추각의 평균 변화량 분석에는 Python의 라이브러리인 pingouin(V.0.7.0)을 사용할 것이다.
+
+Figure . Procedure for calculating RMS amplitude and MDF 
+from bandpass-filtered EMG signals.
+세 조건 간 차이는 SPM을 이용한 일원 반복측정 분산분석으로(Pataky, 2012), 요추각의 평균 비교에 대해서는 일원 반복측정 분산분석으로 비교하고, 사후검증은 Bonferroni 방법으로 실시할 것이다. 각 분석의 유의수준은 α=.05로 설정할 것이다.
+IV. 기대되는 효과
+본 연구는 모니터 높이에 따른 목과 요추의 자세 및 근활성을 특정 시점의 각도나 구간 대표값이 아닌 30분 작업 전체의 시간 파형으로 비교한다는 점에서 기존 연구의 분석 범위를 확장한다. 특히 SPM으로 조건 간 차이가 나타나는 시점과 지속 구간을 제시함으로써, 화면 높이에 따른 차이가 작업 초기부터 나타나는지 작업 시간이 지나면서 나타나는지를 구분하여 기술할 수 있다.
+또한 본 연구는 모니터 높이에 관한 지침과 선행연구가 주로 다룬 목의 자세와 근활성뿐 아니라, 요추각과 체간 근육의 반응을 같은 시간축에서 함께 측정한다는 점에서 의의가 있다. 지침이 제시한 각도 범위에 포함되는 15°와 그보다 높은 0° 및 낮은 40°의 화면에서 목과 요추의 자세 조정 양상을 비교함으로써, 시선과 머리·목을 기준으로 제시된 모니터 높이 범위를 허리의 측면에서 검토하는 기초자료를 제공할 수 있다. 특히 지침이 근골격계 부담을 경고하지만 실험 근거는 제한적인 높은 화면에서 목과 요추의 반응을 측정하여, 이 조건에 관한 근거를 보완할 수 있다.
+나아가 IMU와 EMG를 30분 동안 동시에 수집하는 본 연구의 측정체계는 향후 웨어러블 센서를 활용하여 실제 사무환경에서 모니터 높이와 장시간 앉은 자세를 평가하는 방법론적 기반으로 활용될 수 있다.
+참고문헌
+고용노동부. (2020). 영상표시단말기(VDT) 취급근로자 작업관리지침 (고용노동부고시 제2020-17호).
+Areeudomwong, P., Puntumetakul, R., Kaber, D. B., Wanpen, S., Leelayuwat, N., & Chatchawan, U. (2012). Effects of handicraft sitting postures on lower trunk muscle fatigue. Ergonomics, 55(6), 693-703.
+Alshehri, M. A., Riddick, R., Besomi, M., van den Hoorn, W., Klyne, D. M., & Hodges, P. W. (2025). Exploring lumbar spine posture and movement in sitting: A comparison between laboratory and real-world measures. Journal of Clinical Medicine, 14(21), 7518.
+Baker, R., Coenen, P., Howie, E., Williamson, A., & Straker, L. (2018). The short term musculoskeletal and cognitive effects of prolonged sitting during office computer work. International Journal of Environmental Research and Public Health, 15(8), 1678.
+Burgess-Limerick, R., Plooy, A., & Ankrum, D. R. (1998). The effect of imposed and self-selected computer monitor height on posture and gaze angle. Clinical Biomechanics, 13(8), 584-592.
+Canadian Centre for Occupational Health and Safety. (2022). Office ergonomics: Positioning the monitor.
+Caneiro, J. P., O'Sullivan, P., Burnett, A., Barach, A., O'Neil, D., Tveit, O., & Olafsdottir, K. (2010). The influence of different sitting postures on head/neck posture and muscle activity. Manual Therapy, 15(1), 54-60.
+Claus, A. P., Hides, J. A., Moseley, G. L., & Hodges, P. W. (2016). Thoracic and lumbar posture behaviour in sitting tasks and standing: Progressing the biomechanics from observations to measurements. Applied Ergonomics, 53, 161-168.
+Dunk, N. M., & Callaghan, J. P. (2010). Lumbar spine movement patterns during prolonged sitting differentiate low back pain developers from matched asymptomatic controls. Work, 35(1), 3-14.
+Edmondston, S. J., Sharp, M., Symes, A., Alhabib, N., & Allison, G. T. (2011). Changes in mechanical load and extensor muscle activity in the cervico-thoracic spine induced by sitting posture modification. Ergonomics, 54(2), 179-186.
+Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2), 175-191.
+Guo, Z., Chen, Z., Pai, J., Fang, B., Liang, W., Su, G., & Zheng, F. (2024). Effects of laptop screen height on neck and shoulder muscle fatigue and spine loading for office workers. Work, 79(4), 1925-1937.
+Jia, B., & Nussbaum, M. A. (2018). Influences of continuous sitting and psychosocial stress on low back kinematics, kinetics, discomfort, and localized muscle fatigue during unsupported sitting activities. Ergonomics, 61(12), 1671-1684.
+Jung, K.-S., Jung, J.-H., In, T.-S., & Cho, H.-Y. (2021). Effects of prolonged sitting with slumped posture on trunk muscular fatigue in adolescents with and without chronic lower back pain. Medicina, 57(1), 3.
+Kim, J. C., Kim, J.-G., Kim, B. S., Kim, C. K., Choi, M., Lee, J., & Chung, S. G. (2024). Assessing the preservation of lumbar lordotic curvature in everyday sitting conditions assessed with an inertial measurement system. Journal of Clinical Medicine, 13(9), 2728.
+Occupational Safety and Health Administration. (n.d.). Computer workstations eTool: Monitors.
+Paksaichol, A., Lawsirirat, C., & Janwantanakul, P. (2015). Contribution of biopsychosocial risk factors to nonspecific neck pain in office workers: A path analysis model. Journal of Occupational Health, 57(2), 100-109.
+Papi, E., Bull, A. M. J., & McGregor, A. H. (2020). Alteration of movement patterns in low back pain assessed by statistical parametric mapping. Journal of Biomechanics, 100, 109597.
+Pataky, T. C. (2012). One-dimensional statistical parametric mapping in Python. Computer Methods in Biomechanics and Biomedical Engineering, 15(3), 295-301.
+Psihogios, J. P., Sommerich, C. M., Mirka, G. A., & Moon, S. D. (2001). A field evaluation of monitor placement effects in VDT users. Applied Ergonomics, 32(4), 313-325.
+Pynt, J., Higgs, J., & Mackey, M. (2001). Seeking the optimal posture of the seated lumbar spine. Physiotherapy Theory and Practice, 17(1), 5-21.
+Robinson, M. A., Vanrenterghem, J., & Pataky, T. C. (2015). Statistical parametric mapping (SPM) for alpha-based statistical analyses of multi-muscle EMG time-series. Journal of Electromyography and Kinesiology, 25(1), 14-19.
+Seghers, J., Jochem, A., & Spaepen, A. (2003). Posture, muscle activity and muscle fatigue in prolonged VDT work at different screen height settings. Ergonomics, 46(7), 714-730.
+Turville, K. L., Psihogios, J. P., Ulmer, T. R., & Mirka, G. A. (1998). The effects of video display terminal height on the operator: A comparison of the 15 degree and 40 degree recommendations. Applied Ergonomics, 29(4), 239-246.
+Villanueva, M. B., Sotoyama, M., Jonai, H., Takeuchi, Y., & Saito, S. (1996). Adjustments of posture and viewing parameters of the eye to changes in the screen height of the visual display terminal. Ergonomics, 39(7), 933-945.
+Villanueva, M. B. G., Jonai, H., Sotoyama, M., Hisanaga, N., Takeuchi, Y., & Saito, S. (1997). Sitting posture and neck and shoulder muscle activities at different screen height settings of the visual display terminal. Industrial Health, 35(3), 330-336.
+Waongenngarm, P., Rajaratnam, B. S., & Janwantanakul, P. (2015). Internal oblique and transversus abdominis muscle fatigue induced by slumped sitting posture after 1 hour of sitting in office workers. Safety and Health at Work, 7(1), 49-54.
+Wong, A. Y. L., Chan, T. P. M., Chau, A. W. M., Cheung, H. T., Kwan, K. C. K., Lam, A. K. H., Wong, P. Y. C., & De Carvalho, D. (2018). Do different sitting postures affect spinal biomechanics of asymptomatic individuals? Gait & Posture, 67, 230-235.
+Yadegaripour, M., Hadadnezhad, M., Abbasi, A., Eftekhari, F., & Samani, A. (2021). The effect of adjusting screen height and keyboard placement on neck and back discomfort, posture, and muscle activities during laptop work. International Journal of Human-Computer Interaction, 37(5), 459-469.
+Zarnegar, R., Minoonejad, H., Karimizadeh Ardakani, M., & Ebrahimi, E. (2026). The effect of prolonged slump sitting on postural sway in female athletes and non-athletes. BMC Sports Science, Medicine and Rehabilitation, 18, 289.
